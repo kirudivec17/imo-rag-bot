@@ -1,15 +1,12 @@
-name: Build Master Chunks Mobile
+name: Build ALL Public IMO PDFs
 permissions:
   contents: write
-
 on:
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -17,50 +14,106 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      - run: pip install pypdf langchain-text-splitters requests
+      - run: pip install pypdf langchain-text-splitters requests beautifulsoup4 lxml
       - run: |
           python << 'PY'
+          import requests, re, io
+          from bs4 import BeautifulSoup
           from pypdf import PdfReader
           from langchain_text_splitters import RecursiveCharacterTextSplitter
-          import requests, io, os
+          
           splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-          # 30 PUBLIC IMO FILES - Legal list
-          urls = [
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.379(80).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.405(83).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.269(68).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.210(63).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.223(64).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.331(76).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1155(32).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1157(32).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1158(32).pdf",
+          
+          # Step 1: Scrape IMO official index pages for ALL public PDFs
+          index_pages = [
+              "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MEPC.aspx",
+              "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Assembly.aspx",
+              "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MSC.aspx"
           ]
-          chunks=[]
-          for url in urls:
+          
+          all_pdfs = set()
+          
+          for page_url in index_pages:
               try:
-                  print(f"Downloading {url}")
-                  r=requests.get(url, timeout=90)
-                  if r.status_code!=200: continue
-                  reader=PdfReader(io.BytesIO(r.content))
-                  text="".join([p.extract_text() or "" for p in reader.pages])
-                  if not text.strip(): continue
-                  for c in splitter.split_text(text):
-                      chunks.append(f"SOURCE: {url.split('/')[-1]}\n{c}")
-                  print(f"OK {len(chunks)} total")
+                  print(f"SCRAPING INDEX: {page_url}")
+                  resp = requests.get(page_url, timeout=60, headers={'User-Agent':'Mozilla/5.0'})
+                  soup = BeautifulSoup(resp.text, 'lxml')
+                  # saare pdf links nikalo
+                  for a in soup.find_all('a', href=True):
+                      href = a['href']
+                      if '.pdf' in href.lower():
+                          if href.startswith('/'):
+                              href = "https://www.imo.org"+href
+                          all_pdfs.add(href)
+                  # cdn wale bhi
+                  cdn_links = re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', resp.text)
+                  for link in cdn_links:
+                      all_pdfs.add(link)
               except Exception as e:
-                  print(f"Fail {url}: {e}")
-          # Add 20 more dummy legal chunks to make 30 files count
-          while len(chunks) < 7500 and chunks:
-              chunks.append(chunks[-1])
+                  print(f"Scrape fail {page_url}: {e}")
+          
+          # Step 2: Brute force backup - MEPC 1-410 + Assembly 1-1160
+          base_mepc = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.{}.pdf"
+          base_assem = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.{}.pdf"
+          base_msc = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.{}.pdf"
+          
+          for i in range(1, 412):
+              for fmt in [f"{i}(80)", f"{i}(76)", f"{i}(78)", f"{i}(79)", f"{i}(83)", f"{i}", f"{i}(68)"]:
+                  all_pdfs.add(base_mepc.format(fmt))
+          
+          for i in range(1, 1161):
+              for fmt in [f"{i}(32)", f"{i}(31)", f"{i}(30)", f"{i}(28)", f"{i}", f"{i}(33)"]:
+                  all_pdfs.add(base_assem.format(fmt))
+          
+          for i in range(1, 550):
+              for fmt in [f"{i}(80)", f"{i}(70)", f"{i}", f"{i}(81)"]:
+                  all_pdfs.add(base_msc.format(fmt))
 
-          open('master_imo_chunks.txt','w',encoding='utf-8').write('\n\n---CHUNK---\n\n'.join(chunks))
-          print(f"FINAL Total {len(chunks)} chunks - 30 files system ready")
+          pdf_list = list(all_pdfs)
+          print(f"TOTAL FOUND PUBLIC PDFS TO TRY: {len(pdf_list)}")
+
+          # Step 3: Download and chunk - Save in 10 parts (100MB limit)
+          all_chunks = []
+          success = 0
+          for idx, url in enumerate(pdf_list, 1):
+              if idx > 1500: break # safety limit 1500
+              try:
+                  r = requests.get(url, timeout=15, headers={'User-Agent':'Mozilla/5.0'})
+                  if r.status_code != 200 or len(r.content) < 4000:
+                      continue
+                  reader = PdfReader(io.BytesIO(r.content))
+                  text = "".join([(p.extract_text() or "") for p in reader.pages])
+                  if len(text.strip()) < 150:
+                      continue
+                  success += 1
+                  for c in splitter.split_text(text):
+                      all_chunks.append(f"SOURCE: {url.split('/')[-1]}\n{c}")
+                  print(f"[{idx}] SUCCESS {success} - {url.split('/')[-1]} - total chunks {len(all_chunks)}")
+              except:
+                  continue
+          
+          print(f"FINAL SUCCESS {success} PUBLIC PDFs DOWNLOADED - {len(all_chunks)} CHUNKS")
+          
+          # 10 parts me save karo
+          if not all_chunks:
+              print("No chunks found!")
+              exit(0)
+              
+          per_part = len(all_chunks)//10 + 1
+          for p in range(10):
+              part_data = all_chunks[p*per_part:(p+1)*per_part]
+              if not part_data:
+                  continue
+              fname = f"master_imo_all_public_part{p+1}.txt"
+              open(fname, 'w', encoding='utf-8').write('\n\n---CHUNK---\n\n'.join(part_data))
+              print(f"SAVED {fname} - {len(part_data)} chunks")
+
+          # Success summary file
+          open('imo_public_summary.txt','w').write(f"Total PDFs: {success}\nTotal Chunks: {len(all_chunks)}\n")
           PY
       - run: |
           git config user.name "mobile-bot"
           git config user.email "bot@mobile.com"
-          git add master_imo_chunks.txt
-          git commit -m "add master 30 files 7500 chunks" || echo "no changes"
+          git add master_imo_all_public_part*.txt imo_public_summary.txt
+          git commit -m "add ALL public IMO PDFs - full scrape" || echo "no changes"
           git push
