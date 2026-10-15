@@ -1,0 +1,28 @@
+# Private Data - Ye kabhi GitHub pe nahi jayega
+data/
+*.pdf
+*.PDF
+
+# API Keys - Secret hai
+.env
+.env.local
+GEMINI_API_KEY
+google_api_key.txt
+
+# Python ka kachra
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+chroma_db/
+chroma.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
