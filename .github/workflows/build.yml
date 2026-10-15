@@ -1,0 +1,56 @@
+name: Build IMO Master Chunks - 30 Files
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'data/**'
+      - 'IMO-DATA/**'
+      - '*.pdf'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - run: pip install pypdf langchain-text-splitters
+
+      - name: Build master_imo_chunks.txt (30 files)
+        run: |
+          python - << 'PY'
+          import os
+          from pypdf import PdfReader
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+          splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+          folders = ["data", "IMO-DATA", "."]
+          all_chunks = []
+          count=0
+          for folder in folders:
+              if not os.path.exists(folder): continue
+              for file in os.listdir(folder):
+                  if file.lower().endswith(".pdf"):
+                      try:
+                          reader = PdfReader(os.path.join(folder, file))
+                          text = "".join([p.extract_text() or "" for p in reader.pages])
+                          chunks = splitter.split_text(text)
+                          for i, c in enumerate(chunks):
+                              all_chunks.append(f"[Source: {file} | Chunk {i}]\n{c}\n---\n")
+                          count+=1
+                          print(f"Done {file} -> {len(chunks)} chunks")
+                      except Exception as e:
+                          print(f"Error {file}: {e}")
+          with open("master_imo_chunks.txt","w",encoding="utf-8") as f:
+              f.writelines(all_chunks)
+          print(f"TOTAL FILES: {count} | TOTAL CHUNKS: {len(all_chunks)}")
+          PY
+
+      - name: Show stats
+        run: |
+          echo "Chunks built:"
+          wc -l master_imo_chunks.txt
+          ls -lh master_imo_chunks.txt
