@@ -1,0 +1,5096 @@
+SOURCE: MEPC.262(68).pdf
+MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
+(RESOLUTION MEPC.232(65), AS AMENDED BY 
+RESOLUTION MEPC.255(67))MEPC 68/21/Add.1 
+Annex 7, page 2 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MEPC 68-21-ADD.1 (E).doc 
+ANNEX 
+ 
+AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR  
+DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
+MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
+(RESOLUTION MEPC.232(65), AS AMENDED BY RESOLUTION MEPC.255(67)) 
+ 
+ 
+Appendix – Assessment procedures to maintain the manoeuvrability under adverse 
+conditions, applicable during phase 0 and phase 1 of the EEDI implementation 
+ 
+Table 1 in paragraph 2 is replaced as follows: 
+ 
+" 
+Table 1: Parameters a and b for determination of the minimum 
+power line values for the different ship types 
+Ship type a b 
+Bulk carrier which DWT is less than 145,000 0.0763 3374.3 
+Bulk carrier which DWT is 145,000 and over 0.0490 7329.0 
+Tanker 0.0652 5960.2 
+Combination Carrier see tanker above 
+         " 
+ 
+ 
+***
+
+---CHUNK---
+
+SOURCE: MEPC.262(68).pdf
+Bulk carrier which DWT is less than 145,000 0.0763 3374.3 
+Bulk carrier which DWT is 145,000 and over 0.0490 7329.0 
+Tanker 0.0652 5960.2 
+Combination Carrier see tanker above 
+         " 
+ 
+ 
+*** 
+ 
+RESOLUTION MEPC.262(68) 
+(adopted on 15 May 2015) 
+AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
+MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
+(RESOLUTION MEPC.232(65), AS AMENDED BY 
+RESOLUTION MEPC.255(67))RESOLUTION MEPC.262(68) 
+(adopted on 15 May 2015) 
+AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
+MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
+(RESOLUTION MEPC.232(65), AS AMENDED BY 
+RESOLUTION MEPC.255(67))
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY 
+31st session  
+Agenda item 10 
+ 
+A 31/Res.1141 
+6 January 2020 
+Original: ENGLISH 
+ 
+Resolution A.1141(31)  
+ 
+Adopted on 4 December 2019 
+(Agenda item 10) 
+ 
+ 2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER 
+INSTRUMENTS RELEVANT TO THE IMO INSTRUMENTS 
+IMPLEMENTATION CODE (III CODE) 
+ 
+ 
+THE ASSEMBLY,  
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guide lines regarding 
+maritime safety and the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO that, by resolution A.1070(28), it adopted  the IMO Instruments 
+Implementation Code (III Code),
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+maritime safety and the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO that, by resolution A.1070(28), it adopted  the IMO Instruments 
+Implementation Code (III Code),  
+ 
+RECALLING FURTHER resolution A.1121(30), by which it adopted the 2017 Non-exhaustive 
+list of obligations under instruments relevant to the IMO Instruments Implementation Code 
+(III Code) (hereafter referred to as the "Non-exhaustive list of obligations") for guidance on the 
+implementation and enforcement of IMO instruments, in particular concerning the identification 
+of auditable areas relevant to the IMO Member State Audit Scheme , following successive 
+revocation of resolutions A.1105(29) and A.1077(28), 
+ 
+RECOGNIZING the need for the annexes to the Non-exhaustive list of obligations to be further 
+revised to take account of the amendments to the IMO instruments relevant to the III Code 
+which have entered into force or become effective since the adoption of resolution A.1121(30),
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+revised to take account of the amendments to the IMO instruments relevant to the III Code 
+which have entered into force or become effective since the adoption of resolution A.1121(30), 
+ 
+RECOGNIZING ALSO that par ties to the relevant international conventions have, as part of 
+the ratification process, agreed to fully meet their responsibilities and to discharge their 
+obligations under the conventions and other instruments to which they are party, 
+ 
+REAFFIRMING that it is the primary responsibility of States to have in place an adequate and 
+effective system to exercise control over ships entitled to fly their flag and to ensure that they 
+comply with relevant international rules and regulations in respect of maritime safety, security 
+and protection of the marine environment, 
+ 
+REAFFIRMING ALSO that States, in their capacity as flag, port and coastal States, have other 
+obligations and responsibilities under applicable international law in respect of maritime safety,
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+REAFFIRMING ALSO that States, in their capacity as flag, port and coastal States, have other 
+obligations and responsibilities under applicable international law in respect of maritime safety, 
+security and protection of the marine environment, 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 2 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+NOTING that, while States may gain certain benefits by becoming party to instruments aimed 
+at promoting maritime safety, security and protection of the marine environment, these benefits 
+can be fully real ized only when all parties carry out their obligations as required by the 
+instruments concerned, 
+ 
+NOTING ALSO that the ultimate effectiveness of any instrument depends, inter alia, upon all 
+States: 
+ 
+(a) becoming party to all instru ments related to maritime  safety, security and
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+NOTING ALSO that the ultimate effectiveness of any instrument depends, inter alia, upon all 
+States: 
+ 
+(a) becoming party to all instru ments related to maritime  safety, security and 
+pollution prevention and control; 
+ 
+(b) implementing and enforcing such instruments fully and effectively; and 
+ 
+(c) reporting to the Organization as required, 
+ 
+NOTING FURTHER that, by resolutions A.1083(28), A.1084(28) and A.1085(28), it adopted 
+amendments to the International Convention on Load Lines, 1966, the International 
+Convention on Tonnage Measurement of Ships, 1969, and the Convention on the International 
+Regulations for Preventing Collisions at Sea, 1972, to make the use of the III Code mandatory 
+under these conventions, 
+ 
+NOTING that the Maritime Safety Committee, by resolutions MSC.366(93), MSC.373(93), 
+MSC.374(93) and MSC.375(93), adopted amendments to the International Convention for the
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+NOTING that the Maritime Safety Committee, by resolutions MSC.366(93), MSC.373(93), 
+MSC.374(93) and MSC.375(93), adopted amendments to the International Convention for the 
+Safety of Life at Sea, 1974, the International Convention on Standards of Training, Certification 
+and Watchkeeping for Seafarers, 1978 , the Seafarers ' Training, Certification and 
+Watchkeeping (STCW) Code, and the Protocol of 1988 relating to the International Convention 
+on Load Lines, 1966, respectively, to make the use of the III Code mandatory  under these 
+instruments, 
+ 
+NOTING ALSO that the Marine Envi ronment Protection Committee, by 
+resolutions MEPC.246(66) and MEPC.247(66), adopted amendments to  the International 
+Convention for the Prevent ion of Pollution from Ships, 1973, as modified by the Protocol of 
+1978 relating thereto, and the Protocol of 1997 to amend the International Convention for the 
+Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto,
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+1978 relating thereto, and the Protocol of 1997 to amend the International Convention for the 
+Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, 
+respectively, to make the use of the III Code mandatory under these instruments, 
+ 
+HAVING CONSIDERED the recommenda tions made by the Marine Environment Protection 
+Committee, at its seventy-fourth session, and the Maritime Safety Committee, at its 101st  
+session, 
+ 
+1 ADOPTS the 2019 Non-exhaustive list of obligations under instruments relevant to 
+the IMO Instruments Imple mentation Code (III Code ), as set out in the annex to the present 
+resolution; 
+ 
+2 URGES Governments of all States, in their capacity as flag, port and coastal States, 
+to make use of the list as much as possible in implementing IMO instruments on a national 
+basis; 
+ 
+3 REQUESTS the Maritime Safety Committee and the Marine Environment Protection 
+Committee to keep the list under review and to amend it as necessary;
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+basis; 
+ 
+3 REQUESTS the Maritime Safety Committee and the Marine Environment Protection 
+Committee to keep the list under review and to amend it as necessary; 
+ 
+4 REVOKES resolution A.1121(30). 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 3 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+Annex 
+ 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT  
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) 
+ 
+(This Non-exhaustive list of obligations takes into account the amendments to the IMO instruments relevant to the 
+III Code which have, or are expected to have, entered into force by or on 1 July 2020) 
+ 
+ 
+Table of contents 
+ 
+ 
+Annex 1: OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
+ 
+Annex 2: SPECIFIC FLAG STATE OBLIGATIONS 
+ 
+Annex 3: SPECIFIC COASTAL STATE OBLIGATIONS 
+ 
+Annex 4: SPECIFIC PORT STATE OBLIGATIONS
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Annex 1: OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
+ 
+Annex 2: SPECIFIC FLAG STATE OBLIGATIONS 
+ 
+Annex 3: SPECIFIC COASTAL STATE OBLIGATIONS 
+ 
+Annex 4: SPECIFIC PORT STATE OBLIGATIONS 
+ 
+Annex 5: INSTRUMENTS MADE MANDATORY UNDER IMO CONVENTIONS 
+ 
+Annex 6: SUMMARY OF AMENDMENTS TO MANDATORY INSTRUMENTS 
+REFLECTED IN THE NON-EXHAUSTIVE LIST OF OBLIGATIONS (ANNEXES 1 
+TO 4) 
+ 
+Annex 7: AMENDMENTS TO IMO INSTRUMENTS EXPECTED TO BE ACCEPTED 
+AND TO ENTER INTO FORCE BETWEEN 1 JANUARY 2020 
+AND 1 JULY 2020 
+ 
+ 
+ 
+ 
+  
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 4 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+Annex 1 
+ 
+OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
+ 
+ 
+The following table contains a non -exhaustive list of obligations, including those obligations 
+imposed when a right is exercised. 
+ 
+ 
+OBLIGATIONS OF CONTRACTING
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+The following table contains a non -exhaustive list of obligations, including those obligations 
+imposed when a right is exercised. 
+ 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+TONNAGE 1969  
+ 
+ 
+Article 1 
+ 
+General obligation under the Convention 
+ 
+ 
+Article 5(2) 
+ 
+Force majeure 
+ 
+ 
+Article 8 
+ 
+Issue of a certificate by another Government 
+ 
+ 
+Article 10 
+ 
+Cancellation of certificate 
+ 
+ 
+Article 11 Acceptance of certificates 
+ 
+ 
+Article 15 Communication of information 
+ 
+ 
+LL 1966 and LL PROT 
+19881     
+Article 1 
+ 
+General obligation under the Convention 
+ 
+ 
+ 
+ 
+ 
+General obligations 
+ 
+LL PROT 1988 only 
+(Article I) 
+ 
+Article 7(2) 
+ 
+Force majeure 
+ 
+ 
+ 
+Article 17 
+ 
+ 
+Issue or endorsement of certificates by another 
+Government 
+ 
+amended by  
+LL PROT 1988 
+ 
+Article 20 Acceptance of certificates 
+ 
+ 
+Article 25 
+ 
+Special rules drawn up by agreement  
+ 
+Article 26 Communication of information
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Government 
+ 
+amended by  
+LL PROT 1988 
+ 
+Article 20 Acceptance of certificates 
+ 
+ 
+Article 25 
+ 
+Special rules drawn up by agreement  
+ 
+Article 26 Communication of information 
+ 
+ 
+ 
+ 
+ 
+Communication of information LL PROT 1988 only 
+(Article III) 
+ 
+ 
+1 When the obligation does not derive from the International Convention on Load Lines, 1966, but solely from 
+the Protocol of 1988 relating thereto, this is indicated in the "Comments" column. 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 5 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+COLREG 1972 
+  
+Article I General obligations  
+ 
+STCW 1978   
+Article I 
+ 
+General obligations under the Convention 
+ 
+ 
+Article IV 
+ 
+Communication of information 
+ 
+ 
+Article XI(1)
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+COLREG 1972 
+  
+Article I General obligations  
+ 
+STCW 1978   
+Article I 
+ 
+General obligations under the Convention 
+ 
+ 
+Article IV 
+ 
+Communication of information 
+ 
+ 
+Article XI(1) 
+ 
+Promotion of technical cooperation 
+ 
+ 
+Reg. I/2.12 Issue of certificates of competency  
+Reg. I/2.14 Maintenance of a register or registers of all 
+certificates and endorsements 
+ 
+ 
+Regs. I/2.15 and 2.16 
+ 
+Availability of information on the status of certificates 
+of competency, endorsements and dispensations 
+(as of 1 January 2017, available in English through 
+electronic means) 
+ 
+ 
+Reg. I/3 
+ 
+Principles governing near -coastal voyages, 
+communication of information and incorporation of 
+limits in the endorsements 
+ 
+ 
+Reg. I/5 
+ 
+National provisions – impartial investigation, 
+enforcement measures including penalties or 
+disciplinary measures and cooperation 
+ 
+ 
+Reg. I/6.1 
+ 
+Training and assessment – administration, supervision 
+and monitoring 
+ 
+ 
+Reg. I/6.2
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+enforcement measures including penalties or 
+disciplinary measures and cooperation 
+ 
+ 
+Reg. I/6.1 
+ 
+Training and assessment – administration, supervision 
+and monitoring 
+ 
+ 
+Reg. I/6.2 
+ 
+Qualification of those responsible for training and 
+assessment 
+ 
+ 
+Reg. I/7 
+ 
+Communication of the information as referred to in 
+article IV of the STCW Convention and  A-I/7 of the 
+STCW Code 
+ 
+ 
+Regs. I/8.1 and 8.2 
+ 
+Quality standards system and periodical 
+independent evaluation 
+ 
+ 
+Reg. I/8.3 
+ 
+Communication of a report containing the results of 
+the evaluation required by regulation I/8.2 
+ 
+ 
+Regs. I/9.1 and 9.2 Medical standards, procedures for the issue of medical 
+certificates and recognition of medical practitioners  
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 6 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 6 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. I/9.6 
+ 
+Procedures governing the validity of a medical 
+certificate which expires in the course of a voyage 
+ 
+ 
+Regs. I/11.5 and 11.6 
+ 
+Comparison of standards of competence – 
+determination of need for appropriate refresher and 
+updating training or assessment and formulation or 
+promotion of the formulation of a structure of 
+refresher and updating courses 
+ 
+ 
+Reg. II/5.3  Comparison of standards of competence – 
+determination of the need to update qualifications for 
+able seamen to whom certificates are issued 
+before 1 January 2012 
+ 
+ 
+Reg. III/5.3  Comparison of standards of competence – 
+determination of the need to update qualifications for 
+ratings in engine department to whom certificates are
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+before 1 January 2012 
+ 
+ 
+Reg. III/5.3  Comparison of standards of competence – 
+determination of the need to update qualifications for 
+ratings in engine department to whom certificates are 
+issued before 1 January 2012 
+ 
+ 
+Reg. III/6.3 Comparison of standards of competence – 
+determination of the need to update qualifications for 
+electro-technical officers to whom certificates are 
+issued before 1 January 2012 
+ 
+ 
+Reg. III/7.3 Comparison of standards of competence – 
+determination of the need to update qualifications for 
+electro-technical ratings to whom certificates are 
+issued before 1 January 2012 
+ 
+ 
+Reg. VII/3.1 Principles governing the issue of alternative 
+certificates 
+ 
+SOLAS 1974   
+Article I 
+ 
+ 
+General obligations under the Convention 
+ 
+ 
+in SOLAS PROT 
+1978 and 
+SOLAS PROT 1988 
+ 
+Article III 
+ 
+Communication of information 
+ 
+ 
+in SOLAS PROT 
+1978 and 
+SOLAS PROT 1988 
+ 
+Article V(c) 
+ 
+Carriage of persons in emergencies – reporting  
+Article VII
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+SOLAS PROT 1988 
+ 
+Article III 
+ 
+Communication of information 
+ 
+ 
+in SOLAS PROT 
+1978 and 
+SOLAS PROT 1988 
+ 
+Article V(c) 
+ 
+Carriage of persons in emergencies – reporting  
+Article VII 
+ 
+Special rules drawn up by agreement 
+ 
+ 
+ 
+Article XI Denunciation 
+ 
+in SOLAS PROT 
+1988 (Article VII) 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 7 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. I/13 Issue or endorsement of certificates by another 
+Government 
+ 
+in SOLAS PROT 
+1988 
+Reg. I/17 
+ 
+Acceptance of certificates 
+ 
+also Reg. I/19(b) 
+Reg. I/21(b) 
+ 
+Casualties – reporting 
+ 
+ 
+Reg. IV/5 
+ 
+ 
+Provision of radiocommunication services and 
+communication of information on such provision 
+ 
+Reg. IV/5-1
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+also Reg. I/19(b) 
+Reg. I/21(b) 
+ 
+Casualties – reporting 
+ 
+ 
+Reg. IV/5 
+ 
+ 
+Provision of radiocommunication services and 
+communication of information on such provision 
+ 
+Reg. IV/5-1 
+ 
+ 
+Global maritime distress and safety system identities – 
+ensuring suitable arrangements 
+ 
+Reg. V/5 Meteorological services and warnings 
+ 
+ 
+Reg. V/6 
+ 
+Ice Patrol Service 
+ 
+ 
+Reg. V/10 
+ 
+Ships' routeing 
+ 
+ 
+Reg. V/11 
+ 
+Ship reporting systems 
+ 
+ 
+Reg. V/12 
+ 
+Vessel traffic services 
+ 
+ 
+Reg. V/13 Establishment and operation of aids to navigation 
+ 
+ 
+Reg. V/31.2 
+ 
+ 
+Danger messages – bring to the knowledge of those 
+concerned and communicate to other interested 
+Governments 
+ 
+Reg. V/33.1-1 
+ 
+Distress situations: obligations and procedures – 
+coordination and cooperation 
+ 
+Reg. VI/1.2 
+ 
+Reg. VI/2.4.2 
+ 
+Appropriate information on safe carriage of cargoes 
+ 
+Approval of certified method for weighing the gross 
+mass of cargo carried in a container 
+ 
+ 
+Reg. VII/2.4
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Reg. VI/1.2 
+ 
+Reg. VI/2.4.2 
+ 
+Appropriate information on safe carriage of cargoes 
+ 
+Approval of certified method for weighing the gross 
+mass of cargo carried in a container 
+ 
+ 
+Reg. VII/2.4 
+ 
+Issue of instructions on emergency response, etc. 
+ 
+ 
+Reg. VII/7-1 
+ 
+Issue of instructions on emergency response, etc. 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 8 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+MARPOL   
+Article 1 
+ 
+General obligations under the Convention 
+ 
+and MARPOL 
+PROT 1978 
+(Article I) 
+Articles 4(2) and 4(4) 
+ 
+Violation 
+ 
+ 
+Article 5(1) 
+ 
+ 
+Certificates and special rules on inspection of ships 
+– acceptance of certificates 
+ 
+ 
+Article 5(4) 
+ 
+ 
+Certificates and special rules on inspection of ships
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Violation 
+ 
+ 
+Article 5(1) 
+ 
+ 
+Certificates and special rules on inspection of ships 
+– acceptance of certificates 
+ 
+ 
+Article 5(4) 
+ 
+ 
+Certificates and special rules on inspection of ships 
+– no more favourable treatment 
+ 
+ 
+Article 6(1) 
+ 
+Detection of violations and enforcement of the 
+Convention – cooperation 
+ 
+ 
+Article 6(3) 
+ 
+Detection of violations and enforcement of the 
+Convention – furnishing evidence 
+ 
+ 
+Article 7 
+ 
+Undue delay to ships 
+ 
+ 
+Article 8 Reports on incidents involving harmful substances 
+ 
+ 
+Article 11 
+ 
+Communication of information 
+ 
+modified by 
+MARPOL 
+PROT 1978 
+(Article III) 
+Article 12(2) 
+ 
+Casualties to ships – information to IMO 
+ 
+ 
+Article 17 Promotion of technical cooperation 
+ 
+ 
+Annex I 
+ 
+ 
+ 
+ 
+Reg. 8 
+ 
+ 
+Issue or endorsement of a certificate by another 
+Government 
+ 
+ 
+Reg. 15.7 
+ 
+ 
+Control of discharge of oil – investigations 
+(machinery spaces) 
+ 
+ 
+Reg. 34.7 
+ 
+Control of discharge of oil – investigations 
+(cargo area)
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Government 
+ 
+ 
+Reg. 15.7 
+ 
+ 
+Control of discharge of oil – investigations 
+(machinery spaces) 
+ 
+ 
+Reg. 34.7 
+ 
+Control of discharge of oil – investigations 
+(cargo area) 
+ 
+ 
+Regs. 38.4 and 38.6  
+ 
+Consultation with IMO for circulation of information 
+regarding reception facilities by Parties participating 
+in regional arrangements 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 9 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Annex II 
+ 
+  
+Reg. 6.3 
+ 
+ 
+Categorization and listing of noxious liquid 
+substances and other substances – establish and 
+agree on provisional assessment and notify IMO 
+ 
+Regs. 9.3.1, 9.3.2, 9.3.3 
+and 9.3.4 
+ 
+Issue or endorsement of a certificate by another 
+Government 
+ 
+Reg. 13.4
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+agree on provisional assessment and notify IMO 
+ 
+Regs. 9.3.1, 9.3.2, 9.3.3 
+and 9.3.4 
+ 
+Issue or endorsement of a certificate by another 
+Government 
+ 
+Reg. 13.4 
+ 
+Control of discharges of residues – exemption for a 
+prewash 
+ 
+ 
+Regs. 18.3 and 18.5  
+ 
+Consultation with IMO for circulation of information 
+regarding reception facilities by Parties participating 
+in regional arrangements 
+ 
+ 
+Reg. 18.5 
+ 
+Reception facilities and cargo unloading terminal 
+arrangements – agreeing and establishing a date, 
+notifying IMO 
+ 
+Annex III 
+ 
+ 
+ 
+ 
+Reg. 1.3 Application – issue detailed requirements 
+ 
+ 
+Annex IV 
+ 
+ 
+ 
+ 
+Reg. 6 
+ 
+Issue or endorsement of a certificate by another 
+Government 
+ 
+ 
+Reg. 12.2 Consultation with IMO for circulation of information  
+regarding reception facilities by Parties participating 
+in regional arrangements 
+ 
+ 
+Annex V 
+ 
+  
+Reg. 8.3  Consultation with IMO for circulation of information 
+regarding reception facilities by Parties participating
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+in regional arrangements 
+ 
+ 
+Annex V 
+ 
+  
+Reg. 8.3  Consultation with IMO for circulation of information 
+regarding reception facilities by Parties participating 
+in regional arrangements 
+ 
+ 
+Annex VI   
+Reg. 7 
+ 
+Issue or endorsement of a certificate by another 
+Government 
+ 
+Addition related to 
+IECC by 
+MEPC.203(62) 
+Regs. 9.9.3 and 9.11.2 
+ 
+Transfer of flag – transmitting copies of the certificate 
+and the relevant survey report 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 10 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. 11.1  
+ 
+ 
+Detection of viol ations and enforcement – 
+cooperation 
+ 
+ 
+Reg. 11.2  
+ 
+Inspection report in case of detection of violations   
+Reg. 11.3  
+ 
+ 
+Detection of violations and enforcement –
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Detection of viol ations and enforcement – 
+cooperation 
+ 
+ 
+Reg. 11.2  
+ 
+Inspection report in case of detection of violations   
+Reg. 11.3  
+ 
+ 
+Detection of violations and enforcement – 
+information to flag State and master on violations 
+detected 
+ 
+ 
+Reg. 11.5 Transmission of report to requesting Party  
+Reg. 13.7.1 
+ 
+ 
+Reg. 17.1 
+ 
+Certification of an approved method and 
+communication to IMO 
+ 
+Adequate reception facilities 
+ 
+ 
+Reg. 17.2 Consultation with IMO for circulation of information 
+regarding reception facilities by Parties participating 
+in regional arrangement 
+ 
+ 
+Reg. 18.1 Availability of fuel oils and communication to IMO  
+Reg. 18.2.1 Ship not compliant with fuel oil standards  
+Reg. 18.2.3 Action taken, including not taking control measures  
+Reg. 18.2.5 Evidence of the non-availability of compliant fuel oil – 
+communication to IMO 
+ 
+Reg. 18.9 Authorities designated for register of local suppliers, 
+bunker delivery note and sample, fuel oil quality,
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+communication to IMO 
+ 
+Reg. 18.9 Authorities designated for register of local suppliers, 
+bunker delivery note and sample, fuel oil quality, 
+actions against fuel oil suppliers for non-compliance, 
+informing the Administratio n of any ship receiving 
+non-compliant fuel oil and communication to IMO of 
+non-compliant fuel oil suppliers as referred to in the 
+paragraph 
+ 
+ 
+ISM Code 
+ 
+  
+Para. 14.3 Extension of validity of Interim Safety Management 
+Certificate (Interim SMC) by another C ontracting 
+Government 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 11 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+1994 HSC Code  
+ 
+ 
+ 
+Para. 1.8.2 
+ 
+Issue of certificates by another Government 
+ 
+ 
+Para. 14.2.1.12 
+ 
+Definition of "sea area A1" 
+ 
+as may be defined
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+1994 HSC Code  
+ 
+ 
+ 
+Para. 1.8.2 
+ 
+Issue of certificates by another Government 
+ 
+ 
+Para. 14.2.1.12 
+ 
+Definition of "sea area A1" 
+ 
+as may be defined 
+ 
+Para. 14.2.1.13 
+ 
+Definition of "sea area A2" 
+ 
+as may be defined 
+ 
+2000 HSC Code 
+ 
+ 
+ 
+ 
+ 
+Para. 1.8.2 Issue of certificates by another Government 
+ 
+ 
+Para. 14.2.1.13 Definition of "sea area A1" 
+ 
+as may be defined 
+Para. 14.2.1.14 Definition of "sea area A2" 
+ 
+as may be defined 
+IMDG Code 
+ 
+  
+Section 1.3.1 Training of shore-side personnel – establishment of 
+the period of time for keeping records of training 
+ 
+ 
+Section 1.5.2 Radiation protection programme – role of competent 
+authority 
+ 
+ 
+Section 1.5.3 Management system – role of competent authority 
+ 
+ 
+Para. 2.0.0.1  
+ 
+Classification of dangerous goods where applicable – 
+role of competent authority  
+ 
+ 
+Chapter 3.3, SP356 Approval of metal hydride storage systems installed
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Para. 2.0.0.1  
+ 
+Classification of dangerous goods where applicable – 
+role of competent authority  
+ 
+ 
+Chapter 3.3, SP356 Approval of metal hydride storage systems installed 
+in vehicles, vessels or aircrafts or in completed 
+components or intended to be installed in vehicles, 
+vessels or aircrafts 
+ 
+ 
+Chapter 4.1 Approval of packaging as referred to in the chapter – 
+role of competent authority 
+ 
+ 
+Section 5.1.5 
+ 
+ 
+General provisions for class 7 – role of competent 
+authority 
+ 
+ 
+Section 5.4.1 Information required in addition to the dangerous 
+goods description – role of the competent authority 
+ 
+ 
+Chapter 5.5 
+ 
+Determining the period between fumigant application 
+and loading of fumigated cargo transport unit on 
+board the ship 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 12 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 12 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Chapter 6.2 
+ 
+ 
+Approval of pressure receptacles, aerosol 
+dispensers, small receptacl es containing gas  and 
+fuel cell cartridges containing liquefied flamma ble 
+gas – role of competent authority 
+ 
+ 
+Para. 6.2.2.1.1  
+ 
+Approval of cylinder service life test programme and the 
+results – role of competent authority  
+ 
+ 
+Para. 6.2.2.5  
+ 
+ 
+Approval of conformity assessment system; availability 
+of the evidence demonstrating compliance of 
+conformity assessment system to its counterpart in a 
+country of use; approval of inspection bodies; and 
+availability of a current list of approved inspection  
+bodies and  their identity marks and approved 
+manufacturers and their identity marks – role of
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+availability of a current list of approved inspection  
+bodies and  their identity marks and approved 
+manufacturers and their identity marks – role of 
+competent authority  
+ 
+ 
+Para. 6.2.2.6  
+ 
+Establishment of an approval system for periodic 
+inspection and testing of pressure receptacles; 
+availability of evidence demonstrating compliance with 
+this approval system to its counterpart in a country of 
+use; and availability of a current list of appro ved 
+periodic inspection and testing bodies and their identity 
+marks – role of competent authority  
+ 
+ 
+Section 6.2.3 The marking of s alvage pressure receptacles – 
+determination by the competent authority 
+ 
+ 
+Section 6.3.2 Quality assurance programme – role of competent 
+authority 
+ 
+ 
+Section 6.3.5 Procedures for performance and frequency of tests 
+– role of competent authority 
+ 
+ 
+Chapter 6.4 
+ 
+ 
+Approval of package design and materials for class 7 – 
+role of competent authority
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+– role of competent authority 
+ 
+ 
+Chapter 6.4 
+ 
+ 
+Approval of package design and materials for class 7 – 
+role of competent authority 
+ 
+ 
+Section 6.5.4 Testing, certification and inspection – role of 
+competent authority 
+ 
+ 
+Chapter 6.6 
+ 
+Provisions for the construction and testing of large 
+packaging – role of competent authority 
+ 
+ 
+Chapter 6.7 
+ 
+ 
+Provisions for the design, construction, inspection 
+and testing of portable tanks and multiple -element 
+gas containers – role of competent authority 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 13 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Chapter 6.8 
+ 
+ 
+Provisions for road tank vehicles – role of competent 
+authority 
+ 
+ 
+Para. 7.1.4.5 
+ 
+Stowage of goods of class 7 – role of competent
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Chapter 6.8 
+ 
+ 
+Provisions for road tank vehicles – role of competent 
+authority 
+ 
+ 
+Para. 7.1.4.5 
+ 
+Stowage of goods of class 7 – role of competent 
+authority 
+ 
+ 
+Chapter 7.9 Exemptions, approvals and certificates – notifying 
+IMO and recognition of approvals and certificates 
+ 
+ 
+IMSBC Code   
+Para. 1.7 Independence of a competent authority  
+Casualty Investigation 
+Code 
+ 
+  
+Para. 4.1 Detailed contact information of the marine safety 
+investigation authority/authorities to IMO 
+ 
+ 
+Paras. 5.1 and 5.2 Notification of a marine casualty  
+ 
+ 
+Paras. 7.1 and 7.2 Agreement to conduct a marine safety investigation 
+ 
+ 
+Para. 8.1 Powers provided to investigator(s) 
+ 
+ 
+Para. 9.2 Coordination for parallel investigations 
+ 
+ 
+Para. 10.1 Cooperation in investigating 
+ 
+ 
+ 
+Para. 11.1 Investigation not to be subject to external direction 
+ 
+ 
+ 
+Paras. 13.1,13.4  
+and 13.5 
+ 
+Draft marine safety investigation reports
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Para. 10.1 Cooperation in investigating 
+ 
+ 
+ 
+Para. 11.1 Investigation not to be subject to external direction 
+ 
+ 
+ 
+Paras. 13.1,13.4  
+and 13.5 
+ 
+Draft marine safety investigation reports  
+Paras. 14.1 and 14.2 Marine safety investigation reports – communication 
+to IMO 
+ 
+ 
+Para. 14.4 Marine safety investigation reports – available to 
+public and shipping industry 
+ 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 14 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+IBC Code   
+Para. 1.5.3 
+ 
+Maintenance of conditions after survey 
+ 
+ 
+Para. 1.5.5.1 
+ 
+ 
+Issue or endorsement of International Certificate of 
+Fitness by another Government 
+ 
+ 
+ 
+ 
+BCH Code 
+ 
+ 
+ 
+ 
+Para. 1.6.4.1 
+ 
+ 
+Issue or endorsement of certificate by another 
+Government
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Issue or endorsement of International Certificate of 
+Fitness by another Government 
+ 
+ 
+ 
+ 
+BCH Code 
+ 
+ 
+ 
+ 
+Para. 1.6.4.1 
+ 
+ 
+Issue or endorsement of certificate by another 
+Government 
+ 
+ 
+IGC Code   
+Para. 1.4.5 Issue or endorsement of certificate by another 
+Government 
+ 
+ 
+STCW Code, part A 
+ 
+ 
+ 
+ 
+Section A-I/6.1  
+ 
+Training and assessment of seafarers for 
+certification 
+ 
+Section A-I/6.3 
+ 
+Qualifications of instructors, supervisors and 
+assessors 
+ 
+ 
+Section A-I/6.7 
+ 
+Training and assessment within an institution 
+ 
+ 
+Section A-I/7.2 Communication of information – initial 
+communication (within one year of entry into force of 
+regulation I/7) 
+ 
+Sections A-I/7.3, 7.4 ,  7.5 
+and 7.6 
+Communication of information – subsequent reports 
+(within the periods as referred to in paragraphs 7.3, 
+7.4, 7.5 and 7.6) 
+ 
+ 
+Sections A-I/8.1 and 8.3 
+ 
+National objectives and quality standards 
+ 
+ 
+Section A-I/9.1 Medical standards – eyesight standards and
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+7.4, 7.5 and 7.6) 
+ 
+ 
+Sections A-I/8.1 and 8.3 
+ 
+National objectives and quality standards 
+ 
+ 
+Section A-I/9.1 Medical standards – eyesight standards and 
+physical and medical fitness 
+ 
+Section A-1/9.4 Provisions for recognizing medical practitioners and 
+maintenance of a register of recognized medical 
+practitioners 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 15 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Sections A-I/9.5 and 9.6 Guidance, processes and procedures for conducting 
+medical fitness examinations and issuing medical 
+certificates 
+ 
+Section A-I/12.1 
+ 
+General performance standards for simulators used 
+in training  
+ 
+ 
+Section A-I/12.2 General performance standards for simulators used 
+in assessment of competence
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Section A-I/12.1 
+ 
+General performance standards for simulators used 
+in training  
+ 
+ 
+Section A-I/12.2 General performance standards for simulators used 
+in assessment of competence 
+ 
+ 
+Section A-I/12.6 Simulator training objectives 
+ 
+ 
+Section A-I/12.9 Qualification of instructors and assessors  
+Section A-VIII/2.9 Watchkeeping at sea – directing the attention of 
+companies, masters, chief engineer officers and 
+watchkeeping personnel to observe the principles in 
+parts 4-1 and 4-2 
+ 
+III Code IMO Instruments Implementation Code   
+ Application of the provisions of the III Code under 
+related mandatory IMO Instruments 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 16 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+Annex 2 
+ 
+SPECIFIC FLAG STATE OBLIGATIONS
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 16 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+Annex 2 
+ 
+SPECIFIC FLAG STATE OBLIGATIONS 
+ 
+The following table contains a non-exhaustive list of obligations, including those obligat ions 
+imposed when a right is exercised. 
+ 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+TONNAGE 1969 
+ 
+ 
+ 
+ 
+Article 6 
+ 
+Determination of tonnages 
+ 
+ 
+Article 7(2) 
+ 
+Article 9 
+ 
+Issue of certificates 
+ 
+Form of certificate 
+ 
+Annex I, Reg. 1(3) 
+ 
+ 
+Novel types of craft – determination of 
+tonnage and communication to IMO on 
+method used 
+ 
+ 
+Annex I, Reg. 5(3)(b) 
+ 
+ 
+ 
+Change of net tonnage – alterations or 
+modifications deemed by the 
+Administration to be of a major character 
+ 
+ 
+Annex I, Reg. 7 Measurement and calculation 
+ 
+ 
+LL 1966 and 
+LL PROT 19882     
+ 
+ 
+Existing certificates 
+ 
+LL PROT 1988 only 
+(Article II-2) 
+ 
+Article 6(3) 
+ 
+Exemptions – reporting 
+ 
+ 
+ 
+Article 8(2)
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+LL 1966 and 
+LL PROT 19882     
+ 
+ 
+Existing certificates 
+ 
+LL PROT 1988 only 
+(Article II-2) 
+ 
+Article 6(3) 
+ 
+Exemptions – reporting 
+ 
+ 
+ 
+Article 8(2) 
+ 
+Equivalents – reporting 
+ 
+ 
+ 
+Article 9(2) 
+ 
+Approvals for experimental purposes – 
+reporting 
+ 
+ 
+ 
+ 
+Article 13 
+ 
+Surveys and marking 
+ 
+amended by LL PROT 
+1988 
+ 
+Article 14 
+ 
+Initial, renewal and annual survey amended by LL PROT 
+1988 
+Article 16(3) 
+ 
+Article 18 
+Issue of certificates 
+ 
+Form of certificates 
+ 
+ 
+ 
+2 When the obligation does not derive from the International Convention on Load Lines, 1966, but solely from 
+the Protocol of 1988 relating thereto, this is indicated in the "Comments" column. 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 17 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 17 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Article 19 Duration and validity of certificates amended by LL PROT 
+1988 
+Article 23 Casualties 
+ 
+ 
+ 
+Annex I, Reg. 1 
+ 
+Strength of hull  
+ 
+ 
+Strength and intact stability of ships 
+ 
+LL PROT 1988 only 
+(annex I, Reg. 1) 
+Annex I, Reg. 2 
+ 
+Application − assignment of freeboard 
+ 
+amended by LL PROT 
+1988 
+ 
+Annex I, Reg. 2-1 Authorization of recognized 
+organizations 
+LL PROT 88 only  
+Annex I, Reg. 8 
+ 
+Details of marking 
+ 
+ 
+ 
+Annex I, Reg. 10 
+ 
+Stability information – approval 
+ 
+amended by LL PROT 
+1988  
+ 
+Annex I, Reg. 12 
+ 
+Doors 
+ 
+amended by LL PROT 
+1988 
+ 
+Annex I, Reg. 14 Cargo and other hatchways 
+ 
+amended by LL PROT 
+1988 
+Annex I, Reg. 15 
+ 
+Hatchways closed by portable covers 
+and secured weathertight by tarpaulins 
+and battening devices 
+ 
+amended by LL PROT 
+1988
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+amended by LL PROT 
+1988 
+Annex I, Reg. 15 
+ 
+Hatchways closed by portable covers 
+and secured weathertight by tarpaulins 
+and battening devices 
+ 
+amended by LL PROT 
+1988 
+Annex I, Reg. 16(1) 
+ 
+ 
+Hatchway coamings – reduced heights 
+ 
+ 
+amended by LL PROT 
+1988 
+(annex I, Reg. 14-1(2)) 
+ 
+Annex I, Reg. 16(4) 
+ 
+ 
+Securing arrangements 
+ 
+ 
+amended by LL PROT 
+1988 
+(annex I, Reg. 16(6)) 
+ 
+ 
+ 
+ 
+Machinery space openings 
+ 
+ 
+LL PROT 1988 only 
+(annex I, Reg. 17(4)) 
+ 
+Annex I, Reg. 19 
+ 
+Ventilators 
+ 
+amended by LL PROT 
+1988 
+ 
+Annex I, Reg. 20 
+ 
+Air pipes 
+ 
+ 
+amended by LL PROT 
+1988 
+ 
+ Cargo ports and other similar openings – 
+applicable national standards 
+LL PROT 1988 only 
+(annex I, Reg. 21(5)) 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 18 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 18 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Annex I, Reg. 22 Scuppers, inlets and discharges 
+ 
+amended by LL PRO T 
+1988 
+Annex I, Reg. 25 
+ 
+Protection of the crew 
+ 
+amended by LL PROT 
+1988 
+ 
+Annex I, Reg. 27 Freeboards – types of ships 
+ 
+amended by LL PROT 
+1988 
+Annex I, Reg. 28 
+ 
+Freeboard tables 
+ 
+amended by LL PROT 
+1988 
+ 
+Annex I, Reg. 39 
+ 
+Minimum bow height and reserv e 
+buoyancy 
+Lashing system 
+amended by LL PROT 
+1988 
+LL PROT 1988 only 
+(annex I, Reg. 44(6)) 
+COLREG 1972 
+ 
+  
+Annex I, 
+Para. 14 
+ 
+Approval of construction of lights and 
+shapes and the installation of lights on 
+board 
+ 
+ 
+Annex III, 
+Para. 3 
+Approval of constructi on, performance 
+and installation of sound signal 
+appliances on board 
+ 
+ 
+STCW 1978 
+ 
+ 
+ 
+ 
+Article VI Certificates 
+ 
+ 
+Article VIII(3) 
+ 
+Dispensation – reporting
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Approval of constructi on, performance 
+and installation of sound signal 
+appliances on board 
+ 
+ 
+STCW 1978 
+ 
+ 
+ 
+ 
+Article VI Certificates 
+ 
+ 
+Article VIII(3) 
+ 
+Dispensation – reporting 
+ 
+ 
+Article IX(2) Equivalents – reporting 
+ 
+ 
+Regs. I/2 .1, 2.2, 2.7 
+and 2.8 
+ 
+Issue and endorsements of certificates of 
+competency 
+ 
+ 
+Regs. I/10.1 and 10.2 
+ 
+Recognition of certificates and seafarers' 
+knowledge of maritime legislation 
+ 
+ 
+Reg. I/11.7 Availability – recent changes in national 
+and international regulations 
+ 
+ 
+Reg. I/13.3 Conduct of trials – safety, security and 
+pollution prevention 
+ 
+Regs. I/13.5 and 13.8.1 Results of trials – communication 
+ 
+ 
+Reg. I/13.7 Respect for objections to trials  
+Reg. I/13.8 Respect for objections by other Parties 
+when authorizing ships to continue to 
+operate with the system under trial 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+when authorizing ships to continue to 
+operate with the system under trial 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 19 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. I/14.1 
+ 
+Responsibilities of companies 
+ 
+ 
+ 
+Reg. IV/1.2 
+ 
+Application – appropriate certificates for 
+radio operators 
+ 
+ 
+Reg. V/1-1.7 
+ 
+ 
+Mandatory minimum requirements for the 
+training and qualification of masters, 
+officers and rating s on oil and chemical 
+tankers 
+ 
+Reg. V/1-2.5 Mandatory minimum requirements for the 
+training and qualification of masters, 
+officers and ratings on liquefied gas 
+tankers 
+ 
+ 
+Reg. V/2.1 Applicability of the requirements to 
+domestic voyages 
+ 
+Reg. V/2.10 Mandatory minimum requirements for the 
+training and qualification of masters,
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+tankers 
+ 
+ 
+Reg. V/2.1 Applicability of the requirements to 
+domestic voyages 
+ 
+Reg. V/2.10 Mandatory minimum requirements for the 
+training and qualification of masters, 
+officers, ratings and other personnel on 
+passenger ships  
+ 
+Reg. V/3.11 
+ 
+Issue of a Certificate of Proficiency to 
+seafarers, related to IGF Code 
+ 
+ 
+Reg. V/4.5  
+ 
+Issue of a Certificate  of Proficiency in 
+accordance with paragraphs 2 or 4 of the 
+regulation  
+ 
+Regs. VIII/1.1 and 1.2 
+ 
+Fitness for duty – preventing fatigue and 
+preventing drug and alcohol abuse 
+ 
+ 
+Regs. VIII/2.1 and 2.2 Watchkeeping arrangements and 
+principles – direction and requirements 
+ 
+SOLAS 1974 
+ 
+ 
+ 
+ 
+ 
+Reg. I/4(b) Exemptions – reporting 
+ 
+ 
+Reg. I/5(b) Equivalents – reporting  
+Reg. I/6 
+ 
+Inspection and survey 
+ 
+in SOLAS PROT 1978 
+and SOLAS PROT 1988 
+Reg. I/7 
+ 
+Survey of passenger ships 
+ 
+in SOLAS PROT 1988 
+Reg. I/8 Survey o f life -saving appliances and 
+other equipment of cargo ships 
+in SOLAS PROT 1988
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+and SOLAS PROT 1988 
+Reg. I/7 
+ 
+Survey of passenger ships 
+ 
+in SOLAS PROT 1988 
+Reg. I/8 Survey o f life -saving appliances and 
+other equipment of cargo ships 
+in SOLAS PROT 1988 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 20 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. I/9 
+ 
+Survey of radio installations of cargo 
+ships 
+ 
+in SOLAS PROT 1988 
+Reg. I/10 
+ 
+Survey of structure, machinery and 
+equipment of cargo ships 
+ 
+in SOLAS PROT 1988 
+ 
+Reg. I/12 
+ 
+Issue of certificates 
+ 
+in SOLAS PROT 1988 
+ 
+ 
+ 
+Issue and endorsement of certificates 
+ 
+in SOLAS PROT 1988 
+ 
+Reg. I/14 Duration and validity of certificates 
+ 
+in SOLAS PROT 1988 
+Reg. I/15 
+ 
+Forms of certificates and records of 
+equipment 
+in SOLAS PROT 1988 
+ 
+Reg. I/18 Qualification of certificates
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Reg. I/14 Duration and validity of certificates 
+ 
+in SOLAS PROT 1988 
+Reg. I/15 
+ 
+Forms of certificates and records of 
+equipment 
+in SOLAS PROT 1988 
+ 
+Reg. I/18 Qualification of certificates 
+ 
+ 
+Reg. I/21 
+ 
+Casualties 
+ 
+ 
+ 
+Reg. II-1/1.2 
+ 
+Compliance with earlier requirements 
+ 
+revised SOLAS chapter II-1 
+adopted by MSC  80 and 
+MSC 82 
+ 
+Reg. II-1/3-2 
+ 
+Approval of corrosion prevention 
+systems of seawater ballast tanks 
+ 
+ 
+ 
+Reg. II-1/3-2.4 Maintenance of the protective coating  
+Reg. II-1/3-3.2 
+ 
+Approval of means of access to tanker 
+bows 
+ 
+ 
+Regs. II-1/3-4.1.2.2 
+and 3-4.1.3 
+Approval of emergency towing 
+arrangements on tankers 
+ 
+Reg. II-1/3-6.2.3 
+ 
+ 
+Means of access t o cargo and other 
+spaces – satisfaction of the 
+Administration as well as survey 
+ 
+ 
+ 
+ 
+Reg. II-1/3-6.4.1 
+ 
+Approval of Ship Structure Access 
+Manual 
+ 
+ 
+ 
+Reg. II-1/3-8.3 Appropriate requirements for towing and 
+mooring equipment 
+ 
+Reg. II-1/3-9.1 Means of embark ation and 
+disembarkation
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Approval of Ship Structure Access 
+Manual 
+ 
+ 
+ 
+Reg. II-1/3-8.3 Appropriate requirements for towing and 
+mooring equipment 
+ 
+Reg. II-1/3-9.1 Means of embark ation and 
+disembarkation 
+ 
+Reg. II-1/3-12 Determination of acceptable noise levels 
+in machinery spaces 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 21 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. II-1/4.2 
+ 
+Alternative methodologies – 
+communication to IMO 
+ 
+ 
+Reg. II-1/4.4 
+ 
+Beneficial or adverse effects of fitting 
+structures as defined by the regulation 
+ 
+ 
+Reg. II-1/5-1.1 
+ 
+Stability information to the Administration  
+Reg. II-1/7-2.5 
+ 
+Acceptance of equalization devices and 
+their controls 
+ 
+ 
+Reg. II-1/13.9.2 
+ 
+Number and arrangements of doors with 
+a device preventing unauthorized
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Reg. II-1/7-2.5 
+ 
+Acceptance of equalization devices and 
+their controls 
+ 
+ 
+Reg. II-1/13.9.2 
+ 
+Number and arrangements of doors with 
+a device preventing unauthorized 
+opening 
+ 
+ 
+Reg. II-1/13.11.2 
+ 
+Special consideration for tunnels piercing 
+watertight bulkheads 
+ 
+ 
+Reg. II-1/15.2 
+ 
+Arrangement and efficiency of the means 
+for closing any opening in the shell 
+plating 
+ 
+ 
+Reg. II-1/15.6 Special sanction for automatic ventilating 
+sidescuttles 
+ 
+Reg. II-1/15.8.5 
+ 
+Material of pipes as referred to in the 
+regulation 
+ 
+ 
+Reg. II-1/16.1.1 
+ 
+Construction and initial tests of watertight 
+doors, sidescuttles, etc. 
+ 
+Reg. II-1/16-1.1 
+ 
+Construction and initial tests of watertight 
+decks, trunks, etc. 
+ 
+ 
+Reg. II-1/17-1.2 Indicators for closing appliances that 
+could lead to flooding of a special 
+category space or ro-ro space 
+ 
+ 
+Regs. II-1/19.3 
+and 19.4 
+Damage control information – general 
+and specific precautions 
+ 
+Reg. II-1/22.4
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+could lead to flooding of a special 
+category space or ro-ro space 
+ 
+ 
+Regs. II-1/19.3 
+and 19.4 
+Damage control information – general 
+and specific precautions 
+ 
+Reg. II-1/22.4 
+ 
+Determination as to whether w atertight 
+doors must be permitted to remain open 
+ 
+ 
+Reg. II-1/26.2 
+ 
+ 
+Consideration of reliability of single 
+essential propulsion components 
+ 
+ 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 22 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Regs. II-1/29.1, 29.2.1  
+and 29.6.3 
+ 
+Steering gear 
+ 
+ 
+ 
+ 
+ 
+Reg. II-1/29.17.2 
+ 
+ 
+Adoption of regulations on rudder  
+actuators for tankers, chemical tankers 
+and gas carriers 
+ 
+ 
+ 
+ 
+Regs. II-1/35-1.3.7.2 
+and 35-1.3.9 
+Bilge pumping arrangements  
+Reg. II-1/40.2 
+ 
+Electrical installations – ensuring
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+actuators for tankers, chemical tankers 
+and gas carriers 
+ 
+ 
+ 
+ 
+Regs. II-1/35-1.3.7.2 
+and 35-1.3.9 
+Bilge pumping arrangements  
+Reg. II-1/40.2 
+ 
+Electrical installations – ensuring 
+uniformity 
+ 
+ 
+ 
+Reg. II-1/42.1.3 
+ 
+ 
+Emergency source of electrical power in 
+passenger ships 
+ 
+ 
+ 
+ 
+Reg. II-1/43.1.3 
+ 
+ 
+Emergency source of electrical power in 
+cargo ships 
+ 
+ 
+ 
+ 
+Reg. II-1/44.2 
+ 
+Approval of automatically starting 
+emergency generating sets 
+ 
+ 
+Regs. II-1/45.3.3, 
+45.5.3, 45.5.4, 45.9.3, 
+45.10 and 45.11 
+ 
+Precautions against shock, fire and other 
+hazards of electrical origin  
+ 
+ 
+ 
+ 
+ 
+Regs. II-1/46.2 and 
+46.3 
+ 
+ 
+Additional requirements for periodically 
+unattended machinery space 
+ 
+ 
+ 
+ 
+Reg. II-1/53.1 
+ 
+ 
+Special requirements for machinery, 
+boiler and electrical installations 
+ 
+ 
+ 
+ 
+Regs. II-1/55.3, 55.4.1 
+and 55.6 
+Evaluation of the alternative design and 
+arrangements and re -evaluation due to 
+change of conditions
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+boiler and electrical installations 
+ 
+ 
+ 
+ 
+Regs. II-1/55.3, 55.4.1 
+and 55.6 
+Evaluation of the alternative design and 
+arrangements and re -evaluation due to 
+change of conditions 
+ 
+ 
+Reg. II-1/55.5 Alternative design and arrangements – 
+communication to IMO 
+ 
+Reg. II-2/1.2.1 
+ 
+ 
+Approval of fire protection arra ngements 
+in existing ships 
+ 
+ 
+ 
+ 
+Regs. II-2/1.6.2.1.2 
+and 1.6.6 
+ 
+Application of requirements for tankers 
+ 
+ 
+ 
+ 
+Reg. II-2/4.2.2.5.1 
+ 
+ 
+Approval of material for oil fuel pipes and 
+their valves and fittings 
+ 
+ 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 23 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. II-2/4.3 
+ 
+ 
+Approval of gaseous fuel systems used 
+for domestic purposes 
+ 
+ 
+ 
+ 
+Reg. II-2/4.5.1.4.4
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. II-2/4.3 
+ 
+ 
+Approval of gaseous fuel systems used 
+for domestic purposes 
+ 
+ 
+ 
+ 
+Reg. II-2/4.5.1.4.4 
+ 
+ 
+Installation of cargo oil lines where cargo 
+wing tanks are provided 
+ 
+ 
+ 
+ 
+Reg. II-2/4.5.3.3 
+ 
+ 
+Requirements for safety devices in 
+venting systems 
+ 
+ 
+ 
+ 
+Reg. II-2/4.5.5.2.1 
+ 
+ 
+Requirements for inert gas syst ems on 
+chemical tankers 
+ 
+ 
+ 
+ 
+Reg. II-2/4.5.6.3 
+ 
+ 
+Arrangements for inerting, purging or 
+gas-freeing 
+ 
+see Reg. II-2/4.5.5.3.1 
+ 
+Reg. II-2/5.2.2.5 
+ 
+ 
+Positioning of controls for any required 
+fire-extinguishing system in passenger 
+ships 
+ 
+see Regs. II-2/8.3.3 
+and 9.5.2.3 
+ 
+Reg. II-2/5.2.3.1 
+ 
+ 
+Special consideration to maintaining the 
+fire integrity of periodically unattended 
+machinery spaces 
+ 
+Reg. II-2/7.3.2 
+ 
+Initial and periodic tests 
+ 
+ 
+ 
+Reg. II-2/7.6 
+ 
+Protection of cargo spaces in passenger 
+ships 
+ 
+ 
+Reg. II-2/8.3.4 
+ 
+Release of smoke from machinery
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+machinery spaces 
+ 
+Reg. II-2/7.3.2 
+ 
+Initial and periodic tests 
+ 
+ 
+ 
+Reg. II-2/7.6 
+ 
+Protection of cargo spaces in passenger 
+ships 
+ 
+ 
+Reg. II-2/8.3.4 
+ 
+Release of smoke from machinery 
+spaces – passenger ships 
+ 
+ 
+Reg. II-2/9.2.2.1.5.1 
+ 
+ 
+Approval of equivalent means of 
+controlling and limiting a fire on ships 
+designed for special purposes 
+ 
+ 
+ 
+ 
+Reg. II-2/9.2.2.3.1 
+ 
+ 
+Fire integrity of bulkheads and dec ks in 
+ships carrying more than 36 passengers 
+ 
+ 
+ 
+ 
+Regs. II-2/9.2.2.4.4, 
+9.2.3.3.4 and 9.2.4.2.4 
+Fire integrity of bulkheads and decks 
+ 
+see Reg. II-2/11.2 
+ 
+Reg. II-2/9.3.4 
+ 
+ 
+Approval of structural fire protection 
+details, taking into account the risk of 
+heat transmission 
+ 
+ 
+ 
+Reg. II-2/9.5.2.4 
+ 
+ 
+Protection of openings in machinery 
+space boundaries 
+ 
+ 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 24 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. II-2/10.2.1.2.1.3 
+ 
+ 
+Provisions for fixed water fire-
+extinguishing arrangements for 
+periodically unattended machinery 
+spaces 
+ 
+ 
+ 
+ 
+Reg. II-2/10.2.1.2.2.1 Ready availability of water supply 
+ 
+ 
+ 
+ 
+Reg. II-2/10.2.3.1.1 
+ 
+Approval of non -perishable material for 
+fire hoses 
+ 
+ 
+ 
+Reg. II-2/10.2.3.2.1 
+ 
+Number and diameter of fire hoses 
+ 
+ 
+ 
+Reg. II-2/10.3.2.1 
+ 
+Arrangement of fire extinguishers 
+ 
+ 
+ 
+Reg. II-2/10.6.1.1 
+ 
+ 
+Type approval of automatic sprinkler, fire 
+detection and fire alarm system 
+ 
+ 
+ 
+ 
+Reg. II-2/10.6.3.2 
+ 
+ 
+Approval of fire-extinguishing 
+arrangement for flammable liquid lockers 
+ 
+ 
+ 
+ 
+Reg. II-2/10.7.1.2
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+detection and fire alarm system 
+ 
+ 
+ 
+ 
+Reg. II-2/10.6.3.2 
+ 
+ 
+Approval of fire-extinguishing 
+arrangement for flammable liquid lockers 
+ 
+ 
+ 
+ 
+Reg. II-2/10.7.1.2 
+ 
+ 
+Fixed gas fire -extinguishing systems for 
+general cargo 
+ 
+ 
+ 
+ 
+Reg. II-2/10.7.1.4 Issue of an Exemption Certificate  
+Reg. II-2/13.3.1.4 
+ 
+ 
+Provision of means of escape from, or 
+access to, radiotelegraph stations 
+ 
+ 
+ 
+ 
+Reg. II-2/13.3.2.5.1 
+ 
+ 
+Lighting or photoluminescent equipment 
+to be evaluated, tested and applied i n 
+accordance with the FSS Code 
+ 
+ 
+ 
+ 
+Reg. II-2/13.3.2.6.2 
+ 
+Normally locked doors that form part of 
+an escape route – quick release 
+mechanisms  
+ 
+ 
+ 
+ 
+Reg. II-2/13.5.1 
+ 
+ 
+ 
+Means of escape on passenger ships 
+from special category and open ro -ro 
+spaces to which any passengers carried 
+can have access 
+ 
+ 
+ 
+ 
+Regs. II-2/17.4.1 
+and 17.6 
+ 
+ 
+Evaluation and approval of the 
+engineering analysis for alternative 
+design and arrangements for fire safety
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+can have access 
+ 
+ 
+ 
+ 
+Regs. II-2/17.4.1 
+and 17.6 
+ 
+ 
+Evaluation and approval of the 
+engineering analysis for alternative 
+design and arrangements for fire safety 
+ 
+ 
+ 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 25 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. II-2/17.5 Alternative design and arrangements for 
+fire safety – communication of 
+information to IMO 
+ 
+ 
+ 
+ 
+Reg. II-2/19.4 
+ 
+Provision of document of compliance 
+ 
+ 
+ 
+Reg. II-2/20.4.1 
+ 
+ 
+Provision and approval of fixed fire 
+detection and fire alarm systems 
+ 
+ 
+ 
+ 
+Reg. II-2/20.6.1.4.2 
+ 
+Adverse effect as referred to in the 
+regulation – approval of stability 
+information  
+ 
+ 
+Reg. II-2/21.5.2 Alternate space for medical care  
+Reg. III/4 
+ 
+ 
+Evaluation, testing and approval of
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Adverse effect as referred to in the 
+regulation – approval of stability 
+information  
+ 
+ 
+Reg. II-2/21.5.2 Alternate space for medical care  
+Reg. III/4 
+ 
+ 
+Evaluation, testing and approval of 
+life-saving appliances and arrangements 
+ 
+ 
+ 
+ 
+Reg. III/5 
+ 
+Production tests for life -saving 
+appliances 
+ 
+ 
+ 
+Reg. III/20.8.1.2 
+ 
+Approval of servicing stations 
+ 
+ 
+ 
+Reg. III/20.8.5 
+ 
+Extension of liferaft service intervals – 
+notifying IMO 
+ 
+Regs. III/20.11.1 and 
+20.11.2 
+ 
+Periodic servicing of launching 
+appliances and on -load release gear – 
+thorough examination at the ann ual 
+surveys 
+ 
+ 
+ 
+ 
+Reg. III/26.2.4 
+ 
+Approval of liferafts on ro -ro passenger 
+ships 
+ 
+ 
+Regs. III/26.3.1 and 
+26.3.2 
+ 
+Approval of fast rescue boats and their 
+launching appliances on ro-ro passenger 
+ships 
+ 
+ 
+ 
+ 
+Reg. III/28 
+ 
+Approval of helicopter landing and pick -
+up areas on ro-ro passenger ships 
+ 
+ 
+Regs. III/38.3, 38.4.1 
+and 38.6 
+Evaluation of the alternative design and
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+ships 
+ 
+ 
+ 
+ 
+Reg. III/28 
+ 
+Approval of helicopter landing and pick -
+up areas on ro-ro passenger ships 
+ 
+ 
+Regs. III/38.3, 38.4.1 
+and 38.6 
+Evaluation of the alternative design and 
+arrangements and re -evaluation due to 
+change of conditions 
+ 
+ 
+Reg. III/38.5 Alternative design and arrangements – 
+communication to IMO 
+ 
+ 
+Reg. IV/3.3 Exemptions – reporting to IMO  
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 26 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+ 
+Reg. IV/14.1 Type approval of radio equipment  
+ 
+Reg. IV/15.5 
+ 
+Ensuring that radio equipment is 
+maintained 
+ 
+ 
+ 
+Reg. IV/16.1 Radio personnel 
+ 
+ 
+Reg. IV/17 Radio records  
+Reg. V/3.3 
+ 
+Exemptions and equivalents – reporting 
+to IMO 
+ 
+ 
+ 
+Reg. V/14 
+ 
+Ships' manning 
+ 
+ 
+ 
+Reg. V/16
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+maintained 
+ 
+ 
+ 
+Reg. IV/16.1 Radio personnel 
+ 
+ 
+Reg. IV/17 Radio records  
+Reg. V/3.3 
+ 
+Exemptions and equivalents – reporting 
+to IMO 
+ 
+ 
+ 
+Reg. V/14 
+ 
+Ships' manning 
+ 
+ 
+ 
+Reg. V/16 
+ 
+Maintenance of equipment 
+ 
+ 
+ 
+Reg. V/17 
+ 
+Electromagnetic compatibility 
+ 
+ 
+ 
+Reg. V/18.1 
+ 
+ 
+Type approval of navigational systems 
+and equipment and voyage data recorder 
+ 
+ 
+ 
+ 
+Reg. V/18.5 
+ 
+ 
+Requirement for quality control system at 
+manufacturers 
+ 
+ 
+ 
+ 
+Reg. V/23.3.3.1.3 
+ 
+Pilot transfer arrangements 
+ 
+ 
+ 
+Regs. VI/3.1 and 3.2 
+ 
+ 
+Provision of equipment for oxygen 
+analysis and gas detection and training of 
+crews in their use 
+ 
+ 
+ 
+ 
+Reg. VI/5.6 
+ 
+Approval of Cargo Securing Manual 
+ 
+ 
+ 
+Reg. VI/6 Acceptability for shipment 
+ 
+ 
+Reg. VI/9.2 
+ 
+Grain loading information 
+ 
+ 
+ 
+Reg. VII/5 Approval of Cargo Securing Manual 
+ 
+ 
+Reg. VII/15.2 
+ 
+Warships – INF cargo 
+ 
+ 
+ 
+Reg. VIII/4 
+ 
+ 
+Approval of design, construction and 
+standards of inspection and assembly of
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Reg. VII/5 Approval of Cargo Securing Manual 
+ 
+ 
+Reg. VII/15.2 
+ 
+Warships – INF cargo 
+ 
+ 
+ 
+Reg. VIII/4 
+ 
+ 
+Approval of design, construction and 
+standards of inspection and assembly of 
+reactor installations 
+ 
+ 
+ 
+ 
+Reg. VIII/6 
+ 
+Ensuring radiation safety 
+ 
+ 
+ 
+Reg. VIII/7(a) Approval of safety assessment  
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 27 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+  
+ 
+ 
+Reg. VIII/8 
+ 
+Approval of operating manual 
+ 
+ 
+ 
+Reg. VIII/10(f) 
+ 
+Issue of certificates 
+ 
+ 
+ 
+Reg. IX/4.1 
+ 
+Issue of Document of Compliance (DOC) 
+ 
+ 
+Reg. IX/4.3 
+ 
+Issue of Safety Management Certificate 
+(SMC) 
+ 
+ 
+Reg. IX/6.1 
+ 
+Periodic verification of the safety 
+management system 
+ 
+ 
+Reg. XI-1/1 
+ 
+Authorization of recognized 
+organizations
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Issue of Safety Management Certificate 
+(SMC) 
+ 
+ 
+Reg. IX/6.1 
+ 
+Periodic verification of the safety 
+management system 
+ 
+ 
+Reg. XI-1/1 
+ 
+Authorization of recognized 
+organizations 
+ 
+ 
+Reg. XI-1/2 
+ 
+Enhanced surveys 
+ 
+ 
+Reg. XI-1/3.5.4 
+ 
+ 
+Ship identification number – approval of 
+method of marking  
+ 
+ 
+Reg. XI-1/3-1.2 
+ 
+Registered owner identification number 
+ 
+ 
+Reg. XI-1/5.3 
+ 
+Issue of Continuous Synopsis Record 
+(CSR) 
+ 
+ 
+Reg. XI-1/5.4.2 Amendments to CSR 
+ 
+ 
+Reg. XI-1/5.4.3 Authorization and requirement to amend 
+CSR 
+ 
+Reg. XI-1/5.8 Requirement for former flag State to send 
+CSR to new flag State 
+ 
+Reg. XI-1/5.9 
+ 
+Appending previous CSR to new CSR 
+ 
+ 
+Reg. XI-1/6 
+ 
+Investigations of marine casualties and 
+incidents 
+ 
+ 
+Reg. XII/8.1 
+ 
+Endorsement of booklet required by Reg. 
+VI/7.2 
+ 
+ 
+Reg. XII/9.2 Approval of bilge well high water level 
+alarms 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Reg. XII/8.1 
+ 
+Endorsement of booklet required by Reg. 
+VI/7.2 
+ 
+ 
+Reg. XII/9.2 Approval of bilge well high water level 
+alarms 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 28 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. XII/11.3 Loading instrument – approval of 
+software for stability calculations 
+ 
+ 
+ 
+MARPOL   
+Articles 4(1) and 4(3) 
+ 
+Violation 
+ 
+ 
+Article 6(4) 
+ 
+ 
+Detection of violations and enforcement 
+of the Convention – investigations 
+ 
+ 
+Article 12(1) 
+ 
+ 
+Casualties to ships – investigations 
+ 
+ 
+Annex I 
+ 
+ 
+ 
+ 
+Reg. 2.6.2 
+ 
+ 
+ 
+Application – an oil tanker delivered on or 
+before 1 June 1982 engaged in specific 
+trades: agreement with port States 
+ 
+ 
+Reg. 3.3 Exemptions and waivers – reporting 
+ 
+ 
+Reg. 4.3
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Application – an oil tanker delivered on or 
+before 1 June 1982 engaged in specific 
+trades: agreement with port States 
+ 
+ 
+Reg. 3.3 Exemptions and waivers – reporting 
+ 
+ 
+Reg. 4.3 
+ 
+ 
+ 
+Exceptions – discharge of substances 
+containing oil for the purpose of 
+combating pollution incidents 
+ 
+ 
+Reg. 5.2 
+ 
+Equivalents – reporting 
+ 
+ 
+Reg. 6 
+ 
+Surveys 
+ 
+ 
+Reg. 7 
+ 
+Reg. 9 
+ 
+Issue or endorsement of certificate 
+ 
+Form of certificate 
+ 
+ 
+Reg. 10.9.3 
+ 
+Transfer of flag 
+ 
+ 
+Reg. 12A.12 
+ 
+Oil fuel tank protection – approval of the 
+design and construction of ships 
+ 
+ 
+Reg. 14.3 
+ 
+Oil filtering equipment – volume of oil 
+bilge holding tank 
+ 
+ 
+Reg. 14.4 
+ 
+ 
+Oil filtering equipment – ships of less 
+than 400 gross tonnage 
+ 
+ 
+Regs. 14.6 and 14.7 
+ 
+Oil filtering equipment – approval 
+ 
+ 
+Reg. 15.6.2 
+ 
+Control of discharge of oil – ships of less 
+than 400 gross tonnage: design approval 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Oil filtering equipment – approval 
+ 
+ 
+Reg. 15.6.2 
+ 
+Control of discharge of oil – ships of less 
+than 400 gross tonnage: design approval 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 29 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+  
+Regs. 18.8.2, 18.8.3 
+and 18.8.4 
+ 
+ 
+ 
+Requirements for product carriers 
+of 40,000 tonnes deadweight and above 
+– arrangement and operation, approval 
+of oil content meter, clean ballast tank 
+operational manual 
+ 
+ 
+Reg. 18.10.1.1 
+ 
+ 
+Segregated ballast tanks – oil tanker 
+delivered on or before 1 June 1982 
+having special ballast arrangements: 
+approval 
+ 
+ 
+Reg. 18.10.1.2 
+ 
+ 
+ 
+Segregated ballast tanks – oil tanker 
+delivered on or before 1 June 1982 
+having special ballast arrangements: 
+agreement with port States
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+approval 
+ 
+ 
+Reg. 18.10.1.2 
+ 
+ 
+ 
+Segregated ballast tanks – oil tanker 
+delivered on or before 1 June 1982 
+having special ballast arrangements: 
+agreement with port States 
+ 
+ 
+Reg. 18.10.3 
+ 
+ 
+Segregated ballast tanks – oil tanker 
+delivered on or before 1 June 1982 having 
+special ballast arrangements: 
+communication to IMO 
+ 
+ 
+Reg. 20.8.1 
+ 
+ 
+Double hull and double bottom 
+requirements for oil tankers delivered 
+before 6 July 1996 – communication to 
+IMO 
+ 
+ 
+Reg. 21.8.1 
+ 
+ 
+Prevention of oil pollution from oil tankers 
+carrying heavy grade oil as cargo – 
+communication to IMO 
+ 
+ 
+Reg. 23.3.1 
+ 
+Accidental oil outflow performance – 
+calculation of mean oil outflow parameter 
+ 
+ 
+Reg. 25.5 
+ 
+Hypothetical outflow of oil – information 
+to IMO on accepted arrangements 
+ 
+Reg. 27.3 
+ 
+ 
+Intact stability – approval of written 
+procedures for liquid transfer operation 
+ 
+ 
+Reg. 28.3.4 
+ 
+Reg. 28.6.3 
+ 
+Subdivision and damage stability – 
+sufficient stability during flooding
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Intact stability – approval of written 
+procedures for liquid transfer operation 
+ 
+ 
+Reg. 28.3.4 
+ 
+Reg. 28.6.3 
+ 
+Subdivision and damage stability – 
+sufficient stability during flooding 
+ 
+Subdivision and  damage stability – 
+issuing a document of approval for the 
+stability instrument 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 30 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. 29.2.1 
+ 
+Slop tanks – approval 
+ 
+ 
+ 
+Reg. 30.6.5.2 
+ 
+ 
+Pumping, piping and discharge 
+arrangement – establishment of 
+requirements 
+ 
+ 
+Reg. 30.7 
+ 
+ 
+Pumping, piping and discharge  
+arrangement – positive means of loading, 
+transporting or discharging cargo 
+ 
+ 
+Regs. 31.2 and 31.4 
+ 
+Oil discharge monitoring and control 
+system – approval
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Pumping, piping and discharge  
+arrangement – positive means of loading, 
+transporting or discharging cargo 
+ 
+ 
+Regs. 31.2 and 31.4 
+ 
+Oil discharge monitoring and control 
+system – approval 
+ 
+Reg. 32 Oil/water interface detector – approval 
+ 
+ 
+Reg. 33.1 
+ 
+Crude oil washing requirement – 
+compliance with requirement 
+ 
+ 
+Reg. 33.2 
+ 
+Crude oil washing requirements – 
+establishment of requirements  
+ 
+ 
+Reg. 35.1 
+ 
+Crude oil washing operations – 
+Operations and Equipment Manual 
+ 
+Reg. 36.9 
+ 
+ 
+Oil Record Book Part II – development of 
+Oil Record Book for shi ps of less than 
+150 gross tonnage 
+ 
+ 
+Reg. 37.1 
+ 
+Shipboard oil pollution emergency plan – 
+approval 
+ 
+ 
+Reg. 38.9.2 
+ 
+Reception facilities within special areas: 
+Antarctic area – sufficient capacity 
+ 
+ 
+Reg. 38.10 
+ 
+Reception facilities – notification on 
+alleged inadequacies of port reception 
+facilities 
+ 
+ 
+Reg. 39.2.2 
+ 
+Special requirements for fixed or floating 
+platforms – approval of record form
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Reception facilities – notification on 
+alleged inadequacies of port reception 
+facilities 
+ 
+ 
+Reg. 39.2.2 
+ 
+Special requirements for fixed or floating 
+platforms – approval of record form 
+ 
+ 
+Reg. 41.1 Approval of oil tankers' ship-to-ship 
+(STS) operations plan 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 31 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Annex II 
+ 
+ 
+ 
+ 
+Reg. 3.1.3 
+ 
+ 
+Exceptions – approval of discharge of 
+noxious liquid substances (NLS) for the 
+purpose of combating pollution incidents 
+ 
+ 
+Reg. 4.1.2 
+ 
+ 
+Exemptions – communication to IMO on 
+relaxations 
+ 
+ 
+Reg. 4.3.4 
+ 
+Exemptions – communication to IMO 
+ 
+ 
+Reg. 4.4.5 
+ 
+Exemptions – communication to IMO 
+ 
+ 
+Reg. 5.1 
+ 
+ 
+Equivalents – substitution of operational 
+method 
+ 
+ 
+Reg. 5.2
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Reg. 4.3.4 
+ 
+Exemptions – communication to IMO 
+ 
+ 
+Reg. 4.4.5 
+ 
+Exemptions – communication to IMO 
+ 
+ 
+Reg. 5.1 
+ 
+ 
+Equivalents – substitution of operational 
+method 
+ 
+ 
+Reg. 5.2 
+ 
+ 
+Equivalents – communication to IMO on 
+alternatives 
+ 
+ 
+Regs. 5.3.4 and 5.3.5 
+ 
+ 
+Equivalents – pumping and piping 
+arrangement, approval of manual 
+ 
+ 
+Reg. 6.3 
+ 
+ 
+Establishment of tripartite agreements – 
+notifying IMO 
+ 
+ 
+Reg. 8 
+ 
+Surveys 
+ 
+ 
+Reg. 9 
+ 
+Issue or endorsement of certificates 
+ 
+ 
+Reg. 10.7 Expiry date of existing certificate 
+ 
+ 
+Reg. 10.9.3 
+ 
+Transfer of flag 
+ 
+ 
+Reg. 11.2 
+ 
+ 
+ 
+Design, construction, equipment and 
+operations – establishment of 
+appropriate measures 
+ 
+ 
+Reg. 12.5 
+ 
+ 
+Pumping, piping, unloading 
+arrangements and slop tanks – approval 
+of pumping performance test 
+ 
+ 
+Reg. 13.3 
+ 
+ 
+Control of discharges of residues of NLS 
+– approval of ventilation procedure 
+ 
+ 
+Reg. 13.5 
+ 
+ 
+Control of discharges of residues of NLS
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+of pumping performance test 
+ 
+ 
+Reg. 13.3 
+ 
+ 
+Control of discharges of residues of NLS 
+– approval of ventilation procedure 
+ 
+ 
+Reg. 13.5 
+ 
+ 
+Control of discharges of residues of NLS 
+– approval of tank washing procedure 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 32 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. 14.1 
+ 
+ 
+Procedures and arrangements manual – 
+approval 
+ 
+ 
+Reg. 17.1 
+ 
+ 
+Shipboard marine pollution emergency 
+plan for NLS – approval 
+ 
+ 
+Reg. 18.7 
+ 
+ 
+Notification of alleged ina dequacies of 
+port reception facilities 
+ 
+ 
+Annex IV 
+ 
+ 
+ 
+ 
+Reg. 4 
+ 
+Surveys 
+ 
+ 
+Reg. 5 
+ 
+Reg. 7 
+Issue or endorsement of certificates 
+ 
+Form of certificate 
+ 
+ 
+Reg. 8.8.2 
+ 
+Transfer of flag 
+ 
+ 
+Reg. 9.1 
+ 
+Approval of sewage systems
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Reg. 4 
+ 
+Surveys 
+ 
+ 
+Reg. 5 
+ 
+Reg. 7 
+Issue or endorsement of certificates 
+ 
+Form of certificate 
+ 
+ 
+Reg. 8.8.2 
+ 
+Transfer of flag 
+ 
+ 
+Reg. 9.1 
+ 
+Approval of sewage systems 
+ 
+ 
+Reg. 9.2 Approval of sewage systems (passenger 
+ships operating in special areas) 
+ 
+ 
+Reg. 11.1.1 
+ 
+Approval of rate of discharge  
+Reg. 12.3 
+ 
+Notification of alleged inadequacies of 
+port reception facilities 
+ 
+ 
+Annex V 
+ 
+ 
+ 
+ 
+Reg. 6.3.2 Sufficient capacity for the retention of all 
+garbage on board ships before entering 
+the Antarctic area 
+ 
+ 
+Reg. 8.4 
+ 
+ 
+Notification of alleged inadequacies of 
+port reception facilities 
+ 
+ 
+Annex VI 
+ 
+ 
+ 
+ 
+Regs. 3.2 and 3.3.2 Exceptions and exemptions  
+Regs. 4.2 and 4.4 
+ 
+Equivalents and communication to IMO 
+ 
+ 
+Reg. 5 Surveys and certification 
+ 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 33 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. 6 
+ 
+Issue or endorsement of certificates and 
+Statements of Compliance related to fuel 
+oil consumption reporting  
+ 
+  
+Reg. 8  
+ 
+Form of Certificates and Statements of 
+Compliance related to fuel oil consumption 
+reporting 
+ 
+ 
+Regs. 9.1 and 9.10 Duration and validity of certificates  
+Reg. 9.12  
+ 
+Duration and validity of Statement of 
+Compliance related to fuel oil consumption 
+reporting  
+ 
+ 
+Reg. 9.9.3  
+ 
+Transfer of flag 
+ 
+ 
+Reg. 11.4 Detection of violations and enforcement 
+– investigations and communication to 
+the Party and IMO 
+ 
+ 
+Reg. 12.6 Ozone-depleting substances record book 
+– approval of alternative forms of 
+record-keeping 
+ 
+ 
+Regs. 13.1.1.2
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+– investigations and communication to 
+the Party and IMO 
+ 
+ 
+Reg. 12.6 Ozone-depleting substances record book 
+– approval of alternative forms of 
+record-keeping 
+ 
+ 
+Regs. 13.1.1.2 
+and 13.1.2.2 
+Nitrogen oxides – acceptance of identical 
+replacement and alternative co ntrol 
+measures 
+ 
+ 
+Reg. 13.2.2 Acceptance of installation of Tier -II 
+engine in lieu of Tier -III engine where 
+Tier-III engine cannot be accommodated 
+ 
+ 
+Reg. 13.5.2.2 Combined nameplate diesel engine – 
+application as referred to in the 
+paragraph 
+ 
+ 
+Reg. 13.7.2 Approved method not commercially 
+available 
+ 
+ 
+Reg. 14.6  
+ 
+Sulphur oxides – prescription of log-book 
+ 
+ 
+Reg. 15.5  Volatile organic compounds (VOCs) – 
+approval of vapour collection systems 
+ 
+ 
+Reg. 15.6 VOC management plan – approval 
+ 
+ 
+Reg. 16.6.1  Shipboard incineration – approvals 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Reg. 16.6.1  Shipboard incineration – approvals 
+ 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 34 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Reg. 17.4  
+ 
+Reception facilities unavailable or 
+inadequate – communication to IMO 
+ 
+ 
+Reg. 19.6 Information regarding decision to allow, 
+suspend, withdraw or decline application 
+of Reg. 19.4 on waiving the requirement 
+for compliance with Regs. 20 and 21 – 
+communication to the Organization 
+ 
+Refer to Reg. 19.4 
+ 
+Reg. 20.1 Verification of the attained Energy 
+Efficiency Design Index (EEDI) 
+ 
+ 
+Reg. 22A.7  
+ 
+Verification of the ship fuel oil consumption 
+data  
+ 
+ 
+Reg. 22A.9  
+ 
+Transfer of the reported data to the IMO 
+Ship Fuel Oil Consumption Database  
+ 
+ 
+Reg. 23 Cooperation with other parties to
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Verification of the ship fuel oil consumption 
+data  
+ 
+ 
+Reg. 22A.9  
+ 
+Transfer of the reported data to the IMO 
+Ship Fuel Oil Consumption Database  
+ 
+ 
+Reg. 23 Cooperation with other parties to 
+promote development and transfer of 
+technology and exchange of information 
+relating to the improvement of energy 
+efficiency of ships 
+ 
+ 
+Appendix IV, Para. 1 Type approval as referred to in the 
+paragraph 
+ 
+ 
+Appendix VI, 
+Paras. 1.2, 2.1 and 3.1 
+Fuel verification procedure – 
+management and sample delivery 
+ 
+ 
+Res. MSC.133(76), as 
+amended 
+ 
+Technical provisions for means of access 
+for inspections 
+ 
+ 
+ 
+Para. 3.7 
+ 
+Vertical or spiral ladders – acceptance 
+ 
+ 
+Para. 3.9.7 Other means of access – approval and 
+acceptance 
+ 
+RO Code   
+Part 1/4.2 Delegation of authority  
+Part 1/5 Communication to IMO – a list of 
+recognized organizations (ROs) 
+ 
+ 
+Part 2/8 Authorization of RO  
+Part 3/7.1.1 Verification that ROs fulfil the 
+requirements of the RO Code as per 
+part 2/2.1
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+recognized organizations (ROs) 
+ 
+ 
+Part 2/8 Authorization of RO  
+Part 3/7.1.1 Verification that ROs fulfil the 
+requirements of the RO Code as per 
+part 2/2.1 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 35 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+ 
+ISM Code 
+ 
+ 
+ 
+ 
+Para. 13.2 
+ 
+Issue of Document of Compliance (DOC)  
+Para. 13.4 Annual verification (DOC) 
+ 
+ 
+Para. 13.5 Withdrawal of DOC  
+Para. 13.7 Issue of Safety Management Certificate 
+(SMC) 
+ 
+ 
+Para. 13.8 
+ 
+Intermediate verification (SMC) 
+ 
+ 
+Para. 13.9 
+ 
+Withdrawal of SMC 
+ 
+ 
+Para. 14.1  
+ 
+Issue of Interim DOC  
+Para. 14.2 
+ 
+Issue of Interim SMC 
+ 
+ 
+Para. 14.4 Verification required for issue of Inte rim 
+SMC 
+ 
+ 
+Para. 15.1 
+ 
+Verification – acceptance of procedures
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Issue of Interim DOC  
+Para. 14.2 
+ 
+Issue of Interim SMC 
+ 
+ 
+Para. 14.4 Verification required for issue of Inte rim 
+SMC 
+ 
+ 
+Para. 15.1 
+ 
+Verification – acceptance of procedures 
+ 
+ 
+Para. 16 Forms of certificates  
+INF Code 
+ 
+ 
+ 
+ 
+Para. 1.3.2 
+ 
+Issue of certificate 
+ 
+ 
+Para. 2.1 Damage stability (INF 1 ship) 
+ 
+ 
+Para. 3.1 
+ 
+Fire safety measures (INF 1 cargo) 
+ 
+ 
+Para. 4.1.3 
+ 
+Temperature control of cargo spaces 
+(INF 1, 2 and 3 ships) 
+ 
+ 
+Para. 6.2 
+ 
+Safe stowage and securing – approval 
+of principles 
+ 
+ 
+Para. 7.1 
+ 
+Electrical power supplies (INF 1 ship)  
+Chapter 8 
+ 
+Radiological protection 
+ 
+ 
+Chapter 9 Management and training 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 36 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 36 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Para. 10.2 Shipboard emergency plan – approval 
+ 
+ 
+ 
+Noise Code 
+ 
+  
+Para. 1.3.1 Application of the Code 
+ 
+ 
+ 
+Para. 1.3.7 Special consideration for ships designed 
+for and employed on voyages of short 
+duration,3 or on other services involving 
+short periods of operation of the ship 
+ 
+ 
+Para. 1.3.9 Repairs, alterations and modifications of a 
+major character and outfitting of existing 
+ships – determination of application of the 
+Code 
+ 
+Para. 2.1.1 Acceptance of equivalent standard for 
+sound level meter 
+ 
+ 
+Para. 2.1.2 Acceptance of equivalent standard for 
+octave filter set 
+ 
+ 
+Para. 3.3.9 Agreement on a process to simulate the 
+operation of the dynamic positioning (DP) 
+thruster system 
+ 
+ 
+Para. 6.2.2 Acceptance of laboratory tests of 
+airborne sound insulation properties
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+operation of the dynamic positioning (DP) 
+thruster system 
+ 
+ 
+Para. 6.2.2 Acceptance of laboratory tests of 
+airborne sound insulation properties 
+ 
+ 
+Para. 7.4 Description of a warning notice 
+comprising symbol and supplementary 
+sign in working language 
+ 
+FSS Code 
+ 
+ 
+ 
+ 
+Ch.1, Para. 4 
+ 
+Use of toxic extinguishing media 
+ 
+ 
+Ch.4, Para. 2 
+ 
+Type approval of fire extinguishers 
+ 
+ 
+Ch.4, Para. 3.1.1.2 
+ 
+Determining equivalents of fire 
+extinguishers 
+ 
+ 
+Ch.4, Para. 3.2.2.2 
+ 
+Approval of foam concentrate 
+ 
+ 
+ 
+3 Voyages of short duration: Voyages where the ship is not generally underway for periods long enough for 
+seafarers to require sleep, or long off-duty periods, during the voyages (Noise Code Para. 1.4.34). 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 37 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 37 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Ch.5, Para. 2.1.1.4 
+ 
+ 
+Containers for the storage of 
+fire-extinguishing medium, etc. 
+ 
+ 
+Ch.5, Para. 2.1.2.1 System flow calculations  
+Ch.5, Para. 2.1.2.3 
+ 
+Spare parts 
+ 
+ 
+Ch.5, Para. 2.3 Steam systems 
+ 
+ 
+Ch.5, Para. 2.4  Equivalent systems – approval  
+Ch.6, Para. 1 Specific acceptance of fixed foam 
+fire-extinguishing systems used for cargo 
+pump-rooms of chemical tankers 
+carrying liquid cargoes referred to in 
+regulation II-2/1.6.2 of the Convention 
+ 
+ 
+Ch.6, Paras. 3.1.2 
+and 4.1.1 
+Foam concentrates – approval 
+ 
+ 
+ 
+Ch.6, Paras. 3.1.3 and 
+3.4.1 
+System test of fixed high-expansion foam 
+fire-extinguishing systems 
+ 
+Ch.6, Para. 4.2.1 Acceptance of means for proving 
+effective distribution of the foam
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Ch.6, Paras. 3.1.3 and 
+3.4.1 
+System test of fixed high-expansion foam 
+fire-extinguishing systems 
+ 
+Ch.6, Para. 4.2.1 Acceptance of means for proving 
+effective distribution of the foam 
+ 
+Ch.7, Para. 2.1 Fixed pressure water -spraying 
+fire-extinguishing systems – approval 
+ 
+ 
+Ch.7, Para. 2.2 Equivalent systems – approval 
+ 
+ 
+Ch.7, Para. 2.3  
+ 
+ 
+ 
+Ch.7, Para. 2.4  
+Fixed pressure water -spraying 
+fire-extinguishing systems f or cabin 
+balconies – approval 
+ 
+Fixed water-based firefighting system for 
+ro-ro space, vehicle spaces and special 
+category spaces – approval 
+ 
+ 
+Ch.8, Para. 2.1.2 
+ 
+ 
+Equivalent sprinkler systems – approval 
+ 
+ 
+Ch.9, Para. 2.3.1.2 Sensitivity limits of smoke de tectors in 
+other spaces  
+ 
+ 
+Ch.9, Para. 2.3.1.3 Heat detector temperature limits 
+ 
+ 
+Ch.9, Para. 2.3.1.7 Fixed fire detection and fire alarm 
+systems for cabin balconies – approval 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Ch.9, Para. 2.3.1.7 Fixed fire detection and fire alarm 
+systems for cabin balconies – approval 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 38 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Ch.9, Para. 2.4.1.3 Limiting the number of enclosed spaces 
+included in each section 
+ 
+ 
+Ch.9, Para. 2.5.2 Testing on ships with self -diagnostic 
+system – determination of requirements  
+ 
+ 
+Ch.10, Para. 2.1.2 
+ 
+Sequential scanning – overall response 
+time 
+ 
+ 
+Ch.10, Para. 2.2.2 
+ 
+Extractor fans – overall response time  
+Ch.10, Para. 2.3.1.1 Means to isolate smoke accumulators 
+ 
+ 
+Ch.11, Para. 2.1 Low-location lighting − approval 
+ 
+ 
+Ch.12, Para. 2.2.2.1 Approval of heating arrangement of the 
+diesel engine cooling water or lubricating
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Ch.11, Para. 2.1 Low-location lighting − approval 
+ 
+ 
+Ch.12, Para. 2.2.2.1 Approval of heating arrangement of the 
+diesel engine cooling water or lubricating 
+oil system if the room for the diesel driven 
+power source is not heated 
+ 
+ 
+Ch.14, Para. 2.2.1.4 Foam concentrate supplied on board for 
+cargoes intended to be carried – approval 
+of additional arrangements if foam is not 
+effective or is incompatible 
+ 
+Ch.14, Para. 2.2.2.1 
+ 
+ 
+Medium expansion ratio foam – 
+application rate, etc. 
+ 
+ 
+Ch.15, Para. 2.2.1.1 
+ 
+Inert gas systems – approval 
+ 
+ 
+   
+2010 FTP Code 
+ 
+ 
+ 
+ 
+Para. 4.2 Recognition of testing laboratories 
+ 
+ 
+Paras. 5.1.1 and 5.1.2 
+ 
+Approval of products in accordance with 
+established approval procedures or 
+authorization of competent authorities to 
+issue approvals 
+ 
+ 
+Para. 5.2.2 Requirement for manufacturers to have a 
+quality control system audited by a 
+competent authority, or, alternatively, use 
+of final product verification procedures as
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Para. 5.2.2 Requirement for manufacturers to have a 
+quality control system audited by a 
+competent authority, or, alternatively, use 
+of final product verification procedures as 
+referred to in the paragraph 
+ 
+ 
+Para. 7.2 
+ 
+ 
+Use of equivalents and modern 
+technology – communication of  
+information to the Organization 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 39 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+ 
+Annex 1, part 3/3.3 Structural core of a material other than 
+steel or aluminium alloy – decision on 
+limits for rise in temperature 
+ 
+ 
+Annex 1, part 3 
+appendix 1, Para. 
+2.3.2.9 
+Insulation system of "A" class door – 
+approval to the same standard as that 
+which the door is intended to achieve 
+ 
+ 
+ 
+LSA Code  
+ 
+ 
+Para. 1.2.3
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Annex 1, part 3 
+appendix 1, Para. 
+2.3.2.9 
+Insulation system of "A" class door – 
+approval to the same standard as that 
+which the door is intended to achieve 
+ 
+ 
+ 
+LSA Code  
+ 
+ 
+Para. 1.2.3 
+ 
+Determine the period of acceptability of 
+life-saving appliances (LSAs) subject  to 
+deterioration with age 
+ 
+ 
+Para. 4.4.1.2 
+ 
+Endorsement of lifeboat affixed approval 
+plate  
+ 
+ 
+ 
+Para. 4.5.4 
+ 
+Fixed two -way VHF radiotelephone 
+apparatus – sheltered space 
+ 
+ 
+Para. 5.1.1.4 
+ 
+Rescue boats – combination of rigid and 
+inflatable construction 
+ 
+ 
+Para. 5.1.3.8 Rubbing strips on inflated rescue boats 
+ 
+ 
+Paras. 6.1.2.9 
+and 6.1.2.10 
+Lowering speed of a fully equipped liferaft 
+ 
+ 
+ 
+Para. 6.2.1.2 
+ 
+Marine evacuation systems (MESs) – 
+strength and construction of passage and 
+platform 
+ 
+ 
+Para. 7.2.2.1 
+ 
+Broadcast of messages from other 
+places on board 
+ 
+ 
+1994 HSC Code  
+ 
+ 
+Para. 1.3.5 
+ 
+Verification 
+ 
+ 
+Para. 1.4.29 
+ 
+ 
+Determination of "maximum operational 
+weight"
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Para. 7.2.2.1 
+ 
+Broadcast of messages from other 
+places on board 
+ 
+ 
+1994 HSC Code  
+ 
+ 
+Para. 1.3.5 
+ 
+Verification 
+ 
+ 
+Para. 1.4.29 
+ 
+ 
+Determination of "maximum operational 
+weight" 
+ 
+ 
+Para. 1.5.1.2 
+ 
+Specifying intervals for renewal surveys 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 40 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Para. 1.5.4 
+ 
+Inspection and survey 
+ 
+ 
+Para. 1.5.5 
+ 
+Recognized organizations and 
+nominated surveyors 
+ 
+ 
+Para. 1.5.7 
+ 
+Completeness of survey and inspection 
+ 
+ 
+Para. 1.8.1 
+ 
+ 
+Issue/endorsement of certificate 
+ 
+Para. 1.9.2 Issue of permit to operate 
+ 
+ 
+Para. 1.11.2 
+ 
+Equivalents – reporting 
+ 
+ 
+ 
+Para. 1.12.1 
+ 
+ 
+Adequate information and guidance 
+provided to the craft by the company 
+ 
+ 
+ 
+ 
+Paras. 1.13.2
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Para. 1.11.2 
+ 
+Equivalents – reporting 
+ 
+ 
+ 
+Para. 1.12.1 
+ 
+ 
+Adequate information and guidance 
+provided to the craft by the company 
+ 
+ 
+ 
+ 
+Paras. 1.13.2 
+and 1.13.3 
+ 
+Novel designs 
+ 
+ 
+ 
+ 
+ 
+Para. 1.14.1 
+ 
+Investigation reports to IMO 
+ 
+ 
+ 
+Paras. 2.7.4 and 2.14.2 
+ 
+Inclining and stability information – 
+approval 
+ 
+ 
+ 
+Para. 3.4 
+ 
+Determination of service life 
+ 
+ 
+ 
+Para. 3.5 Design criteria 
+ 
+ 
+Para. 4.8.3 
+ 
+Documentation and verification of 
+evacuation time 
+ 
+ 
+ 
+ 
+Para. 7.5.6.3 
+ 
+Safe outlets for exhaust fans in fuel tank 
+spaces 
+ 
+ 
+ 
+ 
+Para. 7.7.2.3.2 
+ 
+Sensitivity limits of smoke detectors 
+ 
+ 
+ 
+Para. 7.7.6.1.5 
+ 
+ 
+Additional quantity of fire -extinguishing 
+medium 
+ 
+ 
+ 
+ 
+Para. 7.7.6.1.12 
+ 
+ 
+Containers for the storage of 
+fire-extinguishing medium, etc. – design 
+ 
+ 
+Para. 7.7.8.5 Maximum length of fire hoses 
+ 
+ 
+Para. 8.1 
+ 
+Approval and accep tance of LSA and 
+arrangements 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Para. 7.7.8.5 Maximum length of fire hoses 
+ 
+ 
+Para. 8.1 
+ 
+Approval and accep tance of LSA and 
+arrangements 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 41 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+SPECIFIC FLAG STATE OBLIGATIONS 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+Para. 8.9.1.2 Approval of novel LSAs or arrangements  
+Para. 8.9.1.3 
+ 
+Notifying the Organization 
+ 
+ 
+Para. 8.9.7.1.2 Approval of servicing stations 
+ 
+ 
+Para. 8.9.7.2 
+ 
+Deployment intervals of MES 
+ 
+ 
+Para. 8.9.11 
+ 
+Novel LSAs or arrangements 
+ 
+ 
+Para. 8.9.12 
+ 
+Notifying the Organization 
+ 
+ 
+Para. 10.2.4.9 
+ 
+Flexible oil fuel pipes 
+ 
+ 
+Para. 10.3.7 
+ 
+Internal diameters of suction branches 
+ 
+ 
+Para. 12.6.2 
+ 
+Specified voltages to earth 
+ 
+ 
+Para. 13.1.2 
+ 
+Navigational equipment and its 
+installation 
+ 
+ 
+Para. 13.13
+
+---CHUNK---
+
+SOURCE: A.1141(31).pdf
+Para. 10.3.7 
+ 
+Internal diameters of suction branches 
+ 
+ 
+Para. 12.6.2 
+ 
+Specified voltages to earth 
+ 
+ 
+Para. 13.1.2 
+ 
+Navigational equipment and its 
+installation 
+ 
+ 
+Para. 13.13 
+ 
+ 
+Approval of systems, equipment and 
+performance standards 
+ 
+ 
+Para. 14.3.3 
+ 
+Exemptions – reporting 
+ 
+ 
+Para. 14.13.1 Type approval 
+ 
+ 
+Para. 14.14.5 
+ 
+Ensuring maintenance 
+ 
+ 
+Para. 14.15 
+ 
+Radio personnel 
+ 
+ 
+Para. 14.16 
+ 
+Radio records 
+ 
+ 
+Para. 15.3.1 
+ 
+Operating station – field of vision 
+ 
+ 
+Para. 15.7.2 Ensuring clear view through windows  
+Para. 17.8 
+ 
+Acceleration and deceleration 
+ 
+ 
+Para. 18.1.4 
+ 
+Determining maximum allowable 
+distance from a base port or place of 
+refuge 
+ 
+ 
+Para. 18.2 
+ 
+Craft documentation 
+ 
+ 
+Resolution A.1141(31)  Adopted on 4 December 2019 
+2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
+Page 42 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1141.docx

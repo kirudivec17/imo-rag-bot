@@ -1,0 +1,2086 @@
+SOURCE: A.1122(30).pdf
+bursting pressure. The hose should be stencilled or otherwise marked with the date of testing, 
+its specified maximum working pressure and, if used in services other than the ambient 
+temperature services, its maximum and minimum service temperature, as applicable. 
+The specified maximum working pressure should not be less than 10 bar gauge. 
+ 
+CHAPTER 7 – CARGO TANK VENTING 
+ 
+To protect cargo containment systems from harmful overpressure or underpressure at all times. 
+ 
+7.1 General 
+ 
+7.1.1 All cargo tanks should be provided with a venting system appropriate to the cargo 
+being carried and these systems should be independent of the air pipes and venting systems 
+of all other compartments of the vessel. Tank venting systems should be designed so as to 
+minimize the possibility of cargo vapour accumulating about the decks, entering 
+accommodation, service and machinery spaces and control stations and, in the case of
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+minimize the possibility of cargo vapour accumulating about the decks, entering 
+accommodation, service and machinery spaces and control stations and, in the case of 
+flammable vapours, entering or collecting in spaces or areas containing sources of ignition. 
+Tank venting systems should be arranged to prevent entrance of water into the cargo tanks. 
+ 
+7.1.2 The venting systems should be connected to the top of each cargo tank and, as far 
+as practicable, the cargo vent lines should be self-draining back to the cargo tanks under all 
+normal operational conditions of list and trim. Where it is necessary to drain venting systems above 
+the level of any pressure/vacuum valve, capped or plugged drain cocks should be provided. 
+ 
+7.1.3 Provision should be made to ensure that the liquid head in any tank does not exceed 
+the design head of the tank. Suitable high-level alarms, overflow control systems or spill valves,
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+7.1.3 Provision should be made to ensure that the liquid head in any tank does not exceed 
+the design head of the tank. Suitable high-level alarms, overflow control systems or spill valves, 
+together with gauging and tank filling procedures, may be accepted for this purpose. Where 
+the means of limiting cargo tank overpressure includes an automatic closing valve, the valve 
+should comply with the appropriate requirements of 15.19 of the IBC Code.  
+ 
+7.1.4 Tank venting systems should be designed and operated so as to ensure that neither 
+pressure nor vacuum created in the cargo tanks during loading or unloading exceeds tank 
+design parameters. The main factors to be considered in the sizing of a tank venting system 
+are as follows:  
+ 
+.1 design loading and unloading rate; 
+ 
+.2 gas evolution during loading: this should be taken account of by multiplying 
+the maximum loading rate by a factor of at least 1.25;  
+Resolution A.1122(30)  Adopted on 6 December 2017
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+.2 gas evolution during loading: this should be taken account of by multiplying 
+the maximum loading rate by a factor of at least 1.25;  
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 31 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+.3 density of the cargo vapour mixture;  
+ 
+.4 pressure loss in vent piping and across valves and fittings; and  
+ 
+.5 pressure/vacuum settings of relief devices. 
+ 
+7.1.5 Tank vent piping connected to cargo tanks of corrosion-resistant material or to tanks 
+which are lined or coated to handle special cargoes as required by chapter 15 of the IBC Code, 
+should be similarly lined or coated or constructed of corrosion-resistant material. 
+ 
+7.1.6 The master should be provided with the maximum permissible loading and unloading
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+should be similarly lined or coated or constructed of corrosion-resistant material. 
+ 
+7.1.6 The master should be provided with the maximum permissible loading and unloading 
+rates for each tank or group of tanks consistent with the design of the venting systems. 
+ 
+7.2 Types of tank venting systems  
+ 
+7.2.1 An open tank venting system is a system which offers no restriction except for friction 
+losses to the free flow of cargo vapours to and from the cargo tanks during normal operations. 
+An open venting system may consist of individual vents from each tank, or such individual 
+vents may be combined into a common header or headers, with due regard to cargo 
+segregation. In no case should shut-off  valves or any other means of stoppage, including 
+spectacle blanks and blank flanges, be fitted either to the individual vents or to the header. 
+ 
+7.2.2 A controlled tank venting system is a system in which pressure- and vacuum-relief
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+spectacle blanks and blank flanges, be fitted either to the individual vents or to the header. 
+ 
+7.2.2 A controlled tank venting system is a system in which pressure- and vacuum-relief 
+valves or pressure/vacuum valves are fitted to each tank to limit the pressure or vacuum in the 
+tank. A controlled venting system may consist of individual vents from each tank or such 
+individual vents on the pressure side only as may be combined into a common header or 
+headers, with due regard to cargo segregation. In no case should shut-off valves or any other 
+means of stoppage, including spectacle blanks and blank flanges, be fitted either above or 
+below pressure- or vacuum-relief valves or pressure/vacuum valves. Provision may be made 
+for bypassing a pressure- or vacuum-relief valve or pressure/vacuum valve under certain 
+operating conditions provided that the requirement of 7.2.6 is maintained and that there is 
+suitable indication to show whether or not the valve is bypassed.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+operating conditions provided that the requirement of 7.2.6 is maintained and that there is 
+suitable indication to show whether or not the valve is bypassed. 
+ 
+7.2.3 Controlled tank venting systems should consist of a primary and a secondary means 
+of allowing full flow relief of vapour to prevent overpressure or underpressure in the event of 
+failure of one means. Alternatively, the secondary means may consist of pressure sensors 
+fitted in each tank with a monitoring system in the vessel's cargo control room or position from 
+which cargo operations are normally carried out. Such monitoring equipment should also 
+provide an alarm facility which is activated by detection of overpressure or underpressure 
+conditions within a tank. 
+ 
+7.2.4 The outlets of a controlled tank venting system should direct the vapour discharge 
+upwards in the form of unimpeded jets and the position should be arranged at a height of not 
+less than 6 m above the weather deck.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+upwards in the form of unimpeded jets and the position should be arranged at a height of not 
+less than 6 m above the weather deck. 
+ 
+7.2.5 The outlet height referred to in 7.2.4 may be reduced to 3 m above the weather deck 
+provided that high-velocity venting valves of an approved type with an exit velocity of at 
+least 30 m/s are fitted. 
+ 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 32 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+7.2.6 Controlled tank venting systems fitted to tanks to be used for cargoes having a 
+flashpoint not exceeding 60°C should be provided with devices to prevent the passage of flame 
+into the cargo tanks. The design, testing and locating of the devices should comply with the 
+provisions of the Administration, which should contain at least the standards adopted by the 
+Organization.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+provisions of the Administration, which should contain at least the standards adopted by the 
+Organization. 
+ 
+7.2.7 In designing venting systems and in the selection of devices to prevent the passage 
+of flame for incorporation into the tank venting system, due attention should be paid to the 
+possibility of the blockage of these systems and fittings by, for example, the freezing of cargo 
+vapour, polymer build-up, atmospheric dust or icing up in adverse weather conditions. In this 
+context it should be noted that flame arresters and flame screens are more susceptible to 
+blockage. Provisions should be made such that the system and fittings may be inspected, 
+operationally checked, cleaned or renewed as applicable. 
+ 
+7.2.8 Pressure tanks should be fitted with pressure relief devices that are so designed as 
+to direct the discharge away from personnel and have a set pressure and capacity which is in
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+7.2.8 Pressure tanks should be fitted with pressure relief devices that are so designed as 
+to direct the discharge away from personnel and have a set pressure and capacity which is in 
+accordance with standards acceptable to the Administration taking into account the design 
+pressure referred to in 6.1.5. 
+ 
+7.3 Venting requirements for individual products 
+ 
+Venting requirements for individual products are shown in column g and additional 
+requirements in column o in the table of chapter 17 of the IBC Code. 
+ 
+7.4 Cargo tank gas free ing 
+ 
+7.4.1 The arrangements for gas freeing cargo tanks used for cargoes other than those for 
+which open venting is permitted should be such as to minimize the hazards due to the dispersal 
+of flammable or toxic vapours in the atmosphere and to flammable or toxic vapour mixtures in 
+a cargo tank. Accordingly, gas freeing operations should be carried out such that vapour is 
+initially discharged:
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+a cargo tank. Accordingly, gas freeing operations should be carried out such that vapour is 
+initially discharged: 
+ 
+.1 through the vent outlets specified in 7.2.4 and 7.2.5; or 
+ 
+.2 through outlets at least 2 m above the cargo tank deck level with a vertical 
+exit velocity of at least 30 m/s maintained during the gas freeing operation; or 
+ 
+.3 through outlets at least 2 m above the cargo tank deck level with a vertical 
+exit velocity of at least 20 m/s which are protected by suitable devices to 
+prevent the passage of flame. 
+ 
+When the flammable vapour concentration at the outlets has been reduced to 30% of the lower 
+flammable limit and, in the case of a toxic product, the vapour concentration does not present 
+a significant health hazard, gas freeing may thereafter be continued at cargo tank deck level. 
+ 
+7.4.2 The outlets referred to in 7.4.1.2 and 7.4.1.3 may be fixed or portable pipes.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+a significant health hazard, gas freeing may thereafter be continued at cargo tank deck level. 
+ 
+7.4.2 The outlets referred to in 7.4.1.2 and 7.4.1.3 may be fixed or portable pipes. 
+ 
+7.4.3 In designing a gas freeing system in conformity with 7.4.1, particularly in order to 
+achieve the required exit velocities of 7.4.1.2 and 7.4.1.3, due consideration should be given 
+to the following: 
+ 
+.1 materials of construction of system; 
+ 
+.2 time to gas free; 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 33 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+.3 flow characteristics of fans to be used; 
+ 
+.4 the pressure losses created by ducting, piping, cargo tank inlets and outlets; 
+ 
+.5 the pressure achievable in the fan driving medium (e.g. water or 
+compressed air); and
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+.4 the pressure losses created by ducting, piping, cargo tank inlets and outlets; 
+ 
+.5 the pressure achievable in the fan driving medium (e.g. water or 
+compressed air); and 
+ 
+.6 the densities of the cargo vapour/air mixtures for the range of cargoes to be 
+carried. 
+ 
+CHAPTER 8 – ELECTRICAL INSTALLATIONS 
+ 
+To ensure electrical installations are designed so as to minimize the risk of fire and explosion 
+from flammable products, and to ensure availability of electrical generation and distribution 
+systems relating to the safe carriage, handling and conditioning of cargoes. 
+ 
+8.1 General requirements 
+ 
+8.1.1 The provisions of this chapter are applicable to vessels carrying cargoes which are 
+inherently, or due to their reaction with other substances, flammable or corrosive to the 
+electrical equipment, and should be applied in conjunction with applicable electrical 
+requirements of part D of chapter II-1 of SOLAS.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+electrical equipment, and should be applied in conjunction with applicable electrical 
+requirements of part D of chapter II-1 of SOLAS. 
+ 
+8.1.2 Electrical installations should be such as to minimize the risk of fire and explosion 
+from flammable products. Appropriate precautions should be taken to recognize the risks that 
+might be associated with deterioration of the electrical system and equipment on account of 
+the environment created by the products. 
+ 
+8.1.3 Electrical installation should be in accordance with standards acceptable to 
+the Organization.5 
+ 
+8.1.4 Electrical equipment or wiring should not be installed in hazardous areas unless 
+essential for operational purposes or safety enhancement. 
+ 
+8.1.5 Where electrical equipment is installed in hazardous areas as provided for in 8.1.4, it 
+should be selected, installed and maintained in accordance with standards not inferior to those 
+acceptable to the Organization. 5 Equipment for hazardous areas should be evaluated and
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+should be selected, installed and maintained in accordance with standards not inferior to those 
+acceptable to the Organization. 5 Equipment for hazardous areas should be evaluated and 
+certified or listed by an accredited testing authority or notified body recognized by the 
+Administration. Automatic isolation of non-certified equipment on detection of a flammable gas 
+should not be accepted as an alternative to the use of certified equipment. 
+ 
+8.1.6 To facilitate the selection of appropriate electrical apparatus and the design of suitable 
+electrical installations, hazardous areas are divided into zones in accordance with recognized 
+standards.5 
+ 
+8.1.7 The lighting system in hazardous areas should be divided between at least two branch 
+circuits. All switches and protective devices should interrupt all poles or phases and should be 
+located in a non-hazardous area.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+circuits. All switches and protective devices should interrupt all poles or phases and should be 
+located in a non-hazardous area. 
+ 
+                                                 
+5 Reference is made to the recommendations published by the International Electrotechnical Commission, in 
+particular to the publication IEC 60092-502:1999. 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 34 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+8.2 Electrical requirements for individual products 
+ 
+Electrical requirements for individual products are shown in column i in the table of chapter 17 
+of the IBC Code. 
+ 
+CHAPTER 9 – FIRE-FIGHTING REQUIREMENTS 
+ 
+To ensure that suitable systems are provided to protect the vessel and crew from fire in the 
+cargo area.  
+ 
+9.1 Application
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+of the IBC Code. 
+ 
+CHAPTER 9 – FIRE-FIGHTING REQUIREMENTS 
+ 
+To ensure that suitable systems are provided to protect the vessel and crew from fire in the 
+cargo area.  
+ 
+9.1 Application 
+ 
+9.1.1 For the carriage of liquids covered by the present Code, the requirements for tankers 
+in chapter II-2 of SOLAS should apply to vessels covered by the present Code, irrespective of 
+tonnage, including vessels of less than 500 GT, except that: 
+ 
+.1 regulations 10.8 (cargo tank protection) and 10.9 (protection of cargo 
+pump-rooms in tankers) should not be applied; 
+ 
+.2 the provisions of 9.3 of the present Code should be applied in lieu of 
+regulation 10.8 (cargo tank protection); 
+ 
+.3 the provisions of 9.2 of the present Code should be applied in lieu of 
+regulation 10.9 (protection of cargo pump-rooms in tankers); 
+ 
+.4 regulation 4.5.1.1 (positioning of machinery spaces aft of cargo tanks, slop 
+tanks, cargo pump-rooms and cofferdams), regulation 4.5.1.2 (requirements
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+.4 regulation 4.5.1.1 (positioning of machinery spaces aft of cargo tanks, slop 
+tanks, cargo pump-rooms and cofferdams), regulation 4.5.1.2 (requirements 
+for location of the main cargo control station), regulations 4.5.1.4 
+(combination carriers) and 4.5.2.1 (access to accommodations and boundary 
+bulkheads) to 4.5.2.3 (windows facing cargo area) need not be applied; 
+ 
+.5 with regard to regulation 9.2.4.1, the Administration may permit use of a method 
+other than IC as defined in regulation 9.2.3.1.1.1; 
+ 
+.6 for spaces other than cargo pump-room spaces, the requirements of 
+regulation 9.2.3 (cargo vessels except tankers) may be applied in lieu of 
+those in regulation 9.2.4.2; additionally, regulation 9.2.4.2.5 (A-60 standard) 
+need not be applied provided that the exterior boundaries of superstructures 
+and deckhouses enclosing accommodation and including any overhanging 
+decks which support such accommodation are located outside the cargo 
+deck area defined in 1.2.7.3;
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+and deckhouses enclosing accommodation and including any overhanging 
+decks which support such accommodation are located outside the cargo 
+deck area defined in 1.2.7.3; 
+ 
+.7 regulations 4.5.3 (cargo tank venting), 4.5.4 (ventilation), 4.5.7 (gas 
+measurement) and 4.5.8 (air supply to double hull spaces and double bottom 
+spaces) need not be applied where alternative arrangements are provided, 
+having due regard to the provisions of the present Code; 
+ 
+.8 for vessels below 2,000 GT, regulations 10.2 (water supply systems), 10.4 
+(fixed fire-extinguishing systems) and 10.5 (fire-extinguishing arrangements 
+in machinery spaces) should apply as they would apply to cargo vessels 
+of 2,000 GT and over; 
+ 
+.9 regulation 4.5.10 should apply to vessels of 500 GT and over, replacing 
+"hydrocarbon gases" by "flammable vapours" in the regulation; and 
+ 
+.10 regulations 13.3.4 (EEBDs) and 13.4.3 (EEBDs) should apply to vessels 
+of 500 GT and over.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+"hydrocarbon gases" by "flammable vapours" in the regulation; and 
+ 
+.10 regulations 13.3.4 (EEBDs) and 13.4.3 (EEBDs) should apply to vessels 
+of 500 GT and over. 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 35 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+9.1.2 Notwithstanding the provisions of 9.1.1, vessels engaged solely in the carriage of 
+products which are identified in chapter 17 of the IBC Code as non-flammable (entry "NF" in 
+column i of the table of minimum requirements) need not comply with requirements for tankers 
+specified in SOLAS chapter II-2, provided that they comply with the requirements for cargo 
+vessels of that chapter, except that regulation 10.7 (fire-extinguishing arrangements in 
+cargo spaces) need not apply to such vessels and 9.2 and 9.3 hereunder need not apply.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+vessels of that chapter, except that regulation 10.7 (fire-extinguishing arrangements in 
+cargo spaces) need not apply to such vessels and 9.2 and 9.3 hereunder need not apply. 
+ 
+9.1.3 For vessels engaged solely in the carriage of products with a flashpoint 
+exceeding 60°C (entry "Yes" in column i of the table of minimum requirements), the 
+requirements of SOLAS chapter II-2 may apply as specified in regulation II-2/1.6.4 (tankers 
+carrying petroleum products with a flashpoint exceeding 60°C) in lieu of the provisions of this 
+chapter. 
+ 
+9.1.4 For vessels engaged in both carriage of products with a flashpoint exceeding 60°C 
+and products with a flashpoint not exceeding 60°C, the provisions of 9.2 and 9.3 are only 
+applicable to the cargo areas and pump-rooms in connection with the tanks for carriage of 
+products with a flashpoint not exceeding 60°C. Further, the requirement for tankers in SOLAS
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+applicable to the cargo areas and pump-rooms in connection with the tanks for carriage of 
+products with a flashpoint not exceeding 60°C. Further, the requirement for tankers in SOLAS 
+chapter II-2, as referred to in 9.1.1 above, is only applicable to cargo areas, cargo space, cargo 
+tanks, pump-rooms, control stations and other spaces in connection with the tanks for carriage 
+of products with a flashpoint not exceeding 60°C. 
+ 
+9.2 Cargo pump-rooms 
+ 
+9.2.1 The cargo pump-room of any vessel to which the provisions of 9.1.4 apply should be 
+provided with a fixed carbon dioxide fire-extinguishing system as specified in SOLAS 
+regulation II-2/10.9.1.1. A notice should be exhibited at the controls stating that the system is 
+only to be used for fire-extinguishing and not for inerting purposes, due to the electrostatic 
+ignition hazard. The alarms referred to in SOLAS regulation II-2/10.9.1.1.1 (safe alarms)
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+only to be used for fire-extinguishing and not for inerting purposes, due to the electrostatic 
+ignition hazard. The alarms referred to in SOLAS regulation II-2/10.9.1.1.1 (safe alarms) 
+should be safe for use in a flammable cargo vapour/air mixture. For the purpose of this 
+requirement, an extinguishing system should be provided which would be suitable for 
+machinery spaces. However, the amount of gas carried should be sufficient to provide a 
+quantity of free gas equal to 45% of the gross volume of the cargo pump-room in all cases. 
+ 
+9.2.2 Cargo pump-rooms of vessels which are dedicated to the carriage of a restricted 
+number of cargoes should be protected by an appropriate fire-extinguishing system approved 
+by the Administration. 
+ 
+9.2.3 If cargoes are to be carried which are not suited to extinguishment by carbon dioxide 
+or equivalent media, the cargo pump-room should be protected by a fire-extinguishing system
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+9.2.3 If cargoes are to be carried which are not suited to extinguishment by carbon dioxide 
+or equivalent media, the cargo pump-room should be protected by a fire-extinguishing system 
+consisting of either a fixed pressure water spray or high-expansion foam system. 
+The International Certificate of Fitness should reflect this conditional requirement. 
+ 
+9.3 Protection of the cargo area 
+ 
+9.3.1 Every vessel should be provided with a fixed deck foam system in accordance with 
+the provisions of 9.3.2 to 9.3.8. 
+ 
+9.3.2 The system should be located and sized to supply simultaneously foam to the deck 
+area as defined in 1.2.7.3 to 1.2.7.5 and 1.2.7.7.  
+ 
+9.3.3 All parts of the areas are to be protected by either fixed foam monitor(s) or fixed 
+nozzles or a combination of both. 
+ 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 36 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+9.3.4 In case of foam monitors, one monitor may be sufficient and the distance from the 
+monitor to the farthest extremity of the protected area should not be more than 75% of the 
+monitor throw in still air conditions. The monitor(s) should be in a location that is not above the 
+cargo tanks and is readily accessible and operable in the event of fire in the areas protected. 
+ 
+9.3.5 The deck foam system should be capable of simple and rapid operation. The main 
+control station for the system should be suitably located outside of the cargo area, adjacent to 
+the accommodation spaces and readily accessible and operable in the event of fires in the 
+areas protected. 
+ 
+9.3.6 Application rate should be 10 l/min/m2 with sufficient supply for at least 30 min for tanks
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+areas protected. 
+ 
+9.3.6 Application rate should be 10 l/min/m2 with sufficient supply for at least 30 min for tanks 
+without an overlying cofferdam and 20 min for tanks with an overlying cofferdam. Water supply 
+to the fixed foam fire-extinguishing system should be in addition to the water supply required 
+for the vessels fire main. 
+ 
+9.3.7 The foam concentrates should be compatible with the cargo carried.  
+ 
+9.3.8 In addition, the vessel should carry in a readily available position, at cargo deck level, 
+two portable foam applicator units with at leas t four  portable 20 l containers with foam 
+concentrate, for use with water supplied by the vessels fire main. 
+ 
+9.4 Special requirements 
+ 
+All fire-extinguishing media determined to be effective for each product are listed in column l 
+in the table of chapter 17 in the IBC Code. Refer to the Material Safety Data Sheet (MSDS) for 
+each product to be carried. 
+ 
+CHAPTER 10 – MECHANICAL VENTILATION IN THE CARGO AREA
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+in the table of chapter 17 in the IBC Code. Refer to the Material Safety Data Sheet (MSDS) for 
+each product to be carried. 
+ 
+CHAPTER 10 – MECHANICAL VENTILATION IN THE CARGO AREA 
+ 
+To ensure that arrangements are provided for enclosed spaces in the cargo area to control the 
+accumulation of flammable and/or toxic vapours. 
+ 
+10.1 Application 
+ 
+10.1.1 For vessels to which the present Code applies, the provisions of this chapter replace 
+the requirements of SOLAS regulations II-2/4.5.2.6 and 4.5.4.1. 
+ 
+10.1.2 However, for products addressed under 9.1.3, except acids and products for 
+which 15.12 and/or 15.17 of the IBC Code applies, SOLAS regulations II-2/4.5.2.6 and 4.5.4.1 
+may apply in lieu of the provision of 10.2 of this chapter.  
+ 
+10.1.3 For non-flammable products addressed under 9.1.2, except acids and products for 
+which 15.12 and/or 15.17 of the IBC Code applies, the provisions for permanent installations
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+10.1.3 For non-flammable products addressed under 9.1.2, except acids and products for 
+which 15.12 and/or 15.17 of the IBC Code applies, the provisions for permanent installations 
+in 10.3 may apply for spaces required to be entered during normal cargo handling operations. 
+ 
+10.2 Spaces normally entered during normal cargo handling operations 
+ 
+10.2.1 Cargo pump-rooms, spaces containing cargo handling equipment and other enclosed 
+spaces where cargo vapours may accumulate should be fitted with fixed mechanical ventilation 
+systems, capable of being controlled from outside such spaces. The ventilation should be run 
+continuously to prevent the accumulation of toxic vapours. A warning notice requiring the use 
+of such ventilation prior to entering should be placed outside the compartment.  
+ 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 37 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+10.2.2 Mechanical ventilation inlets and outlets should be arranged to ensure sufficient air 
+movement through the space to avoid accumulation of toxic or asphyxiant vapours, and to 
+ensure a safe working environment. 
+ 
+10.2.3 The ventilation system should have a capacity of not less than 30 changes of air per 
+hour, based upon the total volume of the space.  
+ 
+10.2.4 Where a space has an opening into an adjacent more hazardous space or area, 
+it should be maintained at an overpressure. It may be made into a less hazardous space or 
+non-hazardous space by overpressure protection in accordance with standards acceptable to 
+the Organization.6
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+non-hazardous space by overpressure protection in accordance with standards acceptable to 
+the Organization.6  
+ 
+10.2.5 Ventilation systems should be permanent and should normally be of extraction type. 
+Extraction from above and below the floor plates should be possible. 
+ 
+10.2.6 Ventilation intakes should be so arranged as to minimize the possibility of recycling 
+hazardous vapours from any ventilation discharge opening. 
+ 
+10.2.7 Ventilation ducts serving hazardous areas should not be led through accommodation, 
+service or machinery spaces or control stations. 
+ 
+10.2.8 Electric motors driving fans should be placed outside the ventilation ducts that may 
+contain flammable vapours. Ventilation fans should not produce a source of ignition in either 
+the ventilated space or the ventilation system associated with the space. For hazardous areas, 
+ventilation fans and ducts adjacent to the fans should be of non-sparking construction, 
+as defined below:
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+ventilation fans and ducts adjacent to the fans should be of non-sparking construction, 
+as defined below:  
+ 
+.1 impellers or housing of non-metallic construction, with due regard being paid 
+to the elimination of static electricity;  
+ 
+.2 impellers and housing of non-ferrous materials;  
+ 
+.3 impellers and housing of austenitic stainless steel; and 
+ 
+.4 ferrous impellers and housing with not less than 13 mm design tip clearance. 
+ 
+10.2.9 Any combination of an aluminium or magnesium alloy fixed or rotating component and 
+a ferrous fixed or rotating component, regardless of tip clearance, is considered a sparking 
+hazard and should not be used in these places. 
+ 
+10.2.10 Where fans are required by this chapter, full required ventilation capacity for each 
+space should be available after failure of any single fan or spare parts should be provided 
+comprising a motor, starter spares and complete rotating element, including bearings of 
+each type.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+space should be available after failure of any single fan or spare parts should be provided 
+comprising a motor, starter spares and complete rotating element, including bearings of 
+each type.  
+ 
+10.2.11 Protection screens of not more than 13 mm square mesh should be fitted to outside 
+openings of ventilation ducts.  
+ 
+10.2.12 Where spaces are protected by overpressure the ventilation should be designed and 
+installed in accordance with standards acceptable to the Organization.6 
+ 
+                                                 
+6 Refer to IEC 60092-502:1999. 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 38 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+10.3 Spaces not normally entered  
+ 
+Enclosed spaces where cargo vapours may accumulate should be capable of being ventilated
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+Annex, page 38 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+10.3 Spaces not normally entered  
+ 
+Enclosed spaces where cargo vapours may accumulate should be capable of being ventilated 
+to ensure a safe environment when entry into them is necessary. This should be capable of 
+being achieved without the need for prior entry. For permanent installations, the capacity of 8  
+air changes per hour should be provided and for portable systems, the capacity of 16 air 
+changes per hour. Fans or blowers should be clear of personnel access openings, and should 
+comply with 10.2.8.  
+ 
+CHAPTER 11 – INSTRUMENTATION AND AUTOMATION SYSTEMS 
+ 
+To ensure that the instrument and automation systems provide for the safe carriage and 
+handling of cargoes. 
+ 
+11.1 General 
+ 
+11.1.1 Each cargo tank should be provided with a means for indicating level. 
+ 
+11.1.2 If loading and unloading of the vessel is performed by means of remotely controlled
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+11.1 General 
+ 
+11.1.1 Each cargo tank should be provided with a means for indicating level. 
+ 
+11.1.2 If loading and unloading of the vessel is performed by means of remotely controlled 
+valves and pumps, all controls and indicators associated with a given cargo tank should be 
+concentrated in at least one cargo control station. 
+ 
+11.1.3 Instruments should be tested to ensure reliability under working conditions and 
+recalibrated at regular intervals. Test procedures for instruments and the intervals between 
+recalibration should be in accordance with manufacturers' recommendations. 
+ 
+11.2 Level indicators for cargo tanks 
+ 
+11.2.1 Each cargo tank should be fitted with a liquid level gauging device or devices, 
+arranged to ensure a level reading is always obtainable whenever the cargo tank is operational. 
+The device(s) should be designed to operate throughout the design pressure range of the 
+cargo tank and at temperatures within the cargo operating temperature range.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+The device(s) should be designed to operate throughout the design pressure range of the 
+cargo tank and at temperatures within the cargo operating temperature range.  
+ 
+11.2.2 Where the installation of liquid level gauging devices are impractical due to the 
+properties of the cargo, such as liquid muds, a visual means of indicating the cargo tank level 
+should be provided for cargo loading operations, subject to approval by the Administration. 
+ 
+11.2.3 Where only one liquid level gauge is fitted, it should be arranged so that it can be 
+maintained in an operational condition without the need to empty or gas free the tank. 
+ 
+11.2.4 Cargo tank liquid level gauges may be of the following types, subject to special 
+requirements for particular cargoes shown in column j in the table of chapter 17 of the 
+IBC Code:  
+ 
+.1 Open device, which makes use of an opening in the tanks and may expose 
+the gauge to the cargo or its vapour. An example of this is the ullage opening.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+IBC Code:  
+ 
+.1 Open device, which makes use of an opening in the tanks and may expose 
+the gauge to the cargo or its vapour. An example of this is the ullage opening.  
+ 
+.2 Restricted device, which penetrates the tank and which, when in use, permits 
+a small quantity of cargo vapour or liquid to be exposed to the atmosphere. 
+When not in use, the device is completely closed. The design should ensure 
+that no dangerous escape of tank contents (liquid or spray) can take place in 
+opening the device.  
+ 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 39 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+.3 Closed device, which penetrates the tank but which is part of a closed system 
+and keeps tank contents from being released. Examples are the float-type 
+systems, electronic probe, magnetic probe and protected sight-glass.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+and keeps tank contents from being released. Examples are the float-type 
+systems, electronic probe, magnetic probe and protected sight-glass. 
+Alternatively, an indirect device which does not penetrate the tank shell and 
+which is independent of the tank may be used. Examples are weighing of 
+cargo and pipe flowmeter. 
+ 
+11.3 Overflow control 
+ 
+The requirements of 15.19 of the IBC Code are applicable where specific reference is made in 
+column o in the table of chapter 17 thereof, and are in addition to the provisions for gauging 
+devices as stated in 11.2. 
+ 
+11.4 Vapour detection 
+ 
+11.4.1 Vessels carrying toxic or flammable products or both should be equipped with at least 
+two instruments designed and calibrated for testing for the specific vapours in question. If such 
+instruments are not capable of testing for both toxic concentrations and flammable 
+concentrations, then two separate sets of instruments should be provided.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+instruments are not capable of testing for both toxic concentrations and flammable 
+concentrations, then two separate sets of instruments should be provided. 
+ 
+11.4.2 Vapour-detection instruments may be portable or fixed. If a fixed system is installed, 
+at least one portable instrument should be provided.  
+ 
+11.4.3 When toxic-vapour-detection equipment is not available for some products which 
+require such detection, as indicated in column k in the table of chapter 17 of the IBC Code, the 
+Administration may exempt the vessel from the requirement, provided an appropriate entry is 
+made on the Certificate of Fitness. When granting such an exemption, the Administration 
+should recognize the necessity for additional breathing-air supply and an entry should be made 
+on the Certificate of Fitness drawing attention to the requirements of 14.2.4 and 16.4.2.2 of the 
+IBC Code. 
+ 
+11.4.4  Vapour-detection requirements for individual products are shown in column k in the
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+IBC Code. 
+ 
+11.4.4  Vapour-detection requirements for individual products are shown in column k in the 
+table of chapter 17 of the IBC Code. 
+ 
+CHAPTER 12 – POLLUTION PREVENTION REQUIREMENTS 
+ 
+To ensure control of pollution from noxious liquid substances from OSVs. 
+ 
+12.1 Each vessel certified to carry noxious liquid substances should be provided with a 
+Cargo Record Book, a Procedure and Arrangements Manual and a Shipboard Marine Pollution 
+Emergency Plan developed for the vessel in accordance with MARPOL Annex II and approved 
+by the Administration.  
+ 
+12.2 Discharge into the sea of residues of noxious liquid substances permitted for carriage 
+under the present Code, tank washings, or other residues or mixtures containing such 
+substances, is prohibited. Any discharges of residues and mixtures containing noxious liquid 
+substances should be to port reception facilities. As a consequence of this prohibition, there
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+substances, is prohibited. Any discharges of residues and mixtures containing noxious liquid 
+substances should be to port reception facilities. As a consequence of this prohibition, there 
+are no requirements for efficient stripping and underwater discharge arrangements in 
+MARPOL Annex II.  
+ 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 40 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+CHAPTER 13 – LIFE-SAVING APPLIANCES AND ARRANGEMENTS 
+ 
+To ensure that life-saving appliances and arrangements are provided in such a way to protect the 
+life and safety of personnel on OSVs, having regard to the nature and volume of cargo carried. 
+ 
+For vessels carrying more than 1,200 m 3 of cargoes with a flashpoint not exceeding 60°C or 
+carrying cargoes emitting toxic vapours or gasses, the requirements for chemical tankers of
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+For vessels carrying more than 1,200 m 3 of cargoes with a flashpoint not exceeding 60°C or 
+carrying cargoes emitting toxic vapours or gasses, the requirements for chemical tankers of 
+SOLAS chapter III should apply. 
+ 
+CHAPTER 14 – PERSONNEL PROTECTION  
+ 
+To ensure that protective equipment is provided for crew members, taking into account both 
+routine operations or emergency situations and possible short-term or long-term effects of the 
+product being handled. 
+ 
+14.1 Protective equipment 
+ 
+14.1.1 Suitable protective equipment, including eye protection to a recognized national or 
+international standard, should be provided for protection of crew members engaged in normal 
+cargo operations, taking into account the characteristics of the products being carried. 
+ 
+14.1.2 Personal protective and safety equipment required in this chapter should be kept in 
+suitable, clearly marked lockers located in readily accessible places. Special arrangements
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+14.1.2 Personal protective and safety equipment required in this chapter should be kept in 
+suitable, clearly marked lockers located in readily accessible places. Special arrangements 
+should apply to contaminated clothing as appropriate. 
+ 
+14.2 First aid equipment 
+ 
+14.2.1 A stretcher that is suitable for hoisting an injured person from spaces below deck 
+should be kept in a readily accessible location. 
+ 
+14.2.2 The vessel should have on board medical first aid equipment, including oxygen 
+resuscitation equipment, based on the provisions of the Medical First Aid Guide for Use in 
+Accidents Involving Dangerous Goods (MFAG) for the cargoes listed on the Certificate of Fitness. 
+ 
+14.3 Safety equipment 
+ 
+14.3.1 Vessels carrying cargoes for which "15.12", "15.12.1" or "15.12.3" is indicated in 
+column o in the table of chapter 17 of the IBC Code should have on board sufficient but not 
+less than three complete sets of safety equipment, each permitting personnel to enter a
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+column o in the table of chapter 17 of the IBC Code should have on board sufficient but not 
+less than three complete sets of safety equipment, each permitting personnel to enter a 
+gas-filled compartment and perform work there for at least 20 min. Such equipment should be 
+in addition to that required by SOLAS regulation II-2/10.10. 
+ 
+14.3.2 Each complete set of safety equipment should consist of:  
+ 
+.1 one self-contained positive pressure air-breathing apparatus incorporating 
+full face mask, not using stored oxygen and having a capacity of at 
+least 1,200 l of free air; each set should be compatible with that required by 
+SOLAS regulation II-2/10.10;  
+ 
+.2 protective clothing, boots and gloves to a recognized standard; 
+ 
+.3 steel-cored rescue line with belt; and 
+ 
+.4 explosion-proof lamp.  
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+.4 explosion-proof lamp.  
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 41 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+14.3.3 For the safety equipment required in 14.3.1, all vessels should carry either: 
+ 
+.1 one set of fully charged spare air bottles for each breathing apparatus; 
+ 
+.2 a special air compressor suitable for the supply of high-pressure air of the 
+required purity; 
+ 
+.3 a charging manifold capable of dealing with sufficient spare air bottles for the 
+breathing apparatus; or 
+ 
+.4 fully charged spare air bottles with a total free air capacity of at least 6,000 l 
+for each breathing apparatus on board in excess of the requirements of 
+SOLAS regulation II-2/10.10. 
+ 
+14.3.4 A cargo pump-room on vessels carrying cargoes which are subject to the
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+for each breathing apparatus on board in excess of the requirements of 
+SOLAS regulation II-2/10.10. 
+ 
+14.3.4 A cargo pump-room on vessels carrying cargoes which are subject to the 
+requirements of 15.18 of the IBC Code or cargoes for which in column k in the table of 
+chapter 17 thereof toxic-vapour-detection equipment is required but is not available should 
+have either of the following: 
+ 
+.1 A low-pressure line system with hose connections suitable for use with the 
+breathing apparatus required by 14.3.1. This system should provide 
+sufficient high-pressure air capacity to supply, through pressure-reduction 
+devices, enough low-pressure air to enable two men to work in a 
+gas-dangerous space for at least 1 h without using the air bottles of the 
+breathing apparatus. Means should be provided for recharging the fixed air 
+bottles and the breathing apparatus air bottles from a special air compressor 
+suitable for the supply of high-pressure air of the required purity.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+bottles and the breathing apparatus air bottles from a special air compressor 
+suitable for the supply of high-pressure air of the required purity. 
+ 
+.2 An equivalent quantity of spare bottled air in lieu of the low-pressure air line.  
+ 
+14.3.5 Safety equipment as required by 14.3.2 should be kept in a suitable clearly marked 
+locker in a readily accessible place near the cargo pump-room or cargo area.  
+ 
+14.3.6 The breathing apparatus should be inspected at least once a month by a responsible 
+officer, and the inspection recorded in the vessel's logbook. The equipment should be 
+inspected and tested by an expert at least once a year. 
+ 
+14.4 Emergency equipment 
+ 
+14.4.1 Vessels carrying cargoes, for which "Yes" is indicated in column n of chapter 17 of 
+the IBC Code, should be provided with suitable respiratory and eye protection sufficient for 
+every person on board for emergency escape purposes, subject to the following:
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+the IBC Code, should be provided with suitable respiratory and eye protection sufficient for 
+every person on board for emergency escape purposes, subject to the following: 
+ 
+.1 filter-type respiratory protection is unacceptable; 
+ 
+.2 self-contained breathing apparatus should have a duration of service of at 
+least 15 min; and 
+ 
+.3 emergency escape respiratory protection should not be used for fire-fighting 
+or cargo handling purposes and should be marked to that effect. 
+ 
+14.4.2 One or more suitably marked decontamination showers and eyewash stations should 
+be available on deck, taking into account the size and layout of the vessel. The showers and 
+eyewashes should be operable in all ambient conditions. 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 42 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 42 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+CHAPTER 15 – OPERATIONAL REQUIREMENTS 
+ 
+To ensure that all crew members involved in cargo operations have sufficient information about 
+cargo properties and operating the cargo system so they can conduct cargo operations safely. 
+ 
+15.1 General 
+ 
+15.1.1 The quantity of a cargo required to be carried should be in accordance with the 
+requirements in 16.1.1 and 16.1.2 of the IBC Code. 
+ 
+15.1.2 Tanks carrying liquids at ambient temperatures should be loaded in such a way as to 
+avoid the tank becoming liquid-full during the voyage, having due regard to the highest 
+temperature which the cargo may reach. 
+ 
+15.1.3 When carrying cargo requiring controlled venting in column g in the table of chapter 17 
+of the IBC Code, the access to any surrounding areas in the horizontal plane and upwards of
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+15.1.3 When carrying cargo requiring controlled venting in column g in the table of chapter 17 
+of the IBC Code, the access to any surrounding areas in the horizontal plane and upwards of 
+the vent outlet should be restricted within a 4 m horizontal zone. 
+ 
+15.2 Cargo information 
+ 
+15.2.1 A copy of the present Code and the IBC Code, or national regulations incorporating 
+the requirements of the present Code and the IBC Code, should be on board every vessel 
+covered by the present Code. 
+ 
+15.2.2 Any cargo offered for bulk shipment should be indicated in the shipping documents 
+by the product name under which it is listed in chapter 17 or 18 of the IBC Code or the latest 
+edition of MEPC.2 Circular or under which it has been provisionally assessed. Where the cargo 
+is a mixture, an analysis indicating the dangerous components contributing significantly to the 
+total hazard of the product should be provided, or a complete analysis if this is available. Such
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+is a mixture, an analysis indicating the dangerous components contributing significantly to the 
+total hazard of the product should be provided, or a complete analysis if this is available. Such 
+an analysis should be certified by the manufacturer or by an independent expert acceptable to 
+the Administration. 
+ 
+15.2.3 Information should be on board, and available to all concerned, giving the necessary 
+data for the safe carriage of the cargo in bulk. Such information should include a cargo stowage 
+plan, to be kept in an accessible place, indicating all cargo on board, including for each 
+dangerous chemical carried: 
+ 
+.1 a full description of the physical and chemical properties, including reactivity, 
+necessary for the safe containment of the cargo; 
+ 
+.2 action to be taken in the event of spills or leaks; 
+ 
+.3 countermeasures against accidental personal contact; 
+ 
+.4 fire-fighting procedures and fire-fighting media; and
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+.2 action to be taken in the event of spills or leaks; 
+ 
+.3 countermeasures against accidental personal contact; 
+ 
+.4 fire-fighting procedures and fire-fighting media; and 
+ 
+.5 procedures for cargo transfer, tank cleaning, gas freeing and ballasting.  
+ 
+15.2.4 For those cargoes required to be stabilized or inhibited, the cargo should be refused 
+if the certificate required by these paragraphs is not supplied. 
+ 
+15.2.5 If sufficient information, necessary for the safe transportation of the cargo, is not 
+available, the cargo should be refused. 
+ 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 43 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+15.2.6 Where column o in the table of chapter 17 of the IBC Code refers to paragraph 16.2.6
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 43 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+15.2.6 Where column o in the table of chapter 17 of the IBC Code refers to paragraph 16.2.6 
+of the IBC Code, the cargo's viscosity at 20°C should be specified on a shipping document, 
+and if the cargo's viscosity exceeds 50 mPa·s at 20°C, the temperature at which the cargo has 
+a viscosity of 50 mPa·s should be specified in the shipping document. 
+ 
+15.2.7 Where column o in the table of chapter 17 of the IBC Code refers to paragraph 16.2.9 
+of the IBC Code, the cargo's melting point should be indicated in the shipping document. 
+ 
+15.3 Personnel training 7 
+ 
+15.3.1 All personnel should be adequately trained in the use of protective equipment and 
+have basic training in the procedures appropriate to their duties necessary under emergency 
+conditions. 
+ 
+15.3.2 Personnel involved in cargo operations should be adequately trained in handling 
+procedures.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+conditions. 
+ 
+15.3.2 Personnel involved in cargo operations should be adequately trained in handling 
+procedures. 
+ 
+15.3.3 Officers should be trained in emergency procedures to deal with conditions of 
+leakage, spillage or fire involving the cargo and a sufficient number of them should be 
+instructed and trained in essential first aid for cargoes carried, based on the guidelines 
+developed by the Organization.8 
+ 
+15.4 Opening of and entry into cargo tanks 
+ 
+15.4.1 During handling and carriage of cargoes producing flammable and/or toxic vapours 
+or when ballasting after the discharge of such cargo, or when loading or unloading cargo, cargo 
+tank lids should always be kept closed. With any hazardous cargo, cargo tank lids, ullage and 
+sighting ports and tank washing access covers should be open only when necessary. 
+  
+15.4.2 Enclosed space entry should be planned and conducted in a safe manner, taking into
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+sighting ports and tank washing access covers should be open only when necessary. 
+  
+15.4.2 Enclosed space entry should be planned and conducted in a safe manner, taking into 
+account, as appropriate, the guidance provided in the recommendations developed by the 
+Organization.9 
+ 
+15.4.3 Personnel should not enter such spaces when the only hazard is of a purely 
+flammable nature, except under the close supervision of a responsible officer.10 
+ 
+15.5 Simultaneous carriage of deck cargo and products 
+ 
+15.5.1 Deck cargo and products covered by the present Code should not be loaded or 
+unloaded simultaneously. 
+ 
+                                                 
+7 Refer to parts A and B of the Seafarers' Training, Certification and Watchkeeping Code (STCW Code). 
+8 Refer to the IMO/WHO/ILO Medical First Aid Guide for Use in Accidents Involving Dangerous Goods 
+(MFAG), as amended. 
+9 Refer to the Revised recommendations for entering enclosed space aboard ships (resolution A.1050(27)).
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+(MFAG), as amended. 
+9 Refer to the Revised recommendations for entering enclosed space aboard ships (resolution A.1050(27)). 
+10 Refer to the IMO/WHO/ILO Medical First Aid Guide for Use in Accidents Involving Dangerous Goods 
+(MFAG), as amended, which provides advice on the treatment of casualties in accordance with the 
+symptoms exhibited as well as equipment and antidotes that may be appropriate for treating the casualty, 
+and to the relevant provisions of parts A and B of the Seafarers' Training, Certification and Watchkeeping 
+Code (STCW Code). 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 44 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+15.5.2 Notwithstanding the provisions of 15.5.1, deck cargo and pollution hazard only 
+products having a flashpoint exceeding 60°C, may be loaded or unloaded simultaneously
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+15.5.2 Notwithstanding the provisions of 15.5.1, deck cargo and pollution hazard only 
+products having a flashpoint exceeding 60°C, may be loaded or unloaded simultaneously 
+provided that:  
+ 
+.1 each operation is defined and assigned to qualified personnel dedicated to 
+that specific operation; 
+ 
+.2 a safe working distance between the operations on board is observed; and 
+ 
+.3 the procedures, plans and instructions on board identify specific criteria for 
+when the simultaneously performed operations should not be conducted. 
+ 
+15.5.3 During loading or unloading operations covered by the present Code only personnel 
+engaged in cargo operation should be permitted to be in the cargo deck area; personnel not 
+engaged in cargo operation should be kept to a minimum in the adjacent open main deck.  
+ 
+15.5.4 For toxic cargoes, cargo tank pressure indication including audible and visual alarms 
+situated at the cargo control station and cargo area should meet the following:
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+15.5.4 For toxic cargoes, cargo tank pressure indication including audible and visual alarms 
+situated at the cargo control station and cargo area should meet the following: 
+ 
+.1 arrangement is to be in accordance with the alternative means as defined 
+in 7.2.3, with the activation point for over/underpressure to be set at 110% 
+and 90%, respectively, of the P/V valve setting; 
+ 
+.2 an independent audible and visual pressure alarm, set to be activated at 90% 
+of the P/V valve opening set pressure, is to be fitted to warn crew of imminent 
+vapour release; and 
+ 
+.3 the arrangement in subparagraph 2 is capable of being deactivated during 
+loading. 
+ 
+15.5.5 During loading of toxic cargoes, deck cargo should not be located in the cargo deck 
+area as defined in 1.2.7.3. Once a cargo loading operation is completed, deck cargo may be 
+carried in the area defined in 1.2.7.3.3, provided that the area in 1.2.7.3.2 is kept free from 
+deck cargo and relevant cargo deck areas clearly marked.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+carried in the area defined in 1.2.7.3.3, provided that the area in 1.2.7.3.2 is kept free from 
+deck cargo and relevant cargo deck areas clearly marked. 
+ 
+CHAPTER 16 – BACKLOADING OF CONTAMINATED BULK LIQUIDS  
+ 
+To ensure that arrangements and procedures are provided to control potential accumulation 
+of hydrogen sulphide, an explosive atmosphere, and other potential hazards backloaded from 
+the installation.  
+ 
+16.1 Preamble 
+ 
+16.1.1 Backloading of contaminated bulk liquids could present a threat to human health and 
+to the marine environment. 
+ 
+16.1.2 Contaminated backloads should therefore be: 
+ 
+.1 transported and handled in accordance with the provisions of the present 
+Code; and 
+ 
+.2 returned to shore for treatment or disposal. 
+ 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 45
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 45 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+16.2 General 
+ 
+16.2.1 Unless expressly provided otherwise, this chapter should apply to new and existing 
+vessels. 
+ 
+16.2.2 The provisions of this chapter should apply in conjunction with all other provisions of 
+the present Code. 
+ 
+16.2.3 For the carriage of contaminated backloads, the requirements in chapter 17 of the 
+IBC Code should apply as described in 16.4.4. 
+ 
+16.2.4 Contaminated bulk liquids should not contain traces of hydrogen sulphide (H 2S) prior 
+to or during loading of the cargo. 
+ 
+16.2.5 Even if the test carried out before backloading indicates that H 2S is not present and 
+that the contaminated bulk liquid has a flashpoint exceeding 60°C, a separation of the chemical
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+16.2.5 Even if the test carried out before backloading indicates that H 2S is not present and 
+that the contaminated bulk liquid has a flashpoint exceeding 60°C, a separation of the chemical 
+components may occur during the voyage, resulting in a release of H 2S and a corresponding 
+lowering of the flashpoint to 60°C or less. 
+ 
+16.2.6 H 2S detection equipment should be provided on board vessels carrying 
+contaminated backloads prone to H 2S formation. It should be noted that scavengers and 
+biocides, when used, may not be 100% effective in controlling the formation of H2S. 
+ 
+16.2.7 Contaminated bulk liquids should not contain radioactive materials which are subject 
+to the applicable requirements for such materials. 
+ 
+16.3 Documentation 
+ 
+16.3.1 In lieu of the cargo information specified in 15.2.3, the shipper and/or owner of the 
+contaminated bulk liquids should provide the master or his or her representative with 
+information as required in 16.3.2 prior to backloading.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+contaminated bulk liquids should provide the master or his or her representative with 
+information as required in 16.3.2 prior to backloading. 
+ 
+16.3.2 Information concerni ng the contaminated bulk liquid should be confirmed in writing 
+using the appropriate analysis form. An example of the analysis form is set out in appendix 2. 
+The information concerning the contaminated bulk liquid should at least include: 
+ 
+.1 a sample description;  
+ 
+.2 descriptions of the components of the mixture, name, concentration and 
+Material Safety Data Sheet (MSDS), if available;  
+ 
+.3 flashpoint (ºC);  
+ 
+.4 hydrogen sulphide (H 2S) level (ppm);11 
+ 
+.5 lower explosive limit (LEL) level (%);  
+ 
+.6 oxygen level (%);  
+ 
+.7 pH;  
+ 
+.8 bulk specific gravity (kg/m 3); 
+                                                 
+11 H 2S level should be 0 ppm. 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+11 H 2S level should be 0 ppm. 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 46 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+.9 water content (% volume);  
+ 
+.10 oil content (% volume);  
+ 
+.11 solids content (% volume);  
+ 
+.12 date and time of the analysis;  
+ 
+.13 details of any treatment to remove or prevent the formation of H 2S;  
+ 
+.14 any other relevant information; and 
+ 
+.15 conclusions of the test results, including confirmation that the components of 
+the mixtures are compatible. 
+ 
+16.4 Operation 
+ 
+16.4.1 Responsibilities  
+ 
+16.4.1.1 The master should not accept loading of any contaminated bulk liquid which is not 
+properly documented in accordance with 16.3. 
+ 
+16.4.1.2 The master should ascertain whether the contaminated bulk liquid is within the safe
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+properly documented in accordance with 16.3. 
+ 
+16.4.1.2 The master should ascertain whether the contaminated bulk liquid is within the safe 
+limits of the vessel and tanks, especially with  regard to the flashpoint of the specific liquid, 
+before backloading commences. 
+ 
+16.4.1.3 The responsibility for ensuring that cargoes are properly prepared for carriage on 
+board the vessel rests with the shipper and/or owner of the cargoes concerned. 
+ 
+16.4.2 Carriage requirements 
+ 
+16.4.2.1 Contaminated bulk liquids should be carried in accordance with the applicable 
+minimum carriage requirements for contaminated bulk liquids specified in chapter 17 of the 
+IBC Code or the latest edition of the MEPC.2/Circular. 
+ 
+16.4.2.2 In addition to the provisions in 16.4.2.1, H 2S and LEL gas detection is required for 
+carriage of contaminated bulk liquid as follows: 
+ 
+.1 fixed vapour detection instruments with audible and visual alarms to indicate
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+carriage of contaminated bulk liquid as follows: 
+ 
+.1 fixed vapour detection instruments with audible and visual alarms to indicate 
+H2S and LEL levels exceeding 5 ppm and 10%, respectively, installed in the 
+venting system of the relevant tanks; and 
+ 
+.2 portable instruments for all personnel on the working deck. 
+ 
+16.4.3 H 2S precaution  
+ 
+16.4.3.1 Contaminated bulk liquid should be discharged from the vessel as soon as possible, 
+preferably at the first port of call. 
+ 
+16.4.3.2 The need to clean the dirty tanks should be reviewed on each voyage to minimize the 
+risk of biological activity and H2S build up from any residue. 
+ 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 47 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 47 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+16.4.3.3 Prior to backloading to a dirty tank, the potential for biological activity resulting in H2S 
+in the dead volume and sludge should be considered. The offshore analysis of the previous 
+contaminated bulk liquid should be compared with analyses of a sample representative for the 
+liquid when unloading. 
+ 
+16.4.3.4 If H2S or flammable vapour is detected during loading of contaminated bulk liquids the 
+transfer should be stopped immediately. 
+ 
+16.4.3.5 Vessel-specific procedures for measures to be taken when H 2S is detected during 
+loading, transport, discharge and cleaning of contaminated bulk liquids should be included in 
+the vessel's safety management system. 
+ 
+16.4.4 Contaminated backloads 
+ 
+16.4.4.1 Based on the information contained in 16.3.2, the entry for "offshore contaminated
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+the vessel's safety management system. 
+ 
+16.4.4 Contaminated backloads 
+ 
+16.4.4.1 Based on the information contained in 16.3.2, the entry for "offshore contaminated 
+bulk liquid P" in chapter 17 of the IBC Code should be used for backloads that: 
+ 
+.1 are pollutant only and do not present any safety hazards 12 or where the 
+pre-backloading tests do not indicate any safety hazards (the backload may 
+contain components with safety hazards, as long as they are so diluted that 
+the final mixture presents no safety hazard);  
+ 
+.2 have a flashpoint greater than 60°C; or 
+ 
+.3 do not have the potential to become more hazardous during transport. 
+ 
+16.4.4.2 Based on the information contained in 16.3.2, the entry for "offshore contaminated 
+bulk liquid S" in chapter 17 of the IBC Code should be used for backloads that: 
+ 
+.1 have been treated to remove or prevent breakout of H 2S;  
+ 
+.2 are expected to present both pollution and safety hazards or where the initial
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+.1 have been treated to remove or prevent breakout of H 2S;  
+ 
+.2 are expected to present both pollution and safety hazards or where the initial 
+pre-backloading tests indicate a potential or actual safety hazard;  
+ 
+.3 may contain substances with a flashpoint not exceeding 60°C;  
+ 
+.4 have the potential to become more hazardous during transport; or 
+ 
+.5 are to be backloaded to a dirty tank the content of which has not been 
+analysed. 
+ 
+CHAPTER 17 – DISCHARGING AND LOADING OF PORTABLE TANKS ON BOARD 
+ 
+To ensure the safe handling of all cargoes to and from portable tanks which form part of the 
+vessel or remain on board, under all normal operating conditions and foreseeable emergency 
+conditions, to minimize the risk to the vessel, its crew and the environment, having regard to 
+the nature of the products involved. 
+ 
+                                                 
+12 Safety hazards are defined in paragraph 21.3.1 of the IBC Code.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+the nature of the products involved. 
+ 
+                                                 
+12 Safety hazards are defined in paragraph 21.3.1 of the IBC Code. 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 48 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+17.1 Preamble 
+ 
+17.1.1 The present Code applies only in the case of bulk carriage involving transfer of the 
+cargo to or from its containment. The carriage of dangerous goods in packaged form is 
+regulated under SOLAS chapter VII Part A and should comply with the relevant requirements 
+of the IMDG Code. The IMDG Code is also applicable for environmentally hazardous 
+substances in packaged form under MARPOL Annex III. Provisions of 4.2.1 of the IMDG Code 
+provide that: "Portable tanks shall not be filled or discharged while they remain on board."
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+substances in packaged form under MARPOL Annex III. Provisions of 4.2.1 of the IMDG Code 
+provide that: "Portable tanks shall not be filled or discharged while they remain on board."  
+ 
+17.1.2 The current operation practice is to carry portable tanks in two ways: 
+ 
+.1 Offshore portable tanks and their contents are loaded and offloaded to the 
+offshore installation by the use of a crane, in which case the IMDG Code 
+applies; or  
+ 
+.2 Offshore portable tanks and portable tanks are loaded with their contents 
+onto a vessel by crane or filled while on board and used as deck tanks in a 
+"deck spread". Then the contents are pumped to the offshore installation or 
+to the seabed. These tanks can also be used to receive backloads from the 
+installation and will be secured to the deck, in which case the cargo is 
+shipped under the present Code. 
+ 
+17.2 General 
+ 
+17.2.1 This chapter applies when using offshore portable tanks and portable tanks allowed 
+under 5.2.2.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+shipped under the present Code. 
+ 
+17.2 General 
+ 
+17.2.1 This chapter applies when using offshore portable tanks and portable tanks allowed 
+under 5.2.2. 
+ 
+17.2.2 A portable tank, for the purpose of this section, means a multimodal tank used for the 
+transport of dangerous goods of class 1 and classes 3 to 9. The portable tank includes a shell 
+fitted with service equipment and structural equipment necessary for the transport of 
+dangerous substances. The portable tank should be capable of being filled and discharged 
+without the removal of its structural equipment. It should possess stabilizing members external 
+to the shell, and should be capable of being lifted when full. It should be designed primarily to 
+be loaded onto a vehicle or vessel and should be equipped with skids, mountings or 
+accessories to facilitate mechanical handling. Road tank-vehicles, rail tank-wagons, 
+non-metallic tanks and intermediate bulk containers are not considered to fall within the
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+accessories to facilitate mechanical handling. Road tank-vehicles, rail tank-wagons, 
+non-metallic tanks and intermediate bulk containers are not considered to fall within the 
+definition of portable tanks. 
+ 
+17.2.3 The provisions of this chapter should apply in conjunction with all other provisions of 
+the present Code. 
+ 
+17.2.4 Chemicals, including blending additives, transported in portable deck tanks which are 
+considered to fall outside the scope of 1.1.9 may be carried in limited amounts in accordance 
+with provisions acceptable to the Administration. The aggregate amount of such chemicals 
+which may be transported should not exceed 10% of the vessel's maximum authorized quantity 
+of products subject to the present Code. An individual tank should contain not more than 10 m3 
+of these chemicals. The discharge of these chemicals into the sea from OSVs is prohibited.  
+ 
+17.3 Arrangement of deck spread
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+of these chemicals. The discharge of these chemicals into the sea from OSVs is prohibited.  
+ 
+17.3 Arrangement of deck spread  
+ 
+17.3.1 All pumping equipment, processing equipment, pipework, valves and hoses should 
+be compatible with the substances being transferred.   
+ 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 49 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+17.3.2 Pipework connecting deck spread tanks to bulk tanks within the cargo area of th e 
+vessel should have two valve separation and should comply with the provisions of chapter 6 
+of the present Code. 
+ 
+17.3.3 In addition to the cargo segregation required by chapters 3 and 4, the general stowage 
+and segregation requirements given in chapter 7 of the IMDG Code should apply.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+of the present Code. 
+ 
+17.3.3 In addition to the cargo segregation required by chapters 3 and 4, the general stowage 
+and segregation requirements given in chapter 7 of the IMDG Code should apply. 
+The segregation requirements may be relaxed subject to approval by the Administration. 
+ 
+17.3.4  Cargo tank vent systems of portable tanks allowed under 5.2.2 should be to the 
+satisfaction of the Administration, taking into account the requirements of chapter 6 of the 
+IMDG Code. 
+ 
+17.3.5 Arrangements of products with a flashpoint not exceeding 60°C, toxic products and 
+acids should comply with the provisions in chapter 4, as applicable. 
+ 
+17.3.6 Deck spills should be kept away from accommodation and service areas by means of 
+a coaming of suitable height and extension. 
+ 
+17.4 Shipment of cargo in portable tanks used as deck tanks 
+ 
+17.4.1 A procedure for the carriage of portable tanks should be completed and submitted to
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+17.4 Shipment of cargo in portable tanks used as deck tanks 
+ 
+17.4.1 A procedure for the carriage of portable tanks should be completed and submitted to 
+the Administration or any organization recognized by it, for consideration and approval prior to 
+arranging the deck spread. A model format for the procedure is set out in appendix 3. 
+ 
+17.4.2 The portable tank should be physically secured to the vessel, in accordance with the 
+vessel's cargo securing m anual to prevent loss in the event of an incident while at sea. 
+The arrangements for securing the portable tanks to the vessel should be of such strength as 
+to withstand the forces likely to be encountered during the voyage to and from the area of 
+operation. 
+ 
+17.4.3 The portable tank(s) and pumping system should be monitored regularly on the sea 
+passage to ensure the physical security of the portable tanks.  
+ 
+17.4.4 The pipework and valves should be secured to prevent movement.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+passage to ensure the physical security of the portable tanks.  
+ 
+17.4.4 The pipework and valves should be secured to prevent movement.   
+ 
+17.4.5 The loading and unloading of the portable tanks should not be undertaken at the same 
+time as other deck cargo is being handled.  
+ 
+17.4.6 Portable tank(s) should be filled through a manifold system.   
+ 
+17.4.7 Discharge into the sea of portable tank contents, residues, tank washings, or other 
+residues or mixtures containing such substances, is prohibited. Any discharges of residues 
+and mixtures containing noxious liquid substances should be to port reception facilities.  
+ 
+CHAPTER 18 – CARRIAGE OF LIQUEFIED GASES  
+ 
+To ensure that the vessel's design, arrangement and operational procedures are such as to 
+minimize the risk to the vessel, its crew and the environment, when carrying liquefied gases in 
+bulk. 
+ 
+18.1 General requirements 
+ 
+18.1.1 The provisions of this chapter should apply when liquid carbon dioxide (high purity
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+bulk. 
+ 
+18.1 General requirements 
+ 
+18.1.1 The provisions of this chapter should apply when liquid carbon dioxide (high purity 
+and reclaimed quality) and liquid nitrogen are carried.  
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 50 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+18.1.2 The Administration may allow adjustments to specific requirements in the IGC Code 
+regarding the cargo containment, materials of construction, vent system for cargo containment 
+and cargo transfer, taking into account existing industry standards and practices, if they are at 
+least as effective as that required by the IGC Code. 
+ 
+18.1.3 Unless expressly provided otherwise, these provisions are additional to the general 
+provisions of the present Code.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+least as effective as that required by the IGC Code. 
+ 
+18.1.3 Unless expressly provided otherwise, these provisions are additional to the general 
+provisions of the present Code. 
+ 
+18.1.4 In regard to the provisions connected to the cargo area, the vessel survival capability 
+and location of the cargo tanks, liquid carbon dioxide (high purity and reclaimed quality) and 
+liquid nitrogen should be regarded as a safety hazard substance with type 2 ship having a 
+flashpoint exceeding 60°C and not defined as a toxic. 
+ 
+18.1.5 L iquid carbon dioxide (high purity and reclaimed quality) and liquid nitrogen should be 
+carried in accordance with the applicable minimum carriage requirements specified in chapter 
+19 of the IGC Code and the special requirements s pecified in chapter 17 of the IGC Code for 
+the respective products.  
+ 
+18.2 Accommodation, service and machinery spaces and control stations
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+19 of the IGC Code and the special requirements s pecified in chapter 17 of the IGC Code for 
+the respective products.  
+ 
+18.2 Accommodation, service and machinery spaces and control stations 
+ 
+Unless they are located at least 7 m away from the deck area as defined in 1.2.7.2, entrances, 
+air inlets and openings to accommodation, service and machinery spaces and control stations 
+should not face the cargo deck area. Doors to spaces not having access to accommodation, 
+service and machinery spaces and control stations, such as cargo control stations and 
+storerooms, may be permitted within such deck area, provided the boundaries of the spaces 
+have equivalent gas tightening to A-60 standard. Wheelhouse doors and wheelhouse windows 
+may be located within the limits specified above as long as they are designed  in such a way  
+that a rapid and efficient gas and vapour tightening of the wheelhouse can be ensured.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+may be located within the limits specified above as long as they are designed  in such a way  
+that a rapid and efficient gas and vapour tightening of the wheelhouse can be ensured. 
+Windows and sidescuttles facing the deck area and on the sides of the su perstructures and 
+deckhouses within the limits specified above should be of the fixed (non -opening) type. 
+Such sidescuttles in the first tier on the main deck should be fitted with inside covers of steel 
+or equivalent material. 
+ 
+18.3 Cargo containment  
+ 
+The cargo tank should be in accordance with chapter 4 of the IGC Code. The design and 
+testing of the tanks for liquid nitrogen should be as required for independent tanks type C. 
+ 
+18.4 Materials of construction 
+ 
+Materials of construction should comply with the requirements of chapter 6 of the IGC Code. 
+ 
+18.5 Vent system for cargo containment 
+ 
+The vent system for cargo containment should comply with the requirements of chapter 8 of 
+the IGC Code.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+18.5 Vent system for cargo containment 
+ 
+The vent system for cargo containment should comply with the requirements of chapter 8 of 
+the IGC Code.  
+ 
+18.6 Cargo transfer 
+ 
+18.6.1 The cargo transfer system should comply with the requirements of chapter 5 of the 
+IGC Code. 
+ 
+18.6.2 Drip trays resistant to cryogenic temperatures should be provided at manifolds 
+transferring liquefied gases or at other flanged connections in the liquefied gas system. 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 51 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+18.7 Vapour detection  
+ 
+Each enclosed space used for handling or storage of a liquefied gas should be fitted with a 
+sensor continuously monitoring the oxygen content of the space and an alarm indicating low
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+Each enclosed space used for handling or storage of a liquefied gas should be fitted with a 
+sensor continuously monitoring the oxygen content of the space and an alarm indicating low 
+oxygen concentration. For semi-enclosed spaces portable equipment may also be acceptable. 
+ 
+18.8 Gauging and level detection 
+ 
+The gauging and level detection arrangements should comply with the requirements of 
+chapter 13 of the IGC Code. 
+ 
+18.9 Emergency shutdown system 
+ 
+18.9.1 Emergency shut-off valves should be provided in liquid outlet lines from each liquefied 
+gas tank. The controls for the emergency shut-off valves should meet the provisions given 
+in 6.6.1.3 for remote shutdown devices. 
+ 
+18.9.2 In the case of transfer operations involving pressures in excess of 5 MPa, 
+arrangements for emergency depressurizing and disconnection of the transfer hose should be 
+provided. The controls for activating emergency depressurization and disconnection of the
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+arrangements for emergency depressurizing and disconnection of the transfer hose should be 
+provided. The controls for activating emergency depressurization and disconnection of the 
+transfer hose should meet the provisions given in 6.6.1.3 for remote shutdown devices. 
+ 
+18.10 Personnel protection 
+ 
+Vessels carrying liquefied gases should have safety equipment on board in accordance 
+with 14.3. 
+ 
+18.11 Carriage on open deck 
+ 
+Instead of the use of permanently attached deck t anks, portable tanks meeting the design of 
+independent tanks type C may be used provided that the provisions of section 17.3 are 
+complied with.  
+ 
+18.12 Carriage of other liquefied gases listed in chapter 19 of the IGC Code 
+ 
+18.12.1 The present Code does not consider liquefied gases other than  liquid carbon dioxide 
+(high purity and reclaimed quality) and liquid nitrogen. When a vessel is intended for carriage
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+18.12.1 The present Code does not consider liquefied gases other than  liquid carbon dioxide 
+(high purity and reclaimed quality) and liquid nitrogen. When a vessel is intended for carriage 
+of other liquefied gases listed in chapter  19 of the IGC Code, flag Administration and coast al 
+State Administrations involved should take appropriate steps to ensure implementation of the 
+relevant requirements of the IGC Code,  taking into account the unique design features and 
+service characteristics of the vessel, as well as the limitation. Furt hermore, additional 
+provisions should be established based on the principles of the present Code  as well as 
+recognized standards that address specific risks not envisaged by it. Such risks may include, 
+but not be limited to: 
+ 
+.1 fire and explosion; 
+ 
+.2 evacuation; 
+ 
+.3 extension of hazardous areas; 
+ 
+.4 pressurized gas discharge to shore; 
+ 
+.5 high-pressure gas venting; 
+Resolution A.1122(30)  Adopted on 6 December 2017
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+.2 evacuation; 
+ 
+.3 extension of hazardous areas; 
+ 
+.4 pressurized gas discharge to shore; 
+ 
+.5 high-pressure gas venting; 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 52 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+.6 process upset conditions; 
+ 
+.7 storage and handling of flammable refrigerants; 
+ 
+.8 continuous presence of liquid and vapour cargo outside the cargo 
+containment system; 
+ 
+.9 tank overpressure and underpressure; 
+ 
+.10 vessel-to -vessel transfer of liquid cargo; and 
+ 
+.11 collision risk during berthing manoeuvres. 
+ 
+18.12.2 The Organization should be notified of the conditions for carriage prescribed by the 
+flag Administration and coastal State Administrations involved, so that the specific liquefied 
+gases may be considered for inclusion in the present Code.
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+flag Administration and coastal State Administrations involved, so that the specific liquefied 
+gases may be considered for inclusion in the present Code. 
+ 
+  
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 53 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+APPENDIX 1 
+ 
+MODEL FORM OF CERTIFICATE OF FITNESS  
+ 
+ 
+CERTIFICATE OF FITNESS 
+ 
+(Official seal) 
+ 
+Issued under the provisions of the 
+ 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS LIQUID 
+SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE) 
+(resolution A.1122(30)) 
+ 
+ 
+under the authority of the Government of 
+ 
+……………………………………………………………………………………………………… 
+(full official designation of country) 
+ 
+by …………………………………………………………………………………………………… 
+(full designation of the competent person or organization recognized by the Administration)
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+(full official designation of country) 
+ 
+by …………………………………………………………………………………………………… 
+(full designation of the competent person or organization recognized by the Administration) 
+ 
+Particulars of vessel1 
+Name of vessel .........................................................................................  
+Distinctive number or letters .........................................................................................  
+IMO number2 .........................................................................................  
+Port of registry .........................................................................................  
+Gross tonnage .........................................................................................  
+Date on which keel was laid or on which the vessel was at a similar stage of construction or  
+(in the case of a converted vessel) date on which conversion to offshore support vessel was 
+commenced 
+ 
+……………………………
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+(in the case of a converted vessel) date on which conversion to offshore support vessel was 
+commenced 
+ 
+……………………………  
+ 
+The vessel also complies fully with the following amendments to the Code: 
+……………………………………………………………………………………………………. 
+……………………………………………………………………………………………………. 
+                                                 
+1 Alternatively, the particulars of the vessel may be placed horizontally in boxes. 
+2 In accordance with the IMO Ship Identification Number Scheme , adopted by the Organization by 
+resolution A.1078(28). 
+Resolution A.1122(30)  Adopted on 6 December 2017 
+CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
+LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
+(OSV CHEMICAL CODE)A 30/Res.1122 
+Annex, page 54 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+The vessel is exempted from compliance with the following provisions of the Code: 
+ 
+……………………………………………………………………………………………………. 
+……………………………………………………………………………………………………. 
+ 
+ 
+THIS IS TO CERTIFY:
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+The vessel is exempted from compliance with the following provisions of the Code: 
+ 
+……………………………………………………………………………………………………. 
+……………………………………………………………………………………………………. 
+ 
+ 
+THIS IS TO CERTIFY: 
+ 
+1 That the vessel has been surveyed in accordance with the provisions of 1.4 of the Code; 
+ 
+2 That the survey showed that the construction and equipment of the vessel and the 
+condition thereof are in all respects satisfactory and that the vessel complies with the 
+relevant provisions of the Code; 
+ 
+3 That the vessel has been provided with a Manual in accordance with appendix 4 of 
+Annex II of MARPOL as called for by regulation 14 of Annex II, and that the 
+arrangements and equipment of the vessel prescribed in the Manual are in all 
+respects satisfactory; 
+ 
+4 That the vessel meets the requirements for the carriage in bulk of the following 
+products, provided that all relevant operational requirements of the Code and 
+MARPOL Annex II are observed: 
+ 
+Product  Conditions of carriage
+
+---CHUNK---
+
+SOURCE: A.1122(30).pdf
+products, provided that all relevant operational requirements of the Code and 
+MARPOL Annex II are observed: 
+ 
+Product  Conditions of carriage 
+(tank numbers, etc.) 
+Pollution 
+Category 
+   
+   
+   
+   
+   
+   
+   
+Continued on attachment 1, additional signed and dated sheets.3 
+Tank numbers referred to in this list are identified on attachment 2, signed and dated tank 
+plan. 
+ 
+5 That, in accordance with 1.3, the provisions of the Code are modified in respect of the 
+vessel in the following manner: 
+……………………………………………………………………………………………………. 
+ 
+6 That the vessel should be loaded: 
+ 
+.1 in accordance with the loading conditions provided in the approved loading 
+manual, stamped and dated........................ and signed by a responsible 
+officer of the Administration, or of an organization recognized by the 
+Administration3; 
+ 
+.2 in accordance with the loading limitations appended to this Certificate. 3 
+  
+                                                 
+3 Delete as appropriate.

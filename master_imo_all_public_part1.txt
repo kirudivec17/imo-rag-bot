@@ -1,0 +1,2760 @@
+SOURCE: MSC.198(80).pdf
+RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND  
+GUIDELINES FOR THE MAINTENANCE OF THE CONTINUOUS 
+SYNOPSIS RECORD (CSR)MSC 80/24/Add.1 
+ 
+I:\MSC\80\24-Add-1.doc 
+ 
+ANNEX 8 
+ 
+ 
+RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND GUIDELINES FOR THE 
+MAINTENANCE OF THE CONTINUOUS SYNOPSIS RECORD (CSR) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+ RECALLING ALSO resolution A.959(23) on Fo rmal and guidelines for the maintenance 
+of the Continuous Synopsis Reco rd (CSR) and in particular operating paragraph 4(b) through 
+which the Assembly has requested the Committee to keep the Format and guidelines under 
+review and amend them, as appropriate, in the light of experience gained, 
+ 
+ NOTING that a number of practical difficul ties have been encountered when issuing
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+review and amend them, as appropriate, in the light of experience gained, 
+ 
+ NOTING that a number of practical difficul ties have been encountered when issuing 
+Continuous Synopsis Records and, in particular, when  a ship is transferred to the flag of another 
+State the Government of which is a Contracting Government to the International Convention for 
+the Safety of Life at Sea, 1974, as amended (the Convention), 
+ 
+NOTING ALSO that on a number of occasi ons ships have encountered difficulties 
+during the exercise of control pursuant to the provisions of regulation I/19 of the Convention 
+and/or during the exercise of control and compliance measures pursuant to the provisions of 
+regulation XI-2/9 of the Conve ntion as a result of matters  related to the Continuous 
+Synopsis Record, 
+ 
+ACKNOWLEDGING the need to review and am end the guidelines for the maintenance 
+and the forms of the Continuous Synopsis Record as result of the experience gained,
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+Synopsis Record, 
+ 
+ACKNOWLEDGING the need to review and am end the guidelines for the maintenance 
+and the forms of the Continuous Synopsis Record as result of the experience gained, 
+ 
+HAVING ADOPTED amendments to the provisi ons of the regulation XI-1/3 of the 
+Convention to introduce the IMO Unique Company and Registered Owner Identification Number 
+Scheme and to regulation XI-1/5 of the Convention (SOLAS regula tion XI-1/5) to include in the 
+Continuous Synopsis Record the registered owner and the company identification numbers, 
+ 
+RECOGNIZING the need to reflect th e aforesaid amendments to SOLAS 
+regulation XI-1/5 in the forms of the Continuous Synopsis Record, 
+ 
+1. ADOPTS: 
+ 
+.1 amendments to the Format and Guidelines  for the maintenance of the Continuous 
+Synopsis Record (CSR), as set out in Anne x 1 to the present re solution to reflect 
+the experience gained; 
+ 
+.2 amendment to the Format and Guidelines  for the maintenan ce of the Continuous
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+Synopsis Record (CSR), as set out in Anne x 1 to the present re solution to reflect 
+the experience gained; 
+ 
+.2 amendment to the Format and Guidelines  for the maintenan ce of the Continuous 
+Synopsis Record (CSR), as set out in Anne x 2 to the present re solution to reflect 
+the amendments to SOLAS regulation XI-1/5; 
+RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND  
+GUIDELINES FOR THE MAINTENANCE OF THE CONTINUOUS 
+SYNOPSIS RECORD (CSR)MSC 80/24/Add.1 
+ANNEX 8 
+Page 2 
+ 
+I:\MSC\80\24-Add-1.doc 
+ 
+2. DECIDES that the amendments to the annex to resolution A.959(23)  set out in Annex 1 
+should enter into force on the da te of adoption of the present resolution and those set out in 
+Annex 2 should enter into force on 1 January 2009; 
+ 
+3. STRONGLY URGES Contracting Governments to the Convention to meet their 
+obligations under SOLAS regulation XI-1/5 and resolution A.959(23) and, in particular, when a
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+3. STRONGLY URGES Contracting Governments to the Convention to meet their 
+obligations under SOLAS regulation XI-1/5 and resolution A.959(23) and, in particular, when a 
+ship entitled to fly their flag is transferred to the flag of another Contracting Government to the 
+Convention, to forward to it the Continuous Synopsis  Record of the ship as soon as possible and 
+within the time frame prescribed in resolution A.959(23), as amended, so as to enable the latter 
+Government to promptly issue to the ship the required Continuous Synopsis Record; 
+ 
+4. INVITES Contracting Governments to the Convention to bring to its attention any 
+difficulties encountered with the implementation of  the provisions of SOLAS regulation XI-1/5 
+or of resolution A.959(23) as amended for consid eration of the issues involved and decision on 
+the actions to be taken. 
+ 
+ 
+RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+the actions to be taken. 
+ 
+ 
+RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND  
+GUIDELINES FOR THE MAINTENANCE OF THE CONTINUOUS 
+SYNOPSIS RECORD (CSR)MSC 80/24/Add.1 
+ANNEX 8 
+Page 3 
+ 
+I:\MSC\80\24-Add-1.doc 
+ANNEX 1 
+ 
+ 
+AMENDMENTS TO THE FORMAT AND GUIDELINES FOR THE MAINTENANCE 
+OF THE CONTINUOUS SYNOPSIS RECORD (CSR) (RESOLUTION A.959(23)) 
+ 
+Issue of revised and updated CSR documents by the Administration 
+ 
+ 
+1 The existing paragraph 8 is replaced by the following text: 
+ 
+In the case of a change of flag, the previ ous flag State has to issue a new CSR document 
+to the ship showing the date the ship ceased to be registered with that flag State.  That 
+flag State is required to se nd a copy of the ships CSR file, as soon as possible and 
+preferably not later than one m onth from the date the ship ceas ed to be registered, to the 
+new flag State.  The new flag State is requ ired to issue a new CSR document as soon as
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+preferably not later than one m onth from the date the ship ceas ed to be registered, to the 
+new flag State.  The new flag State is requ ired to issue a new CSR document as soon as 
+possible and not later than three months after the date of change of flag. 
+ 
+2 At the end of paragraph 9, the following new paragraph 9.1 is inserted: 
+ 
+9.1 In instances where the previous flag St ate has not forwarded, within three months 
+from the date of change of flag, the CSR file of the ship covering the period during which 
+the ship was entitled to fly its flag, to the ne w flag State, then the new flag State should 
+issue to the ship a CSR based on the CSR in formation received from onboard the ship.  
+The sequential number to be allocated to the CSR document to be so issued should be the 
+second sequential number after the last sequentially number shown on the CSR document 
+found (i.e. leaving first sequential number unused).  The new flag State should explain, in
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+second sequential number after the last sequentially number shown on the CSR document 
+found (i.e. leaving first sequential number unused).  The new flag State should explain, in 
+entry box 14, the reason for issuing the CSR document in such a manner. 
+ 
+Possibility of inconsistencies 
+ 
+3 At the end of paragraph 13, the fo llowing new paragraph 13.1 is inserted: 
+ 
+13.1 When inspecting the CSR file of ship s that have changed flag, those exercising 
+control under SOLAS regulation I/19 or co ntrol and compliance measures under SOLAS 
+regulation XI-2/9, should be guide d by the provisions of sections  8, 9 and 9.1, as well as 
+the Remarks shown in entry box 14 of the CSR document.  In the circumstances referred 
+to in section 9.1 the missing sequential number should be c onsidered as constituting a 
+deficiency against the previous flag State.  Such a deficiency is due to the fact that the 
+previous flag State did not fo rward the CSR file and thus failed to fulfil its obligations
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+deficiency against the previous flag State.  Such a deficiency is due to the fact that the 
+previous flag State did not fo rward the CSR file and thus failed to fulfil its obligations 
+under SOLAS regulation XI-1/5. 
+ 
+4 The following new section is inserted after paragraph 13.1: 
+ 
+The use of the Remarks entry box 
+ 
+ 14 The Remarks entry box should only be used by the flag State when 
+encountering difficulties w ith the implementation of the provisions of SOLAS 
+regulation XI-1/5 or of resolution A.959(23) as amended, such as in the case of bareboat 
+registration and change of flag. 
+ 
+RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND  
+GUIDELINES FOR THE MAINTENANCE OF THE CONTINUOUS 
+SYNOPSIS RECORD (CSR)MSC 80/24/Add.1 
+ANNEX 8 
+Page 4 
+ 
+I:\MSC\80\24-Add-1.doc 
+APPENDIX 
+ 
+ 
+FORM 1 
+ 
+5 At the end of the form the following new entry box is inserted: 
+ 
+14 Remarks ( insert relevant information as 
+appropriate) 
+ 
+ 
+ 
+ 
+FORM 2
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+I:\MSC\80\24-Add-1.doc 
+APPENDIX 
+ 
+ 
+FORM 1 
+ 
+5 At the end of the form the following new entry box is inserted: 
+ 
+14 Remarks ( insert relevant information as 
+appropriate) 
+ 
+ 
+ 
+ 
+FORM 2 
+ 
+6 At the end of the form the following new entry box is inserted: 
+ 
+14 Remarks ( insert relevant information as 
+appropriate) 
+ 
+ 
+ 
+RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND  
+GUIDELINES FOR THE MAINTENANCE OF THE CONTINUOUS 
+SYNOPSIS RECORD (CSR)MSC 80/24/Add.1 
+ANNEX 8 
+Page 5 
+ 
+I:\MSC\80\24-Add-1.doc 
+ANNEX 2 
+ 
+ 
+AMENDMENTS TO THE FORMAT AND GUIDELINES FOR THE MAINTENANCE 
+OF THE CONTINUOUS SYNOPSIS RECORD (CSR) (RESOLUTION A.959(23)) 
+ 
+ 
+APPENDIX 
+ 
+ 
+FORM 1 
+ 
+1 After the existing entry box number 6 the following new entry box is inserted: 
+ 
+7 Registered owner identification number  
+ 
+2 The existing entry boxes numbers 7 and 8 are renumbered as 8 and 9.
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+7 Registered owner identification number  
+ 
+2 The existing entry boxes numbers 7 and 8 are renumbered as 8 and 9. 
+ 
+3 After the existing box number 8, which is be ing renumbered as 9, the following new entry 
+box is inserted: 
+ 
+10 Company identification number  
+ 
+4 The existing entry boxes numbers 9 to 14 are renumbered as 11 to 16. 
+ 
+ 
+FORM 2 
+ 
+5 After the existing entry box number 6 the following new entry box is inserted: 
+ 
+7 Registered owner identification number  
+ 
+6 The existing entry boxes numbers 7 and 8 are renumbered as 8 and 9. 
+ 
+7 After the existing box number 8, which is be ing renumbered as 9, the following new entry 
+box is inserted: 
+ 
+10 Company identification number  
+ 
+8 The existing entry boxes numbers 9 to 14 are renumbered as 11 to 16. 
+ 
+ 
+*** 
+RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND  
+GUIDELINES FOR THE MAINTENANCE OF THE CONTINUOUS 
+SYNOPSIS RECORD (CSR)RESOLUTION MSC.198(80)
+
+---CHUNK---
+
+SOURCE: MSC.198(80).pdf
+*** 
+RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND  
+GUIDELINES FOR THE MAINTENANCE OF THE CONTINUOUS 
+SYNOPSIS RECORD (CSR)RESOLUTION MSC.198(80) 
+(adopted on 20 May 2005) 
+ADOPTION OF AMENDMENTS TO THE FORMAT AND  
+GUIDELINES FOR THE MAINTENANCE OF THE CONTINUOUS 
+SYNOPSIS RECORD (CSR)
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+Resolution A.1136(31)  Adopted on 4 December 2019 
+ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNS 
+I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY 
+31st session 
+Agenda item 8(b) 
+ 
+A 31/Res.1136 
+10 January 2020 
+Original: ENGLISH 
+ 
+Resolution A.1136(31) 
+ 
+Adopted on 4 December 2019 
+(Agenda item 8(b)) 
+ 
+ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT 
+OF IMO COUNCIL ELECTION CAMPAIGNS 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(e) of the Convention on the International Maritime Organization (IMO) 
+concerning the functions of the Assembly in relation to Council recommendations, 
+ 
+BELIEVING that the election to the IMO Council carries with it significant responsibility, as 
+those Member States forming the Council carry out several important duties in support of the 
+overall governance of the Organization, 
+ 
+CONSIDERING that IMO Council election campaigns run concurrently with the technical work
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+overall governance of the Organization, 
+ 
+CONSIDERING that IMO Council election campaigns run concurrently with the technical work 
+of the Organization proceedings and therefore should complement it, 
+ 
+NOTING that, in recent Assembly years, Member States witnessed an escalation in the 
+extravagance of receptions and gifts, 
+ 
+RECOGNIZING the ongoing efforts by the open-ended Working Group on Council Reform,  
+ 
+RECOGNIZING ALSO the need for commonly agreed standards of ethical behaviour to offer 
+equal conditions for all parties who choose to take part in the campaign for Council, 
+ 
+HAVING CONSIDERED the recommendation made by the Council at its 122nd session, 
+ 
+1 ADOPTS the Ethical considerations and guidelines for conduct of IMO Council 
+election campaigns, as set out in the annex to the present resolution; 
+ 
+2 URGES Member States, when performing or participating in activities related to IMO 
+Council elections, to adhere to these guidelines;
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+2 URGES Member States, when performing or participating in activities related to IMO 
+Council elections, to adhere to these guidelines; 
+ 
+3 REQUESTS Member States to inform the Council of any difficulties they may 
+experience when using the guidelines; 
+ 
+4 REQUESTS the Council to keep this resolution and the annexed guidelines under 
+review and propose amendments, as appropriate, for adoption by the Assembly. 
+ 
+Resolution A.1136(31)  Adopted on 4 December 2019 
+ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNSA 31/Res.1136 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
+Annex 
+ 
+ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF 
+IMO COUNCIL ELECTION CAMPAIGNS 
+ 
+Statement of intent  
+ 
+1 The International Maritime Organization (IMO) should be represented by a Council 
+that has been elected in a fair, ethical, transparent and equitable manner. This set of guidelines
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+1 The International Maritime Organization (IMO) should be represented by a Council 
+that has been elected in a fair, ethical, transparent and equitable manner. This set of guidelines 
+is intended to offer equal conditions fo r all parties who choose to take part in the election 
+process. Member States seeking election as well as those participating in the election process 
+are urged to perform their election activities in accordance with the ethical considerations and 
+guidelines for conduct outlined below.  
+ 
+Scope and applicability 
+ 
+2 These guidelines cover ethics and conduct surrounding Council elections. 
+ 
+3 These guidelines apply to IMO Member States seeking election to the Council as well 
+as those Member States participating a s voters. Staff members of the IMO Secretariat who 
+may participate in related events should continue to follow the policy which is published in 
+internal memorandum ADMIN/14/28 and the Standards of Conduct for the International Civil
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+may participate in related events should continue to follow the policy which is published in 
+internal memorandum ADMIN/14/28 and the Standards of Conduct for the International Civil 
+Service approved by the International Civil Service Commission (ICSC). 
+ 
+Objectives 
+ 
+4 To urge Member States to make every effort to ensure that campaigns act to 
+complement the policy and technical work of the Organization and Assembly proceedings.  
+ 
+5 To ensure that the conduct of Member States adheres to commonly agreed standards 
+of ethica l behaviour by abstaining from actions which could compromise the integrity and 
+credibility of the election process.  
+ 
+6 To eliminate practices that can cause damage to the Organization's equipment and 
+facilities. 
+ 
+Key principles 
+ 
+7 It is recognized that this set of ethical considerations and guidelines for conduct could 
+not possibly cover every situation or circumstance. In general, the following key principles 
+apply to all situations.
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+not possibly cover every situation or circumstance. In general, the following key principles 
+apply to all situations.  
+ 
+INTEGRITY: All Member States should maintain the highest standards of  integrity, 
+including honesty and incorruptibility in all matters affecting their official duties.  
+ 
+ACCOUNTABILITY: In fulfilling the responsibilities as a prospective candidate or 
+voter, Member States should strive to make decisions that are in the best interest of 
+the Organization and are representative of a fair election process.  
+ 
+FAIRNESS/EQUITY: All Member States should employ open processes, keeping in 
+mind the importance of equity and fairness in the election.  
+ 
+Resolution A.1136(31)  Adopted on 4 December 2019 
+ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNSA 31/Res.1136 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
+MUTUAL RESPECT: All Member States seeking election to the Council should have
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+Page 3 
+ 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
+MUTUAL RESPECT: All Member States seeking election to the Council should have 
+their candidacies considered based on merit, including their ability to work 
+constructively within the Council and the Organization as a whole. Members should 
+work to promote an inclusive environment, avoiding any potential activities which may 
+aggravate differences or create tensions. 
+ 
+TRANSPARENCY: The election process must remain open to scrutiny, to establish 
+trust and confidence in the process.  
+ 
+Ethical and conduct considerations 
+ 
+8 Candidates are urged to ensure that the activities relating to their candidature do not 
+interfere with the Organization's policy and technical work. 
+ 
+Hosting of receptions 
+ 
+9 Hosting a reception or tour is voluntary. Such inclusion in this document should n ot 
+lead the reader to b elieve that they are a necessary p art of a campaign. However, those
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+9 Hosting a reception or tour is voluntary. Such inclusion in this document should n ot 
+lead the reader to b elieve that they are a necessary p art of a campaign. However, those 
+Member States who choose to host a reception or tour should: 
+ 
+.1 make an effort to coordinate reception times, locations and consider joint 
+receptions to ensure all have an opportunity to host and attend; 
+ 
+.2 maintain the sanctity of the IMO Award ceremony for the International 
+Maritime Prize and the Award for Exceptional Bravery at Sea by refraining 
+from scheduling receptions or tours on the first evening of Assembly; and  
+ 
+.3 take into consideration that the overall cost of their reception, venue rental 
+fees, coupled with the provision of an entire meal and a gift may 
+unintentionally restrict some Member States from participating. 
+ 
+Gifts, favours, leaflets or other benefits 
+ 
+10 Gifts, favours or leaflets are commonly distributed during Assembly in the Plenary and
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+Gifts, favours, leaflets or other benefits 
+ 
+10 Gifts, favours or leaflets are commonly distributed during Assembly in the Plenary and 
+outside venues. Member States should be careful to consider the public perception of giving 
+gifts, being mindful of maintaining the legitimacy and fairness of the IMO elections at all times. 
+Member States are not  expected to provide gifts, favours or leaflets as part of a campaign;  
+however, should they choose to, the following provisions should be taken into account: 
+ 
+.1 any gifts, favours or leaflets should be small in size and of nominal value, 
+presented merely as a souvenir of a visit or as a mark of honour and should 
+not be used as a means to seek any official action from other Member States; 
+ 
+.2 distribution of leaflets or books should be kept to a minimum if distributed at 
+all; for larger bulky documents, consider referencing a website; 
+ 
+.3 during the Assembly week, the campaign materials distributed in the meeting
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+all; for larger bulky documents, consider referencing a website; 
+ 
+.3 during the Assembly week, the campaign materials distributed in the meeting 
+rooms, if distributed at all , shall be limited to a single page of information 
+regarding the candidates, with a view to preserving the decorum of the 
+Assembly; 
+ 
+.4 persons placing gifts, favours or leaflets within IMO's facilities should take 
+care not to damage audio equipment, person al electronic devices or the 
+privacy of a Member; 
+Resolution A.1136(31)  Adopted on 4 December 2019 
+ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNSA 31/Res.1136 
+Page 4 
+ 
+ 
+I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
+.5 delegates should remove all gifts, favours or leaflets from their area as soon 
+as possible but, at a minimum, each evening before departing; 
+ 
+.6 all should respect that , due to cultural, organizational or other unknown 
+reasons, some delegates may not be able to accept gifts and may be
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+.6 all should respect that , due to cultural, organizational or other unknown 
+reasons, some delegates may not be able to accept gifts and may be 
+required to return them and should be allowed to do so without prejudice; 
+and 
+ 
+.7 never request, provide or accept gifts, favours or promises of any kind in 
+return for favourable voting outcomes. 
+ 
+Campaign outreach 
+ 
+11 Member States should be afforded confidentiality in their voting decisions. Diplomatic 
+communications in support of a campaign should: 
+ 
+.1 focus on how the country can serve to benefit the Organization, their 
+experience or other contributing factors; and  
+ 
+.2 refrain from using negative information to influence others to vote in their 
+favour.  
+ 
+General and election statements 
+ 
+12 During Assembly, Member States are afforded two opportunities to formally address 
+the General Assembly: 1) a general statement; and 2) a Council election statement in support
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+12 During Assembly, Member States are afforded two opportunities to formally address 
+the General Assembly: 1) a general statement; and 2) a Council election statement in support 
+of the candidacy for Council. The following principles should be considered:  
+ 
+.1 general statements should be high-level or strategic statements focused on 
+the Organization itself and should not be utilized as a campaign speech; 
+ 
+.2 Council election statements may be the only opportunity delegates have to 
+provide details on how their country contributes to the technical and 
+cooperation activities of the Organization and how that country will serve the 
+Organization if elected to the Council; 
+ 
+.3 Member States should provide their s tatements in advance to 
+statements@imo.org to ensure adequate time for translation; and 
+ 
+.4 Member States should not exceed the  allocated time in order to allow 
+adequate time for all Member States. 
+ 
+ 
+___________
+
+---CHUNK---
+
+SOURCE: A.1136(31).pdf
+statements@imo.org to ensure adequate time for translation; and 
+ 
+.4 Member States should not exceed the  allocated time in order to allow 
+adequate time for all Member States. 
+ 
+ 
+___________ 
+ 
+Resolution A.1136(31)  Adopted on 4 December 2019 
+ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNSResolution A.1136(31)  Adopted on 4 December 2019 
+ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNS
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTED 
+I:\ASSEMBLY\28\RES\1091.doc 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY 
+28th session 
+Agenda item 6 
+ 
+A 28/Res.1091 
+28 March 2014 
+ Original:  ENGLISH 
+ 
+Resolution A.1091(28) 
+Adopted on 4 December 2013 
+(Agenda item 6) 
+ 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP  
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTED 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+regarding the functions of the Assembly in relation to recommendations and guidelines 
+concerning maritime safety,
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+regarding the functions of the Assembly in relation to recommendations and guidelines 
+concerning maritime safety, 
+ 
+BEARING IN MIND that the Assembly, at its twenty-seventh regular session, by 
+resolution A.1058(27), invited submissions on the collation and preservation of evidence 
+following an allegation of a serious crime having taken place on board a ship or following a 
+report of a missing person from a ship, and pastoral and medical care of victims, 
+ 
+RECALLING article 92 of the United Nations Convention on the Law of the Sea (UNCLOS) 
+which provides that ships shall sail under the flag of one State only and, save in exceptional 
+cases expressly provided for in international treaties or in UNCLOS, shall be subject to its 
+exclusive jurisdiction on the high seas, 
+ 
+RECALLING FURTHER article 27 of UNCLOS, which provides that criminal jurisdiction of a 
+coastal State should not be exercised on board a foreign ship passing through the territorial
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+RECALLING FURTHER article 27 of UNCLOS, which provides that criminal jurisdiction of a 
+coastal State should not be exercised on board a foreign ship passing through the territorial 
+sea to arrest any person or conduct any investigation in connection with any crime committed 
+on board the ship during its passage, except in the circumstances set forth in that article, 
+ 
+NOTING that a thorough investigation of a serious crime on board a ship may be a lengthy 
+process and that certain cases, in which more than one State may have jurisdiction, may 
+present complications and challenges to the authorities responsible for such investigations, 
+ 
+NOTING ALSO that whilst voluntary, such guidance as provided here would assist 
+shipowners, operators and masters in cooperating with relevant investigating authorities and 
+would contribute to effective and efficient criminal investigations in cases of serious crime or
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+shipowners, operators and masters in cooperating with relevant investigating authorities and 
+would contribute to effective and efficient criminal investigations in cases of serious crime or 
+missing persons from ships, and would further facilitate and expedite cooperation and 
+coordination between investigating authorities, consistent with international law, 
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+1 URGES Member Governments to consider the Guidelines in the annex, and to 
+advise shipowners, operators and masters to: 
+ 
+.1 assist in the preservation and collection of evidence following an allegation
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+advise shipowners, operators and masters to: 
+ 
+.1 assist in the preservation and collection of evidence following an allegation 
+of a serious crime on board a ship, or following a report of a missing person 
+from a ship, noting that criminal jurisdiction should be exercised 
+consistently with international law; and 
+ 
+.2 provide pastoral and medical care to persons affected;  
+ 
+2 URGES ALSO intergovernmental organizations and non-governmental 
+organizations with consultative status to consider the Guidelines as set out in the annex and 
+to advise their membership to act accordingly;  
+ 
+3 INVITES Member Governments, intergovernmental organizations and 
+non-governmental organizations with consultative status to consider bringing the results of 
+the experience gained from using the Guidelines, as set out in the annex, to the attention of 
+the Legal Committee. 
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6)
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+the experience gained from using the Guidelines, as set out in the annex, to the attention of 
+the Legal Committee. 
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Annex 
+ 
+ GUIDELINES ON THE PRESERVATION AND COLLECTION OF EVIDENCE 
+FOLLOWING AN ALLEGATION OF A SERIOUS CRIME HAVING TAKEN 
+PLACE ON BOARD A SHIP OR FOLLOWING A REPORT OF 
+A MISSING PERSON FROM A SHIP, AND PASTORAL 
+AND MEDICAL CARE OF PERSONS AFFECTED 
+ 
+ 
+Introduction 
+ 
+The primary purpose of these Guidelines is to assist masters 1, with respect to the 
+preservation of evidence and the pastoral and medical care of persons affected and, when
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+Introduction 
+ 
+The primary purpose of these Guidelines is to assist masters 1, with respect to the 
+preservation of evidence and the pastoral and medical care of persons affected and, when 
+appropriate, the collection of evidence, during the time period between the report or 
+discovery of a possible serious crime and the time when law enforcement authorities or other 
+professional crime scene investigators take action.   
+ 
+The master is not a professional crime scene investigator and does not act as a criminal 
+law-enforcement official when applying these Guidelines. These Guidelines should not be 
+construed as establishing a basis of any liability, criminal or otherwise, of the master in 
+preserving and/or handling evidence or related matters.  
+ 
+These Guidelines focus on what can practically be carried out on board a ship for the 
+preservation and/or collection of evidence and protect persons affected by serious crimes
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+These Guidelines focus on what can practically be carried out on board a ship for the 
+preservation and/or collection of evidence and protect persons affected by serious crimes 
+until such time that the relevant law enforcement authorities commence an investigation.  
+They are designed to apply to all vessels, regardless of ship type, and should help facilitate 
+the restoration of the normal operation of the ship, once the situation relating to the serious 
+crime on board comes to an end.  
+ 
+It is  recognized that the risk of a serious crime  taking place on a ship may be addressed 
+through the applicable onboard security arrangements. Although the emphasis is on the 
+need for preventive measures, the risk of a serious crime on board ships cannot be 
+completely eliminated.  If a serious crime is committed, it is imperative for all involved that it 
+is fully investigated by the appropriate authorities.  In addition, it is of the utmost importance
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+completely eliminated.  If a serious crime is committed, it is imperative for all involved that it 
+is fully investigated by the appropriate authorities.  In addition, it is of the utmost importance 
+that allegations of sexual assault and other serious crimes are taken seriously, that the 
+persons affected are protected and that their pastoral needs are fully addressed.  
+ 
+The investigation of serious crimes at sea presents particular challenges due to the different 
+entities that may be involved including, but not limited to, flag States, coastal States, port 
+States and States of nationalities of the persons on board.   
+ 
+Reportable serious crimes 
+ 
+Given the differences in laws of the many jurisdictions where a ship may sail, it is not 
+practical to provide a comprehensive list of the types and legal definitions of serious crimes 
+that require reporting.  Generally, the master should report alleged or discovered serious
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+practical to provide a comprehensive list of the types and legal definitions of serious crimes 
+that require reporting.  Generally, the master should report alleged or discovered serious 
+crimes to the flag State, other interested States and parties involved, including 
+law-enforcement authorities. These could include, but are not limited to, a suspicious death 
+or disappearance, a criminal act leading to serious bodily injury, sexual assault, conduct 
+endangering the safety of the vessel, or substantial loss of currency or property.   
+ 
+                                                
+1  Reference to the master herein includes officers or crew members to whom the master has delegated any 
+functions outlined in these Guidelines. 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP,
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 4 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Cooperation and coordination between interested States and parties 
+ 
+Swift response by law enforcement authorities is important to persons affected by serious 
+crimes.  
+ 
+Cooperation and coordination between interested States and parties should be undertaken in 
+a manner consistent with international law.  All interested States and parties involved should 
+cooperate and coordinate to ensure that a full and complete investigation is undertaken.  
+Regardless of which State undertakes the investigation, all investigations should be 
+conducted in the most expeditious manner possible.  
+ 
+The flag State and other interested States should maintain communications between
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+conducted in the most expeditious manner possible.  
+ 
+The flag State and other interested States should maintain communications between 
+themselves to inform each other about the initiation, progress and outcome of their criminal 
+investigation(s). 
+ 
+Role of the master  
+ 
+The overriding role of the master is to ensure the safety of passengers and crew, which 
+should take precedence over any concerns related to the preservation or collection of 
+evidence.   
+ 
+Once an allegation of a serious crime on board a ship has been made, the master should, as 
+soon as possible, report the allegation to the flag State. The master should, as appropriate, 
+also report the allegation to the interested States and parties involved, including law 
+enforcement authorities.   
+ 
+It is recognized that the master is not a professional crime-scene investigator and that crew 
+and resources to preserve and collect evidence may be limited depending on the vessel 
+type.
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+It is recognized that the master is not a professional crime-scene investigator and that crew 
+and resources to preserve and collect evidence may be limited depending on the vessel 
+type.  
+ 
+The master should ensure the persons affected are properly cared for and take measures to 
+preserve the evidence and follow the advice of the appropriate authorities, including law 
+enforcement authorities. 
+ 
+The master should attempt to secure the scene of the alleged crime as soon as possible, 
+with the main aim of allowing professional crime scene investigators to be able to undertake 
+their work.  The best option for preserving evidence is to seal the space, if practicable, and 
+for all persons to be prevented from entering it.  An example would be where an incident has 
+taken place in a cabin, then the best option would be for the cabin door to be locked, the key 
+secured and notices posted which would inform that no one should enter.
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+taken place in a cabin, then the best option would be for the cabin door to be locked, the key 
+secured and notices posted which would inform that no one should enter.   
+ 
+Where an incident has occurred in a space that cannot be sealed, the master should aim to 
+collect the evidence, as may be instructed by the flag State Administration, or as otherwise 
+guided by the law enforcement authorities. While recognizing that collecting evidence will 
+likely only be carried out in limited and exceptional circumstances, in such cases the master 
+could use the techniques and procedures outlined in appendix 2. 
+ 
+Following the allegation of a serious crime, and given the master's inherent authority on 
+board the ship, the master should draw up a list of persons who may have information and 
+invite them to record their recollection of events on the pro forma provided in appendix 1.  
+Any person may refuse to provide his or her recollection of events.  Whenever possible, the
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+invite them to record their recollection of events on the pro forma provided in appendix 1.  
+Any person may refuse to provide his or her recollection of events.  Whenever possible, the 
+master should attempt to obtain accurate contact information for persons believed to have 
+information about an alleged crime or missing person, in order to facilitate subsequent 
+contact by law-enforcement officials or other professional crime-scene investigators. 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 5 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Missing persons 
+ 
+In the event that a person is reported or believed to be missing, immediate actions should be
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+Page 5 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Missing persons 
+ 
+In the event that a person is reported or believed to be missing, immediate actions should be 
+taken to find the missing person.  The ship should be searched and consideration given to 
+mustering those on board as an efficient way of resolving the situation.  If the missing person 
+is not found, the relevant shipboard emergency procedures should be followed, and it should 
+be reported to the appropriate search and rescue organization 2.  If, at any time, the master 
+has any reasonable grounds to suspect that the person went missing due to a criminal act, 
+the other relevant sections of these Guidelines should be followed. 
+ 
+Pastoral and medical care  
+ 
+All persons affected by alleged serious crimes deserve full consideration of the allegations 
+and should receive pastoral and medical care, as appropriate.  
+ 
+In cases of allegations of a serious crime, especially sexual assaults and serious physical
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+and should receive pastoral and medical care, as appropriate.  
+ 
+In cases of allegations of a serious crime, especially sexual assaults and serious physical 
+attacks, the persons affected should receive respect for coming forward, recognition that the 
+allegation will be reported and given support during this time of trauma.  They should be 
+given every opportunity to explain what happened, give a full account of the incident, and be 
+reassured that every effort will be made to protect them from any further harm while they 
+remain on board the vessel.  The persons affected should also be free from any burden of 
+decision-making relating to the alleged perpetrator.   
+ 
+In cases in which the master is aware that a person has attempted suicide or threatened to 
+commit suicide, the master should attempt to protect this person to the extent practicable. 
+This person should be treated with care and respect.  In such cases, the master should seek
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+commit suicide, the master should attempt to protect this person to the extent practicable. 
+This person should be treated with care and respect.  In such cases, the master should seek 
+guidance on how to proceed, either from qualified medical persons if on board, or from radio 
+medical advice or from other medical advice that may be available through the flag State or 
+other authorities. If it is determined that a person believed to be at risk of suicide should be 
+disembarked from the ship, the master should coordinate such action with the flag State, 
+coastal State and/or port State, as appropriate.  If the circumstances indicate that the suicide 
+or threat of suicide is related to a serious crime on board, the master should refer to 
+applicable provisions in these Guidelines. 
+ 
+The persons mentioned in this section should have access to medical care and attention by a 
+medical professional, either on board or ashore, as necessary.  The privacy of the person
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+The persons mentioned in this section should have access to medical care and attention by a 
+medical professional, either on board or ashore, as necessary.  The privacy of the person 
+affected should be respected during this process.  Where relevant, radio medical advice 
+should be sought. 
+ 
+                                                
+2  Reference should be made to the International Aeronautical and Maritime Search and Rescue (IAMSAR) 
+Manual. 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 6 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Appendix 1 
+ 
+Incident Account 
+ 
+Name .........................................................   ........................................................................
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+Appendix 1 
+ 
+Incident Account 
+ 
+Name .........................................................   ........................................................................  
+                                (Given names)                                                        (Family name) 
+ 
+Name of ship  .............................................   ........................................................................  
+ 
+Flag State  ..................................................   ........................................................................  
+ 
+IMO No.  .....................................................  
+ 
+Contact information 
+ 
+Address ……………………………………………………………………………………………….... 
+ 
+…………………………………………………………………………………………………………… 
+ 
+…………………………………………………………………………………………………………… 
+ 
+Phone number(s)……………………………. 
+ 
+ ...................................................................  
+ 
+ 
+Note: The information given should be in as much detail as possible from w hat was
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+Phone number(s)……………………………. 
+ 
+ ...................................................................  
+ 
+ 
+Note: The information given should be in as much detail as possible from w hat was 
+personally seen, heard or experienced.  Details should be provided of physical descriptions 
+of any individuals seen or heard in relation to the event such as approximate age, height, 
+build, ethnic origin, eye colour, hair length and colour, facial hair, body markings, tattoos, 
+distinguishing marks (and scars), clothing and footwear. 
+ 
+ 
+Description of the incident: 
+ 
+................................................................................................................................................... 
+ 
+...................................................................................................................................................
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+................................................................................................................................................... 
+ 
+................................................................................................................................................... 
+ 
+................................................................................................................................................... 
+ 
+................................................................................................................................................... 
+ 
+ 
+ 
+ 
+ 
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 7 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Appendix 2
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 7 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Appendix 2 
+ 
+Preface 
+ 
+ 
+The guidance provided in sections 1-4 of this appendix is derived from MSC.1/Circ.1404. 
+That guidance was addressed to Member Governments and was originally developed to 
+provide guidance to investigators to assist in the investigation of the crimes of piracy and 
+armed robbery against ships.  It is understood that the master is not a professional crime 
+scene investigator and does not act in the capacity of a criminal law enforcement official and 
+that the guidance in sections 1-4 will likely only be applied in limited and exceptional 
+circumstances by masters who may be called upon to collect evidence that may otherwise be 
+lost if no action is taken. 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+lost if no action is taken. 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 8 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Section 1 
+ 
+ 
+Recovery and packaging of evidence 
+ 
+The following guidance is intended to assist the master to collect material which may assist 
+in the subsequent investigation by a law enforcement authority. 
+ 
+The master should: 
+ 
+.1 wear fresh protective clothing such as overalls, rubber gloves (for each 
+separate item if practical) as well as have some facial protection,  
+e.g. chemical/dust masks, to give some protection to himself and to avoid 
+distribution of own fingerprints and biological material on the recovered 
+items;
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+e.g. chemical/dust masks, to give some protection to himself and to avoid 
+distribution of own fingerprints and biological material on the recovered 
+items; 
+ 
+.2 items in the open and vulnerable to weather conditions should be given 
+priority over those that are enclosed, e.g. bridge, machinery spaces, 
+cabins, mess room, etc.; and 
+ 
+.3 all items are to be photographed, identified, labelled, and logged at the 
+location found before removal and packaging.  The camera should be set to 
+the correct date and time before starting.  This will help ensure an accurate 
+visual record which would be of evidential value.  The film or digital imaging 
+record will also be subject to evidential value. 
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP,
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 9 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Section 2 
+ 
+ 
+Identification and labelling 
+ 
+Each item recovered will need to be given an "identification reference" with a sequential 
+number (i.e. 01, 02, 03, etc.) to link it to the point of recovery and by whom. 
+ 
+For example, an abbreviation of the vessel's name, the point of discovery, e.g. Deck 3 
+mid-ships stairwell in Zone 2, the initials (not full name) of the finder and the sequential 
+number of the item recovered. 
+ 
+Each item, when packaged, will need to be given a label with the same unique reference to 
+link it to the point of discovery.  An example of this could be if the ship was named Sea Spirit
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+Each item, when packaged, will need to be given a label with the same unique reference to 
+link it to the point of discovery.  An example of this could be if the ship was named Sea Spirit 
+and the person recovering was Ronaldo Fernandez, giving an identification reference of: 
+ 
+SS/Date and Time/Crew Mess Room /RF/1, …/RF/2, …/RF/3 etc. 
+ 
+Where an item of obvious significance is found, both the person recovering it and the person 
+able to identify it in relation to any alleged perpetrator should include this on their pro-forma 
+statement (see appendix 1).  Should more than one person be involved in recovering items, 
+then the identification reference would include that person's initials, also starting from 01. 
+ 
+All items recovered will need to be safely stored in a clean and dry environment until such 
+time as they are landed ashore. 
+ 
+If a paper sack or cardboard box is used to package the item, the identification reference
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+time as they are landed ashore. 
+ 
+If a paper sack or cardboard box is used to package the item, the identification reference 
+should be written in ink (not in pencil) on the outside of the package.  In the case of plastic 
+bags, glass jars or smaller containers, a reference label will need to be attached.  Adhesive 
+tape – not staples – should be used to attach the label. 
+ 
+Example: 
+ 
+IDENTIFICATION REFERENCE 
+ 
+……SS…......./..03-03-2011..1425 / Crew Mess Room /….......RF……....../…01……….…… 
+ (Ship name) /  (Date/Time)          /      (Location)       /  (Recovered by) /   (Seq. number) 
+ 
+Brief description:  
+ 
+ 
+ 
+ 
+Signature:  
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 10
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 10 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Section 3 
+ 
+ 
+Log of items recovered from search or seizure 
+ 
+Item 
+No. 
+Date/ 
+Time 
+Location 
+found 
+Description 
+of item 
+Recovered 
+by 
+Signature 
+ 
+Identification 
+reference 
+Remarks 
+ 
+01 03/03/2011 
+1425 
+Crew 
+Mess Rm 
+Knife used 
+by alleged 
+perpetrator 
+Ronaldo 
+Fernandez 
+ As above  
+        
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 11 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Section 4 
+ 
+Guidelines on recovery and packaging of evidence 
+ 
+ 
+TYPE OF
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 11 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Section 4 
+ 
+Guidelines on recovery and packaging of evidence 
+ 
+ 
+TYPE OF 
+EXHIBIT SAMPLING/TREATMENT RECOMMENDED PACKAGING PRACTICAL OPTIONS FOR CONSIDERATION 
+ 
+WARNING: 
+THE HANDLING OF BODY FLUIDS CONSTITUTES A HEALTH HAZARD 
+ALWAYS SEEK ADVICE IF UNSURE 
+ 
+BLOOD 
+A)  
+Bloodstained 
+items  
+If an easily removable 
+item, e.g. knife, 
+ashtray, bottle, etc. 
+(see further down re: 
+clothing), allow the 
+item to dry completely 
+and naturally before 
+packaging. 
+ 
+DO NOT accelerate 
+drying. 
+ 
+Make a note on exhibit 
+seizure form if blood 
+stain was wet when 
+obtained.  
+Place each individual 
+item in a separate, 
+suitable and properly 
+sealed container, e.g. 
+sealed strong paper 
+bags or stout paper 
+sacks.  In the absence 
+of sacks, cardboard 
+boxes will suffice.  
+Bags/sacks should be 
+folded over twice and 
+sealed with adhesive 
+tape (adhesive tape or 
+similar device), boxes
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+sacks.  In the absence 
+of sacks, cardboard 
+boxes will suffice.  
+Bags/sacks should be 
+folded over twice and 
+sealed with adhesive 
+tape (adhesive tape or 
+similar device), boxes 
+should also be sealed 
+with tape. 
+ 
+Clearly mark any sack 
+or container that 
+contains blood with  
+"BIOHAZARD". 
+Bags/paper sacks 
+must not have been 
+used previously.  If no 
+"police issue" sacks 
+are available, suitable 
+sacks would be those 
+used for paper waste 
+disposal.  If a 
+cardboard box is used, 
+it should be as clean 
+as possible and lined 
+with clean paper.  
+Write the exhibit 
+identification reference 
+on the sack/box as you 
+seal it. 
+ 
+Note: Plastic bags 
+should not be used for 
+blood stained items as 
+they promote 
+dampness.  Nor should 
+staplers ever be used 
+to seal bags. 
+ 
+Seek advice and 
+guidance from ship’s 
+doctor/medic and/or 
+shore authorities if 
+required. 
+B)  Bloodstains  
+on immovable 
+objects 
+  If possible seal off the 
+room. 
+ 
+Mark any sack or 
+container that contains
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+guidance from ship’s 
+doctor/medic and/or 
+shore authorities if 
+required. 
+B)  Bloodstains  
+on immovable 
+objects 
+  If possible seal off the 
+room. 
+ 
+Mark any sack or 
+container that contains 
+blood with 
+"BIOHAZARD". 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 12 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+TYPE OF 
+EXHIBIT SAMPLING/TREATMENT RECOMMENDED PACKAGING PRACTICAL OPTIONS FOR CONSIDERATION 
+1)  Pools of wet 
+blood 
+ 
+WARNING – 
+Syringes and 
+needles pose 
+a serious 
+health hazard 
+and must be 
+handled with 
+extreme care 
+ 
+Wherever 
+possible, seek 
+medical advice 
+before 
+handling. 
+Can be collected using 
+a syringe. 
+ 
+ 
+ 
+ 
+ 
+Sample of the blood 
+can be taken by 
+swabbing, ensuring
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+handled with 
+extreme care 
+ 
+Wherever 
+possible, seek 
+medical advice 
+before 
+handling. 
+Can be collected using 
+a syringe. 
+ 
+ 
+ 
+ 
+ 
+Sample of the blood 
+can be taken by 
+swabbing, ensuring 
+that a sample is taken 
+from each individual 
+pool. 
+Blood (not syringe) to 
+be placed into a clean, 
+dry bottle/jar with a 
+screw top.  Syringe to 
+be disposed of in 
+proper "sharps" box. 
+ 
+Area taken from to be 
+indicated in notes, 
+exhibit reference 
+documented on 
+outside of swab, then 
+placed in an  exhibit 
+bag. 
+Make note as to type 
+of stain, i.e. wet/dry. 
+As above. 
+2)  Partly 
+clotted blood 
+Lift with a clean knife 
+or scalpel blade. 
+As above. As above. 
+ 
+Keep all WET or 
+SEMI-SOLID blood 
+samples in a cool 
+place.  If delay likely in 
+passing to authorities, 
+consider deep freezing 
+samples (away from 
+food products).  Take 
+advice before doing so. 
+3) Dry blood   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If practical and 
+possible, cut away the 
+surface containing the 
+stain.  A non-stained
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+samples (away from 
+food products).  Take 
+advice before doing so. 
+3) Dry blood   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If practical and 
+possible, cut away the 
+surface containing the 
+stain.  A non-stained 
+part of the item should 
+also be taken as a 
+control sample. 
+ 
+OR 
+ 
+Scrape dry blood onto 
+a clean sheet of paper. 
+Place each individual 
+item (including the 
+control sample) into a 
+separate suitable 
+container, e.g. paper 
+sack, cardboard box 
+and seal properly with 
+adhesive tape. 
+ 
+Fold paper carefully 
+and seal in a labelled 
+envelope. 
+Seek advice from 
+ship’s doctor/medic 
+and shore authorities. 
+ 
+Never use staplers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 13
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 13 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+ 
+TYPE OF 
+EXHIBIT 
+SAMPLING/TREATMENT RECOMMENDED 
+PACKAGING 
+PRACTICAL OPTIONS 
+FOR CONSIDERATION 
+4) Semen 
+stained items 
+The whole item 
+containing the stain 
+should be taken. If the 
+stain is still wet, 
+ALLOW ITEM TO DRY 
+NATURALLY in an 
+isolated area, before 
+packaging. 
+Avoid talking over the 
+item, as contamination 
+can occur. 
+ 
+Small items such as 
+tampons, sanitary towels 
+or knickers should be 
+frozen where possible. 
+ 
+Condoms should either 
+be sealed with a clip or 
+tied at the top. 
+Place each individual 
+item in a sealed paper 
+sack or clean 
+cardboard box. 
+ 
+Note any stains which 
+were wet when 
+obtained, both in the 
+notes and on the 
+exhibit. 
+ 
+As above. 
+May be impractical to 
+obtain and store. 
+However, if possible to
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+cardboard box. 
+ 
+Note any stains which 
+were wet when 
+obtained, both in the 
+notes and on the 
+exhibit. 
+ 
+As above. 
+May be impractical to 
+obtain and store. 
+However, if possible to 
+obtain and store, it 
+could provide valuable 
+evidence. 
+FIBRES AND HAIRS 
+Items onto 
+which fibres 
+may have 
+been 
+transferred  
+(e.g. from 
+victim's clothing 
+to other 
+clothing, 
+bedding, 
+weapons) 
+Where possible 
+recover the whole item 
+with the minimum of 
+disturbance.  If it 
+cannot be packaged, 
+cut out approximately 
+20 cm square of 
+material OR pull out 
+tufts of fibres.  
+Otherwise, seek advice 
+from shore authorities 
+as to fibre sampling. 
+Place in an envelope 
+sealing all seams and 
+openings.  Large items 
+should be placed in a 
+clean paper sack or 
+cardboard box.  If there 
+is more than one piece 
+then wrap each item 
+SEPARATELY and 
+seal effectively with 
+adhesive tape. 
+Do not use staplers, 
+seal with adhesive 
+tape.   
+A plastic sack could be 
+used if the item is 
+completely dry.
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+then wrap each item 
+SEPARATELY and 
+seal effectively with 
+adhesive tape. 
+Do not use staplers, 
+seal with adhesive 
+tape.   
+A plastic sack could be 
+used if the item is 
+completely dry. 
+ 
+Polythene bags 
+(providing no 
+dampness) or paper 
+sacks can be used. 
+Rope or twine 
+used by 
+alleged 
+offender 
+Recover the whole 
+length of rope if 
+possible OR obtain a 
+length at least 30 cm 
+long.  For suspicious 
+deaths or suicide, 
+recover the whole item. 
+Wrap each item 
+separately in a 
+polythene or paper 
+sack and seal 
+effectively. 
+Do not use staplers, 
+but always use 
+adhesive tape to seal 
+any bag.   
+Where there is 
+a possibility of 
+a PHYSICAL 
+FIT between 
+broken or cut 
+ends 
+If the rope must be cut 
+to remove it, first 
+clearly label the 
+original cut or broken 
+ends. 
+ 
+Always leave knots 
+intact. 
+Protect the cut or 
+broken ends with paper 
+or polythene bags so 
+that they cannot be 
+damaged and place 
+each individual piece of 
+rope or twine in a 
+separate polythene or
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+intact. 
+Protect the cut or 
+broken ends with paper 
+or polythene bags so 
+that they cannot be 
+damaged and place 
+each individual piece of 
+rope or twine in a 
+separate polythene or 
+paper sack. 
+As well as potential 
+evidence re: a crime, 
+such evidence could 
+be of considerable 
+value to an accident 
+investigation or inquest 
+re: suicide. 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 14 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+Items 
+recovered that 
+may have 
+hairs present 
+ 
+ 
+ 
+Recover the whole 
+item wherever 
+possible. 
+Wrap each item 
+separately in a 
+polythene or paper 
+sack and ensure the 
+bag is completely 
+sealed. 
+Do not use staplers to 
+secure the bag, only 
+seal with adhesive 
+tape.
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+possible. 
+Wrap each item 
+separately in a 
+polythene or paper 
+sack and ensure the 
+bag is completely 
+sealed. 
+Do not use staplers to 
+secure the bag, only 
+seal with adhesive 
+tape. 
+CLOTHING, BEDDING AND FOOTWEAR 
+Clothing (used 
+or left) 
+Recover the whole 
+item of clothing. 
+As above. As above. 
+Wet or damp 
+items 
+ 
+WARNING –  
+See first page 
+re: handling 
+materials 
+containing 
+body fluids 
+Allow to dry naturally 
+as soon as possible on 
+a paper-lined surface. 
+When completely dry, 
+package as above. 
+ 
+If it cannot dry, place in 
+plastic bag and freeze 
+(if very wet). 
+Avoid risks of 
+contamination by 
+drying at separate 
+locations where 
+practical. 
+Footwear 
+ 
+ 
+Package any footwear 
+used by the alleged 
+offender(s). 
+Use separate paper 
+sacks or cardboard 
+boxes for each item 
+and seal securely. 
+Suitable boxes might 
+be those that 
+contained photocopier 
+paper. 
+ 
+Do not place inside 
+plastic as it will sweat. 
+Bedding Where possible and 
+practical recover whole
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+and seal securely. 
+Suitable boxes might 
+be those that 
+contained photocopier 
+paper. 
+ 
+Do not place inside 
+plastic as it will sweat. 
+Bedding Where possible and 
+practical recover whole 
+item. Mark upper and 
+lower surfaces head 
+and foot to establish 
+orientation of sheets, 
+blankets, quilts, etc. 
+Wrap each item 
+separately at the 
+recovery location if 
+possible. Place in a 
+stout paper sack and 
+seal with adhesive 
+tape. 
+Ensure that all 
+recovered items are 
+kept separate to avoid 
+cross contamination. If 
+a number of cabins are 
+involved, if practical, 
+ensure different staff 
+recovers bedding and 
+bag and seal items at a 
+separate location 
+before storage. 
+ 
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP,
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 15 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+ 
+FOOTWEAR MARKS 
+Surface 
+transfer marks 
+Where possible 
+recover whole item, 
+e.g. on paper(s), 
+cardboard, glass, 
+bedding, etc. 
+Place each item 
+separately in an 
+appropriate and clean 
+container  
+(e.g. cardboard box)  
+to protect. 
+As above. 
+If not possible to 
+recover, consider 
+photographing placing 
+two rulers at right 
+angles to show size of 
+mark. 
+If digital photographs 
+taken, do not use any 
+photo enhancement 
+facilities.  Leave for 
+experts to improve 
+upon. 
+If film photography is 
+used, package the 
+entire film cassette. 
+GLASSWARE AND CERAMICS  
+Glasses, cups 
+mugs, etc., 
+used by the 
+alleged 
+offender(s) 
+ 
+ 
+ 
+Recover whole or 
+broken items used by 
+the alleged offender.
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+used, package the 
+entire film cassette. 
+GLASSWARE AND CERAMICS  
+Glasses, cups 
+mugs, etc., 
+used by the 
+alleged 
+offender(s) 
+ 
+ 
+ 
+Recover whole or 
+broken items used by 
+the alleged offender. 
+Place any broken 
+pieces in a polythene 
+bag or paper envelope 
+and place in a sturdy 
+cardboard box.  Whole 
+items should be 
+individually packaged.  
+Seal the box 
+completely with 
+adhesive tape. 
+If a box or sack 
+contains broken items 
+that could cut or injure, 
+please label  
+"CAUTION, INJURY 
+HAZARD". 
+EXPLOSIVES, FIREARMS AND OTHER WEAPONS 
+IMPORTANT – 
+Safety takes 
+precedence 
+over evidence 
+collection.  
+Specialist 
+advice MUST 
+be sought 
+before ANY 
+action is 
+taken. 
+  Seek urgent advice 
+from shore authorities 
+before taking action 
+unless taking action is 
+critical to preserving 
+life. 
+Weapons 
+other than 
+firearms 
+(e.g. knives, 
+hammers, 
+hatchets) 
+DO NOT attach any 
+adhesive material to 
+the blades or handles 
+(this could destroy 
+fingerprints or other
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+life. 
+Weapons 
+other than 
+firearms 
+(e.g. knives, 
+hammers, 
+hatchets) 
+DO NOT attach any 
+adhesive material to 
+the blades or handles 
+(this could destroy 
+fingerprints or other 
+evidence of value). 
+Place in cardboard box 
+or other secure 
+container and seal with 
+adhesive tape. 
+Where there are items 
+that could cut or injure, 
+please label 
+"CAUTION, INJURY 
+HAZARD". 
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 16 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+RECOVERY AND PROTECTION OF PROJECTILES 
+WARNING – 
+see above 
+re: blood and 
+firearms 
+Any wounds resulting 
+from a firearm injury 
+should (subject to 
+medical advice) be 
+photographed before 
+surgery.  Wherever 
+possible a ruler or
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+WARNING – 
+see above 
+re: blood and 
+firearms 
+Any wounds resulting 
+from a firearm injury 
+should (subject to 
+medical advice) be 
+photographed before 
+surgery.  Wherever 
+possible a ruler or 
+scale should be in the 
+photograph adjacent to 
+the wound. 
+Seek advice re: 
+packaging from 
+shoreside authorities. 
+ 
+Photographs of injuries 
+should be in colour as 
+this will show 
+differentiation between 
+blood staining and 
+blackening.  Films 
+should not be 
+processed unless it is 
+essential, but should 
+be retained for the 
+relevant authorities. 
+As above. 
+ Unless it is absolutely 
+essential to do so, do 
+not attempt to remove 
+a bullet or air pellet 
+that is imbedded in 
+walls, doors, etc. This 
+should be left to 
+forensic experts. 
+Photograph any 
+projectile in situ. 
+ Wherever possible, 
+seek advice from shore 
+authorities before 
+removal of area 
+surrounding projectile. 
+ 
+Mark the area clearly 
+without touching or 
+damaging the scene. 
+MODEL, REPLICA AND BLANK FIRING FIREARMS
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+seek advice from shore 
+authorities before 
+removal of area 
+surrounding projectile. 
+ 
+Mark the area clearly 
+without touching or 
+damaging the scene. 
+MODEL, REPLICA AND BLANK FIRING FIREARMS 
+IMPORTANT – 
+Safety takes 
+precedence 
+over evidence 
+collection.  
+Specialist 
+advice MUST 
+be sought 
+before ANY 
+action is 
+taken. 
+  Seek urgent advice 
+from shore authorities 
+before taking action 
+unless taking action is 
+critical to preserving 
+life. 
+ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
+Page 17 
+ 
+ 
+I:\ASSEMBLY\28\RES\1091.doc 
+ 
+CLOTHING OF PERSON SUSPECTED OF DISCHARGING A FIREARM AND ANY VICTIM  
+WARNING –  
+See first page 
+re: caution to 
+be applied 
+when dealing 
+with body 
+fluids
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+I:\ASSEMBLY\28\RES\1091.doc 
+ 
+CLOTHING OF PERSON SUSPECTED OF DISCHARGING A FIREARM AND ANY VICTIM  
+WARNING –  
+See first page 
+re: caution to 
+be applied 
+when dealing 
+with body 
+fluids 
+Clothing should be 
+gently handled to 
+preserve lightly 
+adhering firearm 
+discharge residue. 
+ 
+ 
+As above.  BUT 
+bloodstained clothing 
+must be allowed to dry 
+naturally before being 
+packaged. 
+Items of clothing must 
+be individually 
+packaged in paper 
+sacks, sealed with 
+adhesive tape and 
+labelled. 
+Plastic sacks can be 
+used where clothing is 
+dry. 
+ 
+Ensure that separate 
+people deal with the 
+suspect’s and victim's 
+clothing at separate 
+locations to eliminate 
+the possibility of cross 
+contamination. 
+Clothing of 
+victim (crew) 
+As above. As above. As above. 
+DOCUMENTS (e.g. DEMANDS/RANSOM NOTES) 
+Hand-written 
+documents 
+Obtain the ORIGINAL 
+document, place in a 
+polycover and if 
+possible make a 
+photocopy to be used 
+as a working document 
+(e.g. to fax to 
+authorities or head
+
+---CHUNK---
+
+SOURCE: A.1091(28).pdf
+Hand-written 
+documents 
+Obtain the ORIGINAL 
+document, place in a 
+polycover and if 
+possible make a 
+photocopy to be used 
+as a working document 
+(e.g. to fax to 
+authorities or head 
+office). 
+Place in a clean 
+polyfolder or polythene 
+bag. 
+ 
+DO NOT WRITE OR 
+MAKE ANY 
+INDENTATIONS ON 
+DOCUMENT. 
+ 
+ 
+ 
+___________ 
+Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDResolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
+GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
+ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
+OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
+AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTED
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+Resolution A.1117(30)  Adopted on 6 December 2017 
+IMO SHIP IDENTIFICATION NUMBER SCHEMEI:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
+E
+ASSEMBLY 
+30th session  
+Agenda item 9 
+A 30/Res.1117 
+18 December 2017 
+Original: ENGLISH 
+Resolution A.1117(30) 
+Adopted on 6 December 2017 
+(Agenda item 9) 
+IMO SHIP IDENTIFICATION NUMBER SCHEME 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships, 
+BELIEVING that the enhancement of maritime safety and pollution prevention and the 
+prevention of maritime fraud could be facilitated if a permanent identification number were 
+assigned to a ship which would remain unchanged upon transfer of its flag and would be 
+inserted on ships' certificates, 
+RECALLING that, by resolution 1, the Conference of Contracting Governments to the
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+inserted on ships' certificates, 
+RECALLING that, by resolution 1, the Conference of Contracting Governments to the 
+International Convention for the Safety of Life at Sea, 1974 (SOLAS Convention), held at IMO 
+Headquarters in May 1994, adopted amendments to the SOLAS Convention , which included 
+the addition of a mandatory regulation on the ship identification number scheme (current 
+SOLAS regulation XI-1/3), which entered into force on 1 January 1996, 
+RECALLING ALSO that, by resolution MSC.202(81), the Maritime Safety Committee, at its 
+eighty-first session, adopted amendments to the SOLAS Convention with regard to the 
+long-range identification and tracking of ships (SOLAS regulation V/19-1), which entered into 
+force on 1 January 2008, 
+RECALLING FURTHER that, by resolution A.600(15), it adopted the IMO Ship Identification 
+Number Scheme, and by resolution A.1078(28), the revised IMO Ship Identification Number
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+RECALLING FURTHER that, by resolution A.600(15), it adopted the IMO Ship Identification 
+Number Scheme, and by resolution A.1078(28), the revised IMO Ship Identification Number 
+Scheme, which allows the voluntary application of the Scheme to ships of 100 gross tonnage 
+and above, including fishing vessels, 
+RECOGNIZING the need for the IMO Ship Identification Number Scheme to be revised to allow 
+its application to ships of 100 gross tonnage and above, including fishing vessels of steel and 
+non-steel hull construction; passenger ships of less than 100 gross tonnage, high-speed 
+passenger craft and mobile offshore drilling units covered by SOLAS regulation V/19-1; and 
+all motorized inboard fishing vessels of less than 100 gross tonnage down to a size limit 
+of 12 metres in length overall (LOA), authorized to operate outside waters under the national 
+jurisdiction of the flag State, 
+Resolution A.1117(30)  Adopted on 6 December 2017 
+IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+jurisdiction of the flag State, 
+Resolution A.1117(30)  Adopted on 6 December 2017 
+IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee at its 
+ninety-eighth session, 
+ 
+1 ADOPTS the IMO Ship Identification Number Scheme, as set out in the annex to the 
+present resolution for implementation on a voluntary basis; 
+ 
+2 INVITES Governments concerned to implement the Scheme as far as is practicable 
+and to inform the Organization of measures taken in this respect; 
+ 
+3 REQUESTS the Maritime Safety Committee to keep the Scheme under review for 
+further improvement as may be necessary; 
+ 
+4 REVOKES resolution A.1078(28).  
+ 
+ 
+Resolution A.1117(30)  Adopted on 6 December 2017 
+IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
+Annex 
+ 
+IMO SHIP IDENTIFICATION NUMBER SCHEME 
+ 
+Introduction
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
+Annex 
+ 
+IMO SHIP IDENTIFICATION NUMBER SCHEME 
+ 
+Introduction 
+ 
+1 The purpose of the Scheme is to enhance maritime safety and pollution prevention 
+and to facilitate the prevention of maritime fraud. It is not intended to prejudice matters of 
+liability, civil law or other commercial considerations in the operation of a ship. Administrations 
+should apply the Scheme to new and existing ships under their flag engaged in international 
+voyages. Administrations may also wish to assign IMO Ship Identification Numbers (IMO 
+numbers) to ships engaged solely on domestic voyages and to insert the number in the national 
+certificates. 
+ 
+Application 
+ 
+2 The Scheme applies to ships of 100 gross tonnage and above, including fishing 
+vessels of steel and non-steel hull construction; passenger ships of less than 100 gross
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+Application 
+ 
+2 The Scheme applies to ships of 100 gross tonnage and above, including fishing 
+vessels of steel and non-steel hull construction; passenger ships of less than 100 gross 
+tonnage, high-speed passenger craft and mobile offshore drilling units engaged on 
+international voyages (SOLAS regulation V/19-1); and to all motorized inboard fishing vessels 
+of less than 100 gross tonnage down to a size limit of 12 metres in length overall (LOA) 
+authorized to operate outside waters under the national jurisdiction of the flag State, with the 
+exception of the following: 
+ 
+.1 ships without mechanical means of propulsion; 
+ 
+.2 pleasure yachts; 
+ 
+.3 ships engaged on special service; 1 
+ 
+.4 hopper barges; 
+ 
+.5 floating docks and structures classified in a similar manner; 
+ 
+.6 ships of war and troop ships; and 
+ 
+.7 wooden ships, other than fishing vessels. 
+ 
+Assignment of IMO ship identification number
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+.6 ships of war and troop ships; and 
+ 
+.7 wooden ships, other than fishing vessels. 
+ 
+Assignment of IMO ship identification number 
+3 The IMO number is made up of the three letters "IMO" in front of seven digits 
+(e.g. IMO8712345), allocated by Information Handling Services Maritime & Trade (IHSM&T) 2 
+at the time of build or when a ship is first included in a register. Administrations which have 
+decided to implement the Scheme are invited to assign, or cause to be assigned, IMO numbers 
+to all appropriate ships flying their flags, and to insert those numbers on ships' certificates. 
+ 
+4 For new ships, the assignment of the IMO number should be made when the ship is 
+registered. For existing ships, the assignment of the IMO number should be made at an early 
+convenient date, such as when the renewal survey is completed or new certificates are issued. 
+ 
+                                                
+1 For example lightships, floating radio stations, search and rescue vessels.
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+1 For example lightships, floating radio stations, search and rescue vessels. 
+ 
+2  Formerly known as IHS-Fairplay (IHS-F) and IHS Maritime. 
+Resolution A.1117(30)  Adopted on 6 December 2017 
+IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
+Page 4 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
+5 Administrations implementing the Scheme beyond its mandatory scope are invited to 
+inform the Organization accordingly, for circulation of information to other Governments. 
+ 
+6 Official publications and other information from IHS M&T are sources for referencing 
+the IMO number. If the particulars of a ship do not correspond to those shown in the Register 
+of Ships and its supplement because, for example, the ship has changed its name, or the port 
+State control officer has doubts as to whether the IMO numbers given on the certificates are 
+genuine, further clarification may be sought from IHS M&T, the IMO Secretariat or the flag 
+State.
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+State control officer has doubts as to whether the IMO numbers given on the certificates are 
+genuine, further clarification may be sought from IHS M&T, the IMO Secretariat or the flag 
+State. 
+ 
+Certificates on which the IMO number is to be inserted and marking 
+ 
+7 The IMO number should be inserted on a ship's Certificate of Registry which includes 
+the particulars identifying the ship, and on all certificates issued under IMO conventions when 
+and where appropriate. It is recommended that the IMO number also be inserted o n other 
+certificates, such as classification certificates, when and where appropriate. The IMO number 
+should preferably be included in the box headed "Distinctive number or letters" in addition to 
+the call sign. The IMO number should also be permanently marked on the hull structure of the 
+ship when and where appropriate. 
+ 
+How to obtain the IMO number 
+ 
+8 To obtain an IMO number for both new and existing ships and to make ad ho c
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+ship when and where appropriate. 
+ 
+How to obtain the IMO number 
+ 
+8 To obtain an IMO number for both new and existing ships and to make ad ho c 
+enquiries, please contact the following website http://imonumbers.ihs.com, or requests can be 
+sent to IHS M&T, this being the quickest route for issuance of a number, at the following 
+address: 
+ 
+IHS Maritime & Trade  
+Sentinel House  
+163 Brighton Road  
+Coulsdon, Surrey CR5 2YH  
+United Kingdom  
+Email: ship.imo@ihs.com  
+Tel:  +44 (0)1334 328300 (General Contact)  
+ +44 (0) 20 3253 2404 (IMO Ship Team) 
+Fax:  +44 (0)20 3253 2102 
+ 
+New ships (on order and under construction) 
+ 
+9 The IMO number can be obtained by one of the following methods: 
+ 
+.1 Inquiries should be addressed to IHS M&T by telephone, email or facsimile. 
+When making an inquiry, particulars of the ships should be presented.3 
+ 
+Based on the above information, IHS M&T will provide the necessary IMO
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+When making an inquiry, particulars of the ships should be presented.3 
+ 
+Based on the above information, IHS M&T will provide the necessary IMO 
+number free of charge. If there is no data in the IHS M&T new construction 
+file on the ship concerned, a new record on that ship will be created and the 
+IHS M&T number will be assigned. 
+.2 Online access to the new construction file through Sea-web (the IMO 
+Secretariat has access to this system). 
+ 
+                                                
+3  A list of particulars can be found in the form annexed to circular letters on the IMO Ship Identification 
+Number Scheme (e.g. Circular Letter No.1886/Rev.6, as may be amended). 
+Resolution A.1117(30)  Adopted on 6 December 2017 
+IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
+Page 5 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
+.3 Application through IHS M&T, which will provide a service of regular listings 
+of the order book with selected data items, produced for a client' s
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
+.3 Application through IHS M&T, which will provide a service of regular listings 
+of the order book with selected data items, produced for a client' s 
+specification. 
+ 
+Existing ships 
+ 
+10 For existing ships, IHS M&T is prepared to answer ad hoc requests free of charge up 
+to a reasonable point of acceptability. 
+ 
+11 IHS M&T is able to both validate and issue IMO numbers to Administrations through 
+regular fleet data exchanges with the Administration, as set out in Circular Letter 
+No.1886/Rev.6, as may be amended.  
+ 
+Fishing vessels of less than 100 gross tonnage 
+ 
+12 In order to issue IMO numbers accurately to new and existing fishing vessels of less 
+than 100 gross tonnage down to a size limit of 12 metres LOA authorized to operate outside 
+waters under the national jurisdiction of the flag State, IHSM&T will need to have prior 
+confirmation by the Administration that the vessels meet the criteria in paragraph 2 of this 
+annex.
+
+---CHUNK---
+
+SOURCE: A.1117(30).pdf
+waters under the national jurisdiction of the flag State, IHSM&T will need to have prior 
+confirmation by the Administration that the vessels meet the criteria in paragraph 2 of this 
+annex. 
+ 
+Inquiry to the IMO Secretariat 
+ 
+13 Assigned identification numbers are available in the IMO Global Integrated Shipping 
+Information System (GISIS) module on "Ship and Company Particulars" at 
+https://gisis.imo.org/Public/SHIPS/Default.aspx, and may also be obtained free of charge from 
+the IMO Secretariat (IMOnumbers@imo.org), which has access to the Sea-web system, and 
+from IHS M&T directly, at the address given in paragraph 8. 
+ 
+ 
+___________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Resolution A.1117(30)  Adopted on 6 December 2017 
+IMO SHIP IDENTIFICATION NUMBER SCHEMEResolution A.1117(30)  Adopted on 6 December 2017 
+IMO SHIP IDENTIFICATION NUMBER SCHEME
+
+---CHUNK---
+
+SOURCE: MEPC.262(68).pdf
+RESOLUTION MEPC.262(68) 
+(adopted on 15 May 2015) 
+AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
+MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
+(RESOLUTION MEPC.232(65), AS AMENDED BY 
+RESOLUTION MEPC.255(67))MEPC 68/21/Add.1 
+Annex 7, page 1 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MEPC 68-21-ADD.1 (E).doc 
+ANNEX 7 
+ 
+RESOLUTION MEPC.262(68) 
+(adopted on 15 May 2015) 
+ 
+AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR  
+DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
+MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
+(RESOLUTION MEPC.232(65), AS AMENDED BY RESOLUTION MEPC.255(67)) 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee conferred upon it 
+by international conventions for the prevention and control of marine pollution from ships,
+
+---CHUNK---
+
+SOURCE: MEPC.262(68).pdf
+concerning the functions of the Marine Environment Protection Committee conferred upon it 
+by international conventions for the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO that, at its sixty-second session, it adopted, by resolution MEPC.203(62), 
+Amendments to the annex of the Protocol of 1997 to amend the International Convention for 
+the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating 
+thereto (inclusion of regulations on energy efficiency for ships in MARPOL Annex VI), 
+ 
+NOTING that the aforementioned amendments to MARPOL Annex VI entered into force 
+on 1 January 2013, 
+ 
+NOTING ALSO that regulation 21.5 of MARPOL Annex VI, as amended, requires that the 
+installed propulsion power shall not be less than the propulsion power needed to maintain the 
+manoeuvrability of the ship under adverse conditions as defined in guidelines to be developed by 
+the Organization,
+
+---CHUNK---
+
+SOURCE: MEPC.262(68).pdf
+manoeuvrability of the ship under adverse conditions as defined in guidelines to be developed by 
+the Organization, 
+ 
+NOTING FURTHER that, at its sixty-fifth session, it adopted, by resolution MEPC.232(65), the 
+2013 Interim guidelines for determining minimum propulsion power to maintain the 
+manoeuvrability of ships in adverse conditions (the interim guidelines) and, at its sixty-seventh 
+session, by resolution MEPC.255(67), amendments thereto, 
+ 
+RECOGNIZING that the amendments to MARPOL Annex VI require the adoption of relevant 
+guidelines for the smooth and uniform implementation of the regulations and to provide sufficient 
+lead time for industry to prepare, 
+ 
+HAVING CONSIDERED, at its sixty-eighth session, proposed amendments to the interim 
+guidelines,  
+ 
+1 ADOPTS amendments to the 2013 Interim guidelines for determining minimum 
+propulsion power to maintain the manoeuvrability of ships in adverse conditions, as amended, as 
+set out in the annex to the present resolution;
+
+---CHUNK---
+
+SOURCE: MEPC.262(68).pdf
+propulsion power to maintain the manoeuvrability of ships in adverse conditions, as amended, as 
+set out in the annex to the present resolution; 
+ 
+2 INVITES Administrations to take the aforementioned amendments into account when 
+developing and enacting national laws which give force to and implement provisions set forth in 
+regulation 21.5 of MARPOL Annex VI, as amended; 
+ 
+3 REQUESTS the Parties to MARPOL Annex VI and other Member Governments to 
+bring the amendments to the attention of shipowners, ship operators, shipbuilders, ship 
+designers and any other interested groups; 
+ 
+4 AGREES to keep the  interim guidelines, as amended, under review, in light of 
+experience gained with their application. 
+ 
+RESOLUTION MEPC.262(68) 
+(adopted on 15 May 2015) 
+AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
+MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
+(RESOLUTION MEPC.232(65), AS AMENDED BY 
+RESOLUTION MEPC.255(67))MEPC 68/21/Add.1
