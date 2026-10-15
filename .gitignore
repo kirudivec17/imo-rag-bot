@@ -1,5 +1,6 @@
 # Private Data - Ye kabhi GitHub pe nahi jayega
 data/
+IMO-DATA/
 *.pdf
 *.PDF
 
@@ -9,14 +10,18 @@ data/
 GEMINI_API_KEY
 google_api_key.txt
 
+# Vector DB - Local rahega
+chroma_db/
+chroma.sqlite3
+imo_db/
+master_imo_chunks.txt
+
 # Python ka kachra
 __pycache__/
 *.pyc
 *.pyo
 .venv/
 venv/
-chroma_db/
-chroma.sqlite3
 
 # System files
 .DS_Store
