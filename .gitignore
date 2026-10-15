@@ -14,7 +14,6 @@ google_api_key.txt
 chroma_db/
 chroma.sqlite3
 imo_db/
-master_imo_chunks.txt
 
 # Python ka kachra
 __pycache__/
