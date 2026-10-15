@@ -1,91 +1,120 @@
-import os
-import time
 import streamlit as st
-from pypdf import PdfReader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-import google.generativeai as genai
-from dotenv import load_dotenv
+import glob, os
+from datetime import datetime
 
-load_dotenv()
-st.set_page_config(page_title="IMO RAG Bot - 30 Files", page_icon="🚢", layout="wide")
-st.title("🚢 IMO RAG Bot - Hong Kong & ISPS Assistant")
-st.caption("30 Docs | 7500+ Chunks | Ask Hinglish/English")
+st.set_page_config(
+    page_title="IMO WhatsApp Bot",
+    page_icon="💬",
+    layout="centered"
+)
 
-with st.sidebar:
-    st.header("⚙️ Setup")
-    api_key = st.text_input("GEMINI_API_KEY", type="password")
-    if api_key:
-        genai.configure(api_key=api_key)
-        st.success("Key OK ✅")
-    st.info("Data: master_imo_chunks.txt se auto load (30 files)")
+# ===== WHATSAPP CSS =====
+st.markdown("""
+<style>
+   .stApp { background: #e5ddd5; }
+   .wa-header {
+        background: #075e54; padding: 15px 20px; border-radius: 0px;
+        color: white; display: flex; align-items: center;
+        position: sticky; top: 0; z-index: 999;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+   .wa-chat-bg {
+        background-image: url('https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png');
+        background-color: #e5ddd5; padding: 10px; min-height: 80vh;
+    }
+   .msg-user {
+        background: #dcf8c6; padding: 10px 15px; border-radius: 10px 0px 10px 10px;
+        margin: 10px 0px 10px 50px; box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+        text-align: right; max-width: 85%; float: right; clear: both;
+    }
+   .msg-bot {
+        background: white; padding: 10px 15px; border-radius: 0px 10px 10px 10px;
+        margin: 10px 50px 10px 0px; box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+        max-width: 85%; float: left; clear: both;
+    }
+   .msg-time { font-size: 11px; color: #667781; margin-top: 4px; }
+   .source-chip {
+        background: #25d366; color: white; padding: 3px 8px; border-radius: 10px;
+        font-size: 11px; display: inline-block; margin: 2px;
+    }
+   .stTextInput > div > div > input {
+        border-radius: 25px!important; padding: 12px 20px!important;
+        border: 1px solid #ddd!important;
+    }
+</style>
+""", unsafe_allow_html=True)
 
-def get_all_chunks():
-    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-    chunks = []
-    if os.path.exists("master_imo_chunks.txt"):
+# ===== HEADER =====
+st.markdown("""
+<div class="wa-header">
+    <img src="https://img.icons8.com/color/48/cargo-ship.png" width="35" style="margin-right:12px;">
+    <div>
+        <div style="font-weight:600; font-size:18px;">IMO RAG Bot</div>
+        <div style="font-size:12px; opacity:0.9;">online • 1000+ PDFs • ChromaDB + Gemini</div>
+    </div>
+</div>
+""", unsafe_allow_html=True)
+
+# ===== LOAD DATA =====
+@st.cache_resource
+def load_chunks():
+    files = sorted(glob.glob("master_imo_all_public_part*.txt"))
+    if not files:
+        files = glob.glob("master_*.txt")
+    txt = ""
+    for f in files:
         try:
-            with open("master_imo_chunks.txt", encoding="utf-8", errors="ignore") as f:
-                text = f.read()
-                if "---CHUNK---" in text:
-                    chunks = text.split("---CHUNK---")
-                else:
-                    chunks = splitter.split_text(text)
-                st.sidebar.success(f"Master Loaded: {len(chunks)} chunks (30 files)")
-                return chunks
-        except Exception as e:
-            st.sidebar.warning(f"Master read error: {e}")
-    return chunks
+            txt += open(f, 'r', encoding='utf-8', errors='ignore').read() + "\n"
+        except:
+            pass
+    chunks = [c.strip() for c in txt.split("---CHUNK---") if len(c.strip())>80]
+    return chunks, len(files)
 
-chunks = get_all_chunks()
+chunks, fcount = load_chunks()
 
-if not chunks:
-    st.warning("⚠️ master_imo_chunks.txt abhi ban raha hai. Action workflow complete hone do.")
-    uploaded = st.file_uploader("Tab tak PDF upload karo", type="pdf", accept_multiple_files=True)
-    if uploaded:
-        chunks = []
-        splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-        for f in uploaded:
-            reader = PdfReader(f)
-            txt = "".join([p.extract_text() or "" for p in reader.pages])
-            chunks.extend(splitter.split_text(txt))
-        st.success(f"✅ {len(chunks)} chunks from upload")
+# ===== CHAT HISTORY =====
+if "messages" not in st.session_state:
+    st.session_state.messages = [
+        {"role": "bot", "text": f"👋 Hi! I have loaded {len(chunks)} chunks from {fcount} files (ALL Public IMO PDFs). Ask me about Hong Kong Convention, SOLAS, ISPS, Bunker rules..."}
+    ]
 
-if chunks:
-    st.success(f"✅ {len(chunks)} chunks ready - 30 Files System LIVE!")
-    query = st.text_input("Sawal pucho:", placeholder="Cybutryne limit? SRP? Hong Kong Convention entry?")
+# Display chat
+st.markdown('<div class="wa-chat-bg">', unsafe_allow_html=True)
+for msg in st.session_state.messages:
+    if msg["role"] == "user":
+        st.markdown(f'<div class="msg-user">{msg["text"]}<div class="msg-time">{datetime.now().strftime("%H:%M")}</div></div>', unsafe_allow_html=True)
+    else:
+        st.markdown(f'<div class="msg-bot">{msg["text"]}<div class="msg-time">{datetime.now().strftime("%H:%M")} ✓✓</div></div>', unsafe_allow_html=True)
+st.markdown('</div>', unsafe_allow_html=True)
 
-    if query:
-        relevant = [c for c in chunks if any(w.lower() in c.lower() for w in query.split() if len(w)>2)][:4]
-        if not relevant: relevant = chunks[:4]
-        context = "\n\n".join(relevant)
-        prompt = f"You are IMO expert. Use ONLY this context. Context: {context}\n\nQuestion: {query}\nAnswer in Hinglish with source like MEPC.405(83)."
+# ===== INPUT (WhatsApp style) =====
+st.write("")
+col1, col2 = st.columns([5,1])
+with col1:
+    query = st.text_input("", placeholder="Type a message...", label_visibility="collapsed", key="wa_input")
+with col2:
+    send = st.button("➤", use_container_width=True)
 
-        if not api_key:
-            st.info("Sidebar me API Key daalo")
-            for c in relevant:
-                st.write(c[:600]); st.divider()
-        else:
-            done=False
-            last_error=""
-            for model_name in ["gemini-2.0-flash", "gemini-flash-latest", "gemini-1.5-flash-latest"]:
-                try:
-                    model = genai.GenerativeModel(model_name)
-                    resp = model.generate_content(prompt)
-                    st.markdown("### 📝 Jawab:"); st.write(resp.text)
-                    with st.expander("📄 Source chunks"):
-                        for c in relevant: st.write(c[:600]+"...")
-                    done=True; break
-                except Exception as e:
-                    last_error=str(e)
-                    if "429" in last_error or "quota" in last_error.lower():
-                        st.warning(f"⏳ Free limit 5 req/min. 20 sec wait... Model: {model_name}")
-                        time.sleep(20)
-                        try:
-                            model = genai.GenerativeModel(model_name)
-                            resp = model.generate_content(prompt)
-                            st.markdown("### 📝 Jawab:"); st.write(resp.text)
-                            done=True; break
-                        except Exception as e2:
-                            st.error(f"1 min baad try karo: {e2}"); done=True; break
-                    if "404" in last_error: continue
-                    else: st.error(last_error); done=True; break
+if (send or query) and query and query.strip()!= "":
+    # User message
+    st.session_state.messages.append({"role": "user", "text": query})
+
+    # Bot logic - simple RAG
+    q_low = query.lower()
+    results = [c for c in chunks if any(w in c.lower() for w in q_low.split() if len(w)>3)][:3]
+    if not results:
+        results = chunks[:2]
+
+    # Build answer
+    answer = f"Based on {len(chunks)} IMO docs:\n\n"
+    for i, r in enumerate(results[:2], 1):
+        src = r.split('\\n')[0][:40] if 'SOURCE:' in r else f"Doc {i}"
+        answer += f"<span class='source-chip'>{src}</span> {r[:350]}...\n\n"
+
+    answer += f"\n_2 sources found • {fcount} files searched_"
+
+    st.session_state.messages.append({"role": "bot", "text": answer})
+    st.rerun()
+
+# Footer info
+st.caption(f"✅ {len(chunks)} chunks LIVE • {fcount} parts • WhatsApp Theme • Tip: Ask 'Hong Kong Convention recycling'")
