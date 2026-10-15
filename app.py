@@ -2,84 +2,93 @@ import streamlit as st
 import glob, os
 from datetime import datetime
 
-st.set_page_config(
-    page_title="Assistant IMO Bot",
-    page_icon="🚢",
-    layout="centered"
-)
+st.set_page_config(page_title="Assistant IMO Bot", page_icon="🚢", layout="centered")
 
-# ===== IMO BLUE WHATSAPP FIXED CSS =====
+# ===== FIX CSS - BLACK TEXT VISIBLE =====
 st.markdown("""
 <style>
-   header {visibility: hidden;}
-   .stApp { background: #e5ddd5; }
-   
-   /* TOP HEADER - FIXED BLUE IMO */
-   .imo-header {
-        background: #0b2a5b; /* IMO BLUE */
-        padding: 14px 18px;
-        color: white;
-        display: flex;
-        align-items: center;
-        position: fixed;
-        top: 0; left: 0; right: 0;
-        z-index: 1000;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-    }
-   .imo-logo {
+   header, footer {visibility: hidden;}
+  .stApp { background: #e5ddd5; }
+  .imo-header {
+        background: #0b2a5b; padding: 12px 16px; color: white;
+        display: flex; align-items: center;
+        position: fixed; top: 0; left: 0; right: 0;
+        z-index: 1000; height: 60px;
+   }
+  .imo-logo {
         background: white; color: #0b2a5b; font-weight: 900;
         width: 38px; height: 38px; border-radius: 50%;
         display: flex; align-items: center; justify-content: center;
-        font-size: 14px; margin-right: 12px; border: 2px solid #1e5db1;
-    }
-   
-   /* CHAT AREA */
-   .chat-wrapper {
-        margin-top: 75px;
-        margin-bottom: 90px;
-        padding: 10px;
-        min-height: 75vh;
+        font-size: 13px; margin-right: 10px;
    }
-   .msg-user {
-        background: #dcf8c6; padding: 10px 14px; border-radius: 10px 0px 10px 10px;
-        margin: 8px 0 8px auto; max-width: 80%; float: right; clear: both;
-        box-shadow: 0 1px 1px rgba(0,0,0,0.1); font-size: 14px;
-    }
-   .msg-bot {
-        background: white; padding: 10px 14px; border-radius: 0px 10px 10px 10px;
-        margin: 8px auto 8px 0; max-width: 80%; float: left; clear: both;
-        box-shadow: 0 1px 1px rgba(0,0,0,0.1); font-size: 14px;
-    }
-   .msg-time { font-size: 10px; color: #667781; margin-top: 4px; text-align: right; }
-   
-   /* BOTTOM INPUT - FIXED LIKE WHATSAPP */
+  .chat-wrap { margin-top: 70px; margin-bottom: 95px; padding-bottom: 20px; }
+
+   /* MESSAGE BUBBLES - BLACK TEXT FIX */
+  .msg-user {
+        background: #dcf8c6; color: #000!important; padding: 10px 14px;
+        border-radius: 12px 0px 12px 12px; margin: 8px 0 8px auto;
+        max-width: 82%; float: right; clear: both;
+        box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+        font-size: 15px; line-height: 20px;
+   }
+  .msg-bot {
+        background: #ffffff; color: #000000!important; padding: 10px 14px;
+        border-radius: 0px 12px 12px 12px; margin: 8px auto 8px 0;
+        max-width: 82%; float: left; clear: both;
+        box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+        font-size: 14px; line-height: 20px; border: 1px solid #e0e0e0;
+   }
+  .msg-bot * { color: #000!important; }
+  .msg-time { font-size: 10px; color: #667781!important; margin-top: 5px; text-align: right;}
+
+   /* BOTTOM FIXED INPUT */
    div[data-testid="stChatInput"] {
-        position: fixed !important;
-        bottom: 0 !important; left: 0 !important; right: 0 !important;
-        background: #f0f0f0 !important;
-        padding: 10px 15px !important;
-        z-index: 1000 !important;
-        border-top: 1px solid #ddd !important;
-   }
-   div[data-testid="stChatInput"] textarea {
-        border-radius: 25px !important;
+        position: fixed!important; bottom: 0!important;
+        left: 0!important; right: 0!important;
+        background: #f0f0f0!important; padding: 8px 12px!important;
+        z-index: 1001!important;
    }
 </style>
 """, unsafe_allow_html=True)
 
-# ===== BLUE HEADER - Assistant IMO Bot =====
 st.markdown("""
 <div class="imo-header">
     <div class="imo-logo">IMO</div>
     <div>
-        <div style="font-weight:700; font-size:17px; line-height:18px;">Assistant IMO Bot</div>
-        <div style="font-size:12px; opacity:0.85; margin-top:2px;">IMO CODE • online • ChromaDB + Gemini</div>
+        <div style="font-weight:700; font-size:16px;">Assistant IMO Bot</div>
+        <div style="font-size:11px; opacity:0.9;">IMO CODE • online • ChromaDB + Gemini</div>
     </div>
-    <div style="margin-left:auto; font-size:20px;">📞</div>
+    <div style="margin-left:auto;">📞</div>
 </div>
 """, unsafe_allow_html=True)
 
-# ===== LOAD =====
+# ===== AUTO GEMINI CONNECT FROM SECRETS =====
+@st.cache_resource
+def get_gemini_model():
+    try:
+        import google.generativeai as genai
+        # Secret me se auto key nikalo - 3 naam check karo
+        api_key = None
+        if "GEMINI_API_KEY" in st.secrets:
+            api_key = st.secrets["GEMINI_API_KEY"]
+        elif "GOOGLE_API_KEY" in st.secrets:
+            api_key = st.secrets["GOOGLE_API_KEY"]
+        elif "GEMINI_KEY" in st.secrets:
+            api_key = st.secrets["GEMINI_KEY"]
+        else:
+            api_key = os.environ.get("GEMINI_API_KEY")
+
+        if api_key:
+            genai.configure(api_key=api_key)
+            model = genai.GenerativeModel("gemini-1.5-flash")
+            return model, True, "✅ Gemini Auto-Connected"
+        else:
+            return None, False, "⚠️ No Key in Secrets"
+    except Exception as e:
+        return None, False, f"Error: {e}"
+
+gemini_model, gemini_ok, gemini_status = get_gemini_model()
+
 @st.cache_resource
 def load_chunks():
     files = sorted(glob.glob("master_imo_all_public_part*.txt"))
@@ -96,37 +105,38 @@ def load_chunks():
 
 chunks, fcount = load_chunks()
 
-# ===== SESSION =====
 if "messages" not in st.session_state:
     st.session_state.messages = [
-        {"role": "assistant", "content": f"👋 Assalamualaikum! Main **Assistant IMO Bot** hu.\n\nMere paas **{len(chunks)} IMO CODE** chunks hai ({fcount} files). Aap Hong Kong Convention, SOLAS, ISPS, Bunker ke baare me pucho."}
+        {"role": "assistant", "content": f"Assalamualaikum! I am Assistant IMO Bot. I have {len(chunks)} IMO CODE documents. {gemini_status}. Ask anything."}
     ]
 
-# Chat display
-st.markdown('<div class="chat-wrapper">', unsafe_allow_html=True)
+st.markdown('<div class="chat-wrap">', unsafe_allow_html=True)
 for m in st.session_state.messages:
-    if m["role"] == "user":
-        st.markdown(f'<div class="msg-user">{m["content"]}<div class="msg-time">{datetime.now().strftime("%H:%M")} ✓✓</div></div><div style="clear:both;"></div>', unsafe_allow_html=True)
-    else:
-        # convert markdown simple
-        text = m["content"].replace("\n", "<br>")
-        st.markdown(f'<div class="msg-bot">{text}<div class="msg-time">{datetime.now().strftime("%H:%M")}</div></div><div style="clear:both;"></div>', unsafe_allow_html=True)
+    role_class = "msg-user" if m["role"]=="user" else "msg-bot"
+    st.markdown(f'<div class="{role_class}">{m["content"]}<div class="msg-time">{datetime.now().strftime("%H:%M")} ✓✓</div></div><div style="clear:both;"></div>', unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
-# ===== FIXED BOTTOM INPUT (WhatsApp style) =====
+# Chat Input Fixed Bottom
 if prompt := st.chat_input("Type a message..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
 
-    # RAG search
     q_low = prompt.lower()
     results = [c for c in chunks if any(w in c.lower() for w in q_low.split() if len(w)>3)][:3]
     if not results:
         results = chunks[:2]
 
-    ans = f"**IMO CODE Answer:**\n\n"
-    for r in results[:2]:
-        src = r[:40].replace("SOURCE:", "").strip()
-        ans += f"📄 `{src}`\n{r[:400]}...\n\n---\n\n"
+    context = "\n".join(results)[:4000]
 
-    st.session_state.messages.append({"role": "assistant", "content": ans})
+    # Gemini Auto Answer
+    if gemini_ok and gemini_model:
+        try:
+            final_prompt = f"You are Assistant IMO Bot. Use this IMO CODE context:\n{context}\n\nUser Question: {prompt}\nAnswer clearly in simple English with source."
+            response = gemini_model.generate_content(final_prompt)
+            answer = response.text
+        except Exception as e:
+            answer = f"IMO CODE Context:\n{results[0][:800]}\n\n(Gemini error: {e})"
+    else:
+        answer = f"IMO CODE Found:\n{results[0][:800]}\n\n({gemini_status} - Add GEMINI_API_KEY in Streamlit Secrets to enable AI)"
+
+    st.session_state.messages.append({"role": "assistant", "content": answer})
     st.rerun()
