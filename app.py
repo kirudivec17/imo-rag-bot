@@ -68,8 +68,7 @@ if chunks:
         context = "\n\n".join(relevant)
         
         if api_key:
-            try:
-                model = genai.GenerativeModel("gemini-1.5-flash")
+            try:model = genai.GenerativeModel("models/gemini-flash-latest")
                 prompt = f"You are IMO expert. Use ONLY this context. Context: {context}\n\nQuestion: {query}\nAnswer in Hinglish with source like MEPC.405(83) if found."
                 resp = model.generate_content(prompt)
                 st.markdown("### 📝 Jawab:")
