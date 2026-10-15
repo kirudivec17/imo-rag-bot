@@ -1,9 +1,7 @@
-streamlit
-pypdf
-chromadb
-langchain
-langchain-community
-langchain-text-splitters
-sentence-transformers
-google-generativeai
-python-dotenv
+streamlit==1.39.0
+pypdf==4.3.1
+chromadb==0.5.5
+langchain-text-splitters==0.2.4
+sentence-transformers==3.0.1
+google-generativeai==0.5.4
+python-dotenv==1.0.1
