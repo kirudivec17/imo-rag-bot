@@ -5,7 +5,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 from google import genai
 
-# --- IMO LEVEL UI ---
 st.set_page_config(page_title="HKC Intelligence Platform", page_icon="⚓", layout="wide")
 
 st.markdown("""
@@ -38,9 +37,8 @@ def load_all_chunks():
     return chunks
 
 chunks = load_all_chunks()
-
 if not chunks:
-    st.error("master_imo_all_public_part*.txt files not found! Root me daalo.")
+    st.error("master_imo_all_public_part*.txt files not found!")
     st.stop()
 
 @st.cache_resource
@@ -51,7 +49,6 @@ def build_index(chunks_list):
 
 vectorizer, tfidf_matrix = build_index(chunks)
 
-# --- SIDEBAR ---
 with st.sidebar:
     st.markdown("### 📚 IMO Document Library")
     st.success(f"{len(chunks)} Chunks | 788 PDFs")
@@ -59,22 +56,42 @@ with st.sidebar:
     st.divider()
     st.markdown("REFERENCE:\n- SRP Template\n- Safe for Recycling Cert\n- Waste Management")
 
-# --- API KEY ---
 api_key = st.secrets.get("GEMINI_API_KEY") or os.getenv("GEMINI_API_KEY")
 if not api_key:
-    api_key = st.text_input("Enter GEMINI_API_KEY (Streamlit Secrets me daalo)", type="password")
+    api_key = st.text_input("Enter GEMINI_API_KEY", type="password")
 
 if not api_key:
-    st.warning("Add GEMINI_API_KEY in Streamlit Secrets")
+    st.warning("Add GEMINI_API_KEY in Secrets")
     st.stop()
 
 client = genai.Client(api_key=api_key)
 
-# --- MAIN ---
-st.markdown("### 🤖 AI Assistant — Chat & Analysis")
-st.caption("Powered by 788 Public IMO Docs | Citation Based")
+# --- MULTI FLASH MODEL FALLBACK ---
+MODELS_TO_TRY = [
+    "gemini-2.0-flash",
+    "gemini-2.5-flash",
+    "gemini-2.0-flash-exp",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-latest",
+    "gemini-flash-latest",
+    "gemini-2.0-flash-lite"
+]
 
-query = st.text_input("Ask about HKC...", placeholder="What is Cybutryne limit under HKC? How to prepare SRP?")
+def generate_with_fallback(prompt):
+    last_error = None
+    for model_name in MODELS_TO_TRY:
+        try:
+            response = client.models.generate_content(model=model_name, contents=prompt)
+            return response.text, model_name
+        except Exception as e:
+            last_error = e
+            continue
+    raise last_error
+
+st.markdown("### 🤖 AI Assistant — Chat & Analysis")
+st.caption("Powered by 788 Public IMO Docs | Citation Based | Multi-Flash Support")
+
+query = st.text_input("Ask about HKC...", placeholder="What is Cybutryne limit? How to prepare SRP as per MEPC.196?")
 
 if query:
     q_vec = vectorizer.transform([query])
@@ -86,7 +103,6 @@ if query:
     prompt = f"""You are HKC & Ship Recycling Expert for IMO.
 Use ONLY below context from 788 public IMO docs.
 Always give citation like Source: MEPC.xxx
-If not found, say not found in public docs.
 
 Context:
 {context}
@@ -95,20 +111,19 @@ Question: {query}
 
 Answer with clear summary, limits, requirements, and Sources & Citations."""
 
-    with st.spinner(f"Searching {len(chunks)} chunks from 788 PDFs..."):
+    with st.spinner(f"Searching {len(chunks)} chunks..."):
         try:
-            response = client.models.generate_content(model="gemini-1.5-flash", contents=prompt)
-            st.markdown(response.text)
-
+            answer_text, used_model = generate_with_fallback(prompt)
+            st.success(f"Answered using: {used_model}")
+            st.markdown(answer_text)
             st.divider()
             st.markdown("#### 📑 Sources & Citations (IMO Level)")
             for i, idx in enumerate(top_idx):
                 preview = chunks[idx][:200].replace('\n',' ')
                 st.markdown(f'<div class="citation-box"><b>Source {i+1} (Relevance {scores[idx]:.2f}):</b><br>{preview}...</div>', unsafe_allow_html=True)
         except Exception as e:
-            st.error(f"Error: {e}")
-            st.info("Check GEMINI_API_KEY in Manage App > Settings > Secrets")
+            st.error(f"All models failed. Last Error: {e}")
+            st.info("Check GEMINI_API_KEY in Secrets - Manage App > Settings > Secrets")
 
-# --- FOOTER ---
 st.divider()
-st.caption(f"Built for IMO Delegates & Alang Recyclers | {len(chunks)} Chunks | 788 Public IMO Docs | Legal | Not Official IMO Product")
+st.caption(f"Built for IMO Delegates | {len(chunks)} Chunks | 788 Public Docs | Multi-Flash Auto-Fallback | Not Official IMO Product")
