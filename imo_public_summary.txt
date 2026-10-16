@@ -1,3 +1,4 @@
-Total URLs Tried: 44007
-Success PDFs: 10
-Chunks: 678
+Processed till 12000
+Total Unique PDFs: 137
+Total Chunks: 5495
+Last Batch New: 0
