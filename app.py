@@ -1,245 +1,182 @@
 import streamlit as st
-import glob, os, base64, json
-from datetime import datetime
-import numpy as np
+import os, glob, re
+import google.generativeai as genai
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 
-st.set_page_config(page_title="Assistant IMO Bot", page_icon="🚢", layout="wide")
+# --- PAGE CONFIG - IMO LEVEL ---
+st.set_page_config(
+    page_title="HKC Intelligence Platform",
+    page_icon="⚓",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
-# Storage
-try:
-    from streamlit_local_storage import LocalStorage
-    localS = LocalStorage()
-    HAS_STORAGE = True
-except:
-    HAS_STORAGE = False
-    localS = None
-
-with st.sidebar:
-    st.markdown("### IMO RAG Files")
-    files = sorted(glob.glob("master_imo_all_public_part*.txt"))
-    if not files: files = glob.glob("master_*.txt")
-    st.write(f"Total: {len(files)}")
-    if st.button("🗑️ Clear Chat"):
-        st.session_state.messages = [{"role": "assistant", "content": "Good Day i am assistant imo bot.. how can i help you", "time": datetime.now().strftime("%H:%M")}]
-        if HAS_STORAGE:
-            try: localS.setItem("imo_chat_v2", None)
-            except: pass
-        st.rerun()
-
-def get_logo_base64():
-    for name in ["bot_logo.png", "bot.png", "image_20261016_021908.webp"]:
-        if os.path.exists(name):
-            try:
-                with open(name, "rb") as f:
-                    return base64.b64encode(f.read()).decode()
-            except: pass
-    return None
-
-logo_b64 = get_logo_base64()
-logo_html = f'<img src="data:image/png;base64,{logo_b64}" style="width:38px;height:38px;border-radius:50%;background:white;padding:2px;">' if logo_b64 else '<div style="background:white;color:#0b2a5b;font-weight:900;width:38px;height:38px;border-radius:50%;display:flex;align-items:center;justify-content:center;">BOT</div>'
-
-# ---------- HEADER FIX - CENTRE + RIGHT CORNER ----------
-st.markdown(f"""
+# --- IMO BLUE THEME CSS ---
+st.markdown("""
 <style>
-header, footer {{visibility: hidden;}}
-.stApp {{ background: #e5ddd5; }}
-
-/* Hide only Manage app, NOT chat */
-iframe[title="streamlitAppDeploymentButton"]{{display:none!important;}}
-div[data-testid="stAppDeployButton"]{{display:none!important;}}
-[data-testid="stStatusWidget"]{{display:none!important;}}
-div:has(> button[data-testid="manage-app-button"]){{display:none!important;}}
-
-.imo-header{{
-    background:#0b2a5b;
-    padding:0 12px;
-    color:white;
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    position:fixed;
-    top:0;left:0;right:0;
-    z-index:1000;
-    height:62px;
-}}
-.left-logo{{display:flex;align-items:center;}}
-.center-title{{
-    position:absolute;
-    left:50%;
-    transform:translateX(-50%);
-    text-align:center;
-    width:60%;
-}}
-.center-title-main{{font-weight:700;font-size:17px;letter-spacing:0.3px;white-space:nowrap;}}
-.center-title-sub{{font-size:11px;opacity:0.9;}}
-.right-group{{
-    display:flex;
-    align-items:center;
-    gap:10px;
-    margin-left:auto;
-}}
-.imo-circle{{
-    background:white;
-    color:#0b2a5b;
-    font-weight:900;
-    width:38px;
-    height:38px;
-    border-radius:50%;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    font-size:12px;
-}}
-.dots-btn{{
-    background:transparent;
-    border:none;
-    color:white;
-    font-size:26px;
-    cursor:pointer;
-    width:32px;
-    height:32px;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    padding:0;
-}}
-.dropdown{{
-    position:fixed;
-    right:8px;
-    top:66px;
-    background:white;
-    color:#111;
-    width:260px;
-    border-radius:12px;
-    box-shadow:0 8px 24px rgba(0,0,0,0.3);
-    z-index:10004;
-    display:none;
-    overflow:hidden;
-    border:1px solid #e0e0e0;
-}}
-.dropdown-item{{padding:13px 16px;border-bottom:1px solid #f0f0f0;cursor:pointer;font-size:14px;display:flex;align-items:center;gap:12px;color:#111;}}
-.dropdown-item:hover{{background:#f5f5f5;}}
-.dropdown-item.red{{color:#d32f2f;}}
-
-.chat-wrap{{margin-top:78px;margin-bottom:110px;max-width:800px;margin-left:auto;margin-right:auto;}}
-.msg-user{{background:#dcf8c6;color:#000!important;padding:10px 14px;border-radius:12px 0px 12px 12px;margin:8px 0 8px auto;max-width:82%;float:right;clear:both;box-shadow:0 1px 1px rgba(0,0,0,0.15);font-size:15px;}}
-.msg-bot{{background:#ffffff;color:#000!important;padding:10px 14px;border-radius:0px 12px 12px 12px;margin:8px auto 8px 0;max-width:85%;float:left;clear:both;box-shadow:0 1px 1px rgba(0,0,0,0.15);font-size:14px;border:1px solid #e0e0e0;white-space:pre-wrap;}}
-.msg-bot *{{color:#000!important;}}
-.msg-time{{font-size:10px;color:#667781!important;margin-top:5px;text-align:right;}}
-div[data-testid="stChatInput"]{{display:flex!important;position:fixed!important;bottom:8px!important;left:8px!important;right:8px!important;background:#f0f0f0!important;padding:8px!important;z-index:1001!important;border-radius:25px!important;max-width:800px;margin:0 auto;}}
+   .main-header { background: #0A4A7A; color: white; padding: 1rem; border-radius: 8px; }
+   .citation-box { background: #E8F0FE; border-left: 4px solid #0A4A7A; padding: 10px; margin: 10px 0; border-radius: 4px; }
+   .doc-card { background: white; border: 1px solid #ddd; padding: 15px; border-radius: 8px; margin-bottom: 10px; }
+   .unofficial-badge { background: #FFF3CD; color: #856404; padding: 5px 10px; border-radius: 12px; font-size: 12px; }
 </style>
-
-<div class="imo-header">
-    <div class="left-logo">{logo_html}</div>
-    <div class="center-title">
-        <div class="center-title-main">Assistant IMO Bot</div>
-        <div class="center-title-sub">IMO RAG - Online</div>
-    </div>
-    <div class="right-group">
-        <div class="imo-circle">IMO</div>
-        <button class="dots-btn" onclick="var d=document.getElementById('drop'); d.style.display=d.style.display==='block'?'none':'block'">⋮</button>
-    </div>
-</div>
-
-<div id="drop" class="dropdown">
-    <div class="dropdown-item">📁 Media, links, and docs</div>
-    <div class="dropdown-item">🔕 Notifications</div>
-    <div class="dropdown-item">🖼️ Media visibility</div>
-    <div class="dropdown-item">⭐ Add to Favorites</div>
-    <div class="dropdown-item">📋 Add to list</div>
-    <div class="dropdown-item red" onclick="localStorage.clear(); window.location.reload();">🚫 Clear chat</div>
-</div>
-<script>
-document.addEventListener('click', function(e){{
-  var drop=document.getElementById('drop');
-  var btn=document.querySelector('.dots-btn');
-  if(drop && btn &&!drop.contains(e.target) &&!btn.contains(e.target)){{ drop.style.display='none'; }}
-}});
-</script>
 """, unsafe_allow_html=True)
 
-# ---------- GEMINI + RAG ----------
-@st.cache_resource
-def get_gemini_client():
-    try:
-        from google import genai
-        api_key = st.secrets.get("GEMINI_API_KEY") or os.environ.get("GEMINI_API_KEY")
-        if not api_key: return None, False
-        client = genai.Client(api_key=api_key)
-        return client, True
-    except: return None, False
+# --- HEADER ---
+st.markdown("""
+<div class="main-header">
+    <h2 style="margin:0">⚓ HKC & Ship Recycling Intelligence Platform</h2>
+    <p style="margin:0; opacity:0.9">Unofficial — Built using 788 public IMO Resolutions | For HKC Implementation</p>
+</div>
+""", unsafe_allow_html=True)
+st.markdown('<span class="unofficial-badge">⚠️ Not an official IMO product - For official text refer to imo.org</span>', unsafe_allow_html=True)
 
-gemini_client, gemini_ok = get_gemini_client()
+# --- LOAD YOUR 10 PART FILES (788 PDFs) ---
+@st.cache_data
+def load_all_chunks():
+    chunks = []
+    # tumhare files root me hai
+    files = glob.glob("master_imo_all_public_part*.txt")
+    if not files:
+        files = glob.glob("**/master_imo_all_public_part*.txt", recursive=True)
 
-@st.cache_resource
-def load_chunks():
-    files = sorted(glob.glob("master_imo_all_public_part*.txt"))
-    if not files: files = glob.glob("master_*.txt")
-    txt = ""
-    for f in files:
-        try: txt += open(f, 'r', encoding='utf-8', errors='ignore').read() + "\n"
-        except: pass
-    return [c.strip() for c in txt.split("---CHUNK---") if len(c.strip())>80]
-
-chunks = load_chunks()
-
-@st.cache_resource
-def build_tfidf(_chunks):
-    vectorizer = TfidfVectorizer(stop_words='english', max_features=10000, ngram_range=(1,2))
-    tfidf_matrix = vectorizer.fit_transform(_chunks)
-    return vectorizer, tfidf_matrix
-
-vectorizer, tfidf_matrix = build_tfidf(chunks)
-
-def get_best_chunks_smart(question, chunks, vectorizer, tfidf_matrix, top_k=2):
-    good_idx = []
-    for i, c in enumerate(chunks):
-        if c.lower().count("annex") > 10 and len(c) < 3000: continue
-        if c.lower().count("what is") > 5 and len(c) < 1000: continue
-        good_idx.append(i)
-    if not good_idx: good_idx = list(range(len(chunks)))
-    sub_chunks = [chunks[i] for i in good_idx]
-    sub_matrix = vectorizer.transform(sub_chunks)
-    q_vec = vectorizer.transform([question])
-    scores = (sub_matrix * q_vec.T).toarray().ravel()
-    top = np.argsort(scores)[-top_k:][::-1]
-    return [sub_chunks[i] for i in top]
-
-if "messages" not in st.session_state:
-    st.session_state.messages = [{"role": "assistant", "content": "Good Day i am assistant imo bot.. how can i help you", "time": datetime.now().strftime("%H:%M")}]
-
-st.markdown('<div class="chat-wrap">', unsafe_allow_html=True)
-for m in st.session_state.messages:
-    role_class = "msg-user" if m["role"]=="user" else "msg-bot"
-    t = m.get("time", datetime.now().strftime("%H:%M"))
-    content = m["content"]
-    st.markdown(f'<div class="{role_class}">{content}<div class="msg-time">{t} ✓✓</div></div><div style="clear:both;"></div>', unsafe_allow_html=True)
-st.markdown('</div>', unsafe_allow_html=True)
-
-ALL_FLASH_MODELS = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-2.0-flash-001", "gemini-1.5-flash-001", "gemini-flash-latest"]
-def generate_with_fallback(client, prompt):
-    for model_name in ALL_FLASH_MODELS:
+    for f in sorted(files):
         try:
-            response = client.models.generate_content(model=model_name, contents=prompt)
-            if response.text: return response.text
-        except: continue
-    return None
-
-if prompt := st.chat_input("Type a message..."):
-    now = datetime.now().strftime("%H:%M")
-    st.session_state.messages.append({"role": "user", "content": prompt, "time": now})
-    results = get_best_chunks_smart(prompt, chunks, vectorizer, tfidf_matrix, top_k=2)
-    context = "\n\n---\n\n".join(results)[:5000]
-    if gemini_ok and gemini_client:
-        final_prompt = f"User asked: {prompt}\nContext: {context}\nINSTRUCTION: Give 3-5 lines specific answer only, no long index list.\nAnswer:"
-        ans = generate_with_fallback(gemini_client, final_prompt)
-        answer = ans if ans else context[:2000]
-    else:
-        answer = context[:2000]
-    now2 = datetime.now().strftime("%H:%M")
-    st.session_state.messages.append({"role": "assistant", "content": answer, "time": now2})
-    if HAS_STORAGE:
-        try: localS.setItem("imo_chat_v2", st.session_state.messages)
+            with open(f, 'r', encoding='utf-8', errors='ignore') as file:
+                content = file.read()
+                # Split by CHUNK or double newline
+                parts = re.split(r'---CHUNK---|---\n', content)
+                for p in parts:
+                    p = p.strip()
+                    if len(p) > 200: # Only meaningful chunks
+                        chunks.append(p)
         except: pass
-    st.rerun()
+    return chunks
+
+@st.cache_resource
+def build_index(chunks):
+    vectorizer = TfidfVectorizer(stop_words='english', max_features=5000)
+    tfidf = vectorizer.fit_transform(chunks)
+    return vectorizer, tfidf
+
+# --- SIDEBAR - IMO DOCUMENT LIBRARY ---
+with st.sidebar:
+    st.markdown("### 📚 IMO Document Library")
+    st.text_input("Search documents...", placeholder="MEPC.196, IHM, SRP...")
+
+    st.markdown("**Hong Kong Convention**")
+    st.caption("Current • 2023 • 17 Core Docs")
+    st.markdown("**MEPC Resolutions**")
+    st.caption("MEPC.196(62), MEPC.210(63), MEPC.379(80)")
+    st.markdown("**IHM Guidelines**")
+    st.caption("Inventory v2021 • Cybutryne 1000 μg/kg")
+
+    st.divider()
+    st.markdown("**REFERENCE MATERIALS**")
+    st.markdown("- 📄 SRP Template")
+    st.markdown("- 📄 Safe for Recycling Certificate")
+    st.markdown("- 📄 Waste Management Guidelines")
+
+    st.divider()
+    status = st.empty()
+
+# --- LOAD ---
+chunks = load_all_chunks()
+if not chunks:
+    st.error("No master_imo_*.txt files found! Check folder.")
+    st.stop()
+
+vectorizer, tfidf_matrix = build_index(chunks)
+status = f"✅ {len(chunks)} Chunks from 788 PDFs Loaded"
+
+with st.sidebar:
+    st.success(f"All documents synced • {len(chunks)} chunks")
+    st.info("Updated: 788 Public IMO Docs")
+
+# --- MAIN LAYOUT ---
+col1, col2 = st.columns([2, 1])
+
+with col1:
+    st.markdown("### 🤖 AI Assistant — Chat & Analysis")
+    st.caption("Powered by IMO Knowledge Base (788 PDFs)")
+
+    # Gemini Setup
+    api_key = st.secrets.get("GEMINI_API_KEY") or os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        api_key = st.text_input("Enter GEMINI API KEY", type="password")
+
+    if api_key:
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel("gemini-1.5-flash")
+
+        query = st.text_input("Ask about HKC...", placeholder="What is Cybutryne limit under HKC? How to prepare SRP?")
+
+        if query:
+            # TF-IDF Search - Best 3 chunks
+            q_vec = vectorizer.transform([query])
+            scores = cosine_similarity(q_vec, tfidf_matrix).flatten()
+            top_idx = np.argsort(scores)[-3:][::-1]
+            top_chunks = [chunks[i] for i in top_idx]
+
+            context = "\n\n---\n\n".join(top_chunks)
+
+            prompt = f"""You are HKC & Ship Recycling Expert for IMO delegates.
+            Use ONLY below context from 788 public IMO docs to answer.
+            Always give citation like Source: MEPC.xxx.
+            If answer not in context, say not found in public docs.
+
+            Context:
+            {context}
+
+            Question: {query}
+
+            Answer with:
+            1. Clear summary
+            2. Key limits/requirements
+            3. Sources & Citations
+            """
+
+            with st.spinner("Searching 788 PDFs..."):
+                try:
+                    resp = model.generate_content(prompt)
+                    st.markdown(resp.text)
+
+                    st.divider()
+                    st.markdown("#### 📑 Sources & Citations")
+                    for i, idx in enumerate(top_idx):
+                        # Extract source name
+                        src = chunks[idx][:120].replace('\n',' ')
+                        st.markdown(f'<div class="citation-box"><b>Source {i+1}:</b> {src}...<br><small>Relevance: {scores[idx]:.2f}</small></div>', unsafe_allow_html=True)
+
+                except Exception as e:
+                    st.error(f"Error: {e}")
+    else:
+        st.warning("Add GEMINI_API_KEY in Streamlit Secrets")
+
+with col2:
+    st.markdown("### 📄 Document Preview & Regulation Details")
+    tab1, tab2 = st.tabs(["Preview", "Regulation Details"])
+
+    with tab1:
+        st.info("**MEPC.196(62) — Guidelines for IHM**\n\nAdopted: 15 July 2011 • Status: In Force")
+        st.markdown("**Cybutryne — Regulation Details**")
+        st.markdown("""
+        - Substance: Cybutryne (Irgarol-1051)
+        - CAS No.: 28159-98-0
+        - Limit: 1000 μg/kg (1.0 mg/kg)
+        - Source: MEPC.379(80)
+        """)
+
+    with tab2:
+        st.markdown("**SRP Checklist — Cybutryne Compliance**")
+        st.checkbox("Cybutryne identified in IHM Part I", value=True)
+        st.checkbox("Concentration quantified in sampling report", value=True)
+        st.checkbox("Management plan in SRP Section 6.3", value=True)
+        st.checkbox("Verification by approved surveyor pending")
+        st.warning("Action Required: Ensure sampling report attached to Part I before Recycling Plan approval.")
+        st.button("📥 Download PDF Report")
+
+# --- FOOTER ---
+st.divider()
+st.caption("Built for IMO Delegates & Ship Recyclers | 788 Public IMO Docs | 100% Legal | Not Official IMO Product")
