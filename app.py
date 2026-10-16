@@ -1,6 +1,8 @@
 import streamlit as st
 import glob, os
 from datetime import datetime
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 st.set_page_config(page_title="Assistant IMO Bot", page_icon="🚢", layout="centered")
 
@@ -9,38 +11,22 @@ st.markdown("""
    header, footer {visibility: hidden;}
 .stApp { background: #e5ddd5; }
 
- /* === MANAGE APP < BUTTON TOP RIGHT ME === */
+ /* < BUTTON TOP RIGHT */
  iframe[title="streamlitAppDeploymentButton"] {
-        position: fixed!important;
-        top: 65px!important;
-        right: 8px!important;
-        bottom: auto!important;
-        left: auto!important;
-        width: 28px!important; height: 28px!important;
-        z-index: 2000!important;
-        opacity: 0.8!important;
-        background: black!important;
-        border-radius: 6px!important;
+        position: fixed!important; top: 65px!important; right: 8px!important;
+        bottom: auto!important; width: 28px!important; height: 28px!important;
+        z-index: 2000!important; opacity: 0.8!important;
+        background: black!important; border-radius: 6px!important;
  }
  div[class*="viewerBadge"], div[class*="stAppDeployButton"] {
-        position: fixed!important;
-        top: 65px!important;
-        right: 8px!important;
-        bottom: auto!important;
-        width: 28px!important; height: 28px!important;
-        overflow: hidden!important;
-        background: #000!important;
-        border-radius: 5px!important;
-        opacity: 0.7!important;
-        z-index: 2000!important;
+        position: fixed!important; top: 65px!important; right: 8px!important; bottom: auto!important;
+        width: 28px!important; height: 28px!important; overflow: hidden!important;
+        background: #000!important; border-radius: 5px!important; opacity: 0.7!important; z-index: 2000!important;
  }
- div[class*="viewerBadge"] span, div[class*="stAppDeployButton"] span {
-        display: none!important;
- }
+ div[class*="viewerBadge"] span, div[class*="stAppDeployButton"] span { display: none!important; }
  div[class*="viewerBadge"]::after, div[class*="stAppDeployButton"]::after {
-        content: "<"!important; display: block!important;
-        color: white!important; text-align: center!important;
-        font-weight: bold!important; line-height: 28px!important;
+        content: "<"!important; display: block!important; color: white!important;
+        text-align: center!important; font-weight: bold!important; line-height: 28px!important;
  }
 
 .imo-header {
@@ -49,15 +35,13 @@ st.markdown("""
         position: fixed; top: 0; left: 0; right: 0; z-index: 1000; height: 60px;
    }
 .imo-logo-left {
-        background: white; color: #0b2a5b; font-weight: 900;
-        width: 38px; height: 38px; border-radius: 50%;
-        display: flex; align-items: center; justify-content: center;
+        background: white; color: #0b2a5b; font-weight: 900; width: 38px; height: 38px;
+        border-radius: 50%; display: flex; align-items: center; justify-content: center;
         font-size: 13px; margin-right: 10px;
    }
 .imo-logo-right {
-        background: white; color: #0b2a5b; font-weight: 900;
-        width: 36px; height: 36px; border-radius: 50%;
-        display: flex; align-items: center; justify-content: center;
+        background: white; color: #0b2a5b; font-weight: 900; width: 36px; height: 36px;
+        border-radius: 50%; display: flex; align-items: center; justify-content: center;
         font-size: 12px; margin-right: 35px;
    }
 .chat-wrap { margin-top: 70px; margin-bottom: 85px; padding-bottom: 15px; }
@@ -70,13 +54,13 @@ st.markdown("""
 .msg-bot {
         background: #ffffff; color: #000!important; padding: 10px 14px;
         border-radius: 0px 12px 12px 12px; margin: 8px auto 8px 0;
-        max-width: 82%; float: left; clear: both;
-        box-shadow: 0 1px 1px rgba(0,0,0,0.15); font-size: 14px; border: 1px solid #e0e0e0;
+        max-width: 85%; float: left; clear: both;
+        box-shadow: 0 1px 1px rgba(0,0,0,0.15); font-size: 14px;
+        border: 1px solid #e0e0e0; white-space: pre-wrap;
    }
 .msg-bot * { color: #000!important; }
 .msg-time { font-size: 10px; color: #667781!important; margin-top: 5px; text-align: right;}
-
-   div[data-testid="stChatInput"] {
+div[data-testid="stChatInput"] {
         position: fixed!important; bottom: 0!important; left: 0!important; right: 0!important;
         background: #f0f0f0!important; padding: 8px 12px!important; z-index: 1001!important;
    }
@@ -124,9 +108,23 @@ def load_chunks():
         except:
             pass
     chunks = [c.strip() for c in txt.split("---CHUNK---") if len(c.strip())>80]
-    return chunks, len(files)
+    return chunks
 
-chunks, fcount = load_chunks()
+chunks = load_chunks()
+
+@st.cache_resource
+def build_tfidf(_chunks):
+    vectorizer = TfidfVectorizer(stop_words='english', max_features=8000)
+    tfidf_matrix = vectorizer.fit_transform(_chunks)
+    return vectorizer, tfidf_matrix
+
+vectorizer, tfidf_matrix = build_tfidf(chunks)
+
+def get_best_chunks(question, chunks, vectorizer, tfidf_matrix, top_k=4):
+    q_vec = vectorizer.transform([question])
+    scores = (tfidf_matrix * q_vec.T).toarray().ravel()
+    top_idx = np.argsort(scores)[-top_k:][::-1]
+    return [chunks[i] for i in top_idx if scores[i] > 0.001]
 
 if "messages" not in st.session_state:
     st.session_state.messages = [
@@ -141,19 +139,34 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 if prompt := st.chat_input("Type a message..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
-    q_low = prompt.lower()
-    results = [c for c in chunks if any(w in c.lower() for w in q_low.split() if len(w)>3)][:3]
+    results = get_best_chunks(prompt, chunks, vectorizer, tfidf_matrix, top_k=4)
     if not results:
-        results = chunks[:2]
-    context = "\n".join(results)[:4000]
+        results = chunks[:3]
+    context = "\n\n---\n\n".join(results)[:12000]
+
     if gemini_ok and gemini_model:
         try:
-            final_prompt = f"You are Assistant IMO Bot. Use this IMO CODE context:\n{context}\n\nUser Question: {prompt}\nAnswer clearly."
-            response = gemini_model.generate_content(final_prompt)
+            final_prompt = f"""You are Assistant IMO Bot - Expert in IMO Conventions.
+User Question: {prompt}
+
+Use ONLY this authentic IMO context:
+{context}
+
+Give FULL DETAILED ANSWER:
+1. Direct Answer - Who is liable?
+2. Bunker Convention 2001 Article 3 & 4 applicability
+3. Hong Kong Convention Regulation 9 & Article 9 liability
+4. Wreck Removal Convention - Is it applicable?
+5. P&I Club cover - when it ends?
+6. Practical Conclusion
+
+Add SOURCE references. Give complete answer, not short."""
+            response = gemini_model.generate_content(final_prompt, generation_config={"max_output_tokens": 3000, "temperature": 0.2})
             answer = response.text
         except Exception as e:
-            answer = f"{results[0][:800]}"
+            answer = results[0][:2000]
     else:
-        answer = f"{results[0][:800]}"
+        answer = results[0][:2000] + "\n\n(Add GEMINI_API_KEY in Secrets for AI analysis)"
+
     st.session_state.messages.append({"role": "assistant", "content": answer})
     st.rerun()
