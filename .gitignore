@@ -1,4 +1,11 @@
-data/
-__pycache__/
+# Secrets
 .env
+*.key
+
+# Private PDFs (kabhi push mat karna - copyright)
+data/
+*.pdf
+
+# Python
+__pycache__/
 venv/
