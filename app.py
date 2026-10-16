@@ -7,123 +7,126 @@ from google import genai
 
 st.set_page_config(page_title="HKC Intelligence Platform", page_icon="⚓", layout="wide")
 
+# --- PROFESSIONAL CSS ---
 st.markdown("""
 <style>
-.main-header { background: #0A4A7A; color: white; padding: 15px; border-radius: 8px; margin-bottom: 10px; }
-.citation-box { background: #E8F0FE; border-left: 4px solid #0A4A7A; padding: 10px; margin: 8px 0; border-radius: 4px; font-size: 13px; }
+.main-header { background: linear-gradient(90deg, #0A2540 0%, #0A4A7A 100%); color: white; padding: 20px 25px; border-radius: 12px; }
+.main-header h2 { margin:0; font-weight:700; letter-spacing:0.5px; }
+.main-header p { margin:5px 0 0 0; opacity:0.9; font-size:14px; }
+.citation-box { background: #F6F9FC; border:1px solid #E0E8F0; border-left:4px solid #0A4A7A; padding:12px; margin:8px 0; border-radius:6px; font-size:13px; }
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="main-header"><h2 style="margin:0">⚓ HKC & Ship Recycling Intelligence Platform</h2><p style="margin:0">Unofficial — 788 public IMO Docs | For HKC Implementation | IMO Level Product</p></div>', unsafe_allow_html=True)
-st.caption("⚠️ Not an official IMO product - For official text refer to imo.org")
+st.markdown('<div class="main-header"><h2>⚓ HKC Intelligence Platform</h2><p>Ship Recycling Compliance | IMO Standards & Guidelines</p></div>', unsafe_allow_html=True)
 
+# --- LOAD ALL 10 PARTS CORRECTLY ---
 @st.cache_data
 def load_all_chunks():
     chunks = []
-    files = glob.glob("master_imo_all_public_part*.txt")
+    files = sorted(glob.glob("master_imo_all_public_part*.txt"))
     if not files:
-        files = glob.glob("**/master_imo_all_public_part*.txt", recursive=True)
-    for f in sorted(files):
+        files = sorted(glob.glob("**/master_imo_all_public_part*.txt", recursive=True))
+
+    for f in files:
         try:
             with open(f, 'r', encoding='utf-8', errors='ignore') as file:
                 content = file.read()
-                parts = re.split(r'---CHUNK---|---\n', content)
+                # Try multiple delimiters
+                parts = re.split(r'---CHUNK---|---\s*\n|SOURCE:', content)
                 for p in parts:
                     p = p.strip()
-                    if len(p) > 200:
+                    if len(p) > 300: # Only valid chunks
                         chunks.append(p)
-        except:
-            pass
+        except Exception as e:
+            st.warning(f"Error reading {f}: {e}")
     return chunks
 
 chunks = load_all_chunks()
-if not chunks:
-    st.error("master_imo_all_public_part*.txt files not found!")
-    st.stop()
 
 @st.cache_resource
 def build_index(chunks_list):
-    vectorizer = TfidfVectorizer(stop_words='english', max_features=5000)
+    # FIXED RETRIEVAL - N-Gram + More Features
+    vectorizer = TfidfVectorizer(
+        stop_words='english',
+        max_features=20000,
+        ngram_range=(1,2),
+        min_df=1
+    )
     tfidf = vectorizer.fit_transform(chunks_list)
     return vectorizer, tfidf
+
+if not chunks:
+    st.error("master_imo_all_public_part*.txt not found in GitHub root")
+    st.stop()
 
 vectorizer, tfidf_matrix = build_index(chunks)
 
 with st.sidebar:
-    st.markdown("### 📚 IMO Document Library")
-    st.success(f"{len(chunks)} Chunks | 788 PDFs")
-    st.markdown("**Hong Kong Convention**\n\n**MEPC.196(62) IHM**\n\n**MEPC.379(80) Cybutryne**\n\n**IHM Guidelines**")
+    st.markdown("### 📚 Document Library")
+    st.metric("Total Chunks", len(chunks))
+    st.metric("Source Files", "10 Parts")
     st.divider()
-    st.markdown("REFERENCE:\n- SRP Template\n- Safe for Recycling Cert\n- Waste Management")
+    st.markdown("**Standards Covered:**\n- Hong Kong Convention\n- MEPC.196(62) - IHM\n- MEPC.197(62) - SRP\n- MEPC.379(80)\n- Safe & Env Sound Recycling")
 
 api_key = st.secrets.get("GEMINI_API_KEY") or os.getenv("GEMINI_API_KEY")
 if not api_key:
-    api_key = st.text_input("Enter GEMINI_API_KEY", type="password")
-
-if not api_key:
-    st.warning("Add GEMINI_API_KEY in Secrets")
     st.stop()
 
+# LOCKED MODEL - TUMHARA WORKING FLASH
 client = genai.Client(api_key=api_key)
-
-# --- MULTI FLASH MODEL FALLBACK ---
-MODELS_TO_TRY = [
-    "gemini-2.0-flash",
-    "gemini-2.5-flash",
-    "gemini-2.0-flash-exp",
-    "gemini-1.5-flash",
-    "gemini-1.5-flash-latest",
-    "gemini-flash-latest",
-    "gemini-2.0-flash-lite"
-]
+WORKING_MODEL = "gemini-2.5-flash"
 
 def generate_with_fallback(prompt):
-    last_error = None
-    for model_name in MODELS_TO_TRY:
+    models = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-flash-latest"]
+    last_err = None
+    for m in models:
         try:
-            response = client.models.generate_content(model=model_name, contents=prompt)
-            return response.text, model_name
+            resp = client.models.generate_content(model=m, contents=prompt)
+            return resp.text, m
         except Exception as e:
-            last_error = e
+            last_err = e
             continue
-    raise last_error
+    raise last_err
 
-st.markdown("### 🤖 AI Assistant — Chat & Analysis")
-st.caption("Powered by 788 Public IMO Docs | Citation Based | Multi-Flash Support")
+st.markdown("### AI Assistant — Chat & Analysis")
+st.caption(f"Model: {WORKING_MODEL} | Retrieval: TF-IDF N-Gram (20k features)")
 
-query = st.text_input("Ask about HKC...", placeholder="What is Cybutryne limit? How to prepare SRP as per MEPC.196?")
+query = st.text_input("Ask about HKC, IHM, SRP...", placeholder="How to prepare SRP as per MEPC.196(62)?")
 
 if query:
     q_vec = vectorizer.transform([query])
     scores = cosine_similarity(q_vec, tfidf_matrix).flatten()
-    top_idx = np.argsort(scores)[-3:][::-1]
+    top_idx = np.argsort(scores)[-5:][::-1]
+    # Only keep relevant > 0.05
+    top_idx = [i for i in top_idx if scores[i] > 0.05]
+    if not top_idx:
+        top_idx = np.argsort(scores)[-3:][::-1]
+
     top_chunks = [chunks[i] for i in top_idx]
     context = "\n\n---\n\n".join(top_chunks)
 
-    prompt = f"""You are HKC & Ship Recycling Expert for IMO.
-Use ONLY below context from 788 public IMO docs.
-Always give citation like Source: MEPC.xxx
+    prompt = f"""You are HKC Ship Recycling Expert.
+Use below IMO context only. Provide accurate technical answer.
 
 Context:
 {context}
 
 Question: {query}
 
-Answer with clear summary, limits, requirements, and Sources & Citations."""
+Provide structured answer with requirements, steps, and citations."""
 
     with st.spinner(f"Searching {len(chunks)} chunks..."):
         try:
             answer_text, used_model = generate_with_fallback(prompt)
-            st.success(f"Answered using: {used_model}")
             st.markdown(answer_text)
+            st.caption(f"Generated by {used_model}")
             st.divider()
-            st.markdown("#### 📑 Sources & Citations (IMO Level)")
+            st.markdown("#### 📑 Sources")
             for i, idx in enumerate(top_idx):
-                preview = chunks[idx][:200].replace('\n',' ')
-                st.markdown(f'<div class="citation-box"><b>Source {i+1} (Relevance {scores[idx]:.2f}):</b><br>{preview}...</div>', unsafe_allow_html=True)
+                preview = chunks[idx][:300].replace('\n',' ')
+                st.markdown(f'<div class="citation-box"><b>Source {i+1} | Relevance {scores[idx]:.2f}</b><br>{preview}...</div>', unsafe_allow_html=True)
         except Exception as e:
-            st.error(f"All models failed. Last Error: {e}")
-            st.info("Check GEMINI_API_KEY in Secrets - Manage App > Settings > Secrets")
+            st.error(f"Error: {e}")
 
 st.divider()
-st.caption(f"Built for IMO Delegates | {len(chunks)} Chunks | 788 Public Docs | Multi-Flash Auto-Fallback | Not Official IMO Product")
+st.caption(f"HKC Intelligence Platform | {len(chunks)} Chunks | IMO Level Product")
