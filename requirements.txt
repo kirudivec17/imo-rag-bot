@@ -4,3 +4,5 @@ langchain-text-splitters
 google-generativeai
 python-dotenv
 requests
+scikit-learn
+numpy
