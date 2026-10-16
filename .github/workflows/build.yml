@@ -1,4 +1,4 @@
-name: Build ALL Public IMO PDFs
+name: Build 1000+ IMO Public PDFs
 permissions:
   contents: write
 on:
@@ -7,113 +7,108 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       - run: pip install pypdf langchain-text-splitters requests beautifulsoup4 lxml
+
       - run: |
           python << 'PY'
-          import requests, re, io
+          import requests, re, io, urllib.parse, time
           from bs4 import BeautifulSoup
           from pypdf import PdfReader
           from langchain_text_splitters import RecursiveCharacterTextSplitter
-          
+
           splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-          
-          # Step 1: Scrape IMO official index pages for ALL public PDFs
+          sess = requests.Session()
+          sess.headers.update({'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0'})
+
+          all_urls = set()
+
+          # SOURCE 1: SCRAPE 3 INDEX PAGES (Real links)
           index_pages = [
-              "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MEPC.aspx",
-              "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Assembly.aspx",
-              "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MSC.aspx"
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MEPC.aspx",
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Assembly.aspx",
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MSC.aspx",
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/LEG.aspx"
           ]
-          
-          all_pdfs = set()
-          
-          for page_url in index_pages:
+          for page in index_pages:
               try:
-                  print(f"SCRAPING INDEX: {page_url}")
-                  resp = requests.get(page_url, timeout=60, headers={'User-Agent':'Mozilla/5.0'})
-                  soup = BeautifulSoup(resp.text, 'lxml')
-                  # saare pdf links nikalo
+                  print(f"SCRAPING {page}")
+                  r = sess.get(page, timeout=60)
+                  soup = BeautifulSoup(r.text, 'lxml')
                   for a in soup.find_all('a', href=True):
                       href = a['href']
                       if '.pdf' in href.lower():
                           if href.startswith('/'):
-                              href = "https://www.imo.org"+href
-                          all_pdfs.add(href)
-                  # cdn wale bhi
-                  cdn_links = re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', resp.text)
-                  for link in cdn_links:
-                      all_pdfs.add(link)
+                              href = 'https://www.imo.org' + href
+                          all_urls.add(href)
+                  cdn = re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', r.text)
+                  for u in cdn:
+                      all_urls.add(u)
+                  print(f"Found {len(all_urls)} so far")
               except Exception as e:
-                  print(f"Scrape fail {page_url}: {e}")
-          
-          # Step 2: Brute force backup - MEPC 1-410 + Assembly 1-1160
-          base_mepc = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.{}.pdf"
-          base_assem = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.{}.pdf"
-          base_msc = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.{}.pdf"
-          
-          for i in range(1, 412):
-              for fmt in [f"{i}(80)", f"{i}(76)", f"{i}(78)", f"{i}(79)", f"{i}(83)", f"{i}", f"{i}(68)"]:
-                  all_pdfs.add(base_mepc.format(fmt))
-          
-          for i in range(1, 1161):
-              for fmt in [f"{i}(32)", f"{i}(31)", f"{i}(30)", f"{i}(28)", f"{i}", f"{i}(33)"]:
-                  all_pdfs.add(base_assem.format(fmt))
-          
-          for i in range(1, 550):
-              for fmt in [f"{i}(80)", f"{i}(70)", f"{i}", f"{i}(81)"]:
-                  all_pdfs.add(base_msc.format(fmt))
+                  print(f"Fail scrape {e}")
 
-          pdf_list = list(all_pdfs)
-          print(f"TOTAL FOUND PUBLIC PDFS TO TRY: {len(pdf_list)}")
+          # SOURCE 2: BRUTE FORCE 1-1000 for ALL SERIES (encoded)
+          bases = [
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.{}",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.{}",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.{}",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/LEGDocuments/LEG.{}",
+          ]
+          for base in bases:
+              for i in range(1, 1001):
+                  for suffix in [f"{i}(80)", f"{i}(82)", f"{i}(83)", f"{i}(76)", f"{i}(62)", f"{i}(63)", f"{i}(68)", f"{i}(32)", f"{i}(33)", f"{i}", f"{i}(70)"]:
+                      url = base.format(urllib.parse.quote(suffix) + ".pdf")
+                      all_urls.add(url)
 
-          # Step 3: Download and chunk - Save in 10 parts (100MB limit)
+          print(f"TOTAL UNIQUE URLs TO TRY: {len(all_urls)}")
+
+          # SOURCE 3: DOWNLOAD (Limit 1000 for GitHub Actions 6hr)
           all_chunks = []
           success = 0
-          for idx, url in enumerate(pdf_list, 1):
-              if idx > 1500: break # safety limit 1500
+          for idx, url in enumerate(list(all_urls)[:1000], 1):
               try:
-                  r = requests.get(url, timeout=15, headers={'User-Agent':'Mozilla/5.0'})
-                  if r.status_code != 200 or len(r.content) < 4000:
+                  rr = sess.get(url, timeout=20)
+                  if rr.status_code != 200 or len(rr.content) < 12000:
                       continue
-                  reader = PdfReader(io.BytesIO(r.content))
-                  text = "".join([(p.extract_text() or "") for p in reader.pages])
-                  if len(text.strip()) < 150:
+                  reader = PdfReader(io.BytesIO(rr.content))
+                  text = "".join([p.extract_text() or "" for p in reader.pages])
+                  if len(text) < 500:
                       continue
                   success += 1
                   for c in splitter.split_text(text):
                       all_chunks.append(f"SOURCE: {url.split('/')[-1]}\n{c}")
-                  print(f"[{idx}] SUCCESS {success} - {url.split('/')[-1]} - total chunks {len(all_chunks)}")
+                  print(f"[{idx}/{len(all_urls)}] SUCCESS {success} {url.split('/')[-1]} chunks={len(all_chunks)}")
+                  if len(all_chunks) > 35000:  # Safety
+                      break
+                  time.sleep(0.2)
               except:
                   continue
-          
-          print(f"FINAL SUCCESS {success} PUBLIC PDFs DOWNLOADED - {len(all_chunks)} CHUNKS")
-          
-          # 10 parts me save karo
-          if not all_chunks:
-              print("No chunks found!")
-              exit(0)
-              
-          per_part = len(all_chunks)//10 + 1
-          for p in range(10):
-              part_data = all_chunks[p*per_part:(p+1)*per_part]
-              if not part_data:
-                  continue
-              fname = f"master_imo_all_public_part{p+1}.txt"
-              open(fname, 'w', encoding='utf-8').write('\n\n---CHUNK---\n\n'.join(part_data))
-              print(f"SAVED {fname} - {len(part_data)} chunks")
 
-          # Success summary file
-          open('imo_public_summary.txt','w').write(f"Total PDFs: {success}\nTotal Chunks: {len(all_chunks)}\n")
+          print(f"FINAL: {success} PDFs, {len(all_chunks)} chunks")
+          if len(all_chunks) < 100:
+              print("Too few, keeping old")
+              exit(0)
+
+          per = len(all_chunks)//10 + 1
+          for p in range(10):
+              part = all_chunks[p*per:(p+1)*per]
+              if not part: continue
+              fname = f"master_imo_all_public_part{p+1}.txt"
+              open(fname, 'w', encoding='utf-8').write('\n\n---CHUNK---\n\n'.join(part))
+              print(f"SAVED {fname}")
+
+          open('imo_public_summary.txt','w').write(f"Total URLs Tried: {len(all_urls)}\nSuccess PDFs: {success}\nChunks: {len(all_chunks)}\n")
           PY
+
       - run: |
-          git config user.name "mobile-bot"
-          git config user.email "bot@mobile.com"
+          git config user.name "imo-1000-bot"
+          git config user.email "bot@imo.com"
           git add master_imo_all_public_part*.txt imo_public_summary.txt
-          git commit -m "add ALL public IMO PDFs - full scrape" || echo "no changes"
+          git commit -m "build 1000+ corpus attempt - real scrape" || true
           git push
