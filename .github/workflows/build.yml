@@ -1,4 +1,4 @@
-name: Build 1000+ IMO Public PDFs
+name: Build 100-100 Continuous IMO
 permissions:
   contents: write
 on:
@@ -7,108 +7,117 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      - run: pip install pypdf langchain-text-splitters requests beautifulsoup4 lxml
+      - run: pip install pypdf langchain-text-splitters requests
 
       - run: |
           python << 'PY'
-          import requests, re, io, urllib.parse, time
-          from bs4 import BeautifulSoup
           from pypdf import PdfReader
           from langchain_text_splitters import RecursiveCharacterTextSplitter
+          import requests, io, glob, time
 
-          splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+          splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=250)
           sess = requests.Session()
-          sess.headers.update({'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0'})
+          sess.headers.update({'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'})
 
-          all_urls = set()
-
-          # SOURCE 1: SCRAPE 3 INDEX PAGES (Real links)
-          index_pages = [
-            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MEPC.aspx",
-            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Assembly.aspx",
-            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MSC.aspx",
-            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/LEG.aspx"
-          ]
-          for page in index_pages:
+          # 1. LOAD OLD PDFs - REPEAT IGNORE LIST
+          existing_sources = set()
+          existing_chunks = []
+          for f in glob.glob("master_imo_all_public_part*.txt"):
               try:
-                  print(f"SCRAPING {page}")
-                  r = sess.get(page, timeout=60)
-                  soup = BeautifulSoup(r.text, 'lxml')
-                  for a in soup.find_all('a', href=True):
-                      href = a['href']
-                      if '.pdf' in href.lower():
-                          if href.startswith('/'):
-                              href = 'https://www.imo.org' + href
-                          all_urls.add(href)
-                  cdn = re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', r.text)
-                  for u in cdn:
-                      all_urls.add(u)
-                  print(f"Found {len(all_urls)} so far")
-              except Exception as e:
-                  print(f"Fail scrape {e}")
+                  txt = open(f, 'r', encoding='utf-8', errors='ignore').read()
+                  if not txt: continue
+                  parts = txt.split("\n\n---CHUNK---\n\n")
+                  existing_chunks.extend(parts)
+                  for p in parts:
+                      if p.startswith("SOURCE:"):
+                          src = p.split("\n")[0].replace("SOURCE:","").strip()
+                          existing_sources.add(src)
+              except: pass
 
-          # SOURCE 2: BRUTE FORCE 1-1000 for ALL SERIES (encoded)
-          bases = [
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.{}",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.{}",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.{}",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/LEGDocuments/LEG.{}",
+          print(f"OLD DATA: {len(existing_sources)} PDFs already done, {len(existing_chunks)} chunks")
+          print(f"OLD PDFs: {list(existing_sources)[:5]}")
+
+          # 2. MAKE 2000 URLs LIST
+          all_urls = []
+          # Important HKC list
+          all_urls += [
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.196(62).pdf",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.197(62).pdf",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.269(68).pdf",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.379(80).pdf",
           ]
-          for base in bases:
-              for i in range(1, 1001):
-                  for suffix in [f"{i}(80)", f"{i}(82)", f"{i}(83)", f"{i}(76)", f"{i}(62)", f"{i}(63)", f"{i}(68)", f"{i}(32)", f"{i}(33)", f"{i}", f"{i}(70)"]:
-                      url = base.format(urllib.parse.quote(suffix) + ".pdf")
-                      all_urls.add(url)
+          for i in range(1, 501):
+              for fmt in [f"{i}(62)", f"{i}(63)", f"{i}(68)", f"{i}(80)", f"{i}(76)", f"{i}(83)", f"{i}(32)", f"{i}(33)"]:
+                  all_urls.append(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.{fmt}.pdf")
+                  all_urls.append(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.{fmt}.pdf")
+                  all_urls.append(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.{fmt}.pdf")
 
-          print(f"TOTAL UNIQUE URLs TO TRY: {len(all_urls)}")
+          all_urls = list(dict.fromkeys(all_urls))
+          print(f"TOTAL URLs LIST: {len(all_urls)}")
 
-          # SOURCE 3: DOWNLOAD (Limit 1000 for GitHub Actions 6hr)
-          all_chunks = []
-          success = 0
-          for idx, url in enumerate(list(all_urls)[:1000], 1):
-              try:
-                  rr = sess.get(url, timeout=20)
-                  if rr.status_code != 200 or len(rr.content) < 12000:
+          # 3. 100-100 SEARCH WITH REPEAT IGNORE
+          total_ok = 0
+          BATCH_SIZE = 100
+
+          for start in range(0, len(all_urls), BATCH_SIZE):
+              batch_urls = all_urls[start:start+BATCH_SIZE]
+              print(f"\n--- SEARCHING BATCH {start//BATCH_SIZE + 1} : {start} to {start+BATCH_SIZE-1} ---")
+              batch_new = 0
+
+              for url in batch_urls:
+                  fname = url.split('/')[-1]
+                  if fname in existing_sources:
+                      # print(f"SKIP REPEAT {fname}")
+                      continue # REPEAT IGNORE
+
+                  try:
+                      r = sess.get(url, timeout=25)
+                      if r.status_code!= 200 or len(r.content) < 12000:
+                          continue
+                      reader = PdfReader(io.BytesIO(r.content))
+                      text = "".join([p.extract_text() or "" for p in reader.pages])
+                      if len(text) < 500:
+                          continue
+
+                      # SUCCESS - NEW PDF
+                      total_ok += 1
+                      batch_new += 1
+                      existing_sources.add(fname)
+                      for c in splitter.split_text(text):
+                          existing_chunks.append(f"SOURCE: {fname}\n{c}")
+                      print(f"[NEW] {total_ok} {fname} - Total chunks {len(existing_chunks)}")
+
+                  except Exception as e:
                       continue
-                  reader = PdfReader(io.BytesIO(rr.content))
-                  text = "".join([p.extract_text() or "" for p in reader.pages])
-                  if len(text) < 500:
-                      continue
-                  success += 1
-                  for c in splitter.split_text(text):
-                      all_chunks.append(f"SOURCE: {url.split('/')[-1]}\n{c}")
-                  print(f"[{idx}/{len(all_urls)}] SUCCESS {success} {url.split('/')[-1]} chunks={len(all_chunks)}")
-                  if len(all_chunks) > 35000:  # Safety
-                      break
-                  time.sleep(0.2)
-              except:
-                  continue
 
-          print(f"FINAL: {success} PDFs, {len(all_chunks)} chunks")
-          if len(all_chunks) < 100:
-              print("Too few, keeping old")
-              exit(0)
+              # SAVE AFTER EVERY 100
+              if existing_chunks:
+                  per = len(existing_chunks)//10 + 1
+                  for p in range(10):
+                      part = existing_chunks[p*per:(p+1)*per]
+                      if not part: continue
+                      open(f"master_imo_all_public_part{p+1}.txt",'w',encoding='utf-8').write('\n\n---CHUNK---\n\n'.join(part))
 
-          per = len(all_chunks)//10 + 1
-          for p in range(10):
-              part = all_chunks[p*per:(p+1)*per]
-              if not part: continue
-              fname = f"master_imo_all_public_part{p+1}.txt"
-              open(fname, 'w', encoding='utf-8').write('\n\n---CHUNK---\n\n'.join(part))
-              print(f"SAVED {fname}")
+                  open('imo_public_summary.txt','w').write(f"Processed till {start+BATCH_SIZE}\nTotal Unique PDFs: {len(existing_sources)}\nTotal Chunks: {len(existing_chunks)}\nLast Batch New: {batch_new}\n")
+                  print(f"SAVED till {start+BATCH_SIZE} - Total PDFs {len(existing_sources)}")
 
-          open('imo_public_summary.txt','w').write(f"Total URLs Tried: {len(all_urls)}\nSuccess PDFs: {success}\nChunks: {len(all_chunks)}\n")
+              time.sleep(1) # IMO block se bachne ke liye
+              if len(existing_chunks) > 40000:
+                  print("Limit 40k reached, stopping")
+                  break
+
+          print(f"FINAL DONE: {len(existing_sources)} PDFs, {len(existing_chunks)} chunks")
           PY
 
       - run: |
-          git config user.name "imo-1000-bot"
+          git config user.name "imo-continuous-bot"
           git config user.email "bot@imo.com"
           git add master_imo_all_public_part*.txt imo_public_summary.txt
-          git commit -m "build 1000+ corpus attempt - real scrape" || true
+          git commit -m "continuous 100-100 search with repeat ignore" || true
           git push
