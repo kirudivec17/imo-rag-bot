@@ -1,4 +1,75 @@
-SOURCE: MSC.198(80).pdf
+SOURCE: MEPC.382%2880%29.pdf
+RESOLUTION MEPC.382(80) (adopted on 7 July 2023)  
+ESTABLISHMENT OF THE DATE ON WHICH REGULATION 6 OF MARPOL ANNEX V, IN RESPECT OF 
+THE RED SEA SPECIAL AREA, SHALL TAKE EFFECTMEPC 80/17/Add.1 
+Annex 22, page 1 
+I:\MEPC\80\MEPC 80-17-Add.1 
+ANNEX 22 
+RESOLUTION MEPC.382(80) 
+(adopted on 7 July 2023) 
+ESTABLISHMENT OF THE DATE ON WHICH  
+REGULATION 6 OF MARPOL ANNEX V, IN RESPECT OF THE 
+RED SEA SPECIAL AREA, SHALL TAKE EFFECT 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution 
+from ships, 
+NOTING regulation 1.14.4 of Annex V of the International Convention for the Prevention of 
+Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL),
+
+---CHUNK---
+
+SOURCE: MEPC.382%2880%29.pdf
+from ships, 
+NOTING regulation 1.14.4 of Annex V of the International Convention for the Prevention of 
+Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL), 
+defines the Red Sea area as a Special Area under the said Annex, 
+NOTING ALSO the definition of the Special Area under MARPOL Annex V, i.e. a sea area 
+where for recognized technical reasons in relation to its oceanographical and ecological 
+condition and to the particular character of its traffic the adoption of special mandatory methods 
+for the prevention of pollution of the sea by garbage, is required, 
+NOTING FURTHER the information provided to the Committee, at its eightieth session, by 
+Parties including Djibouti, Egypt, Jordan, Israel, Saudi Arabia, Somalia and the Sudan, the 
+coastlines of which border the Red Sea Special Area that adequate reception facilities are 
+provided in all ports and terminals within the said Special Area, in accordance with the
+
+---CHUNK---
+
+SOURCE: MEPC.382%2880%29.pdf
+coastlines of which border the Red Sea Special Area that adequate reception facilities are 
+provided in all ports and terminals within the said Special Area, in accordance with the 
+provisions of regulation 8.2 of MARPOL Annex V, 
+HAVING CONSIDERED the matter to establish the date on which the discharge requirements 
+of regulation 6 of MARPOL Annex V in respect of the Red Sea Special Area shall take effect, 
+1 DECIDES that the discharge requirements of regulation 6 of MARPOL Annex V in 
+respect to the Red Sea Special Area shall take effect on 1 January 2025, in accordance with 
+the requirements set out in regulation 8.2 of MARPOL Annex V; 
+2 ENCOURAGES Member Governments, industry groups and other stakeholders to 
+comply immediately on a voluntary basis with the Special Area requirements for the Red Sea 
+Special Area; 
+3 REQUESTS the Secretary -General to notify, in conformity with regulation 8.2 of 
+MARPOL Annex V, all Parties to MARPOL of the aforementioned decision
+
+---CHUNK---
+
+SOURCE: MEPC.382%2880%29.pdf
+Special Area; 
+3 REQUESTS the Secretary -General to notify, in conformity with regulation 8.2 of 
+MARPOL Annex V, all Parties to MARPOL of the aforementioned decision 
+by 31 December 2023;  
+4 ALSO REQUESTS the Secretary-General to notify all Members of the Organization 
+of the aforementioned decision. 
+***
+RESOLUTION MEPC.382(80) (adopted on 7 July 2023)  
+ESTABLISHMENT OF THE DATE ON WHICH REGULATION 6 OF MARPOL ANNEX V, IN RESPECT OF 
+THE RED SEA SPECIAL AREA, SHALL TAKE EFFECTRESOLUTION MEPC.382(80) (adopted on 7 July 2023)  
+ESTABLISHMENT OF THE DATE ON WHICH REGULATION 6 OF MARPOL ANNEX V, IN RESPECT OF 
+THE RED SEA SPECIAL AREA, SHALL TAKE EFFECT
+
+---CHUNK---
+
+SOURCE: MSC.198%2880%29.pdf
 RESOLUTION MSC.198(80) 
 (adopted on 20 May 2005) 
 ADOPTION OF AMENDMENTS TO THE FORMAT AND  
@@ -31,7 +102,7 @@ review and amend them, as appropriate, in the light of experience gained,
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 review and amend them, as appropriate, in the light of experience gained, 
  
  NOTING that a number of practical difficul ties have been encountered when issuing 
@@ -50,7 +121,7 @@ and the forms of the Continuous Synopsis Record as result of the experience gain
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 Synopsis Record, 
  
 ACKNOWLEDGING the need to review and am end the guidelines for the maintenance 
@@ -74,7 +145,7 @@ the experience gained;
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 Synopsis Record (CSR), as set out in Anne x 1 to the present re solution to reflect 
 the experience gained; 
  
@@ -100,7 +171,7 @@ obligations under SOLAS regulation XI-1/5 and resolution A.959(23) and, in parti
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 3. STRONGLY URGES Contracting Governments to the Convention to meet their 
 obligations under SOLAS regulation XI-1/5 and resolution A.959(23) and, in particular, when a 
 ship entitled to fly their flag is transferred to the flag of another Contracting Government to the 
@@ -120,7 +191,7 @@ ADOPTION OF AMENDMENTS TO THE FORMAT AND
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 the actions to be taken. 
  
  
@@ -152,7 +223,7 @@ new flag State.  The new flag State is requ ired to issue a new CSR document as 
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 preferably not later than one m onth from the date the ship ceas ed to be registered, to the 
 new flag State.  The new flag State is requ ired to issue a new CSR document as soon as 
 possible and not later than three months after the date of change of flag. 
@@ -169,7 +240,7 @@ found (i.e. leaving first sequential number unused).  The new flag State should 
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 second sequential number after the last sequentially number shown on the CSR document 
 found (i.e. leaving first sequential number unused).  The new flag State should explain, in 
 entry box 14, the reason for issuing the CSR document in such a manner. 
@@ -188,7 +259,7 @@ previous flag State did not fo rward the CSR file and thus failed to fulfil its 
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 deficiency against the previous flag State.  Such a deficiency is due to the fact that the 
 previous flag State did not fo rward the CSR file and thus failed to fulfil its obligations 
 under SOLAS regulation XI-1/5. 
@@ -228,7 +299,7 @@ FORM 2
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 I:\MSC\80\24-Add-1.doc 
 APPENDIX 
  
@@ -281,7 +352,7 @@ FORM 1
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 7 Registered owner identification number  
  
 2 The existing entry boxes numbers 7 and 8 are renumbered as 8 and 9. 
@@ -319,7 +390,7 @@ SYNOPSIS RECORD (CSR)RESOLUTION MSC.198(80)
 
 ---CHUNK---
 
-SOURCE: MSC.198(80).pdf
+SOURCE: MSC.198%2880%29.pdf
 *** 
 RESOLUTION MSC.198(80) 
 (adopted on 20 May 2005) 
@@ -333,2428 +404,1248 @@ SYNOPSIS RECORD (CSR)
 
 ---CHUNK---
 
-SOURCE: A.1136(31).pdf
-Resolution A.1136(31)  Adopted on 4 December 2019 
-ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNS 
-I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
- 
- 
- 
-E 
-  
-ASSEMBLY 
-31st session 
-Agenda item 8(b) 
- 
-A 31/Res.1136 
-10 January 2020 
-Original: ENGLISH 
- 
-Resolution A.1136(31) 
- 
-Adopted on 4 December 2019 
-(Agenda item 8(b)) 
- 
-ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT 
-OF IMO COUNCIL ELECTION CAMPAIGNS 
- 
-THE ASSEMBLY, 
- 
-RECALLING Article 15(e) of the Convention on the International Maritime Organization (IMO) 
-concerning the functions of the Assembly in relation to Council recommendations, 
- 
-BELIEVING that the election to the IMO Council carries with it significant responsibility, as 
-those Member States forming the Council carry out several important duties in support of the 
-overall governance of the Organization, 
- 
-CONSIDERING that IMO Council election campaigns run concurrently with the technical work
+SOURCE: MSC.68%2868%29.pdf
+RESOLUTION MSC.68(68) 
+(adopted on 6 June 1997) 
+ADOPTION OF AMENDMENTS TO PERFORMANCE STANDARDS 
+FOR SHIPBORNE RADIOCOMMUNICATION EQUIPMENT  ) 
+ANNEX 10 
+RESOLUTION MSC.68(68) 
+(adopted on 6 June 1997) 
+MSC 68/23/ Add. 1 
+ADOPTION OF AMENDMENTS TO PERFORMANCE STANDARDS 
+FOR SHIPBORNE RADIO COMMUNICATION EQUIPMENT 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING ALSO resolution A. 825(19), by which the Assembly resolved that the functions 
+of adopting performance standards for radio and navigational equipment, as well as amendments thereto, 
+shall be performed by the Maritime Safety Committee on behalf of the Organization, 
+NOTING the experience gained by the international maritime community on the use of ship borne 
+equipment in the Global Maritime Distress and Safety System,
 
 ---CHUNK---
 
-SOURCE: A.1136(31).pdf
-overall governance of the Organization, 
- 
-CONSIDERING that IMO Council election campaigns run concurrently with the technical work 
-of the Organization proceedings and therefore should complement it, 
- 
-NOTING that, in recent Assembly years, Member States witnessed an escalation in the 
-extravagance of receptions and gifts, 
- 
-RECOGNIZING the ongoing efforts by the open-ended Working Group on Council Reform,  
- 
-RECOGNIZING ALSO the need for commonly agreed standards of ethical behaviour to offer 
-equal conditions for all parties who choose to take part in the campaign for Council, 
- 
-HAVING CONSIDERED the recommendation made by the Council at its 122nd session, 
- 
-1 ADOPTS the Ethical considerations and guidelines for conduct of IMO Council 
-election campaigns, as set out in the annex to the present resolution; 
- 
-2 URGES Member States, when performing or participating in activities related to IMO 
-Council elections, to adhere to these guidelines;
+SOURCE: MSC.68%2868%29.pdf
+NOTING the experience gained by the international maritime community on the use of ship borne 
+equipment in the Global Maritime Distress and Safety System, 
+RECOGNIZING the need to update performance standards for VHF and MF radio installations 
+capable of voice communication and digital selective calling, MFIHF radio installations capable of voice 
+communication, narrow-band direct-printing and digital selective calling, and Inmarsat-C ship earth 
+stations capable of transmitting and receiving direct-printing communications, 
+HAVING CONSIDERED amendments, which, with respect to resolution A. 807(19), were agreed 
+by Inmarsat, to performance standards prepared at the second session of the Sub-Committee on 
+Radiocommunications and Search and Rescue, 
+1. ADOPTS the amendments to the following performance standards adopted by the Assembly, set 
+out in Annexes 1 to 4 to the present resolution: 
+(a) Resolution A. 803(19) - Performance Standards for Shipborne VHF Radio Installations
 
 ---CHUNK---
 
-SOURCE: A.1136(31).pdf
-2 URGES Member States, when performing or participating in activities related to IMO 
-Council elections, to adhere to these guidelines; 
+SOURCE: MSC.68%2868%29.pdf
+out in Annexes 1 to 4 to the present resolution: 
+(a) Resolution A. 803(19) - Performance Standards for Shipborne VHF Radio Installations 
+Capable of Voice Communication and Digital Selective Calling (Annex 1); 
+(b) Resolution A.804(19) - Performance Standards for Ship borne MF Radio Installations 
+Capable of Voice Communication and Digital Selective Calling (Annex 2); 
+(c) Resolution A. 806(1 9) - Performance Standards for Shipborne MFIHF Radio Installations 
+Capable of Voice Communication, Narrow-Band Direct-Printing and Digital Selective 
+Calling (Annex 3); and 
+(d) Resolution A. 807(19) - Performance Standards for Inmarsat-C Ship Earth Stations 
+Capable of Transmitting and Receiving Direct-Printing Communications (Annex 4); 
+2. RECOMMENDS Governments to ensure that equipment and systems listed in the present 
+resolution and installed on or after 1 January 2000 conform to the amended performance standards 
+specified in the attached Annexes . 
+I:\MSC\68\23 -Add.l
+
+---CHUNK---
+
+SOURCE: MSC.68%2868%29.pdf
+resolution and installed on or after 1 January 2000 conform to the amended performance standards 
+specified in the attached Annexes . 
+I:\MSC\68\23 -Add.l 
+RESOLUTION MSC.68(68) 
+(adopted on 6 June 1997) 
+ADOPTION OF AMENDMENTS TO PERFORMANCE STANDARDS 
+FOR SHIPBORNE RADIOCOMMUNICATION EQUIPMENT  MSC 68/23/ Add. 1 
+ANNEX 10 
+Page 2 
+ANNEX 1 
+AMENDMENTS TO RESOLUTION A.803(19) ~ PERFORMANCE STANDARDS 
+FOR VHF RADIO INSTALLATIONS CAPABLE OF VOICE COMMUNICATION 
+AND DIGITAL SELECTIVE CALLING 
+Modify paragraphs 11.2.5 and 11.2.6 of the Annex, as follows: 
+".5 facilities to automatically update the ship's position and the time at which the position was 
+determined from a suitable electronic position-fixing aid which may be an integral part 
+of the equipment. For equipment which does not have an integral position-fixing aid, 
+such facilities should include a suitable interface conforming to the appropriate 
+international standard; 1
+
+---CHUNK---
+
+SOURCE: MSC.68%2868%29.pdf
+of the equipment. For equipment which does not have an integral position-fixing aid, 
+such facilities should include a suitable interface conforming to the appropriate 
+international standard; 1 
+.6 means for manual entry of position information and the time at which the position was 
+determined; and" 
+Add new paragraph 11.2.7 : 
+".7 means to activate an alarm when no position data is received from the electronic 
+position-fixing aid or, in the case of manual input, the position information is over 
+4 hours old. Any position information not updated for more than 23 Y2 hours should be 
+erased." 
+Modify paragraph 11.3.2, as follows: 
+".3.2 These messages should be stored until readout and should be erased 48 hours after their 
+reception. II 
+Modify the second sentence of paragraph 11.4, as follows: 
+"11. 4 ....... The means for initiating a distress alert should be as prescribed in 2.6 to 2.8. II 
+IEC 1162 
+J:\MSC\68\23-Add .l 
+RESOLUTION MSC.68(68) 
+(adopted on 6 June 1997)
+
+---CHUNK---
+
+SOURCE: MSC.68%2868%29.pdf
+"11. 4 ....... The means for initiating a distress alert should be as prescribed in 2.6 to 2.8. II 
+IEC 1162 
+J:\MSC\68\23-Add .l 
+RESOLUTION MSC.68(68) 
+(adopted on 6 June 1997) 
+ADOPTION OF AMENDMENTS TO PERFORMANCE STANDARDS 
+FOR SHIPBORNE RADIOCOMMUNICATION EQUIPMENT  ANNEX 2 
+MSC 68/23/ Add . 1 
+ANNEX 10 
+Page 3 
+AMENDMENTS TO RESOLUTION A.804(19) - PERFORMANCE STANDARDS 
+FOR MF RADIO INSTALLATIONS CAPABLE OF VOICE COMMUNICATION 
+AND DIGITAL SELECTIVE CALLING 
+Modify paragraphs 2.4,2 .5 and 2.6 of Part D of the Annex, as follows : 
+".4 means to display, in plain language with a minimum of 160 characters in two or more 
+lines, the information contained in a received call; 
+.5 facilities to automatically update the ship's position and the time at which the position was 
+determined from a suitable electronic position-fixing aid which may be an integral part 
+of the equipment. For equipment which does not have an integral position-fixing aid,
+
+---CHUNK---
+
+SOURCE: MSC.68%2868%29.pdf
+determined from a suitable electronic position-fixing aid which may be an integral part 
+of the equipment. For equipment which does not have an integral position-fixing aid, 
+such facilities should include a suitable interface conforming to the appropriate 
+international standard; 1 
+.6 means for manual entry of position information and the time at which the position was 
+determined ; and" 
+Add new paragraph 2.7 of Part D, the Annex, as follows : 
+".7 means to activate an alarm when no position data is received from the electronic 
+position-fixing aid or, in the case of manual input , the position information is over 
+4 hours old . Any position information not updated for more than 23 Yz hours should be 
+erased." 
+Modify paragraph 3.2 of Part D, the Annex, as follows : 
+"3.2 These messages should be stored until readout and should be erased 48 hours after their 
+reception . " 
+Modify the second sentence of paragraph 4 of Part D, the Annex, as follows :
+
+---CHUNK---
+
+SOURCE: MSC.68%2868%29.pdf
+"3.2 These messages should be stored until readout and should be erased 48 hours after their 
+reception . " 
+Modify the second sentence of paragraph 4 of Part D, the Annex, as follows : 
+"4 ...... The means for initiating a distress alert should be as prescribed in 2.5 to 2.7 of Part A." 
+IEC 1162 
+I:\MSC \68\23-Add .l 
+RESOLUTION MSC.68(68) 
+(adopted on 6 June 1997) 
+ADOPTION OF AMENDMENTS TO PERFORMANCE STANDARDS 
+FOR SHIPBORNE RADIOCOMMUNICATION EQUIPMENT  MSC 68/231 Add. 1 
+ANNEX 10 
+Page 4 
+ANNEX 3 
+AMENDMENTS TO RESOLUTION A.806(19) - PERFORMANCE STANDARDS FOR 
+MF/HF RADIO INSTALLATIONS CAPABLE OF VOICE COMMUNICATION 
+NARROW-BAND DIQECT-PRINTING AND DIGITAL SELECTIVE CALLING 
+Modify paragraphs 2.4, 2.5 and 2.6 of Part D, the Annex, as follows : 
+".4 means to display, in plain language with a minimum of 160 characters in two or more 
+lines, the information contained in a received call;
+
+---CHUNK---
+
+SOURCE: MSC.68%2868%29.pdf
+".4 means to display, in plain language with a minimum of 160 characters in two or more 
+lines, the information contained in a received call; 
+.5 facilities to automatically update the ship's position and the time at which the position was 
+determined from a suitable electronic position-fixing aid which may be an integral part 
+of the equipment. For equipment which does not have an integral position-fixing aid, 
+such facilities should include a suitable interface conforming to the appropriate 
+international standard; 1 
+.6 means for manual entry of position information and the time at which the position was 
+determined; and" 
+Add new paragraph 2.7 of Part D, the Annex : 
+".7 means to activate an alarm when no position data is received from the electronic 
+position-fixing aid or, in the case of manual input, the position information is over 
+4 hours old. Any position information not updated for more than 2312 hours should be 
+erased. II
+
+---CHUNK---
+
+SOURCE: MSC.68%2868%29.pdf
+position-fixing aid or, in the case of manual input, the position information is over 
+4 hours old. Any position information not updated for more than 2312 hours should be 
+erased. II 
+Modify paragraph 3.2 of Part D, the Annex, as follows: 
+".3.2 These messages should be stored until readout and should be erased 48 hours after their 
+reception . II 
+Modify the second sentence of paragraph 4 of Part D, the Annex, as follows: 
+"4 ....... The means for initiating a distress alert should be as prescribed in 2.5 to 2.7 of Part A" 
+IEC 1162 
+I:\MSC\68\23-Add.l 
+RESOLUTION MSC.68(68) 
+(adopted on 6 June 1997) 
+ADOPTION OF AMENDMENTS TO PERFORMANCE STANDARDS 
+FOR SHIPBORNE RADIOCOMMUNICATION EQUIPMENT  ANNEX 4 
+MSC 68/23/ Add . 1 
+ANNEX 10 
+Page 5 
+AMENDMENTS TO RESOLUTION A.807(19) - PERFORMANCE STANDARDS FOR 
+INMARSAT-C SHIP EARTH STATIONS CAPABLE OF TRANSMITTING AND 
+RECEIVING DIRECT-PRINTING COMMUNICATIONS 
+Modify papragraph 3.8 of the Annex, as follows:
+
+---CHUNK---
+
+SOURCE: MSC.68%2868%29.pdf
+INMARSAT-C SHIP EARTH STATIONS CAPABLE OF TRANSMITTING AND 
+RECEIVING DIRECT-PRINTING COMMUNICATIONS 
+Modify papragraph 3.8 of the Annex, as follows: 
+"3.8 Facilities should be provided to automatically update the ship's position and the time at which the 
+position was determined from a suitable electronic position-fixing aid which may be an integral 
+part of the equipment. For equipment which does not have an integral electronic position-fixing 
+aid, such facilities should include a suitable interface conforming to the appropriate international 
+standard. I" 
+Add'new paragraphs 3.9 and 3.10 to the Annex, as follows: 
+"3.9 Provisions should also be made for manual entry of position information and of the time at which 
+the position was determined. 
+3.10 An alarm should be activated when no position data is received from the electronic position-fixing 
+aid or, in the case of manual input, the position information is over 4 hours old. Any position
+
+---CHUNK---
+
+SOURCE: MSC.68%2868%29.pdf
+aid or, in the case of manual input, the position information is over 4 hours old. Any position 
+information not updated for more than 24 hours should be clearly identified." 
+lEC 1162 
+I:\MSC\68\23-Add.l 
+RESOLUTION MSC.68(68) 
+(adopted on 6 June 1997) 
+ADOPTION OF AMENDMENTS TO PERFORMANCE STANDARDS 
+FOR SHIPBORNE RADIOCOMMUNICATION EQUIPMENT  RESOLUTION MSC.68(68) 
+(adopted on 6 June 1997) 
+ADOPTION OF AMENDMENTS TO PERFORMANCE STANDARDS 
+FOR SHIPBORNE RADIOCOMMUNICATION EQUIPMENT
+
+---CHUNK---
+
+SOURCE: MSC.234%2882%29.pdf
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
  
-3 REQUESTS Member States to inform the Council of any difficulties they may 
-experience when using the guidelines; 
+I:\MSC\82\24-Add-2.doc 
  
-4 REQUESTS the Council to keep this resolution and the annexed guidelines under 
-review and propose amendments, as appropriate, for adoption by the Assembly. 
  
-Resolution A.1136(31)  Adopted on 4 December 2019 
-ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNSA 31/Res.1136 
+ANNEX 28 
+ 
+RESOLUTION MSC.234(82) 
+ 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF  
+OPEN-TOP CONTAINERSHIPS 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+ RECALLING FURTHER the relevant provis ions of the Intern ational Convention on 
+Tonnage Measurement of Ships, 1969, 
+ 
+RECALLING ALSO circular TM.5/Circ.4 on Pr ovisional formula to calculate a reduced 
+gross tonnage of open-top containerships, wher eby the Committee, being concerned with the 
+economic disadvantages caused by the use of greater gross tonna ge in comparison with gross 
+tonnage of conventional containe rships for the assessment of  fees, agreed to recommend a 
+reduced gross tonnage for open-top containerships based on a provisional formula,
+
+---CHUNK---
+
+SOURCE: MSC.234%2882%29.pdf
+tonnage of conventional containe rships for the assessment of  fees, agreed to recommend a 
+reduced gross tonnage for open-top containerships based on a provisional formula, 
+ 
+RECALLING ALSO circular TM .5/Circ.5 on Interpretations of the provisions of the 
+International Convention on Tonnage Measuremen t of Ships, 1969, in particular section 3 
+entitled Open-top containerships, 
+ 
+NOTING that, by the aforementioned circular TM.5/Circ.4, Governments were invited to 
+submit to the Organization information on open- top containerships in operation and under 
+consideration which would enable  the assessment of the final coefficients in the formula, 
+including principal dimensions, gross tonn age underdeck and ondeck carrying capacities of 
+containers, deadweight etc., 
+ 
+HAVING RECOGNIZED that based on the provisions included in circular 
+MSC/Circ.608/Rev.1, open-top containerships are designed and constructed to a high safety level
+
+---CHUNK---
+
+SOURCE: MSC.234%2882%29.pdf
+containers, deadweight etc., 
+ 
+HAVING RECOGNIZED that based on the provisions included in circular 
+MSC/Circ.608/Rev.1, open-top containerships are designed and constructed to a high safety level 
+in particular.  This applies to improved protection and securing of containers,  
+ 
+ NOTING that, in view of the explicit amendment procedure of the 1969 Tonnage 
+Measurement Convention, it may require a significant period of time for any amendment to 
+become effective, 
+ 
+ REALIZING the need for the establishment of the principles for the treatment and unified 
+application of tonnage measurement of open-top containerships, 
+ 
+ HAVING CONSIDERED, at its eighty-second  session, the recommendation made by the 
+Sub-Committee on Stability and Load Lines and on Fishing Vessels Safety, at its forty-ninth 
+session, 
+ 
+1. ADOPTS the Recommendations concerni ng tonnage measurement of open-top 
+containerships, the text of which is set out in the Annex to the present resolution;
+
+---CHUNK---
+
+SOURCE: MSC.234%2882%29.pdf
+session, 
+ 
+1. ADOPTS the Recommendations concerni ng tonnage measurement of open-top 
+containerships, the text of which is set out in the Annex to the present resolution; 
+ 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
+ANNEX 28 
 Page 2 
  
+I:\MSC\82\24-Add-2.doc 
+2. AGREES that Governments which are Cont racting Governments to the 1969 Tonnage 
+Measurement Convention should use these Reco mmendations when applying the provisions of 
+the Convention; 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
-Annex 
+3. INVITES Governments to advise the ports  and harbours authorities to apply the 
+Recommendations when assessing fees ba sed on reduced gross tonnage for open-top 
+containerships; 
  
-ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF 
-IMO COUNCIL ELECTION CAMPAIGNS 
+4. REVOKES circular TM.5/Circ.4 and section 3 entitled O pen-top containerships of 
+circular TM.5/Circ.5. 
  
-Statement of intent  
  
-1 The International Maritime Organization (IMO) should be represented by a Council 
-that has been elected in a fair, ethical, transparent and equitable manner. This set of guidelines
-
----CHUNK---
-
-SOURCE: A.1136(31).pdf
-1 The International Maritime Organization (IMO) should be represented by a Council 
-that has been elected in a fair, ethical, transparent and equitable manner. This set of guidelines 
-is intended to offer equal conditions fo r all parties who choose to take part in the election 
-process. Member States seeking election as well as those participating in the election process 
-are urged to perform their election activities in accordance with the ethical considerations and 
-guidelines for conduct outlined below.  
- 
-Scope and applicability 
- 
-2 These guidelines cover ethics and conduct surrounding Council elections. 
- 
-3 These guidelines apply to IMO Member States seeking election to the Council as well 
-as those Member States participating a s voters. Staff members of the IMO Secretariat who 
-may participate in related events should continue to follow the policy which is published in 
-internal memorandum ADMIN/14/28 and the Standards of Conduct for the International Civil
-
----CHUNK---
-
-SOURCE: A.1136(31).pdf
-may participate in related events should continue to follow the policy which is published in 
-internal memorandum ADMIN/14/28 and the Standards of Conduct for the International Civil 
-Service approved by the International Civil Service Commission (ICSC). 
- 
-Objectives 
- 
-4 To urge Member States to make every effort to ensure that campaigns act to 
-complement the policy and technical work of the Organization and Assembly proceedings.  
- 
-5 To ensure that the conduct of Member States adheres to commonly agreed standards 
-of ethica l behaviour by abstaining from actions which could compromise the integrity and 
-credibility of the election process.  
- 
-6 To eliminate practices that can cause damage to the Organization's equipment and 
-facilities. 
- 
-Key principles 
- 
-7 It is recognized that this set of ethical considerations and guidelines for conduct could 
-not possibly cover every situation or circumstance. In general, the following key principles 
-apply to all situations.
-
----CHUNK---
-
-SOURCE: A.1136(31).pdf
-not possibly cover every situation or circumstance. In general, the following key principles 
-apply to all situations.  
- 
-INTEGRITY: All Member States should maintain the highest standards of  integrity, 
-including honesty and incorruptibility in all matters affecting their official duties.  
- 
-ACCOUNTABILITY: In fulfilling the responsibilities as a prospective candidate or 
-voter, Member States should strive to make decisions that are in the best interest of 
-the Organization and are representative of a fair election process.  
- 
-FAIRNESS/EQUITY: All Member States should employ open processes, keeping in 
-mind the importance of equity and fairness in the election.  
- 
-Resolution A.1136(31)  Adopted on 4 December 2019 
-ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNSA 31/Res.1136 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
+ANNEX 28 
 Page 3 
  
  
-I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
-MUTUAL RESPECT: All Member States seeking election to the Council should have
+I:\MSC\82\24-Add-2.doc 
+ 
+ANNEX
 
 ---CHUNK---
 
-SOURCE: A.1136(31).pdf
+SOURCE: MSC.234%2882%29.pdf
+circular TM.5/Circ.5. 
+ 
+ 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
+ANNEX 28 
 Page 3 
  
  
-I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
-MUTUAL RESPECT: All Member States seeking election to the Council should have 
-their candidacies considered based on merit, including their ability to work 
-constructively within the Council and the Organization as a whole. Members should 
-work to promote an inclusive environment, avoiding any potential activities which may 
-aggravate differences or create tensions. 
+I:\MSC\82\24-Add-2.doc 
  
-TRANSPARENCY: The election process must remain open to scrutiny, to establish 
-trust and confidence in the process.  
+ANNEX 
  
-Ethical and conduct considerations 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF  
+OPEN-TOP CONTAINERSHIPS 
  
-8 Candidates are urged to ensure that the activities relating to their candidature do not 
-interfere with the Organization's policy and technical work. 
  
-Hosting of receptions 
+1 In order to use a unified base for the a pplication of tonnage measurement of open-top 
+containerships, the Administrations are recommended to accept the following. 
  
-9 Hosting a reception or tour is voluntary. Such inclusion in this document should n ot 
-lead the reader to b elieve that they are a necessary p art of a campaign. However, those
+Definition of open-top containership 
+ 
+2 An open-top containership , for the purpose of application of the 1969 Tonnage 
+Measurement Convention, means a ship which is designed for the carriage of containers and 
+which is constructed like an open U, with not less than 66.7% of the total cargo hatchway clear 
+opening area in an open-top configuration, with a double bottom and above this, high-sided 
+erections without hatch covers  on the upper deck and without  a complete deck above the
 
 ---CHUNK---
 
-SOURCE: A.1136(31).pdf
-9 Hosting a reception or tour is voluntary. Such inclusion in this document should n ot 
-lead the reader to b elieve that they are a necessary p art of a campaign. However, those 
-Member States who choose to host a reception or tour should: 
+SOURCE: MSC.234%2882%29.pdf
+opening area in an open-top configuration, with a double bottom and above this, high-sided 
+erections without hatch covers  on the upper deck and without  a complete deck above the 
+moulded draught (refer to the figur e), and needs to be regarded as  a ship of a novel type as 
+referred to in regulation 1(3) of the Convention. 
  
-.1 make an effort to coordinate reception times, locations and consider joint 
-receptions to ensure all have an opportunity to host and attend; 
+Interpretations of the provisions of the 1969 Tonnage Measurement Convention 
  
-.2 maintain the sanctity of the IMO Award ceremony for the International 
-Maritime Prize and the Award for Exceptional Bravery at Sea by refraining 
-from scheduling receptions or tours on the first evening of Assembly; and  
+3 The provisions of the 1969 Tonnage Measurem ent Convention for treatment of enclosed 
+spaces should be applied to open-top cont ainerships subject to the following unified 
+interpretations: 
  
-.3 take into consideration that the overall cost of their reception, venue rental 
-fees, coupled with the provision of an entire meal and a gift may 
-unintentionally restrict some Member States from participating. 
+.1 Upper deck (regulation 2(1)) 
  
-Gifts, favours, leaflets or other benefits 
- 
-10 Gifts, favours or leaflets are commonly distributed during Assembly in the Plenary and
+In a ship which is exempted by the Admi nistration from the requirements to fit 
+weathertight hatch covers .on the uppermost deck exposed to weather and sea, as 
+in an open-top containership, the upper d eck should be taken as that deck which 
+would have been determined by regulation 2( 1) as if such hatch covers had been 
+fitted.
 
 ---CHUNK---
 
-SOURCE: A.1136(31).pdf
-Gifts, favours, leaflets or other benefits 
+SOURCE: MSC.234%2882%29.pdf
+in an open-top containership, the upper d eck should be taken as that deck which 
+would have been determined by regulation 2( 1) as if such hatch covers had been 
+fitted. 
  
-10 Gifts, favours or leaflets are commonly distributed during Assembly in the Plenary and 
-outside venues. Member States should be careful to consider the public perception of giving 
-gifts, being mindful of maintaining the legitimacy and fairness of the IMO elections at all times. 
-Member States are not  expected to provide gifts, favours or leaflets as part of a campaign;  
-however, should they choose to, the following provisions should be taken into account: 
+.2 Enclosed spaces (regulation 2(4)) 
  
-.1 any gifts, favours or leaflets should be small in size and of nominal value, 
-presented merely as a souvenir of a visit or as a mark of honour and should 
-not be used as a means to seek any official action from other Member States; 
+In open-top containerships, an opening in a deck such as the absence of hatch 
+covers should not preclude a space from being included in the enclosed 
+space. 
  
-.2 distribution of leaflets or books should be kept to a minimum if distributed at 
-all; for larger bulky documents, consider referencing a website; 
+.3 Shelter above container stacks 
  
-.3 during the Assembly week, the campaign materials distributed in the meeting
+In the case of open-top containerships  having movable non-load-bearing covers 
+(shelter) of light construction resting on the container-guides, the space above the 
+hatch coamings up to the covers does not qualify as an  excluded space according 
+to regulation 2(5).  For this particular design, howe ver, an exception can be made 
+in accordance with regulation l(3).  The sp ace can be excluded provided that this 
+type of ship meets the requirements of an open-top containership without such 
+covers. 
+ 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF
 
 ---CHUNK---
 
-SOURCE: A.1136(31).pdf
-all; for larger bulky documents, consider referencing a website; 
+SOURCE: MSC.234%2882%29.pdf
+type of ship meets the requirements of an open-top containership without such 
+covers. 
  
-.3 during the Assembly week, the campaign materials distributed in the meeting 
-rooms, if distributed at all , shall be limited to a single page of information 
-regarding the candidates, with a view to preserving the decorum of the 
-Assembly; 
- 
-.4 persons placing gifts, favours or leaflets within IMO's facilities should take 
-care not to damage audio equipment, person al electronic devices or the 
-privacy of a Member; 
-Resolution A.1136(31)  Adopted on 4 December 2019 
-ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNSA 31/Res.1136 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
+ANNEX 28 
 Page 4 
  
+I:\MSC\82\24-Add-2.doc 
+Reduced gross tonnage of open-top containerships 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1136.docx 
-.5 delegates should remove all gifts, favours or leaflets from their area as soon 
-as possible but, at a minimum, each evening before departing; 
+4 To reduce the disadvantages caused by the use of a greater gross tonnage in  comparison 
+with a gross tonnage of conventional containers hips for assessing fees, a reduced gross tonnage 
+for open-top containerships, without limitation in size, based on a simplified formula is 
+recommended as follows: 
  
-.6 all should respect that , due to cultural, organizational or other unknown 
-reasons, some delegates may not be able to accept gifts and may be
-
----CHUNK---
-
-SOURCE: A.1136(31).pdf
-.6 all should respect that , due to cultural, organizational or other unknown 
-reasons, some delegates may not be able to accept gifts and may be 
-required to return them and should be allowed to do so without prejudice; 
-and 
- 
-.7 never request, provide or accept gifts, favours or promises of any kind in 
-return for favourable voting outcomes. 
- 
-Campaign outreach 
- 
-11 Member States should be afforded confidentiality in their voting decisions. Diplomatic 
-communications in support of a campaign should: 
- 
-.1 focus on how the country can serve to benefit the Organization, their 
-experience or other contributing factors; and  
- 
-.2 refrain from using negative information to influence others to vote in their 
-favour.  
- 
-General and election statements 
- 
-12 During Assembly, Member States are afforded two opportunities to formally address 
-the General Assembly: 1) a general statement; and 2) a Council election statement in support
-
----CHUNK---
-
-SOURCE: A.1136(31).pdf
-12 During Assembly, Member States are afforded two opportunities to formally address 
-the General Assembly: 1) a general statement; and 2) a Council election statement in support 
-of the candidacy for Council. The following principles should be considered:  
- 
-.1 general statements should be high-level or strategic statements focused on 
-the Organization itself and should not be utilized as a campaign speech; 
- 
-.2 Council election statements may be the only opportunity delegates have to 
-provide details on how their country contributes to the technical and 
-cooperation activities of the Organization and how that country will serve the 
-Organization if elected to the Council; 
- 
-.3 Member States should provide their s tatements in advance to 
-statements@imo.org to ensure adequate time for translation; and 
- 
-.4 Member States should not exceed the  allocated time in order to allow 
-adequate time for all Member States. 
- 
- 
-___________
-
----CHUNK---
-
-SOURCE: A.1136(31).pdf
-statements@imo.org to ensure adequate time for translation; and 
- 
-.4 Member States should not exceed the  allocated time in order to allow 
-adequate time for all Member States. 
- 
- 
-___________ 
- 
-Resolution A.1136(31)  Adopted on 4 December 2019 
-ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNSResolution A.1136(31)  Adopted on 4 December 2019 
-ETHICAL CONSIDERATIONS AND GUIDELINES FOR CONDUCT OF IMO COUNCIL ELECTION CAMPAIGNS
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTED 
-I:\ASSEMBLY\28\RES\1091.doc 
- 
- 
- 
-E 
-  
-ASSEMBLY 
-28th session 
-Agenda item 6 
- 
-A 28/Res.1091 
-28 March 2014 
- Original:  ENGLISH 
- 
-Resolution A.1091(28) 
-Adopted on 4 December 2013 
-(Agenda item 6) 
- 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP  
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTED 
- 
- 
-THE ASSEMBLY, 
- 
-RECALLING Article 15(j) of the Convention on the International Maritime Organization 
-regarding the functions of the Assembly in relation to recommendations and guidelines 
-concerning maritime safety,
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-regarding the functions of the Assembly in relation to recommendations and guidelines 
-concerning maritime safety, 
- 
-BEARING IN MIND that the Assembly, at its twenty-seventh regular session, by 
-resolution A.1058(27), invited submissions on the collation and preservation of evidence 
-following an allegation of a serious crime having taken place on board a ship or following a 
-report of a missing person from a ship, and pastoral and medical care of victims, 
- 
-RECALLING article 92 of the United Nations Convention on the Law of the Sea (UNCLOS) 
-which provides that ships shall sail under the flag of one State only and, save in exceptional 
-cases expressly provided for in international treaties or in UNCLOS, shall be subject to its 
-exclusive jurisdiction on the high seas, 
- 
-RECALLING FURTHER article 27 of UNCLOS, which provides that criminal jurisdiction of a 
-coastal State should not be exercised on board a foreign ship passing through the territorial
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-RECALLING FURTHER article 27 of UNCLOS, which provides that criminal jurisdiction of a 
-coastal State should not be exercised on board a foreign ship passing through the territorial 
-sea to arrest any person or conduct any investigation in connection with any crime committed 
-on board the ship during its passage, except in the circumstances set forth in that article, 
- 
-NOTING that a thorough investigation of a serious crime on board a ship may be a lengthy 
-process and that certain cases, in which more than one State may have jurisdiction, may 
-present complications and challenges to the authorities responsible for such investigations, 
- 
-NOTING ALSO that whilst voluntary, such guidance as provided here would assist 
-shipowners, operators and masters in cooperating with relevant investigating authorities and 
-would contribute to effective and efficient criminal investigations in cases of serious crime or
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-shipowners, operators and masters in cooperating with relevant investigating authorities and 
-would contribute to effective and efficient criminal investigations in cases of serious crime or 
-missing persons from ships, and would further facilitate and expedite cooperation and 
-coordination between investigating authorities, consistent with international law, 
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 2 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-1 URGES Member Governments to consider the Guidelines in the annex, and to 
-advise shipowners, operators and masters to: 
- 
-.1 assist in the preservation and collection of evidence following an allegation
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-advise shipowners, operators and masters to: 
- 
-.1 assist in the preservation and collection of evidence following an allegation 
-of a serious crime on board a ship, or following a report of a missing person 
-from a ship, noting that criminal jurisdiction should be exercised 
-consistently with international law; and 
- 
-.2 provide pastoral and medical care to persons affected;  
- 
-2 URGES ALSO intergovernmental organizations and non-governmental 
-organizations with consultative status to consider the Guidelines as set out in the annex and 
-to advise their membership to act accordingly;  
- 
-3 INVITES Member Governments, intergovernmental organizations and 
-non-governmental organizations with consultative status to consider bringing the results of 
-the experience gained from using the Guidelines, as set out in the annex, to the attention of 
-the Legal Committee. 
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6)
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-the experience gained from using the Guidelines, as set out in the annex, to the attention of 
-the Legal Committee. 
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 3 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Annex 
- 
- GUIDELINES ON THE PRESERVATION AND COLLECTION OF EVIDENCE 
-FOLLOWING AN ALLEGATION OF A SERIOUS CRIME HAVING TAKEN 
-PLACE ON BOARD A SHIP OR FOLLOWING A REPORT OF 
-A MISSING PERSON FROM A SHIP, AND PASTORAL 
-AND MEDICAL CARE OF PERSONS AFFECTED 
- 
- 
-Introduction 
- 
-The primary purpose of these Guidelines is to assist masters 1, with respect to the 
-preservation of evidence and the pastoral and medical care of persons affected and, when
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-Introduction 
- 
-The primary purpose of these Guidelines is to assist masters 1, with respect to the 
-preservation of evidence and the pastoral and medical care of persons affected and, when 
-appropriate, the collection of evidence, during the time period between the report or 
-discovery of a possible serious crime and the time when law enforcement authorities or other 
-professional crime scene investigators take action.   
- 
-The master is not a professional crime scene investigator and does not act as a criminal 
-law-enforcement official when applying these Guidelines. These Guidelines should not be 
-construed as establishing a basis of any liability, criminal or otherwise, of the master in 
-preserving and/or handling evidence or related matters.  
- 
-These Guidelines focus on what can practically be carried out on board a ship for the 
-preservation and/or collection of evidence and protect persons affected by serious crimes
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-These Guidelines focus on what can practically be carried out on board a ship for the 
-preservation and/or collection of evidence and protect persons affected by serious crimes 
-until such time that the relevant law enforcement authorities commence an investigation.  
-They are designed to apply to all vessels, regardless of ship type, and should help facilitate 
-the restoration of the normal operation of the ship, once the situation relating to the serious 
-crime on board comes to an end.  
- 
-It is  recognized that the risk of a serious crime  taking place on a ship may be addressed 
-through the applicable onboard security arrangements. Although the emphasis is on the 
-need for preventive measures, the risk of a serious crime on board ships cannot be 
-completely eliminated.  If a serious crime is committed, it is imperative for all involved that it 
-is fully investigated by the appropriate authorities.  In addition, it is of the utmost importance
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-completely eliminated.  If a serious crime is committed, it is imperative for all involved that it 
-is fully investigated by the appropriate authorities.  In addition, it is of the utmost importance 
-that allegations of sexual assault and other serious crimes are taken seriously, that the 
-persons affected are protected and that their pastoral needs are fully addressed.  
- 
-The investigation of serious crimes at sea presents particular challenges due to the different 
-entities that may be involved including, but not limited to, flag States, coastal States, port 
-States and States of nationalities of the persons on board.   
- 
-Reportable serious crimes 
- 
-Given the differences in laws of the many jurisdictions where a ship may sail, it is not 
-practical to provide a comprehensive list of the types and legal definitions of serious crimes 
-that require reporting.  Generally, the master should report alleged or discovered serious
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-practical to provide a comprehensive list of the types and legal definitions of serious crimes 
-that require reporting.  Generally, the master should report alleged or discovered serious 
-crimes to the flag State, other interested States and parties involved, including 
-law-enforcement authorities. These could include, but are not limited to, a suspicious death 
-or disappearance, a criminal act leading to serious bodily injury, sexual assault, conduct 
-endangering the safety of the vessel, or substantial loss of currency or property.   
- 
-                                                
-1  Reference to the master herein includes officers or crew members to whom the master has delegated any 
-functions outlined in these Guidelines. 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP,
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 4 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Cooperation and coordination between interested States and parties 
- 
-Swift response by law enforcement authorities is important to persons affected by serious 
-crimes.  
- 
-Cooperation and coordination between interested States and parties should be undertaken in 
-a manner consistent with international law.  All interested States and parties involved should 
-cooperate and coordinate to ensure that a full and complete investigation is undertaken.  
-Regardless of which State undertakes the investigation, all investigations should be 
-conducted in the most expeditious manner possible.  
- 
-The flag State and other interested States should maintain communications between
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-conducted in the most expeditious manner possible.  
- 
-The flag State and other interested States should maintain communications between 
-themselves to inform each other about the initiation, progress and outcome of their criminal 
-investigation(s). 
- 
-Role of the master  
- 
-The overriding role of the master is to ensure the safety of passengers and crew, which 
-should take precedence over any concerns related to the preservation or collection of 
-evidence.   
- 
-Once an allegation of a serious crime on board a ship has been made, the master should, as 
-soon as possible, report the allegation to the flag State. The master should, as appropriate, 
-also report the allegation to the interested States and parties involved, including law 
-enforcement authorities.   
- 
-It is recognized that the master is not a professional crime-scene investigator and that crew 
-and resources to preserve and collect evidence may be limited depending on the vessel 
-type.
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-It is recognized that the master is not a professional crime-scene investigator and that crew 
-and resources to preserve and collect evidence may be limited depending on the vessel 
-type.  
- 
-The master should ensure the persons affected are properly cared for and take measures to 
-preserve the evidence and follow the advice of the appropriate authorities, including law 
-enforcement authorities. 
- 
-The master should attempt to secure the scene of the alleged crime as soon as possible, 
-with the main aim of allowing professional crime scene investigators to be able to undertake 
-their work.  The best option for preserving evidence is to seal the space, if practicable, and 
-for all persons to be prevented from entering it.  An example would be where an incident has 
-taken place in a cabin, then the best option would be for the cabin door to be locked, the key 
-secured and notices posted which would inform that no one should enter.
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-taken place in a cabin, then the best option would be for the cabin door to be locked, the key 
-secured and notices posted which would inform that no one should enter.   
- 
-Where an incident has occurred in a space that cannot be sealed, the master should aim to 
-collect the evidence, as may be instructed by the flag State Administration, or as otherwise 
-guided by the law enforcement authorities. While recognizing that collecting evidence will 
-likely only be carried out in limited and exceptional circumstances, in such cases the master 
-could use the techniques and procedures outlined in appendix 2. 
- 
-Following the allegation of a serious crime, and given the master's inherent authority on 
-board the ship, the master should draw up a list of persons who may have information and 
-invite them to record their recollection of events on the pro forma provided in appendix 1.  
-Any person may refuse to provide his or her recollection of events.  Whenever possible, the
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-invite them to record their recollection of events on the pro forma provided in appendix 1.  
-Any person may refuse to provide his or her recollection of events.  Whenever possible, the 
-master should attempt to obtain accurate contact information for persons believed to have 
-information about an alleged crime or missing person, in order to facilitate subsequent 
-contact by law-enforcement officials or other professional crime-scene investigators. 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 5 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Missing persons 
- 
-In the event that a person is reported or believed to be missing, immediate actions should be
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-Page 5 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Missing persons 
- 
-In the event that a person is reported or believed to be missing, immediate actions should be 
-taken to find the missing person.  The ship should be searched and consideration given to 
-mustering those on board as an efficient way of resolving the situation.  If the missing person 
-is not found, the relevant shipboard emergency procedures should be followed, and it should 
-be reported to the appropriate search and rescue organization 2.  If, at any time, the master 
-has any reasonable grounds to suspect that the person went missing due to a criminal act, 
-the other relevant sections of these Guidelines should be followed. 
- 
-Pastoral and medical care  
- 
-All persons affected by alleged serious crimes deserve full consideration of the allegations 
-and should receive pastoral and medical care, as appropriate.  
- 
-In cases of allegations of a serious crime, especially sexual assaults and serious physical
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-and should receive pastoral and medical care, as appropriate.  
- 
-In cases of allegations of a serious crime, especially sexual assaults and serious physical 
-attacks, the persons affected should receive respect for coming forward, recognition that the 
-allegation will be reported and given support during this time of trauma.  They should be 
-given every opportunity to explain what happened, give a full account of the incident, and be 
-reassured that every effort will be made to protect them from any further harm while they 
-remain on board the vessel.  The persons affected should also be free from any burden of 
-decision-making relating to the alleged perpetrator.   
- 
-In cases in which the master is aware that a person has attempted suicide or threatened to 
-commit suicide, the master should attempt to protect this person to the extent practicable. 
-This person should be treated with care and respect.  In such cases, the master should seek
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-commit suicide, the master should attempt to protect this person to the extent practicable. 
-This person should be treated with care and respect.  In such cases, the master should seek 
-guidance on how to proceed, either from qualified medical persons if on board, or from radio 
-medical advice or from other medical advice that may be available through the flag State or 
-other authorities. If it is determined that a person believed to be at risk of suicide should be 
-disembarked from the ship, the master should coordinate such action with the flag State, 
-coastal State and/or port State, as appropriate.  If the circumstances indicate that the suicide 
-or threat of suicide is related to a serious crime on board, the master should refer to 
-applicable provisions in these Guidelines. 
- 
-The persons mentioned in this section should have access to medical care and attention by a 
-medical professional, either on board or ashore, as necessary.  The privacy of the person
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-The persons mentioned in this section should have access to medical care and attention by a 
-medical professional, either on board or ashore, as necessary.  The privacy of the person 
-affected should be respected during this process.  Where relevant, radio medical advice 
-should be sought. 
- 
-                                                
-2  Reference should be made to the International Aeronautical and Maritime Search and Rescue (IAMSAR) 
-Manual. 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 6 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Appendix 1 
- 
-Incident Account 
- 
-Name .........................................................   ........................................................................
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-Appendix 1 
- 
-Incident Account 
- 
-Name .........................................................   ........................................................................  
-                                (Given names)                                                        (Family name) 
- 
-Name of ship  .............................................   ........................................................................  
- 
-Flag State  ..................................................   ........................................................................  
- 
-IMO No.  .....................................................  
- 
-Contact information 
- 
-Address ……………………………………………………………………………………………….... 
- 
-…………………………………………………………………………………………………………… 
- 
-…………………………………………………………………………………………………………… 
- 
-Phone number(s)……………………………. 
- 
- ...................................................................  
- 
- 
-Note: The information given should be in as much detail as possible from w hat was
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-Phone number(s)……………………………. 
- 
- ...................................................................  
- 
- 
-Note: The information given should be in as much detail as possible from w hat was 
-personally seen, heard or experienced.  Details should be provided of physical descriptions 
-of any individuals seen or heard in relation to the event such as approximate age, height, 
-build, ethnic origin, eye colour, hair length and colour, facial hair, body markings, tattoos, 
-distinguishing marks (and scars), clothing and footwear. 
- 
- 
-Description of the incident: 
- 
-................................................................................................................................................... 
- 
-...................................................................................................................................................
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-................................................................................................................................................... 
- 
-................................................................................................................................................... 
- 
-................................................................................................................................................... 
- 
-................................................................................................................................................... 
- 
- 
- 
- 
- 
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 7 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Appendix 2
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 7 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Appendix 2 
- 
-Preface 
- 
- 
-The guidance provided in sections 1-4 of this appendix is derived from MSC.1/Circ.1404. 
-That guidance was addressed to Member Governments and was originally developed to 
-provide guidance to investigators to assist in the investigation of the crimes of piracy and 
-armed robbery against ships.  It is understood that the master is not a professional crime 
-scene investigator and does not act in the capacity of a criminal law enforcement official and 
-that the guidance in sections 1-4 will likely only be applied in limited and exceptional 
-circumstances by masters who may be called upon to collect evidence that may otherwise be 
-lost if no action is taken. 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-lost if no action is taken. 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 8 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Section 1 
- 
- 
-Recovery and packaging of evidence 
- 
-The following guidance is intended to assist the master to collect material which may assist 
-in the subsequent investigation by a law enforcement authority. 
- 
-The master should: 
- 
-.1 wear fresh protective clothing such as overalls, rubber gloves (for each 
-separate item if practical) as well as have some facial protection,  
-e.g. chemical/dust masks, to give some protection to himself and to avoid 
-distribution of own fingerprints and biological material on the recovered 
-items;
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-e.g. chemical/dust masks, to give some protection to himself and to avoid 
-distribution of own fingerprints and biological material on the recovered 
-items; 
- 
-.2 items in the open and vulnerable to weather conditions should be given 
-priority over those that are enclosed, e.g. bridge, machinery spaces, 
-cabins, mess room, etc.; and 
- 
-.3 all items are to be photographed, identified, labelled, and logged at the 
-location found before removal and packaging.  The camera should be set to 
-the correct date and time before starting.  This will help ensure an accurate 
-visual record which would be of evidential value.  The film or digital imaging 
-record will also be subject to evidential value. 
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP,
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 9 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Section 2 
- 
- 
-Identification and labelling 
- 
-Each item recovered will need to be given an "identification reference" with a sequential 
-number (i.e. 01, 02, 03, etc.) to link it to the point of recovery and by whom. 
- 
-For example, an abbreviation of the vessel's name, the point of discovery, e.g. Deck 3 
-mid-ships stairwell in Zone 2, the initials (not full name) of the finder and the sequential 
-number of the item recovered. 
- 
-Each item, when packaged, will need to be given a label with the same unique reference to 
-link it to the point of discovery.  An example of this could be if the ship was named Sea Spirit
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-Each item, when packaged, will need to be given a label with the same unique reference to 
-link it to the point of discovery.  An example of this could be if the ship was named Sea Spirit 
-and the person recovering was Ronaldo Fernandez, giving an identification reference of: 
- 
-SS/Date and Time/Crew Mess Room /RF/1, …/RF/2, …/RF/3 etc. 
- 
-Where an item of obvious significance is found, both the person recovering it and the person 
-able to identify it in relation to any alleged perpetrator should include this on their pro-forma 
-statement (see appendix 1).  Should more than one person be involved in recovering items, 
-then the identification reference would include that person's initials, also starting from 01. 
- 
-All items recovered will need to be safely stored in a clean and dry environment until such 
-time as they are landed ashore. 
- 
-If a paper sack or cardboard box is used to package the item, the identification reference
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-time as they are landed ashore. 
- 
-If a paper sack or cardboard box is used to package the item, the identification reference 
-should be written in ink (not in pencil) on the outside of the package.  In the case of plastic 
-bags, glass jars or smaller containers, a reference label will need to be attached.  Adhesive 
-tape – not staples – should be used to attach the label. 
- 
-Example: 
- 
-IDENTIFICATION REFERENCE 
- 
-……SS…......./..03-03-2011..1425 / Crew Mess Room /….......RF……....../…01……….…… 
- (Ship name) /  (Date/Time)          /      (Location)       /  (Recovered by) /   (Seq. number) 
- 
-Brief description:  
- 
- 
- 
- 
-Signature:  
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 10
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 10 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Section 3 
- 
- 
-Log of items recovered from search or seizure 
- 
-Item 
-No. 
-Date/ 
-Time 
-Location 
-found 
-Description 
-of item 
-Recovered 
-by 
-Signature 
+GTR = 0.9 x GT 
  
-Identification 
-reference 
-Remarks 
+ where:  
  
-01 03/03/2011 
-1425 
-Crew 
-Mess Rm 
-Knife used 
-by alleged 
-perpetrator 
-Ronaldo 
-Fernandez 
- As above  
-        
+GTR = the reduced gross tonnage 
  
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 11 
+GT = the gross tonnage calculated in accordance with the 1969 Tonnage 
+Measurement Convention 
  
+Entry into the International Tonnage Certificate (1969) 
  
-I:\ASSEMBLY\28\RES\1091.doc 
-Section 4 
- 
-Guidelines on recovery and packaging of evidence 
- 
- 
-TYPE OF
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 11 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Section 4 
- 
-Guidelines on recovery and packaging of evidence 
- 
- 
-TYPE OF 
-EXHIBIT SAMPLING/TREATMENT RECOMMENDED PACKAGING PRACTICAL OPTIONS FOR CONSIDERATION 
- 
-WARNING: 
-THE HANDLING OF BODY FLUIDS CONSTITUTES A HEALTH HAZARD 
-ALWAYS SEEK ADVICE IF UNSURE 
- 
-BLOOD 
-A)  
-Bloodstained 
-items  
-If an easily removable 
-item, e.g. knife, 
-ashtray, bottle, etc. 
-(see further down re: 
-clothing), allow the 
-item to dry completely 
-and naturally before 
-packaging. 
- 
-DO NOT accelerate 
-drying. 
- 
-Make a note on exhibit 
-seizure form if blood 
-stain was wet when 
-obtained.  
-Place each individual 
-item in a separate, 
-suitable and properly 
-sealed container, e.g. 
-sealed strong paper 
-bags or stout paper 
-sacks.  In the absence 
-of sacks, cardboard 
-boxes will suffice.  
-Bags/sacks should be 
-folded over twice and 
-sealed with adhesive 
-tape (adhesive tape or 
-similar device), boxes
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-sacks.  In the absence 
-of sacks, cardboard 
-boxes will suffice.  
-Bags/sacks should be 
-folded over twice and 
-sealed with adhesive 
-tape (adhesive tape or 
-similar device), boxes 
-should also be sealed 
-with tape. 
- 
-Clearly mark any sack 
-or container that 
-contains blood with  
-"BIOHAZARD". 
-Bags/paper sacks 
-must not have been 
-used previously.  If no 
-"police issue" sacks 
-are available, suitable 
-sacks would be those 
-used for paper waste 
-disposal.  If a 
-cardboard box is used, 
-it should be as clean 
-as possible and lined 
-with clean paper.  
-Write the exhibit 
-identification reference 
-on the sack/box as you 
-seal it. 
- 
-Note: Plastic bags 
-should not be used for 
-blood stained items as 
-they promote 
-dampness.  Nor should 
-staplers ever be used 
-to seal bags. 
- 
-Seek advice and 
-guidance from ship’s 
-doctor/medic and/or 
-shore authorities if 
-required. 
-B)  Bloodstains  
-on immovable 
-objects 
-  If possible seal off the 
-room. 
- 
-Mark any sack or 
-container that contains
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-guidance from ship’s 
-doctor/medic and/or 
-shore authorities if 
-required. 
-B)  Bloodstains  
-on immovable 
-objects 
-  If possible seal off the 
-room. 
- 
-Mark any sack or 
-container that contains 
-blood with 
-"BIOHAZARD". 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 12 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-TYPE OF 
-EXHIBIT SAMPLING/TREATMENT RECOMMENDED PACKAGING PRACTICAL OPTIONS FOR CONSIDERATION 
-1)  Pools of wet 
-blood 
- 
-WARNING – 
-Syringes and 
-needles pose 
-a serious 
-health hazard 
-and must be 
-handled with 
-extreme care 
- 
-Wherever 
-possible, seek 
-medical advice 
-before 
-handling. 
-Can be collected using 
-a syringe. 
- 
- 
- 
- 
- 
-Sample of the blood 
-can be taken by 
-swabbing, ensuring
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-handled with 
-extreme care 
- 
-Wherever 
-possible, seek 
-medical advice 
-before 
-handling. 
-Can be collected using 
-a syringe. 
- 
- 
- 
- 
- 
-Sample of the blood 
-can be taken by 
-swabbing, ensuring 
-that a sample is taken 
-from each individual 
-pool. 
-Blood (not syringe) to 
-be placed into a clean, 
-dry bottle/jar with a 
-screw top.  Syringe to 
-be disposed of in 
-proper "sharps" box. 
- 
-Area taken from to be 
-indicated in notes, 
-exhibit reference 
-documented on 
-outside of swab, then 
-placed in an  exhibit 
-bag. 
-Make note as to type 
-of stain, i.e. wet/dry. 
-As above. 
-2)  Partly 
-clotted blood 
-Lift with a clean knife 
-or scalpel blade. 
-As above. As above. 
- 
-Keep all WET or 
-SEMI-SOLID blood 
-samples in a cool 
-place.  If delay likely in 
-passing to authorities, 
-consider deep freezing 
-samples (away from 
-food products).  Take 
-advice before doing so. 
-3) Dry blood   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-If practical and 
-possible, cut away the 
-surface containing the 
-stain.  A non-stained
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-samples (away from 
-food products).  Take 
-advice before doing so. 
-3) Dry blood   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-If practical and 
-possible, cut away the 
-surface containing the 
-stain.  A non-stained 
-part of the item should 
-also be taken as a 
-control sample. 
- 
-OR 
- 
-Scrape dry blood onto 
-a clean sheet of paper. 
-Place each individual 
-item (including the 
-control sample) into a 
-separate suitable 
-container, e.g. paper 
-sack, cardboard box 
-and seal properly with 
-adhesive tape. 
- 
-Fold paper carefully 
-and seal in a labelled 
-envelope. 
-Seek advice from 
-ship’s doctor/medic 
-and shore authorities. 
- 
-Never use staplers. 
- 
- 
- 
- 
- 
- 
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 13
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 13 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
- 
-TYPE OF 
-EXHIBIT 
-SAMPLING/TREATMENT RECOMMENDED 
-PACKAGING 
-PRACTICAL OPTIONS 
-FOR CONSIDERATION 
-4) Semen 
-stained items 
-The whole item 
-containing the stain 
-should be taken. If the 
-stain is still wet, 
-ALLOW ITEM TO DRY 
-NATURALLY in an 
-isolated area, before 
-packaging. 
-Avoid talking over the 
-item, as contamination 
-can occur. 
- 
-Small items such as 
-tampons, sanitary towels 
-or knickers should be 
-frozen where possible. 
- 
-Condoms should either 
-be sealed with a clip or 
-tied at the top. 
-Place each individual 
-item in a sealed paper 
-sack or clean 
-cardboard box. 
- 
-Note any stains which 
-were wet when 
-obtained, both in the 
-notes and on the 
-exhibit. 
- 
-As above. 
-May be impractical to 
-obtain and store. 
-However, if possible to
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-cardboard box. 
- 
-Note any stains which 
-were wet when 
-obtained, both in the 
-notes and on the 
-exhibit. 
- 
-As above. 
-May be impractical to 
-obtain and store. 
-However, if possible to 
-obtain and store, it 
-could provide valuable 
-evidence. 
-FIBRES AND HAIRS 
-Items onto 
-which fibres 
-may have 
-been 
-transferred  
-(e.g. from 
-victim's clothing 
-to other 
-clothing, 
-bedding, 
-weapons) 
-Where possible 
-recover the whole item 
-with the minimum of 
-disturbance.  If it 
-cannot be packaged, 
-cut out approximately 
-20 cm square of 
-material OR pull out 
-tufts of fibres.  
-Otherwise, seek advice 
-from shore authorities 
-as to fibre sampling. 
-Place in an envelope 
-sealing all seams and 
-openings.  Large items 
-should be placed in a 
-clean paper sack or 
-cardboard box.  If there 
-is more than one piece 
-then wrap each item 
-SEPARATELY and 
-seal effectively with 
-adhesive tape. 
-Do not use staplers, 
-seal with adhesive 
-tape.   
-A plastic sack could be 
-used if the item is 
-completely dry.
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-then wrap each item 
-SEPARATELY and 
-seal effectively with 
-adhesive tape. 
-Do not use staplers, 
-seal with adhesive 
-tape.   
-A plastic sack could be 
-used if the item is 
-completely dry. 
- 
-Polythene bags 
-(providing no 
-dampness) or paper 
-sacks can be used. 
-Rope or twine 
-used by 
-alleged 
-offender 
-Recover the whole 
-length of rope if 
-possible OR obtain a 
-length at least 30 cm 
-long.  For suspicious 
-deaths or suicide, 
-recover the whole item. 
-Wrap each item 
-separately in a 
-polythene or paper 
-sack and seal 
-effectively. 
-Do not use staplers, 
-but always use 
-adhesive tape to seal 
-any bag.   
-Where there is 
-a possibility of 
-a PHYSICAL 
-FIT between 
-broken or cut 
-ends 
-If the rope must be cut 
-to remove it, first 
-clearly label the 
-original cut or broken 
-ends. 
- 
-Always leave knots 
-intact. 
-Protect the cut or 
-broken ends with paper 
-or polythene bags so 
-that they cannot be 
-damaged and place 
-each individual piece of 
-rope or twine in a 
-separate polythene or
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-intact. 
-Protect the cut or 
-broken ends with paper 
-or polythene bags so 
-that they cannot be 
-damaged and place 
-each individual piece of 
-rope or twine in a 
-separate polythene or 
-paper sack. 
-As well as potential 
-evidence re: a crime, 
-such evidence could 
-be of considerable 
-value to an accident 
-investigation or inquest 
-re: suicide. 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 14 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-Items 
-recovered that 
-may have 
-hairs present 
- 
- 
- 
-Recover the whole 
-item wherever 
-possible. 
-Wrap each item 
-separately in a 
-polythene or paper 
-sack and ensure the 
-bag is completely 
-sealed. 
-Do not use staplers to 
-secure the bag, only 
-seal with adhesive 
-tape.
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-possible. 
-Wrap each item 
-separately in a 
-polythene or paper 
-sack and ensure the 
-bag is completely 
-sealed. 
-Do not use staplers to 
-secure the bag, only 
-seal with adhesive 
-tape. 
-CLOTHING, BEDDING AND FOOTWEAR 
-Clothing (used 
-or left) 
-Recover the whole 
-item of clothing. 
-As above. As above. 
-Wet or damp 
-items 
- 
-WARNING –  
-See first page 
-re: handling 
-materials 
-containing 
-body fluids 
-Allow to dry naturally 
-as soon as possible on 
-a paper-lined surface. 
-When completely dry, 
-package as above. 
- 
-If it cannot dry, place in 
-plastic bag and freeze 
-(if very wet). 
-Avoid risks of 
-contamination by 
-drying at separate 
-locations where 
-practical. 
-Footwear 
- 
- 
-Package any footwear 
-used by the alleged 
-offender(s). 
-Use separate paper 
-sacks or cardboard 
-boxes for each item 
-and seal securely. 
-Suitable boxes might 
-be those that 
-contained photocopier 
-paper. 
- 
-Do not place inside 
-plastic as it will sweat. 
-Bedding Where possible and 
-practical recover whole
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-and seal securely. 
-Suitable boxes might 
-be those that 
-contained photocopier 
-paper. 
- 
-Do not place inside 
-plastic as it will sweat. 
-Bedding Where possible and 
-practical recover whole 
-item. Mark upper and 
-lower surfaces head 
-and foot to establish 
-orientation of sheets, 
-blankets, quilts, etc. 
-Wrap each item 
-separately at the 
-recovery location if 
-possible. Place in a 
-stout paper sack and 
-seal with adhesive 
-tape. 
-Ensure that all 
-recovered items are 
-kept separate to avoid 
-cross contamination. If 
-a number of cabins are 
-involved, if practical, 
-ensure different staff 
-recovers bedding and 
-bag and seal items at a 
-separate location 
-before storage. 
- 
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP,
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 15 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
- 
-FOOTWEAR MARKS 
-Surface 
-transfer marks 
-Where possible 
-recover whole item, 
-e.g. on paper(s), 
-cardboard, glass, 
-bedding, etc. 
-Place each item 
-separately in an 
-appropriate and clean 
-container  
-(e.g. cardboard box)  
-to protect. 
-As above. 
-If not possible to 
-recover, consider 
-photographing placing 
-two rulers at right 
-angles to show size of 
-mark. 
-If digital photographs 
-taken, do not use any 
-photo enhancement 
-facilities.  Leave for 
-experts to improve 
-upon. 
-If film photography is 
-used, package the 
-entire film cassette. 
-GLASSWARE AND CERAMICS  
-Glasses, cups 
-mugs, etc., 
-used by the 
-alleged 
-offender(s) 
- 
- 
- 
-Recover whole or 
-broken items used by 
-the alleged offender.
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-used, package the 
-entire film cassette. 
-GLASSWARE AND CERAMICS  
-Glasses, cups 
-mugs, etc., 
-used by the 
-alleged 
-offender(s) 
- 
- 
- 
-Recover whole or 
-broken items used by 
-the alleged offender. 
-Place any broken 
-pieces in a polythene 
-bag or paper envelope 
-and place in a sturdy 
-cardboard box.  Whole 
-items should be 
-individually packaged.  
-Seal the box 
-completely with 
-adhesive tape. 
-If a box or sack 
-contains broken items 
-that could cut or injure, 
-please label  
-"CAUTION, INJURY 
-HAZARD". 
-EXPLOSIVES, FIREARMS AND OTHER WEAPONS 
-IMPORTANT – 
-Safety takes 
-precedence 
-over evidence 
-collection.  
-Specialist 
-advice MUST 
-be sought 
-before ANY 
-action is 
-taken. 
-  Seek urgent advice 
-from shore authorities 
-before taking action 
-unless taking action is 
-critical to preserving 
-life. 
-Weapons 
-other than 
-firearms 
-(e.g. knives, 
-hammers, 
-hatchets) 
-DO NOT attach any 
-adhesive material to 
-the blades or handles 
-(this could destroy 
-fingerprints or other
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-life. 
-Weapons 
-other than 
-firearms 
-(e.g. knives, 
-hammers, 
-hatchets) 
-DO NOT attach any 
-adhesive material to 
-the blades or handles 
-(this could destroy 
-fingerprints or other 
-evidence of value). 
-Place in cardboard box 
-or other secure 
-container and seal with 
-adhesive tape. 
-Where there are items 
-that could cut or injure, 
-please label 
-"CAUTION, INJURY 
-HAZARD". 
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 16 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
-RECOVERY AND PROTECTION OF PROJECTILES 
-WARNING – 
-see above 
-re: blood and 
-firearms 
-Any wounds resulting 
-from a firearm injury 
-should (subject to 
-medical advice) be 
-photographed before 
-surgery.  Wherever 
-possible a ruler or
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-WARNING – 
-see above 
-re: blood and 
-firearms 
-Any wounds resulting 
-from a firearm injury 
-should (subject to 
-medical advice) be 
-photographed before 
-surgery.  Wherever 
-possible a ruler or 
-scale should be in the 
-photograph adjacent to 
-the wound. 
-Seek advice re: 
-packaging from 
-shoreside authorities. 
- 
-Photographs of injuries 
-should be in colour as 
-this will show 
-differentiation between 
-blood staining and 
-blackening.  Films 
-should not be 
-processed unless it is 
-essential, but should 
-be retained for the 
-relevant authorities. 
-As above. 
- Unless it is absolutely 
-essential to do so, do 
-not attempt to remove 
-a bullet or air pellet 
-that is imbedded in 
-walls, doors, etc. This 
-should be left to 
-forensic experts. 
-Photograph any 
-projectile in situ. 
- Wherever possible, 
-seek advice from shore 
-authorities before 
-removal of area 
-surrounding projectile. 
- 
-Mark the area clearly 
-without touching or 
-damaging the scene. 
-MODEL, REPLICA AND BLANK FIRING FIREARMS
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-seek advice from shore 
-authorities before 
-removal of area 
-surrounding projectile. 
- 
-Mark the area clearly 
-without touching or 
-damaging the scene. 
-MODEL, REPLICA AND BLANK FIRING FIREARMS 
-IMPORTANT – 
-Safety takes 
-precedence 
-over evidence 
-collection.  
-Specialist 
-advice MUST 
-be sought 
-before ANY 
-action is 
-taken. 
-  Seek urgent advice 
-from shore authorities 
-before taking action 
-unless taking action is 
-critical to preserving 
-life. 
- 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDA 28/Res.1091 
-Page 17 
- 
- 
-I:\ASSEMBLY\28\RES\1091.doc 
- 
-CLOTHING OF PERSON SUSPECTED OF DISCHARGING A FIREARM AND ANY VICTIM  
-WARNING –  
-See first page 
-re: caution to 
-be applied 
-when dealing 
-with body 
-fluids
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-I:\ASSEMBLY\28\RES\1091.doc 
- 
-CLOTHING OF PERSON SUSPECTED OF DISCHARGING A FIREARM AND ANY VICTIM  
-WARNING –  
-See first page 
-re: caution to 
-be applied 
-when dealing 
-with body 
-fluids 
-Clothing should be 
-gently handled to 
-preserve lightly 
-adhering firearm 
-discharge residue. 
- 
- 
-As above.  BUT 
-bloodstained clothing 
-must be allowed to dry 
-naturally before being 
-packaged. 
-Items of clothing must 
-be individually 
-packaged in paper 
-sacks, sealed with 
-adhesive tape and 
-labelled. 
-Plastic sacks can be 
-used where clothing is 
-dry. 
- 
-Ensure that separate 
-people deal with the 
-suspect’s and victim's 
-clothing at separate 
-locations to eliminate 
-the possibility of cross 
-contamination. 
-Clothing of 
-victim (crew) 
-As above. As above. As above. 
-DOCUMENTS (e.g. DEMANDS/RANSOM NOTES) 
-Hand-written 
-documents 
-Obtain the ORIGINAL 
-document, place in a 
-polycover and if 
-possible make a 
-photocopy to be used 
-as a working document 
-(e.g. to fax to 
-authorities or head
-
----CHUNK---
-
-SOURCE: A.1091(28).pdf
-Hand-written 
-documents 
-Obtain the ORIGINAL 
-document, place in a 
-polycover and if 
-possible make a 
-photocopy to be used 
-as a working document 
-(e.g. to fax to 
-authorities or head 
-office). 
-Place in a clean 
-polyfolder or polythene 
-bag. 
- 
-DO NOT WRITE OR 
-MAKE ANY 
-INDENTATIONS ON 
-DOCUMENT. 
- 
- 
- 
-___________ 
-Resolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTEDResolution A.1091(28)   Adopted on 4 December 2013  (Agenda item 6) 
-GUIDELINES ON PRESERVATION AND COLLECTION OF EVIDENCE FOLLOWING AN 
-ALLEGATION OF A SERIOUS CRIME HAVING TAKEN PLACE ON BOARD A SHIP 
-OR FOLLOWING A REPORT OF A MISSING PERSON FROM A SHIP, 
-AND PASTORAL AND MEDICAL CARE OF PERSONS AFFECTED
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-Resolution A.1117(30)  Adopted on 6 December 2017 
-IMO SHIP IDENTIFICATION NUMBER SCHEMEI:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
-E
-ASSEMBLY 
-30th session  
-Agenda item 9 
-A 30/Res.1117 
-18 December 2017 
-Original: ENGLISH 
-Resolution A.1117(30) 
-Adopted on 6 December 2017 
-(Agenda item 9) 
-IMO SHIP IDENTIFICATION NUMBER SCHEME 
-THE ASSEMBLY, 
-RECALLING Article 15(j) of the Convention on the International Maritime Organization 
-concerning the functions of the Assembly in relation to regulations and guidelines concerning 
-maritime safety and the prevention and control of marine pollution from ships, 
-BELIEVING that the enhancement of maritime safety and pollution prevention and the 
-prevention of maritime fraud could be facilitated if a permanent identification number were 
-assigned to a ship which would remain unchanged upon transfer of its flag and would be 
-inserted on ships' certificates, 
-RECALLING that, by resolution 1, the Conference of Contracting Governments to the
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-inserted on ships' certificates, 
-RECALLING that, by resolution 1, the Conference of Contracting Governments to the 
-International Convention for the Safety of Life at Sea, 1974 (SOLAS Convention), held at IMO 
-Headquarters in May 1994, adopted amendments to the SOLAS Convention , which included 
-the addition of a mandatory regulation on the ship identification number scheme (current 
-SOLAS regulation XI-1/3), which entered into force on 1 January 1996, 
-RECALLING ALSO that, by resolution MSC.202(81), the Maritime Safety Committee, at its 
-eighty-first session, adopted amendments to the SOLAS Convention with regard to the 
-long-range identification and tracking of ships (SOLAS regulation V/19-1), which entered into 
-force on 1 January 2008, 
-RECALLING FURTHER that, by resolution A.600(15), it adopted the IMO Ship Identification 
-Number Scheme, and by resolution A.1078(28), the revised IMO Ship Identification Number
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-RECALLING FURTHER that, by resolution A.600(15), it adopted the IMO Ship Identification 
-Number Scheme, and by resolution A.1078(28), the revised IMO Ship Identification Number 
-Scheme, which allows the voluntary application of the Scheme to ships of 100 gross tonnage 
-and above, including fishing vessels, 
-RECOGNIZING the need for the IMO Ship Identification Number Scheme to be revised to allow 
-its application to ships of 100 gross tonnage and above, including fishing vessels of steel and 
-non-steel hull construction; passenger ships of less than 100 gross tonnage, high-speed 
-passenger craft and mobile offshore drilling units covered by SOLAS regulation V/19-1; and 
-all motorized inboard fishing vessels of less than 100 gross tonnage down to a size limit 
-of 12 metres in length overall (LOA), authorized to operate outside waters under the national 
-jurisdiction of the flag State, 
-Resolution A.1117(30)  Adopted on 6 December 2017 
-IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-jurisdiction of the flag State, 
-Resolution A.1117(30)  Adopted on 6 December 2017 
-IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
-Page 2 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
-HAVING CONSIDERED the recommendation made by the Maritime Safety Committee at its 
-ninety-eighth session, 
- 
-1 ADOPTS the IMO Ship Identification Number Scheme, as set out in the annex to the 
-present resolution for implementation on a voluntary basis; 
- 
-2 INVITES Governments concerned to implement the Scheme as far as is practicable 
-and to inform the Organization of measures taken in this respect; 
- 
-3 REQUESTS the Maritime Safety Committee to keep the Scheme under review for 
-further improvement as may be necessary; 
- 
-4 REVOKES resolution A.1078(28).  
- 
- 
-Resolution A.1117(30)  Adopted on 6 December 2017 
-IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
-Page 3 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
-Annex 
- 
-IMO SHIP IDENTIFICATION NUMBER SCHEME 
- 
-Introduction
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
-Page 3 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
-Annex 
- 
-IMO SHIP IDENTIFICATION NUMBER SCHEME 
- 
-Introduction 
- 
-1 The purpose of the Scheme is to enhance maritime safety and pollution prevention 
-and to facilitate the prevention of maritime fraud. It is not intended to prejudice matters of 
-liability, civil law or other commercial considerations in the operation of a ship. Administrations 
-should apply the Scheme to new and existing ships under their flag engaged in international 
-voyages. Administrations may also wish to assign IMO Ship Identification Numbers (IMO 
-numbers) to ships engaged solely on domestic voyages and to insert the number in the national 
-certificates. 
- 
-Application 
- 
-2 The Scheme applies to ships of 100 gross tonnage and above, including fishing 
-vessels of steel and non-steel hull construction; passenger ships of less than 100 gross
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-Application 
- 
-2 The Scheme applies to ships of 100 gross tonnage and above, including fishing 
-vessels of steel and non-steel hull construction; passenger ships of less than 100 gross 
-tonnage, high-speed passenger craft and mobile offshore drilling units engaged on 
-international voyages (SOLAS regulation V/19-1); and to all motorized inboard fishing vessels 
-of less than 100 gross tonnage down to a size limit of 12 metres in length overall (LOA) 
-authorized to operate outside waters under the national jurisdiction of the flag State, with the 
-exception of the following: 
- 
-.1 ships without mechanical means of propulsion; 
- 
-.2 pleasure yachts; 
- 
-.3 ships engaged on special service; 1 
- 
-.4 hopper barges; 
- 
-.5 floating docks and structures classified in a similar manner; 
- 
-.6 ships of war and troop ships; and 
- 
-.7 wooden ships, other than fishing vessels. 
- 
-Assignment of IMO ship identification number
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-.6 ships of war and troop ships; and 
- 
-.7 wooden ships, other than fishing vessels. 
- 
-Assignment of IMO ship identification number 
-3 The IMO number is made up of the three letters "IMO" in front of seven digits 
-(e.g. IMO8712345), allocated by Information Handling Services Maritime & Trade (IHSM&T) 2 
-at the time of build or when a ship is first included in a register. Administrations which have 
-decided to implement the Scheme are invited to assign, or cause to be assigned, IMO numbers 
-to all appropriate ships flying their flags, and to insert those numbers on ships' certificates. 
- 
-4 For new ships, the assignment of the IMO number should be made when the ship is 
-registered. For existing ships, the assignment of the IMO number should be made at an early 
-convenient date, such as when the renewal survey is completed or new certificates are issued. 
- 
-                                                
-1 For example lightships, floating radio stations, search and rescue vessels.
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-1 For example lightships, floating radio stations, search and rescue vessels. 
- 
-2  Formerly known as IHS-Fairplay (IHS-F) and IHS Maritime. 
-Resolution A.1117(30)  Adopted on 6 December 2017 
-IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
-Page 4 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
-5 Administrations implementing the Scheme beyond its mandatory scope are invited to 
-inform the Organization accordingly, for circulation of information to other Governments. 
- 
-6 Official publications and other information from IHS M&T are sources for referencing 
-the IMO number. If the particulars of a ship do not correspond to those shown in the Register 
-of Ships and its supplement because, for example, the ship has changed its name, or the port 
-State control officer has doubts as to whether the IMO numbers given on the certificates are 
-genuine, further clarification may be sought from IHS M&T, the IMO Secretariat or the flag 
-State.
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-State control officer has doubts as to whether the IMO numbers given on the certificates are 
-genuine, further clarification may be sought from IHS M&T, the IMO Secretariat or the flag 
-State. 
- 
-Certificates on which the IMO number is to be inserted and marking 
- 
-7 The IMO number should be inserted on a ship's Certificate of Registry which includes 
-the particulars identifying the ship, and on all certificates issued under IMO conventions when 
-and where appropriate. It is recommended that the IMO number also be inserted o n other 
-certificates, such as classification certificates, when and where appropriate. The IMO number 
-should preferably be included in the box headed "Distinctive number or letters" in addition to 
-the call sign. The IMO number should also be permanently marked on the hull structure of the 
-ship when and where appropriate. 
- 
-How to obtain the IMO number 
- 
-8 To obtain an IMO number for both new and existing ships and to make ad ho c
+5 In the International Tonnage Certificate (1969), under Remarks, an entry should be 
+made for the tonnage of the open-top containership as follows:
 
 ---CHUNK---
 
-SOURCE: A.1117(30).pdf
-ship when and where appropriate. 
+SOURCE: MSC.234%2882%29.pdf
+5 In the International Tonnage Certificate (1969), under Remarks, an entry should be 
+made for the tonnage of the open-top containership as follows: 
  
-How to obtain the IMO number 
+In accordance with resolution MSC.234(82), th e reduced gross tonnage which should be 
+used  for the calculation of tonnage-based fees is 
  
-8 To obtain an IMO number for both new and existing ships and to make ad ho c 
-enquiries, please contact the following website http://imonumbers.ihs.com, or requests can be 
-sent to IHS M&T, this being the quickest route for issuance of a number, at the following 
-address: 
  
-IHS Maritime & Trade  
-Sentinel House  
-163 Brighton Road  
-Coulsdon, Surrey CR5 2YH  
-United Kingdom  
-Email: ship.imo@ihs.com  
-Tel:  +44 (0)1334 328300 (General Contact)  
- +44 (0) 20 3253 2404 (IMO Ship Team) 
-Fax:  +44 (0)20 3253 2102 
+Figure referred to in paragraph 2 
  
-New ships (on order and under construction) 
  
-9 The IMO number can be obtained by one of the following methods: 
  
-.1 Inquiries should be addressed to IHS M&T by telephone, email or facsimile. 
-When making an inquiry, particulars of the ships should be presented.3 
  
-Based on the above information, IHS M&T will provide the necessary IMO
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-When making an inquiry, particulars of the ships should be presented.3 
  
-Based on the above information, IHS M&T will provide the necessary IMO 
-number free of charge. If there is no data in the IHS M&T new construction 
-file on the ship concerned, a new record on that ship will be created and the 
-IHS M&T number will be assigned. 
-.2 Online access to the new construction file through Sea-web (the IMO 
-Secretariat has access to this system). 
+Upper deck 
  
-                                                
-3  A list of particulars can be found in the form annexed to circular letters on the IMO Ship Identification 
-Number Scheme (e.g. Circular Letter No.1886/Rev.6, as may be amended). 
-Resolution A.1117(30)  Adopted on 6 December 2017 
-IMO SHIP IDENTIFICATION NUMBER SCHEMEA 30/Res.1117 
-Page 5 
  
  
-I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
-.3 Application through IHS M&T, which will provide a service of regular listings 
-of the order book with selected data items, produced for a client' s
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-I:\ASSEMBLY\30\RES\A 30-RES.1117.docx 
-.3 Application through IHS M&T, which will provide a service of regular listings 
-of the order book with selected data items, produced for a client' s 
-specification. 
  
-Existing ships 
  
-10 For existing ships, IHS M&T is prepared to answer ad hoc requests free of charge up 
-to a reasonable point of acceptability. 
+     Moulded draught (regulation 4(2)) 
+Open from above 
  
-11 IHS M&T is able to both validate and issue IMO numbers to Administrations through 
-regular fleet data exchanges with the Administration, as set out in Circular Letter 
-No.1886/Rev.6, as may be amended.  
  
-Fishing vessels of less than 100 gross tonnage 
  
-12 In order to issue IMO numbers accurately to new and existing fishing vessels of less 
-than 100 gross tonnage down to a size limit of 12 metres LOA authorized to operate outside 
-waters under the national jurisdiction of the flag State, IHSM&T will need to have prior 
-confirmation by the Administration that the vessels meet the criteria in paragraph 2 of this 
-annex.
-
----CHUNK---
-
-SOURCE: A.1117(30).pdf
-waters under the national jurisdiction of the flag State, IHSM&T will need to have prior 
-confirmation by the Administration that the vessels meet the criteria in paragraph 2 of this 
-annex. 
  
-Inquiry to the IMO Secretariat 
+ CC=V c 
  
-13 Assigned identification numbers are available in the IMO Global Integrated Shipping 
-Information System (GISIS) module on "Ship and Company Particulars" at 
-https://gisis.imo.org/Public/SHIPS/Default.aspx, and may also be obtained free of charge from 
-the IMO Secretariat (IMOnumbers@imo.org), which has access to the Sea-web system, and 
-from IHS M&T directly, at the address given in paragraph 8. 
  
  
-___________ 
  
  
  
  
+ Enclosed spaces 
  
  
  
-  
-Resolution A.1117(30)  Adopted on 6 December 2017 
-IMO SHIP IDENTIFICATION NUMBER SCHEMEResolution A.1117(30)  Adopted on 6 December 2017 
-IMO SHIP IDENTIFICATION NUMBER SCHEME
+*** 
+CC 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSRESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPS
 
 ---CHUNK---
 
-SOURCE: MEPC.262(68).pdf
-RESOLUTION MEPC.262(68) 
-(adopted on 15 May 2015) 
-AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
-MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
-(RESOLUTION MEPC.232(65), AS AMENDED BY 
-RESOLUTION MEPC.255(67))MEPC 68/21/Add.1 
-Annex 7, page 1 
- 
- 
-https://edocs.imo.org/Final Documents/English/MEPC 68-21-ADD.1 (E).doc 
-ANNEX 7 
- 
-RESOLUTION MEPC.262(68) 
-(adopted on 15 May 2015) 
- 
-AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR  
-DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
-MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
-(RESOLUTION MEPC.232(65), AS AMENDED BY RESOLUTION MEPC.255(67)) 
- 
- 
+SOURCE: MEPC.336%2876%29.pdf
+RESOLUTION MEPC.336(76) (adopted on 17 June 2021) 
+2021 GUIDELINES ON OPERATIONAL CARBON INTENSITY INDICATORS AND THE CALCULATION METHODS (CII GUIDELINES, G1)MEPC 76/15/Add.2 
+Annex 10, page 1 
+I:\MEPC\76\MEPC 76-15-Add.2.docx 
+ANNEX 10 
+RESOLUTION MEPC.336(76) 
+(adopted on 17 June 2021) 
+2021 GUIDELINES ON OPERATIONAL CARBON INTENSITY INDICATORS AND THE 
+CALCULATION METHODS (CII GUIDELINES, G1) 
 THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
- 
 RECALLING Article 38(a) of the Convention on the International Maritime Organization 
 concerning the functions of the Marine Environment Protection Committee conferred upon it 
-by international conventions for the prevention and control of marine pollution from ships,
-
----CHUNK---
-
-SOURCE: MEPC.262(68).pdf
-concerning the functions of the Marine Environment Protection Committee conferred upon it 
 by international conventions for the prevention and control of marine pollution from ships, 
- 
-RECALLING ALSO that, at its sixty-second session, it adopted, by resolution MEPC.203(62), 
-Amendments to the annex of the Protocol of 1997 to amend the International Convention for 
-the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating 
-thereto (inclusion of regulations on energy efficiency for ships in MARPOL Annex VI), 
- 
-NOTING that the aforementioned amendments to MARPOL Annex VI entered into force 
-on 1 January 2013, 
- 
-NOTING ALSO that regulation 21.5 of MARPOL Annex VI, as amended, requires that the 
-installed propulsion power shall not be less than the propulsion power needed to maintain the 
-manoeuvrability of the ship under adverse conditions as defined in guidelines to be developed by 
-the Organization,
+NOTING that it adopted, by resolution MEPC.328(76), the 2021 revised MARPOL Annex VI , 
+which is expected to enter into force on 1 November 2022 upon its deemed acceptance on 1 
+May 2022, 
+NOTING IN PARTICULAR that the 2021 revised MARPOL Annex VI contains amendments
 
 ---CHUNK---
 
-SOURCE: MEPC.262(68).pdf
-manoeuvrability of the ship under adverse conditions as defined in guidelines to be developed by 
-the Organization, 
- 
-NOTING FURTHER that, at its sixty-fifth session, it adopted, by resolution MEPC.232(65), the 
-2013 Interim guidelines for determining minimum propulsion power to maintain the 
-manoeuvrability of ships in adverse conditions (the interim guidelines) and, at its sixty-seventh 
-session, by resolution MEPC.255(67), amendments thereto, 
- 
-RECOGNIZING that the amendments to MARPOL Annex VI require the adoption of relevant 
-guidelines for the smooth and uniform implementation of the regulations and to provide sufficient 
+SOURCE: MEPC.336%2876%29.pdf
+which is expected to enter into force on 1 November 2022 upon its deemed acceptance on 1 
+May 2022, 
+NOTING IN PARTICULAR that the 2021 revised MARPOL Annex VI contains amendments 
+concerning mandatory goal -based technical and operational measures to reduce carbon 
+intensity of international shipping, 
+NOTING FURTHER that regulation 28.1 of MARPOL Annex VI requires ships to which this 
+regulation apply to calculate the attained annual operational CII taking into account the 
+guidelines developed by the Organization, 
+RECOGNIZING that the aforementioned amendments to MARPOL Annex VI require relevant 
+guidelines for uniform and effective implementation of the regulations and to provide sufficient 
 lead time for industry to prepare, 
- 
-HAVING CONSIDERED, at its sixty-eighth session, proposed amendments to the interim 
-guidelines,  
- 
-1 ADOPTS amendments to the 2013 Interim guidelines for determining minimum 
-propulsion power to maintain the manoeuvrability of ships in adverse conditions, as amended, as 
-set out in the annex to the present resolution;
+HAVING CONSIDERED, at its seventy -sixth session, draft 2021 Guidelines on operational 
+carbon intensity indicators and the calculation methods (CII Guidelines, G1), 
+1 ADOPTS the 2021 Guidelines on operational carbon intensity indicators and the
 
 ---CHUNK---
 
-SOURCE: MEPC.262(68).pdf
-propulsion power to maintain the manoeuvrability of ships in adverse conditions, as amended, as 
-set out in the annex to the present resolution; 
- 
-2 INVITES Administrations to take the aforementioned amendments into account when 
-developing and enacting national laws which give force to and implement provisions set forth in 
-regulation 21.5 of MARPOL Annex VI, as amended; 
- 
+SOURCE: MEPC.336%2876%29.pdf
+carbon intensity indicators and the calculation methods (CII Guidelines, G1), 
+1 ADOPTS the 2021 Guidelines on operational carbon intensity indicators and the 
+calculation methods (CII Guidelines, G1), as set out in the annex to the present resolution; 
+2 INVITES Administrations to take the annexed Guidelines into account when 
+developing and enacting national laws which give force to and implement requirements set 
+forth in regulation 28.1 of MARPOL Annex VI; 
 3 REQUESTS the Parties to MARPOL Annex VI and other Member Governments to 
-bring the amendments to the attention of shipowners, ship operators, shipbuilders, ship 
-designers and any other interested groups; 
+bring the annexed Guidelines to the attention of masters, seafarers, shipowners, ship 
+operators and any other interested parties; 
+4 AGREES to consider substantiated proposals for CII correction factors for certain ship 
+types, operational profiles and/or voyages with a view to enhanc ing, as appropriate, the 
+annexed Guidelines before entry into force of the aforementioned amendments to MARPOL 
+Annex VI;
+
+---CHUNK---
+
+SOURCE: MEPC.336%2876%29.pdf
+types, operational profiles and/or voyages with a view to enhanc ing, as appropriate, the 
+annexed Guidelines before entry into force of the aforementioned amendments to MARPOL 
+Annex VI; 
+5 AGREES to keep the Guidelines under review in light of experience gained with their 
+implementation and in light of the review of CII regulations to be completed by the Organization 
+by 1 January 2026 as identified in regulation 28.11 of MARPOL Annex VI. 
+RESOLUTION MEPC.336(76) (adopted on 17 June 2021) 
+2021 GUIDELINES ON OPERATIONAL CARBON INTENSITY INDICATORS AND THE CALCULATION METHODS (CII GUIDELINES, G1)MEPC 76/15/Add.2 
+Annex 10, page 2 
  
-4 AGREES to keep the  interim guidelines, as amended, under review, in light of 
-experience gained with their application. 
+I:\MEPC\76\MEPC 76-15-Add.2.docx  
+ANNEX 
  
-RESOLUTION MEPC.262(68) 
-(adopted on 15 May 2015) 
-AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
-MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
-(RESOLUTION MEPC.232(65), AS AMENDED BY 
-RESOLUTION MEPC.255(67))MEPC 68/21/Add.1
+2021 GUIDELINES ON OPERATIONAL CARBON INTENSITY INDICATORS AND THE 
+CALCULATION METHODS (CII GUIDELINES, G1) 
+ 
+1 Introduction 
+ 
+1.1 In the Initial IMO Strategy on Reduction of GHG Emissions from Ships  (Resolution
+
+---CHUNK---
+
+SOURCE: MEPC.336%2876%29.pdf
+CALCULATION METHODS (CII GUIDELINES, G1) 
+ 
+1 Introduction 
+ 
+1.1 In the Initial IMO Strategy on Reduction of GHG Emissions from Ships  (Resolution 
+MEPC.304(72)), the level of ambition on carbon intensity of international shipping is quantified 
+by the CO2 emissions per transport work, as an average across international shipping.  
+ 
+1.2 These Guidelines address the calculation methods and the applicability of the 
+operational carbon intensity indicator (CII) for individual ships to which chapter 4 of MARPOL 
+Annex VI, as amended, applies.  
+ 
+2 Definitions 
+ 
+2.1 MARPOL means the International Convention for the Prevention of Pollution from 
+Ships, 1973, as modified by the Protocols of 1978 and 1997 relating thereto, as amended. 
+ 
+2.2 IMO DCS means the data collection system for fuel oil consumption of ships referred 
+to in regulation 27 and related provisions of MARPOL Annex VI. 
+ 
+2.3 For the purpose of these Guidelines, the definitions in MARPOL Annex VI, as 
+amended, apply.
+
+---CHUNK---
+
+SOURCE: MEPC.336%2876%29.pdf
+to in regulation 27 and related provisions of MARPOL Annex VI. 
+ 
+2.3 For the purpose of these Guidelines, the definitions in MARPOL Annex VI, as 
+amended, apply.  
+ 
+2.4 The metrics indicating the average CO 2 emissions per transport work of a ship are 
+generally referred to as operational carbon intensity indicator (CII) in these Guidelines.  
+ 
+.1 A specific CII calculated based on the actual or estimated mass or volume of 
+the shipment carried on board a ship is generally referred to as 
+demand-based CII; and  
+ 
+.2 A specific CII, in which calculation the capacity of a ship is taken as proxy of 
+the actual mass or volume of the shipment carried on board, is generally 
+referred to as supply-based CII. 
+ 
+2.5 The supply-based CII which uses DWT as the capacity is referred to as AER, and the 
+supply-based CII which uses GT as the capacity is referred to as cgDIST. 
+ 
+3 Application 
+ 
+3.1 For all ships to which regulation 28 of M ARPOL Annex VI applies, the operational
+
+---CHUNK---
+
+SOURCE: MEPC.336%2876%29.pdf
+supply-based CII which uses GT as the capacity is referred to as cgDIST. 
+ 
+3 Application 
+ 
+3.1 For all ships to which regulation 28 of M ARPOL Annex VI applies, the operational 
+carbon intensity indicators defined in section 4 should be applied. 
+ 
+3.2 The operational carbon intensity indicators defined in section 5 are encouraged to be 
+additionally used by ships, where applicable, for trial purposes. 
+ 
+RESOLUTION MEPC.336(76) (adopted on 17 June 2021) 
+2021 GUIDELINES ON OPERATIONAL CARBON INTENSITY INDICATORS AND THE CALCULATION METHODS (CII GUIDELINES, G1)MEPC 76/15/Add.2 
+Annex 10, page 3 
+ 
+I:\MEPC\76\MEPC 76-15-Add.2.docx  
+4 Operational carbon intensity indicator (CII) of individual ships for use in 
+implementing regulation 28 of MARPOL Annex VI 
+ 
+In its most simple form, the attained annual operational CII of individual ships is calculated as 
+the ratio of the total mass of CO 2 (M) emitted to the total transport work ( W) undertaken in a
+
+---CHUNK---
+
+SOURCE: MEPC.336%2876%29.pdf
+In its most simple form, the attained annual operational CII of individual ships is calculated as 
+the ratio of the total mass of CO 2 (M) emitted to the total transport work ( W) undertaken in a 
+given calendar year, as follows:  
+ 
+      (1)  
+ 
+4.1 M ass of CO2 emissions (M) 
+ 
+The total mass of CO2 is the sum of CO2 emissions (in grams) from all the fuel oil consumed 
+on board a ship in a given calendar year, as follows: 
+ 
+𝑀𝑀 = 𝑆𝑆𝑀𝑀𝑗𝑗 × 𝑀𝑀𝐹𝐹𝑗𝑗                             (2)  
+ 
+where: 
+ 
+  is the fuel oil type; 
+  is the total mass (in grams) of consumed fuel oil of type  in the calendar 
+year, as reported under IMO DCS; and 
+ represents the fuel oil mass to CO 2 mass conversion factor for fuel oil type
+, in line with those specified in the 2018 Guidelines on the method of 
+calculation of the attained Energy Efficiency Design Index ( EEDI) for new ships 
+(resolution MEPC.308(73)), as may be further amended. In case the type of the
+
+---CHUNK---
+
+SOURCE: MEPC.336%2876%29.pdf
+calculation of the attained Energy Efficiency Design Index ( EEDI) for new ships 
+(resolution MEPC.308(73)), as may be further amended. In case the type of the 
+fuel oil is not covered by the guidelines, the conversion factor should be obtained 
+from the fuel oil supplier supported by documentary evidence. 
+ 
+4.2 Transport work (W) 
+ 
+In the absence of the data on actual transport work, the supply-based transport work (Ws) can 
+be taken as a proxy, which is defined as the product of a ship ʹs capacity and the distance 
+travelled in a given calendar year, as follows:  
+ 
+Ws= C×Dt    (3)  
+  
+where:  
+ 
+ C represents the shipʹs capacity: 
+- For bulk carriers, tankers, container ships, gas carriers, LNG carriers, ro- ro 
+cargo ships, general cargo ships, refrigerated cargo carrier and combination 
+carriers, deadweight tonnage (DWT)1 should be used as Capacity;  
+- For cruise passenger ships, ro- ro cargo ships (vehicle carriers) and ro- ro
+
+---CHUNK---
+
+SOURCE: MEPC.336%2876%29.pdf
+carriers, deadweight tonnage (DWT)1 should be used as Capacity;  
+- For cruise passenger ships, ro- ro cargo ships (vehicle carriers) and ro- ro 
+passenger ships, gross tonnage (GT)2 should be used as Capacity; and 
+ Dt represents the total distance travelled (in nautical miles), as reported under 
+IMO DCS. 
+ 
+1  Deadweight tonnage (DWT) means the difference in tonnes between the displacement of a ship in water of 
+relative density of 1,025 kg/m3 at the summer load draught and the lightweight of the ship. The summer load 
+draught should be taken as the maximum summer draught as certified in the stability booklet approved by 
+the Administration or any organization recognized by it. 
+   
+2  Gross tonnage (GT) should be calculated in accordance with the International Convention on Tonnage 
+Measurement of Ships, 1969.   
+ / shipattained CII M W=
+j
+jFC j
+jFC
+j
+RESOLUTION MEPC.336(76) (adopted on 17 June 2021)
+
+---CHUNK---
+
+SOURCE: MEPC.336%2876%29.pdf
+Measurement of Ships, 1969.   
+ / shipattained CII M W=
+j
+jFC j
+jFC
+j
+RESOLUTION MEPC.336(76) (adopted on 17 June 2021) 
+2021 GUIDELINES ON OPERATIONAL CARBON INTENSITY INDICATORS AND THE CALCULATION METHODS (CII GUIDELINES, G1)MEPC 76/15/Add.2 
+Annex 10, page 4 
+ 
+I:\MEPC\76\MEPC 76-15-Add.2.docx  
+5 Operational carbon intensity indicator (CII) of individual ships for trial purpose 
+ 
+ The following metrics are encouraged to be used for trial purposes, where applicable: 
+ 
+.1 Energy Efficiency Performance Indicator (EEPI) 
+ 
+𝐸𝐸𝐸𝐸𝑃𝑃𝐸𝐸 = 𝑀𝑀𝐶𝐶×𝐸𝐸𝑙𝑙  
+ 
+.2 cbDIST 
+ 
+           𝐶𝐶𝑐𝑐𝐷𝐷 𝐸𝐸𝑆𝑆𝐺𝐺 = 𝑀𝑀𝐴𝐴 𝐿𝐿𝐴𝐴×𝐸𝐸𝑀𝑀 
+ 
+.3 clDIST 
+ 
+ 𝐶𝐶 𝐹𝐹𝐷𝐷𝐸𝐸𝑆𝑆𝐺𝐺 = 𝑀𝑀𝐿𝐿𝑎𝑎 𝑛𝑛𝑟𝑟𝑚𝑚𝑟𝑟𝐶𝐶𝑟𝑟𝑟𝑟×𝐸𝐸𝑀𝑀 
+ 
+.4 EEOI, as defined in MEPC.1/Circ.684 on Guidelines for voluntary use of the 
+ship energy efficiency operational indicator (EEOI). 
+ 
+In the formulas above: 
+ 
+• the mass of CO2 (M), the shipʹs capacity (C) and the total distance travelled ( Dt) are
+
+---CHUNK---
+
+SOURCE: MEPC.336%2876%29.pdf
+ship energy efficiency operational indicator (EEOI). 
+ 
+In the formulas above: 
+ 
+• the mass of CO2 (M), the shipʹs capacity (C) and the total distance travelled ( Dt) are 
+identical with those used to calculate the attained CII of individual ships, as specified 
+in section 4.1 and 4.2; 
+ 
+• Dl  means the laden distance travelled (in nautical miles) when the ship is loaded; 
+ 
+• ALB means the number of available lower berths of a cruise passenger ship; and 
+ 
+• Lanemeter means the length (in metres) of the lanes of a ro-ro ship. 
+ 
+ 
+*** 
+ 
+RESOLUTION MEPC.336(76) (adopted on 17 June 2021) 
+2021 GUIDELINES ON OPERATIONAL CARBON INTENSITY INDICATORS AND THE CALCULATION METHODS (CII GUIDELINES, G1)RESOLUTION MEPC.336(76) (adopted on 17 June 2021) 
+2021 GUIDELINES ON OPERATIONAL CARBON INTENSITY INDICATORS AND THE CALCULATION METHODS (CII GUIDELINES, G1)
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETORESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO 
+2021 Revised MARPOL Annex VI 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution 
+from ships, 
+RECALLING ALSO article 16 of the International Convention for the Prevention of Pollution 
+from Ships, 1973, as modified by the Protocols of 1978 and 1997 relating thereto (MARPOL),
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+from ships, 
+RECALLING ALSO article 16 of the International Convention for the Prevention of Pollution 
+from Ships, 1973, as modified by the Protocols of 1978 and 1997 relating thereto (MARPOL), 
+which specifies the amendment procedure and confers upon the appropriate body of the 
+Organization the function of considering amendments thereto for adoption by the Parties, 
+RECALLING FURTHER that the Committee, at its seventy-second session, adopted resolution 
+MEPC.304(72) on the Initial IMO Strategy on reduction of GHG emissions from ships,  
+HAVING CONSIDERED, at its seventy -sixth session, proposed amendments to 
+MARPOL Annex VI concerning mandatory goal-based technical and operational measures to 
+reduce carbon intensity of international shipping and exemption of unmanned non-self-propelled 
+(UNSP) barges from certain survey and certification requirements, which were circulated in  
+accordance with article 16(2)(a) of MARPOL,
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+(UNSP) barges from certain survey and certification requirements, which were circulated in  
+accordance with article 16(2)(a) of MARPOL, 
+HAVING ALSO CONSIDERED, at its seventy-sixth session, the comprehensive assessment 
+of the impacts of the proposed amendments to MARPOL Annex VI on States, including on 
+developing countries, especially on least developed countries (LDCs) and small island 
+developing States (SIDS), 
+1 ADOPTS, in accordance with article 16(2)(d) of MARPOL, the amendments to 
+MARPOL Annex VI, the text of which is set out in the annex to the present resolution; 
+2 DETERMINES, in accord ance with article 16(2)(f)(iii) of MARPOL, that  the 
+amendments to MARPOL Annex VI shall be deemed to have been accepted on 1 May 2022 
+unless prior to that date not less than one third of the Parties or Parties the combined merchant 
+fleets of which constitute not less than 50% of the gross tonnage of the world's merchant fleet
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+unless prior to that date not less than one third of the Parties or Parties the combined merchant 
+fleets of which constitute not less than 50% of the gross tonnage of the world's merchant fleet 
+have communicated to the Organization their objection to the amendments; 
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of MARPOL, the 
+amendments to MARPO L Annex VI shall enter into force on 1 November 2022 upon its 
+acceptance in accordance with paragraph 2 above; 
+4 INVITES ALSO the Parties to consider and initiate as soon as possible the 
+development of a Carbon Intensity Code; 
+5 INVITES the Organization, mindful of the review clauses provided for in 
+regulations 25.3 and 28.11 of the amendments to MARPOL Annex VI, to initiate the respective 
+reviews as early as possible; 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+reviews as early as possible; 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 2 - 
+ 
+ 
+6 INVITES ALSO the Organization to keep under review the impacts on States of the 
+aforesaid amendments to MARPOL Annex VI, paying particular attention to the needs of 
+developing countries, especially LDCs and SIDS, so that any necessary adjustments can be 
+made; 
+ 
+7  AGREES to undertake a lessons -learned exercise from the comprehensive impact 
+assessment of the amendments to MARPOL Annex VI, with a view to improving the procedure 
+for conducting future impact assessments taking into account the Procedure for assessing 
+impacts on States of candidate measures (MEPC.1/Circ.885) and the terms of reference for 
+the impact assessment of the short-term measure;
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+impacts on States of candidate measures (MEPC.1/Circ.885) and the terms of reference for 
+the impact assessment of the short-term measure; 
+ 
+8 ENCOURAGES the Parties to consider early application of the aforesaid amendments; 
+ 
+9 REQUESTS the Secretary-General, for the purposes of article 16(2)(e) of MARPOL, to 
+transmit certified copies of the present resolution and the text of the amendments to MARPOL 
+Annex VI contained in the annex to all Parties to MARPOL;  
+ 
+10 REQUESTS ALSO the Secretary-General to transmit copies of the present resolution 
+and its annex to Members of the Organization which are not Parties to MARPOL. 
+ 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 3 - 
+ 
+ANNEX 
+ 
+MARPOL ANNEX VI 
+ 
+REGULATIONS FOR THE PREVENTION OF AIR POLLUTION FROM SHIPS 
+ 
+ 
+Chapter 1 – General 
+ 
+Regulation 1
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 3 - 
+ 
+ANNEX 
+ 
+MARPOL ANNEX VI 
+ 
+REGULATIONS FOR THE PREVENTION OF AIR POLLUTION FROM SHIPS 
+ 
+ 
+Chapter 1 – General 
+ 
+Regulation 1 
+Application 
+ 
+The provisions of this Annex shall apply to all ships, except where expressly provided otherwise. 
+ 
+Regulation 2 
+Definitions 
+ 
+1 For the purpose of this Annex: 
+ 
+.1 Annex means Annex VI to the International Convention for the Prevention of 
+Pollution from Ships, 1973 (MARPOL), as modified by the Protocol of 1978 
+relating thereto, and as modified by the Protocol of 1997, as amended by the 
+Organization, provided that such amendments are adopted and brought into 
+force in accordance with the provisions of article 16 of the present Convention. 
+ 
+.2 A similar stage of construction means the stage at which: 
+ 
+ .1 construction identifiable with a specific ship begins; and 
+ 
+ .2 assembly of that ship has commenced comprising at least 50 tonnes
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.1 construction identifiable with a specific ship begins; and 
+ 
+ .2 assembly of that ship has commenced comprising at least 50 tonnes 
+or one per cent of the estimated mass of all structural material, 
+whichever is less. 
+ 
+.3 Anniversary date means the day and the month of each year that will 
+correspond to the date of expiry of the International Air Pollution Prevention 
+Certificate. 
+ 
+.4 Audit means a systematic, independent and documented process for 
+obtaining audit evidence and evaluating it objectively to determine the extent 
+to which audit criteria are fulfilled. 
+ 
+.5 Audit Scheme means the IMO Member State Audit Scheme established by 
+the Organization and taking into account the guidelines developed by the 
+Organization. 
+ 
+.6 Audit Standard means the Code for Implementation.  
+ 
+.7 Auxiliary control device means a system, function or control strategy installed 
+on a marine diesel engine that is used to protect the engine and/or its ancillary
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.7 Auxiliary control device means a system, function or control strategy installed 
+on a marine diesel engine that is used to protect the engine and/or its ancillary 
+equipment against operating conditions that could result in damage or failure, 
+or that is used to facilitate the starting of the engine. An auxiliary control device 
+may also be a strategy or measure that has been satisfactorily demonstrated 
+not to be a defeat device. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 4 - 
+ 
+.8 Code for Implementation means the IMO Instruments Implementation Code 
+(III Code) adopted by the Organization by resolution A.1070(28). 
+ 
+.9 Continuous feeding is defined as the process whereby waste is fed into a 
+combustion chamber without human assistance while the incinerator is in
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.9 Continuous feeding is defined as the process whereby waste is fed into a 
+combustion chamber without human assistance while the incinerator is in 
+normal operating conditions with the combustion chamber operative 
+temperature between 850°C and 1,200°C. 
+ 
+.10 Defeat device means a device that measures, senses or responds to 
+operating variables (e.g. engine speed, temperature, intake pressure or any 
+other parameter) for the purpose of activating, modulating, delaying or 
+deactivating the operation of any component or the function of the emission 
+control system such that the effectiveness of the emission control system is 
+reduced under conditions encountered during normal operation, unless the use 
+of such a device is substantially included in the applied emission certification 
+test procedures. 
+ 
+.11 Electronic Record Book  means a device or system, approved by the 
+Administration, used to electronically record the required entries for
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+test procedures. 
+ 
+.11 Electronic Record Book  means a device or system, approved by the 
+Administration, used to electronically record the required entries for 
+discharges, transfers and other operations as required under this Annex in 
+lieu of a hard copy record book. 
+ 
+.12 Emission means any release of substances, subject to control by this Annex, 
+from ships into the atmosphere or sea. 
+ 
+.13 Emission control area means an area where the adoption of special 
+mandatory measures for emissions from ships is required to prevent, reduce 
+and control air pollution from NO x or SOx and particulate matter or all three 
+types of emissions and their attendant adverse impacts on human health and 
+the environment. Emission control areas shall include those listed in, or 
+designated under, regulations 13 and 14 of this Annex. 
+ 
+.14 Fuel oil means any fuel delivered to and intended for combustion purposes for 
+propulsion or operation on board a ship, including gas, distillate and residual
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.14 Fuel oil means any fuel delivered to and intended for combustion purposes for 
+propulsion or operation on board a ship, including gas, distillate and residual 
+fuels. 
+ 
+.15 Gross tonnage means the gross tonnage calculated in accordance with the 
+tonnage measurement regulations contained in Annex I to the International 
+Convention on Tonnage Measurements of Ships, 1969, or any successor 
+Convention. 
+ 
+.16 In-use sample means a sample of fuel oil in use on a ship.  
+ 
+.17 Installations in relation to regulation 12 of this Annex means the installation of 
+systems, equipment, including portable fire-extinguishing units, insulation, or 
+other material on a ship, but excludes the repair or recharge of previously 
+installed systems, equipment, insulation or other material, or the recharge of 
+portable fire-extinguishing units. 
+ 
+.18 Installed means a marine diesel engine that is or is intended to be fitted on a
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+portable fire-extinguishing units. 
+ 
+.18 Installed means a marine diesel engine that is or is intended to be fitted on a 
+ship, including a portable auxiliary marine diesel engine, only if its fuelling, 
+cooling or exhaust system is an integral part of the ship. A fuelling system is 
+considered integral to the ship only if it is permanently affixed to the ship. This 
+definition includes a marine diesel engine that is used to supplement or augment 
+the installed power capacity of the ship and is intended to be an integral part 
+of the ship. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 5 - 
+ 
+.19 Irrational emission control strategy means any strategy or measure that, when 
+the ship is operated under normal conditions of use, reduces the effectiveness
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.19 Irrational emission control strategy means any strategy or measure that, when 
+the ship is operated under normal conditions of use, reduces the effectiveness 
+of an emission control system to a level below that expected on the applicable 
+emission test procedures. 
+ 
+ .20 Low-flashpoint fuel means gaseous or liquid fuel oil having a flashpoint lower 
+than otherwise permitted under paragraph 2.1.1 of regulation 4 of chapter II-2 
+of the International Convention for the Safety of Life at Sea (SOLAS), 1974, 
+as amended. 
+ 
+ .21 Marine diesel engine means any reciprocating internal combustion engine 
+operating on liquid or dual fuel, to which regulation 13 of this Annex applies, 
+including booster/compound systems if applied. In addition, a gas-fuelled 
+engine installed on a ship constructed on or after 1 March 2016 or a gas-fuelled 
+additional or non-identical replacement engine installed on or after that date is 
+also considered as a marine diesel engine.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+additional or non-identical replacement engine installed on or after that date is 
+also considered as a marine diesel engine. 
+ 
+ .22 MARPOL delivered sample  means the sample of fuel oil delivered in 
+accordance with regulation 18.8.1 of this Annex. 
+ 
+ .23 NOx Technical Code means the Technical Code on Control of Emission of 
+Nitrogen Oxides from Marine Diesel Engines  adopted by resolution 2 of 
+the 1997 MARPOL Conference, as amended by the Organization, provided 
+that such amendments are adopted and brought into force in accordance with 
+the provisions of article 16 of the present Convention. 
+ 
+ .24 Onboard sample means a sample of fuel oil intended to be used or carried 
+for use on board that ship. 
+ 
+ .25 Ozone-depleting substances means controlled substances defined in 
+paragraph (4) of article 1 of the Montreal Protocol on Substances that Deplete 
+the Ozone Layer, 1987, listed in Annexes A, B, C or E to the said Protocol in
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+paragraph (4) of article 1 of the Montreal Protocol on Substances that Deplete 
+the Ozone Layer, 1987, listed in Annexes A, B, C or E to the said Protocol in 
+force at the time of application or interpretation of this Annex. 
+ 
+Ozone-depleting substances that may be found on board ship include, but are 
+not limited to:  
+ 
+Halon 1211  Bromochlorodifluoromethane 
+Halon 1301  Bromotrifluoromethane 
+Halon 2402  1,2-Dibromo-1,1,2,2-tetrafluoroethane (also known as   
+Halon 114B2) 
+CFC-11 Trichlorofluoromethane 
+CFC-12 Dichlorodifluoromethane 
+CFC-113 1,1,2-Trichloro-1,2,2-trifluoroethane 
+CFC-114 1,2-Dichloro-1,1,2,2-tetrafluoroethane 
+CFC-115  Chloropentafluoroethane 
+ 
+.26 Shipboard incineration means the incineration of wastes or other matter on 
+board a ship, if such wastes or other matter were generated during the normal 
+operation of that ship. 
+ 
+.27 Shipboard incinerator means a shipboard facility designed for the primary 
+purpose of incineration. 
+RESOLUTION MEPC.328(76)
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+operation of that ship. 
+ 
+.27 Shipboard incinerator means a shipboard facility designed for the primary 
+purpose of incineration. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 6 - 
+ 
+.28 Ships constructed means ships the keels of which are laid or that are at a 
+similar stage of construction. 
+ 
+.29 Sludge oil means sludge from the fuel oil or lubricating oil separators, waste 
+lubricating oil from main or auxiliary machinery, or waste oil from bilge water 
+separators, oil filtering equipment or drip trays. 
+ 
+.30 Sulphur content of fuel oil  means the concentration of sulphur in a fuel oil, 
+measured in % m/m as tested in accordance with a standard acceptable to 
+the Organization. 
+ 
+.31 Tanker in relation to regulation 15 of this Annex means an oil tanker as defined
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+measured in % m/m as tested in accordance with a standard acceptable to 
+the Organization. 
+ 
+.31 Tanker in relation to regulation 15 of this Annex means an oil tanker as defined 
+in regulation 1 of Annex I to the present Convention or a chemical tanker as 
+defined in regulation 1 of Annex II to the present Convention. 
+ 
+.32 Unmanned non-self-propelled (UNSP) barge means a barge that:  
+ 
+.1 is not propelled by mechanical means;  
+ 
+.2 has no system, equipment and/or machinery fitted that may 
+generate emissions regulated by this Annex; and  
+ 
+.3 has neither persons nor living animals on board.  
+ 
+2 For the purpose of chapter 4: 
+ 
+.1 A ship delivered on or after 1 September 2019 means a ship: 
+ 
+.1 for which the building contract is placed on or after 1 September 2015; 
+or 
+ 
+.2 in the absence of a building contract, the keel of which is laid, or which 
+is at a similar stage of construction, on or after 1 March 2016; or 
+ 
+.3 the delivery of which is on or after 1 September 2019.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+is at a similar stage of construction, on or after 1 March 2016; or 
+ 
+.3 the delivery of which is on or after 1 September 2019. 
+ 
+.2 Attained annual operational CII is the operational carbon intensity indicator 
+value achieved by an individual ship in accordance with regulations 26 
+and 28 of this Annex. 
+ 
+.3 Attained EEDI is the EEDI value achieved by an individual ship in accordance 
+with regulation 22 of this Annex. 
+ 
+.4 Attained EEXI is the EEXI value achieved by an individual ship in accordance 
+with regulation 23 of this Annex. 
+ 
+.5 Bulk carrier means a ship which is intended primarily to carry dry cargo in bulk, 
+including such types as ore carriers as defined in regulation 1 of chapter XII of 
+the International Convention for the Safety of Life at Sea (SOLAS), 1974, (as 
+amended) but excluding combination carriers. 
+ 
+.6 Calendar year means the period from 1 January until 31 December inclusive. 
+ 
+.7 Combination carrier means a ship designed to load 100% deadweight with

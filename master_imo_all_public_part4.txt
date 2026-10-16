@@ -1,1896 +1,2054 @@
-SOURCE: A.1069(28).pdf
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEAA 28/Res.1069 
-Page 5 
+SOURCE: MEPC.328%2876%29.pdf
+regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 to 2.2.16, 2.2.22, and 2.2.26 to 2.2.29 of this 
+Annex shall calculate the attained annual operational CII over a 12 -month period from 
+1 January to  31 December for the preceding calendar year, using the data c ollected in 
+accordance with regulation 27 of this Annex, taking into account the guidelines to be developed 
+by the Organization. 
  
-I:\ASSEMBLY\28\RES\1069.doc 
-6 EXPRESSES deep appreciation for the assistance already provided by the 
-Organization to States in the Gulf of Guinea to help them repress piracy, armed robbery 
-against ships and other illicit maritime activities in their region;  
+2 Within three months after the end of each calendar year, the ship shall report to its 
+Administration, or any organization du ly authorized by it, the attained annual operational CII 
+via electronic communication and using a standardized format to be developed by the 
+Organization. 
  
-7 REITERATES deep appreciation for: 
+3 Notwithstanding 1 and 2 of this regulation, in the event of any transfer of a ship 
+addressed in regulations 27.4, 27.5 or 27.6 completed after 1 January 2023, a ship shall, after 
+the end of the calendar year in which the transfer takes place, calculate and report the attained
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+addressed in regulations 27.4, 27.5 or 27.6 completed after 1 January 2023, a ship shall, after 
+the end of the calendar year in which the transfer takes place, calculate and report the attained 
+annual operational CII for the full 12 -month period from 1 Jan uary to 31 December in the 
+calendar year during which the transfer took place, in accordance with regulations 28.1 
+and 28.2, for verification in accordance with regulation 6.6 of this Annex, taking into account 
+guidelines to be developed by the Organization. Nothing in this regulation relieves any ship of 
+its reporting obligations under regulation 27 or this regulation of this Annex. 
  
-(a) the efforts made by the shipping industry to develop the regional Maritime 
-Trade Information Sharing Centre for the Gulf of Guinea (MTISC-GoG) and 
-ship protection advice which, when operational, will assist ships to avoid, 
-deter, delay and respond to piracy attacks and armed robbery against ships; 
-and the reports to inform the Organization in relation to this issue; 
+Required annual operational carbon intensity indicator (required annual operational CII) 
  
-(b) the efforts of those who have contributed towards resolving cases involving 
-ships that had been hijacked and seafarers who had been held hostage; 
+4 For each ship of 5,000 gross tonnage and above which falls into one or more of the 
+categories in regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 to 2.2.16, 2.2.22, and 2.2.26 to
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+4 For each ship of 5,000 gross tonnage and above which falls into one or more of the 
+categories in regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 to 2.2.16, 2.2.22, and 2.2.26 to 
+2.2.29 of this Annex, the required annual operational CII shall be determined as follows: 
+ 
+Required annual operational CII = (1 − Z100) •  CIIR  
+where,  
+ 
+Z is the annual reduction factor to ensure continuous improvement of the ship 's 
+operational carbon intensity within a specific rating level; and  
+ 
+ CIIR is the reference value. 
+ 
+5 The annual reduction factor Z and the reference value CIIR shall be the values defined 
+taking into account the guidelines to be developed by the Organization. 
+Operational carbon intensity rating 
+ 
+6 The attained annual operational CII shall be documented and verified against the 
+required annual operational CII to determine operational carbon intensity rating A, B, C, D or
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+6 The attained annual operational CII shall be documented and verified against the 
+required annual operational CII to determine operational carbon intensity rating A, B, C, D or 
+E, indicating a major superior, minor superior, moderate, minor inferior, or inferior performance 
+level, either by the Administration or by any organization duly authorized by it, taking into 
+account the guidelines developed by the Organization. The middle point of rating level C shall 
+be the value equivalent to the required annual operational CII set ou t in paragraph 4 of this 
+regulation. 
+ 
+Corrective actions and incentives 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 45 - 
+ 
+7 A ship rated as D for three consecutive years or rated as E shall develop a plan of 
+corrective actions to achieve the required annual operational CII.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+7 A ship rated as D for three consecutive years or rated as E shall develop a plan of 
+corrective actions to achieve the required annual operational CII.  
+ 
+8 The SEEMP shall be reviewed  to include the plan of corrective actions accordingly , 
+taking into account the guidelines to be developed by the Organization . The revised SEEMP 
+shall be submitted to the Administration or any organization duly authorized by it for verification, 
+preferably together with, but in no case later than  1 month after reporting the attained annual 
+operational CII in accordance with paragraph 2 of this regulation. 
+ 
+9 A ship rated as D for three consecutive years or rated as E shall duly undertake the 
+planned corrective actions in accordance with the revised SEEMP. 
+ 
+10 Administrations, port authorities and other stakeholders as appropriate, are 
+encouraged to provide incentives to ships rated as A or B.  
+ 
+Review
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+10 Administrations, port authorities and other stakeholders as appropriate, are 
+encouraged to provide incentives to ships rated as A or B.  
+ 
+Review 
+ 
+11 A review shall be completed by 1 January 2026 by the Organization to assess:  
+ 
+.1 the effectiveness of this  regulation in reducing the carbon intensity of 
+international shipping; 
+ 
+.2 the need for reinforced corrective actions or other means of remedy, 
+including possible additional EEXI requirements; 
+ 
+.3 the need for enhancement of the enforcement mechanism; 
+ 
+.4 the need for enhancement of the data collection system; and 
+ 
+.5 the revision of the Z factor and CIIR values. 
+ 
+If based on the review the Parties decide to adopt amendments to this regulation, such 
+amendments shall be adopted and brought into force in accordance with the provisions of 
+article 16 of the present Convention. 
+ 
+Regulation 29 
+Promotion of technical cooperation and transfer of technology relating to the improvement of
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+article 16 of the present Convention. 
+ 
+Regulation 29 
+Promotion of technical cooperation and transfer of technology relating to the improvement of 
+energy efficiency of ships 
+ 
+1 Administrations shall, in cooperation with the Organization and other international 
+bodies, promote and provide support, as appropriate, directly or through the Organization to 
+States that request technical assistance, especially developing States. 
+ 
+2 The Administration of a Party shall cooperate actively with other Parties, subject to its 
+national laws, regulations and policies, to promote the development and transfer of technology 
+and exchange of information to States which request technical assistance, particularly 
+developing States, in respect of the implementation of measures to fulfil the requirements of 
+chapter 4 of this Annex, in particular regulations 19.4 to 19.6. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+chapter 4 of this Annex, in particular regulations 19.4 to 19.6. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 46 - 
+ 
+Chapter 5 – Verification of compliance with the provisions of this Annex 
+ 
+Regulation 30 
+Application 
+ 
+Parties shall use the provisions of the  Code for Implementation in the execution of their 
+obligations and responsibilities contained in this Annex. 
+ 
+Regulation 31 
+Verification of compliance 
+ 
+1 Every Party shall be subject to periodic audits by the Organization in accordance with 
+the audit standard to verify compliance with and implementation of this Annex. 
+ 
+2 The Secretary-General of the Organization shall have responsibility for administering 
+the Audit Scheme, based on the guidelines developed by the Organization.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+2 The Secretary-General of the Organization shall have responsibility for administering 
+the Audit Scheme, based on the guidelines developed by the Organization. 
+ 
+3 Every Party shall have responsibility for facilitating the conduct of the audit and 
+implementation of a programme of actions to address the findings, based on the guidelines 
+developed by the Organization.  
+ 
+4 The audits of all Parties shall be: 
+ 
+.1 based on an overall schedule developed by the Secretary-General of the 
+Organization, taking into account the guidelines developed by the 
+Organization; and 
+ 
+.2 conducted at periodic intervals, taking into account the guidelines developed 
+by the Organization.  
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 47 - 
+ 
+Appendix I
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 47 - 
+ 
+Appendix I 
+ 
+Form of International Air Pollution Prevention (IAPP) Certificate (regulation 8) 
+ 
+INTERNATIONAL AIR POLLUTION PREVENTION CERTIFICATE 
+ 
+Issued under the provisions of the Protocol of 1997, as amended, to amend the International 
+Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 
+1978 relating thereto (hereinafter referred to as "the Convention") under the authority of the 
+Government of: 
+……………………………………………………………………………………………………..…… 
+(full designation of the country) 
+by…………………………………………………………………………………………………..…… 
+(full designation of the competent person or organization 
+authorized under the provisions of the Convention) 
+ 
+Particulars of ship 
+ 
+Name of ship …………………………………….…………………………………….………………. 
+ 
+Distinctive number or letters …………………………..…………………………………….……….
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+authorized under the provisions of the Convention) 
+ 
+Particulars of ship 
+ 
+Name of ship …………………………………….…………………………………….………………. 
+ 
+Distinctive number or letters …………………………..…………………………………….………. 
+ 
+IMO number  …………………………………………………………………………………….. 
+ 
+Port of registry ……………………………………………………..………………..……………… 
+ 
+Gross tonnage ……………………………………………………………….……..…………………. 
+ 
+THIS IS TO CERTIFY: 
+ 
+1 That the ship has been surveyed in accordance with regulation 5 of Annex VI of the 
+Convention; and 
+ 
+2 That the survey shows that the equipment, systems, fittings, arrangements and 
+materials fully comply with the applicable requirements of Annex VI of the Convention. 
+ 
+This Certificate is valid until (dd/mm/yyyy) …………………………….………………………… 
+subject to surveys in accordance with regulation 5 of Annex VI of the Convention. 
+ 
+Completion date of the survey on which this Certificate is based (dd/mm/yyyy)……………… 
+ 
+Issued at …………….…………………………………………………………………………………. 
+(place of issue of Certificate)
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Completion date of the survey on which this Certificate is based (dd/mm/yyyy)……………… 
+ 
+Issued at …………….…………………………………………………………………………………. 
+(place of issue of Certificate) 
+ 
+Date (dd/mm/yyyy) ………………….…. …………………………………… 
+(date of issue) (signature of duly authorized 
+official issuing the Certificate) 
+ 
+(seal or stamp of the authority, as appropriate) 
+ 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 48 - 
+ 
+ENDORSEMENT FOR ANNUAL AND INTERMEDIATE SURVEYS 
+ 
+THIS IS TO CERTIFY that, at a survey required by regulation 5 of Annex VI of the Convention, 
+the ship was found to comply with the relevant provisions of that Annex: 
+ 
+Annual survey Signed. ………………………………………. 
+(signature of duly authorized official) 
+ 
+ Place . ……………………………………. 
+ 
+ Date (dd/mm/yyyy) ………………………… 
+(seal or stamp of the authority, as appropriate)
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Annual survey Signed. ………………………………………. 
+(signature of duly authorized official) 
+ 
+ Place . ……………………………………. 
+ 
+ Date (dd/mm/yyyy) ………………………… 
+(seal or stamp of the authority, as appropriate) 
+ 
+Annual/Intermediate survey Signed………………………………………… 
+(signature of duly authorized official) 
+ 
+ Place …………………………………….. 
+ 
+ Date (dd/mm/yyyy) …………………….. 
+(seal or stamp of the authority, as appropriate) 
+ 
+Annual/Intermediate survey Signed………………………………………… 
+(signature of duly authorized official) 
+ 
+ Place …………………………………….. 
+ 
+ Date (dd/mm/yyyy) ……………………… 
+(seal or stamp of the authority, as appropriate) 
+ 
+Annual survey Signed. ………………………………………. 
+(signature of duly authorized official) 
+ 
+ Place…………………………………….. 
+ 
+ Date (dd/mm/yyyy) ……………………… 
+(seal or stamp of the authority, as appropriate) 
+ 
+ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE 
+WITH REGULATION 9.8.3 
+ 
+THIS IS TO CERTIFY that, at an annual/intermediate  survey in a ccordance with
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+(seal or stamp of the authority, as appropriate) 
+ 
+ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE 
+WITH REGULATION 9.8.3 
+ 
+THIS IS TO CERTIFY that, at an annual/intermediate  survey in a ccordance with 
+regulation 9.8.3 of Annex VI of the Convention, the ship was found to comply with the relevant 
+provisions of that Annex: 
+ 
+     Signed……………………………………………… 
+(signature of duly authorized official) 
+ 
+     Place ……………………………………………….. 
+ 
+     Date (dd/mm/yyyy) ……………………………….. 
+ 
+(seal or stamp of the authority, as appropriate) 
+ 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 49 - 
+ 
+ENDORSEMENT TO EXTEND THE CERTIFICATE IF VALID FOR LESS 
+THAN FIVE YEARS WHERE REGULATION 9.3 APPLIES 
+ 
+The ship complies with the relevant provisions of the Annex, and this Cert ificate shall, in
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+ENDORSEMENT TO EXTEND THE CERTIFICATE IF VALID FOR LESS 
+THAN FIVE YEARS WHERE REGULATION 9.3 APPLIES 
+ 
+The ship complies with the relevant provisions of the Annex, and this Cert ificate shall, in 
+accordance with regulation 9.3 of  Annex VI of the Convention, be accepted as valid until 
+(dd/mm/yyyy) …………………………...  
+ 
+Signed. ……………………………………………… 
+(signature of duly authorized official) 
+ 
+Place ………………………………………. 
+ 
+Date (dd/mm/yyyy) ……………………………… 
+ 
+ 
+(seal or stamp of the authority, as appropriate) 
+ 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 50 - 
+ 
+ENDORSEMENT WHERE THE RENEWAL SURVEY HAS BEEN 
+ COMPLETED AND REGULATION 9.4 APPLIES 
+ 
+The ship complies with the relevant provisions of the Annex, and this Certificate shall, in
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+ENDORSEMENT WHERE THE RENEWAL SURVEY HAS BEEN 
+ COMPLETED AND REGULATION 9.4 APPLIES 
+ 
+The ship complies with the relevant provisions of the Annex, and this Certificate shall, in 
+accordance with regulation 9.4 of  Annex VI of the Convention, be accepted as valid until 
+(dd/mm/yyyy) ……………  
+ 
+Signed. ……………………………………………. 
+(signature of duly authorized official) 
+ 
+Place ………………………………………………. 
+ 
+Date (dd/mm/yyyy) ……………………………… 
+ 
+(seal or stamp of the authority, as appropriate) 
+ 
+ 
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE 
+UNTIL REACHING THE PORT OF SURVEY OR FOR A PERIOD OF GRACE 
+WHERE REGULATION 9.5 OR 9.6 APPLIES 
+ 
+This Certificate shall, in accordance with regulation 9.5 or 9.6 of Annex VI of the Convention, 
+be accepted as valid until (dd/mm/yyyy)…………………………….…………………………. 
+ 
+Signed. …………………………………………... 
+(signature of duly authorized official) 
+ 
+Place ……………………………………………… 
+ 
+Date (dd/mm/yyyy) ………………………………. 
+ 
+(seal or stamp of the authority, as appropriate)
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Signed. …………………………………………... 
+(signature of duly authorized official) 
+ 
+Place ……………………………………………… 
+ 
+Date (dd/mm/yyyy) ………………………………. 
+ 
+(seal or stamp of the authority, as appropriate) 
+ 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 51 - 
+ 
+ENDORSEMENT FOR ADVANCEMENT OF ANNIVERSARY DATE 
+WHERE REGULATION 9.8 APPLIES 
+ 
+In accordance with regulation 9.8 of Annex VI of the Convention, the new anniversary date is 
+(dd/mm/yyyy)……………………………………………………………………………………………
+… 
+ 
+Signed. ……………………………………………. 
+(signature of duly authorized official) 
+ 
+Place ……………………………………………… 
+ 
+Date (dd/mm/yyyy) ………………………………. 
+ 
+(seal or stamp of the authority, as appropriate) 
+ 
+In accordance with regulation 9.8 of Annex VI of the Convention, the new anniversary date is 
+(dd/mm/yyyy)……………………………………………………………………………..……………
+………
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+In accordance with regulation 9.8 of Annex VI of the Convention, the new anniversary date is 
+(dd/mm/yyyy)……………………………………………………………………………..……………
+……… 
+ 
+Signed…………………………………………….. 
+(signature of duly authorized official) 
+ 
+Place ………………………………………………. 
+ 
+Date (dd/mm/yyyy) ……………………………… 
+ 
+(seal or stamp of the authority, as appropriate) 
+ 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 52 - 
+ 
+SUPPLEMENT TO 
+INTERNATIONAL AIR POLLUTION PREVENTION CERTIFICATE (IAPP CERTIFICATE) 
+ 
+RECORD OF CONSTRUCTION AND EQUIPMENT 
+ 
+1 Particulars of ship 
+ 
+1.1 Name of ship……………...................………………...................………………............. 
+ 
+1.2 IMO number…………...................………………...................……………….............. 
+ 
+1.3 Date on which keel was laid or ship was at a similar stage of construction
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+1.2 IMO number…………...................………………...................……………….............. 
+ 
+1.3 Date on which keel was laid or ship was at a similar stage of construction 
+(dd/mm/yyyy)..…………………………………………………………………………… 
+ 
+1.4 Length (L) metres ………...................………………...................………………........... 
+ 
+2 Control of emissions from ships 
+ 
+2.1 Ozone-depleting substances (regulation 12) 
+ 
+2.1.1 The following fire -extinguishing systems, other systems and equipment containing 
+ozone-depleting substances, other than hydrochlorofluorocarbons (HCFCs), installed 
+before 19 May 2005 may continue in service: 
+ 
+System or equipment Location on board Substance 
+   
+   
+   
+ 
+  
+Notes 
+1 This Record shall be permanently attached to the IAPP Certificate. The IAPP Certificate shall be available on 
+board the ship at all times. 
+2 The Record shall be at least in English, French or Spanish. If an official language of the issuing country is also
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+board the ship at all times. 
+2 The Record shall be at least in English, French or Spanish. If an official language of the issuing country is also 
+used, this shall prevail in case of a dispute or discrepancy. 
+3 Entries in boxes shall be made by inserting either: a cross (x) for the answers "yes" and "applicable"; or a dash 
+(–) for the answers "no" and "not applicable", as appropriate. 
+4 Unless otherwise stated, regulations mentioned in this Record refer to regulations of Annex VI of the Convention 
+and resolutions or circulars refer to those adopted by the International Maritime Organization. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 53 - 
+ 
+2.1.2 The following systems containing HCFCs installed before 1 January 2020 may 
+continue in service: 
+System or equipment Location on board Substance
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+2.1.2 The following systems containing HCFCs installed before 1 January 2020 may 
+continue in service: 
+System or equipment Location on board Substance 
+   
+   
+   
+ 
+2.2 Nitrogen oxides (NOx) (regulation 13) 
+ 
+2.2.1 The following marine diesel engines installed on this ship are in accordance with the 
+requirements of regulation 13, as indicated: 
+ 
+Applicable regulation of MARPOL Annex VI  
+(NTC = NOx Technical Code 2008) 
+(AM = approved method) 
+Engin
+e #1 
+Engin
+e #2 
+Engin
+e #3 
+Engin
+e #4 
+Engin
+e #5 
+1 Manufacturer and model      
+2 Serial number      
+3 Use (applicable application cycle(s) – NTC 
+3.2) 
+     
+4 Rated power (kW) (NTC 1.3.11)      
+5 Rated speed (rpm) (NTC 1.3.12)      
+6 Identical engine installed ≥ 1/1/2000 
+exempted by 13.1.1.2 
+□ □ □ □ □ 
+7 Identical engine installation date (dd/mm/yyyy) 
+as per 13.1.1.2 
+     
+8a  
+Major conversion 
+(dd/mm/yyyy) 
+13.2.1.1 & 13.2.2      
+8b 13.2.1.2 & 13.2.3      
+8c 13.2.1.3 & 13.2.3      
+9a  
+ 
+ 
+Tier I 
+13.3 □ □ □ □ □
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+as per 13.1.1.2 
+     
+8a  
+Major conversion 
+(dd/mm/yyyy) 
+13.2.1.1 & 13.2.2      
+8b 13.2.1.2 & 13.2.3      
+8c 13.2.1.3 & 13.2.3      
+9a  
+ 
+ 
+Tier I 
+13.3 □ □ □ □ □ 
+9b 13.2.2 □ □ □ □ □ 
+9c 13.2.3.1 □ □ □ □ □ 
+9d 13.2.3.2 □ □ □ □ □ 
+9e 13.7.1.2 □ □ □ □ □ 
+10a  
+ 
+ 
+ 
+Tier II 
+13.4 □ □ □ □ □ 
+10b 13.2.2 □ □ □ □ □ 
+10c 13.2.2 (Tier III not 
+possible) 
+□ □ □ □ □ 
+10d 13.2.3.2 □ □ □ □ □ 
+10e 13.5.2 (Exemptions) □ □ □ □ □ 
+10f 13.7.1.2 □ □ □ □ □ 
+11a  
+NOx Tier III Emission 
+Control Areas 
+13.5.1.1 □ □ □ □ □ 
+11b 13.2.2 □ □ □ □ □ 
+11c 13.2.3.2 □ □ □ □ □ 
+11d 13.7.1.2 □ □ □ □ □ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 54 - 
+ 
+Applicable regulation of MARPOL Annex VI  
+(NTC = NOx Technical Code 2008) 
+(AM = approved method) 
+Engin
+e #1 
+Engin
+e #2 
+Engin
+e #3 
+Engin
+e #4 
+Engin
+e #5 
+12  
+ 
+AM
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Applicable regulation of MARPOL Annex VI  
+(NTC = NOx Technical Code 2008) 
+(AM = approved method) 
+Engin
+e #1 
+Engin
+e #2 
+Engin
+e #3 
+Engin
+e #4 
+Engin
+e #5 
+12  
+ 
+AM 
+installed □ □ □ □ □ 
+13 not commercially available 
+at this survey 
+□ □ □ □ □ 
+14 not applicable □ □ □ □ □ 
+ 
+2.3  Sulphur oxides (SOx) and particulate matter (regulation 14) 
+ 
+2.3.1 When the ship operates outside of an emission control area specified in 
+regulation 14.3, the ship uses:  
+ 
+.1 fuel oil with a sulphur content as documented by bunker delivery notes that 
+does not exceed the limit value of 0.50% m/m, and/or  …....................□  
+ 
+.2 an equivalent arrangement approved in accordance with regulation 4.1 as 
+listed in paragraph 2.6 that is at least as effective in terms of SOx emission 
+reductions as compared to using a fuel oil with a sulphur content limit value 
+of 0.50% m/m ………….………………...................………………............□
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+reductions as compared to using a fuel oil with a sulphur content limit value 
+of 0.50% m/m ………….………………...................………………............□ 
+ 
+2.3.2 When the ship operates inside an emission control area specified in regulation 14.3, 
+the ship uses:  
+ 
+.1 fuel oil with a sulphur content as documented by bunker delivery notes that 
+does not exceed the limit value of 0.10% m/m, 
+and/or ……………………………………………………………………………. □  
+ 
+.2 an equivalent arrangement approved in accordance with regulation 4.1 as 
+listed in paragraph 2.6 that is at least as effective in terms of SOx emission 
+reductions as compared to using a fuel oil with a sulphur content limit value 
+of 0.10% m/m ……………………………………………………………...……□  
+ 
+2.3.3  For a ship wit hout an equivalent arrangement approved in accordance with 
+regulation 4.1 as listed in paragraph 2.6, the sulphur content of fuel oil carried for use 
+on board the ship shall not exceed 0.50% m/m as documented by bunker delivery
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+regulation 4.1 as listed in paragraph 2.6, the sulphur content of fuel oil carried for use 
+on board the ship shall not exceed 0.50% m/m as documented by bunker delivery 
+notes ……...……………………………………………………………………………….□ 
+ 
+2.3.4 The ship is fitted with designated sampling point(s) in accordance with 
+regulation 14.10 or 14.11.........................................................................................□ 
+ 
+2.3.5 In accordance with regulation 14.12, t he requirement for fitting or designating 
+sampling point(s) in accordance with regulation 14.10 or 14.11 is not applicable for a 
+fuel oil service system for a low-flashpoint fuel for combustion purposes for propulsion 
+or operation on board the ship ..…………….........………………...............................□ 
+ 
+2.4 Volatile organic compounds (VOCs) (regulation 15) 
+ 
+2.4.1 The tanker has a vapour collection system installed and approved in accordance with 
+MSC/Circ.585…………………...................………………....……....……...................□
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+2.4.1 The tanker has a vapour collection system installed and approved in accordance with 
+MSC/Circ.585…………………...................………………....……....……...................□ 
+ 
+2.4.2.1 For a tanker carrying crude oil, there is an approved VOC management 
+plan ….........................................................................................................................□ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 55 - 
+ 
+2.4.2.2 VOC management plan approval reference …………....……......................……..… 
+ 
+2.5 Shipboard incineration (regulation 16) 
+ 
+The ship has an incinerator: 
+ 
+.1 installed on or after 1 January 2000 that complies with: 
+ 
+.1  resolution MEPC.76(40), as amended …...……..................…….…□ 
+ 
+.2  resolution MEPC.244(66) … ..............……………………………….□
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.1 installed on or after 1 January 2000 that complies with: 
+ 
+.1  resolution MEPC.76(40), as amended …...……..................…….…□ 
+ 
+.2  resolution MEPC.244(66) … ..............……………………………….□ 
+ 
+.2 installed before 1 January 2000 that complies with: 
+ 
+.1 resolution MEPC.59(33), as amended ...............................………..□ 
+ 
+.2 resolution MEPC.76(40), as amended ................………….………..□ 
+ 
+2.6 Equivalents (regulation 4) 
+ 
+The ship has been allowed to use the following fitting, material, appliance or apparatus to be 
+fitted in a ship or other procedures, alternative fuel oils, or compliance methods used as an 
+alternative to that required by this Annex: 
+ 
+System or equipment Equivalent used Approval reference 
+   
+   
+   
+ 
+THIS IS TO CERTIFY that this Record is correct in all respects. 
+ 
+Issued at . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+(place of issue of the Record)
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Issued at . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+(place of issue of the Record) 
+ 
+Date (dd/mm/yyyy) . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . .  
+(date of issue) (signature of duly authorized 
+official issuing the Record) 
+ 
+(seal or stamp of the authority, as appropriate) 
+ 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 56 - 
+ 
+Appendix II 
+ 
+Test cycles and weighting factors (regulation 13) 
+ 
+The following test cycles and weighting factors shall be applied for verification of compliance 
+of marine diesel engines with the applicable NOx limit in accordance with regulation 13 of this
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+The following test cycles and weighting factors shall be applied for verification of compliance 
+of marine diesel engines with the applicable NOx limit in accordance with regulation 13 of this 
+Annex using the test procedure and calculation method as specified in the revised NO x 
+Technical Code 2008. 
+ 
+.1 For constant -speed marine engines for ship main propulsion, including 
+diesel-electric drive, test cycle E2 shall be applied. 
+ 
+.2 For controllable-pitch propeller sets test cycle E2 shall be applied. 
+ 
+.3 For propeller-law-operated m ain and propeller-law-operated auxiliary 
+engines the test cycle E3 shall be applied. 
+ 
+.4 For constant-speed auxiliary engines test cycle D2 shall be applied. 
+ 
+.5 For variable-speed, variable-load auxiliary engines, not included above, test 
+cycle C1 shall be applied. 
+ 
+Test cycle for constant-speed main propulsion application 
+(including diesel-electric drive and all controllable-pitch propeller installations) 
+ 
+ 
+Test cycle type 
+E2
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+cycle C1 shall be applied. 
+ 
+Test cycle for constant-speed main propulsion application 
+(including diesel-electric drive and all controllable-pitch propeller installations) 
+ 
+ 
+Test cycle type 
+E2 
+Speed 100% 100% 100% 100% 
+Power 100% 75% 50% 25% 
+Weighting factor 0.2 0.5 0.15 0.15 
+ 
+Test cycle for propeller-law-operated main and propeller-law-operated auxiliary engine 
+application 
+ 
+ 
+Test cycle type 
+E3 
+Speed 100% 91% 80% 63% 
+Power 100% 75% 50% 25% 
+Weighting factor 0.2 0.5 0.15 0.15 
+ 
+Test cycle for constant-speed auxiliary engine application 
+ 
+ 
+Test cycle type 
+D2 
+Speed 100% 100% 100% 100% 100% 
+Power 100% 75% 50% 25% 10% 
+Weighting factor 0.05 0.25 0.3 0.3 0.1 
+ 
+Test cycle for variable-speed and variable-load auxiliary engine application 
+ 
+ 
+Test cycle type 
+C1 
+Speed Rated Intermediate Idle 
+Torque 100% 75% 50% 10% 100% 75% 50% 0% 
+Weighting factor 0.15 0.15 0.15 0.1 0.1 0.1 0.1 0.15
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Test cycle type 
+C1 
+Speed Rated Intermediate Idle 
+Torque 100% 75% 50% 10% 100% 75% 50% 0% 
+Weighting factor 0.15 0.15 0.15 0.1 0.1 0.1 0.1 0.15 
+ 
+In the case of an engine to be certified in accordance with paragraph 5.1.1 of regulation 13, 
+the specific emission at each individual mode point shall not exceed the applicable NO x 
+emission limit value by more than 50% except as follows: 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 57 - 
+ 
+.1 The 10% mode point in the D2 test cycle. 
+.2 The 10% mode point in the C1 test cycle. 
+.3 The idle mode point in the C1 test cycle. 
+ 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 58 -
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 58 - 
+ 
+Appendix III 
+ 
+Criteria and procedures for the designation of emission control areas  
+(regulations 13.6 and 14.3) 
+ 
+1 Objectives 
+ 
+1.1 The purpose of this appendix is to provide Parties with the criteria and procedures for 
+formulating and submitting proposals for the designation of emission control areas and to set 
+forth the factors to be considered in the assessment of such proposals by the Organization. 
+ 
+1.2 Emissions of NOx, SOx and particulate matter from ocean-going ships contribute to 
+ambient concentrations of air pollution in cities and coastal areas around the world. Adverse 
+public health and environmental effects associated with air p ollution include premature 
+mortality, cardiopulmonary disease, lung cancer, chronic respiratory ailments, acidification and
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+public health and environmental effects associated with air p ollution include premature 
+mortality, cardiopulmonary disease, lung cancer, chronic respiratory ailments, acidification and 
+eutrophication. 
+ 
+1.3 An emission control area should be considered for adoption by the Organization if 
+supported by a demonstrated need to prevent, reduce and control emissions of NOx or SOx 
+and particulate matter or all three types of emissions (hereinafter emissions) from ships. 
+ 
+2 Process for the designation of emission control areas 
+ 
+2.1 A proposal to the Organization for the designation of an emission control area for NOx 
+or SOx and particulate matter or all three types of emissions may be submitted only by Parties. 
+Where two or more Parties have a common interest in a particular area, they should formulate 
+a coordinated proposal. 
+ 
+2.2 A proposal to designate a given area as an emission control area should be submitted
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+a coordinated proposal. 
+ 
+2.2 A proposal to designate a given area as an emission control area should be submitted 
+to the Organization in accordance with the rules and procedures established by the 
+Organization. 
+ 
+3 Criteria for designation of an emission control area 
+ 
+3.1 The proposal shall include: 
+ 
+.1 a clear delineation of the proposed area of application, along with a reference 
+chart on which the area is marked; 
+ 
+.2 the type or types of emission(s) that is or are being proposed for control 
+(i.e. NOx or SOx and particulate matter or all three types of emissions); 
+ 
+.3 a description of the human populations and environmental areas at risk from 
+the impacts of ship emissions; 
+ 
+.4 an assessment that emissions from ships operating in the proposed area of 
+application are contributing to ambient concentrations of air pollution or to 
+adverse environmental impacts.  Such assessment shall include a
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+application are contributing to ambient concentrations of air pollution or to 
+adverse environmental impacts.  Such assessment shall include a 
+description of the impacts of the relevant emissions on human health and the 
+environment, such as adverse impacts on terrestrial and aquatic 
+ecosystems, areas of natural productivity, critical habitats, water quality, 
+human health, and areas of cultural and scientific significance, if applicable. 
+The sources of relevant data including methodologies used shall be 
+identified; 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 59 - 
+ 
+.5 relevant information, pertaining to the meteorological conditions in the 
+proposed area of application, to the human populations and environmental 
+areas at risk, in particular prevailing wind patterns, or to topographical,
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+proposed area of application, to the human populations and environmental 
+areas at risk, in particular prevailing wind patterns, or to topographical, 
+geological, oceanographic, morphological or other conditions that contribute 
+to ambient concentrations of air pollution or adverse environmental impacts; 
+ 
+.6 the nature of the ship traffic in the proposed emission control area, including 
+the patterns and density of such traffic; 
+ 
+.7 a description of the control measures taken by the proposing Party or Parties 
+addressing land-based sources of NO x, SO x and particulate matter 
+emissions affecting the human populations and environmental areas at risk 
+that are in place and operating concurrently with the consideration of 
+measures to be adopted in relation to provisions of regulations 13 and 14 of 
+Annex VI; and 
+ 
+.8 the relative costs of reducing emissions from ships when compared with 
+land-based controls, and the economic impacts on shipping engaged in 
+international trade.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Annex VI; and 
+ 
+.8 the relative costs of reducing emissions from ships when compared with 
+land-based controls, and the economic impacts on shipping engaged in 
+international trade. 
+ 
+3.2 The geographical limits of an emission control area will be based on the relevant 
+criteria outlined above, including  emissions and deposition from ships navigating in the 
+proposed area, traffic patterns and density, and wind conditions. 
+ 
+4 Procedures for the assessment and adoption of emission control areas by the 
+Organization 
+ 
+4.1 The Organization shall consider each proposal submitted to it by a Party or Parties. 
+ 
+4.2 In assessing the proposal, the Organization shall take into account the criteria that 
+are to be included in each proposal for adoption as set forth in section 3 above. 
+ 
+4.3 An emission control area shall be designated by means of an amendment to this 
+Annex, considered, adopted and brought into force in accordance with article 16 of the present 
+Convention.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+4.3 An emission control area shall be designated by means of an amendment to this 
+Annex, considered, adopted and brought into force in accordance with article 16 of the present 
+Convention. 
+ 
+5 Operation of emission control areas 
+ 
+5.1 Parties that have ships navigatin g in the area are encouraged to bring to the 
+Organization any concerns regarding the operation of the area. 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 60 - 
+ 
+Appendix IV 
+ 
+Type approval and operating limits for shipboard incinerators (regulation 16) 
+ 
+1 Shipboard incinerators described in regulation 16.6.1 shall possess an IMO Type 
+Approval Certificate for each incinerator. In order to obtain such certificate, the incinerator shall 
+be designed and built to an approved standard as described in regulation 16.6.1. Each model
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Approval Certificate for each incinerator. In order to obtain such certificate, the incinerator shall 
+be designed and built to an approved standard as described in regulation 16.6.1. Each model 
+shall be subject to a specified type approval test operation at the factory or an approved test 
+facility, and under the responsibility of the Administration, using the following standard 
+fuel/waste specification for the type approval test for determining whether the incinerator 
+operates within the limits specified in paragraph 2 of this appendix: 
+ 
+Sludge oil consisting of: 75% sludge oil from heavy fuel oil (HFO); 
+5% waste lubricating oil; and  
+20% `emulsified water. 
+ 
+Solid waste consisting of: 50% food waste; 
+50% rubbish containing: 
+approx.  30% paper, 
+   " 40% cardboard, 
+   " 10% rags, 
+   " 20% plastic. 
+ 
+ The mixture will have up to 50% moisture and  
+7% incombustible solids. 
+ 
+2 Incinerators described in regulation 16.6.1 shall operate within the following limits:
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+" 20% plastic. 
+ 
+ The mixture will have up to 50% moisture and  
+7% incombustible solids. 
+ 
+2 Incinerators described in regulation 16.6.1 shall operate within the following limits:  
+ 
+O2 in combustion chamber: 
+ 
+6 -12% 
+CO in flue gas maximum average: 
+ 
+200 mg/MJ 
+Soot number maximum average: Bacharach 3 or Ringelmann 1 
+(20% opacity) (a higher soot number is 
+acceptable only during very short periods 
+such as starting up) 
+ 
+Unburned components in ash residues: 
+ 
+Maximum 10% by weight 
+Combustion chamber flue gas outlet 
+temperature range:  
+850 -1200°C 
+ 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 61 - 
+ 
+Appendix V 
+ 
+Information to be included in the bunker delivery note (regulation 18.5) 
+ 
+1 Name and IMO number of receiving ship  
+ 
+2 Port 
+ 
+3 Date of commencement of delivery
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Appendix V 
+ 
+Information to be included in the bunker delivery note (regulation 18.5) 
+ 
+1 Name and IMO number of receiving ship  
+ 
+2 Port 
+ 
+3 Date of commencement of delivery 
+ 
+4 Name, address and telephone number of marine fuel oil supplier  
+ 
+5 Product name(s) 
+ 
+6 Quantity in metric tonnes  
+ 
+7 Density at 15°C (kg/m3) 
+ 
+8 Sulphur content (% m/m) 
+ 
+9 A declaration signed and certified by the fuel oil supplier's representative that the fuel 
+oil supplied is in conformity with regulation 18.3 of this Annex and that the sulphur 
+content of the fuel oil supplied does not exceed:  
+ 
+□ the limit value given by regulation 14.1 of this Annex;  
+ 
+□ the limit value given by regulation 14.4 of this Annex; or  
+ 
+□ the purchaser's specified limit value of _____ (% m/m), as completed by the 
+fuel oil supplier 's representative and on the basis of the purchaser 's 
+notification that the fuel oil:  
+ 
+.1 is intended to be used in combinat ion with an equivalent means of
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+fuel oil supplier 's representative and on the basis of the purchaser 's 
+notification that the fuel oil:  
+ 
+.1 is intended to be used in combinat ion with an equivalent means of 
+compliance in accordance with regulation 4 of this Annex; or  
+ 
+.2 is subject to a relevant exemption for a ship to conduct trials for 
+sulphur oxides emission reduction and control technology research 
+in accordance with regulation 3.2 of this Annex.  
+ 
+The declaration shall be completed by the fuel oil supplier's representative by marking 
+the applicable box(es) with a cross (x). 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 62 - 
+ 
+Appendix VI 
+ 
+Verification procedures for a MARPOL Annex VI fuel oil sa mple (regulation 18.8.2 or 
+regulation 14.8)
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 62 - 
+ 
+Appendix VI 
+ 
+Verification procedures for a MARPOL Annex VI fuel oil sa mple (regulation 18.8.2 or 
+regulation 14.8) 
+ 
+The following relevant verification procedure shall be used to determine whether the fuel oil 
+delivered to, in use or carried for use on board a ship has met the applicable sulphur limit of 
+regulation 14 of this Annex. 
+ 
+This appendix refers to the following representative MARPOL Annex VI fuel oil samples: 
+ 
+Part 1 – sample of fuel oil delivered in accordance with regulation 18.8.1, hereafter 
+referred to as the "MARPOL delivered sample" as defined in regulation 2.1.22. 
+ 
+Part 2 – sample of fuel oil in use, intended to be used or carried for use on board in 
+accordance with regulation 14.8, hereafter referred to as the "in-use sample " as 
+defined in regulation 2.1.16 and "onboard sample" as defined in regulation 2.1.24. 
+ 
+Part 1 – MARPOL delivered sample  
+ 
+1 General Requirements
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+defined in regulation 2.1.16 and "onboard sample" as defined in regulation 2.1.24. 
+ 
+Part 1 – MARPOL delivered sample  
+ 
+1 General Requirements 
+ 
+1.1 The representative sample of the fuel oil, which is required by regulation  18.8.1 (the 
+MARPOL delivered sample), shall be used to verify the sulphur content of the fuel oil delivered 
+to a ship. 
+ 
+1.2 A Party, through its competent authority, shall manage the verification procedure. 
+ 
+1.3  A laboratory undertaking the sulphur testing procedure given in this appendix shall 
+have valid accreditation in respect of the test method to be used.  
+ 
+2 Verification Procedure Part 1  
+ 
+2.1 The MARPOL delivered sample shall be conveyed by the competent authority to the 
+laboratory.  
+ 
+2.2 The laboratory shall:  
+ 
+.1 record the details of the seal number and the sample label on the test record;  
+ 
+.2 record the condition of the seal of the sample as received on the test record; 
 and
 
 ---CHUNK---
 
-SOURCE: A.1069(28).pdf
-(b) the efforts of those who have contributed towards resolving cases involving 
-ships that had been hijacked and seafarers who had been held hostage; 
+SOURCE: MEPC.328%2876%29.pdf
+.1 record the details of the seal number and the sample label on the test record;  
+ 
+.2 record the condition of the seal of the sample as received on the test record; 
+and  
+ 
+.3 reject any sample where the seal has been broken prior to receipt and record 
+that rejection on the test record.  
+ 
+2.3 If the seal of the sample as received has not been broken, the laboratory shall proceed 
+with the verification procedure and shall:  
+ 
+.1  unseal the sample;  
+ 
+.2 ensure that the sample is thoroughly homogenized;  
+ 
+.3  draw two subsamples from the sample; and  
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 63 - 
+ 
+.4  reseal the sample and record the new reseal details on the test record. 
+ 
+2.4 The two subsamples shall be tested in succession, in accordance with the spe cified
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.4  reseal the sample and record the new reseal details on the test record. 
+ 
+2.4 The two subsamples shall be tested in succession, in accordance with the spe cified 
+test method referred to in regulation 2.1.30 of this Annex. For the purposes of this Part 1 
+verification procedure, the results of the test analysis shall be referred to as '1A' and '1B': 
+ 
+.1 results 1A and 1B shall be recorded on the test record in  accordance with 
+the requirements of the test method; and 
+ 
+.2  if the results of 1A and 1B are within the repeatability (r) of the test method, 
+the results shall be considered valid; or 
+ 
+.3  if the results 1A and 1B are not within the repeatability (r) of the test method, 
+both results shall be rejected and two new subsamples shall be taken by 
+the laboratory and tested. The sample bottle shall be  resealed in 
+accordance with paragraph 2.3.4 after the new subsamples have been 
+taken;
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+the laboratory and tested. The sample bottle shall be  resealed in 
+accordance with paragraph 2.3.4 after the new subsamples have been 
+taken; 
+ 
+.4  in the case of two failures to achieve repeatability between 1A and 1B, the 
+cause of that failure shall be investigated by the laboratory and resolved 
+before further testing of the sample is undertaken. On resolution of that 
+repeatability issue, two new subsamples shall be taken in accordance with 
+paragraph 2.3. The sample shall be resealed in accordance with 
+paragraph 2.3.4 after the new subsamples have been taken. 
+ 
+2.5  If the test results of 1A and 1B are valid, an average of these two results shall be 
+calculated. The average value shall be referred to as 'X' and shall be recorded on the test 
+record: 
+ 
+.1 if the result X is equal to or less than the applicable limit required by 
+regulation 14, the fuel oil shall be considered to have met the requirement; 
+or
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+record: 
+ 
+.1 if the result X is equal to or less than the applicable limit required by 
+regulation 14, the fuel oil shall be considered to have met the requirement; 
+or 
+ 
+.2  if the result X is greater than the applicable limit required by regulation 14, 
+the fuel oil shall be considered to have not met the requirement. 
+ 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 64 - 
+ 
+Table 1: Summary of Part 1 MARPOL delivered sample procedure 
+ 
+On the basis of the test method referred to in regulation 2.1.30 of this Annex 
+Applicable limit % m/m: V Result 2.5.1: X ≤ V 
+ 
+Result 2.5.2: X > V 
+0.10 Met the requirement Not met the requirement 
+0.50 
+ Result X reported to 2 decimal places 
+ 
+2.6 The final results obtained from this verification procedure shall be evaluated by the 
+competent authority.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+0.50 
+ Result X reported to 2 decimal places 
+ 
+2.6 The final results obtained from this verification procedure shall be evaluated by the 
+competent authority. 
+ 
+2.7 The laboratory shall provide a copy of the test record to the competent authority 
+managing the verification procedure. 
+ 
+Part 2 – In-use and onboard samples  
+ 
+3 General Requirements 
+ 
+3.1 The in-use or onboard sample, as appropriate, shall be used to verify the sulphur 
+content of the fuel oil as represented by that sample of fuel oil at the point of sampling. 
+ 
+3.2 A Party, through its competent authority, shall manage the verification procedure. 
+ 
+3.3 A laboratory undertaking the sulphur testing procedure given in this appendix shall 
+have valid accreditation in respect of the test method to be used. 
+ 
+4 Verification Procedure Part 2 
+ 
+4.1 The in-use or onboard sample shall be conveyed by the competent authority to the 
+laboratory. 
+ 
+4.2  The laboratory shall:
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+4 Verification Procedure Part 2 
+ 
+4.1 The in-use or onboard sample shall be conveyed by the competent authority to the 
+laboratory. 
+ 
+4.2  The laboratory shall: 
+ 
+.1 record the details of the seal number and the sample label on the test record; 
+ 
+.2 record the condition of the seal of the sample as received on the test record; 
 and 
  
-(c) the financial contributions made to the IMO West and Central Africa 
-Maritime Security Trust Fund,  the in-kind contributions made to further the 
-implementation of the Memorandum of Understanding on the establishment 
-of a subregional integrated coast guard network in west and central Africa 
-and the Code of Conduct concerning the repression of piracy, armed 
-robbery against ships and illicit maritime activity in west and central Africa 
-and the work done by the Secretary-General and the Secretariat towards 
-the implementation of the provisions therein; 
+.3 reject any sample where the seal has been broken prior to receipt and record 
+that rejection on the test record. 
  
-8 REQUESTS Governments to instruct national rescue coordination centres, 
-information-sharing centres or other agencies involved on receipt of a report of an attack, to 
-promptly initiate the transmission 3 of relevant advice and warnings (through the World-Wide
+4.3  If the seal of the sample as received has not been broken, the laboratory shall 
+proceed with the verification procedure and shall: 
+ 
+.1 unseal the sample; 
+ 
+.2 ensure that the sample is thoroughly homogenized; 
+ 
+.3 draw two subsamples from the sample; and 
+ 
+.4 reseal the sample and record the new reseal details on the test record. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
 
 ---CHUNK---
 
-SOURCE: A.1069(28).pdf
-information-sharing centres or other agencies involved on receipt of a report of an attack, to 
-promptly initiate the transmission 3 of relevant advice and warnings (through the World-Wide 
-Navigation Warning Service; the International SafetyNet Service; or any other appropriate 
-means) to ships sailing in the Gulf of Guinea, so as to warn shipping in the immediate area of 
-the attack; 
- 
-9 CALLS UPON Governments, in cooperation with the Organization and as may be 
-requested by Governments of the region, to assist these efforts and to consider making 
-financial contributions to the IMO West and Central Africa Maritime Security Trust Fund; 
- 
-10 REQUESTS the Secretary-General to: 
- 
-(a) transmit a copy of the present resolution to the Secretary-General of the 
-United Nations for consideration and any further action he may deem 
-appropriate; and to express to him, and through him to the Security Council, 
-the gratitude and appreciation of the Organization for the actions he and the
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-appropriate; and to express to him, and through him to the Security Council, 
-the gratitude and appreciation of the Organization for the actions he and the 
-Security Council have taken on this issue to date; 
- 
-(b) continue monitoring the situation in relation to threats to ships sailing in the 
-Gulf of Guinea and report to the Council, the Maritime Safety Committee, 
-the Legal Committee, the Technical Cooperation Committee and the 
-Facilitation Committee, as and when appropriate, on developments and any 
-further actions that may be required; 
- 
-                                                
-3  Resolution MSC.305(87) on Guidelines on operational procedures for the promulgation of Maritime Safety 
-Information concerning acts of piracy and piracy countermeasure operations. 
-Resolution A.1069(28) 
-Adopted on 29 November 2013  (Agenda item 7) 
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEAA 28/Res.1069
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-Adopted on 29 November 2013  (Agenda item 7) 
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEAA 28/Res.1069 
-Page 6 
- 
-I:\ASSEMBLY\28\RES\1069.doc 
-(c)  continue to consult with interested Governments and organizations in 
-establishing a process and means by which technical assistance can be 
-provided for the coastal States of the Gulf of Guinea to enhance their 
-capacity in order to give effect to the present resolution, as appropriate;  
- 
-(d) continue the efforts of the Organization to contribute to an effective 
-response to acts and attempted acts of piracy, armed robbery against ships 
-and illicit maritime activity, in particular in the Gulf of Guinea, including by 
-promoting cooperation, coordination and avoidance of duplication of efforts 
-among the States and organizations that provide or seek to provide 
-assistance to the States in the region;
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-promoting cooperation, coordination and avoidance of duplication of efforts 
-among the States and organizations that provide or seek to provide 
-assistance to the States in the region;  
- 
-(e)  continue the efforts of the Organization to assist States which have signed 
-or contemplate signing the Memorandum of Understanding on the 
-establishment of a subregional integrated coast guard network in west and 
-central Africa and the Code of Conduct concerning the repression of piracy, 
-armed robbery against ships and illicit maritime activity in west and central 
-Africa in ensuring, as soon as possible, the complete and effective 
-implementation of the provisions therein; and 
- 
-(f) undertake, as and when necessary, any other actions which would promote 
-the implementation of the provisions of this resolution or would be 
-conducive to the efforts of those seeking to implement its provisions; 
- 
-11 REQUESTS the Maritime Safety Committee to review the provisions of this
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-conducive to the efforts of those seeking to implement its provisions; 
- 
-11 REQUESTS the Maritime Safety Committee to review the provisions of this 
-resolution as well as any salient provisions of related resolutions which have been or may be 
-adopted by the Security Council in this respect and to develop, where and when necessary, 
-guidance and recommendations so as to enable Member Governments and the shipping 
-industry to implement its provisions, taking into account current and emerging trends and 
-practices; 
- 
-12 REQUESTS the Legal Committee, the Technical Cooperation Committee and the 
-Facilitation Committee to assist, as appropriate, the Maritime Safety Committee in pursuing 
-the objectives of this resolution; 
- 
-13 REQUESTS ALSO the Council to continue to monitor the situation in relation to acts 
-and attempted acts of piracy and armed robbery against ships, illicit maritime activity and
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-13 REQUESTS ALSO the Council to continue to monitor the situation in relation to acts 
-and attempted acts of piracy and armed robbery against ships, illicit maritime activity and 
-threats to ships sailing in the Gulf of Guinea; and to initiate any actions which it may deem 
-necessary, including coordinating the work of the competent Committees of the Organization 
-to ensure the protection of seafarers and ships sailing in those waters and to ensure 
-appropriate cooperation with other organizations and entities tasked with relevant activities. 
- 
- 
-___________ 
-Resolution A.1069(28) 
-Adopted on 29 November 2013  (Agenda item 7) 
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEAResolution A.1069(28) 
-Adopted on 29 November 2013  (Agenda item 7) 
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEA
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-RESOLUTION MEPC.349(78)  (adopted on 10 June 2022)  
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT 
- OF THE IMO SHIP FUEL OIL CONSUMPTION DATABASE  MEPC 78/17/Add.1 
-Annex 11, page 1 
- 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-ANNEX 11 
- 
-RESOLUTION MEPC.349(78) 
-(adopted on 10 June 2022) 
- 
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT OF THE IMO SHIP 
-FUEL OIL CONSUMPTION DATABASE  
- 
-THE MARINE ENVIRONMENT PROTECTION COMMITTEE,  
- 
-RECALLING Article 38(a) of the Convention on the International Maritime Organization 
-concerning the functions of the Marine Environment Protection Committee (the Committee) 
-conferred upon it by international conventions for the prevention and control of marine pollution 
-from ships, 
- 
-NOTING that the Committee, at its seventy -sixth session , adopted, by resolution 
-MEPC.328(76), the 2021 Revised MARPOL Annex VI , which will enter into force on 1 
-November 2022, 
- 
-NOTING IN PARTICULAR that the 2021 Revised MARPOL Annex VI  (MARPOL Annex VI)
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-MEPC.328(76), the 2021 Revised MARPOL Annex VI , which will enter into force on 1 
-November 2022, 
- 
-NOTING IN PARTICULAR that the 2021 Revised MARPOL Annex VI  (MARPOL Annex VI) 
-contains amendments concerning mandatory goal-based technical and operational measures 
-to reduce carbon intensity of international shipping, 
- 
-NOTING ALSO that regulation 27.12 of MARPOL Annex VI specifies that the 
-Secretary-General of the Organization shall maintain an anonymized database such that 
-identification of a specific ship will not be possible, 
- 
-NOTING FURTHER that regulation 27.13 of MARPOL Annex VI requires that the IMO Ship 
-Fuel Oil Consumption Database be undertaken and managed by the Secretary-General of the 
-Organization, pursuant to guidelines developed by the Organization, 
- 
-RECOGNIZING that the aforementioned amendments to MARPOL Annex VI require relevant 
-guidelines for uniform and effective implementation of the regulations and to provide sufficient
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-RECOGNIZING that the aforementioned amendments to MARPOL Annex VI require relevant 
-guidelines for uniform and effective implementation of the regulations and to provide sufficient 
-lead time for industry to prepare, 
- 
-NOTING that the Committee, at its seventy -first session, adopted, by resolution 
-MEPC.293(71), the 2017 Guidelines the development and management of the IMO Ship Fuel 
-Oil Consumption Database, 
- 
-HAVING CONSIDERED, at its seventy -eighth session, draft 2022 Guidelines for the 
-development and management of the IMO Ship Fuel Oil Consumption Database, 
- 
-1 ADOPTS the 2022 Guidelines for the development and management of the IMO Ship 
-Fuel Oil Consumption Database, as set out in the annex to the present resolution; 
- 
-2 INVITES Administrations to take the annexed Guidelines into account when 
-developing and enacting national laws which give force to and implement requirements set 
-forth in regulation 27 of MARPOL Annex VI;
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-developing and enacting national laws which give force to and implement requirements set 
-forth in regulation 27 of MARPOL Annex VI; 
- 
-RESOLUTION MEPC.349(78)  (adopted on 10 June 2022)  
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT 
- OF THE IMO SHIP FUEL OIL CONSUMPTION DATABASE  MEPC 78/17/Add.1 
-Annex 11, page 2 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-3 REQUESTS the Parties to MARPOL Annex VI and other Member Governments to 
-bring the annexed Guidelines to the attention of masters, sea farers, shipowners, ship 
-operators and any other interested parties; 
- 
-4 AGREES to keep the Guidelines under review in light of experience gained with their 
-implementation, also taking into consideration that in accordance with regulations 25.3 
-and 28.11 of MARPOL Annex VI a review of the technical and operational measures to reduce 
-carbon intensity of international shipping shall be completed by 1 January 2026; 
- 
-5 REVOKES the 2017 Guidelines the development and management of the IMO Ship
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-carbon intensity of international shipping shall be completed by 1 January 2026; 
- 
-5 REVOKES the 2017 Guidelines the development and management of the IMO Ship 
-Fuel Oil Consumption Database adopted by resolution MEPC.293(71). 
-  
-RESOLUTION MEPC.349(78)  (adopted on 10 June 2022)  
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT 
- OF THE IMO SHIP FUEL OIL CONSUMPTION DATABASE  MEPC 78/17/Add.1 
-Annex 11, page 3 
- 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-ANNEX 
- 
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT OF THE  
-IMO SHIP FUEL OIL CONSUMPTION DATABASE 
- 
-1 INTRODUCTION 
- 
-1.1 These Guidelines provide guidance on the development and management of the IMO 
-Ship Fuel Oil Consumption Database (hereafter "the database"), and describe methods that 
-will be used to anonymize ship data for use by Parties, in accordance with regulation 27 of 
-MARPOL Annex VI, and to ensure the completeness of the database.
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-will be used to anonymize ship data for use by Parties, in accordance with regulation 27 of 
-MARPOL Annex VI, and to ensure the completeness of the database. 
- 
-1.2 In general, the purpose of the database is to provide data for establishing annual CO2 
-emissions from ships and support consideration of further measures for reducing carbon 
-intensity of international shipping. 
- 
-1.3 With regard to data confidentiality, regulation 27.12 stipulates that 
-"The Secretary-General of the Organization shall maintain an anonymized database such that 
-identification of a specific ship will not be possible. Parties shall have access to the anonymized 
-data strictly for their analysis and consideration. " These Guidelines balance data 
-anonymization with the usability of data for analysis by the Parties and Organization.  
- 
-1.4 Regulation 27.13 states that "The IMO Ship Fuel Oil Consumption Database shall be
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-anonymization with the usability of data for analysis by the Parties and Organization.  
- 
-1.4 Regulation 27.13 states that "The IMO Ship Fuel Oil Consumption Database shall be 
-undertaken and managed by the Secretary-General of the Organization, pursuant to guidelines 
-to be developed by the Organization. " With regard to the establishment of the database and 
-for data visualization, it will be developed as a module within the Global Integrated Shipping 
-Information System (GISIS) platform and associated web application, as necessary, with the 
-integrated IMO Web Accounts framework utilized to manage secure access to the module.  
- 
-2 DEFINITIONS 
- 
-For the purpose of these Guidelines, the definitions in MARPOL Annex VI apply. 
- 
-3 DATA ANONYMIZATION 
- 
-Pursuant to regulation 27.12 of MARPOL Annex VI, the data are to be anonymized such that 
-identification of a specific ship will not be possible. For the purpose of the anonymization of the
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-Pursuant to regulation 27.12 of MARPOL Annex VI, the data are to be anonymized such that 
-identification of a specific ship will not be possible. For the purpose of the anonymization of the 
-fuel oil consumption data, the following should apply for the database: 
- 
-.1 the IMO number and ship flag should not be shown; 
- 
-.2 gross tonnage (GT), net  tonnage (NT), deadweight tonnage (DWT) and 
-power output (rated power) should be rounded to two significant digits, for 
-example, a ship tonnage of 167,430 GT should be shown as 170,000 GT;  
- 
-.3 attained EEDI and attained EEXI should be rounded to two decimal places; 
- 
-.4 required annual operational CII (AER or cgDIST), attained annual 
-operational CII (AER or cgDIST), attained annual operational CII (AER or 
-cgDIST) before any correction and operational carbon intensity indicators for 
-trial purpose on voluntary basis (e.g. EEPI, cbDIST, clDIST and EEOI) 1 
-should be rounded to one decimal place;
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-cgDIST) before any correction and operational carbon intensity indicators for 
-trial purpose on voluntary basis (e.g. EEPI, cbDIST, clDIST and EEOI) 1 
-should be rounded to one decimal place; 
- 
-1  Refer to 2022 Guidelines on operational carbon intensity indicators and the calculation methods (CII 
-guidelines, G1) (resolution MEPC.352(78)). 
-RESOLUTION MEPC.349(78)  (adopted on 10 June 2022)  
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT 
- OF THE IMO SHIP FUEL OIL CONSUMPTION DATABASE  MEPC 78/17/Add.1 
-Annex 11, page 4 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-.5 the annual data of fuel oil consumption, distance travelled and hours under 
-way should be provided in full without modification; 
- 
-.6 ship types other than those defined in regulation 2 should be shown as 
-"others"; and 
- 
-.7 ice class should be shown as "Yes" or "No". 
- 
-4 DATA SUBMISSION AND ACCESS  
- 
-4.1 An Administration should be able to log in to the online database to submit its data
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-"others"; and 
- 
-.7 ice class should be shown as "Yes" or "No". 
- 
-4 DATA SUBMISSION AND ACCESS  
- 
-4.1 An Administration should be able to log in to the online database to submit its data 
-via an online form. The data input into the database should be checked by the database system 
-to ensure that the data are being submitted in the standardized format and be cross-referenced 
-with the data from the Ship Particulars module of GISIS. 
- 
-4.2 The Administration should designate a contact person for the purposes of the 
-database who is responsible for communication with the Secretariat if any matter arises with 
-regard to the submission of data by the respective Administration. 
- 
-4.3 To encoura ge the consistent submission of data and improve the usability of the 
-database, automatic notifications and reminders concerning data submission, modification and 
-database update could be incorporated as features in the database.
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-database, automatic notifications and reminders concerning data submission, modification and 
-database update could be incorporated as features in the database. 
- 
-4.4 An Administration wil l have access to non -anonymized data of ships flying its flag. 
-Furthermore, the Administration of a ship, to which regulation 28 of MARPOL Annex VI applies, 
-will have access to all reported data for the preceding calendar year for that ship regardless of 
-flag history. 
- 
-4.5 An Administration should be able to log in to the online database to download the 
-anonymized dataset. 
- 
-5 MEASURES TO ENSURE THE COMPLETENESS OF THE DATABASE 
- 
-In accordance with the requirements of regulation 27.10 of MARPOL Annex VI concerning 
-reporting of the status of missing data, the Secretary-General should: 
- 
-.1 at the beginning of each calendar year, produce a list of ships falling under 
-the scope of regulation 27 by cross-referencing with the data from the Ship 
-Particulars module of GISIS;
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-.1 at the beginning of each calendar year, produce a list of ships falling under 
-the scope of regulation 27 by cross-referencing with the data from the Ship 
-Particulars module of GISIS; 
- 
-.2 send the aforementioned list of ships to the Administration for reference, 
-in order to receive feedback in case of any discrepancies; 
- 
-.3 check the completeness of the database by comparing the list produced 
-under .1 with the reported data; 
- 
-.4 remind Administrations which have failed to submit the data in the required 
-form; 
- 
-.5 report the status of missing data to the Committee on an annual basis; and 
- 
-.6 request no n-reporting Administrations to submit the data of all their 
-registered ships falling under the scope of regulation 27. 
- 
-RESOLUTION MEPC.349(78)  (adopted on 10 June 2022)  
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT 
- OF THE IMO SHIP FUEL OIL CONSUMPTION DATABASE  MEPC 78/17/Add.1 
-Annex 11, page 5 
- 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT 
- OF THE IMO SHIP FUEL OIL CONSUMPTION DATABASE  MEPC 78/17/Add.1 
-Annex 11, page 5 
- 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-6 ANNUAL REPORT TO THE MARINE ENVIRONMENT PROTECTION COMMITTEE 
- 
-Regulation 27.10 states that "the Secretary -General of the Organization shall produce an 
-annual report to the Marine Environment Protection Committee summarizing the data collected, 
-the status of missing data, and such other relevant information as may be requested by the 
-Committee." At a minimum, each annual report should include the following and also any other 
-information as requested by the Committee:  
- 
-.1 an aggregated annual amount of each type of fuel oil consumed by all ships 
-of 5,000 GT and above engaged on international voyages; 
- 
-.2 the aggregated annual amount of each type of fuel oil consumed, distance 
-travelled and hours under way for ships of 5,000 GT and above engaged on
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-.2 the aggregated annual amount of each type of fuel oil consumed, distance 
-travelled and hours under way for ships of 5,000 GT and above engaged on 
-international voyages, by ship type and size category as defined in MARPOL 
-Annex VI2, including the "other" category for ships not defined in MARPOL 
-Annex VI regulation 2; 
-  
-.3 the number of ships of 5,000 GT and above engaged on international 
-voyages reported to the database, by ship type and size category as defined 
-in MARPOL Annex VI 2. including the "other" category for ships not defined 
-in MARPOL Annex VI regulation 2; 
- 
-.4 the number of ships of 5,000 GT and above engaged on international 
-voyages registered with the Party of Annex VI for which data was not 
-received, by ship type and size category as defined in MARPOL Annex VI2, 
-including the "other" category for ships not defined in MARPOL Annex VI 
-regulation 2; and 
- 
-.5 the annual development in operational carbon intensity of the ship types and
-
----CHUNK---
-
-SOURCE: MEPC.349(78).pdf
-including the "other" category for ships not defined in MARPOL Annex VI 
-regulation 2; and 
- 
-.5 the annual development in operational carbon intensity of the ship types and 
-international shipping, as well as the uncertainties in the data and results, 
-using both demand -based measurement and supply -based measurement, 
-as stated in paragraph 1.5 of the 2021 Guidelines on the operational carbon 
-intensity reduction factors relative to reference lines (CII reduction factors 
-guidelines, G3). 
- 
- 
-***
- 
-2  In order to facilitate year-over-year comparison, the Secretariat may also consider using ship type and size 
-categories as used in the Fourth IMO GHG Study 2020, as appropriate. 
-RESOLUTION MEPC.349(78)  (adopted on 10 June 2022)  
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT 
- OF THE IMO SHIP FUEL OIL CONSUMPTION DATABASE  RESOLUTION MEPC.349(78)  (adopted on 10 June 2022)  
-2022 GUIDELINES FOR THE DEVELOPMENT AND MANAGEMENT 
- OF THE IMO SHIP FUEL OIL CONSUMPTION DATABASE
-
----CHUNK---
-
-SOURCE: A.1114(30).pdf
-Resolution A.1114(30)  Adopted on 6 December 2017 
-PRESENTATION OF ACCOUNTS AND AUDIT REPORTI:\ASSEMBLY\30\RES\A 30-RES.1114.docx 
-E
-ASSEMBLY 
-30th session  
-Agenda item 16(b) 
-A 30/Res.1114 
-18 December 2017 
-Original: ENGLISH 
-Resolution A.1114(30) 
-Adopted on 6 December 2017 
-(Agenda item 16(b)) 
-PRESENTATION OF ACCOUNTS AND AUDIT REPORT 
-THE ASSEMBLY, 
-RECALLING that regulation 12.10 of the Financial Regulations of the Organization provides 
-for the transmission, through the Council, of the External Auditor's reports, together with the 
-audited financial statements, to the Assembly, 
-NOTING the Secretary-General's presentation of the financial statements for the financial year 
-ended 31 December 2015, together with the External Auditor's report and opinion thereon, 
-NOTING ALSO the Secretary-General's presentation of the financial statements for the 
-financial year ended 31 December 2016, together with the External Auditor's report and opinion 
-thereon,
-
----CHUNK---
-
-SOURCE: A.1114(30).pdf
-NOTING ALSO the Secretary-General's presentation of the financial statements for the 
-financial year ended 31 December 2016, together with the External Auditor's report and opinion 
-thereon, 
-BEARING IN MIND that the Council, at its 116th and 118th sessions, approved these accounts 
-and audit reports for transmission to the Assembly at its present regular session,  
-1 APPROVES the audited financial statements for the financial year 
-ended 31 December 2015;  
-2 APPROVES the audited financial statements for the financial year 
-ended 31 December 2016; 
-3 EXPRESSES APPRECIATION for the unqualified reports issued by the External 
-Auditor in relation to the aforementioned financial statements. 
-___________ 
-Resolution A.1114(30)  Adopted on 6 December 2017 
-PRESENTATION OF ACCOUNTS AND AUDIT REPORTResolution A.1114(30)  Adopted on 6 December 2017 
-PRESENTATION OF ACCOUNTS AND AUDIT REPORT
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-MEPC RESOLUTION MEPC.362(79) (adopted on 16 December 2022) 
-AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE INTERNATIONAL CONVENTION  
-FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO 
-MEPC RESOLUTION MEPC.362(79) 
-(adopted on 16 December 2022) 
-AMEN
-DMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+SOURCE: MEPC.328%2876%29.pdf
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
 INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
-1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO 
-Ame
-ndments to MARPOL Annex VI (Regional reception facilities within Arctic waters, 
-information to be included in the bunker delivery note (BDN) and information to be 
-submitted to the IMO Ship Fuel Oil Consumption Database) 
-THE M
-ARINE ENVIRONMENT PROTECTION COMMITTEE, 
-REC
-ALLING Article 38(a) of the Convention on the International Maritime Organization 
-concerning the functions of the Marine Environment Protection Committee conferred upon it
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-REC
-ALLING Article 38(a) of the Convention on the International Maritime Organization 
-concerning the functions of the Marine Environment Protection Committee conferred upon it 
-by international conventions for the prevention and control of marine pollution from ships, 
-REC
-ALLING ALSO article 16 of the International Convention for the Prevention of Pollution 
-from Ships, 1973, as modified by the Protocols of 1978 and 1997 relating thereto (MARPOL), 
-which specifies the amendment procedure and confers upon the appropriate body of the 
-Organization the function of considering amendments thereto for adoption by the Parties, 
-HAV
-ING CONSIDERED, at its seventy -ninth session, proposed amendments to 
-MARPOL Annex VI concerning regional reception facilities within Arctic waters, information to 
-be included in the bunker delivery note (BDN) and information to be submitted to the IMO Ship 
-Fuel Oil Consumption Database, which were circulated in accordance with article 16(2)(a) of 
-MARPOL,
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-be included in the bunker delivery note (BDN) and information to be submitted to the IMO Ship 
-Fuel Oil Consumption Database, which were circulated in accordance with article 16(2)(a) of 
-MARPOL, 
-1 AD
-OPTS, in accordance with article 16(2)(d) of MARPOL, amendments to MARPOL 
-Annex VI, the text of which is set out in the annex to the present resolution; 
-2 DE
-TERMINES, in accordance with article 16(2)(f)(iii) of MARPOL, that  the 
-amendments shall be deemed to have been accepted on 1 November 2023 unless prior to 
-that date, not less than one- third of the Parties or Parties, the combined merchant fleets of 
-which constitute not less than 50% of the gross tonnage of the world's merchant fleet, have 
-communicated to the Organization their objection to the amendments; 
-3 IN
-VITES the Parties to note that, in accordance with article 16(2)(g)(ii) of  MARPOL, 
-the said amendments shall enter into force on 1 May 2024 upon their acceptance in 
-accordance with paragraph 2 above; 
-4 ALSO
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-the said amendments shall enter into force on 1 May 2024 upon their acceptance in 
-accordance with paragraph 2 above; 
-4 ALSO
- INVITES the Parties to consider the early application of the amendments to 
-appendix IX with regard to information to be submitted to the IMO Ship Fuel Oil Consumption 
-Database from 1 January 2024. 
-5 REQ
-UESTS the Secretary-General, for the purposes of article 16(2)(e) of MARPOL, 
-to transmit certified copies of the present resolution and the text of the amendments contained 
-in the annex to all Parties to MARPOL;  
-6 ALSO
- REQUESTS the Secretary-General to transmit copies of the present resolution 
-and its annex to Members of the Organization which are not Parties to MARPOL. 
-MEPC RESOLUTION MEPC.362(79) (adopted on 16 December 2022) 
-AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE INTERNATIONAL CONVENTION  
-FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 2 - 
-ANNEX
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 2 - 
-ANNEX 
-AMENDMENTS TO MARPOL ANNEX VI 
-(Regional reception facilities within Arctic waters, information to be included in 
-the bunker delivery note (BDN) and information to be submitted to the IMO 
-Ship Fuel Oil Consumption Database) 
-Regulation 17 
-Reception facilities 
-1 Paragraph 2 is replaced by the following: 
-"2 The following States may satisfy the requirements in paragraph 1 of this 
-regulation through regional arrangements when, because of those Statesʹ 
-unique circumstances, such arrangements are the only practical means to 
-satisfy these requirements: 
-.1 small island developing States; and 
-.2 States the coastline of which borders on Arctic waters, 
-provided that regional arrangements shall cover only ports 
-within Arctic waters of those States. 
-Parties participating in a regional arrangement shall develop a Regional
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-provided that regional arrangements shall cover only ports 
-within Arctic waters of those States. 
-Parties participating in a regional arrangement shall develop a Regional 
-Reception Facilities Plan, taking into account the guidelines developed by the 
-Organization.. 
-The Government of each Party participating in the arrangement shall consult 
-with the Organization, for circulation to the Parties of the present Convention  
-on: 
-.1 how the Regional Reception Facilities Plan takes into account 
-the guidelines developed by the Organization; 
-.2 particulars of the identified Regional Ships Waste Reception 
-Centres taking into account the guidelines developed by the 
-Organization and 
-.3 particulars of those ports with only limited facilities." 
-Appendix V  
-Information to be included in the bunker delivery note (regulation 18.5) 
-2 The following new item 9 and associated footnote are added to the list, below 
-item 8 "Sulphur content (% m/m)":
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-Information to be included in the bunker delivery note (regulation 18.5) 
-2 The following new item 9 and associated footnote are added to the list, below 
-item 8 "Sulphur content (% m/m)": 
-"The flashpoint (°C) specified in accordance with standards acceptable to the 
-Organization, or a statement that the flashpoint has been measured at or 
-above 70ºC;" 
-*  ISO 2719:2016, Determination of flash point – Pensky-Martens closed cup method,
-Procedure A (for Distillate Fuels) or Procedure B (for Residual Fuels)." 
-MEPC RESOLUTION MEPC.362(79) (adopted on 16 December 2022) 
-AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE INTERNATIONAL CONVENTION  
-FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 3 - 
-3 Existing item 9 is renumbered as new item 10 in the list. 
-Appendi
-x IX 
-Information to be submitted to the IMO Ship Fuel Oil Consumption Database 
-(regulation 27) 
-4 Appen
-dix IX is replaced by the following: 
-"  Append
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-Appendi
-x IX 
-Information to be submitted to the IMO Ship Fuel Oil Consumption Database 
-(regulation 27) 
-4 Appen
-dix IX is replaced by the following: 
-"  Append
-ix IX 
-Infor
-mation to be submitted to the IMO Ship Fuel Oil Consumption Database 
-(regulation 27) 
-Identi
-ty of the ship 
-IMO Number ………………………………………………………………………………… 
-Period of calendar year for which the data is submitted 
-Start date
-(dd/mm/yyyy) ………………………………………………………………………………. 
-End date
-(dd/mm/yyyy) ……………………………………………………………………………….. 
-Techni
-cal characteristics of the ship 
-Year of delivery…………………………..…………………… 
-Ship type, as defined in regulation 2 of this annex or other (to be 
-stated) ……………………….. 
-Gross tonnage
-(GT) …………………………………………………………………………………... 
-Net tonnage
-(NT) ……………………………………………………………………………………… 
-Deadweight tonnage
-(DWT) …………………………………………………………………………. 
-Power output (rated power)  of main and auxiliary reciprocating internal combustion 
-engines over 130 kW (to be stated in 
-kW) …………………………………………………………… 
-Attained EEDI (if
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-Power output (rated power)  of main and auxiliary reciprocating internal combustion 
-engines over 130 kW (to be stated in 
-kW) …………………………………………………………… 
-Attained EEDI (if
-applicable)………..……………...………………………………………………… 
-Attained EEXI (if 
-applicable)………………………………………………………………………….. 
-Ice 
-class……………………………………………………………………………………………
-…... 
-MEPC RESOLUTION MEPC.362(79) (adopted on 16 December 2022) 
-AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE INTERNATIONAL CONVENTION  
-FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 4 - 
-Fuel oil consumption, by fuel oil type in metric tonnes and methods used 
-for collecting fuel oil consumption
-data ……………………………………………………………… 
-Distance 
-travelled ……………………………………………………………………………………… 
-Hours 
-underway………………………………………………………………………………………
-… 
-For ships to which regulation 28 of MARPOL Annex VI applies: 
-Applicable CII:   □AER   □cgDIST 
-Required annual operational CII…………………………
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-Hours 
-underway………………………………………………………………………………………
-… 
-For ships to which regulation 28 of MARPOL Annex VI applies: 
-Applicable CII:   □AER   □cgDIST 
-Required annual operational CII………………………… 
-Attained annual operational CII before any correction………………………… 
-Attained annual operational CII…………………………Operational carbon intensity 
-rating:
-□A  □B  □C  □D  □E
-CII for trial purpose (none, one or more on voluntary basis): 
-□ EEPI (gCO2/t•nm): ……………………
-□ cbDIST (gCO2/berth•nm): …………………
-□ clDIST (gCO2/m•nm): …………………
-□ EEOI (gCO2/t•nm or others): …………………."
-MEPC RESOLUTION MEPC.362(79) (adopted on 16 December 2022) 
-AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE INTERNATIONAL CONVENTION  
-FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETOMEPC RESOLUTION MEPC.362(79) (adopted on 16 December 2022) 
-AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE INTERNATIONAL CONVENTION
-
----CHUNK---
-
-SOURCE: MEPC.362(79).pdf
-AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE INTERNATIONAL CONVENTION  
-FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE) 
-THE MARITIME SAFETY COMMITIEE , 
-RECALLING Article 28(b) of the Convention on the International Maritime Organization 
-concerning the functions of the Committee, 
-RECALLING FURTHER Article XII and regulation 111.2.3 of the International 
-Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 
-1978, hereinafter referred to as "the Convention", concerning the procedures for amending 
-Part A of the Seafarers' Training, Certification and Watchkeeping (STCW) Code, 
-HAVING CONSIDERED, at its eighty-first session, amendments to Part A of the 
-STCW Code, proposed and circulated in accordance with article XII(1)(a)(i) of the Convention,
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-HAVING CONSIDERED, at its eighty-first session, amendments to Part A of the 
-STCW Code, proposed and circulated in accordance with article XII(1)(a)(i) of the Convention, 
-l. ADOPTS, in accordance with article XII(1 )(a)(iv) of the Convention, amendments to the 
-STCW Code, the text of which is set out in the Annex to the present resolution; 
-2. DETERMINES, ill accordance with article XlI(1)(a)(vii)(2) of the Convention, that the 
-said amendments to the STCW Code shall be deemed to have been accepted on I July 2007, 
-unless, prior to that date, more than one third of Parties or Parties the combined merchant fleets 
-of which constitute not less than 50% of the gross tonnage of the world's merchant shipping of 
-ships of 100 gross tonnage or more, have notified their objections to the amendments; 
-3. INVITES Parties to the Convention to note that, in accordance with article XII(J)(a)(ix) 
-of the Convention, the annexed amendments to the STCW Code shall enter into force
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-3. INVITES Parties to the Convention to note that, in accordance with article XII(J)(a)(ix) 
-of the Convention, the annexed amendments to the STCW Code shall enter into force 
-on I January 2008 upon their acceptance in accordance with paragraph 2 above; 
-4. REQUESTS the Secretary-General, in confomlity with article XIl(l )(a)(v) of the 
-Convention, to transmit certified copies of the present resolution and the text of the amendments 
-contained in the Annex to all Parties to the Convention ; 
-5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and 
-its Annex to Members of the Organization , which are not Parties to the Convention. 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W A TCHKEEPING CODE (STCW CODE)
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W A TCHKEEPING CODE (STCW CODE) 
-THE MARITIME SAFETY COMMIITEE , 
-RECALLING Article 28(b) of the Convention on the International Maritime Organization 
-concerning the functions of the Committee, 
-RECALLING FURTHER Article XII and regulation 1I1.2.3 of the International 
-Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 
-1978, hereinafter referred to as "the Convention", concerning the procedures for amending 
-Part A of the Seafarers' Training, Certification and Watchkeeping (STCW) Code, 
-HAVING CONSIDERED, at its eighty-first session, amendments to Part A of the 
-STCW Code, proposed and circulated in accordance with article XII(J)(a)(i) of the Convention, 
-1. ADOPTS, in accordance with article Xn{l )(a)(iv) of the Convention, amendments to the 
-STCW Code, the text of which is set out in the Annex to the present resolution;
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-1. ADOPTS, in accordance with article Xn{l )(a)(iv) of the Convention, amendments to the 
-STCW Code, the text of which is set out in the Annex to the present resolution; 
-2. DETERMINES , in accordance with article XU(I)(a)(vii)(2) of the Convention, that the 
-said amendments to the STCW Code sba1l be deemed to bave been accepted on I July 2007, 
-unless, prior to that date, more than one third of Parties or Parties the combined mercbant fleets 
-of which constitute not less than 50% of the gross tonnagc of the world's merchant shipping of 
-ships of 100 gross tonnage or more, have notified their objections to the amendments; 
-3. INVITES Parties to the Convention to note that, in accordance with article XlI(J )(a)(ix) 
-of the Convention, the annexed amendments to the STCW Code shall enter into force 
-on I January 2008 upon their acceptance in accordance with paragraph 2 above; 
-4. REQUESTS the Secretary-General, in conformity with article XII{l )(a)(v) of the
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-on I January 2008 upon their acceptance in accordance with paragraph 2 above; 
-4. REQUESTS the Secretary-General, in conformity with article XII{l )(a)(v) of the 
-Convention , to transmit certified copies of the present resolution and the text of the amendments 
-contained in the Annex to all Parties to the Convention; 
-5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and 
-its Annex to Members of the Organization , which are not Parties to the Convention. - 2 -
-ANNEX 
-AMENDMENTS TO THE SEAFARERS' TRAINING , 
-CERTIFICATION AND WATCHKEEPING (STCW) CODE 
-PARTA 
-MANDATORY STANDARDS REGARDING PROVISIONS OF THE ANNEX TO THE 
-STCW CONVENTION 
-The existing title of chapter VI is replaced by the following : 
-"Standards regarding emergency , occupational safety, security, 
-medical care and survival functions " 
-2 In chapter VI, section A-VI/2, the existing table A-VII2-2 is replaced by the following 
-table: 
-Column 1 Column 2 Column 3 Column 4
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-medical care and survival functions " 
-2 In chapter VI, section A-VI/2, the existing table A-VII2-2 is replaced by the following 
-table: 
-Column 1 Column 2 Column 3 Column 4 
-Knowledge , uuderstanding and Methods for Criteria for Competence demonstrating c\'Bluating proficiency competence competence 
-Understand Construction and outfit offast Assessment of The method of 
-the rescue boats and individual items evidence obtained canying out 
-construction, of their equipment from practical routine 
-maintenance , instruction maintenance and 
-repair and Knowledge of the maintenance, emergency repairs 
-out fining of emergency repairs of fast rescue 
-fast rescue boats and the normal inflation and Identity 
-boats deflation of buoyancy components and 
-compartment s of inflated fast required 
-rescue boats equipment for fast 
-rescue boats 
-Take charge Assessment of the readiness of Assessment of Ability to prepare 
-of the launch equipment and launch evidence obtained and take charge of
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-rescue boats equipment for fast 
-rescue boats 
-Take charge Assessment of the readiness of Assessment of Ability to prepare 
-of the launch equipment and launch evidence obtained and take charge of 
-launching appliance of fast rescue boats for from practical the launch 
-equipment and immediate launch and operation demonstration of equipment and 
-appliance , as ability to control safe appliance during 
-commonly Understand the operation and launching and launching and 
-fitted during limitations of the winch, brakes, recovery of fast rescue recovery of fast 
-launch and falls, painter s, motion boat, with equipment rescue boat 
-recovery compensation and other as fitted 
-equipment as commonly fitted 
-Safety precautions during launch 
-and recovery of a fast rescue boat 
-Launching and recovery of fast 
-rescue boat in prevailing and 
-adverse weather and sea 
-conditions 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING,
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-rescue boat in prevailing and 
-adverse weather and sea 
-conditions 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)- 3 -
-Column 1 Co lumn 2 Column 3 Column 4 
-Knowledge, understanding and Methods for Criteria for Competence demonstrating evaluating proficiency competence competence 
-Take cbarge Assessment of the readiness of Assessment of Ability to take 
-ofthe fast fast rescue boats and related evidence obtained charge of the fast 
-rescue boat as equipment for immediate launcb from practical rescue boat during 
-commonly and operation demonstration of launching and 
-fitted during ability to conduct safe recovery 
-launch and Safety precaution s during launch launching and 
-recovery and recovery of a fast rescue boat recovery of fast rescue 
-boat, with equipment 
-Launch and recovery of fast as fitted 
-rescue boat in pre vailing and 
-adverse weatber and sea 
-conditions
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-recovery and recovery of a fast rescue boat recovery of fast rescue 
-boat, with equipment 
-Launch and recovery of fast as fitted 
-rescue boat in pre vailing and 
-adverse weatber and sea 
-conditions 
-Take charge Particular characteristic, facilities Assessment of Demonstration of 
-of a fast and limitations of fast rescue evidence obtained operation offast 
-rescue boat boats from practical reSCue boats 
-after launch demonstration of within eqtupment 
-Procedures for tbe righting of a ability to: limitations in 
-capsized fast rescue boat prevailing 
-.I Right a capsized weather 
-How to handl e a fast rescue boat fast rescue boat conditions 
-in prevailing and adverse weather 
-and sea conditions .2 Handle a fast 
-rescue boat in 
-Navigational and safety prevailin g weather 
-equipment available in a fast and sea conditions 
-rescue boat 
-.3 Swim in special 
-Search pattern s and equipment 
-environmental factors affecting 
-their execution .4 Vse 
-communications 
-and signalling 
-equipment between
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-rescue boat 
-.3 Swim in special 
-Search pattern s and equipment 
-environmental factors affecting 
-their execution .4 Vse 
-communications 
-and signalling 
-equipment between 
-the fast rescue boat 
-and belicopter and a 
-ship 
-.5 Vse the emergency 
-equipment carried 
-.6 Recover a casualty 
-from the water and 
-transfer a casualty 
-to a rescue 
-helicopter or to a 
-ship or to a place of 
-safety 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)- 4 -
-Column 1 Column 2 Column 3 Column 4 
-Knowledge, understanding and Methods for Criteria for Competence demonstrating evaluating proficiency competence competence 
-.7 Carry out search 
-patterns, taking 
-account of 
-environmental 
-factors 
-Operate a fast Methods of starting and operating Assessment of Engine is started 
-rescue boat a fast rescue boat engine and its evidence obtained and operated as 
-engine accessories from practical required for
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-rescue boat a fast rescue boat engine and its evidence obtained and operated as 
-engine accessories from practical required for 
-demonstration of manoeuvring 
-ability to start and 
-operate a fast rescue 
-boat engine 
-" 
-3 The following new section A-VIIS and table are inserted after the existing table VII4-2: 
-"Section A-VIIS 
-Malldatory millimum requiremellts for the issue of certificates of proficiellcy for ship 
-security officers 
-Standard of competence 
-Every candidate for a certificate of proficiency as a ship security officer shall be 
-required to demonstrate competence to undertake the tasks, dutie s and responsibilitie s 
-listed in column I of table A-VII5. 
-2 The level of knowledge of the subject s listed in column 2 of table A-VIIS shall be 
-sufficient to enable the candidate to act as the designated ship security officer. 
-3 Training and experience to achieve the necessary level of theoretical knowledge,
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-sufficient to enable the candidate to act as the designated ship security officer. 
-3 Training and experience to achieve the necessary level of theoretical knowledge, 
-understanding and proficiency shall take into account the guidance in section B-Vl /S of 
-this Code. 
-4 Every candidate for certification shall bc required to provide evidence of having 
-achieved the required standard of competence in accordance with the methods for 
-demon strating competence and the criteria for evaluating competence tabulated in 
-column s 3 and 4 of table A-VJlS. 
-Transitiollal provisiolls 
-5 Detemlining profes sional competen ce for existing ship security officer s who hold 
-or can document qualifications before the entry into force of this regulation shall be 
-established hy: 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)- 5 -
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-established hy: 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)- 5 -
-• J approved seagoing service as a ship security officer, for a period of at least 
-six months in total during the preceding three years; or 
-.2 having performed security functions considered to be equivalent to the 
-seagoing service required in paragraph 5.1; or 
-.3 passing an approved test; or 
-.4 successfully completing approved training. 
-6 Every person who has been found competent under section A-VJJ5, paragraph 5, 
-shall be issued a certificate of proficiency as a ship security officer. 
-Table A-VIIS 
-Specifications of minimum standards of proficiency for ship security officers 
-Column 1 Column 2 Column 3 Column 4 
-Knowledge, understanding and Methods for Criteria for Competence demonstrating evaluating proficiency competence competence
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-Column 1 Column 2 Column 3 Column 4 
-Knowledge, understanding and Methods for Criteria for Competence demonstrating evaluating proficiency competence competence 
-Maintain and Knowledge of international maritime Assessment of Procedures and 
-supervise the security policy and responsibilities of evidence obtained actions are in 
-implementation Governments, Companies and from approved accordance with 
-ofa ship designated persons training or the principles 
-security plan examination establi shed by the 
-Knowledge of the purpose for and the ISPS Code and 
-elements that make up a ship security SOLAS as 
-plan, related procedures and amended 
-maintenance of records 
-Legislative 
-Knowledge of procedures to be requirements 
-employed in implementing a ship relating to 
-security plan and reporting of security security are 
-incidents correctly 
-identified 
-Knowledge of maritime security levels 
-and the consequential security measure s Procedures
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-security plan and reporting of security security are 
-incidents correctly 
-identified 
-Knowledge of maritime security levels 
-and the consequential security measure s Procedures 
-and procedures aboard ship and in the achieve a state of 
-port facility environment readiness to 
-respond to 
-Knowledge of the requirements and changes in 
-procedure s for conducting internal maritime security 
-audits, on·scene inspections, control and levels 
-monitoring of security activities 
-specified in a ship security plan Communications 
-within the ship 
-Knowledge of the requirement s and secUJityofficer's 
-procedures for reporting to tile company area of 
-security officer any deficiencies and responsibilityare 
-non-conformitie s identified during clear and 
-intemal audits, periodic reviews, and understood 
-security inspections 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)- 6 -
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-security inspections 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)- 6 -
-Column 1 Colum n 2 Column 3 Column 4 
-Knowledge, understanding and Methods for Criteri a for Competence demonstrating evaluating proficiency comp etence competence 
-Knowledge of the methods and 
-procedures used to modiJY the ship 
-security plan 
-Knowledge of security related 
-contingency plans and the procedures 
-for responding to security threats or 
-breaches of security including 
-provisions for maintaining critical 
-operations of the ship/port interface 
-Working knowledge of maritime 
-security tenns and definitions 
-ASRess security Knowledge of risk assessment and Assessment of Procedures and 
-risk, threat, and assessment tools evidence obtained actions are in 
-vulnerability from approved accordance with 
-Knowledge of security assessment training, or the principl es
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-risk, threat, and assessment tools evidence obtained actions are in 
-vulnerability from approved accordance with 
-Knowledge of security assessment training, or the principl es 
-documentation including the approved established by the 
-Declaration of Security experience and ISPS Code and 
-examination, SOLAS 
-Knowledge of techniques used to including Convention 
-circumvent security measures practical 
-demonstration of Procedures 
-Knowledge enabling recognition, on a competence to: achieve a state of 
-non-discriminatory basis, of persons readiness to 
-posing potential security risks .1 conduct respond to 
-physical changes in the 
-Knowledge enabling recognition of searches maritime security 
-weapons, dangerous substances, and levels 
-devices and awareness of the damage .2 conduct 
-they can cause non-intrusive Communications 
-inspections within the ship 
-Knowledge of crowd management and security officer 's 
-control techniques, where appropriate area of 
-responsibility are
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-they can cause non-intrusive Communications 
-inspections within the ship 
-Knowledge of crowd management and security officer 's 
-control techniques, where appropriate area of 
-responsibility are 
-Knowledge in handling sensitive clear and 
-security related information and security understood 
-related communications 
-Knowledge of implementin g and 
-co-ordinating searches 
-Knowledg e of the methods for physical 
-searches and non-intrusive inspections 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)·7· 
-Column 1 Column 2 Column 3 Column 4 
-Knowledge, understanding and Methods for Criteria for Competence demonstrating evaluating proficiency competence competence 
-Undertake Knowledge of the requirements for Assessment of Procedures and 
-regular designaling and monitoring restricted evidence obtained actions are in 
-inspections of areas from approved accordance with
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-regular designaling and monitoring restricted evidence obtained actions are in 
-inspections of areas from approved accordance with 
-Ibe ship to training or the principle s 
-ensure that Knowledge of controlling access to the examination established by the 
-appropriate ship and to restricted areas on board ISPS Code and 
-security ship SOLAS 
-measures are Convention 
-implemented Knowledge of methods for effecti ve 
-and maintained monitoring of deck areas and areas Procedures 
-surrounding the ship acbieve a state of 
-readiness to 
-Knowledge of security aspects relating respond to 
-to the handling of cargo and ship' s changes in the 
-stores with other shipboard personnel maritime security 
-and relevant port facility security levels 
-officers 
-Communications 
-Knowledge of methods for controlling within Ibe ship 
-the embarkation , disembarkation and security officer' s 
-access while on board of persons and area of 
-their effects responsibility are 
-clear and 
-understood
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-the embarkation , disembarkation and security officer' s 
-access while on board of persons and area of 
-their effects responsibility are 
-clear and 
-understood 
-Ensure that Knowledge of the various types of Assessment of Procedures and 
-security security equipment and systems and evidence obtained actions are in 
-equipment and their limitations from approved accordance with 
-systems , if any, training or the principles 
-are properly Knowledge of the procedures, examination established by the 
-operated, tested instructions, and guidance on Ibe use of ISPS Code and 
-and calibrated ship security alert systems SOLAS 
-Convention 
-Knowledge of the methods for testing, 
-calibrating, and maintaining security 
-systems and equipment, particularly 
-whilst at sea 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)- 8 -
-Column 1 Column 2 Column 3 Column 4
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)- 8 -
-Column 1 Column 2 Column 3 Column 4 
-Knowledge , understanding and Methods for Criteria for Competence demonstrating evaluating proficiency competence competence 
-Encourage Knowledge of training, drill and Assessment of Procedures and 
-security exercise requirements under relevant evidence obtained actions are in 
-awareness and conventions and codes from approved accordance with 
-vigilance training or the principles 
-Knowledge of the methods for examination established by the 
-enhancing security awareness and ISPS Code and 
-vigilance on board SOLAS 
-Convention 
-Knowledge of the methods for assessing 
-the effectiveness of drills and exercises Communications 
-within the ship 
-security officer I 5 
-area of 
-responsibility are 
-c1ear and 
-understood 
-" 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006)
-
----CHUNK---
-
-SOURCE: MSC.209(81).pdf
-within the ship 
-security officer I 5 
-area of 
-responsibility are 
-c1ear and 
-understood 
-" 
-RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)RESOLUTION MSC.209(81) 
-(adopted on 18 May 2006) 
-ADOPTION OF AMENDMENTS TO THE SEAFARERS' TRAINING, 
-CERTIFICATION AND W ATCHKEEPING CODE (STCW CODE)
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE) 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 65 - 
  
+4.4 The two subsamples shall be tested in succession, in accordance with the specifi ed 
+test method referred to in regulation 2.1.30 of this Annex. For the purposes of this Part 2 
+verification procedure, the results obtained shall be referred to as '2A' and '2B': 
  
-E 
+.1  results 2A and 2B shall be recorded on the test record in accordance with 
+the requirements of the test method; and 
  
-ASSEMBLY 
-30th session  
-Agenda item 11 
-A 30/Res.1122 
-18 December 2017 
-Original: ENGLISH 
+.2 if the results of 2A and 2B are within the repeatability (r) of the test method, 
+the results shall be considered valid; or 
  
-Resolution A.1122(30) 
- 
-Adopted on 6 December 2017 
-(Agenda item 11) 
- 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE) 
- 
- 
-THE ASSEMBLY, 
- 
-RECALLING Article 15(j) of the Convention on the International Maritime Organization 
-concerning the functions of the Assembly in relation to regulations and guidelines regarding 
-maritime safety and the prevention and control of marine pollution from ships, 
- 
-RECALLING ALSO that regulation 11.2 of Annex II to the International Convention for the
+.3  if the results of 2A and 2B are not within the repeatability (r) of the test 
+method, both results shall be rejected and two new subsamples shall be 
+taken by the laboratory and tested. The sample bottle shall be resealed in
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-maritime safety and the prevention and control of marine pollution from ships, 
+SOURCE: MEPC.328%2876%29.pdf
+method, both results shall be rejected and two new subsamples shall be 
+taken by the laboratory and tested. The sample bottle shall be resealed in 
+accordance with paragraph 4.3.4 a fter the new subsamples have been 
+taken; and 
  
-RECALLING ALSO that regulation 11.2 of Annex II to the International Convention for the 
-Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, 
-calls for guidelines to be developed by the Organization on the basis of which Administrations 
-shall establish appropriate measures in respect of ships other than chemical tankers carrying 
-noxious liquid substances in bulk identified in chapter 17 of the International Code for the 
-Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk, in order to 
-minimize the uncontrolled discharge into the sea of such substances, 
+.4  in the case of two failures to achieve repeatability between 2A and 2B, the 
+cause of that failure shall be investigated by the laboratory and resolved 
+before further testing of the sample is undertaken. On resolution of that 
+repeatability issue, two new subsamples shall be taken in accordance with 
+paragraph 4.3. The sample shall be resealed in accordance with paragraph 
+4.3.4 after the new subsamples have been taken. 
  
-RECALLING FURTHER that it adopted, by resolution A.673(16), Guidelines for the transport 
-and handling of limited amounts of hazardous and noxious liquid substances in bulk on 
-offshore support vessels (LHNS Guidelines),
+4.5 If the test results of 2A and 2B are valid, an average of these two results shall be 
+calculated. That average value shall be referred to as 'Z' and shall be recorded on the test 
+record: 
+ 
+.1 if Z is equal to or less than the applicable limit required by regulation 14, the
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-and handling of limited amounts of hazardous and noxious liquid substances in bulk on 
-offshore support vessels (LHNS Guidelines), 
+SOURCE: MEPC.328%2876%29.pdf
+calculated. That average value shall be referred to as 'Z' and shall be recorded on the test 
+record: 
  
-RECOGNIZING the need to improve the provisions of the LHNS Guidelines in light of the 
-evolution of the offshore industry and experience gained from implementing those Guidelines, 
+.1 if Z is equal to or less than the applicable limit required by regulation 14, the 
+sulphur content of the fuel oil as represented by the tested sample shall be 
+considered to have met the requirement;  
  
-HAVING CONSIDERED the recommendations of the Maritime Safety Committee, at its 
-ninety-eighth session, and of the Marine Environment Protection Committee, at its seventy-first 
-session, 
+.2 if Z is greater than the applicable limit required by regulation 14 but less than 
+or equal to that applicable limit + 0.59R (where R is the reproducibility of the 
+test method), the sulphur content of the fuel oil as represented by the tested 
+sample shall be considered to have met the requirement; or 
  
-1 ADOPTS the Code for the Transport and Handling of Hazardous and Noxious Liquid 
-Substances in Bulk on Offshore Support Vessels (OSV Chemical Code), set out in the annex 
-to the present resolution; 
- 
-2 INVITES Governments to take action to implement the OSV Chemical Code 
-from 1 July 2018; 
- 
-3 AUTHORIZES the Maritime Safety Committee and the Marine Environment 
-Protection Committee to keep the OSV Chemical Code under review and update it as may be 
-necessary;
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-from 1 July 2018; 
- 
-3 AUTHORIZES the Maritime Safety Committee and the Marine Environment 
-Protection Committee to keep the OSV Chemical Code under review and update it as may be 
-necessary; 
- 
-4 SUPERSEDES resolution A.673(16). 
- 
-*** 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 1 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-Annex 
- 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE) 
-TABLE OF CONTENTS 
- 
-PREAMBLE ............................................................................................................................. 4 
-CHAPTER 1 – GENERAL ....................................................................................................... 4
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-CHAPTER 1 – GENERAL ....................................................................................................... 4 
-1.1 Application ................................................................................................................. 4 
-1.2 Definitions .................................................................................................................. 6 
-1.3 Equivalents .............................................................................................................. 11 
-1.4 Surveys and certification ......................................................................................... 11 
-CHAPTER 2 – VESSEL SURVIVAL CAPABILITY AND LOCATION OF CARGO  
-TANKS ................................................................................................................................... 12 
-2.1 General .................................................................................................................... 12
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-2.1 General .................................................................................................................... 12 
-2.2 Freeboard and intact stability .................................................................................. 12 
-2.3 Non-cargo discharges below the freeboard deck .................................................... 13 
-2.4 Conditions of loading ............................................................................................... 13 
-2.5 Flooding assumptions ............................................................................................. 14 
-2.6 Damage assumptions .............................................................................................. 15 
-2.7 Standard of damage ................................................................................................ 17 
-2.8 Survival requirements .............................................................................................. 17
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-2.8 Survival requirements .............................................................................................. 17 
-2.9 Location of cargo tanks ........................................................................................... 19 
-CHAPTER 3 – VESSEL DESIGN .......................................................................................... 19 
-3.1 Cargo segregation ................................................................................................... 19 
-3.2 Accommodation, service and machinery spaces and control stations .................... 21 
-3.3 Access to spaces in the cargo area ........................................................................ 21 
-CHAPTER 4 – SPECIAL REQUIREMENTS FOR PRODUCTS WITH A FLASHPOINT 
-NOT EXCEEDING 60°C, TOXIC PRODUCTS AND ACID .................................................... 22 
-4.1 General requirements for products with a flashpoint not exceeding 60°C, toxic
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-NOT EXCEEDING 60°C, TOXIC PRODUCTS AND ACID .................................................... 22 
-4.1 General requirements for products with a flashpoint not exceeding 60°C, toxic 
-products or acids ..................................................................................................... 22 
-4.2 Products with a flashpoint not exceeding 60°C ....................................................... 23 
-4.3 Toxic products ......................................................................................................... 23 
-4.4 Acids ........................................................................................................................ 24 
-CHAPTER 5 – CARGO CONTAINMENT .............................................................................. 24 
-5.1 Definitions ................................................................................................................ 24
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-5.1 Definitions ................................................................................................................ 24 
-5.2 Tank type requirements for individual products ....................................................... 25 
-CHAPTER 6 – CARGO TRANSFER ..................................................................................... 25 
-6.1 Piping scantlings ..................................................................................................... 25 
-6.2 Piping fabrication and joining details ....................................................................... 27 
-6.3 Flange connections ................................................................................................. 28 
-6.4 Test requirements for piping .................................................................................... 28 
-6.5 Piping arrangements ............................................................................................... 28
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-6.5 Piping arrangements ............................................................................................... 28 
-6.6 Cargo-transfer control systems ............................................................................... 29 
-6.7 Vessels' cargo hoses ............................................................................................... 29 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 2 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-CHAPTER 7 – CARGO TANK VENTING .............................................................................. 30 
-7.1 General .................................................................................................................... 30 
-7.2 Types of tank venting systems ................................................................................ 31
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-7.2 Types of tank venting systems ................................................................................ 31 
-7.3 Venting requirements for individual products .......................................................... 32 
-7.4 Cargo tank gas freeing ............................................................................................ 32 
-CHAPTER 8 – ELECTRICAL INSTALLATIONS .................................................................. 33 
-8.1 General requirements .............................................................................................. 33 
-8.2 Electrical requirements for individual products ........................................................ 34 
-CHAPTER 9 – FIRE-FIGHTING REQUIREMENTS .............................................................. 34 
-9.1 Application ............................................................................................................... 34
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-9.1 Application ............................................................................................................... 34 
-9.2 Cargo pump-rooms ................................................................................................. 35 
-9.3 Protection of the cargo area .................................................................................... 35 
-9.4 Special requirements ............................................................................................... 36 
-CHAPTER 10 – MECHANICAL VENTILATION IN THE CARGO AREA ............................. 36 
-10.1 Application ............................................................................................................... 36 
-10.2 Spaces normally entered during normal cargo handling operations ....................... 36 
-10.3 Spaces not normally entered ................................................................................... 38
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-10.3 Spaces not normally entered ................................................................................... 38 
-CHAPTER 11 – INSTRUMENTATION AND AUTOMATION SYSTEMS .............................. 38 
-11.1 General .................................................................................................................... 38 
-11.2 Level indicators for cargo tanks ............................................................................... 38 
-11.3 Overflow control ...................................................................................................... 39 
-11.4 Vapour detection ..................................................................................................... 39 
-CHAPTER 12 – POLLUTION PREVENTION REQUIREMENTS .......................................... 39 
-CHAPTER 13 – LIFE-SAVING APPLIANCES AND ARRANGEMENTS ............................. 40
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-CHAPTER 12 – POLLUTION PREVENTION REQUIREMENTS .......................................... 39 
-CHAPTER 13 – LIFE-SAVING APPLIANCES AND ARRANGEMENTS ............................. 40 
-CHAPTER 14 – PERSONNEL PROTECTION ...................................................................... 40 
-14.1 Protective equipment ............................................................................................... 40 
-14.2 First aid equipment .................................................................................................. 40 
-14.3 Safety equipment .................................................................................................... 40 
-14.4 Emergency equipment ............................................................................................ 41 
-CHAPTER 15 – OPERATIONAL REQUIREMENTS ............................................................. 42
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-CHAPTER 15 – OPERATIONAL REQUIREMENTS ............................................................. 42 
-15.1 General .................................................................................................................... 42 
-15.2 Cargo information .................................................................................................... 42 
-15.3 Personnel training ................................................................................................... 43 
-15.4 Opening of and entry into cargo tanks .................................................................... 43 
-15.5 Simultaneous carriage of deck cargo and products ................................................ 43 
-CHAPTER 16 – BACKLOADING OF CONTAMINATED BULK LIQUIDS ........................... 44 
-16.1 Preamble ................................................................................................................. 44
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-16.1 Preamble ................................................................................................................. 44 
-16.2 General .................................................................................................................... 45 
-16.3 Documentation ........................................................................................................ 45 
-16.4 Operation ................................................................................................................. 46 
-CHAPTER 17 – DISCHARGING AND LOADING OF PORTABLE TANKS ON BOARD .... 47 
-17.1 Preamble ................................................................................................................. 48 
-17.2 General .................................................................................................................... 48 
-17.3 Arrangement of deck spread ................................................................................... 48
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-17.3 Arrangement of deck spread ................................................................................... 48 
-17.4 Shipment of cargo in portable tanks used as deck tanks ........................................ 49 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 3 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-CHAPTER 18 – CARRIAGE OF LIQUEFIED GASES .......................................................... 49 
-18.1 General requirements .............................................................................................. 49 
-18.2 Accommodation, service and machinery spaces and control stations .................... 50 
-18.3 Cargo containment .................................................................................................. 50
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-18.3 Cargo containment .................................................................................................. 50 
-18.4 Materials of construction ......................................................................................... 50 
-18.5 Vent system for cargo containment ......................................................................... 50 
-18.6 Cargo transfer ......................................................................................................... 50 
-18.7 Vapour detection ..................................................................................................... 51 
-18.8 Gauging and level detection .................................................................................... 51 
-18.9 Emergency shutdown system ................................................................................. 51 
-18.10 Personnel Protection ............................................................................................... 51
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-18.10 Personnel Protection ............................................................................................... 51 
-18.11 Carriage on open deck ............................................................................................ 51 
-18.12 Carriage of other liquefied gases listed in chapter 19 of the IGC Code .................. 51 
- 
-APPENDIX 1 – MODEL FORM OF CERTIFICATE OF FITNESS ........................................ 53 
- 
-APPENDIX 2 – GUIDELINES FOR TESTING PRIOR TO BACKLOADING......................... 61 
- 
-APPENDIX 3 – MODEL FORMAT FOR THE PROCEDURE FOR THE DISCHARGING 
-AND LOADING OF PORTABLE TANKS CONTAINING DANGEROUS GOODS 
-CARRIED AS DECK TANKS ON OFFSHORE SUPPORT VESSELS ................................. 66 
- 
+.3 if Z is greater than the applicable limit required by regulation 14 + 0.59R, the 
+sulphur content of the fuel oil as represented by the tested sample shall be 
+considered to have not met the requirement. 
  
   
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 4
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 4 
+SOURCE: MEPC.328%2876%29.pdf
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 66 - 
  
+Table 2: Summary of in-use or onboard sample procedure 
+On the basis of the test method referred to in regulation 2.1.30 of this Annex  
+Applicable limit %m/m:  
+V  
+Test margin 
+value:  
+W  
+Result 4.5.1: 
+Z ≤ V 
+Result 
+4.5.2: 
+V < Z ≤ W 
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-PREAMBLE 
+Result 4.5.3: 
+Z > W 
+0.10 0.11 Met the 
+requirement 
+Met the 
+requirement 
+Not met the 
+requirement 0.50 0.53 
  
-1 The present Code has been developed for the design, construction and operation of 
-offshore support vessels (OSVs) which transport hazardous and noxious liquid substances in 
-bulk for the servicing and resupplying of offshore platforms, mobile offshore drilling units and 
-other offshore installations, including those employed in the search for and recovery of 
-hydrocarbons from the seabed.  
+ Result Z reported to 2 decimal places 
  
-2 The present Code has been developed in accordance with the requirements set forth 
-in regulation 11.2 of Annex II to the International Convention for the Prevention of Pollution 
-from Ships, 1973, as modified by the Protocol of 1978 r elating thereto (MARPOL)  and in 
-recognition of the need for standards which provide an alternative to the International Code for
+4.6 The final results obtained from this verification procedure shall be evaluated by the 
+competent authority. 
+ 
+4.7 The laboratory shall provide a copy of the test record to the competent authority 
+managing the verification procedure. 
+ 
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-from Ships, 1973, as modified by the Protocol of 1978 r elating thereto (MARPOL)  and in 
-recognition of the need for standards which provide an alternative to the International Code for 
-the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC Code) 
-and the International Code for the Construction and Equipment of Ships Carrying Liquefied 
-Gases in Bulk (IGC Code) for OSVs. 
+SOURCE: MEPC.328%2876%29.pdf
+managing the verification procedure. 
  
-3 The basic philosophy of the present Code is to apply standards contained in the IBC 
-Code and the IGC Code to the extent that is practicable and reasonable taking into account 
-the unique design features and service characteristics of OSVs.  
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 67 - 
  
-4 The Guidelines for the design and construction of offshore supply vessels, 2006  
-(resolution MSC.235(82)), as amended, are also applicable to OSVs subject to the present 
-Code.  
+Appendix VII 
  
-5 It is recognized that the technology of the offshore industry is complex and
+Emission control areas (regulations 13.6 and 14.3) 
+ 
+1 The boundaries of emission control areas designated under regulations 13.6 
+and 14.3, other than the Baltic Sea and the North Sea areas, are set forth in this appendix. 
+ 
+2 The North American area comprises: 
+ 
+.1 the sea area located off the Pacific coasts of the United States and Canada, 
+enclosed by geodesic lines connecting the following coordinates: 
+ 
+Point Latitude Longitude 
+1 32°32′.10 N 117°06′.11 W 
+2 32°32′.04 N 117°07′.29 W 
+3 32°31′.39 N 117°14′.20 W 
+4 32°33′.13 N 117°15′.50 W 
+5 32°34′.21 N 117°22′.01 W 
+6 32°35′.23 N 117°27′.53 W 
+7 32°37′.38 N 117°49′.34 W 
+8 31°07′.59 N 118°36′.21 W 
+9 30°33′.25 N 121°47′.29 W
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-(resolution MSC.235(82)), as amended, are also applicable to OSVs subject to the present 
-Code.  
- 
-5 It is recognized that the technology of the offshore industry is complex and 
-continuously evolving, as shown by the growing need for specialized vessels such as 
-well-stimulation vessels. To meet the needs of the industry, the present Code should not 
-remain static. Therefore, the Organization will periodically review the Code, taking into account 
-both experience and technical development. Amendments to the Code involving provisions for 
-new cargoes will be circulated periodically as new cargoes are proposed for carriage and the 
-provisions are developed. 
- 
-CHAPTER 1 – GENERAL 
- 
-To provide an international standard for the safe carriage, by sea in bulk, of chemicals by 
-setting the design and construction standards of vessels involved in such carriage and the 
-equipment, so as to minimize the risks to the vessel, its crew and the environment, having
+SOURCE: MEPC.328%2876%29.pdf
+3 32°31′.39 N 117°14′.20 W 
+4 32°33′.13 N 117°15′.50 W 
+5 32°34′.21 N 117°22′.01 W 
+6 32°35′.23 N 117°27′.53 W 
+7 32°37′.38 N 117°49′.34 W 
+8 31°07′.59 N 118°36′.21 W 
+9 30°33′.25 N 121°47′.29 W 
+10 31°46′.11 N 123°17′.22 W 
+11 32°21′.58 N 123°50′.44 W 
+12 32°56′.39 N 124°11′.47 W 
+13 33°40′.12 N 124°27′.15 W 
+14 34°31′.28 N 125°16′.52 W 
+15 35°14′.38 N 125°43′.23 W 
+16 35°44′.00 N 126°18′.53 W 
+17 36°16′.25 N 126°45′.30 W 
+18 37°01′.35 N 127°07′.18 W 
+19 37°45′.39 N 127°38′.02 W 
+20 38°25′.08 N 127°53′.00 W 
+21 39°25′.05 N 128°31′.23 W 
+22 40°18′.47 N 128°45′.46 W 
+23 41°13′.39 N 128°40′.22 W 
+24 42°12′.49 N 129°00′.38 W 
+25 42°47′.34 N 129°05′.42 W 
+26 43°26′.22 N 129°01′.26 W 
+27 44°24′.43 N 128°41′.23 W 
+28 45°30′.43 N 128°40′.02 W 
+29 46°11′.01 N 128°49′.01 W 
+30 46°33′.55 N 129°04′.29 W 
+31 47°39′.55 N 131°15′.41 W 
+32 48°32′.32 N 132°41′.00 W 
+33 48°57′.47 N 133°14′.47 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-setting the design and construction standards of vessels involved in such carriage and the 
-equipment, so as to minimize the risks to the vessel, its crew and the environment, having 
-regard to the nature of the products, including flammability, toxicity, asphyxiation, corrosivity 
-and reactivity. 
+SOURCE: MEPC.328%2876%29.pdf
+31 47°39′.55 N 131°15′.41 W 
+32 48°32′.32 N 132°41′.00 W 
+33 48°57′.47 N 133°14′.47 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 68 - 
  
-1.1 Application 
+Point Latitude Longitude 
+34 49°22′.39 N 134°15′.51 W 
+35 50°01′.52 N 135°19′.01 W 
+36 51°03′.18 N 136°45′.45 W 
+37 51°54′.04 N 137°41′.54 W 
+38 52°45′.12 N 138°20′.14 W 
+39 53°29′.20 N 138°40′.36 W 
+40 53°40′.39 N 138°48′.53 W 
+41 54°13′.45 N 139°32′.38 W 
+42 54°39′.25 N 139°56′.19 W 
+43 55°20′.18 N 140°55′.45 W 
+44 56°07′.12 N 141°36′.18 W 
+45 56°28′.32 N 142°17′.19 W 
+46 56°37′.19 N 142°48′.57 W 
+47 58°51′.04 N 153°15′.03 W 
  
-1.1.1 The present Code applies to OSVs engaged in the carriage of the products identified 
-in 1.1.9, regardless of size or voyage.  
  
-1.1.2 The present Code should also apply when the cargoes indicated in 1.1.9 are part of 
-a blending or production process of cargoes used in the search for and exploitation of seabed 
-mineral resources on board vessels used to facilitate such operations. 
- 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 5 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx
+.2 the sea areas located off the Atlantic coasts of the United States, Canada 
+and France (Saint- Pierre-et-Miquelon), and the Gulf of Mexico coast of the 
+United States enclosed by geodesic lines connecting the following 
+coordinates:
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 5 
+SOURCE: MEPC.328%2876%29.pdf
+and France (Saint- Pierre-et-Miquelon), and the Gulf of Mexico coast of the 
+United States enclosed by geodesic lines connecting the following 
+coordinates: 
  
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-1.1.3 Unless expressly provided otherwise, the present Code applies to OSVs the 
-keels of which are laid or which, on or after 1 July 2018, are at the stage where: 
- 
-.1 construction identifiable with the vessel begins; and 
- 
-.2 assembly has commenced comprising at least 50 tonnes or 1% of the 
-estimated mass of all structural material, whichever is less; 
- 
- 
-1.1.4 Existing OSVs the keel of which were laid or which were at a similar stage of 
-construction on or after 19 April 1990 and before the date specified in 1.1.3 may be permitted 
-to carry products as assigned for carriage on a type 2 ship in the IBC Code, provided that those 
-OSVs comply with the present Code, except for the stability provisions in chapter 2 of th e 
-present Code, and subject to the satisfaction of the Administration.
+Point Latitude Longitude 
+1 60°00′.00 N 64°09′.36 W 
+2 60°00′.00 N 56°43′.00 W 
+3 58°54′.01 N 55°38′.05 W 
+4 57°50′.52 N 55°03′.47 W 
+5 57°35′.13 N 54°00′.59 W 
+6 57°14′.20 N 53°07′.58 W 
+7 56°48′.09 N 52°23′.29 W 
+8 56°18′.13 N 51°49′.42 W 
+9 54°23′.21 N 50°17′.44 W 
+10 53°44′.54 N 50°07′.17 W 
+11 53°04′.59 N 50°10′.05 W 
+12 52°20′.06 N 49°57′.09 W 
+13 51°34′.20 N 48°52′.45 W 
+14 50°40′.15 N 48°16′.04 W 
+15 50°02′.28 N 48°07′.03 W 
+16 49°24′.03 N 48°09′.35 W 
+17 48°39′.22 N 47°55′.17 W 
+18 47°24′.25 N 47°46′.56 W 
+19 46°35′.12 N 48°00′.54 W 
+20 45°19′.45 N 48°43′.28 W 
+21 44°43′.38 N 49°16′.50 W 
+22 44°16′.38 N 49°51′.23 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-OSVs comply with the present Code, except for the stability provisions in chapter 2 of th e 
-present Code, and subject to the satisfaction of the Administration. 
+SOURCE: MEPC.328%2876%29.pdf
+22 44°16′.38 N 49°51′.23 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 69 - 
  
-1.1.5 A vessel, irrespective of the date of construction, which is converted for the carriage 
-of bulk liquids subject to the present Code on or after the date specified in 1.1.3 should be 
-treated as a vessel constructed on the date on which such conversion commences. An OSV 
-which transports a cargo subject to the present Code and undergoes modification for the 
-transport of additional cargoes falling under the present Code should not be considered as a 
-vessel which has undergone a conversion.  
- 
-1.1.6 The present Code applies only in the case of bulk carriage involving transfer of the 
-cargo to or from its containment which forms part of the vessel or remains on board.  
- 
-1.1.7 For requirements regulating the transport of dangerous goods and marine pollutants
+Point Latitude Longitude 
+23 43°53′.15 N 50°34′.01 W 
+24 43°36′.06 N 51°20′.41 W 
+25 43°23′.59 N 52°17′.22 W 
+26 43°19′.50 N 53°20′.13 W 
+27 43°21′.14 N 54°09′.20 W 
+28 43°29′.41 N 55°07′.41 W 
+29 42°40′.12 N 55°31′.44 W 
+30 41°58′.19 N 56°09′.34 W 
+31 41°20′.21 N 57°05′.13 W 
+32 40°55′.34 N 58°02′.55 W 
+33 40°41′.38 N 59°05′.18 W 
+34 40°38′.33 N 60°12′.20 W 
+35 40°45′.46 N 61°14′.03 W 
+36 41°04′.52 N 62°17′.49 W 
+37 40°36′.55 N 63°10′.49 W 
+38 40°17′.32 N 64°08′.37 W 
+39 40°07′.46 N 64°59′.31 W 
+40 40°05′.44 N 65°53′.07 W 
+41 39°58′.05 N 65°59′.51 W 
+42 39°28′.24 N 66°21′.14 W 
+43 39°01′.54 N 66°48′.33 W 
+44 38°39′.16 N 67°20′.59 W 
+45 38°19′.20 N 68°02′.01 W 
+46 38°05′.29 N 68°46′.55 W 
+47 37°58′.14 N 69°34′.07 W
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-cargo to or from its containment which forms part of the vessel or remains on board.  
+SOURCE: MEPC.328%2876%29.pdf
+41 39°58′.05 N 65°59′.51 W 
+42 39°28′.24 N 66°21′.14 W 
+43 39°01′.54 N 66°48′.33 W 
+44 38°39′.16 N 67°20′.59 W 
+45 38°19′.20 N 68°02′.01 W 
+46 38°05′.29 N 68°46′.55 W 
+47 37°58′.14 N 69°34′.07 W 
+48 37°57′.47 N 70°24′.09 W 
+49 37°52′.46 N 70°37′.50 W 
+50 37°18′.37 N 71°08′.33 W 
+51 36°32′.25 N 71°33′.59 W 
+52 35°34′.58 N 71°26′.02 W 
+53 34°33′.10 N 71°37′.04 W 
+54 33°54′.49 N 71°52′.35 W 
+55 33°19′.23 N 72°17′.12 W 
+56 32°45′.31 N 72°54′.05 W 
+57 31°55′.13 N 74°12′.02 W 
+58 31°27′.14 N 75°15′.20 W 
+59 31°03′.16 N 75°51′.18 W 
+60 30°45′.42 N 76°31′.38 W 
+61 30°12′.48 N 77°18′.29 W 
+62 29°25′.17 N 76°56′.42 W 
+63 28°36′.59 N 76°48′.00 W 
+64 28°17′.13 N 76°40′.10 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 70 - 
  
-1.1.7 For requirements regulating the transport of dangerous goods and marine pollutants 
-in packaged form, including transport of dangerous goods in portable tanks, refer to 
-the International Maritime Dangerous Goods Code (IMDG Code). 
- 
-1.1.8 The present Code applies in addition to the Guidelines for the design and construction 
-of offshore supply vessels  (resolution MSC.235(82)), as amended. Where the present Code 
-sets forth alternative safety standards, the standards in the present Code should be applied. 
- 
-1.1.9 Products which may be carried subject to the present Code are:  
- 
-.1 products which are listed in chapters 17 or 18 of the IBC Code and the latest 
-edition of the MEPC.2/ Circular (Provisional categorization of liquid 
-substances in accordance with MARPOL Annex II and the IBC Code) and 
-their related references to chapters 15 and 19; or
+Point Latitude Longitude 
+65 28°17′.12 N 79°11′.23 W 
+66 27°52′.56 N 79°28′.35 W
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-edition of the MEPC.2/ Circular (Provisional categorization of liquid 
-substances in accordance with MARPOL Annex II and the IBC Code) and 
-their related references to chapters 15 and 19; or 
+SOURCE: MEPC.328%2876%29.pdf
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 70 - 
  
-.2 oil-based/water-based mud containing mixtures of products listed in 
-chapters 17 and 18 of the IBC Code and the MEPC.2 Circular; or 
- 
-.3 liquid carbon dioxide (high purity and reclaimed quality) and liquid nitrogen; or 
- 
-.4 contaminated backloads. 
- 
-1.1.10 For a product proposed for carriage in bulk, but not listed in chapters 17 or 18 of 
-the IBC Code, the Administration and port Administrations involved in such carriage should 
-prescribe the suitable preliminary conditions for the carriage, having regard to the criteria for 
-hazard evaluation of bulk chemicals. For the evaluation of the pollution hazard of such a 
-product and assignment of its pollution category, the procedure specified in regulation 6.3 of
+Point Latitude Longitude 
+65 28°17′.12 N 79°11′.23 W 
+66 27°52′.56 N 79°28′.35 W 
+67 27°26′.01 N 79°31′.38 W 
+68 27°16′.13 N 79°34′.18 W 
+69 27°11′.54 N 79°34′.56 W 
+70 27°05′.59 N 79°35′.19 W 
+71 27°00′.28 N 79°35′.17 W 
+72 26°55′.16 N 79°34′.39 W 
+73 26°53′.58 N 79°34′.27 W 
+74 26°45′.46 N 79°32′.41 W 
+75 26°44′.30 N 79°32′.23 W 
+76 26°43′.40 N 79°32′.20 W 
+77 26°41′.12 N 79°32′.01 W 
+78 26°38′.13 N 79°31′.32 W 
+79 26°36′.30 N 79°31′.06 W 
+80 26°35′.21 N 79°30′.50 W 
+81 26°34′.51 N 79°30′.46 W 
+82 26°34′.11 N 79°30′.38 W 
+83 26°31′.12 N 79°30′.15 W 
+84 26°29′.05 N 79°29′.53 W 
+85 26°25′.31 N 79°29′.58 W 
+86 26°23′.29 N 79°29′.55 W 
+87 26°23′.21 N 79°29′.54 W 
+88 26°18′.57 N 79°31′.55 W 
+89 26°15′.26 N 79°33′.17 W 
+90 26°15′.13 N 79°33′.23 W 
+91 26°08′.09 N 79°35′.53 W 
+92 26°07′.47 N 79°36′.09 W 
+93 26°06′.59 N 79°36′.35 W 
+94 26°02′.52 N 79°38′.22 W 
+95 25°59′.30 N 79°40′.03 W 
+96 25°59′.16 N 79°40′.08 W
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-hazard evaluation of bulk chemicals. For the evaluation of the pollution hazard of such a 
-product and assignment of its pollution category, the procedure specified in regulation 6.3 of 
-MARPOL Annex II should be followed. IMO should be notified of the preliminary conditions for 
-consideration for inclusion of the product in the IBC Code. 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 6 
+SOURCE: MEPC.328%2876%29.pdf
+90 26°15′.13 N 79°33′.23 W 
+91 26°08′.09 N 79°35′.53 W 
+92 26°07′.47 N 79°36′.09 W 
+93 26°06′.59 N 79°36′.35 W 
+94 26°02′.52 N 79°38′.22 W 
+95 25°59′.30 N 79°40′.03 W 
+96 25°59′.16 N 79°40′.08 W 
+97 25°57′.48 N 79°40′.38 W 
+98 25°56′.18 N 79°41′.06 W 
+99 25°54′.04 N 79°41′.38 W 
+100 25°53′.24 N 79°41′.46 W 
+101 25°51′.54 N 79°41′.59 W 
+102 25°49′.33 N 79°42′.16 W 
+103 25°48′.24 N 79°42′.23 W 
+104 25°48′.20 N 79°42′.24 W 
+105 25°46′.26 N 79°42′.44 W 
+106 25°46′.16 N 79°42′.45 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 71 - 
  
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-1.2 Definitions 
- 
-The following definitions apply unless expressly provided otherwise (additional definitions are 
-given in individual chapters).  
- 
-1.2.1 Accommodation spaces are those spaces used for public spaces, corridors, 
-lavatories, cabins, offices, hospitals, cinemas, games and hobbies rooms, barber shops, 
-pantries containing no cooking appliances and similar spaces.
+Point Latitude Longitude 
+107 25°43′.40 N 79°42′.59 W 
+108 25°42′.31 N 79°42′.48 W 
+109 25°40′.37 N 79°42′.27 W 
+110 25°37′.24 N 79°42′.27 W 
+111 25°37′.08 N 79°42′.27 W 
+112 25°31′.03 N 79°42′.12 W 
+113 25°27′.59 N 79°42′.11 W 
+114 25°24′.04 N 79°42′.12 W 
+115 25°22′.21 N 79°42′.20 W
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-lavatories, cabins, offices, hospitals, cinemas, games and hobbies rooms, barber shops, 
-pantries containing no cooking appliances and similar spaces. 
- 
-1.2.2 Administration means the Government of the State whose flag the vessel is entitled 
-to fly. 
- 
-1.2.3 Anniversary date means the day and the month of each year that will correspond to 
-the date of expiry of the Certificate of Fitness. 
- 
-1.2.4 Backload means contaminated bulk liquids, taken on board a vessel offshore, for 
-transport either back to shore or to an alternate offshore site. 
- 
-1.2.5 Blending additives means small amounts of liquid substances used during blending 
-of products or production processes of cargoes for use in the search for and exploitation of 
-seabed mineral resources on board vessels used to facilitate such operations. 
- 
-1.2.6 Breadth (B) means the maximum breadth of the vessel, measured amid vessels to 
-the moulded line of the frame in a vessel with a metal shell and to the outer surface of the hull
+SOURCE: MEPC.328%2876%29.pdf
+110 25°37′.24 N 79°42′.27 W 
+111 25°37′.08 N 79°42′.27 W 
+112 25°31′.03 N 79°42′.12 W 
+113 25°27′.59 N 79°42′.11 W 
+114 25°24′.04 N 79°42′.12 W 
+115 25°22′.21 N 79°42′.20 W 
+116 25°21′.29 N 79°42′.08 W 
+117 25°16′.52 N 79°41′.24 W 
+118 25°15′.57 N 79°41′.31 W 
+119 25°10′.39 N 79°41′.31 W 
+120 25°09′.51 N 79°41′.36 W 
+121 25°09′.03 N 79°41′.45 W 
+122 25°03′.55 N 79°42′.29 W 
+123 25°03′.00 N 79°42′.56 W 
+124 25°00′.30 N 79°44′.05 W 
+125 24°59′.03 N 79°44′.48 W 
+126 24°55′.28 N 79°45′.57 W 
+127 24°44′.18 N 79°49′.24 W 
+128 24°43′.04 N 79°49′.38 W 
+129 24°42′.36 N 79°50′.50 W 
+130 24°41′.47 N 79°52′.57 W 
+131 24°38′.32 N 79°59′.58 W 
+132 24°36′.27 N 80°03′.51 W 
+133 24°33′.18 N 80°12′.43 W 
+134 24°33′.05 N 80°13′.21 W 
+135 24°32′.13 N 80°15′.16 W 
+136 24°31′.27 N 80°16′.55 W 
+137 24°30′.57 N 80°17′.47 W 
+138 24°30′.14 N 80°19′.21 W 
+139 24°30′.06 N 80°19′.44 W 
+140 24°29′.38 N 80°21′.05 W 
+141 24°28′.18 N 80°24′.35 W 
+142 24°28′.06 N 80°25′.10 W 
+143 24°27′.23 N 80°27′.20 W
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-1.2.6 Breadth (B) means the maximum breadth of the vessel, measured amid vessels to 
-the moulded line of the frame in a vessel with a metal shell and to the outer surface of the hull 
-in a vessel with a shell of any other material. The breadth (B) should be measured in metres. 
+SOURCE: MEPC.328%2876%29.pdf
+138 24°30′.14 N 80°19′.21 W 
+139 24°30′.06 N 80°19′.44 W 
+140 24°29′.38 N 80°21′.05 W 
+141 24°28′.18 N 80°24′.35 W 
+142 24°28′.06 N 80°25′.10 W 
+143 24°27′.23 N 80°27′.20 W 
+144 24°26′.30 N 80°29′.30 W 
+145 24°25′.07 N 80°32′.22 W 
+146 24°23′.30 N 80°36′.09 W 
+147 24°22′.33 N 80°38′.56 W 
+148 24°22′.07 N 80°39′.51 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 72 - 
  
-1.2.7 Cargo area is that part of the OSV where: 
+Point Latitude Longitude 
+149 24°19′.31 N 80°45′.21 W 
+150 24°19′.16 N 80°45′.47 W 
+151 24°18′.38 N 80°46′.49 W 
+152 24°18′.35 N 80°46′.54 W 
+153 24°09′.51 N 80°59′.47 W 
+154 24°09′.48 N 80°59′.51 W 
+155 24°08′.58 N 81°01′.07 W 
+156 24°08′.30 N 81°01′.51 W 
+157 24°08′.26 N 81°01′.57 W 
+158 24°07′.28 N 81°03′.06 W 
+159 24°02′.20 N 81°09′.05 W 
+160 24°00′.00 N 81°11′.16 W 
+161 23°55′.32 N 81°12′.55 W 
+162 23°53′.52 N 81°19′.43 W
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+157 24°08′.26 N 81°01′.57 W 
+158 24°07′.28 N 81°03′.06 W 
+159 24°02′.20 N 81°09′.05 W 
+160 24°00′.00 N 81°11′.16 W 
+161 23°55′.32 N 81°12′.55 W 
+162 23°53′.52 N 81°19′.43 W 
+163 23°50′.52 N 81°29′.59 W 
+164 23°50′.02 N 81°39′.59 W 
+165 23°49′.05 N 81°49′.59 W 
+166 23°49′.05 N 82°00′.11 W 
+167 23°49′.42 N 82°09′.59 W 
+168 23°51′.14 N 82°24′.59 W 
+169 23°51′.14 N 82°39′.59 W 
+170 23°49′.42 N 82°48′.53 W 
+171 23°49′.32 N 82°51′.11 W 
+172 23°49′.24 N 82°59′.59 W 
+173 23°49′.52 N 83°14′.59 W 
+174 23°51′.22 N 83°25′.49 W 
+175 23°52′.27 N 83°33′.01 W 
+176 23°54′.04 N 83°41′.35 W 
+177 23°55′.47 N 83°48′.11 W 
+178 23°58′.38 N 83°59′.59 W 
+179 24°09′.37 N 84°29′.27 W 
+180 24°13′.20 N 84°38′.39 W 
+181 24°16′.41 N 84°46′.07 W 
+182 24°23′.30 N 84°59′.59 W 
+183 24°26′.37 N 85°06′.19 W 
+184 24°38′.57 N 85°31′.54 W 
+185 24°44′.17 N 85°43′.11 W 
+186 24°53′.57 N 85°59′.59 W 
+187 25°10′.44 N 86°30′.07 W 
+188 25°43′.15 N 86°21′.14 W 
+189 26°13′.13 N 86°06′.45 W 
+190 26°27′.22 N 86°13′.15 W
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+185 24°44′.17 N 85°43′.11 W 
+186 24°53′.57 N 85°59′.59 W 
+187 25°10′.44 N 86°30′.07 W 
+188 25°43′.15 N 86°21′.14 W 
+189 26°13′.13 N 86°06′.45 W 
+190 26°27′.22 N 86°13′.15 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 73 - 
  
-.1 a pollution hazard only substance having a flashpoint exceeding 60°C and 
-not defined as toxic is likely to be present and includes cargo tanks, portable 
-tanks used as deck cargo tanks, slop tanks, cargo pump-rooms, pump-rooms 
-adjacent to cargo tanks and enclosed spaces in which pipes containing 
-cargoes are located; areas on open deck are not considered part of the cargo 
-area; 
+Point Latitude Longitude 
+191 26°33′.46 N 86°37′.07 W 
+192 26°01′.24 N 87°29′.35 W 
+193 25°42′.25 N 88°33′.00 W 
+194 25°46′.54 N 90°29′.41 W 
+195 25°44′.39 N 90°47′.05 W 
+196 25°51′.43 N 91°52′.50 W 
+197 26°17′.44 N 93°03′.59 W 
+198 25°59′.55 N 93°33′.52 W 
+199 26°00′.32 N 95°39′.27 W 
+200 26°00′.33 N 96°48′.30 W 
+201 25°58′.32 N 96°55′.28 W 
+202 25°58′.15 N 96°58′.41 W 
+203 25°57′.58 N 97°01′.54 W 
+204 25°57′.41 N 97°05′.08 W 
+205 25°57′.24 N 97°08′.21 W 
+206 25°57′.24 N 97°08′.47 W 
  
-.2 a safety hazard substance having a flashpoint exceeding 60°C and not 
-defined as a toxic is likely to be present and includes cargo tanks, portable 
-tanks used as deck cargo tanks, slop tanks, cargo pump-rooms, pump-rooms
+ 
+.3 the sea area located off the coasts of the Hawaiian Islands of Hawai'i, Maui,
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+204 25°57′.41 N 97°05′.08 W 
+205 25°57′.24 N 97°08′.21 W 
+206 25°57′.24 N 97°08′.47 W 
+ 
+ 
+.3 the sea area located off the coasts of the Hawaiian Islands of Hawai'i, Maui, 
+Oahu, Moloka 'i, Ni 'ihau, Kaua 'i, Lana 'i and Kaho'olawe, enclosed by 
+geodesic lines connecting the following coordinates: 
+ 
+Point Latitude Longitude 
+1 22°32′.54 N 153°00′.33 W 
+2 23°06′.05 N 153°28′.36 W 
+3 23°32′.11 N 154°02′.12 W 
+4 23°51′.47 N 154°36′.48 W 
+5 24°21′.49 N 155°51′.13 W 
+6 24°41′.47 N 156°27′.27 W 
+7 24°57′.33 N 157°22′.17 W 
+8 25°13′.41 N 157°54′.13 W 
+9 25°25′.31 N 158°30′.36 W 
+10 25°31′.19 N 159°09′.47 W 
+11 25°30′.31 N 159°54′.21 W 
+12 25°21′.53 N 160°39′.53 W 
+13 25°00′.06 N 161°38′.33 W 
+14 24°40′.49 N 162°13′.13 W 
+15 24°15′.53 N 162°43′.08 W 
+16 23°40′.50 N 163°13′.00 W 
+17 23°03′.20 N 163°32′.58 W 
+18 22°20′.09 N 163°44′.41 W 
+19 21°36′.45 N 163°46′.03 W 
+20 20°55′.26 N 163°37′.44 W 
+21 20°13′.34 N 163°19′.13 W 
+RESOLUTION MEPC.328(76)
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+16 23°40′.50 N 163°13′.00 W 
+17 23°03′.20 N 163°32′.58 W 
+18 22°20′.09 N 163°44′.41 W 
+19 21°36′.45 N 163°46′.03 W 
+20 20°55′.26 N 163°37′.44 W 
+21 20°13′.34 N 163°19′.13 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 74 - 
+ 
+Point Latitude Longitude 
+22 19°39′.03 N 162°53′.48 W 
+23 19°09′.43 N 162°20′.35 W 
+24 18°39′.16 N 161°19′.14 W 
+25 18°30′.31 N 160°38′.30 W 
+26 18°29′.31 N 159°56′.17 W 
+27 18°10′.41 N 159°14′.08 W 
+28 17°31′.17 N 158°56′.55 W 
+29 16°54′.06 N 158°30′.29 W 
+30 16°25′.49 N 157°59′.25 W 
+31 15°59′.57 N 157°17′.35 W 
+32 15°40′.37 N 156°21′.06 W 
+33 15°37′.36 N 155°22′.16 W 
+34 15°43′.46 N 154°46′.37 W 
+35 15°55′.32 N 154°13′.05 W 
+36 16°46′.27 N 152°49′.11 W 
+37 17°33′.42 N 152°00′.32 W 
+38 18°30′.16 N 151°30′.24 W 
+39 19°02′.47 N 151°22′.17 W 
+40 19°34′.46 N 151°19′.47 W

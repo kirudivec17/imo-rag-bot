@@ -1,5096 +1,1493 @@
-SOURCE: MEPC.262(68).pdf
-MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
-(RESOLUTION MEPC.232(65), AS AMENDED BY 
-RESOLUTION MEPC.255(67))MEPC 68/21/Add.1 
-Annex 7, page 2 
+SOURCE: MEPC.328%2876%29.pdf
+.6 Calendar year means the period from 1 January until 31 December inclusive. 
  
+.7 Combination carrier means a ship designed to load 100% deadweight with 
+both liquid and dry cargo in bulk. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 7 - 
  
-https://edocs.imo.org/Final Documents/English/MEPC 68-21-ADD.1 (E).doc 
-ANNEX 
+.8 Company means the owner of the ship or any other organization or person 
+such as the manager, or the bareboat charterer, who has assumed the 
+responsibility for operation of the ship from the owner of the ship and who on 
+assuming such responsibility has agreed to take over all the duties and 
+responsibilities imposed by the International Management Code for the Safe 
+Operation of Ships and for Pollution Prevention, as amended. 
  
-AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR  
-DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
-MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
-(RESOLUTION MEPC.232(65), AS AMENDED BY RESOLUTION MEPC.255(67)) 
- 
- 
-Appendix – Assessment procedures to maintain the manoeuvrability under adverse 
-conditions, applicable during phase 0 and phase 1 of the EEDI implementation 
- 
-Table 1 in paragraph 2 is replaced as follows: 
- 
-" 
-Table 1: Parameters a and b for determination of the minimum 
-power line values for the different ship types 
-Ship type a b 
-Bulk carrier which DWT is less than 145,000 0.0763 3374.3 
-Bulk carrier which DWT is 145,000 and over 0.0490 7329.0 
-Tanker 0.0652 5960.2 
-Combination Carrier see tanker above 
-         " 
- 
- 
-***
+.9 Containership means a ship designed exclusively for the carriage of containers 
+in holds and on deck.
 
 ---CHUNK---
 
-SOURCE: MEPC.262(68).pdf
-Bulk carrier which DWT is less than 145,000 0.0763 3374.3 
-Bulk carrier which DWT is 145,000 and over 0.0490 7329.0 
-Tanker 0.0652 5960.2 
-Combination Carrier see tanker above 
-         " 
+SOURCE: MEPC.328%2876%29.pdf
+Operation of Ships and for Pollution Prevention, as amended. 
  
+.9 Containership means a ship designed exclusively for the carriage of containers 
+in holds and on deck. 
  
-*** 
+ .10 Conventional propulsion means a method of propulsion where a main 
+reciprocating internal combustion engine(s) is the prime mover and coupled to 
+a propulsion shaft either directly or through a gear box. 
  
-RESOLUTION MEPC.262(68) 
-(adopted on 15 May 2015) 
-AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
-MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
-(RESOLUTION MEPC.232(65), AS AMENDED BY 
-RESOLUTION MEPC.255(67))RESOLUTION MEPC.262(68) 
-(adopted on 15 May 2015) 
-AMENDMENTS TO THE 2013 INTERIM GUIDELINES FOR DETERMINING MINIMUM PROPULSION POWER TO MAINTAIN THE 
-MANOEUVRABILITY OF SHIPS IN ADVERSE CONDITIONS 
-(RESOLUTION MEPC.232(65), AS AMENDED BY 
-RESOLUTION MEPC.255(67))
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+ .11 Cruise passenger ship means a passenger ship not having a cargo deck, 
+designed exclusively for commercial transportation of passengers in overnight 
+accommodations on a sea voyage. 
  
+ .12 Distance travelled means distance travelled over ground. 
  
+ .13 Existing ship means a ship which is not a new ship. 
  
-E 
+ .14 Gas carrier means a cargo ship, other than an LNG carrier as defined in 
+paragraph 2.16 of this regulation, constructed or adapted and used for the 
+carriage in bulk of any liquefied gas. 
   
-ASSEMBLY 
-31st session  
-Agenda item 10 
- 
-A 31/Res.1141 
-6 January 2020 
-Original: ENGLISH 
- 
-Resolution A.1141(31)  
- 
-Adopted on 4 December 2019 
-(Agenda item 10) 
- 
- 2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER 
-INSTRUMENTS RELEVANT TO THE IMO INSTRUMENTS 
-IMPLEMENTATION CODE (III CODE) 
- 
- 
-THE ASSEMBLY,  
- 
-RECALLING Article 15(j) of the Convention on the International Maritime Organization 
-concerning the functions of the Assembly in relation to regulations and guide lines regarding 
-maritime safety and the prevention and control of marine pollution from ships, 
- 
-RECALLING ALSO that, by resolution A.1070(28), it adopted  the IMO Instruments 
-Implementation Code (III Code),
+ .15 General cargo ship means a ship with a multi-deck or single deck hull designed
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-maritime safety and the prevention and control of marine pollution from ships, 
- 
-RECALLING ALSO that, by resolution A.1070(28), it adopted  the IMO Instruments 
-Implementation Code (III Code),  
- 
-RECALLING FURTHER resolution A.1121(30), by which it adopted the 2017 Non-exhaustive 
-list of obligations under instruments relevant to the IMO Instruments Implementation Code 
-(III Code) (hereafter referred to as the "Non-exhaustive list of obligations") for guidance on the 
-implementation and enforcement of IMO instruments, in particular concerning the identification 
-of auditable areas relevant to the IMO Member State Audit Scheme , following successive 
-revocation of resolutions A.1105(29) and A.1077(28), 
- 
-RECOGNIZING the need for the annexes to the Non-exhaustive list of obligations to be further 
-revised to take account of the amendments to the IMO instruments relevant to the III Code 
-which have entered into force or become effective since the adoption of resolution A.1121(30),
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-revised to take account of the amendments to the IMO instruments relevant to the III Code 
-which have entered into force or become effective since the adoption of resolution A.1121(30), 
- 
-RECOGNIZING ALSO that par ties to the relevant international conventions have, as part of 
-the ratification process, agreed to fully meet their responsibilities and to discharge their 
-obligations under the conventions and other instruments to which they are party, 
- 
-REAFFIRMING that it is the primary responsibility of States to have in place an adequate and 
-effective system to exercise control over ships entitled to fly their flag and to ensure that they 
-comply with relevant international rules and regulations in respect of maritime safety, security 
-and protection of the marine environment, 
- 
-REAFFIRMING ALSO that States, in their capacity as flag, port and coastal States, have other 
-obligations and responsibilities under applicable international law in respect of maritime safety,
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-REAFFIRMING ALSO that States, in their capacity as flag, port and coastal States, have other 
-obligations and responsibilities under applicable international law in respect of maritime safety, 
-security and protection of the marine environment, 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 2 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-NOTING that, while States may gain certain benefits by becoming party to instruments aimed 
-at promoting maritime safety, security and protection of the marine environment, these benefits 
-can be fully real ized only when all parties carry out their obligations as required by the 
-instruments concerned, 
- 
-NOTING ALSO that the ultimate effectiveness of any instrument depends, inter alia, upon all 
-States: 
- 
-(a) becoming party to all instru ments related to maritime  safety, security and
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-NOTING ALSO that the ultimate effectiveness of any instrument depends, inter alia, upon all 
-States: 
- 
-(a) becoming party to all instru ments related to maritime  safety, security and 
-pollution prevention and control; 
- 
-(b) implementing and enforcing such instruments fully and effectively; and 
- 
-(c) reporting to the Organization as required, 
- 
-NOTING FURTHER that, by resolutions A.1083(28), A.1084(28) and A.1085(28), it adopted 
-amendments to the International Convention on Load Lines, 1966, the International 
-Convention on Tonnage Measurement of Ships, 1969, and the Convention on the International 
-Regulations for Preventing Collisions at Sea, 1972, to make the use of the III Code mandatory 
-under these conventions, 
- 
-NOTING that the Maritime Safety Committee, by resolutions MSC.366(93), MSC.373(93), 
-MSC.374(93) and MSC.375(93), adopted amendments to the International Convention for the
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-NOTING that the Maritime Safety Committee, by resolutions MSC.366(93), MSC.373(93), 
-MSC.374(93) and MSC.375(93), adopted amendments to the International Convention for the 
-Safety of Life at Sea, 1974, the International Convention on Standards of Training, Certification 
-and Watchkeeping for Seafarers, 1978 , the Seafarers ' Training, Certification and 
-Watchkeeping (STCW) Code, and the Protocol of 1988 relating to the International Convention 
-on Load Lines, 1966, respectively, to make the use of the III Code mandatory  under these 
-instruments, 
- 
-NOTING ALSO that the Marine Envi ronment Protection Committee, by 
-resolutions MEPC.246(66) and MEPC.247(66), adopted amendments to  the International 
-Convention for the Prevent ion of Pollution from Ships, 1973, as modified by the Protocol of 
-1978 relating thereto, and the Protocol of 1997 to amend the International Convention for the 
-Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto,
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-1978 relating thereto, and the Protocol of 1997 to amend the International Convention for the 
-Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, 
-respectively, to make the use of the III Code mandatory under these instruments, 
- 
-HAVING CONSIDERED the recommenda tions made by the Marine Environment Protection 
-Committee, at its seventy-fourth session, and the Maritime Safety Committee, at its 101st  
-session, 
- 
-1 ADOPTS the 2019 Non-exhaustive list of obligations under instruments relevant to 
-the IMO Instruments Imple mentation Code (III Code ), as set out in the annex to the present 
-resolution; 
- 
-2 URGES Governments of all States, in their capacity as flag, port and coastal States, 
-to make use of the list as much as possible in implementing IMO instruments on a national 
-basis; 
- 
-3 REQUESTS the Maritime Safety Committee and the Marine Environment Protection 
-Committee to keep the list under review and to amend it as necessary;
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-basis; 
- 
-3 REQUESTS the Maritime Safety Committee and the Marine Environment Protection 
-Committee to keep the list under review and to amend it as necessary; 
- 
-4 REVOKES resolution A.1121(30). 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 3 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 
- 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT  
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) 
- 
-(This Non-exhaustive list of obligations takes into account the amendments to the IMO instruments relevant to the 
-III Code which have, or are expected to have, entered into force by or on 1 July 2020) 
- 
- 
-Table of contents 
- 
- 
-Annex 1: OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
- 
-Annex 2: SPECIFIC FLAG STATE OBLIGATIONS 
- 
-Annex 3: SPECIFIC COASTAL STATE OBLIGATIONS 
- 
-Annex 4: SPECIFIC PORT STATE OBLIGATIONS
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Annex 1: OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
- 
-Annex 2: SPECIFIC FLAG STATE OBLIGATIONS 
- 
-Annex 3: SPECIFIC COASTAL STATE OBLIGATIONS 
- 
-Annex 4: SPECIFIC PORT STATE OBLIGATIONS 
- 
-Annex 5: INSTRUMENTS MADE MANDATORY UNDER IMO CONVENTIONS 
- 
-Annex 6: SUMMARY OF AMENDMENTS TO MANDATORY INSTRUMENTS 
-REFLECTED IN THE NON-EXHAUSTIVE LIST OF OBLIGATIONS (ANNEXES 1 
-TO 4) 
- 
-Annex 7: AMENDMENTS TO IMO INSTRUMENTS EXPECTED TO BE ACCEPTED 
-AND TO ENTER INTO FORCE BETWEEN 1 JANUARY 2020 
-AND 1 JULY 2020 
- 
- 
- 
- 
+SOURCE: MEPC.328%2876%29.pdf
+carriage in bulk of any liquefied gas. 
   
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 4 
+ .15 General cargo ship means a ship with a multi-deck or single deck hull designed 
+primarily for the carriage of general cargo. This definition excludes specialized 
+dry cargo ships, which are not included in the calculation of reference lines for 
+general cargo ships, namely livestock carrier, barge carrier, heavy load carrier, 
+yacht carrier, nuclear fuel carrier. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 1 
+ .16 LNG carrier means a cargo ship constructed or adapted and used for the 
+carriage in bulk of liquefied natural gas (LNG). 
  
-OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
+  .17 Major conversion means a conversion of a ship: 
  
+ .1 which substantially alters the dimensions, carrying capacity or engine 
+power of the ship; or 
  
-The following table contains a non -exhaustive list of obligations, including those obligations 
-imposed when a right is exercised. 
+ .2 which changes the type of the ship; or 
  
+ .3 the intent of which in the opinion of the Administration is substantially 
+to prolong the life of the ship; or 
  
-OBLIGATIONS OF CONTRACTING
+ .4 which otherwise so alters the ship that, if it were a new ship, it would
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-The following table contains a non -exhaustive list of obligations, including those obligations 
-imposed when a right is exercised. 
+SOURCE: MEPC.328%2876%29.pdf
+.3 the intent of which in the opinion of the Administration is substantially 
+to prolong the life of the ship; or 
  
+ .4 which otherwise so alters the ship that, if it were a new ship, it would 
+become subject to relevant provisions of the present Convention not 
+applicable to it as an existing ship; or 
  
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
+ .5 which substantially alters the energy efficiency of the ship and 
+includes any modifications that could cause the ship to exceed the 
+applicable required EEDI as set out in regulation 24 of this Annex or 
+the applicable required EEXI as set out in regulation 25 of this 
+Annex. 
  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-TONNAGE 1969  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 8 - 
  
+.18 New ship means a ship: 
  
-Article 1 
- 
-General obligation under the Convention 
- 
- 
-Article 5(2) 
- 
-Force majeure 
- 
- 
-Article 8 
- 
-Issue of a certificate by another Government 
- 
- 
-Article 10 
- 
-Cancellation of certificate 
- 
- 
-Article 11 Acceptance of certificates 
- 
- 
-Article 15 Communication of information 
- 
- 
-LL 1966 and LL PROT 
-19881     
-Article 1 
- 
-General obligation under the Convention 
- 
- 
- 
- 
- 
-General obligations 
- 
-LL PROT 1988 only 
-(Article I) 
- 
-Article 7(2) 
- 
-Force majeure 
- 
- 
- 
-Article 17 
- 
- 
-Issue or endorsement of certificates by another 
-Government 
- 
-amended by  
-LL PROT 1988 
- 
-Article 20 Acceptance of certificates 
- 
- 
-Article 25 
- 
-Special rules drawn up by agreement  
- 
-Article 26 Communication of information
+ .1 for which the building contract is placed on or after 1 January 2013; 
+or
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Government 
+SOURCE: MEPC.328%2876%29.pdf
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 8 - 
  
-amended by  
-LL PROT 1988 
+.18 New ship means a ship: 
  
-Article 20 Acceptance of certificates 
+ .1 for which the building contract is placed on or after 1 January 2013; 
+or 
  
+ .2 in the absence of a building contract, the keel of which is laid or which 
+is at a similar stage of construction on or after 1 July 2013; or 
  
-Article 25 
+ .3 the delivery of which is on or after 1 July 2015. 
  
-Special rules drawn up by agreement  
+.19 Non-conventional propulsion means a method of propulsion, other than 
+conventional propulsion, including diesel-electric propulsion, turbine propulsion, 
+and hybrid propulsion systems. 
  
-Article 26 Communication of information 
+.20 Passenger ship means a ship which carries more than 12 passengers. 
  
+.21 Polar Code means the International Code for Ships Operating in Polar 
+Waters, consisting of an introduction, parts I -A and II -A and parts I -B and  
+II-B, as adopted by resolutions MSC.385(94) and MEPC.264(68), as may be 
+amended, provided that:  
  
+.1 amendments to the environment -related provisions of the
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+II-B, as adopted by resolutions MSC.385(94) and MEPC.264(68), as may be 
+amended, provided that:  
  
+.1 amendments to the environment -related provisions of the 
+introduction and chapter 1 of part II-A of the Polar Code are adopted, 
+brought into force and take effect in accordance with the provisions 
+of article 16 of the present Convention concerning the amend ment 
+procedures applicable to an appendix to an annex; and  
  
+.2 amendments to part II -B of the Polar Code are adopted by the 
+Marine Environment Protection Committee in accordance with its 
+Rules of Procedure. 
  
-Communication of information LL PROT 1988 only 
-(Article III) 
+ .22 Refrigerated cargo carrier means a ship designed exclusively for the carriage 
+of refrigerated cargoes in holds. 
  
+ .23 Required annual operational CII is the target value of attained annual 
+operational CII in accordance with regulations 26 and 28 of this Annex for 
+the specific ship type and size. 
  
-1 When the obligation does not derive from the International Convention on Load Lines, 1966, but solely from 
-the Protocol of 1988 relating thereto, this is indicated in the "Comments" column. 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 5 
+  .24 Required EEDI is the maximum value of attained EEDI that is allowed by
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+operational CII in accordance with regulations 26 and 28 of this Annex for 
+the specific ship type and size. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+  .24 Required EEDI is the maximum value of attained EEDI that is allowed by 
+regulation 24 of this Annex for the specific ship type and size. 
  
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
+  .25 Required EEXI is the maximum value of attained EEXI that is allowed by 
+regulation 25 of this Annex for the specific ship type and size. 
  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-COLREG 1972 
+ .26 Ro-ro cargo ship means a ship designed for the carriage of roll -on-roll-off 
+cargo transportation units. 
+ 
+  .27 Ro-ro cargo ship (vehicle carrier) means a multi-deck roll-on-roll-off cargo ship 
+designed for the carriage of empty cars and trucks. 
+ 
+  .28 Ro-ro passenger ship means a passenger ship with roll -on-roll-off cargo 
+spaces. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 9 -
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 9 - 
+ 
+  .29 Tanker means an oil tanker as defined in regulation 1 of Annex I of the present 
+Convention or a chemical tanker or an NLS tanker as defined in regulation 1 of 
+Annex II to the present Convention. 
+ 
+Regulation 3 
+Exceptions and exemptions 
+ 
+General 
+ 
+1 Regulations of this Annex shall not apply to: 
+ 
+.1 any emission necessary for the purpose of securing the safety of a ship or 
+saving life at sea; or 
+ 
+.2 any emission resulting from damage to a ship or its equipment: 
+ 
+.2.1 provided that all reasonable precautions have been taken after the 
+occurrence of the damage or discovery of the emission for the 
+purpose of preventing or minimizing the emission; and 
+ 
+.2.2 except if the owner or the master acted either with intent to cause
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+occurrence of the damage or discovery of the emission for the 
+purpose of preventing or minimizing the emission; and 
+ 
+.2.2 except if the owner or the master acted either with intent to cause 
+damage, or recklessly and with knowledge that damage would 
+probably result. 
+ 
+Trials for ship emission reduction and control technology research 
+ 
+2 The Administration of a Party may, in cooperation with other Administrations as 
+appropriate, issue an exemption from specific provisions of this Annex for a ship to conduct trials 
+for the development of ship emission reduction and control technologies and engine design 
+programmes. Such an exemption shall only be provided if the applications of specific provisions 
+of the Annex or the revised NO x Technical Code 2008 could impede research into the 
+development of such technologies or programmes. A permit issued under this regulation shall not 
+exempt a ship from the reporting requirement under regulation 27 and shall not alter the type and
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+development of such technologies or programmes. A permit issued under this regulation shall not 
+exempt a ship from the reporting requirement under regulation 27 and shall not alter the type and 
+scope of data required to be reported under regulation 27. A permit for such an exemption 
+shall only be provided to the minimum number of ships necessary and be subject to the 
+following provisions: 
+ 
+.1 for marine diesel engines with a per cylinder displacement up to 30 L, the 
+duration of the sea trial shall not exceed 18 months. If additional time is 
+required, a permitting Administration or Administrations may permit a renewal 
+for one additional 18-month period; or 
+ 
+.2 for marine diesel engines with a per cylinder displacement at or above 30 L, 
+the duration of the ship trial shall not exceed five years and shall require a 
+progress review by the permitting Administration or Administrations at each 
+intermediate survey. A permit may be withdrawn based on this review if the
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+progress review by the permitting Administration or Administrations at each 
+intermediate survey. A permit may be withdrawn based on this review if the 
+testing has not adhered to the conditions of the permit or if it is determined that 
+the technology or programme is not likely to produce effective results in the 
+reduction and control of ship emissions. If the reviewing Administration or 
+Administrations determine that additional time is required to conduct a test of 
+a particular technology or programme, a permit may be renewed for an 
+additional time period not to exceed five years. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 10 - 
+ 
+Emissions from seabed mineral activities 
+ 
+3.1 Emissions directly arising from the exploration, exploitation and associated offshore
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Emissions from seabed mineral activities 
+ 
+3.1 Emissions directly arising from the exploration, exploitation and associated offshore 
+processing of seabed mineral resources are, consistent with article 2(3)(b)(ii) of the present 
+Convention, exempt from the provisions of this Annex. Such emissions include the following: 
+ 
+.1 emissions resulting from the incineration of substances that are solely and 
+directly the result of exploration, exploitation and associated offshore 
+processing of seabed mineral resources, including but not limited to the flaring 
+of hydrocarbons and the burning of cuttings, muds, and/or stimulation fluids 
+during well completion and testing operations, and flaring arising from upset 
+conditions; 
+ 
+.2 the release of gases and volatile compounds entrained in drilling fluids and 
+cuttings; 
+ 
+.3 emissions associated solely and directly with the treatment, handling or storage 
+of seabed minerals; and
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+cuttings; 
+ 
+.3 emissions associated solely and directly with the treatment, handling or storage 
+of seabed minerals; and 
+ 
+.4 emissions from marine diesel engines that are solely dedicated to the 
+exploration, exploitation and associated offshore processing of seabed mineral 
+resources. 
+ 
+3.2 The requirements of regulation 18 of this Annex shall not apply to the use of 
+hydrocarbons that are produced and subsequently used on site as fuel, when approved by the 
+Administration. 
+ 
+Unmanned non-self-propelled barges  
+ 
+4  The Administration may exempt an unmanned non-self-propelled (UNSP) barge from 
+the requirements of regulations 5.1 and 6.1 of this Annex by means of an International Air 
+Pollution Prevention Exemption Certificate for Unmanned Non-self-propelled (UNSP) Barges, 
+for a period not exceeding five years provided that the barge has unde rgone a survey to 
+confirm that conditions referred to in regulations 2.1.32.1 to 2.1.32.3 of this Annex are met. 
+ 
+Regulation 4
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+confirm that conditions referred to in regulations 2.1.32.1 to 2.1.32.3 of this Annex are met. 
+ 
+Regulation 4 
+Equivalents 
+ 
+1 The Administration of a Party may allow any fitting, material, appliance or apparatus to 
+be fitted in a ship or other procedures, alternative fuel oils, or compliance methods used as an 
+alternative to those required by this Annex if such fitting, material, appliance or apparatus or other 
+procedures, alternative fuel oils, or compliance methods are at least as effective in terms of 
+emissions reductions as those required by this Annex, including any of the standards set forth in 
+regulations 13 and 14. 
+ 
+2 The Administration of a Party that allows a fitting, material, appliance or apparatus or 
+other procedures, alternative fuel oils, or compliance methods used as an alternative to those 
+required by this Annex shall communicate to the Organization for circulation to the Parties 
+particulars thereof, for their information and appropriate action, if any.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+required by this Annex shall communicate to the Organization for circulation to the Parties 
+particulars thereof, for their information and appropriate action, if any. 
+ 
+3 The Administration of a Party should take into account any relevant guidelines 
+developed by the Organization pertaining to the equivalents provided for in this regulation. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 11 - 
+ 
+4 The Administration of a Party that allows the use of an equivalent as set forth in 
+paragraph 1 of this regulation shall endeavour not to impair or damage its environment, human 
+health, property or resources or those of other States. 
+ 
+Chapter 2 – Survey, certification and means of control 
+ 
+Regulation 5 
+Surveys 
+ 
+1 Every ship of 400 gross tonnage and above and every fixed and floating drilling rig or
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Chapter 2 – Survey, certification and means of control 
+ 
+Regulation 5 
+Surveys 
+ 
+1 Every ship of 400 gross tonnage and above and every fixed and floating drilling rig or 
+other platform shall, to ensure compliance with the requirements of chapter 3 of this Annex, be 
+subject to the surveys specified below: 
+ 
+.1 An initial survey before the ship is put into service or before the certificate 
+required under regulation 6 of this Annex is issued for the first time. 
+This survey shall be such as to ensure that the equipment, systems, fittings, 
+arrangements and material fully comply with the applicable requirements of 
+chapter 3 of this Annex; 
+ 
+.2 A renewal survey at intervals specified by the Administration, but not 
+exceeding five years, except where regulation 9.2, 9.5, 9.6 or 9.7 of this Annex 
+is applicable. The renewal survey shall be such as to ensure that the 
+equipment, systems, fittings, arrangements and material fully comply with
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+is applicable. The renewal survey shall be such as to ensure that the 
+equipment, systems, fittings, arrangements and material fully comply with 
+applicable requirements of chapter 3 of this Annex; 
+ 
+.3 An intermediate survey within three months before or after the second 
+anniversary date or within three months before or after the third anniversary 
+date of the certificate which shall take the place of one of the annual surveys 
+specified in paragraph 1.4 of this regulation. The intermediate survey shall be 
+such as to ensure that the equipment and arrangements fully comply with the 
+applicable requirements of chapter 3 of this Annex and are in good working 
+order. Such intermediate surveys shall be endorsed on the IA PP Certificate 
+issued under regulation 6 or 7 of this Annex; 
+ 
+.4 An annual survey within three months before or after each anniversary date 
+of the certificate, including a general inspection of the equipment, systems,
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.4 An annual survey within three months before or after each anniversary date 
+of the certificate, including a general inspection of the equipment, systems, 
+fittings, arrangements and material referred to in paragraph 1.1 of this 
+regulation to ensure that they have been maintained in accordance with 
+paragraph 5 of this regulation and that they remain satisfactory for the service 
+for which the ship is intended. Such annual surveys shall be endorsed on the 
+IAPP Certificate issued under regulation 6 or 7 of this Annex; and 
+ 
+.5 An additional survey either general or partial, according to the circumstances, 
+shall be made whenever any important repairs or renewals are made as 
+prescribed in paragraph 5 of this regulation or after a repair resulting from 
+investigations prescribed in paragraph 6 of this regulation. The survey shall be 
+such as to ensure that the necessary repairs or renewals have been effectively
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+investigations prescribed in paragraph 6 of this regulation. The survey shall be 
+such as to ensure that the necessary repairs or renewals have been effectively 
+made, that the material and workmanship of such repairs or renewals are in all 
+respects satisfactory and that the ship complies in all respects with the 
+requirements of chapter 3 of this Annex. 
+ 
+2 In the case of ships of less than 400 gross tonnage, the Administration may establish 
+appropriate measures in order to ensure that the applicable provisions of chapter 3 of this Annex 
+are complied with. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 12 - 
+ 
+3 Surveys of ships as regards the enforcement of the provisions of this Annex shall be 
+carried out by officers of the Administration.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+3 Surveys of ships as regards the enforcement of the provisions of this Annex shall be 
+carried out by officers of the Administration. 
+ 
+.1 The Administration may, however, entrust the surveys either to surveyors 
+nominated for the purpose or to organizations recognized by it. 
+Such organizations shall comply with the guidelines adopted by the 
+Organization. 
+ 
+.2 The survey of marine diesel engines and equipment for compliance with 
+regulation 13 of this Annex shall be conducted in accordance with the revised 
+NOx Technical Code 2008. 
+ 
+.3 When a nominated surveyor or recognized organization determines that the 
+condition of the equipment does not correspond substantially with the  
+particulars of the certificate, it shall ensure that corrective action is taken and 
+shall in due course notify the Administration. If such corrective action is not 
+taken, the certificate shall be withdrawn by the Administration. If the ship is in a
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+shall in due course notify the Administration. If such corrective action is not 
+taken, the certificate shall be withdrawn by the Administration. If the ship is in a 
+port of another Party, the appropriate authorities of the port State shall also be 
+notified immediately. When an officer of the Administration, a nominated 
+surveyor or recognized organization has notified the appropriate authorities of 
+the port State, the Government of the port State concerned shall give such 
+officer, surveyor or organization any necessary assistance to carry out their 
+obligations under this regulation. 
+ 
+.4 In every case, the Administration concerned shall fully guarantee the 
+completeness and efficiency of the survey and shall undertake to ensure the 
+necessary arrangements to satisfy this obligation. 
+ 
+4 Ships to which chapter 4 of this Annex applies shall also be subject to the surveys 
+specified below, taking into account the guidelines adopted by the Organization:
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+4 Ships to which chapter 4 of this Annex applies shall also be subject to the surveys 
+specified below, taking into account the guidelines adopted by the Organization: 
+ 
+.1 an initial survey carried out before a new ship is put in service and before the 
+International Energy Efficiency Certificate is issued. The survey shall verify 
+that the ship's attained EEDI is in accordance with the requirements in 
+chapter 4 of this Annex, and that the SEEMP required by regulation 26 of this 
+Annex is on board; 
+ 
+.2 a general or partial survey, according to the circumstances, carried out after a 
+major conversion of a new ship to which this regulation applies. The survey 
+shall ensure that the attained EEDI is recalculated as necessary and meets 
+the requirement of regulation 24 of this Annex, with the reduction factor 
+applicable to the ship type and size of the converted ship in the phase 
+corresponding to the date of contract or keel laying or delivery determined for
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+applicable to the ship type and size of the converted ship in the phase 
+corresponding to the date of contract or keel laying or delivery determined for 
+the original ship in accordance with regulation 2.2.18 of this Annex; 
+ 
+.3 in cases where the major conversion of a new or existing ship is so extensive 
+that the ship is regarded by the Administration as a newly constructed ship, the 
+Administration shall determine the necessity of an initial survey on attained 
+EEDI. Such a survey, if determined necessary, shall ensure that the attained 
+EEDI is calculated and meets the requirement of regulation 24 of this Annex, 
+with the reduction factor applicable corresponding to the ship type and size of 
+the converted ship at the date of the contract of the conversion, or in the 
+absence of a contract, the commencement date of the conversion. The survey 
+shall also verify that the SEEMP required by regulation 26 of this Annex is on
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+absence of a contract, the commencement date of the conversion. The survey 
+shall also verify that the SEEMP required by regulation 26 of this Annex is on 
+board and, for a ship to which regulation 27 applies, has been revised 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 13 - 
+ 
+appropriately to reflect a major conversion in those cases where the major 
+conversion affects data collection methodology and/or reporting processes; 
+ 
+.4 for existing ships, the verification of the requirement to have a SEEMP on 
+board according to regulation 26 of this Annex shall take place at the first 
+intermediate or renewal survey identified in paragraph 1 of this regulation, 
+whichever is the first, on or after 1 January 2013; 
+ 
+.5 the Administration shall ensure that for each ship to which regulation 27 applies,
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+whichever is the first, on or after 1 January 2013; 
+ 
+.5 the Administration shall ensure that for each ship to which regulation 27 applies, 
+the SEEMP complies with regulation 26.2 of this Annex. This shall be done 
+prior to collecting data under regulation 27 of this Annex in order to ensure the 
+methodology and processes are in place prior to the beginning of the ship's 
+first reporting period. Confirmation of compliance shall be provided to and 
+retained on board the ship; 
+ 
+.6 the Administration shall ensure that, for each ship to which regulation 28 
+applies, the SEEMP complies with regulation 26.3.1 of this Annex. This shall 
+be done prior to 1 January 2023. Confirmation of compliance shall be 
+provided to, and retained on board, the ship; 
   
-Article I General obligations  
- 
-STCW 1978   
-Article I 
- 
-General obligations under the Convention 
- 
- 
-Article IV 
- 
-Communication of information 
- 
- 
-Article XI(1)
+.7 the verification that the ship 's attained EEXI is in accordance with the 
+requirements in regulations 23 and 25 of this Annex shall take place at the 
+first annual, intermediate or renewal survey identified in paragraph 1 of this
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-COLREG 1972 
+SOURCE: MEPC.328%2876%29.pdf
+requirements in regulations 23 and 25 of this Annex shall take place at the 
+first annual, intermediate or renewal survey identified in paragraph 1 of this 
+regulation or the initial survey identified in paragraphs 4.1 and 4.3 of this 
+regulation, whichever is the first, on or after 1 January 2023; and 
   
-Article I General obligations  
+.8 notwithstanding paragraph 4.7 of this regulation, a general or partial survey, 
+according to the circumstances, carried out after a major conversion of a ship 
+to which regulation 23 of this Annex applies. The survey shall ensure that the 
+attained EEXI is recalculated as necessary and meets the requirement of 
+regulation 25 of this Annex. 
  
-STCW 1978   
-Article I 
- 
-General obligations under the Convention 
- 
- 
-Article IV 
- 
-Communication of information 
- 
- 
-Article XI(1) 
- 
-Promotion of technical cooperation 
- 
- 
-Reg. I/2.12 Issue of certificates of competency  
-Reg. I/2.14 Maintenance of a register or registers of all 
-certificates and endorsements 
- 
- 
-Regs. I/2.15 and 2.16 
- 
-Availability of information on the status of certificates 
-of competency, endorsements and dispensations 
-(as of 1 January 2017, available in English through 
-electronic means) 
- 
- 
-Reg. I/3 
- 
-Principles governing near -coastal voyages, 
-communication of information and incorporation of 
-limits in the endorsements 
- 
- 
-Reg. I/5 
- 
-National provisions – impartial investigation, 
-enforcement measures including penalties or 
-disciplinary measures and cooperation 
- 
- 
-Reg. I/6.1 
- 
-Training and assessment – administration, supervision 
-and monitoring 
- 
- 
-Reg. I/6.2
+5 The equipment shall be maintained to conform with the provisions of this Annex and no 
+changes shall be made in the equipment, systems, fittings, arrangements or material covered by 
+the survey, without the express approval of the Administration. The direct replacement of such
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-enforcement measures including penalties or 
-disciplinary measures and cooperation 
+SOURCE: MEPC.328%2876%29.pdf
+changes shall be made in the equipment, systems, fittings, arrangements or material covered by 
+the survey, without the express approval of the Administration. The direct replacement of such 
+equipment and fittings with equipment and fittings that conform with the provisions of this Annex 
+is permitted. 
  
+6 Whenever an accident occurs to a ship or a defect is discovered that substantially 
+affects the efficiency or completeness of its equipment covered by this Annex, the master or 
+owner of the ship shall report at the earliest opportunity to the Administration, a nominated 
+surveyor or recognized organization responsible for issuing the relevant certificate. 
  
-Reg. I/6.1 
+Regulation 6 
+Issue or endorsement of Certificates and Statements of Compliance related to fuel oil 
+consumption reporting and operational carbon intensity rating 
  
-Training and assessment – administration, supervision 
-and monitoring 
+International Air Pollution Prevention Certificate 
  
- 
-Reg. I/6.2 
- 
-Qualification of those responsible for training and 
-assessment 
- 
- 
-Reg. I/7 
- 
-Communication of the information as referred to in 
-article IV of the STCW Convention and  A-I/7 of the 
-STCW Code 
- 
- 
-Regs. I/8.1 and 8.2 
- 
-Quality standards system and periodical 
-independent evaluation 
- 
- 
-Reg. I/8.3 
- 
-Communication of a report containing the results of 
-the evaluation required by regulation I/8.2 
- 
- 
-Regs. I/9.1 and 9.2 Medical standards, procedures for the issue of medical 
-certificates and recognition of medical practitioners  
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 6 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx
+1 An International Air Pollution Prevention (IAPP) Certificate shall be issued, after an initial
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 6 
+SOURCE: MEPC.328%2876%29.pdf
+International Air Pollution Prevention Certificate 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+1 An International Air Pollution Prevention (IAPP) Certificate shall be issued, after an initial 
+or renewal survey in accordance with the provisions of regulation 5 of this Annex, to: 
  
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
+.1 any ship of 400 gross tonnage and above engaged in voyages to ports or 
+offshore terminals under the jurisdiction of other Parties; and 
  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. I/9.6 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 14 - 
  
-Procedures governing the validity of a medical 
-certificate which expires in the course of a voyage 
+.2 platforms and drilling rigs engaged in voyages to waters under the sovereignty 
+or jurisdiction of other Parties. 
  
- 
-Regs. I/11.5 and 11.6 
- 
-Comparison of standards of competence – 
-determination of need for appropriate refresher and 
-updating training or assessment and formulation or 
-promotion of the formulation of a structure of 
-refresher and updating courses 
- 
- 
-Reg. II/5.3  Comparison of standards of competence – 
-determination of the need to update qualifications for 
-able seamen to whom certificates are issued 
-before 1 January 2012 
- 
- 
-Reg. III/5.3  Comparison of standards of competence – 
-determination of the need to update qualifications for 
-ratings in engine department to whom certificates are
+2 A ship constructed before the date this Annex enters into force for that particular ship's 
+Administration, shall be issued with an IAPP Certificate in accordance with paragraph 1 of this
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-before 1 January 2012 
+SOURCE: MEPC.328%2876%29.pdf
+2 A ship constructed before the date this Annex enters into force for that particular ship's 
+Administration, shall be issued with an IAPP Certificate in accordance with paragraph 1 of this 
+regulation no later than the first scheduled dry-docking after the date of such entry into force, 
+but in no case later than three years after this date. 
  
+3 Such certificate shall be issued or endorsed either by the Administration or by any person 
+or organization duly authorized by it. In every case, the Administration assumes full responsibility 
+for the certificate. 
  
-Reg. III/5.3  Comparison of standards of competence – 
-determination of the need to update qualifications for 
-ratings in engine department to whom certificates are 
-issued before 1 January 2012 
+International Energy Efficiency Certificate 
  
- 
-Reg. III/6.3 Comparison of standards of competence – 
-determination of the need to update qualifications for 
-electro-technical officers to whom certificates are 
-issued before 1 January 2012 
- 
- 
-Reg. III/7.3 Comparison of standards of competence – 
-determination of the need to update qualifications for 
-electro-technical ratings to whom certificates are 
-issued before 1 January 2012 
- 
- 
-Reg. VII/3.1 Principles governing the issue of alternative 
-certificates 
- 
-SOLAS 1974   
-Article I 
- 
- 
-General obligations under the Convention 
- 
- 
-in SOLAS PROT 
-1978 and 
-SOLAS PROT 1988 
- 
-Article III 
- 
-Communication of information 
- 
- 
-in SOLAS PROT 
-1978 and 
-SOLAS PROT 1988 
- 
-Article V(c) 
- 
-Carriage of persons in emergencies – reporting  
-Article VII
+4 An International Energy Efficiency Certificate for the ship shall be issued after a survey 
+in accordance with the provisions of regulation 5.4 of this Annex to any ship of 400 gross tonnage 
+and above before that ship may engage in voyages to ports or offshore terminals under the 
+jurisdiction of other Parties.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-SOLAS PROT 1988 
+SOURCE: MEPC.328%2876%29.pdf
+and above before that ship may engage in voyages to ports or offshore terminals under the 
+jurisdiction of other Parties. 
  
-Article III 
+5 The certificate shall be issued or endorsed either by the Administration or any 
+organization duly authorized by it. In every case, the Administration assumes full responsibility 
+for the certificate. 
  
-Communication of information 
+Statement of Compliance related to fuel oil consumption reporting and operational 
+carbon intensity rating 
  
+6 Upon receipt of reported data pursuant to regulation 27.3 of this Annex and attained 
+annual operational CII pursuant to regulation 28.2 of this Annex, the Administration or any 
+organization duly authorized by it shall:  
  
-in SOLAS PROT 
-1978 and 
-SOLAS PROT 1988 
+.1 determine whether the data has b een reported in accordance with 
+regulation 27 of this Annex;  
  
-Article V(c) 
+.2  verify that the attained annual operational CII reported is based on the data 
+submitted in accordance with regulation 27 of this Annex;  
  
-Carriage of persons in emergencies – reporting  
-Article VII 
- 
-Special rules drawn up by agreement 
- 
- 
- 
-Article XI Denunciation 
- 
-in SOLAS PROT 
-1988 (Article VII) 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 7 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- 
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
- 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. I/13 Issue or endorsement of certificates by another 
-Government 
- 
-in SOLAS PROT 
-1988 
-Reg. I/17 
- 
-Acceptance of certificates 
- 
-also Reg. I/19(b) 
-Reg. I/21(b) 
- 
-Casualties – reporting 
- 
- 
-Reg. IV/5 
- 
- 
-Provision of radiocommunication services and 
-communication of information on such provision 
- 
-Reg. IV/5-1
+.3  based on the verified attained annual operation al CII, determine the
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-also Reg. I/19(b) 
-Reg. I/21(b) 
+SOURCE: MEPC.328%2876%29.pdf
+submitted in accordance with regulation 27 of this Annex;  
  
-Casualties – reporting 
+.3  based on the verified attained annual operation al CII, determine the 
+operational carbon intensity rating of the ship in accordance with 
+regulation 28.6 of this Annex; and  
  
+.4  issue a Statement of Compliance related to fuel oil consumption reporting 
+and operational carbon intensity rating to the ship no later than five months 
+from the beginning of the calendar year, upon determination and verification 
+pursuant to regulations 6.6.1 to 6.6.3 of this Annex . In every case, the 
+Administration assumes full responsibility for this Statement of Compliance. 
  
-Reg. IV/5 
- 
- 
-Provision of radiocommunication services and 
-communication of information on such provision 
- 
-Reg. IV/5-1 
- 
- 
-Global maritime distress and safety system identities – 
-ensuring suitable arrangements 
- 
-Reg. V/5 Meteorological services and warnings 
- 
- 
-Reg. V/6 
- 
-Ice Patrol Service 
- 
- 
-Reg. V/10 
- 
-Ships' routeing 
- 
- 
-Reg. V/11 
- 
-Ship reporting systems 
- 
- 
-Reg. V/12 
- 
-Vessel traffic services 
- 
- 
-Reg. V/13 Establishment and operation of aids to navigation 
- 
- 
-Reg. V/31.2 
- 
- 
-Danger messages – bring to the knowledge of those 
-concerned and communicate to other interested 
-Governments 
- 
-Reg. V/33.1-1 
- 
-Distress situations: obligations and procedures – 
-coordination and cooperation 
- 
-Reg. VI/1.2 
- 
-Reg. VI/2.4.2 
- 
-Appropriate information on safe carriage of cargoes 
- 
-Approval of certified method for weighing the gross 
-mass of cargo carried in a container 
- 
- 
-Reg. VII/2.4
+7 Upon receipt of reported data pursuant to regulations 27.4, 27.5 or 27.6 of this Annex, 
+the Administration or any organization duly authorized by it shall promptly determine whether 
+the data has been reported in accordance with regulation 27 and, if so, is sue a Statement of
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Reg. VI/1.2 
+SOURCE: MEPC.328%2876%29.pdf
+the Administration or any organization duly authorized by it shall promptly determine whether 
+the data has been reported in accordance with regulation 27 and, if so, is sue a Statement of 
+Compliance to the ship. In every case, the Administration assumes full responsibility for this 
+Statement of Compliance. 
  
-Reg. VI/2.4.2 
+8 Notwithstanding paragraph 6 of this regulation, a ship rated as D for three consecutive 
+years or rated as E in acc ordance with regulation 28 of this Annex shall not be issued a 
+Statement of Compliance unless a plan of corrective actions is duly developed and reflected 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 15 - 
  
-Appropriate information on safe carriage of cargoes 
+in the SEEMP and verified by the Administration or any organization duly authorized by it in 
+accordance with regulations 28.7 and 28.8 of this Annex.  
  
-Approval of certified method for weighing the gross 
-mass of cargo carried in a container 
- 
- 
-Reg. VII/2.4 
- 
-Issue of instructions on emergency response, etc. 
- 
- 
-Reg. VII/7-1 
- 
-Issue of instructions on emergency response, etc. 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 8 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- 
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
- 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-MARPOL   
-Article 1 
- 
-General obligations under the Convention 
- 
-and MARPOL 
-PROT 1978 
-(Article I) 
-Articles 4(2) and 4(4) 
- 
-Violation 
- 
- 
-Article 5(1) 
- 
- 
-Certificates and special rules on inspection of ships 
-– acceptance of certificates 
- 
- 
-Article 5(4) 
- 
- 
-Certificates and special rules on inspection of ships
+Regulation 7
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Violation 
+SOURCE: MEPC.328%2876%29.pdf
+in the SEEMP and verified by the Administration or any organization duly authorized by it in 
+accordance with regulations 28.7 and 28.8 of this Annex.  
  
+Regulation 7 
+Issue of a Certificate by another Party 
  
-Article 5(1) 
+1 A Party may, at the request of the Administration, cause a ship to be surveyed and, if 
+satisfied that the provisions of this Annex are complied with, shall issue or authorize the issue 
+of an IAPP Certificate or an International Energy Efficiency Certificate to the ship, and where 
+appropriate, endorse or authorize the endorsement of such certificates on the ship, in 
+accordance with this Annex. 
  
+2 A copy of the certificate and a copy of the survey report shall be transmitted as soon 
+as possible to the requesting Administration. 
  
-Certificates and special rules on inspection of ships 
-– acceptance of certificates 
- 
- 
-Article 5(4) 
- 
- 
-Certificates and special rules on inspection of ships 
-– no more favourable treatment 
- 
- 
-Article 6(1) 
- 
-Detection of violations and enforcement of the 
-Convention – cooperation 
- 
- 
-Article 6(3) 
- 
-Detection of violations and enforcement of the 
-Convention – furnishing evidence 
- 
- 
-Article 7 
- 
-Undue delay to ships 
- 
- 
-Article 8 Reports on incidents involving harmful substances 
- 
- 
-Article 11 
- 
-Communication of information 
- 
-modified by 
-MARPOL 
-PROT 1978 
-(Article III) 
-Article 12(2) 
- 
-Casualties to ships – information to IMO 
- 
- 
-Article 17 Promotion of technical cooperation 
- 
- 
-Annex I 
- 
- 
- 
- 
-Reg. 8 
- 
- 
-Issue or endorsement of a certificate by another 
-Government 
- 
- 
-Reg. 15.7 
- 
- 
-Control of discharge of oil – investigations 
-(machinery spaces) 
- 
- 
-Reg. 34.7 
- 
-Control of discharge of oil – investigations 
-(cargo area)
+3 A certificate so issued shall contain a statement to the effect that it has been issued 
+at the request of the Administration and it shall have the same force and receive the same
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Government 
+SOURCE: MEPC.328%2876%29.pdf
+3 A certificate so issued shall contain a statement to the effect that it has been issued 
+at the request of the Administration and it shall have the same force and receive the same 
+recognition as a certificate issued under regulation 6 of this Annex. 
  
+4 No IAPP Certificate, International Energy Efficiency Certificate or UNSP Exemption 
+Certificate shall be issued to a ship which is entitled to fly the flag of a State which is not a Party. 
  
-Reg. 15.7 
+Regulation 8 
+Form of Certificates and Statements of Compliance related to fuel oil consumption reporting 
+and operational carbon intensity rating 
  
+International Air Pollution Prevention Certificate 
  
-Control of discharge of oil – investigations 
-(machinery spaces) 
+1 The IAPP Certificate shall be drawn up in a form corresponding to the model given in 
+appendix I to this Annex and shall be at least in English, French or Spanish. If an official language 
+of the issuing country is also used, this shall prevail in case of a dispute or discrepancy. 
  
- 
-Reg. 34.7 
- 
-Control of discharge of oil – investigations 
-(cargo area) 
- 
- 
-Regs. 38.4 and 38.6  
- 
-Consultation with IMO for circulation of information 
-regarding reception facilities by Parties participating 
-in regional arrangements 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 9 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- 
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
- 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Annex II 
- 
-  
-Reg. 6.3 
- 
- 
-Categorization and listing of noxious liquid 
-substances and other substances – establish and 
-agree on provisional assessment and notify IMO 
- 
-Regs. 9.3.1, 9.3.2, 9.3.3 
-and 9.3.4 
- 
-Issue or endorsement of a certificate by another 
-Government 
- 
-Reg. 13.4
+International Energy Efficiency Certificate
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-agree on provisional assessment and notify IMO 
+SOURCE: MEPC.328%2876%29.pdf
+of the issuing country is also used, this shall prevail in case of a dispute or discrepancy. 
  
-Regs. 9.3.1, 9.3.2, 9.3.3 
-and 9.3.4 
+International Energy Efficiency Certificate 
  
-Issue or endorsement of a certificate by another 
-Government 
+2 The International Energy Efficiency Certificate shall be drawn up in a form 
+corresponding to the model given in appendix VIII to this Annex and shall be at least in English, 
+French or Spanish. If an official language of the issuing Party is also used, this shall prevail in 
+case of a dispute or discrepancy. 
  
-Reg. 13.4 
+Statement of Compliance related to fuel oil consumption reporting and operational 
+carbon intensity rating 
  
-Control of discharges of residues – exemption for a 
-prewash 
+3 The Statement of Compliance pursuant to regulations 6.6 and 6.7 of this Annex shall 
+be drawn up in a form corresponding to the model given in appendix X to this Annex and shall 
+be at least in English, French or Spanish. If an official language of the issuing Party is also used, 
+this shall prevail in case of a dispute or discrepancy. 
  
- 
-Regs. 18.3 and 18.5  
- 
-Consultation with IMO for circulation of information 
-regarding reception facilities by Parties participating 
-in regional arrangements 
- 
- 
-Reg. 18.5 
- 
-Reception facilities and cargo unloading terminal 
-arrangements – agreeing and establishing a date, 
-notifying IMO 
- 
-Annex III 
- 
- 
- 
- 
-Reg. 1.3 Application – issue detailed requirements 
- 
- 
-Annex IV 
- 
- 
- 
- 
-Reg. 6 
- 
-Issue or endorsement of a certificate by another 
-Government 
- 
- 
-Reg. 12.2 Consultation with IMO for circulation of information  
-regarding reception facilities by Parties participating 
-in regional arrangements 
- 
- 
-Annex V 
- 
-  
-Reg. 8.3  Consultation with IMO for circulation of information 
-regarding reception facilities by Parties participating
+International Air Pollution Prevention Exemption Certificate for Unmanned
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-in regional arrangements 
+SOURCE: MEPC.328%2876%29.pdf
+this shall prevail in case of a dispute or discrepancy. 
  
+International Air Pollution Prevention Exemption Certificate for Unmanned  
+Non-self-propelled Barges  
  
-Annex V 
+4 In accordance with regulation 3.4 of this Annex, the International Air Pollution Prevention 
+Exemption Certificate for Unmanned Non-self-propelled Barges shall be drawn up in the form 
+corresponding to the model given in appendix XI to this Annex and shall be at least in English, 
+French or Spanish. If an official language of the issuing country is also used, this shall prevail in the 
+event of a dispute or discrepancy. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 16 - 
  
-  
-Reg. 8.3  Consultation with IMO for circulation of information 
-regarding reception facilities by Parties participating 
-in regional arrangements 
- 
- 
-Annex VI   
-Reg. 7 
- 
-Issue or endorsement of a certificate by another 
-Government 
- 
-Addition related to 
-IECC by 
-MEPC.203(62) 
-Regs. 9.9.3 and 9.11.2 
- 
-Transfer of flag – transmitting copies of the certificate 
-and the relevant survey report 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 10 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- 
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
- 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. 11.1  
- 
- 
-Detection of viol ations and enforcement – 
-cooperation 
- 
- 
-Reg. 11.2  
- 
-Inspection report in case of detection of violations   
-Reg. 11.3  
- 
- 
-Detection of violations and enforcement –
+Regulation 9 
+Duration and validity of Certificates and Statements of Compliance related to fuel oil 
+consumption reporting and operational carbon intensity rating
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Detection of viol ations and enforcement – 
-cooperation 
+SOURCE: MEPC.328%2876%29.pdf
+Regulation 9 
+Duration and validity of Certificates and Statements of Compliance related to fuel oil 
+consumption reporting and operational carbon intensity rating 
  
+International Air Pollution Prevention Certificate 
  
-Reg. 11.2  
+1 An IAPP Certificate shall be issued for a period specified by the Administration, which 
+shall not exceed five years. 
  
-Inspection report in case of detection of violations   
-Reg. 11.3  
+2 Notwithstanding the requirements of paragraph 1 of this regulation: 
  
+.1 when the renewal survey is completed within three months before the expiry 
+date of the existing certificate, the new certificate shall be valid from the date 
+of completion of the renewal survey to a date not exceeding five years from 
+the date of expiry of the existing certificate; 
  
-Detection of violations and enforcement – 
-information to flag State and master on violations 
-detected 
- 
- 
-Reg. 11.5 Transmission of report to requesting Party  
-Reg. 13.7.1 
- 
- 
-Reg. 17.1 
- 
-Certification of an approved method and 
-communication to IMO 
- 
-Adequate reception facilities 
- 
- 
-Reg. 17.2 Consultation with IMO for circulation of information 
-regarding reception facilities by Parties participating 
-in regional arrangement 
- 
- 
-Reg. 18.1 Availability of fuel oils and communication to IMO  
-Reg. 18.2.1 Ship not compliant with fuel oil standards  
-Reg. 18.2.3 Action taken, including not taking control measures  
-Reg. 18.2.5 Evidence of the non-availability of compliant fuel oil – 
-communication to IMO 
- 
-Reg. 18.9 Authorities designated for register of local suppliers, 
-bunker delivery note and sample, fuel oil quality,
+.2 when the renewal survey is completed after the expiry date of the existing 
+certificate, the new certificate  shall be valid from the date of completion of 
+the renewal survey to a date not exceeding five years from the date of expiry 
+of the existing certificate; and
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-communication to IMO 
+SOURCE: MEPC.328%2876%29.pdf
+certificate, the new certificate  shall be valid from the date of completion of 
+the renewal survey to a date not exceeding five years from the date of expiry 
+of the existing certificate; and 
  
-Reg. 18.9 Authorities designated for register of local suppliers, 
-bunker delivery note and sample, fuel oil quality, 
-actions against fuel oil suppliers for non-compliance, 
-informing the Administratio n of any ship receiving 
-non-compliant fuel oil and communication to IMO of 
-non-compliant fuel oil suppliers as referred to in the 
-paragraph 
+.3 when the renewal survey is completed more than three months before the 
+expiry date of the existing certificate, the new certificate shall be valid from 
+the date of completion of the renewal survey to a date not exceeding five 
+years from the date of completion of the renewal survey. 
  
+3 If a certificate is issued for a period of less than five years, the Administration may 
+extend the validity of the certificate beyond the expiry date to the maximum period specified in 
+paragraph 1 of this regulation, provided that the surveys referred to in regulations 5.1.3 and 
+5.1.4 of this Annex applicable when a certificate is issued for a period of five years are carried 
+out as appropriate. 
  
-ISM Code 
- 
-  
-Para. 14.3 Extension of validity of Interim Safety Management 
-Certificate (Interim SMC) by another C ontracting 
-Government 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 11 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- 
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
- 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-1994 HSC Code  
- 
- 
- 
-Para. 1.8.2 
- 
-Issue of certificates by another Government 
- 
- 
-Para. 14.2.1.12 
- 
-Definition of "sea area A1" 
- 
-as may be defined
+4 If a renewal survey has been completed and a new certificate cannot be issued or
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-1994 HSC Code  
+SOURCE: MEPC.328%2876%29.pdf
+out as appropriate. 
  
+4 If a renewal survey has been completed and a new certificate cannot be issued or 
+placed on board the ship before the expiry date of the existing certificate, the person or 
+organization authorized by the Administration may endorse the existing certificate and such a 
+certificate shall be accepted as valid for a further period that shall not exceed five months from 
+the expiry date. 
  
- 
-Para. 1.8.2 
- 
-Issue of certificates by another Government 
- 
- 
-Para. 14.2.1.12 
- 
-Definition of "sea area A1" 
- 
-as may be defined 
- 
-Para. 14.2.1.13 
- 
-Definition of "sea area A2" 
- 
-as may be defined 
- 
-2000 HSC Code 
- 
- 
- 
- 
- 
-Para. 1.8.2 Issue of certificates by another Government 
- 
- 
-Para. 14.2.1.13 Definition of "sea area A1" 
- 
-as may be defined 
-Para. 14.2.1.14 Definition of "sea area A2" 
- 
-as may be defined 
-IMDG Code 
- 
-  
-Section 1.3.1 Training of shore-side personnel – establishment of 
-the period of time for keeping records of training 
- 
- 
-Section 1.5.2 Radiation protection programme – role of competent 
-authority 
- 
- 
-Section 1.5.3 Management system – role of competent authority 
- 
- 
-Para. 2.0.0.1  
- 
-Classification of dangerous goods where applicable – 
-role of competent authority  
- 
- 
-Chapter 3.3, SP356 Approval of metal hydride storage systems installed
+5 If a ship, at the time when a certificate expires, is not in a port in which it is to be 
+surveyed, the Administration may extend the period of validity of the certificate, but this 
+extension shall be granted only for the purpose of allowing the ship to complete its voyage to 
+the port in which it is to be surveyed, and then only in cases where it appears proper and 
+reasonable to do so. No certificate shall be extended for a period longer than three months, 
+and a ship to which an extension is granted shall not, on its arrival in the port in which it is to
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Para. 2.0.0.1  
+SOURCE: MEPC.328%2876%29.pdf
+reasonable to do so. No certificate shall be extended for a period longer than three months, 
+and a ship to which an extension is granted shall not, on its arrival in the port in which it is to 
+be surveyed, be entitled by virtue of such extension to leave that port without having a new 
+certificate. When the renewal survey is completed, the new certificate shall be valid to a date 
+not exceeding five years from the date of expiry of the existing certificate before the extension 
+was granted. 
  
-Classification of dangerous goods where applicable – 
-role of competent authority  
+6 A certificate issued to a ship engaged on short voyages that has not been extended 
+under the foregoing provisions of this regulation may be extended by the Administration for a 
+period of grace of up to one month from  the date of expiry stated on it. When the renewal 
+survey is completed, the new certificate shall be valid to a date not exceeding five years from 
+the date of expiry of the existing certificate before the extension was granted. 
  
- 
-Chapter 3.3, SP356 Approval of metal hydride storage systems installed 
-in vehicles, vessels or aircrafts or in completed 
-components or intended to be installed in vehicles, 
-vessels or aircrafts 
- 
- 
-Chapter 4.1 Approval of packaging as referred to in the chapter – 
-role of competent authority 
- 
- 
-Section 5.1.5 
- 
- 
-General provisions for class 7 – role of competent 
-authority 
- 
- 
-Section 5.4.1 Information required in addition to the dangerous 
-goods description – role of the competent authority 
- 
- 
-Chapter 5.5 
- 
-Determining the period between fumigant application 
-and loading of fumigated cargo transport unit on 
-board the ship 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 12 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx
+RESOLUTION MEPC.328(76)
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 12 
+SOURCE: MEPC.328%2876%29.pdf
+the date of expiry of the existing certificate before the extension was granted. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 17 - 
  
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
+7 In special circumstances, as determined by the Administration, a new certificate need 
+not be dated from the date of expiry of the existing certificate as required by paragraph 2.1, 5 
+or 6 of this regulation. In these special circumstances, the new certificate shall be valid to a 
+date not exceeding five years from the date of completion of the renewal survey. 
  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Chapter 6.2 
+8 If an annual or intermediate survey is completed before the period specified in 
+regulation 5 of this Annex, then: 
  
- 
-Approval of pressure receptacles, aerosol 
-dispensers, small receptacl es containing gas  and 
-fuel cell cartridges containing liquefied flamma ble 
-gas – role of competent authority 
- 
- 
-Para. 6.2.2.1.1  
- 
-Approval of cylinder service life test programme and the 
-results – role of competent authority  
- 
- 
-Para. 6.2.2.5  
- 
- 
-Approval of conformity assessment system; availability 
-of the evidence demonstrating compliance of 
-conformity assessment system to its counterpart in a 
-country of use; approval of inspection bodies; and 
-availability of a current list of approved inspection  
-bodies and  their identity marks and approved 
-manufacturers and their identity marks – role of
+.1 the anniversary date shown on the certificate shall be amended by 
+endorsement to a date that shall not be more than three months later than 
+the date on which the survey was completed;
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-availability of a current list of approved inspection  
-bodies and  their identity marks and approved 
-manufacturers and their identity marks – role of 
-competent authority  
+SOURCE: MEPC.328%2876%29.pdf
+.1 the anniversary date shown on the certificate shall be amended by 
+endorsement to a date that shall not be more than three months later than 
+the date on which the survey was completed; 
  
+.2 the subsequent annual or intermediate survey required by regulation 5 of this 
+Annex shall be completed at the intervals prescribed by that regulation using 
+the new anniversary date; and 
  
-Para. 6.2.2.6  
+.3 the expiry date may remain unchanged, provided one or more annual or 
+intermediate surveys, as appropriate, are carried out so that the maximum 
+intervals between the surveys prescribed by regulation 5 of this Annex are 
+not exceeded. 
  
-Establishment of an approval system for periodic 
-inspection and testing of pressure receptacles; 
-availability of evidence demonstrating compliance with 
-this approval system to its counterpart in a country of 
-use; and availability of a current list of appro ved 
-periodic inspection and testing bodies and their identity 
-marks – role of competent authority  
+9 A certificate issued under regulation 6 or 7 of this Annex shall cease to be valid in any 
+of the following cases: 
  
+.1 if the relevant surveys are not completed within the periods specified under 
+regulation 5.1 of this Annex; 
  
-Section 6.2.3 The marking of s alvage pressure receptacles – 
-determination by the competent authority 
- 
- 
-Section 6.3.2 Quality assurance programme – role of competent 
-authority 
- 
- 
-Section 6.3.5 Procedures for performance and frequency of tests 
-– role of competent authority 
- 
- 
-Chapter 6.4 
- 
- 
-Approval of package design and materials for class 7 – 
-role of competent authority
+.2 if the certificate is not endorsed in accordance with regulation 5.1.3 or 5.1.4 
+of this Annex; and
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-– role of competent authority 
+SOURCE: MEPC.328%2876%29.pdf
+regulation 5.1 of this Annex; 
  
+.2 if the certificate is not endorsed in accordance with regulation 5.1.3 or 5.1.4 
+of this Annex; and 
  
-Chapter 6.4 
+.3 upon transfer of the ship to the flag of another State. A new certificate shall 
+only be issued when the Government issuing the new certificate is fully 
+satisfied that the ship is in compliance with the requirements of regulation 5.4 
+of this Annex. In the case of a transfer between Parties, if requested within 
+three months after the transfer has taken place, the Government of the Party 
+whose flag the ship was formerly entitled to fly shall, as soon as possible, 
+transmit to the Administration copies of the  certificate carried by the ship 
+before the transfer and, if available, copies of the relevant survey reports. 
  
+International Energy Efficiency Certificate 
  
-Approval of package design and materials for class 7 – 
-role of competent authority 
- 
- 
-Section 6.5.4 Testing, certification and inspection – role of 
-competent authority 
- 
- 
-Chapter 6.6 
- 
-Provisions for the construction and testing of large 
-packaging – role of competent authority 
- 
- 
-Chapter 6.7 
- 
- 
-Provisions for the design, construction, inspection 
-and testing of portable tanks and multiple -element 
-gas containers – role of competent authority 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 13 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- 
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
- 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Chapter 6.8 
- 
- 
-Provisions for road tank vehicles – role of competent 
-authority 
- 
- 
-Para. 7.1.4.5 
- 
-Stowage of goods of class 7 – role of competent
+10 The International Energy Efficiency Certificate shall be valid throughout the life of the 
+ship subject to the provisions of paragraph 11 below.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Chapter 6.8 
+SOURCE: MEPC.328%2876%29.pdf
+International Energy Efficiency Certificate 
  
+10 The International Energy Efficiency Certificate shall be valid throughout the life of the 
+ship subject to the provisions of paragraph 11 below. 
  
-Provisions for road tank vehicles – role of competent 
-authority 
+11 An International Energy Efficiency Certificate issued under this Annex shall cease to 
+be valid in any of the following cases: 
  
+.1 if the ship is withdrawn from service or if a new certificate is issued following 
+major conversion of the ship; or 
  
-Para. 7.1.4.5 
- 
-Stowage of goods of class 7 – role of competent 
-authority 
- 
- 
-Chapter 7.9 Exemptions, approvals and certificates – notifying 
-IMO and recognition of approvals and certificates 
- 
- 
-IMSBC Code   
-Para. 1.7 Independence of a competent authority  
-Casualty Investigation 
-Code 
- 
-  
-Para. 4.1 Detailed contact information of the marine safety 
-investigation authority/authorities to IMO 
- 
- 
-Paras. 5.1 and 5.2 Notification of a marine casualty  
- 
- 
-Paras. 7.1 and 7.2 Agreement to conduct a marine safety investigation 
- 
- 
-Para. 8.1 Powers provided to investigator(s) 
- 
- 
-Para. 9.2 Coordination for parallel investigations 
- 
- 
-Para. 10.1 Cooperation in investigating 
- 
- 
- 
-Para. 11.1 Investigation not to be subject to external direction 
- 
- 
- 
-Paras. 13.1,13.4  
-and 13.5 
- 
-Draft marine safety investigation reports
+.2 upon transfer of the ship to the flag of another State. A new certificate shall 
+only be issued when the Government issuing the new certificate is fully 
+satisfied that the ship is in compliance with the requirements of chapter 4 of 
+this Annex. In the case of a transfer between Parties, if requested within three 
+months after the transfer has taken place, the Government of the Party 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Para. 10.1 Cooperation in investigating 
+SOURCE: MEPC.328%2876%29.pdf
+months after the transfer has taken place, the Government of the Party 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 18 - 
  
+whose flag the ship was formerly entitled to fly shall, as soon as possible, 
+transmit to the Administration copies of the  certificate carried by the ship 
+before the transfer and, if available, copies of the relevant survey reports; or 
  
+.3  if the ship's equipment, systems, fittings, arrangements, or material covered 
+by the survey were changed without the express approval of the 
+Administration, as provided for in  regulation 5.5 of this Annex, unless 
+regulation 3 of this Annex applies. 
  
-Para. 11.1 Investigation not to be subject to external direction 
+Statement of Compliance related to fuel oil consumption reporting and operational 
+carbon intensity rating 
  
- 
- 
-Paras. 13.1,13.4  
-and 13.5 
- 
-Draft marine safety investigation reports  
-Paras. 14.1 and 14.2 Marine safety investigation reports – communication 
-to IMO 
- 
- 
-Para. 14.4 Marine safety investigation reports – available to 
-public and shipping industry 
- 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 14 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- 
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
- 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-IBC Code   
-Para. 1.5.3 
- 
-Maintenance of conditions after survey 
- 
- 
-Para. 1.5.5.1 
- 
- 
-Issue or endorsement of International Certificate of 
-Fitness by another Government 
- 
- 
- 
- 
-BCH Code 
- 
- 
- 
- 
-Para. 1.6.4.1 
- 
- 
-Issue or endorsement of certificate by another 
-Government
+12  The Statement of Compliance issued pursuant to regulation 6.6 of this Annex shall be
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Issue or endorsement of International Certificate of 
-Fitness by another Government 
+SOURCE: MEPC.328%2876%29.pdf
+Statement of Compliance related to fuel oil consumption reporting and operational 
+carbon intensity rating 
  
+12  The Statement of Compliance issued pursuant to regulation 6.6 of this Annex shall be 
+valid for the calendar year in which it is issued and for the first five months of the following 
+calendar year. The Statement of Compliance issued pursuant to regulation 6.7 of this Annex 
+shall be valid for the calendar year in which it is issued, for the following calendar year, and for 
+the first five months of the subsequent calendar year. All Statements of Compliance shall be 
+kept on board for at least five years. 
  
+Regulation 10 
+Port State control on operational requirements 
  
- 
-BCH Code 
- 
- 
- 
- 
-Para. 1.6.4.1 
- 
- 
-Issue or endorsement of certificate by another 
-Government 
- 
- 
-IGC Code   
-Para. 1.4.5 Issue or endorsement of certificate by another 
-Government 
- 
- 
-STCW Code, part A 
- 
- 
- 
- 
-Section A-I/6.1  
- 
-Training and assessment of seafarers for 
-certification 
- 
-Section A-I/6.3 
- 
-Qualifications of instructors, supervisors and 
-assessors 
- 
- 
-Section A-I/6.7 
- 
-Training and assessment within an institution 
- 
- 
-Section A-I/7.2 Communication of information – initial 
-communication (within one year of entry into force of 
-regulation I/7) 
- 
-Sections A-I/7.3, 7.4 ,  7.5 
-and 7.6 
-Communication of information – subsequent reports 
-(within the periods as referred to in paragraphs 7.3, 
-7.4, 7.5 and 7.6) 
- 
- 
-Sections A-I/8.1 and 8.3 
- 
-National objectives and quality standards 
- 
- 
-Section A-I/9.1 Medical standards – eyesight standards and
+1 A ship, when in a port or an offshore terminal under the jurisdiction of another Party, 
+is subject to inspection by officers duly authorized by such Party concerning operational 
+requirements under this Annex, where there are clear grounds for believing that the master or
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-7.4, 7.5 and 7.6) 
+SOURCE: MEPC.328%2876%29.pdf
+is subject to inspection by officers duly authorized by such Party concerning operational 
+requirements under this Annex, where there are clear grounds for believing that the master or 
+crew are not familiar with essential shipboard procedures relating to the prevention of air 
+pollution from ships. 
  
+2 In the circumstances given in paragraph 1 of this regulation, the Party shall take steps 
+to ensure that the ship shall not sail until the situation has been brought to order in accordance 
+with the requirements of this Annex. 
  
-Sections A-I/8.1 and 8.3 
+3 Procedures relating to the port State control prescribed in article 5 of the present 
+Convention shall apply to this regulation. 
  
-National objectives and quality standards 
+4 Nothing in this regulation shall be construed to limit the rights and obligations of a 
+Party carrying out control over operational requirements specifically provided for in the present 
+Convention. 
  
- 
-Section A-I/9.1 Medical standards – eyesight standards and 
-physical and medical fitness 
- 
-Section A-1/9.4 Provisions for recognizing medical practitioners and 
-maintenance of a register of recognized medical 
-practitioners 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 15 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- 
-OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
- 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Sections A-I/9.5 and 9.6 Guidance, processes and procedures for conducting 
-medical fitness examinations and issuing medical 
-certificates 
- 
-Section A-I/12.1 
- 
-General performance standards for simulators used 
-in training  
- 
- 
-Section A-I/12.2 General performance standards for simulators used 
-in assessment of competence
+5  In relation to chapter 4 of this An nex, any port State inspection may verify, when
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Section A-I/12.1 
- 
-General performance standards for simulators used 
-in training  
- 
- 
-Section A-I/12.2 General performance standards for simulators used 
-in assessment of competence 
- 
- 
-Section A-I/12.6 Simulator training objectives 
- 
- 
-Section A-I/12.9 Qualification of instructors and assessors  
-Section A-VIII/2.9 Watchkeeping at sea – directing the attention of 
-companies, masters, chief engineer officers and 
-watchkeeping personnel to observe the principles in 
-parts 4-1 and 4-2 
- 
-III Code IMO Instruments Implementation Code   
- Application of the provisions of the III Code under 
-related mandatory IMO Instruments 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 16 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 2 
- 
-SPECIFIC FLAG STATE OBLIGATIONS
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 16 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 2 
- 
-SPECIFIC FLAG STATE OBLIGATIONS 
- 
-The following table contains a non-exhaustive list of obligations, including those obligat ions 
-imposed when a right is exercised. 
- 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-TONNAGE 1969 
- 
- 
- 
- 
-Article 6 
- 
-Determination of tonnages 
- 
- 
-Article 7(2) 
- 
-Article 9 
- 
-Issue of certificates 
- 
-Form of certificate 
- 
-Annex I, Reg. 1(3) 
- 
- 
-Novel types of craft – determination of 
-tonnage and communication to IMO on 
-method used 
- 
- 
-Annex I, Reg. 5(3)(b) 
- 
- 
- 
-Change of net tonnage – alterations or 
-modifications deemed by the 
-Administration to be of a major character 
- 
- 
-Annex I, Reg. 7 Measurement and calculation 
- 
- 
-LL 1966 and 
-LL PROT 19882     
- 
- 
-Existing certificates 
- 
-LL PROT 1988 only 
-(Article II-2) 
- 
-Article 6(3) 
- 
-Exemptions – reporting 
- 
- 
- 
-Article 8(2)
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-LL 1966 and 
-LL PROT 19882     
- 
- 
-Existing certificates 
- 
-LL PROT 1988 only 
-(Article II-2) 
- 
-Article 6(3) 
- 
-Exemptions – reporting 
- 
- 
- 
-Article 8(2) 
- 
-Equivalents – reporting 
- 
- 
- 
-Article 9(2) 
- 
-Approvals for experimental purposes – 
-reporting 
- 
- 
- 
- 
-Article 13 
- 
-Surveys and marking 
- 
-amended by LL PROT 
-1988 
- 
-Article 14 
- 
-Initial, renewal and annual survey amended by LL PROT 
-1988 
-Article 16(3) 
- 
-Article 18 
-Issue of certificates 
- 
-Form of certificates 
- 
- 
- 
-2 When the obligation does not derive from the International Convention on Load Lines, 1966, but solely from 
-the Protocol of 1988 relating thereto, this is indicated in the "Comments" column. 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 17 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 17 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Article 19 Duration and validity of certificates amended by LL PROT 
-1988 
-Article 23 Casualties 
- 
- 
- 
-Annex I, Reg. 1 
- 
-Strength of hull  
- 
- 
-Strength and intact stability of ships 
- 
-LL PROT 1988 only 
-(annex I, Reg. 1) 
-Annex I, Reg. 2 
- 
-Application − assignment of freeboard 
- 
-amended by LL PROT 
-1988 
- 
-Annex I, Reg. 2-1 Authorization of recognized 
-organizations 
-LL PROT 88 only  
-Annex I, Reg. 8 
- 
-Details of marking 
- 
- 
- 
-Annex I, Reg. 10 
- 
-Stability information – approval 
- 
-amended by LL PROT 
-1988  
- 
-Annex I, Reg. 12 
- 
-Doors 
- 
-amended by LL PROT 
-1988 
- 
-Annex I, Reg. 14 Cargo and other hatchways 
- 
-amended by LL PROT 
-1988 
-Annex I, Reg. 15 
- 
-Hatchways closed by portable covers 
-and secured weathertight by tarpaulins 
-and battening devices 
- 
-amended by LL PROT 
-1988
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-amended by LL PROT 
-1988 
-Annex I, Reg. 15 
- 
-Hatchways closed by portable covers 
-and secured weathertight by tarpaulins 
-and battening devices 
- 
-amended by LL PROT 
-1988 
-Annex I, Reg. 16(1) 
- 
- 
-Hatchway coamings – reduced heights 
- 
- 
-amended by LL PROT 
-1988 
-(annex I, Reg. 14-1(2)) 
- 
-Annex I, Reg. 16(4) 
- 
- 
-Securing arrangements 
- 
- 
-amended by LL PROT 
-1988 
-(annex I, Reg. 16(6)) 
- 
- 
- 
- 
-Machinery space openings 
- 
- 
-LL PROT 1988 only 
-(annex I, Reg. 17(4)) 
- 
-Annex I, Reg. 19 
- 
-Ventilators 
- 
-amended by LL PROT 
-1988 
- 
-Annex I, Reg. 20 
- 
-Air pipes 
- 
- 
-amended by LL PROT 
-1988 
- 
- Cargo ports and other similar openings – 
-applicable national standards 
-LL PROT 1988 only 
-(annex I, Reg. 21(5)) 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 18 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 18 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Annex I, Reg. 22 Scuppers, inlets and discharges 
- 
-amended by LL PRO T 
-1988 
-Annex I, Reg. 25 
- 
-Protection of the crew 
- 
-amended by LL PROT 
-1988 
- 
-Annex I, Reg. 27 Freeboards – types of ships 
- 
-amended by LL PROT 
-1988 
-Annex I, Reg. 28 
- 
-Freeboard tables 
- 
-amended by LL PROT 
-1988 
- 
-Annex I, Reg. 39 
- 
-Minimum bow height and reserv e 
-buoyancy 
-Lashing system 
-amended by LL PROT 
-1988 
-LL PROT 1988 only 
-(annex I, Reg. 44(6)) 
-COLREG 1972 
- 
-  
-Annex I, 
-Para. 14 
- 
-Approval of construction of lights and 
-shapes and the installation of lights on 
-board 
- 
- 
-Annex III, 
-Para. 3 
-Approval of constructi on, performance 
-and installation of sound signal 
-appliances on board 
- 
- 
-STCW 1978 
- 
- 
- 
- 
-Article VI Certificates 
- 
- 
-Article VIII(3) 
- 
-Dispensation – reporting
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Approval of constructi on, performance 
-and installation of sound signal 
-appliances on board 
- 
- 
-STCW 1978 
- 
- 
- 
- 
-Article VI Certificates 
- 
- 
-Article VIII(3) 
- 
-Dispensation – reporting 
- 
- 
-Article IX(2) Equivalents – reporting 
- 
- 
-Regs. I/2 .1, 2.2, 2.7 
-and 2.8 
- 
-Issue and endorsements of certificates of 
-competency 
- 
- 
-Regs. I/10.1 and 10.2 
- 
-Recognition of certificates and seafarers' 
-knowledge of maritime legislation 
- 
- 
-Reg. I/11.7 Availability – recent changes in national 
-and international regulations 
- 
- 
-Reg. I/13.3 Conduct of trials – safety, security and 
-pollution prevention 
- 
-Regs. I/13.5 and 13.8.1 Results of trials – communication 
- 
- 
-Reg. I/13.7 Respect for objections to trials  
-Reg. I/13.8 Respect for objections by other Parties 
-when authorizing ships to continue to 
-operate with the system under trial 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-when authorizing ships to continue to 
-operate with the system under trial 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 19 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. I/14.1 
- 
-Responsibilities of companies 
- 
- 
- 
-Reg. IV/1.2 
- 
-Application – appropriate certificates for 
-radio operators 
- 
- 
-Reg. V/1-1.7 
- 
- 
-Mandatory minimum requirements for the 
-training and qualification of masters, 
-officers and rating s on oil and chemical 
-tankers 
- 
-Reg. V/1-2.5 Mandatory minimum requirements for the 
-training and qualification of masters, 
-officers and ratings on liquefied gas 
-tankers 
- 
- 
-Reg. V/2.1 Applicability of the requirements to 
-domestic voyages 
- 
-Reg. V/2.10 Mandatory minimum requirements for the 
-training and qualification of masters,
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-tankers 
- 
- 
-Reg. V/2.1 Applicability of the requirements to 
-domestic voyages 
- 
-Reg. V/2.10 Mandatory minimum requirements for the 
-training and qualification of masters, 
-officers, ratings and other personnel on 
-passenger ships  
- 
-Reg. V/3.11 
- 
-Issue of a Certificate of Proficiency to 
-seafarers, related to IGF Code 
- 
- 
-Reg. V/4.5  
- 
-Issue of a Certificate  of Proficiency in 
-accordance with paragraphs 2 or 4 of the 
-regulation  
- 
-Regs. VIII/1.1 and 1.2 
- 
-Fitness for duty – preventing fatigue and 
-preventing drug and alcohol abuse 
- 
- 
-Regs. VIII/2.1 and 2.2 Watchkeeping arrangements and 
-principles – direction and requirements 
- 
-SOLAS 1974 
- 
- 
- 
- 
- 
-Reg. I/4(b) Exemptions – reporting 
- 
- 
-Reg. I/5(b) Equivalents – reporting  
-Reg. I/6 
- 
-Inspection and survey 
- 
-in SOLAS PROT 1978 
-and SOLAS PROT 1988 
-Reg. I/7 
- 
-Survey of passenger ships 
- 
-in SOLAS PROT 1988 
-Reg. I/8 Survey o f life -saving appliances and 
-other equipment of cargo ships 
-in SOLAS PROT 1988
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-and SOLAS PROT 1988 
-Reg. I/7 
- 
-Survey of passenger ships 
- 
-in SOLAS PROT 1988 
-Reg. I/8 Survey o f life -saving appliances and 
-other equipment of cargo ships 
-in SOLAS PROT 1988 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 20 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. I/9 
- 
-Survey of radio installations of cargo 
-ships 
- 
-in SOLAS PROT 1988 
-Reg. I/10 
- 
-Survey of structure, machinery and 
-equipment of cargo ships 
- 
-in SOLAS PROT 1988 
- 
-Reg. I/12 
- 
-Issue of certificates 
- 
-in SOLAS PROT 1988 
- 
- 
- 
-Issue and endorsement of certificates 
- 
-in SOLAS PROT 1988 
- 
-Reg. I/14 Duration and validity of certificates 
- 
-in SOLAS PROT 1988 
-Reg. I/15 
- 
-Forms of certificates and records of 
-equipment 
-in SOLAS PROT 1988 
- 
-Reg. I/18 Qualification of certificates
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Reg. I/14 Duration and validity of certificates 
- 
-in SOLAS PROT 1988 
-Reg. I/15 
- 
-Forms of certificates and records of 
-equipment 
-in SOLAS PROT 1988 
- 
-Reg. I/18 Qualification of certificates 
- 
- 
-Reg. I/21 
- 
-Casualties 
- 
- 
- 
-Reg. II-1/1.2 
- 
-Compliance with earlier requirements 
- 
-revised SOLAS chapter II-1 
-adopted by MSC  80 and 
-MSC 82 
- 
-Reg. II-1/3-2 
- 
-Approval of corrosion prevention 
-systems of seawater ballast tanks 
- 
- 
- 
-Reg. II-1/3-2.4 Maintenance of the protective coating  
-Reg. II-1/3-3.2 
- 
-Approval of means of access to tanker 
-bows 
- 
- 
-Regs. II-1/3-4.1.2.2 
-and 3-4.1.3 
-Approval of emergency towing 
-arrangements on tankers 
- 
-Reg. II-1/3-6.2.3 
- 
- 
-Means of access t o cargo and other 
-spaces – satisfaction of the 
-Administration as well as survey 
- 
- 
- 
- 
-Reg. II-1/3-6.4.1 
- 
-Approval of Ship Structure Access 
-Manual 
- 
- 
- 
-Reg. II-1/3-8.3 Appropriate requirements for towing and 
-mooring equipment 
- 
-Reg. II-1/3-9.1 Means of embark ation and 
-disembarkation
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Approval of Ship Structure Access 
-Manual 
- 
- 
- 
-Reg. II-1/3-8.3 Appropriate requirements for towing and 
-mooring equipment 
- 
-Reg. II-1/3-9.1 Means of embark ation and 
-disembarkation 
- 
-Reg. II-1/3-12 Determination of acceptable noise levels 
-in machinery spaces 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 21 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. II-1/4.2 
- 
-Alternative methodologies – 
-communication to IMO 
- 
- 
-Reg. II-1/4.4 
- 
-Beneficial or adverse effects of fitting 
-structures as defined by the regulation 
- 
- 
-Reg. II-1/5-1.1 
- 
-Stability information to the Administration  
-Reg. II-1/7-2.5 
- 
-Acceptance of equalization devices and 
-their controls 
- 
- 
-Reg. II-1/13.9.2 
- 
-Number and arrangements of doors with 
-a device preventing unauthorized
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Reg. II-1/7-2.5 
- 
-Acceptance of equalization devices and 
-their controls 
- 
- 
-Reg. II-1/13.9.2 
- 
-Number and arrangements of doors with 
-a device preventing unauthorized 
-opening 
- 
- 
-Reg. II-1/13.11.2 
- 
-Special consideration for tunnels piercing 
-watertight bulkheads 
- 
- 
-Reg. II-1/15.2 
- 
-Arrangement and efficiency of the means 
-for closing any opening in the shell 
-plating 
- 
- 
-Reg. II-1/15.6 Special sanction for automatic ventilating 
-sidescuttles 
- 
-Reg. II-1/15.8.5 
- 
-Material of pipes as referred to in the 
-regulation 
- 
- 
-Reg. II-1/16.1.1 
- 
-Construction and initial tests of watertight 
-doors, sidescuttles, etc. 
- 
-Reg. II-1/16-1.1 
- 
-Construction and initial tests of watertight 
-decks, trunks, etc. 
- 
- 
-Reg. II-1/17-1.2 Indicators for closing appliances that 
-could lead to flooding of a special 
-category space or ro-ro space 
- 
- 
-Regs. II-1/19.3 
-and 19.4 
-Damage control information – general 
-and specific precautions 
- 
-Reg. II-1/22.4
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-could lead to flooding of a special 
-category space or ro-ro space 
- 
- 
-Regs. II-1/19.3 
-and 19.4 
-Damage control information – general 
-and specific precautions 
- 
-Reg. II-1/22.4 
- 
-Determination as to whether w atertight 
-doors must be permitted to remain open 
- 
- 
-Reg. II-1/26.2 
- 
- 
-Consideration of reliability of single 
-essential propulsion components 
- 
- 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 22 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Regs. II-1/29.1, 29.2.1  
-and 29.6.3 
- 
-Steering gear 
- 
- 
- 
- 
- 
-Reg. II-1/29.17.2 
- 
- 
-Adoption of regulations on rudder  
-actuators for tankers, chemical tankers 
-and gas carriers 
- 
- 
- 
- 
-Regs. II-1/35-1.3.7.2 
-and 35-1.3.9 
-Bilge pumping arrangements  
-Reg. II-1/40.2 
- 
-Electrical installations – ensuring
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-actuators for tankers, chemical tankers 
-and gas carriers 
- 
- 
- 
- 
-Regs. II-1/35-1.3.7.2 
-and 35-1.3.9 
-Bilge pumping arrangements  
-Reg. II-1/40.2 
- 
-Electrical installations – ensuring 
-uniformity 
- 
- 
- 
-Reg. II-1/42.1.3 
- 
- 
-Emergency source of electrical power in 
-passenger ships 
- 
- 
- 
- 
-Reg. II-1/43.1.3 
- 
- 
-Emergency source of electrical power in 
-cargo ships 
- 
- 
- 
- 
-Reg. II-1/44.2 
- 
-Approval of automatically starting 
-emergency generating sets 
- 
- 
-Regs. II-1/45.3.3, 
-45.5.3, 45.5.4, 45.9.3, 
-45.10 and 45.11 
- 
-Precautions against shock, fire and other 
-hazards of electrical origin  
- 
- 
- 
- 
- 
-Regs. II-1/46.2 and 
-46.3 
- 
- 
-Additional requirements for periodically 
-unattended machinery space 
- 
- 
- 
- 
-Reg. II-1/53.1 
- 
- 
-Special requirements for machinery, 
-boiler and electrical installations 
- 
- 
- 
- 
-Regs. II-1/55.3, 55.4.1 
-and 55.6 
-Evaluation of the alternative design and 
-arrangements and re -evaluation due to 
-change of conditions
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-boiler and electrical installations 
- 
- 
- 
- 
-Regs. II-1/55.3, 55.4.1 
-and 55.6 
-Evaluation of the alternative design and 
-arrangements and re -evaluation due to 
-change of conditions 
- 
- 
-Reg. II-1/55.5 Alternative design and arrangements – 
-communication to IMO 
- 
-Reg. II-2/1.2.1 
- 
- 
-Approval of fire protection arra ngements 
-in existing ships 
- 
- 
- 
- 
-Regs. II-2/1.6.2.1.2 
-and 1.6.6 
- 
-Application of requirements for tankers 
- 
- 
- 
- 
-Reg. II-2/4.2.2.5.1 
- 
- 
-Approval of material for oil fuel pipes and 
-their valves and fittings 
- 
- 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 23 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. II-2/4.3 
- 
- 
-Approval of gaseous fuel systems used 
-for domestic purposes 
- 
- 
- 
- 
-Reg. II-2/4.5.1.4.4
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. II-2/4.3 
- 
- 
-Approval of gaseous fuel systems used 
-for domestic purposes 
- 
- 
- 
- 
-Reg. II-2/4.5.1.4.4 
- 
- 
-Installation of cargo oil lines where cargo 
-wing tanks are provided 
- 
- 
- 
- 
-Reg. II-2/4.5.3.3 
- 
- 
-Requirements for safety devices in 
-venting systems 
- 
- 
- 
- 
-Reg. II-2/4.5.5.2.1 
- 
- 
-Requirements for inert gas syst ems on 
-chemical tankers 
- 
- 
- 
- 
-Reg. II-2/4.5.6.3 
- 
- 
-Arrangements for inerting, purging or 
-gas-freeing 
- 
-see Reg. II-2/4.5.5.3.1 
- 
-Reg. II-2/5.2.2.5 
- 
- 
-Positioning of controls for any required 
-fire-extinguishing system in passenger 
-ships 
- 
-see Regs. II-2/8.3.3 
-and 9.5.2.3 
- 
-Reg. II-2/5.2.3.1 
- 
- 
-Special consideration to maintaining the 
-fire integrity of periodically unattended 
-machinery spaces 
- 
-Reg. II-2/7.3.2 
- 
-Initial and periodic tests 
- 
- 
- 
-Reg. II-2/7.6 
- 
-Protection of cargo spaces in passenger 
-ships 
- 
- 
-Reg. II-2/8.3.4 
- 
-Release of smoke from machinery
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-machinery spaces 
- 
-Reg. II-2/7.3.2 
- 
-Initial and periodic tests 
- 
- 
- 
-Reg. II-2/7.6 
- 
-Protection of cargo spaces in passenger 
-ships 
- 
- 
-Reg. II-2/8.3.4 
- 
-Release of smoke from machinery 
-spaces – passenger ships 
- 
- 
-Reg. II-2/9.2.2.1.5.1 
- 
- 
-Approval of equivalent means of 
-controlling and limiting a fire on ships 
-designed for special purposes 
- 
- 
- 
- 
-Reg. II-2/9.2.2.3.1 
- 
- 
-Fire integrity of bulkheads and dec ks in 
-ships carrying more than 36 passengers 
- 
- 
- 
- 
-Regs. II-2/9.2.2.4.4, 
-9.2.3.3.4 and 9.2.4.2.4 
-Fire integrity of bulkheads and decks 
- 
-see Reg. II-2/11.2 
- 
-Reg. II-2/9.3.4 
- 
- 
-Approval of structural fire protection 
-details, taking into account the risk of 
-heat transmission 
- 
- 
- 
-Reg. II-2/9.5.2.4 
- 
- 
-Protection of openings in machinery 
-space boundaries 
- 
- 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 24 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. II-2/10.2.1.2.1.3 
- 
- 
-Provisions for fixed water fire-
-extinguishing arrangements for 
-periodically unattended machinery 
-spaces 
- 
- 
- 
- 
-Reg. II-2/10.2.1.2.2.1 Ready availability of water supply 
- 
- 
- 
- 
-Reg. II-2/10.2.3.1.1 
- 
-Approval of non -perishable material for 
-fire hoses 
- 
- 
- 
-Reg. II-2/10.2.3.2.1 
- 
-Number and diameter of fire hoses 
- 
- 
- 
-Reg. II-2/10.3.2.1 
- 
-Arrangement of fire extinguishers 
- 
- 
- 
-Reg. II-2/10.6.1.1 
- 
- 
-Type approval of automatic sprinkler, fire 
-detection and fire alarm system 
- 
- 
- 
- 
-Reg. II-2/10.6.3.2 
- 
- 
-Approval of fire-extinguishing 
-arrangement for flammable liquid lockers 
- 
- 
- 
- 
-Reg. II-2/10.7.1.2
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-detection and fire alarm system 
- 
- 
- 
- 
-Reg. II-2/10.6.3.2 
- 
- 
-Approval of fire-extinguishing 
-arrangement for flammable liquid lockers 
- 
- 
- 
- 
-Reg. II-2/10.7.1.2 
- 
- 
-Fixed gas fire -extinguishing systems for 
-general cargo 
- 
- 
- 
- 
-Reg. II-2/10.7.1.4 Issue of an Exemption Certificate  
-Reg. II-2/13.3.1.4 
- 
- 
-Provision of means of escape from, or 
-access to, radiotelegraph stations 
- 
- 
- 
- 
-Reg. II-2/13.3.2.5.1 
- 
- 
-Lighting or photoluminescent equipment 
-to be evaluated, tested and applied i n 
-accordance with the FSS Code 
- 
- 
- 
- 
-Reg. II-2/13.3.2.6.2 
- 
-Normally locked doors that form part of 
-an escape route – quick release 
-mechanisms  
- 
- 
- 
- 
-Reg. II-2/13.5.1 
- 
- 
- 
-Means of escape on passenger ships 
-from special category and open ro -ro 
-spaces to which any passengers carried 
-can have access 
- 
- 
- 
- 
-Regs. II-2/17.4.1 
-and 17.6 
- 
- 
-Evaluation and approval of the 
-engineering analysis for alternative 
-design and arrangements for fire safety
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-can have access 
- 
- 
- 
- 
-Regs. II-2/17.4.1 
-and 17.6 
- 
- 
-Evaluation and approval of the 
-engineering analysis for alternative 
-design and arrangements for fire safety 
- 
- 
- 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 25 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. II-2/17.5 Alternative design and arrangements for 
-fire safety – communication of 
-information to IMO 
- 
- 
- 
- 
-Reg. II-2/19.4 
- 
-Provision of document of compliance 
- 
- 
- 
-Reg. II-2/20.4.1 
- 
- 
-Provision and approval of fixed fire 
-detection and fire alarm systems 
- 
- 
- 
- 
-Reg. II-2/20.6.1.4.2 
- 
-Adverse effect as referred to in the 
-regulation – approval of stability 
-information  
- 
- 
-Reg. II-2/21.5.2 Alternate space for medical care  
-Reg. III/4 
- 
- 
-Evaluation, testing and approval of
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Adverse effect as referred to in the 
-regulation – approval of stability 
-information  
- 
- 
-Reg. II-2/21.5.2 Alternate space for medical care  
-Reg. III/4 
- 
- 
-Evaluation, testing and approval of 
-life-saving appliances and arrangements 
- 
- 
- 
- 
-Reg. III/5 
- 
-Production tests for life -saving 
-appliances 
- 
- 
- 
-Reg. III/20.8.1.2 
- 
-Approval of servicing stations 
- 
- 
- 
-Reg. III/20.8.5 
- 
-Extension of liferaft service intervals – 
-notifying IMO 
- 
-Regs. III/20.11.1 and 
-20.11.2 
- 
-Periodic servicing of launching 
-appliances and on -load release gear – 
-thorough examination at the ann ual 
-surveys 
- 
- 
- 
- 
-Reg. III/26.2.4 
- 
-Approval of liferafts on ro -ro passenger 
-ships 
- 
- 
-Regs. III/26.3.1 and 
-26.3.2 
- 
-Approval of fast rescue boats and their 
-launching appliances on ro-ro passenger 
-ships 
- 
- 
- 
- 
-Reg. III/28 
- 
-Approval of helicopter landing and pick -
-up areas on ro-ro passenger ships 
- 
- 
-Regs. III/38.3, 38.4.1 
-and 38.6 
-Evaluation of the alternative design and
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-ships 
- 
- 
- 
- 
-Reg. III/28 
- 
-Approval of helicopter landing and pick -
-up areas on ro-ro passenger ships 
- 
- 
-Regs. III/38.3, 38.4.1 
-and 38.6 
-Evaluation of the alternative design and 
-arrangements and re -evaluation due to 
-change of conditions 
- 
- 
-Reg. III/38.5 Alternative design and arrangements – 
-communication to IMO 
- 
- 
-Reg. IV/3.3 Exemptions – reporting to IMO  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 26 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
- 
-Reg. IV/14.1 Type approval of radio equipment  
- 
-Reg. IV/15.5 
- 
-Ensuring that radio equipment is 
-maintained 
- 
- 
- 
-Reg. IV/16.1 Radio personnel 
- 
- 
-Reg. IV/17 Radio records  
-Reg. V/3.3 
- 
-Exemptions and equivalents – reporting 
-to IMO 
- 
- 
- 
-Reg. V/14 
- 
-Ships' manning 
- 
- 
- 
-Reg. V/16
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-maintained 
- 
- 
- 
-Reg. IV/16.1 Radio personnel 
- 
- 
-Reg. IV/17 Radio records  
-Reg. V/3.3 
- 
-Exemptions and equivalents – reporting 
-to IMO 
- 
- 
- 
-Reg. V/14 
- 
-Ships' manning 
- 
- 
- 
-Reg. V/16 
- 
-Maintenance of equipment 
- 
- 
- 
-Reg. V/17 
- 
-Electromagnetic compatibility 
- 
- 
- 
-Reg. V/18.1 
- 
- 
-Type approval of navigational systems 
-and equipment and voyage data recorder 
- 
- 
- 
- 
-Reg. V/18.5 
- 
- 
-Requirement for quality control system at 
-manufacturers 
- 
- 
- 
- 
-Reg. V/23.3.3.1.3 
- 
-Pilot transfer arrangements 
- 
- 
- 
-Regs. VI/3.1 and 3.2 
- 
- 
-Provision of equipment for oxygen 
-analysis and gas detection and training of 
-crews in their use 
- 
- 
- 
- 
-Reg. VI/5.6 
- 
-Approval of Cargo Securing Manual 
- 
- 
- 
-Reg. VI/6 Acceptability for shipment 
- 
- 
-Reg. VI/9.2 
- 
-Grain loading information 
- 
- 
- 
-Reg. VII/5 Approval of Cargo Securing Manual 
- 
- 
-Reg. VII/15.2 
- 
-Warships – INF cargo 
- 
- 
- 
-Reg. VIII/4 
- 
- 
-Approval of design, construction and 
-standards of inspection and assembly of
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Reg. VII/5 Approval of Cargo Securing Manual 
- 
- 
-Reg. VII/15.2 
- 
-Warships – INF cargo 
- 
- 
- 
-Reg. VIII/4 
- 
- 
-Approval of design, construction and 
-standards of inspection and assembly of 
-reactor installations 
- 
- 
- 
- 
-Reg. VIII/6 
- 
-Ensuring radiation safety 
- 
- 
- 
-Reg. VIII/7(a) Approval of safety assessment  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 27 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-  
- 
- 
-Reg. VIII/8 
- 
-Approval of operating manual 
- 
- 
- 
-Reg. VIII/10(f) 
- 
-Issue of certificates 
- 
- 
- 
-Reg. IX/4.1 
- 
-Issue of Document of Compliance (DOC) 
- 
- 
-Reg. IX/4.3 
- 
-Issue of Safety Management Certificate 
-(SMC) 
- 
- 
-Reg. IX/6.1 
- 
-Periodic verification of the safety 
-management system 
- 
- 
-Reg. XI-1/1 
- 
-Authorization of recognized 
-organizations
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Issue of Safety Management Certificate 
-(SMC) 
- 
- 
-Reg. IX/6.1 
- 
-Periodic verification of the safety 
-management system 
- 
- 
-Reg. XI-1/1 
- 
-Authorization of recognized 
-organizations 
- 
- 
-Reg. XI-1/2 
- 
-Enhanced surveys 
- 
- 
-Reg. XI-1/3.5.4 
- 
- 
-Ship identification number – approval of 
-method of marking  
- 
- 
-Reg. XI-1/3-1.2 
- 
-Registered owner identification number 
- 
- 
-Reg. XI-1/5.3 
- 
-Issue of Continuous Synopsis Record 
-(CSR) 
- 
- 
-Reg. XI-1/5.4.2 Amendments to CSR 
- 
- 
-Reg. XI-1/5.4.3 Authorization and requirement to amend 
-CSR 
- 
-Reg. XI-1/5.8 Requirement for former flag State to send 
-CSR to new flag State 
- 
-Reg. XI-1/5.9 
- 
-Appending previous CSR to new CSR 
- 
- 
-Reg. XI-1/6 
- 
-Investigations of marine casualties and 
-incidents 
- 
- 
-Reg. XII/8.1 
- 
-Endorsement of booklet required by Reg. 
-VI/7.2 
- 
- 
-Reg. XII/9.2 Approval of bilge well high water level 
-alarms 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Reg. XII/8.1 
- 
-Endorsement of booklet required by Reg. 
-VI/7.2 
- 
- 
-Reg. XII/9.2 Approval of bilge well high water level 
-alarms 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 28 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. XII/11.3 Loading instrument – approval of 
-software for stability calculations 
- 
- 
- 
-MARPOL   
-Articles 4(1) and 4(3) 
- 
-Violation 
- 
- 
-Article 6(4) 
- 
- 
+SOURCE: MEPC.328%2876%29.pdf
+Convention. 
+ 
+5  In relation to chapter 4 of this An nex, any port State inspection may verify, when 
+appropriate, that there is a valid Statement of Compliance related to fuel oil consumption 
+reporting and operational carbon intensity rating, an International Energy Efficiency Certificate 
+and a Ship Energy Efficiency Management Plan on board, in accordance with article 5 of the 
+present Convention. 
+ 
+6  Notwithstanding the requirements in paragraph 5 of this regulation, any port State 
+inspection may inspect whether the Ship Energy Efficiency Management Plan is duly 
+implemented by the ship in accordance with regulation 28 of this Annex. 
+ 
+Regulation 11 
 Detection of violations and enforcement 
-of the Convention – investigations 
  
- 
-Article 12(1) 
- 
- 
-Casualties to ships – investigations 
- 
- 
-Annex I 
- 
- 
- 
- 
-Reg. 2.6.2 
- 
- 
- 
-Application – an oil tanker delivered on or 
-before 1 June 1982 engaged in specific 
-trades: agreement with port States 
- 
- 
-Reg. 3.3 Exemptions and waivers – reporting 
- 
- 
-Reg. 4.3
+1 Parties shall cooperate in the detection of violations and the enforcement of the 
+provisions of this Annex, using all appropriate and practicable measures of detection and 
+environmental monitoring, and adequate procedures for reporting and accumulation of 
+evidence.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Application – an oil tanker delivered on or 
-before 1 June 1982 engaged in specific 
-trades: agreement with port States 
+SOURCE: MEPC.328%2876%29.pdf
+provisions of this Annex, using all appropriate and practicable measures of detection and 
+environmental monitoring, and adequate procedures for reporting and accumulation of 
+evidence. 
  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 19 - 
  
-Reg. 3.3 Exemptions and waivers – reporting 
+2 A ship to which this Annex applies may, in any port or offshore terminal of a Party, be 
+subject to inspection by officers appointed or authorized by that Party for the purpose of 
+verifying whether the ship has emitted any of the substances covered by this Annex in violation 
+of the provision of this Annex. If an inspection indicates a violation of this Annex, a report shall 
+be forwarded to the Administration for any appropriate action. 
  
- 
-Reg. 4.3 
- 
- 
- 
-Exceptions – discharge of substances 
-containing oil for the purpose of 
-combating pollution incidents 
- 
- 
-Reg. 5.2 
- 
-Equivalents – reporting 
- 
- 
-Reg. 6 
- 
-Surveys 
- 
- 
-Reg. 7 
- 
-Reg. 9 
- 
-Issue or endorsement of certificate 
- 
-Form of certificate 
- 
- 
-Reg. 10.9.3 
- 
-Transfer of flag 
- 
- 
-Reg. 12A.12 
- 
-Oil fuel tank protection – approval of the 
-design and construction of ships 
- 
- 
-Reg. 14.3 
- 
-Oil filtering equipment – volume of oil 
-bilge holding tank 
- 
- 
-Reg. 14.4 
- 
- 
-Oil filtering equipment – ships of less 
-than 400 gross tonnage 
- 
- 
-Regs. 14.6 and 14.7 
- 
-Oil filtering equipment – approval 
- 
- 
-Reg. 15.6.2 
- 
-Control of discharge of oil – ships of less 
-than 400 gross tonnage: design approval 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019
+3 Any Party shall furnish to the Administration evidence, if any, that the ship has emitted
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Oil filtering equipment – approval 
+SOURCE: MEPC.328%2876%29.pdf
+be forwarded to the Administration for any appropriate action. 
  
+3 Any Party shall furnish to the Administration evidence, if any, that the ship has emitted 
+any of the substances covered by this Annex in violation of the provisions of this Annex. If it is 
+practicable to do so, the competent authority of the former Party shall notify the master of the 
+ship of the alleged violation. 
  
-Reg. 15.6.2 
- 
-Control of discharge of oil – ships of less 
-than 400 gross tonnage: design approval 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 29 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-  
-Regs. 18.8.2, 18.8.3 
-and 18.8.4 
- 
- 
- 
-Requirements for product carriers 
-of 40,000 tonnes deadweight and above 
-– arrangement and operation, approval 
-of oil content meter, clean ballast tank 
-operational manual 
- 
- 
-Reg. 18.10.1.1 
- 
- 
-Segregated ballast tanks – oil tanker 
-delivered on or before 1 June 1982 
-having special ballast arrangements: 
-approval 
- 
- 
-Reg. 18.10.1.2 
- 
- 
- 
-Segregated ballast tanks – oil tanker 
-delivered on or before 1 June 1982 
-having special ballast arrangements: 
-agreement with port States
+4 Upon receiving such evidence, the Administration shall investigate the matter and 
+may request the other Party to furnish further or better evidence of the alleged contravention. 
+If the Administration is satisfied that sufficient evidence is available to enable proceedings to 
+be brought in respect of the alleged violation, it shall cause such proceedings to be  taken in 
+accordance with its law as soon as possible. The Administration shall promptly inform the Party 
+that has reported the alleged violation, as well as the Organization, of the action taken.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-approval 
+SOURCE: MEPC.328%2876%29.pdf
+accordance with its law as soon as possible. The Administration shall promptly inform the Party 
+that has reported the alleged violation, as well as the Organization, of the action taken. 
  
+5 A Party may also inspect a ship to which this Annex appl ies when it enters the ports 
+or offshore terminals under its jurisdiction, if a request for an investigation is received from any 
+Party together with sufficient evidence that the ship has emitted any of the substances covered 
+by the Annex in any place in violation of this Annex. The report of such investigation shall be 
+sent to the Party requesting it and to the Administration so that the appropriate action may be 
+taken under the present Convention. 
  
-Reg. 18.10.1.2 
- 
- 
- 
-Segregated ballast tanks – oil tanker 
-delivered on or before 1 June 1982 
-having special ballast arrangements: 
-agreement with port States 
- 
- 
-Reg. 18.10.3 
- 
- 
-Segregated ballast tanks – oil tanker 
-delivered on or before 1 June 1982 having 
-special ballast arrangements: 
-communication to IMO 
- 
- 
-Reg. 20.8.1 
- 
- 
-Double hull and double bottom 
-requirements for oil tankers delivered 
-before 6 July 1996 – communication to 
-IMO 
- 
- 
-Reg. 21.8.1 
- 
- 
-Prevention of oil pollution from oil tankers 
-carrying heavy grade oil as cargo – 
-communication to IMO 
- 
- 
-Reg. 23.3.1 
- 
-Accidental oil outflow performance – 
-calculation of mean oil outflow parameter 
- 
- 
-Reg. 25.5 
- 
-Hypothetical outflow of oil – information 
-to IMO on accepted arrangements 
- 
-Reg. 27.3 
- 
- 
-Intact stability – approval of written 
-procedures for liquid transfer operation 
- 
- 
-Reg. 28.3.4 
- 
-Reg. 28.6.3 
- 
-Subdivision and damage stability – 
-sufficient stability during flooding
+6 The international law concerning the prevention, reduction and control of pollution of 
+the marine environment from ships, including that law relating to enforcement and safeguards, 
+in force at the time of application or interpretation of this Annex, applies, mutatis mutandis, to
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Intact stability – approval of written 
-procedures for liquid transfer operation 
+SOURCE: MEPC.328%2876%29.pdf
+the marine environment from ships, including that law relating to enforcement and safeguards, 
+in force at the time of application or interpretation of this Annex, applies, mutatis mutandis, to 
+the rules and standards set forth in this Annex. 
  
+Chapter 3 – Requirements for control of emissions from ships 
  
-Reg. 28.3.4 
+Regulation 12 
+Ozone-depleting substances 
  
-Reg. 28.6.3 
+1 This regulation does not apply to permanently sealed equipment where there are no 
+refrigerant charging connections or potentially removable components containing 
+ozone-depleting substances. 
  
-Subdivision and damage stability – 
-sufficient stability during flooding 
- 
-Subdivision and  damage stability – 
-issuing a document of approval for the 
-stability instrument 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 30 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. 29.2.1 
- 
-Slop tanks – approval 
- 
- 
- 
-Reg. 30.6.5.2 
- 
- 
-Pumping, piping and discharge 
-arrangement – establishment of 
-requirements 
- 
- 
-Reg. 30.7 
- 
- 
-Pumping, piping and discharge  
-arrangement – positive means of loading, 
-transporting or discharging cargo 
- 
- 
-Regs. 31.2 and 31.4 
- 
-Oil discharge monitoring and control 
-system – approval
+2 Subject to the provisions of regulation 3.1, any deliberate emissions of 
+ozone-depleting substances shall be prohibited. Deliberate emissions include emissions 
+occurring in the course of maintaining, servicing, repairing or disposing of systems or 
+equipment, except that deliberate emissions do not include minimal releases associated with 
+the recapture or recycling of an ozone-depleting substance. Emissions arising from leaks of
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Pumping, piping and discharge  
-arrangement – positive means of loading, 
-transporting or discharging cargo 
+SOURCE: MEPC.328%2876%29.pdf
+equipment, except that deliberate emissions do not include minimal releases associated with 
+the recapture or recycling of an ozone-depleting substance. Emissions arising from leaks of 
+an ozone-depleting substance, whether or not the leaks are deliberate, may be regulated by 
+Parties. 
  
+3.1 Installations that contain ozone -depleting substances, other than 
+hydrochlorofluorocarbons, shall be prohibited: 
  
-Regs. 31.2 and 31.4 
+.1 on ships constructed on or after 19 May 2005; or 
  
-Oil discharge monitoring and control 
-system – approval 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 20 - 
  
-Reg. 32 Oil/water interface detector – approval 
- 
- 
-Reg. 33.1 
- 
-Crude oil washing requirement – 
-compliance with requirement 
- 
- 
-Reg. 33.2 
- 
-Crude oil washing requirements – 
-establishment of requirements  
- 
- 
-Reg. 35.1 
- 
-Crude oil washing operations – 
-Operations and Equipment Manual 
- 
-Reg. 36.9 
- 
- 
-Oil Record Book Part II – development of 
-Oil Record Book for shi ps of less than 
-150 gross tonnage 
- 
- 
-Reg. 37.1 
- 
-Shipboard oil pollution emergency plan – 
-approval 
- 
- 
-Reg. 38.9.2 
- 
-Reception facilities within special areas: 
-Antarctic area – sufficient capacity 
- 
- 
-Reg. 38.10 
- 
-Reception facilities – notification on 
-alleged inadequacies of port reception 
-facilities 
- 
- 
-Reg. 39.2.2 
- 
-Special requirements for fixed or floating 
-platforms – approval of record form
+.2 in the case of ships constructed before 19 May 2005 which have a 
+contractual delivery date of the equipment to the ship on or after 19 May 2005 
+or, in the absence of a contractual delivery date, the actual delivery of the 
+equipment to the ship on or after 19 May 2005.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Reception facilities – notification on 
-alleged inadequacies of port reception 
-facilities 
+SOURCE: MEPC.328%2876%29.pdf
+or, in the absence of a contractual delivery date, the actual delivery of the 
+equipment to the ship on or after 19 May 2005. 
  
+3.2 Installations that contain hydrochlorofluorocarbons shall be prohibited: 
  
-Reg. 39.2.2 
+.1 on ships constructed on or after 1 January 2020; or 
  
-Special requirements for fixed or floating 
-platforms – approval of record form 
+.2 in the case of ships constructed before 1 January 2020 which have a 
+contractual delivery date of the equipment to the ship on or 
+after 1 January 2020 or, in the absence of a contractual delivery date, the 
+actual delivery of the equipment to the ship on or after 1 January 2020. 
  
+4 The substances referred to in this regulation, and equipment containing such 
+substances, shall be delivered to appropriate reception facilities when removed from ships. 
  
-Reg. 41.1 Approval of oil tankers' ship-to-ship 
-(STS) operations plan 
+5 Each ship subject to regulation 6.1 shall maintain a list of equipment containin g 
+ozone-depleting substances. 
  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 31 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Annex II 
- 
- 
- 
- 
-Reg. 3.1.3 
- 
- 
-Exceptions – approval of discharge of 
-noxious liquid substances (NLS) for the 
-purpose of combating pollution incidents 
- 
- 
-Reg. 4.1.2 
- 
- 
-Exemptions – communication to IMO on 
-relaxations 
- 
- 
-Reg. 4.3.4 
- 
-Exemptions – communication to IMO 
- 
- 
-Reg. 4.4.5 
- 
-Exemptions – communication to IMO 
- 
- 
-Reg. 5.1 
- 
- 
-Equivalents – substitution of operational 
-method 
- 
- 
-Reg. 5.2
+6 Each ship subject to regulation 6.1 that has rechargeable systems that contain
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Reg. 4.3.4 
+SOURCE: MEPC.328%2876%29.pdf
+5 Each ship subject to regulation 6.1 shall maintain a list of equipment containin g 
+ozone-depleting substances. 
  
-Exemptions – communication to IMO 
+6 Each ship subject to regulation 6.1 that has rechargeable systems that contain 
+ozone-depleting substances shall maintain an ozone -depleting substances record book. 
+This record book may form part of an existing logbook or electronic record book as approved 
+by the Administration. An electronic recording system referred to in regulation 12.6, as adopted 
+by resolution MEPC.176(58), shall be considered an electronic record book, provided the 
+electronic recording syst em is approved by the Administration on or before the first IAPP 
+Certificate renewal survey carried out on or after 1 October 2020, but not later 
+than 1 October 2025, taking into account the guidelines developed by the Organization.  
  
- 
-Reg. 4.4.5 
- 
-Exemptions – communication to IMO 
- 
- 
-Reg. 5.1 
- 
- 
-Equivalents – substitution of operational 
-method 
- 
- 
-Reg. 5.2 
- 
- 
-Equivalents – communication to IMO on 
-alternatives 
- 
- 
-Regs. 5.3.4 and 5.3.5 
- 
- 
-Equivalents – pumping and piping 
-arrangement, approval of manual 
- 
- 
-Reg. 6.3 
- 
- 
-Establishment of tripartite agreements – 
-notifying IMO 
- 
- 
-Reg. 8 
- 
-Surveys 
- 
- 
-Reg. 9 
- 
-Issue or endorsement of certificates 
- 
- 
-Reg. 10.7 Expiry date of existing certificate 
- 
- 
-Reg. 10.9.3 
- 
-Transfer of flag 
- 
- 
-Reg. 11.2 
- 
- 
- 
-Design, construction, equipment and 
-operations – establishment of 
-appropriate measures 
- 
- 
-Reg. 12.5 
- 
- 
-Pumping, piping, unloading 
-arrangements and slop tanks – approval 
-of pumping performance test 
- 
- 
-Reg. 13.3 
- 
- 
-Control of discharges of residues of NLS 
-– approval of ventilation procedure 
- 
- 
-Reg. 13.5 
- 
- 
-Control of discharges of residues of NLS
+7 Entries in the ozone-depleting substances record book shall be recorded in terms of
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-of pumping performance test 
+SOURCE: MEPC.328%2876%29.pdf
+than 1 October 2025, taking into account the guidelines developed by the Organization.  
  
+7 Entries in the ozone-depleting substances record book shall be recorded in terms of 
+mass (kg) of substance and shall be completed without delay on each occasion, in respect of 
+the following: 
  
-Reg. 13.3 
+.1 recharge, full or partial, of equipment containing ozone -depleting 
+substances; 
  
+.2 repair or maintenance of equipment containing ozone-depleting substances; 
  
-Control of discharges of residues of NLS 
-– approval of ventilation procedure 
+.3 discharge of ozone-depleting substances to the atmosphere: 
  
+.3.1 deliberate; and 
  
-Reg. 13.5 
+.3.2 non-deliberate; 
  
+.4 discharge of ozone-depleting substances to land-based reception facilities; 
+and 
  
-Control of discharges of residues of NLS 
-– approval of tank washing procedure 
+.5 supply of ozone-depleting substances to the ship. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 21 - 
  
+Regulation 13 
+Nitrogen oxides (NOx) 
  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 32 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. 14.1 
- 
- 
-Procedures and arrangements manual – 
-approval 
- 
- 
-Reg. 17.1 
- 
- 
-Shipboard marine pollution emergency 
-plan for NLS – approval 
- 
- 
-Reg. 18.7 
- 
- 
-Notification of alleged ina dequacies of 
-port reception facilities 
- 
- 
-Annex IV 
- 
- 
- 
- 
-Reg. 4 
- 
-Surveys 
- 
- 
-Reg. 5 
- 
-Reg. 7 
-Issue or endorsement of certificates 
- 
-Form of certificate 
- 
- 
-Reg. 8.8.2 
- 
-Transfer of flag 
- 
- 
-Reg. 9.1 
- 
-Approval of sewage systems
+Application
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Reg. 4 
+SOURCE: MEPC.328%2876%29.pdf
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 21 - 
  
-Surveys 
+Regulation 13 
+Nitrogen oxides (NOx) 
  
+Application 
  
-Reg. 5 
+1.1 This regulation shall apply to: 
  
-Reg. 7 
-Issue or endorsement of certificates 
+.1 each marine diesel engine with a power output of more than 130 kW installed 
+on a ship; and 
  
-Form of certificate 
+.2 each marine diesel engine with a power output of more than 130 kW that 
+undergoes a major conversion on or after 1 January 2000 except when 
+demonstrated to the satisfaction of the Administration that such engine is an 
+identical replacement to the engine that it is replacing and is otherwise not 
+covered under paragraph 1.1.1 of this regulation. 
  
+1.2 This regulation does not apply to: 
  
-Reg. 8.8.2 
- 
-Transfer of flag 
- 
- 
-Reg. 9.1 
- 
-Approval of sewage systems 
- 
- 
-Reg. 9.2 Approval of sewage systems (passenger 
-ships operating in special areas) 
- 
- 
-Reg. 11.1.1 
- 
-Approval of rate of discharge  
-Reg. 12.3 
- 
-Notification of alleged inadequacies of 
-port reception facilities 
- 
- 
-Annex V 
- 
- 
- 
- 
-Reg. 6.3.2 Sufficient capacity for the retention of all 
-garbage on board ships before entering 
-the Antarctic area 
- 
- 
-Reg. 8.4 
- 
- 
-Notification of alleged inadequacies of 
-port reception facilities 
- 
- 
-Annex VI 
- 
- 
- 
- 
-Regs. 3.2 and 3.3.2 Exceptions and exemptions  
-Regs. 4.2 and 4.4 
- 
-Equivalents and communication to IMO 
- 
- 
-Reg. 5 Surveys and certification 
- 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141
+.1 a marine diesel engine intended to be used solely for emergencies or solely 
+to power any device or equipment intended to be used solely for 
+emergencies on the ship on which it is installed, or a marine diesel engine
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 33 
+SOURCE: MEPC.328%2876%29.pdf
+to power any device or equipment intended to be used solely for 
+emergencies on the ship on which it is installed, or a marine diesel engine 
+installed in lifeboats intended to be used solely for emergencies; and 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. 6 
+.2 a marine diesel engine installed on a ship solely engaged in voyages within 
+waters subject to the sovereignty or jurisdiction of the State the flag of which 
+the ship is entitled to fly, provided that such engine is subject to an alternative 
+NOx control measure established by the Administration. 
  
-Issue or endorsement of certificates and 
-Statements of Compliance related to fuel 
-oil consumption reporting  
- 
-  
-Reg. 8  
- 
-Form of Certificates and Statements of 
-Compliance related to fuel oil consumption 
-reporting 
- 
- 
-Regs. 9.1 and 9.10 Duration and validity of certificates  
-Reg. 9.12  
- 
-Duration and validity of Statement of 
-Compliance related to fuel oil consumption 
-reporting  
- 
- 
-Reg. 9.9.3  
- 
-Transfer of flag 
- 
- 
-Reg. 11.4 Detection of violations and enforcement 
-– investigations and communication to 
-the Party and IMO 
- 
- 
-Reg. 12.6 Ozone-depleting substances record book 
-– approval of alternative forms of 
-record-keeping 
- 
- 
-Regs. 13.1.1.2
+1.3 Notwithstanding the provisions of paragraph 1.1 of this regulation, the Administration 
+may provide an exclusion from the application of this regulation for any marine diesel engine 
+that is installed on a ship constructed, or for any marine diesel engine that undergoes a major 
+conversion, before 19 May 2005, provided that the ship on which the engine is installed is 
+solely engaged in voyages to ports or offshore terminals within the State the flag of which the
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-– investigations and communication to 
-the Party and IMO 
+SOURCE: MEPC.328%2876%29.pdf
+conversion, before 19 May 2005, provided that the ship on which the engine is installed is 
+solely engaged in voyages to ports or offshore terminals within the State the flag of which the 
+ship is entitled to fly. 
  
+Major conversion 
  
-Reg. 12.6 Ozone-depleting substances record book 
-– approval of alternative forms of 
-record-keeping 
+2.1 For the purpose of this regulation, major conversion means a modification on or 
+after 1 January 2000 of a marine diesel engine that has not already been certified to the 
+standards set forth in paragraph 3, 4 or 5.1.1 of this regulation where: 
  
+.1 the engine is replaced by a marine diesel engine or an additional marine 
+diesel engine is installed, or 
  
-Regs. 13.1.1.2 
-and 13.1.2.2 
-Nitrogen oxides – acceptance of identical 
-replacement and alternative co ntrol 
-measures 
+.2 any substantial modification, as defined in the revised NOx Technical Code 
+2008, is made to the engine, or 
  
+.3 the maximum continuous rating of the engine is increased by more than 10% 
+compared to the maximum continuous rating of the original certification of 
+the engine. 
  
-Reg. 13.2.2 Acceptance of installation of Tier -II 
-engine in lieu of Tier -III engine where 
-Tier-III engine cannot be accommodated 
- 
- 
-Reg. 13.5.2.2 Combined nameplate diesel engine – 
-application as referred to in the 
-paragraph 
- 
- 
-Reg. 13.7.2 Approved method not commercially 
-available 
- 
- 
-Reg. 14.6  
- 
-Sulphur oxides – prescription of log-book 
- 
- 
-Reg. 15.5  Volatile organic compounds (VOCs) – 
-approval of vapour collection systems 
- 
- 
-Reg. 15.6 VOC management plan – approval 
- 
- 
-Reg. 16.6.1  Shipboard incineration – approvals 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT
+2.2 For a major conversion involving the replacement of a marine diesel engine with a
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Reg. 16.6.1  Shipboard incineration – approvals 
+SOURCE: MEPC.328%2876%29.pdf
+compared to the maximum continuous rating of the original certification of 
+the engine. 
  
+2.2 For a major conversion involving the replacement of a marine diesel engine with a 
+non-identical marine diesel engine, or the installation of an additional marine diesel engine, the 
+standards in this regulation at the time of the replacement or addition of the engine shall apply. 
+In the case of replacement engines only, if it is not possible for such a replacement engine to 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 22 - 
  
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 34 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. 17.4  
- 
-Reception facilities unavailable or 
-inadequate – communication to IMO 
- 
- 
-Reg. 19.6 Information regarding decision to allow, 
-suspend, withdraw or decline application 
-of Reg. 19.4 on waiving the requirement 
-for compliance with Regs. 20 and 21 – 
-communication to the Organization 
- 
-Refer to Reg. 19.4 
- 
-Reg. 20.1 Verification of the attained Energy 
-Efficiency Design Index (EEDI) 
- 
- 
-Reg. 22A.7  
- 
-Verification of the ship fuel oil consumption 
-data  
- 
- 
-Reg. 22A.9  
- 
-Transfer of the reported data to the IMO 
-Ship Fuel Oil Consumption Database  
- 
- 
-Reg. 23 Cooperation with other parties to
+meet the standards set forth in paragraph 5.1.1 of this regulation (Tier III, as applicable), then 
+that replacement engine shall meet the standards set forth in paragraph 4 of this regulation 
+(Tier II), taking into account the guidelines developed by the Organization.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Verification of the ship fuel oil consumption 
-data  
+SOURCE: MEPC.328%2876%29.pdf
+that replacement engine shall meet the standards set forth in paragraph 4 of this regulation 
+(Tier II), taking into account the guidelines developed by the Organization. 
  
+2.3 A marine diesel engine referred to in paragraph 2.1.2 or 2.1.3 of this regulation shall 
+meet the following standards: 
  
-Reg. 22A.9  
+.1 for ships constructed prior to 1 January 2000, the standards set forth in 
+paragraph 3 of this regulation shall apply; and 
  
-Transfer of the reported data to the IMO 
-Ship Fuel Oil Consumption Database  
+.2 for ships constructed on or after 1 January 2000, the standards in force at 
+the time the ship was constructed shall apply. 
  
+Tier I 
  
-Reg. 23 Cooperation with other parties to 
-promote development and transfer of 
-technology and exchange of information 
-relating to the improvement of energy 
-efficiency of ships 
- 
- 
-Appendix IV, Para. 1 Type approval as referred to in the 
-paragraph 
- 
- 
-Appendix VI, 
-Paras. 1.2, 2.1 and 3.1 
-Fuel verification procedure – 
-management and sample delivery 
- 
- 
-Res. MSC.133(76), as 
-amended 
- 
-Technical provisions for means of access 
-for inspections 
- 
- 
- 
-Para. 3.7 
- 
-Vertical or spiral ladders – acceptance 
- 
- 
-Para. 3.9.7 Other means of access – approval and 
-acceptance 
- 
-RO Code   
-Part 1/4.2 Delegation of authority  
-Part 1/5 Communication to IMO – a list of 
-recognized organizations (ROs) 
- 
- 
-Part 2/8 Authorization of RO  
-Part 3/7.1.1 Verification that ROs fulfil the 
-requirements of the RO Code as per 
-part 2/2.1
+3 Subject to regulation 3 of this Annex, the operation of a marine diesel engine that is 
+installed on a ship constructed on or after 1 January 2000 and prior to 1 January 2011 is 
+prohibited, except when the emission of nitrogen oxides (calculated as the total weighted 
+emission of NO2) from the engine is within the following limits, where n = rated engine speed 
+(crankshaft revolutions per minute):
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-recognized organizations (ROs) 
+SOURCE: MEPC.328%2876%29.pdf
+emission of NO2) from the engine is within the following limits, where n = rated engine speed 
+(crankshaft revolutions per minute): 
  
+.1 17.0 g/kWh when n is less than 130 rpm; 
  
-Part 2/8 Authorization of RO  
-Part 3/7.1.1 Verification that ROs fulfil the 
-requirements of the RO Code as per 
-part 2/2.1 
+.2 45 · n(–0.2) g/kWh when n is 130 or more but less than 2,000 rpm; and 
  
+.3 9.8 g/kWh when n is 2,000 rpm or more. 
  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 35 
+Tier II 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
+4 Subject to regulation 3 of this Annex, the operation of a marine diesel engine that is 
+installed on a ship constructed on or after 1 January 2011 is prohibited, except when the 
+emission of nitrogen oxides (calculated as the total weighted emission of NO2) from the engine 
+is within the following limits, where n = rated engine speed (crankshaft revolutions per minute): 
  
-ISM Code 
+.1 14.4 g/kWh when n is less than 130 rpm; 
  
+.2 44 · n(–0.23) g/kWh when n is 130 or more but less than 2,000 rpm; 
  
+.3 7.7 g/kWh when n is 2,000 rpm or more. 
  
+Tier III 
  
-Para. 13.2 
- 
-Issue of Document of Compliance (DOC)  
-Para. 13.4 Annual verification (DOC) 
- 
- 
-Para. 13.5 Withdrawal of DOC  
-Para. 13.7 Issue of Safety Management Certificate 
-(SMC) 
- 
- 
-Para. 13.8 
- 
-Intermediate verification (SMC) 
- 
- 
-Para. 13.9 
- 
-Withdrawal of SMC 
- 
- 
-Para. 14.1  
- 
-Issue of Interim DOC  
-Para. 14.2 
- 
-Issue of Interim SMC 
- 
- 
-Para. 14.4 Verification required for issue of Inte rim 
-SMC 
- 
- 
-Para. 15.1 
- 
-Verification – acceptance of procedures
+5.1 Subject to regulation 3 of this Annex, in an emission control area designated for Tier
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Issue of Interim DOC  
-Para. 14.2 
+SOURCE: MEPC.328%2876%29.pdf
+.3 7.7 g/kWh when n is 2,000 rpm or more. 
  
-Issue of Interim SMC 
+Tier III 
  
+5.1 Subject to regulation 3 of this Annex, in an emission control area designated for Tier 
+III NOx control under paragraph 6 of this regulation (NOx Tier III emission control area) , the 
+operation of a marine diesel engine that is installed on a ship is prohibited: 
  
-Para. 14.4 Verification required for issue of Inte rim 
-SMC 
+.1 except when the emission of nitrogen oxides (calculated as the total weighted 
+emission of NO2) from the engine is within the following limits, where n = 
+rated engine speed (crankshaft revolutions per minute): 
  
+.1 3.4 g/kWh when n is less than 130 rpm; 
  
-Para. 15.1 
- 
-Verification – acceptance of procedures 
- 
- 
-Para. 16 Forms of certificates  
-INF Code 
- 
- 
- 
- 
-Para. 1.3.2 
- 
-Issue of certificate 
+.2 9 · n(–0.2) g/kWh when n is 130 or more but less than 2,000 rpm; 
+.3 2.0 g/kWh when n is 2,000 rpm or more; 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 23 - 
  
  
-Para. 2.1 Damage stability (INF 1 ship) 
+when 
  
- 
-Para. 3.1 
- 
-Fire safety measures (INF 1 cargo) 
- 
- 
-Para. 4.1.3 
- 
-Temperature control of cargo spaces 
-(INF 1, 2 and 3 ships) 
- 
- 
-Para. 6.2 
- 
-Safe stowage and securing – approval 
-of principles 
- 
- 
-Para. 7.1 
- 
-Electrical power supplies (INF 1 ship)  
-Chapter 8 
- 
-Radiological protection 
- 
- 
-Chapter 9 Management and training 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 36 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS
+.2 that ship is constructed on or after:
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 36 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 10.2 Shipboard emergency plan – approval 
+SOURCE: MEPC.328%2876%29.pdf
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 23 - 
  
  
+when 
  
-Noise Code 
+.2 that ship is constructed on or after:  
  
-  
-Para. 1.3.1 Application of the Code 
+.1  1 January 2016 and is operating in the North American Emission 
+Control Area or the United States Caribbean Sea Emission Control 
+Area;  
  
+.2  1 January 2021 and is operating in the Baltic Sea Emission Control 
+Area or the North Sea Emission Control Area; 
  
+.3 that ship is operating in a NOx Tier III emission control area  other than an 
+emission control area described in paragraph 5.1.2 of this regulation, and is 
+constructed on or after the date of adoption of such an emission control area, 
+or a later date as may be specified in the amendment designating the NOx 
+Tier III emission control area, whichever is later. 
  
-Para. 1.3.7 Special consideration for ships designed 
-for and employed on voyages of short 
-duration,3 or on other services involving 
-short periods of operation of the ship 
+5.2 The standards set forth in paragraph 5.1.1 of this regulation shall not apply to: 
  
- 
-Para. 1.3.9 Repairs, alterations and modifications of a 
-major character and outfitting of existing 
-ships – determination of application of the 
-Code 
- 
-Para. 2.1.1 Acceptance of equivalent standard for 
-sound level meter 
- 
- 
-Para. 2.1.2 Acceptance of equivalent standard for 
-octave filter set 
- 
- 
-Para. 3.3.9 Agreement on a process to simulate the 
-operation of the dynamic positioning (DP) 
-thruster system 
- 
- 
-Para. 6.2.2 Acceptance of laboratory tests of 
-airborne sound insulation properties
+.1 a marine diesel engine installed on a ship with a length (L), as defined in
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-operation of the dynamic positioning (DP) 
-thruster system 
+SOURCE: MEPC.328%2876%29.pdf
+5.2 The standards set forth in paragraph 5.1.1 of this regulation shall not apply to: 
  
+.1 a marine diesel engine installed on a ship with a length (L), as defined in 
+regulation 1.19 of Annex I to the present Convention, of less than 24 metres 
+when it has been specifically designed, and is used solely, for recreational 
+purposes; or 
  
-Para. 6.2.2 Acceptance of laboratory tests of 
-airborne sound insulation properties 
+.2 a marine diesel engine installed on a ship with a combined nameplate diesel 
+engine propulsion power of less than 750 kW if it is demonstrated, to the 
+satisfaction of the Administration, that the ship cannot comply with the 
+standards set forth in paragraph 5.1.1 of this regulation because of design or 
+construction limitations of the ship; or 
  
- 
-Para. 7.4 Description of a warning notice 
-comprising symbol and supplementary 
-sign in working language 
- 
-FSS Code 
- 
- 
- 
- 
-Ch.1, Para. 4 
- 
-Use of toxic extinguishing media 
- 
- 
-Ch.4, Para. 2 
- 
-Type approval of fire extinguishers 
- 
- 
-Ch.4, Para. 3.1.1.2 
- 
-Determining equivalents of fire 
-extinguishers 
- 
- 
-Ch.4, Para. 3.2.2.2 
- 
-Approval of foam concentrate 
- 
- 
- 
-3 Voyages of short duration: Voyages where the ship is not generally underway for periods long enough for 
-seafarers to require sleep, or long off-duty periods, during the voyages (Noise Code Para. 1.4.34). 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 37 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx
+.3 a marine diesel engine installed on a ship constructed prior to 1 January 2021 
+of less than 500 gross tonnage, with a length (L), as defined in regulation 
+1.19 of Annex I to the present Convention, of 24 metres or over when it has
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 37 
+SOURCE: MEPC.328%2876%29.pdf
+of less than 500 gross tonnage, with a length (L), as defined in regulation 
+1.19 of Annex I to the present Convention, of 24 metres or over when it has 
+been specifically designed, and is used solely, for recreational purposes. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Ch.5, Para. 2.1.1.4 
+5.3 The tier and on/off status of marine diesel engines installed on board a ship to which 
+paragraph 5.1 of this regulation applies which are certified to both Tier II and Tier III or which 
+are certified to Tier II only shall be recorded in such logbook or electronic record book as 
+prescribed by the Administration at entry into and exit from a NO x Tier III emission control 
+area, or when the on/off status changes within such an area, together with the date, time and 
+position of the ship. 
  
- 
-Containers for the storage of 
-fire-extinguishing medium, etc. 
- 
- 
-Ch.5, Para. 2.1.2.1 System flow calculations  
-Ch.5, Para. 2.1.2.3 
- 
-Spare parts 
- 
- 
-Ch.5, Para. 2.3 Steam systems 
- 
- 
-Ch.5, Para. 2.4  Equivalent systems – approval  
-Ch.6, Para. 1 Specific acceptance of fixed foam 
-fire-extinguishing systems used for cargo 
-pump-rooms of chemical tankers 
-carrying liquid cargoes referred to in 
-regulation II-2/1.6.2 of the Convention 
- 
- 
-Ch.6, Paras. 3.1.2 
-and 4.1.1 
-Foam concentrates – approval 
- 
- 
- 
-Ch.6, Paras. 3.1.3 and 
-3.4.1 
-System test of fixed high-expansion foam 
-fire-extinguishing systems 
- 
-Ch.6, Para. 4.2.1 Acceptance of means for proving 
-effective distribution of the foam
+5.4 Emissions of nitrogen oxides from a marine diesel engine subject to paragraph 5.1 of 
+this regulation that occur immediately following building and sea trials of a newly constructed
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Ch.6, Paras. 3.1.3 and 
-3.4.1 
-System test of fixed high-expansion foam 
-fire-extinguishing systems 
+SOURCE: MEPC.328%2876%29.pdf
+5.4 Emissions of nitrogen oxides from a marine diesel engine subject to paragraph 5.1 of 
+this regulation that occur immediately following building and sea trials of a newly constructed 
+ship, or before and following converting, repairing, and/or maintaining the ship, or maintenance 
+or repair of a Tier II engine or a dual fuel engine when the ship is required to not have gas fuel 
+or gas cargo on board due to safety requirements, for which activities take place in a shipyard 
+or other repair facility located in a NOx Tier III emission control area, are temporarily exempted 
+provided the following conditions are met:  
  
-Ch.6, Para. 4.2.1 Acceptance of means for proving 
-effective distribution of the foam 
- 
-Ch.7, Para. 2.1 Fixed pressure water -spraying 
-fire-extinguishing systems – approval 
- 
- 
-Ch.7, Para. 2.2 Equivalent systems – approval 
- 
- 
-Ch.7, Para. 2.3  
- 
- 
- 
-Ch.7, Para. 2.4  
-Fixed pressure water -spraying 
-fire-extinguishing systems f or cabin 
-balconies – approval 
- 
-Fixed water-based firefighting system for 
-ro-ro space, vehicle spaces and special 
-category spaces – approval 
- 
- 
-Ch.8, Para. 2.1.2 
- 
- 
-Equivalent sprinkler systems – approval 
- 
- 
-Ch.9, Para. 2.3.1.2 Sensitivity limits of smoke de tectors in 
-other spaces  
- 
- 
-Ch.9, Para. 2.3.1.3 Heat detector temperature limits 
- 
- 
-Ch.9, Para. 2.3.1.7 Fixed fire detection and fire alarm 
-systems for cabin balconies – approval 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019
+.1 the engine meets the Tier II NOx limits; and 
+.2  the ship sails directly to or from the shipyard or other repair facility, does not 
+load or unload cargo during the duration of the exemption, and follows any 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Ch.9, Para. 2.3.1.7 Fixed fire detection and fire alarm 
-systems for cabin balconies – approval 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 38 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Ch.9, Para. 2.4.1.3 Limiting the number of enclosed spaces 
-included in each section 
- 
- 
-Ch.9, Para. 2.5.2 Testing on ships with self -diagnostic 
-system – determination of requirements  
- 
- 
-Ch.10, Para. 2.1.2 
- 
-Sequential scanning – overall response 
-time 
- 
- 
-Ch.10, Para. 2.2.2 
- 
-Extractor fans – overall response time  
-Ch.10, Para. 2.3.1.1 Means to isolate smoke accumulators 
- 
- 
-Ch.11, Para. 2.1 Low-location lighting − approval 
- 
- 
-Ch.12, Para. 2.2.2.1 Approval of heating arrangement of the 
-diesel engine cooling water or lubricating
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Ch.11, Para. 2.1 Low-location lighting − approval 
- 
- 
-Ch.12, Para. 2.2.2.1 Approval of heating arrangement of the 
-diesel engine cooling water or lubricating 
-oil system if the room for the diesel driven 
-power source is not heated 
- 
- 
-Ch.14, Para. 2.2.1.4 Foam concentrate supplied on board for 
-cargoes intended to be carried – approval 
-of additional arrangements if foam is not 
-effective or is incompatible 
- 
-Ch.14, Para. 2.2.2.1 
- 
- 
-Medium expansion ratio foam – 
-application rate, etc. 
- 
- 
-Ch.15, Para. 2.2.1.1 
- 
-Inert gas systems – approval 
- 
- 
-   
-2010 FTP Code 
- 
- 
- 
- 
-Para. 4.2 Recognition of testing laboratories 
- 
- 
-Paras. 5.1.1 and 5.1.2 
- 
-Approval of products in accordance with 
-established approval procedures or 
-authorization of competent authorities to 
-issue approvals 
- 
- 
-Para. 5.2.2 Requirement for manufacturers to have a 
-quality control system audited by a 
-competent authority, or, alternatively, use 
-of final product verification procedures as
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Para. 5.2.2 Requirement for manufacturers to have a 
-quality control system audited by a 
-competent authority, or, alternatively, use 
-of final product verification procedures as 
-referred to in the paragraph 
- 
- 
-Para. 7.2 
- 
- 
-Use of equivalents and modern 
-technology – communication of  
-information to the Organization 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 39 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
- 
-Annex 1, part 3/3.3 Structural core of a material other than 
-steel or aluminium alloy – decision on 
-limits for rise in temperature 
- 
- 
-Annex 1, part 3 
-appendix 1, Para. 
-2.3.2.9 
-Insulation system of "A" class door – 
-approval to the same standard as that 
-which the door is intended to achieve 
- 
- 
- 
-LSA Code  
- 
- 
-Para. 1.2.3
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Annex 1, part 3 
-appendix 1, Para. 
-2.3.2.9 
-Insulation system of "A" class door – 
-approval to the same standard as that 
-which the door is intended to achieve 
- 
- 
- 
-LSA Code  
- 
- 
-Para. 1.2.3 
- 
-Determine the period of acceptability of 
-life-saving appliances (LSAs) subject  to 
-deterioration with age 
- 
- 
-Para. 4.4.1.2 
- 
-Endorsement of lifeboat affixed approval 
-plate  
- 
- 
- 
-Para. 4.5.4 
- 
-Fixed two -way VHF radiotelephone 
-apparatus – sheltered space 
- 
- 
-Para. 5.1.1.4 
- 
-Rescue boats – combination of rigid and 
-inflatable construction 
- 
- 
-Para. 5.1.3.8 Rubbing strips on inflated rescue boats 
- 
- 
-Paras. 6.1.2.9 
-and 6.1.2.10 
-Lowering speed of a fully equipped liferaft 
- 
- 
- 
-Para. 6.2.1.2 
- 
-Marine evacuation systems (MESs) – 
-strength and construction of passage and 
-platform 
- 
- 
-Para. 7.2.2.1 
- 
-Broadcast of messages from other 
-places on board 
- 
- 
-1994 HSC Code  
- 
- 
-Para. 1.3.5 
- 
-Verification 
- 
- 
-Para. 1.4.29 
- 
- 
-Determination of "maximum operational 
-weight"
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Para. 7.2.2.1 
- 
-Broadcast of messages from other 
-places on board 
- 
- 
-1994 HSC Code  
- 
- 
-Para. 1.3.5 
- 
-Verification 
- 
- 
-Para. 1.4.29 
- 
- 
-Determination of "maximum operational 
-weight" 
- 
- 
-Para. 1.5.1.2 
- 
-Specifying intervals for renewal surveys 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 40 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 1.5.4 
- 
-Inspection and survey 
- 
- 
-Para. 1.5.5 
- 
-Recognized organizations and 
-nominated surveyors 
- 
- 
-Para. 1.5.7 
- 
-Completeness of survey and inspection 
- 
- 
-Para. 1.8.1 
- 
- 
-Issue/endorsement of certificate 
- 
-Para. 1.9.2 Issue of permit to operate 
- 
- 
-Para. 1.11.2 
- 
-Equivalents – reporting 
- 
- 
- 
-Para. 1.12.1 
- 
- 
-Adequate information and guidance 
-provided to the craft by the company 
- 
- 
- 
- 
-Paras. 1.13.2
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Para. 1.11.2 
- 
-Equivalents – reporting 
- 
- 
- 
-Para. 1.12.1 
- 
- 
-Adequate information and guidance 
-provided to the craft by the company 
- 
- 
- 
- 
-Paras. 1.13.2 
-and 1.13.3 
- 
-Novel designs 
- 
- 
- 
- 
- 
-Para. 1.14.1 
- 
-Investigation reports to IMO 
- 
- 
- 
-Paras. 2.7.4 and 2.14.2 
- 
-Inclining and stability information – 
-approval 
- 
- 
- 
-Para. 3.4 
- 
-Determination of service life 
- 
- 
- 
-Para. 3.5 Design criteria 
- 
- 
-Para. 4.8.3 
- 
-Documentation and verification of 
-evacuation time 
- 
- 
- 
- 
-Para. 7.5.6.3 
- 
-Safe outlets for exhaust fans in fuel tank 
-spaces 
- 
- 
- 
- 
-Para. 7.7.2.3.2 
- 
-Sensitivity limits of smoke detectors 
- 
- 
- 
-Para. 7.7.6.1.5 
- 
- 
-Additional quantity of fire -extinguishing 
-medium 
- 
- 
- 
- 
-Para. 7.7.6.1.12 
- 
- 
-Containers for the storage of 
-fire-extinguishing medium, etc. – design 
- 
- 
-Para. 7.7.8.5 Maximum length of fire hoses 
- 
- 
-Para. 8.1 
- 
-Approval and accep tance of LSA and 
-arrangements 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Para. 7.7.8.5 Maximum length of fire hoses 
- 
- 
-Para. 8.1 
- 
-Approval and accep tance of LSA and 
-arrangements 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 41 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 8.9.1.2 Approval of novel LSAs or arrangements  
-Para. 8.9.1.3 
- 
-Notifying the Organization 
- 
- 
-Para. 8.9.7.1.2 Approval of servicing stations 
- 
- 
-Para. 8.9.7.2 
- 
-Deployment intervals of MES 
- 
- 
-Para. 8.9.11 
- 
-Novel LSAs or arrangements 
- 
- 
-Para. 8.9.12 
- 
-Notifying the Organization 
- 
- 
-Para. 10.2.4.9 
- 
-Flexible oil fuel pipes 
- 
- 
-Para. 10.3.7 
- 
-Internal diameters of suction branches 
- 
- 
-Para. 12.6.2 
- 
-Specified voltages to earth 
- 
- 
-Para. 13.1.2 
- 
-Navigational equipment and its 
-installation 
- 
- 
-Para. 13.13
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Para. 10.3.7 
- 
-Internal diameters of suction branches 
- 
- 
-Para. 12.6.2 
- 
-Specified voltages to earth 
- 
- 
-Para. 13.1.2 
- 
-Navigational equipment and its 
-installation 
- 
- 
-Para. 13.13 
- 
- 
-Approval of systems, equipment and 
-performance standards 
- 
- 
-Para. 14.3.3 
- 
-Exemptions – reporting 
- 
- 
-Para. 14.13.1 Type approval 
- 
- 
-Para. 14.14.5 
- 
-Ensuring maintenance 
- 
- 
-Para. 14.15 
- 
-Radio personnel 
- 
- 
-Para. 14.16 
- 
-Radio records 
- 
- 
-Para. 15.3.1 
- 
-Operating station – field of vision 
- 
- 
-Para. 15.7.2 Ensuring clear view through windows  
-Para. 17.8 
- 
-Acceleration and deceleration 
- 
- 
-Para. 18.1.4 
- 
-Determining maximum allowable 
-distance from a base port or place of 
-refuge 
- 
- 
-Para. 18.2 
- 
-Craft documentation 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 42 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx
+SOURCE: MEPC.328%2876%29.pdf
+load or unload cargo during the duration of the exemption, and follows any 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 24 - 
+ 
+additional specific routeing requirements indicated by the port State in which 
+the shipyard or other repair facility is located, if applicable.  
+ 
+5.5 The exemption described in paragraph 5.4 of this regulation applies only for the 
+following period:  
+ 
+.1 for a newly constructed ship, the period beginning at the time the ship is 
+delivered from the shipyard, including sea trials, and ending at the time the 
+ship directly exits the NOx Tier III emission control area(s) or, with regard to 
+a ship fitted with a d ual fuel engine, the ship directly exits the NO x Tier III 
+emission control area(s) or proceeds directly to the nearest gas fuel

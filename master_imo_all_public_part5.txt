@@ -1,2100 +1,1702 @@
-SOURCE: A.1122(30).pdf
-defined as a toxic is likely to be present and includes cargo tanks, portable 
-tanks used as deck cargo tanks, slop tanks, cargo pump-rooms, pump-rooms 
-adjacent to cargo tanks, hold spaces in which independent tanks are located, 
-cofferdams surrounding integral tanks, enclosed spaces in which pipes 
-containing cargoes are located and the following deck areas: 
+SOURCE: MEPC.328%2876%29.pdf
+35 15°55′.32 N 154°13′.05 W 
+36 16°46′.27 N 152°49′.11 W 
+37 17°33′.42 N 152°00′.32 W 
+38 18°30′.16 N 151°30′.24 W 
+39 19°02′.47 N 151°22′.17 W 
+40 19°34′.46 N 151°19′.47 W 
+41 20°07′.42 N 151°22′.58 W 
+42 20°38′.43 N 151°31′.36 W 
+43 21°29′.09 N 151°59′.50 W 
+44 22°06′.58 N 152°31′.25 W 
+45 22°32′.54 N 153°00′.33 W 
  
-.1 within 3 m of cargo tank installed on deck or portable tanks used as 
-deck cargo tanks; 
  
-.2 areas on open deck, or semi-enclosed spaces on deck, within 3 m 
-of any cargo tank access outlet; 
+3 The United States Caribbean Sea area includes: 
  
-.3 areas on open deck over an integral tank without an overlaying 
-cofferdam plus the open deck area extending transversely and 
-longitudinally for a distance of 3 m beyond each side of the tank; 
+.1 the sea area located off the Atlantic and Caribbean coasts of the 
+Commonwealth of Puerto Rico and the United States Virgin Islands, 
+enclosed by geodesic lines connecting the following coordinates: 
  
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 7
+Point Latitude Longitude 
+1 17°18′.37 N 67°32′.14 W 
+2 19°11′.14 N 67°26′.45 W 
+3 19°30′.28 N 65°16′.48 W 
+4 19°12′.25 N 65°06′.08 W 
+5 18°45′.13 N 65°00′.22 W 
+6 18°41′.14 N 64°59′.33 W 
+7 18°29′.22 N 64°53′.51 W 
+8 18°27′.35 N 64°53′.22 W 
+9 18°25′.21 N 64°52′.39 W 
+10 18°24′.30 N 64°52′.19 W 
+11 18°23′.51 N 64°51′.50 W 
+12 18°23′.42 N 64°51′.23 W 
+RESOLUTION MEPC.328(76)
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 7 
+SOURCE: MEPC.328%2876%29.pdf
+7 18°29′.22 N 64°53′.51 W 
+8 18°27′.35 N 64°53′.22 W 
+9 18°25′.21 N 64°52′.39 W 
+10 18°24′.30 N 64°52′.19 W 
+11 18°23′.51 N 64°51′.50 W 
+12 18°23′.42 N 64°51′.23 W 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 75 - 
  
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-.4 areas on open deck, or semi-enclosed spaces on deck, within 3 m 
-of cargo manifold valve, cargo valve, cargo pipe flange, except 
-spaces within the 3 m zone that are separated by an enclosed 
-bulkhead to the minimum height as given in 1.2.7.2.6; 
- 
-.5 areas on open deck, or semi-enclosed spaces on open deck above 
-and in the vicinity of any cargo tank vent outlet intended for the 
-passage of large volumes of vapour mixture during cargo loading, 
-within a vertical cylinder of unlimited height and 3 m radius centred 
-upon the centre of the outlet, and within a hemisphere of 3 m radius 
-below the outlet; 
- 
-.6 areas on the open deck within spillage coamings surrounding cargo 
-manifold valves and 3 m beyond these, up to a height of 2.4 m above 
-the deck; and
+Point Latitude Longitude 
+13 18°23′.36 N 64°50′.17 W 
+14 18°23′.48 N 64°49′.41 W 
+15 18°24′.11 N 64°49′.00 W 
+16 18°24′.28 N 64°47′.57 W 
+17 18°24′.18 N 64°47′.01 W 
+18 18°23′.13 N 64°46′.37 W 
+19 18°22′.37 N 64°45′.20 W 
+20 18°22′.39 N 64°44′.42 W 
+21 18°22′.42 N 64°44′.36 W 
+22 18°22′.37 N 64°44′.24 W 
+23 18°22′.39 N 64°43′.42 W 
+24 18°22′.30 N 64°43′.36 W 
+25 18°22′.25 N 64°42′.58 W 
+26 18°22′.26 N 64°42′.28 W 
+27 18°22′.15 N 64°42′.03 W 
+28 18°22′.22 N 64°40′.60 W 
+29 18°21′.57 N 64°40′.15 W 
+30 18°21′.51 N 64°38′.23 W 
+31 18°21′.22 N 64°38′.16 W 
+32 18°20′.39 N 64°38′.33 W
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-below the outlet; 
+SOURCE: MEPC.328%2876%29.pdf
+26 18°22′.26 N 64°42′.28 W 
+27 18°22′.15 N 64°42′.03 W 
+28 18°22′.22 N 64°40′.60 W 
+29 18°21′.57 N 64°40′.15 W 
+30 18°21′.51 N 64°38′.23 W 
+31 18°21′.22 N 64°38′.16 W 
+32 18°20′.39 N 64°38′.33 W 
+33 18°19′.15 N 64°38′.14 W 
+34 18°19′.07 N 64°38′.16 W 
+35 18°17′.23 N 64°39′.38 W 
+36 18°16′.43 N 64°39′.41 W 
+37 18°11′.33 N 64°38′.58 W 
+38 18°03′.02 N 64°38′.03 W 
+39 18°02′.56 N 64°29′.35 W 
+40 18°02′.51 N 64°27′.02 W 
+41 18°02′.30 N 64°21′.08 W 
+42 18°02′.31 N 64°20′.08 W 
+43 18°02′.03 N 64°15′.57 W 
+44 18°00′.12 N 64°02′.29 W 
+45 17°59′.58 N 64°01′.04 W 
+46 17°58′.47 N 63°57′.01 W 
+47 17°57′.51 N 63°53′.54 W 
+48 17°56′.38 N 63°53′.21 W 
+49 17°39′.40 N 63°54′.53 W 
+50 17°37′.08 N 63°55′.10 W 
+51 17°30′.21 N 63°55′.56 W 
+52 17°11′.36 N 63°57′.57 W 
+53 17°05′.00 N 63°58′.41 W 
+54 16°59′.49 N 63°59′.18 W 
+55 17°18′.37 N 67°32′.14 W 
  
-.6 areas on the open deck within spillage coamings surrounding cargo 
-manifold valves and 3 m beyond these, up to a height of 2.4 m above 
-the deck; and 
- 
-.7 compartments for cargo hoses; 
- 
-.3 a substance having a flashpoint not exceeding 60°C, or defined as toxic or 
-vapours of such cargo, is likely to be present and includes cargo tanks, 
-portable tanks used as deck cargo tanks, slop tanks, cargo pump-rooms, 
-pump-rooms adjacent to cargo tanks, hold spaces in which independent 
-tanks are located, cofferdams surrounding integral tanks, enclosed spaces 
-in which pipes containing cargoes are located and the following deck areas: 
- 
-.1 within 3 m of cargo tank installed on deck or portable tanks used as 
-deck cargo tanks; 
- 
-.2 areas on open deck, or semi-enclosed spaces on deck, within 4.5 m 
-of gas or vapour outlet, cargo manifold valve, cargo valve, cargo 
-pipe flange, cargo pump-room ventilation outlets and cargo tank
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-of gas or vapour outlet, cargo manifold valve, cargo valve, cargo 
-pipe flange, cargo pump-room ventilation outlets and cargo tank 
-openings for pressure release provided to permit the flow of small 
-volumes of gas or vapour mixtures caused by thermal variation; 
+SOURCE: MEPC.328%2876%29.pdf
+55 17°18′.37 N 67°32′.14 W 
  
-.3 areas on open deck, or semi-enclosed spaces on open deck above 
-and in the vicinity of any cargo gas outlet intended for the passage 
-of large volumes of gas or vapour mixture during cargo loading, 
-within a vertical cylinder of unlimited height and 10 m radius centred 
-upon the centre of the outlet, and within a hemisphere of 10 m 
-radius below the outlet; 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 76 - 
  
-.4 areas on open deck, or semi-enclosed spaces on deck, within 3 m 
-of cargo pump-room entrances, cargo pump-room ventilation inlet, 
-openings into cofferdams; 
+Appendix VIII 
  
-.5 areas on the open deck within spillage coamings surrounding cargo 
-manifold valves and 3 m beyond these, up to a height of 2.4 m 
-above the deck;  
+Form of International Energy Efficiency (IEE) Certificate (regulation 8.2) 
  
-.6 compartments for cargo hoses; and
+INTERNATIONAL ENERGY EFFICIENCY CERTIFICATE 
+ 
+Issued under the provisions of the Protocol of 1997, as amended, to amend the International 
+Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol 
+of 1978 relating thereto (hereinafter referred to as "the Convention") under the authority of the 
+Government of: 
+ 
+ 
+................................................................................................................................................... 
+(full designation of the country)
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-.5 areas on the open deck within spillage coamings surrounding cargo 
-manifold valves and 3 m beyond these, up to a height of 2.4 m 
-above the deck;  
+SOURCE: MEPC.328%2876%29.pdf
+................................................................................................................................................... 
+(full designation of the country) 
  
-.6 compartments for cargo hoses; and 
+by ............................................................................................................................................... 
+(full designation of the competent person or organization  
+authorized under the provisions of the Convention) 
  
-.7 within the hose landing area. 
+Particulars of ship 
  
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 8 
+Name of ship ............................................................................................................................. 
  
+Distinctive number or letters ...................................................................................................... 
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-1.2.8 Cargo control station  means a location that is manned during cargo transfer 
-operations for the purpose of directing or controlling the loading or unloading of cargo. 
- 
-1.2.9 Cargo pump-room is a space containing pumps and their accessories for the handling 
-of the products covered by the present Code. 
- 
-1.2.10 Cofferdam is the isolating space between two adjacent steel bulkheads or decks. 
-This space may be a void space or a ballast space.
+Port of registry ...........................................................................................................................
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-of the products covered by the present Code. 
+SOURCE: MEPC.328%2876%29.pdf
+Port of registry ........................................................................................................................... 
  
-1.2.10 Cofferdam is the isolating space between two adjacent steel bulkheads or decks. 
-This space may be a void space or a ballast space. 
+Gross tonnage ........................................................................................................................... 
  
-1.2.11 Control stations  are those spaces in which vessels' radio or main navigating 
-equipment or the emergency source of power is located or where the fire-recording or  
-fire-control equipment is centralized. This does not include special fire-control equipment which 
-can be most practically located in the cargo area. 
+IMO number  ............................................................................................................................ 
  
-1.2.12 Conversion  means a vessel in an unrelated service modified for use as an OSV . 
-Special purpose ships (operated under the Code of Safety for Special Purpose Ships, 2008 
-(2008 SPS Code)) in support-related service configurations are not considered "in an unrelated 
-service". 
+THIS IS TO CERTIFY: 
  
-1.2.13 Dangerous chemicals means any liquid chemicals designated as presenting a safety 
-hazard, based on the safety criteria for assigning products to chapter 17 of the IBC Code.
+1 That the ship has been surveyed in accordance with regulation 5.4 of Annex VI to the 
+Convention; and 
+ 
+2 That the survey shows that the ship complies with the applicable requirements in 
+regulations 22, 23, 24, 25 and 26. 
+ 
+Completion date of survey on which this Certificate is based:  ........................... (dd/mm/yyyy) 
+ 
+Issued at .................................................................................................................................... 
+(place of issue of certificate)
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-service". 
+SOURCE: MEPC.328%2876%29.pdf
+Issued at .................................................................................................................................... 
+(place of issue of certificate) 
  
-1.2.13 Dangerous chemicals means any liquid chemicals designated as presenting a safety 
-hazard, based on the safety criteria for assigning products to chapter 17 of the IBC Code.   
+(dd/mm/yyyy): ......................................... ............................................................ 
+(date of issue) (signature of duly authorized official 
+issuing the certificate) 
+(seal or stamp of the authority, as appropriate) 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 77 - 
  
-1.2.14 Dangerous goods  mean the substances, materials and articles covered by the 
-IMDG Code. 
+Supplement to the International Energy Efficiency Certificate 
+(IEE Certificate) 
  
-1.2.15 Deadweight means the difference in metric tons between the displacement of an OSV 
-in water of a density of 1.025 at the load waterline corresponding to the assigned summer 
-freeboard and the lightweight of the vessel.  
+RECORD OF CONSTRUCTION RELATING TO ENERGY 
+EFFICIENCY 
  
-1.2.16 Deck spread  means portable tanks, piping, equipment, processing equipment and 
-control stations secured to the vessel by permanent means and used in the operation of 
-the vessel. 
+Notes: 
  
-1.2.17 Density is the ratio of the mass to the volume of a product, expressed in terms of 
-kilograms per cubic metre. This applies to liquids, gases and vapours. 
- 
-1.2.18 Flashpoint is the temperature in degrees Celsius at which a product will give off
+1 This Record shall be permanently attached to the IEE Certificate. The IEE Certificate 
+shall be available on board the ship at all times.
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-kilograms per cubic metre. This applies to liquids, gases and vapours. 
+SOURCE: MEPC.328%2876%29.pdf
+EFFICIENCY 
  
-1.2.18 Flashpoint is the temperature in degrees Celsius at which a product will give off 
-enough flammable vapour to be ignited. Values given in the present Code are those for a 
-"closed cup test" determined by an approved flashpoint apparatus. 
+Notes: 
  
-1.2.19 Hazardous substance is any substance either listed in chapter 17 of the IBC Code or 
-having a hazard more severe than one of the minimum hazard criteria given in criteria for 
-hazard evaluation of bulk chemicals as approved by the Organization. 
+1 This Record shall be permanently attached to the IEE Certificate. The IEE Certificate 
+shall be available on board the ship at all times. 
  
-1.2.20 Hold space is the space enclosed by the vessel's structure in which an independent 
-cargo tank is situated. 
+2 The Record shall be at least in English, French or Spanish. If an official language of 
+the issuing Party is also used, this shall prevail in case of a dispute or discrepancy. 
  
-1.2.21 Hose landing area means an area on the main deck, except those in compartments 
-for cargo hoses, where cargo hoses of substances having a flashpoint not exceeding 60°C 
-and/or defined as toxic are located during cargo transfer.
+3 Entries in boxes shall be made by inserting either: a cross (x) for the answers "yes" 
+and "applicable"; or a dash ( -) for the answers "no" and "not applicable ", as 
+appropriate. 
+ 
+4 Unless otherwise stated, regulations mentioned in this Record refer to regulations in 
+Annex VI of the Convention, and resolutions or circulars refer to those adopted by 
+the International Maritime Organization. 
+ 
+1 Particulars of ship 
+ 
+1.1 Name of ship ................................................................................................................
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-for cargo hoses, where cargo hoses of substances having a flashpoint not exceeding 60°C 
-and/or defined as toxic are located during cargo transfer. 
+SOURCE: MEPC.328%2876%29.pdf
+1 Particulars of ship 
  
-1.2.22 Independent means that a piping or venting system, for example, is in no way 
-connected to another system and that there are no provisions available for the potential 
-connection to other systems. 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 9 
+1.1 Name of ship ................................................................................................................ 
  
+1.2 IMO number ................................................................................................................ 
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-1.2.23 IBC Code means the International Code for the Construction and Equipment of Ships 
-Carrying Dangerous Chemicals in Bulk (resolutions MSC.4(48) and MEPC.19(22)), as 
-amended. 
+1.3 Date of building contract .............................................................................................. 
  
-1.2.24 IGC Code means the International Code for the Construction and Equipment of Ships 
-Carrying Liquefied Gases in Bulk (resolution MSC.5(48)), as amended.
+1.4 Date of major conversion (if applicable)…………………………………………………… 
+ 
+1.5 Gross tonnage ............................................................................................................. 
+ 
+1.6 Deadweight ............................................................................................................. 
+ 
+1.7 Type of ship ............................................................................................................... 
+ 
+2 Propulsion system
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-amended. 
+SOURCE: MEPC.328%2876%29.pdf
+1.7 Type of ship ............................................................................................................... 
  
-1.2.24 IGC Code means the International Code for the Construction and Equipment of Ships 
-Carrying Liquefied Gases in Bulk (resolution MSC.5(48)), as amended. 
+2 Propulsion system 
  
-1.2.25 IMDG Code  means the International Maritime Dangerous Goods Code 
-(resolution MSC.406(96)), as amended. 
+2.1 Diesel propulsion .............................................................................................. □ 
  
-1.2.26 Length (L) means 96% of the total length on a waterline at 85% of the least moulded 
-depth measured from the top of the keel, or the length from the foreside of the stem to the axis 
-of the rudder stock on that waterline, if that is greater. In vessels designed with a rake of keel, 
-the waterline on which this length is measured should be parallel to the designed waterline. 
-The length (L) should be measured in metres. 
+2.2 Diesel-electric propulsion ................................................................................. □ 
  
-1.2.27 Lightweight means the displacement of an OSV in metric tons without cargo, fuel, 
-lubricating oil, ballast water, fresh water and feed water in tanks, consumable stores, and crew 
-and their effects.
+2.3 Turbine propulsion ............................................................................................ □ 
+ 
+2.4 Hybrid propulsion ............................................................................................. □ 
+ 
+2.5 Propulsion system other than any of the above ............................................... □ 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 78 -
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-lubricating oil, ballast water, fresh water and feed water in tanks, consumable stores, and crew 
-and their effects. 
+SOURCE: MEPC.328%2876%29.pdf
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 78 - 
  
-1.2.28 Machinery spaces of category A  are those spaces and trunks to such spaces which 
-either contain:  
+3 Attained Energy Efficiency Design Index (EEDI) 
  
-.1 internal combustion machinery used for main propulsion;  
+3.1 The attained EEDI in accordance with regulation 22.1 is calculated based on the 
+information contained in the EEDI technical file, which also shows the process of 
+calculating the attained EEDI................................................................................. □ 
  
-.2 internal combustion machinery used for purposes other than main propulsion 
-where such machinery has in the aggregate a total power output of not less 
-than 375 kW; or  
+The attained EEDI is: ................. grams-CO2/tonne-nautical mile  
  
-.3 any oil-fired boiler or oil fuel unit or any oil-fired equipment other than boilers, 
-such as inert gas generators, incinerators, etc. 
+3.2 The attained EEDI is not calculated, as: 
  
-1.2.29 Machinery spaces are machinery spaces of category A and other spaces containing 
-propulsion machinery, boilers, oil fuel units, steam and internal combustion engines, 
-generators and major electrical machinery, oil filling station, refrigerating, stabilizing, ventilation 
-and air conditioning machinery, and similar spaces, and trunks to such spaces.
+3.2.1 the ship is exempt under regulation 22.1 as it is not a new ship as defined in 
+regulation 2.2.18 ........................................................................................................
+ □ 
+ 
+3.2.2 the type of propulsion system is exempt in accordance with regulation 19.3 …...... □
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-generators and major electrical machinery, oil filling station, refrigerating, stabilizing, ventilation 
-and air conditioning machinery, and similar spaces, and trunks to such spaces. 
+SOURCE: MEPC.328%2876%29.pdf
+□ 
  
-1.2.30 MARPOL means the International Convention for the Prevention of Pollution from 
-Ships, 1973, as modified by the Protocol of 1978 relating thereto, as amended. 
+3.2.2 the type of propulsion system is exempt in accordance with regulation 19.3 …...... □ 
  
-1.2.31 Noxious liquid substance  means any substance indicated in the Pollution Category 
-column of chapter 17 or 18 of the IBC Code, or the current MEPC.2 Circular or provisionally 
-assessed under the requirements of regulation 6.3 of MARPOL Annex II as falling into 
-categories X, Y or Z. 
+3.2.3 the requirement of regulation 22 is waived by the ship's Administration in accordance 
+with regulation 19.4  ................................................................................................ □ 
  
-1.2.32 Offshore portable tank means a portable tank specially designed for repeated use for 
-transport of dangerous goods to, from and between offshore facilities. An offshore portable 
-tank is designed and constructed in accordance with the Guidelines for the approval of offshore 
-containers handled in open seas (MSC/Circ.860).
+3.2.4 the type of ship is exempt in accordance with regulation 22.1  ............................... □ 
+ 
+4 Required EEDI 
+ 
+4.1 Required EEDI is: ................. grams-CO2/tonne-mile 
+ 
+4.2 The required EEDI is not applicable, as: 
+ 
+4.2.1 the ship is exempt under regulation 24.1 as it is not a new ship as defined in regulation 
+2.2.18....................................................................................................................... □ 
+ 
+4.2.2 the type of propulsion system is exempt in accordance with regulation 19.3...….... □ 
+ 
+4.2.3 the requirement of regulation 24 is waived by the ship's Administration in accordance
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-tank is designed and constructed in accordance with the Guidelines for the approval of offshore 
-containers handled in open seas (MSC/Circ.860).  
+SOURCE: MEPC.328%2876%29.pdf
+4.2.2 the type of propulsion system is exempt in accordance with regulation 19.3...….... □ 
  
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 10 
+4.2.3 the requirement of regulation 24 is waived by the ship's Administration in accordance 
+with regulation 19.4 ................................................................................................ □ 
  
+4.2.4 the type of ship is exempt in accordance with regulation 24.1 …............................ □ 
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-1.2.33 Offshore support vessels (OSVs) are:  
+4.2.5 the ship 's capacity is below the minimum capacity threshold in table 1 of 
+regulation 24.2......................................................................................................... □ 
  
-.1 multi-mission vessels which are primarily engaged in the transport of stores, 
-materials and equipment to and from mobile offshore drilling units, fixed and 
-floating platforms and other similar offshore installations; or 
+5 Attained Energy Efficiency Existing Ship Index (EEXI) 
  
-.2 multi-mission vessels, including well-stimulation vessels, but excluding 
-mobile offshore drilling units, derrick barges, pipe-laying barges and floating 
-accommodation units, which are otherwise primarily engaged in supporting 
-the work of offshore installations.
+5.1 The attained EEXI in accordance with regulation 23.1is calculated taking into account 
+the guidelines developed by the Organization……………………………….. □ 
+ 
+The attained EEXI is:………………..grams-CO2/tonne-mile 
+ 
+5.2 The attained EEXI is not calculated, as:
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-mobile offshore drilling units, derrick barges, pipe-laying barges and floating 
-accommodation units, which are otherwise primarily engaged in supporting 
-the work of offshore installations. 
+SOURCE: MEPC.328%2876%29.pdf
+the guidelines developed by the Organization……………………………….. □ 
  
-1.2.34 Oil fuel unit  is the equipment used for the preparation of oil fuel for delivery to an 
-oil- fired boiler, or equipment used for the preparation for delivery of heated oil to an internal 
-combustion engine, and includes any oil pressure pumps, filters and heaters dealing with oil 
-at a gauge pressure of more than 0.18 MPa. 
+The attained EEXI is:………………..grams-CO2/tonne-mile 
  
-1.2.35 Open deck is defined as an open or semi-enclosed space on cargo deck or inside of 
-the cargo rail. Semi-enclosed spaces are those spaces that either: 
+5.2 The attained EEXI is not calculated, as: 
  
-.1 are open at two ends; or 
+5.2.1 the type of propulsion system is exempt in accordance with regulation 19.3……. □ 
  
-.2 have an opening at one end and are provided with adequate natural 
-ventilation effective over their entire length through permanent openings 
-distributed in the side plating or deckhead or from above, the openings
+5.2.2 the type of ship is exempt in accordance with regulation 23.1…………………… □ 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 79 - 
+ 
+6 Required EEXI 
+ 
+6.1 The required EEXI is:………….grams-CO2/tonne-mile in accordance with regulation 25 
+ 
+6.2 The required EEXI is not applicable, as: 
+ 
+6.2.1 the type of propulsion system is exempt in accordance with regulation 19.3…….. □ 
+ 
+6.2.2 the type of ship is exempt in accordance with regulation 25.1…………………… □ 
+ 
+6.2.3 the ship 's capacity is below the minimum capacity threshold in table 3 of
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-ventilation effective over their entire length through permanent openings 
-distributed in the side plating or deckhead or from above, the openings 
-having a total area of at least 10% of the total area of the space sides. 
+SOURCE: MEPC.328%2876%29.pdf
+6.2.2 the type of ship is exempt in accordance with regulation 25.1…………………… □ 
  
-1.2.36 Organization is the International Maritime Organization (IMO).  
+6.2.3 the ship 's capacity is below the minimum capacity threshold in table 3 of 
+regulation 25.1…………………………………………………………………………. □ 
  
-1.2.37 Permeability of a space  means the ratio of the volume within that space which is 
-assumed to be occupied by water to the total volume of that space. 
+7 Ship Energy Efficiency Management Plan 
  
-1.2.38 Pollution hazard only substance  means a substance having an entry only of "P" in 
-column d in chapter 17 of the IBC Code. 
+7.1 The ship is provided with a Ship Energy Efficiency Management Plan (SEEMP) in 
+compliance with regulation 26………………………...…………..……………………. □ 
  
-1.2.39 Port Administration means the appropriate authority of the country for the port where 
-the vessel is loading or unloading.  
+8 EEDI technical file 
  
-1.2.40 Portable tank means a multimodal tank used for the transport of dangerous goods. 
+8.1 The IEE Certificate is accompanied by the EEDI technical file in compliance with 
+regulation 22.1………………..………………………………………………………….. □ 
  
-1.2.41 Propulsion shaft tunnel  is the tunnel or space in which the mechanical transfer of 
-power to a propulsion unit is run.
+8.1.1 The EEDI technical file identification/verification number…………..…………………… 
+ 
+8.1.2 The EEDI technical file verification date…………..…………………………………….... 
+ 
+9 EEXI technical file 
+ 
+9.1 The IEE Certificate is ac companied by the EEXI technical file in compliance with 
+regulation 23.1………………………………………………………………………… □ 
+ 
+9.1.1 The EEXI technical file identification/verification number..………………………………
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-1.2.41 Propulsion shaft tunnel  is the tunnel or space in which the mechanical transfer of 
-power to a propulsion unit is run. 
+SOURCE: MEPC.328%2876%29.pdf
+regulation 23.1………………………………………………………………………… □ 
  
-1.2.42 Public spaces are those portions of the accommodation spaces which are used for 
-halls, dining rooms, lounges and similar permanently enclosed spaces. 
+9.1.1 The EEXI technical file identification/verification number..……………………………… 
  
-1.2.43 Pump-room is a space, located in the cargo area, containing pumps and their 
-accessories for the handling of ballast and oil fuel. 
+9.1.2 The EEXI technical file verification date...…………………………………….................. 
  
-1.2.44 Recognized standards are applicable international or national standards acceptable 
-to the Administration or standards laid down and maintained by an organization which comply 
-with the standards adopted by IMO and which are recognized by the Administration. 
+9.2 The IEE Certificate is not accompanied by the EEXI technical file as the attained EEDI 
+is used as an alternative to the attained EEXI…………………………………..□ 
  
-1.2.45 Safety hazard substance  means a substance having an entry of "S" or "S/P" in 
-column d in chapter 17 of the IBC Code. 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS
+THIS IS TO CERTIFY that this Record is correct in all respects. 
+ 
+Issued at .................................................................................................................................... 
+(place of issue of the Record) 
+ 
+(dd/mm/yyyy): ......................................... ............................................................ 
+(date of issue) (signature of duly authorized official 
+issuing the Record) 
+ 
+(seal or stamp of the authority, as appropriate) 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 11 
+SOURCE: MEPC.328%2876%29.pdf
+issuing the Record) 
  
+(seal or stamp of the authority, as appropriate) 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 80 - 
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-1.2.46 Separate means that a cargo piping system or cargo vent system, for example, is not 
-connected to another cargo piping or cargo vent system. 
+Appendix IX 
  
-1.2.47 Service spaces  are those spaces used for galleys, pantries containing cooking 
-appliances, lockers, mail and specie rooms, storerooms, workshops other than those forming 
-part of the machinery spaces and similar spaces and trunks to such spaces. 
+Information to be submitted to the IMO Ship Fuel Oil Consumption Database 
+(regulation 27) 
  
-1.2.48 SOLAS means the International Convention for the Safety of Life at Sea, 1974, 
-as amended. 
+Identity of the ship 
  
-1.2.49 Underdeck access way is a passage passing through the underdeck cargo area 
-without being part of the cargo area providing access to essential areas for operation of the
+IMO Number . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+ 
+Period of calendar year for which the data is submitted 
+ 
+Start date (dd/mm/yyyy) …………………………………………………………………………… 
+. 
+End date (dd/mm/yyyy).……………………………………………………………………………. 
+ 
+Technical characteristics of the ship 
+ 
+Ship type, as defined in regulation 2 of this Annex or other (to be stated) …………………… 
+ 
+Gross tonnage (GT) ………………………………………………………………………………. 
+ 
+Net tonnage (NT) …………………………………………………………………………………..
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-as amended. 
+SOURCE: MEPC.328%2876%29.pdf
+Ship type, as defined in regulation 2 of this Annex or other (to be stated) …………………… 
  
-1.2.49 Underdeck access way is a passage passing through the underdeck cargo area 
-without being part of the cargo area providing access to essential areas for operation of the 
-vessel, such as thruster room, propulsion room or steering gear room. The access way may 
-be used to route non-cargo piping and cabling. 
+Gross tonnage (GT) ………………………………………………………………………………. 
  
-1.2.50 Vapour pressure is the equilibrium pressure of the saturated vapour above a liquid 
-expressed in pascals (Pa) at a specified temperature. 
+Net tonnage (NT) ………………………………………………………………………………….. 
  
-1.2.51 Void space is an enclosed space in the cargo area external to a cargo tank, other 
-than a hold space, ballast space, oil fuel tank, cargo pump-room, pump-room, or any space in 
-normal use by personnel. 
+Deadweight tonnage (DWT)  …………………………………………………………………… 
  
-1.2.52 Well-stimulation vessel  means an OSV with specialized equipment and industrial 
-personnel that delivers products and services directly into a well-head. 
+Power output (rated power)  of main and auxiliary reciprocating internal combustion engines 
+over 130 kW  (to be stated in kW) ………………………………………………………………… 
  
-1.3 Equivalents 
+EEDI (if applicable)………………..………………………………………………………………… 
  
-1.3.1 Where the present Code requires that a particular fitting, material, appliance,
+Ice class . …………………………………………………………………………………………… 
+ 
+Fuel oil consumption, by fuel oil type in metric tonnes and methods used for collecting fuel 
+oil consumption data ……………………………………………………………………………… 
+ 
+Distance travelled ………………………………………………………………………………….. 
+ 
+Hours under way…………………………………………………………………………………….. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 81 -
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-personnel that delivers products and services directly into a well-head. 
+SOURCE: MEPC.328%2876%29.pdf
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 81 - 
  
-1.3 Equivalents 
+Appendix X 
  
-1.3.1 Where the present Code requires that a particular fitting, material, appliance, 
-apparatus, item of equipment or type thereof should be fitted or carried on an OSV, or that any 
-particular provision should be made, or any procedure or arrangement should be complied 
-with, the Administration may allow any other fitting, material, appliance, apparatus, item of 
-equipment or type thereof to be fitted or carried, or any other provision, procedure or 
-arrangement to be made in that vessel, if it is satisfied by trial thereof or otherwise that such 
-fitting, material, appliance, apparatus, item of equipment or type thereof or that any particular 
-provision, procedure or arrangement is at least as effective as that required by the Code . 
-However, the Administration may not allow operational methods or procedures to be made an
+Form of Statement of Compliance – Fuel Oil Consumption Reporting and Operational 
+Carbon Intensity rating (regulation 8.3) 
+ 
+STATEMENT OF COMPLIANCE – FUEL OIL CONSUMPTION REPORTING AND 
+OPERATIONAL CARBON INTENSITY RATING 
+ 
+Issued under the provisions of the Protocol of 1997, as amended, to amend the International 
+Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 
+1978 relating thereto (hereinafter referred to as "the Convention") under the authority of the 
+Government of: 
+ 
+ 
+……………………………………………………………………………………………………… 
+(full designation of the country) 
+ 
+by.........................................................................................................................................
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-provision, procedure or arrangement is at least as effective as that required by the Code . 
-However, the Administration may not allow operational methods or procedures to be made an 
-alternative to a particular fitting, material, appliance, apparatus, item of equipment, or type 
-thereof, which are prescribed by the Code, unless such substitution is specifically allowed by 
-the Code.  
+SOURCE: MEPC.328%2876%29.pdf
+(full designation of the country) 
  
-1.3.2 Where the Administration allows any fitting, material, appliance, apparatus, item of 
-equipment, or type thereof, or provision, procedure, or arrangement, or novel design or 
-application to be substituted, it should communicate to the Organization the particulars thereof 
-together with a report on the evidence submitted so that the Organization may circulate the 
-same to other Parties to SOLAS or MARPOL, for the information of their officers.  
+by......................................................................................................................................... 
+(full designation of the competent person or organization authorized under the 
+ provisions of the Convention) 
  
-1.4 Surveys and certification 
+Particulars of ship 
  
-1.4.1 Following a satisfactory initial survey of an OSV, the Administration or its duly
+Name of ship……………………………………………………………………………………… 
+ 
+Distinctive number or letters……………………………………………………………..……… 
+ 
+IMO number………………………………………………………………………………………. 
+ 
+Port of registry…………………………………………………………………………….………. 
+ 
+Gross tonnage……………………………………………………………………………..……….  
+ 
+Deadweight………………………………………………………………………………….……… 
+ 
+Type of ship………………………………………………………………………………………… 
+ 
+ 
+THIS IS TO DECLARE THAT: 
+ 
+1 the ship has submitted to this Administration the data required by regulation 27 of 
+Annex VI to the Convention, covering ship operations from (dd/mm/yyyy) to 
+(dd/mm/yyyy); 
+ 
+2 the data was collected and reported in accordance with the methodology and
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-1.4 Surveys and certification 
+SOURCE: MEPC.328%2876%29.pdf
+Annex VI to the Convention, covering ship operations from (dd/mm/yyyy) to 
+(dd/mm/yyyy); 
  
-1.4.1 Following a satisfactory initial survey of an OSV, the Administration or its duly 
-authorized organization should issue a certificate, the model form of which is set out in 
-appendix 1, suitably endorsed to certify compliance with the provisions of the present Code. 
-If the language used is not English, French or Spanish, the text should include the translation 
-into one of those languages. The certificate should indicate the cargoes regulated by the 
-present Code that the vessel is permitted to carry with any relevant carriage conditions and 
-should have a period of validity not exceeding five years. 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 12 
+2 the data was collected and reported in accordance with the methodology and 
+processes set out in the ship 's SEEMP that was in effect over the period from 
+(dd/mm/yyyy) to (dd/mm/yyyy);  
  
+3 the attained annual operational CII of the ship from (dd/mm/yyyy) through 
+(dd/mm/yyyy) was: ……  pursuant to regulations 28.1 and 28.2 of Annex VI of the 
+Convention, for ships to which regulation 28 applies; 
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 82 - 
+ 
+4 the annual operational carbon intensity of the ship in this period is rated as 
+□A        □B         □C          □D         □E 
+ 
+in accordance with regulation 28 of Annex VI to the Convention, for a ship to which 
+regulation 28 applies; and
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 12 
+SOURCE: MEPC.328%2876%29.pdf
+□A        □B         □C          □D         □E 
+ 
+in accordance with regulation 28 of Annex VI to the Convention, for a ship to which 
+regulation 28 applies; and 
+ 
+5 a corrective action plan has been developed and included in the SEEMP (for a ship 
+to which regulation 28 applies, rated as D for three consecutive years or rated as E) 
  
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-1.4.2 The certificate issued under the present Code should have the same force and receive 
-the same recognition as the certificate issued under regulation 7 of MARPO L Annex II and 
-regulations VII/10 and VII/13 of SOLAS. 
+This Statement of Compliance is valid until (dd/mm/yyyy) ............................................... 
  
-1.4.3 The validity of the certificate referred to in 1.4.1 should be subject to the renewal, 
-intermediate, annual and additional surveys required by the IBC Code, the IGC Code and 
-MARPOL Annex II. 
+Issued at………………………………………………………………………………………... 
+(place of issue of the Statement) 
  
-CHAPTER 2 – VESSEL SURVIVAL CAPABILITY AND LOCATION OF CARGO TANKS 
+(dd/mm/yyyy): ......................................... ............................................................ 
+(date of issue) (signature of duly authorized official 
+issuing the Statement) 
  
-To ensure that the cargo tanks are located in protected location(s) for the event of minor hull 
-damage and that the vessel can survive the assumed flooding conditions. 
+(seal or stamp of the authority, as appropriate) 
  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 83 - 
+ 
+ 
+Appendix XI 
+ 
+Form of Exemption Certificate for UNSP Barges (regulation 8.4) 
+ 
+INTERNATIONAL AIR POLLUTION PREVENTION EXEMPTION CERTIFICATE FOR 
+UNMANNED NON-SELF-PROPELLED (UNSP) BARGES 
+ 
+ 
+Issued under the provisions of the Protocol of 1997, as amended, to amend the International 
+Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 
+1978 relating thereto (hereinafter referred to as "the Convention") under the authority of the 
+Government of: 
+……………………………………………………………………………………………………………  
+(full designation of the country) 
+  
+by ………………………………………………………………………………………………………  
+(full designation of the competent person or organization 
+authorized under the provisions of the Convention) 
+ 
+Particulars of ship
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+by ………………………………………………………………………………………………………  
+(full designation of the competent person or organization 
+authorized under the provisions of the Convention) 
+ 
+Particulars of ship  
+ 
+Name of ship…………………………………………………………………………………… 
+ 
+Distinctive number or letters……………………………………………………………..…… 
+ 
+IMO Number……………………………………………………………………………………. 
+ 
+Port of registry…………………………………………………………………………….……. 
+ 
+Gross tonnage……………………………………………………………………………..…..  
+ 
+THIS IS TO CERTIFY THAT:  
+ 
+1 the UNSP barge has been surveyed in accordance with regulation 3.4 of Annex VI to 
+the Convention; 
+ 
+2 the survey shows that the UNSP barge: 
+  
+.1  is not propelled by mechanical means;  
+  
+.2  has no system, equipment and/or machinery fitted that may generate 
+emissions controlled by Annex VI to the Convention; and 
+  
+.3  has neither persons nor living animals on board; and 
+  
+3 the UNSP barge is exempted, under regulation 3.4 of  Annex VI to the Convention
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.3  has neither persons nor living animals on board; and 
+  
+3 the UNSP barge is exempted, under regulation 3.4 of  Annex VI to the Convention  
+from the certification and related survey requirements of regulations 5.1 and 6.1 of 
+Annex VI to the Convention. 
+ 
+This Certificate is valid until (dd/mm/yyyy) ………………………………………….  
+ 
+subject to the exemption conditions being maintained.  
+ 
+Completion date of the survey on which this Certificate is based (dd/mm/yyyy) 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 84 - 
+ 
+Issued at …………………………………………………………… 
+(place of issue of certificate) 
+ 
+ 
+(dd/mm/yyyy): ......................................... ............................................................ 
+(date of issue) (signature of duly authorized official 
+issuing the certificate)
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+(date of issue) (signature of duly authorized official 
+issuing the certificate) 
+ 
+ 
+(seal or stamp of the authority, as appropriate) 
+ 
+ 
+___________ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETORESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO
+
+---CHUNK---
+
+SOURCE: MSC.35%2863%29.pdf
+RESOLUTION MSC.35(63) 
+(adopted on 20 May 1994) 
+ADOPTION OF GUIDELINES FOR EMERGENCY 
+TOWING ARRANGEMENTS ON TANKERS   ANNEX 7 
+RESOLUTION MSC.35(63) 
+(adopted on 20 May 1994) 
+ADOPTION OF GUIDELINES FOR EMERGENCY 
+TOWING ARRANGEMENTS ON TANKERS 
+THE MARITIME SAFETY COMMITTEE, 
+MSC 63/23/Add.1 
+RECALLING Article 28(b) of the Convention on the International Maritime 
+Organization concerning the functions of the Committee, 
+RECALLING ALSO that the Assembly, at its thirteenth session, when 
+adopting resolution A.535(13) concerning Recommendation on emergency towing 
+requirements for tankers, requested the Committee to keep the Recommendation 
+under review, in particular in respect to new towing concepts which may be 
+introduced and to report as necessary to the Assembly, 
+NOTING that tankers, including oil tankers, gas carriers and chemical 
+tankers, in emergencies such as complete mechanical breakdowns, may need to be
+
+---CHUNK---
+
+SOURCE: MSC.35%2863%29.pdf
+NOTING that tankers, including oil tankers, gas carriers and chemical 
+tankers, in emergencies such as complete mechanical breakdowns, may need to be 
+towed out of danger, and that technologically advanced towing arrangements 
+have been developed since the adoption of resolution A.535(13), whose 
+provisions need revision to incorporate new towing concepts, 
+NOTING ALSO that the new regulation V/15-1 of the International 
+Convention for the Safety of Life at Sea, 1974, as adopted by the Committee in 
+May 1994, requires that all tankers of not less than 20,000 tonnes deadweight 
+shall be fitted with an emergency towing arrangement, the design and 
+construction of which shall be approved by the Administration based on the 
+Guidelines developed by the Organization, 
+HAVING CONSIDERED the recommendation made by the Sub-Committee on Ship 
+Design and Equipment at its thirty-seventh session, 
+1. ADOPTS the Guidelines for Emergency Towing Arrangements on Tankers, the
+
+---CHUNK---
+
+SOURCE: MSC.35%2863%29.pdf
+Design and Equipment at its thirty-seventh session, 
+1. ADOPTS the Guidelines for Emergency Towing Arrangements on Tankers, the 
+text of which is set out in the Annex to the present resolution and which 
+supersedes resolution A.535(13); 
+2. RECOMMENDS that all Governments concerned take appropriate steps to 
+implement the Guidelines. 
+WIl648n/EWP 
+RESOLUTION MSC.35(63) 
+(adopted on 20 May 1994) 
+ADOPTION OF GUIDELINES FOR EMERGENCY 
+TOWING ARRANGEMENTS ON TANKERS   MSC 63/23/Add.l 
+ANNEX 7 
+Page 2 
+1 PURPOSE 
+ANNEX 
+GUIDELINES FOR EMERGENCY TOWING 
+ARRANGEMENTS ON TANKERS 
+1.1 Under regulation V/15-1 of the 1974 SOLAS Convention, as amended by 
+resolution MSC.31(63) in 1994, new and existing tankers of 20,000 tonnes 
+deadweight and above shall be fitted with an emergency towing arrangement, 
+the design and construction of which shall be approved by the Administration, 
+based on the Guidelines developed by the Organization.
+
+---CHUNK---
+
+SOURCE: MSC.35%2863%29.pdf
+the design and construction of which shall be approved by the Administration, 
+based on the Guidelines developed by the Organization. 
+1.2 The present Guidelines are intended to provide standards for the design 
+and construction of emergency towing arrangements which Administrations are 
+recommended to implement. 
+1.3 For existing tankers fitted with the emergency towing arrangements in 
+accordance with resolution A.535(13), the existing towing arrangements forward 
+of the ship may be retained, but the towing arrangements aft of the ship 
+should be upgraded to comply with the requirements of the present Guidelines. 
+2 REQUIREMENTS FOR THE ARRANGEMENTS AND COMPONENTS 
 2.1 General 
- 
-2.1.1 OSVs subject to the present Code should survive the normal effects of flooding
+The emergency towing arrangements should be so designed as to facilitate 
+salvage and emergency towing operations on tankers primarily to reduce the 
+risk of pollution. The arrangements should at all times be capable of rapid 
+deployment in the absence of main power on the ship to be towed and easy
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-damage and that the vessel can survive the assumed flooding conditions. 
- 
-2.1 General 
- 
-2.1.1 OSVs subject to the present Code should survive the normal effects of flooding 
-following assumed hull damage caused by some external force. In addition, to safeguard the 
-vessel and the environment, the cargo tanks should be protected from penetration in the case 
-of minor damage to the vessel resulting, for example, from contact with a jetty or an offshore 
-installation, and given a measure of protection from damage in the case of collision or 
-stranding, by locating them at specified minimum distances inboard from the vessel's shell 
-plating. Both the assumed damage and the proximity of the cargo tanks to the vessel's shell 
-should be dependent upon the degree of hazard presented by the products to be carried. 
- 
-2.1.2 The design standards of this chapter should be applied according to the ship type
+SOURCE: MSC.35%2863%29.pdf
+risk of pollution. The arrangements should at all times be capable of rapid 
+deployment in the absence of main power on the ship to be towed and easy 
+connection to the towing vessel. Figure 1 shows arrangements which may be 
+used as reference. 
+2.2 Towing components 
+The major components of the towing arrangements should consist of the 
+following: 
+Forward of ship'" Aft of ship 
+Pick-up gear 
+Towing pennant 
+Chafing gear 
+Fairlead 
+Strongpoint 
+Roller pedestal 
+optional 
+optional 
+Yes 
+Yes 
+Yes 
+Yes 
+See paragraph 3.1.4. 
+W/1648n/EWP 
+Yes 
+Yes 
+Depending on design 
+Yes 
+Yes 
+Depending on design 
+Strength requirements 
+Yes 
+Yes 
+Yes 
+Yes 
+RESOLUTION MSC.35(63) 
+(adopted on 20 May 1994) 
+ADOPTION OF GUIDELINES FOR EMERGENCY 
+TOWING ARRANGEMENTS ON TANKERS   M6C 63/23/Add.1 
+ANNEX 7 
+Page 3 
+2.3 Strenqth of the towinq components 
+2.3.1 Towing components as specified in 2.2 for strength should have a 
+working strength of at least 1,000 kN for tankers of 20,000 tonnes
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-should be dependent upon the degree of hazard presented by the products to be carried. 
- 
-2.1.2 The design standards of this chapter should be applied according to the ship type 
-required for cargoes containing mixtures and individual products indicated in chapter 17 of 
-the IBC Code and the latest edition of the MEPC.2 Circular. 
- 
-2.1.3 OSVs subject to the present Code may be designed without cargo tank capacity 
-limitation; however, the requirements of this chapter will be applied according to the ship type 
-classified in the IBC Code and quantity of products carried on any single voyage. 
- 
-2.1.4 If a vessel is intended to carry more than one product listed in chapter 17 of 
-the IBC Code and the latest edition of the MEPC.2 Circular, the standard of damage should 
-correspond to that product having the most stringent ship type provision. The provisions for 
-the location of individual cargo tanks, however, need only be applied based upon the vessel
+SOURCE: MSC.35%2863%29.pdf
+ANNEX 7 
+Page 3 
+2.3 Strenqth of the towinq components 
+2.3.1 Towing components as specified in 2.2 for strength should have a 
+working strength of at least 1,000 kN for tankers of 20,000 tonnes 
+deadweight and over but less than 50,000 tonnes deadweight, and at 
+least 2,000 kN for tankers of 50,000 tonnes deadweight "and over 
+(working strength is defined as one half ultimate strength). The 
+strength should be sufficient for all relevant angles of towline, 
+i.e. up to 90
+0 
+from the ship's centreline to port and starboard and 
+30 0 vertical downwards. 
+2.3.2 Other components should have a working strength sufficient to 
+withstand the load to which such components may be subjected during 
+the towing operation. 
+2.4 Lenqth of towinq pennant 
+The towing pennant should have a length of at least twice the lightest 
+seagoing ballast freeboard at the fairlead plus 50 m. 
+2.5 Location of stronqpoint and fairlead 
+The bow and stern strongpoint and fairleads should be located so as to
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-correspond to that product having the most stringent ship type provision. The provisions for 
-the location of individual cargo tanks, however, need only be applied based upon the vessel 
-types related to the respective products certified to be carried. 
- 
-2.1.5 The provisions for cargo ships in SOLAS chapter II-1, parts B, B-1, B-2 and B-4, 
-should apply to vessels covered by the present Code, except that SOLAS regulations II-1/6 to 
-II-1/7-3 need not apply, unless expressly provided otherwise. 
- 
-2.2 Freeboard and intact stability 
- 
-2.2.1 OSVs subject to the present Code may be assigned the minimum freeboard permitted 
-by the International Convention on Load Lines in force. 
- 
-2.2.2 The intact stability of the vessel in all seagoing conditions should comply with 
-the International Code on Intact Stability, 2008 (resolution MSC.267(85)), as amended. 
- 
-2.2.3 Solid ballast should not normally be used in double-bottom spaces in the cargo area.
+SOURCE: MSC.35%2863%29.pdf
+seagoing ballast freeboard at the fairlead plus 50 m. 
+2.5 Location of stronqpoint and fairlead 
+The bow and stern strongpoint and fairleads should be located so as to 
+facilitate towing from either side of the bow or stern and minimize the stress 
+on the towing system. 
+2.6 Stronqpoint 
+The inboard end fastening should be a stopper or bracket or other fitting 
+of equivalent strength. The strongpoint can be designed integral with the 
+fairlead. 
+2.7 Fairleads 
+2.7.1 ~ 
+2.7.2 
+2.7.3 
+Fairleads should have an opening large enough to pass the larqest 
+portion of the chafing gear, towing pennant or towing line. 
+Geometry 
+The fairlead should give adequate support for the towing pennant 
+during towing operation which means bending 90
+0 
+to port and to 
+starboard side and 30
+0 
+vertical downwards. The bending ratio 
+(towing pennant bearing surface diameter to towing pennant diameter) 
+should be not less than 7 to 1. 
+Vertical location
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-the International Code on Intact Stability, 2008 (resolution MSC.267(85)), as amended. 
- 
-2.2.3 Solid ballast should not normally be used in double-bottom spaces in the cargo area. 
-Where, however, because of stability considerations, the fitting of solid ballast in such spaces 
-becomes unavoidable, then its disposition should be governed by the need to ensure that the 
-impact loads resulting from bottom damage are not directly transmitted to the cargo tank structure. 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 13 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-2.2.4 The master of the vessel should be supplied with a loading and stability information 
-booklet. This booklet should contain details of typical service and ballast conditions, provisions
+SOURCE: MSC.35%2863%29.pdf
+starboard side and 30
+0 
+vertical downwards. The bending ratio 
+(towing pennant bearing surface diameter to towing pennant diameter) 
+should be not less than 7 to 1. 
+Vertical location 
+The fairlead should be located as close as possible to the deck 
+and, in any case, in such a position that the chafing chain is 
+approximately parallel to the deck when it is under strain between 
+the strongpoint and the fairlead. 
+W/1648n/EWP 
+RESOLUTION MSC.35(63) 
+(adopted on 20 May 1994) 
+ADOPTION OF GUIDELINES FOR EMERGENCY 
+TOWING ARRANGEMENTS ON TANKERS   MSC 63/23/Add.1 
+ANNEX 7 
+Page 4 
+2.8 Chafing chain 
+Different solutions on design of chafing gear can be used. If a chafing 
+chain is to be used, it should have the following characteristics: 
+2.8.1 
+The chafing chain should be stud link chain. 
+2.8.2 Length 
+2.8.3 
+2.8.4 
+The chafing chain should be long enough to ensure that the towing 
+pennant remains outside the fairlead during the towing operation.
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-2.2.4 The master of the vessel should be supplied with a loading and stability information 
-booklet. This booklet should contain details of typical service and ballast conditions, provisions 
-for evaluating other conditions of loading and a summary of the vessel's survival capabilities. 
-In addition, the booklet should contain sufficient information to enable the master to load and 
-operate the vessel in a safe and seaworthy manner. All OSVs of 500 gross tonnage and above 
-should comply with SOLAS regulation II-1/5-1. 
- 
-2.2.5 OSVs subject to 2.6.1 and those vessels with a length of 80 m or more subject to 2.6.2 
-should be fitted with a stability instrument 1 capable of verifying compliance with intact and 
-damage stability provisions, approved by the Administration, having regard to the performance 
-standards recommended by the Organization.2  
- 
-2.3 Non-cargo discharges below the freeboard deck
+SOURCE: MSC.35%2863%29.pdf
+2.8.2 Length 
+2.8.3 
+2.8.4 
+The chafing chain should be long enough to ensure that the towing 
+pennant remains outside the fairlead during the towing operation. 
+A chain extending from the strongpoint to a point at least 3 m 
+beyond the fairlead should meet this criterion. 
+Connecting limits 
+One end of the chafing chain should be suitable for connection to 
+the strongpoint. The other end should be fitted with a standard 
+pear-shaped open link allowing connection to a standard bow shackle. 
+Stowage 
+The chafing chain should be stowed in such a way that it can be 
+rapidly connected to the strongpoint. 
+2.9 Towing connection 
+The towing pennant should have a hard eye-formed termination allowing 
+connection to a standard bow shackle. 
+2.10 Prototype test 
+Designs of emergency towing arrangements in accordance with these 
+Guidelines should be prototype tested to the satisfaction of the 
+Administration. 
+3 READY AVAILABILITY OF TOWING ARRANGEMENTS
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-damage stability provisions, approved by the Administration, having regard to the performance 
-standards recommended by the Organization.2  
- 
-2.3 Non-cargo discharges below the freeboard deck 
- 
-2.3.1 The provision and control of valves fitted to non-cargo discharges led through the 
-shell from spaces below the freeboard deck or from within superstructures and deckhouses on 
-the freeboard deck fitted with weathertight doors  should comply with the requirements of 
-the relevant regulation of the International Convention on Load Lines in force, except that 
-the choice of valves should be limited to: 
- 
-.1 one automatic non-return valve with a positive means of closing from above 
-the freeboard deck; or 
- 
-.2 where the vertical distance from the summer load waterline to the inboard 
-end of the discharge pipe exceeds 0.01 L, two automatic non-return valves 
-without positive means of closing, provided that the inboard valve is always 
-accessible for examination under service conditions.
+SOURCE: MSC.35%2863%29.pdf
+Designs of emergency towing arrangements in accordance with these 
+Guidelines should be prototype tested to the satisfaction of the 
+Administration. 
+3 READY AVAILABILITY OF TOWING ARRANGEMENTS 
+3.1 To facilitate approval of such equipment and to ensure rapid deployment, 
+emergency towing arrangements should comply with the following criteria: 
+.1 The aft emergency towing arrangement should be pre-rigged and be 
+capable of being deployed in a controlled manner in harbour 
+conditions in not more than 15 min . 
+. 2 The pick-up gear for the aft towing pennant should be designed at 
+least for manual operation by one person taking into account the 
+absence of power and the potential for adverse environmental 
+conditions that may prevail during such emergency towing 
+operations. The pick-up gear should be protected against the 
+weather and other adverse conditions that may prevail . 
+. 3 The forward emergency towing arrangement should be capable of
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-without positive means of closing, provided that the inboard valve is always 
-accessible for examination under service conditions. 
- 
-2.3.2 For the purpose of this chapter, "summer load line" and "freeboard deck" have 
-the meanings as defined in the International Convention on Load Lines in force. 
- 
-2.3.3 The automatic non-return valves referred to in 2.3.1.1 and 2.3.1.2 should be fully 
-effective in preventing admission of water into the vessel, taking into account the sinkage, trim 
-and heel in survival provisions in 2.8, and should comply with recognized standards. 
- 
-2.4 Conditions of loading 
- 
-Damage survival capability should be investigated on the basis of loading information 
-submitted to the Administration for all anticipated conditions of loading and variations in 
-draught and trim for the conditions for cargoes which the vessels is certified to carry. Conditions 
-where the OSV is not carrying products covered by the present Code, or is carrying only
+SOURCE: MSC.35%2863%29.pdf
+operations. The pick-up gear should be protected against the 
+weather and other adverse conditions that may prevail . 
+. 3 The forward emergency towing arrangement should be capable of 
+being deployed in harbour conditions in not more than 1 h. 
+W/1648n/EWP 
+RESOLUTION MSC.35(63) 
+(adopted on 20 May 1994) 
+ADOPTION OF GUIDELINES FOR EMERGENCY 
+TOWING ARRANGEMENTS ON TANKERS   ; 
+{ 
+MSC 63/23/Add.1 
+ANNEX 7 
+Page 5 
+.4 The forward emergency towing arrangement should be designed at least 
+with a means of securing a towline to the chafing gear using a 
+suitably positioned pedestal roller to facilitate connection of the 
+towing pennant . 
+• 5 Forward emergency towing arrangements which comply with the 
+re'quirements for aft emergency towing arrangements may be accepted . 
+. 6 All emergency towing arrangements should be clearly marked to 
+facilitate safe and effective use even in darkness and poor 
+visibility. 
+3.2 All emergency towing components should be inspected by ship personnel at
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-draught and trim for the conditions for cargoes which the vessels is certified to carry. Conditions 
-where the OSV is not carrying products covered by the present Code, or is carrying only 
-residues of such products, need not be considered for the purpose of the present Code. 
- 
-                                                 
-1 Refer to the IBC Code, paragraphs 2.2.6 and 2.2.7. 
-2 Refer to part B  of chapter 4 of the International Code on Intact Stability, 2008 ( resolution MSC.267(85)), 
-as amended; section 4 of the Guidelines for the approval of stability instruments (MSC.1/Circ.1229)), 
-as amended; and the technical standards defined in part 1 of the Guidelines for verification of damage 
-stability requirements for tankers (MSC.1/Circ.1461). 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 14
+SOURCE: MSC.35%2863%29.pdf
+facilitate safe and effective use even in darkness and poor 
+visibility. 
+3.2 All emergency towing components should be inspected by ship personnel at 
+regular intervals and "maintained in good working order. 
+W/1648n/EWP 
+RESOLUTION MSC.35(63) 
+(adopted on 20 May 1994) 
+ADOPTION OF GUIDELINES FOR EMERGENCY 
+TOWING ARRANGEMENTS ON TANKERS   CHAFING GEAR 
+\ 
+TOWED lJESSEL 
+TOWING PENNANT 
+FAIRLEAO TOWING CONNECT tON PICK UP GEAR 
+BUOY 
+6 
+FIGURE I TYPICAL EMERGENCY TOWING ARRANGEMENTS 
+RESOLUTION MSC.35(63) 
+(adopted on 20 May 1994) 
+ADOPTION OF GUIDELINES FOR EMERGENCY 
+TOWING ARRANGEMENTS ON TANKERS   RESOLUTION MSC.35(63) 
+(adopted on 20 May 1994) 
+ADOPTION OF GUIDELINES FOR EMERGENCY 
+TOWING ARRANGEMENTS ON TANKERS
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 14 
+SOURCE: MEPC.285%2870%29.pdf
+RESOLUTION MEPC.285(70) 
+(Adopted on 28 October 2016) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))MEPC 70/18/Add.1 
+Annex 21, page 1 
  
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-2.5 Flooding assumptions 
+https://edocs.imo.org/Final Documents/English/MEPC 70-18-ADD.1 (E).docx 
+ANNEX 21 
  
-2.5.1 The provisions of 2.8 should be confirmed by calculations which take into 
-consideration the design characteristics of the vessel; the arrangements, configuration and 
-contents of the damaged compartments; the distribution, relative densities and the free surface 
-effects of liquids; and the draught and trim for all conditions of loading. 
+RESOLUTION MEPC .285(70) 
+ (Adopted on 28 October 2016) 
  
-2.5.2 The permeability of spaces assumed to be damaged should be as follows: 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49)) 
  
-Spaces Permeability 
-Appropriated to stores 0.60 
-Occupied by accommodation 0.95 
-Occupied by machinery 0.85 
-Voids 0.95 
-Intended for consumable liquids 0 to 0.95* 
-Intended for other liquids 0 to 0.95* 
-Intended for dry cargo 0.95 
  
-* The permeability of partially filled tanks should be consistent with the amount of
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by the international conventions for the prevention and control of marine 
+pollution from ships, 
+ 
+NOTING resolution MEPC.107(49) by which it adopted, at its forty-ninth session, the Revised
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-Intended for consumable liquids 0 to 0.95* 
-Intended for other liquids 0 to 0.95* 
-Intended for dry cargo 0.95 
+SOURCE: MEPC.285%2870%29.pdf
+pollution from ships, 
  
-* The permeability of partially filled tanks should be consistent with the amount of 
-liquid carried in the tank. 
+NOTING resolution MEPC.107(49) by which it adopted, at its forty-ninth session, the Revised 
+Guidelines and Specifications for pollution prevention equipment for machinery space bilges 
+of ships, 
  
-2.5.3 Wherever damage penetrates a tank containing liquids it should be assumed that 
-the contents are completely lost from that compartment and replaced by salt water up to 
-the level of the final plane of equilibrium. 
+HAVING CONSIDERED, at its seventieth session, proposed amendments to the 
+above-mentioned Revised Guidelines and Specifications, concerning specifications related to 
+15 ppm bilge alarms, 
  
-2.5.4 Every watertight division within the maximum extent of damage defined in 2.6.1 
-and 2.6.2 and considered to have sustained damage in positions given in 2.7 should be 
-assumed to be penetrated. Where damage less than the maximum is being considered in 
-accordance with 2.6.3, only watertight divisions or combinations of watertight divisions within 
-the envelope of such lesser damage should be assumed to be penetrated: 
+1 ADOPTS amendments to the Revised Guidelines and specifications for pollution 
+prevention equipment for machinery space bilges of ships , the text of which is set out in the 
+annex to this resolution; 
  
-.1 where a transverse watertight bulkhead is located within the transverse
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-the envelope of such lesser damage should be assumed to be penetrated: 
- 
-.1 where a transverse watertight bulkhead is located within the transverse 
-extent of assumed damage and is stepped in way of a double bottom or side 
-tank by more than 3.05 m, the double bottom or side tanks adjacent to 
-the stepped portion of the transverse watertight bulkhead should be 
-considered as flooded simultaneously; and 
- 
-.2 if the distance between the transverse planes passing through the nearest 
-stepped portions of the bulkheads is less than the longitudinal extent of 
-damage given in 2.6.1 and 2.6.2, only one of these bulkheads should be 
-regarded as effective. 
- 
-2.5.5 The vessel should be so designed as to keep unsymmetrical flooding to the minimum 
-consistent with efficient arrangements. 
- 
-2.5.6 Equalization arrangements requiring mechanical aids such as valves or 
-cross-levelling pipes, if fitted, should not be considered for the purpose of reducing an angle
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-2.5.6 Equalization arrangements requiring mechanical aids such as valves or 
-cross-levelling pipes, if fitted, should not be considered for the purpose of reducing an angle 
-of heel or attaining the minimum range of residual stability to meet the provisions of 2.8 and 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 15 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-sufficient residual stability should be maintained during all stages where equalization is used. 
-Spaces which are linked by ducts of large cross-sectional area may be considered 
-to be common. 
- 
-2.5.7 If pipes, ducts, trunks or tunnels are situated within the assumed extent of damage 
-penetration, as defined in 2.6, arrangements should be such that progressive flooding cannot 
-thereby extend to compartments other than those assumed to be flooded for each case
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-penetration, as defined in 2.6, arrangements should be such that progressive flooding cannot 
-thereby extend to compartments other than those assumed to be flooded for each case 
-of damage. 
- 
-2.5.8 For vessels subject to 2.6.1 the buoyancy of any superstructure directly above 
-the side damage should be disregarded. The unflooded parts of superstructures beyond the 
-extent of damage, however, may be taken into consideration provided that: 
- 
-.1 they are separated from the damaged space by watertight divisions and 
-the provisions of 2.8.2.2 in respect of these intact spaces are complied with; 
-and 
- 
-.2 openings in such divisions are capable of being closed by remotely operated 
-sliding watertight doors and unprotected openings are not immersed within 
-the minimum range of residual stability required in 2.8; however, 
-the immersion of any other openings capable of being closed weathertight 
-may be permitted. 
- 
-2.6 Damage assumptions
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-the minimum range of residual stability required in 2.8; however, 
-the immersion of any other openings capable of being closed weathertight 
-may be permitted. 
- 
-2.6 Damage assumptions 
- 
-2.6.1 For vessels carrying more than 1200 m 3 of products classified in the IBC Code as 
-requiring type 3 ship or type 2 ship, or more than 150 m3 of products classified in the IBC Code 
-as requiring type 1 ship, the assumed maximum extent of damage should be: 
- 
-.1 Side damage 
- 
- Longitudinal extent Transverse extent Vertical extent 
- 1/3L2/3 
-B/5 (measured inboard from 
-the vessel's side at right angles to 
-the centreline at the level of the 
-summer load line) 
-Upwards without limit 
-(measured from the moulded 
-line of the bottom shell plating 
-at centreline) 
+2 RECOMMENDS Governments to apply the annexed amendments when checking the 
+accuracy of 15 ppm bilge alarms. 
  
   
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 16
+RESOLUTION MEPC.285(70) 
+(Adopted on 28 October 2016) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))MEPC 70/18/Add.1 
+Annex 21, page 2
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 16 
+SOURCE: MEPC.285%2870%29.pdf
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))MEPC 70/18/Add.1 
+Annex 21, page 2 
  
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-.2 Bottom damage 
+https://edocs.imo.org/Final Documents/English/MEPC 70-18-ADD.1 (E).docx 
+ANNEX 
  
- Location of damage Longitudinal extent Transverse extent Vertical extent 
-.1 
-Within 0.3L 
-(measured from 
-the forward 
-perpendicular) 
-1/3L2/3 B/6 
-B/15 or 6 m, whichever is 
-less (measured from 
-the moulded line of the 
-bottom shell plating at 
-centreline (see 2.9.2)) 
-.2 Any other part of the vessel 1/3L2/3 or 5 m, whichever is less B/6 or 5 m, whichever is less 
-B/15 or 6 m, whichever 
-is less (measured from 
-the moulded line of the 
-bottom shell plating at 
-centreline (see 2.9.2) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS  
+FOR POLLUTION PREVENTION EQUIPMENT FOR MACHINERY  
+SPACE BILGES OF SHIPS 
  
-2.6.2 For vessels carrying not more than 1200 m 3 of products classified in the IBC Code as 
-requiring type 3 ship or type 2 ship, and not more than 150 m 3 of products classified in 
-the IBC Code as requiring type 1 ship the assumed maximum extent of damage should be:
+1 In paragraphs 1.2.1, 1.2.2.1, 2.1 and 3.1, the references to "regulation 16" are 
+replaced with "regulation 14". 
+ 
+2 In paragraphs 2.2 and 3.3 and appendix 2, the references to "regulation 16(5)" are 
+replaced with "regulation 14.7". 
+ 
+3 Section 4.2.11 is replaced by the following: 
+ 
+"4.2.11 The validity of calibration certificates should be checked at IOPP 
+annual/intermediate/renewal surveys. The accuracy of 15 ppm bilge alarms is to be 
+checked by calibration and testing of the equipment conducted by a manufacturer or
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-requiring type 3 ship or type 2 ship, and not more than 150 m 3 of products classified in 
-the IBC Code as requiring type 1 ship the assumed maximum extent of damage should be: 
+SOURCE: MEPC.285%2870%29.pdf
+annual/intermediate/renewal surveys. The accuracy of 15 ppm bilge alarms is to be 
+checked by calibration and testing of the equipment conducted by a manufacturer or 
+persons authorized by the manufacturer and should be done at intervals not 
+exceeding five years after its commissioning, or within the term specified in the 
+manufacturer's instructions, whichever is shorter. Alternatively the unit may be 
+replaced by a calibrated 15 ppm bilge alarm. The calibration certificate for the 15 ppm 
+bilge alarm, certifying the date of the last calibration check, should be retained on 
+board for inspection purposes.  
  
-Side damage 
  
- Vessel length Longitudinal extent Transverse extent Vertical extent 
-.1 24≤L≤43 m 0.1L 
-760 mm (measured 
-inboard from 
-the vessel's side at right 
-angles to the centreline 
-at the level of the 
-summer load line) 
-From the underside of 
-the cargo deck, or 
-continuation thereof, 
-downward for the full 
-depth of the vessel 
-.2 43<L<80 m 3 m + 0.03L 
-760 mm (measured 
-inboard from 
-the vessel's side at right 
-angles to the centreline 
-at the level of the 
-summer load line) 
-From the underside of 
-the cargo deck, or 
-continuation thereof, 
-downward for the full 
-depth of the vessel 
-.3 80≤L≤100 m 1/3L2/3 
-B/20, but not less than 
-760 mm (measured 
-inboard from the 
-vessel's side at right 
-angles to the centreline 
-at the level of the 
-summer load line) 
-From the underside of 
-the cargo deck, or
+*** 
+ 
+RESOLUTION MEPC.285(70) 
+(Adopted on 28 October 2016) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))RESOLUTION MEPC.285(70) 
+(Adopted on 28 October 2016) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-B/20, but not less than 
-760 mm (measured 
-inboard from the 
-vessel's side at right 
-angles to the centreline 
-at the level of the 
-summer load line) 
-From the underside of 
-the cargo deck, or 
-continuation thereof, 
-downward for the full 
-depth of the vessel 
-.4 L>100 m 1/3L2/3 
-B/15, but not less than 
-760 mm (measured 
-inboard from the 
-vessel's side at right 
-angles to the centreline 
-at the level of the 
-summer load line) 
-From the underside of 
-the cargo deck, or 
-continuation thereof, 
-downward for the full 
-depth of the vessel 
- 
-2.6.3 If any damage of a lesser extent than the maximum damage specified in 2.6.1 or 2.6.2 
-would result in a more severe condition, such damage should be considered. 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 17 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx
+SOURCE: MEPC.285%2870%29.pdf
+OF SHIPS (RESOLUTION MEPC.107(49))RESOLUTION MEPC.285(70) 
+(Adopted on 28 October 2016) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 17 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-2.6.4 A transverse watertight bulkhead extending from the vessel's side to a distance 
-inboard not less than the transverse extent of damage indicated in 2.6.2 measured at the level 
-of the summer load line joining longitudinal watertight bulkheads may be considered as 
-a transverse watertight bulkhead for the purpose of the damage calculations in 2.6.2. 
- 
-2.7 Standard of damage 
- 
-Vessels should be capable of surviving damage with the assumptions in 2.5 and 2.6 
-determined by the following standards: 
- 
-.1 a vessel that carries more than 150 m 3 of ship type 1 products should be 
-assumed to sustain damage described in 2.6.1 anywhere along the length; 
- 
-.2 a vessel with a length ( L) greater than 150 m that carries more than 1200 m3 
-of ship types 2 and 3 products should be assumed to sustain damage
+SOURCE: MEPC.378%2880%29.pdf
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)  
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 1 
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
+ANNEX 17 
+RESOLUTION MEPC.378(80) 
+(adopted on 7 July 2023) 
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING 
+TO MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIES 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+RECALLING Article 38 of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee relating to any 
+matter within the scope of the Organization concerned with the prevention and control of 
+marine pollution from ships, 
+RECALLING ALSO that Member States of the International Maritime Organization made a 
+clear commitment to minimizing the transfer of invasive aquatic species by shipping in adopting
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-.2 a vessel with a length ( L) greater than 150 m that carries more than 1200 m3 
-of ship types 2 and 3 products should be assumed to sustain damage 
-described in 2.6.1 anywhere along the length; 
- 
-.3 a vessel with a length ( L) of 150 m or less that carries more than 1200 m3 of ship 
-types 2 and 3 products and not more than 150 m3 of ship type 1 products should 
-be assumed to sustain damage described in 2.6.1 anywhere along the length 
-except involving bulkheads bounding a machinery space of category A; 
- 
-.4 a vessel with a length ( L) greater than 100 m that carries 800 m3 or more but 
-not more than 1200 m 3 of ship types 2 and 3 products and not more 
-than 150 m3 of ship type 1 products should be assumed to sustain damage 
-described in 2.6.2 anywhere along the length and should also comply with 
-SOLAS regulations II-1/6 to II-1/7-3 (probabilistic damage stability standard 
-for a cargo ship); 
- 
-.5 a vessel with a length ( L) of 100 m or less that carries 800 m 3 or more but
+SOURCE: MEPC.378%2880%29.pdf
+RECALLING ALSO that Member States of the International Maritime Organization made a 
+clear commitment to minimizing the transfer of invasive aquatic species by shipping in adopting 
+the International Convention for the Control and Management of Ships' Ballas t Water and 
+Sediments, 2004, 
+RECALLING FURTHER that studies have shown biofouling on ships to be an important means 
+of transferring invasive aquatic species which, if established in new ecosystems, may pose 
+threats to the environment, human health, property and resources, 
+NOTING the objectives of the Convention on Biological Diversity, 1992, and that the 
+Kunming-Montreal Global Biodiversity Framework includes a target to eliminate, minimize, 
+reduce and/or mitigate the impacts of invasive alien species on biodiversity and ec osystem 
+services by identifying and managing pathways of the introduction of alien species, 
+NOTING ALSO that the transfer and introduction of invasive aquatic species through ships'
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-SOLAS regulations II-1/6 to II-1/7-3 (probabilistic damage stability standard 
-for a cargo ship); 
- 
-.5 a vessel with a length ( L) of 100 m or less that carries 800 m 3 or more but 
-not more than 1200 m 3 of ship types 2 and 3 products and not more 
-than 150 m3 of ship type 1 products should be assumed to sustain damage 
-described in 2.6.2 anywhere along the length; 
- 
-.6 a vessel with a length ( L) greater than 100 m that carries less than 800 m3 of 
-ship types 2 and 3 products and not more than 150 m3 of ship type 1 products 
-should be assumed to sustain damage described in 2.6.2 anywhere along 
-the length between transverse watertight bulkheads and should also comply 
-with SOLAS regulations II-1/6 to II-1/7-3 (probabilistic damage stability 
-standard for a cargo ship); and 
- 
-.7 a vessel with a length ( L) of 100 m or less that carries less than 800 m 3 of 
-ship types 2 and 3 products and not more than 150 m3 of ship type 1 products
+SOURCE: MEPC.378%2880%29.pdf
+services by identifying and managing pathways of the introduction of alien species, 
+NOTING ALSO that the transfer and introduction of invasive aquatic species through ships' 
+biofouling threatens the conservation and sustainable use of biological diversity, and 
+implementing practices to control and manage ships' biofouling can greatly assist in reducing 
+the risk of the transfer of invasive aquatic species, 
+NOTING FURTHER that this issue, being of worldwide concern, demands a globally consistent 
+approach to the management of biofouling, 
+RECALLING that, at its sixty -second session, it had adopted, by resolution MEPC.207(62), 
+the 2011 Guidelines for the control and management of ships' biofouling to minimize the 
+transfer of invasive aquatic species (Biofouling Guidelines), developed by the Sub-Committee 
+on Bulk Liquids and Gases, 
+RECALLING ALSO that, at its seventy-second session, it had agreed to review the Biofouling
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-standard for a cargo ship); and 
- 
-.7 a vessel with a length ( L) of 100 m or less that carries less than 800 m 3 of 
-ship types 2 and 3 products and not more than 150 m3 of ship type 1 products 
-should be assumed to sustain damage described in 2.6.2 anywhere along 
-the length between transverse watertight bulkheads. 
- 
-2.8 Survival requirements 
- 
-2.8.1 Vessels subject to the present Code should be capable of surviving the assumed 
-damage specified in 2.6 to the standard provided in 2.7 in a condition of stable equilibrium and 
-should satisfy the following criteria. 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 18 
+SOURCE: MEPC.378%2880%29.pdf
+on Bulk Liquids and Gases, 
+RECALLING ALSO that, at its seventy-second session, it had agreed to review the Biofouling 
+Guidelines, with a view to amending the Guidelines, if required, 
+HAVING CONSIDERED, at its eightieth session, the draft revised Guidelines for the control 
+and management of ships' biofouling to minimize the transfer of invasive aquatic species , 
+developed by the Sub-Committee on Pollution Prevention and Response, 
+1 ADOPTS the 2023 Guidelines for the control and management of ships' 
+biofouling to minimize the transfer of invasive aquatic species, as set out in the annex 
+to the present resolution; 
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)  
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 2 
  
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-2.8.2 For vessels subject to 2.6.1: 
- 
-.1 in any stage of flooding: 
- 
-.1 the waterline, taking into account sinkage, heel and trim, should be
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
+2 REQUESTS Member States to take urgent action in applying these Guidelines,
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-2.8.2 For vessels subject to 2.6.1: 
+SOURCE: MEPC.378%2880%29.pdf
+Annex 17, page 2 
  
-.1 in any stage of flooding: 
  
-.1 the waterline, taking into account sinkage, heel and trim, should be 
-below the lower edge of any opening through which progressive 
-flooding or downflooding may take place; such openings should 
-include air pipes and openings which are closed by means of 
-weathertight doors or hatch covers and may exclude those openings 
-closed by means of watertight manhole covers and watertight flush 
-scuttles, small watertight cargo tank hatch covers which maintain 
-the high integrity of the deck, remotely operated watertight sliding 
-doors, and sidescuttles of the non-opening type; 
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
+2 REQUESTS Member States to take urgent action in applying these Guidelines, 
+including the dissemination thereof to the shipping industry and other interested parties, taking 
+these Guidelines into account when adopting measures to minimize the risk of intr oducing 
+invasive aquatic species via biofouling, and reporting to MEPC on any experience gained in 
+their implementation;  
  
-.2 the maximum angle of heel due to unsymmetrical flooding should 
-not exceed 25°, except that this angle may be increased to 30° if no 
-deck immersion occurs; and 
+3 AGREES to keep these Guidelines under review in light of the experience gained; 
  
-.3 the residual stability during intermediate stages of flooding should 
-never be significantly less than that required by 2.8.2.2;
+4 REVOKES resolution MEPC.207(62). 
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)  
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 3 
+ 
+ 
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING 
+TO MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIES 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+1  INTRODUCTION 
+ 
+2  DEFINITIONS
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-deck immersion occurs; and 
+SOURCE: MEPC.378%2880%29.pdf
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING 
+TO MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIES 
  
-.3 the residual stability during intermediate stages of flooding should 
-never be significantly less than that required by 2.8.2.2; 
  
-.2 at final equilibrium after flooding: 
+TABLE OF CONTENTS 
  
-.1 the righting-lever curve should have a minimum range of 20° beyond 
-the position of equilibrium in association with a maximum residual 
-righting lever of at least 0.1 m within the 20° range; the area under 
-the curve within this range should not be less than 0.0175 m 
-radians. Unprotected openings should not be immersed within this 
-range unless the space concerned is assumed to be flooded. Within 
-this range, the immersion of any of the openings listed in 2.8.2.1 and 
-other openings capable of being closed weathertight may be 
-permitted; and 
+1  INTRODUCTION 
  
-.2 the emergency source of power should be capable of operating. 
+2  DEFINITIONS 
  
-2.8.3 For vessels subject to 2.6.2: 
+3 APPLICATION 
  
-.1 the final waterline, taking into account sinkage, heel and trim, should be
+4  OBJECTIVES 
+ 
+5  DESIGN AND CONSTRUCTION 
+ 
+6  ANTI-FOULING SYSTEM INSTALLATION AND MAINTENANCE 
+  Choosing an AFS 
+  Installing the AFS 
+ Reinstalling, reapplying or repairing the AFS 
+ 
+7 CONTINGENCY ACTION PLANS 
+ 
+8  INSPECTION 
+  Extent of biofouling and recommended actions 
+  Condition of the AFS 
+ Inspection report 
+ 
+9 CLEANING AND MAINTENANCE 
+  Procedures for proactive cleaning 
+  Procedures for reactive cleaning 
+ Procedures for recycling facilities 
+ 
+10 BIOFOULING MANAGEMENT PLAN 
+  Continuous improvements 
+ 
+11  BIOFOULING RECORD BOOK 
+ 
+12  DOCUMENTATION AND DISSEMINATION OF INFORMATION 
+ 
+13  TRAINING AND EDUCATION 
+ 
+14  OTHER MEASURES 
+ 
+ABBREVIATIONS 
+ 
+APPENDIX 1  ASSESSMENT OF BIOFOULING RISK 
+ 
+APPENDIX 2  INSPECTION AND CLEANING REPORTS
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-.2 the emergency source of power should be capable of operating. 
+SOURCE: MEPC.378%2880%29.pdf
+13  TRAINING AND EDUCATION 
  
-2.8.3 For vessels subject to 2.6.2: 
+14  OTHER MEASURES 
  
-.1 the final waterline, taking into account sinkage, heel and trim, should be 
-below the lower edge of any opening through which progressive flooding may 
-take place. Such openings should include air pipes and those which are 
-capable of being closed by means of weathertight doors or hatch covers and 
-may exclude those openings closed by means of watertight manhole covers 
-and flush scuttles, small watertight cargo tank hatch covers which maintain 
-the high integrity of the deck, remotely operated watertight sliding doors and 
-sidescuttles of the non-opening type; 
+ABBREVIATIONS 
  
-.2 in the final stage of flooding, the angle of heel due to unsymmetrical flooding 
-should not exceed 15°. This angle may be increased up to 17° if no deck 
-immersion occurs; and 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS
+APPENDIX 1  ASSESSMENT OF BIOFOULING RISK 
+ 
+APPENDIX 2  INSPECTION AND CLEANING REPORTS 
+ 
+APPENDIX 3  EXAMPLE FORM OF BIOFOULING MANAGEMENT PLAN 
+ 
+APPENDIX 4  EXAMPLE FORM OF BIOFOULING RECORD BOOK 
+ 
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)  
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 4 
+ 
+ 
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
+1 INTRODUCTION 
+ 
+1.1 MEPC 62 adopted the 2011 Guidelines for the control and management of ships' 
+biofouling to minimize the transfer of invasive aquatic species  (the Guidelines) through 
+resolution MEPC.207(62). The aim of the Guidelines was to provide a globally consistent 
+approach to managing biofouling by providing useful recommendations of general measures 
+to reduce the risk associated with biofouling for all types of ships.
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-immersion occurs; and 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 19 
+SOURCE: MEPC.378%2880%29.pdf
+approach to managing biofouling by providing useful recommendations of general measures 
+to reduce the risk associated with biofouling for all types of ships.  
  
+1.2 Member States of the International Maritime Organization (IMO) decided at MEPC 72 
+to review the Guidelines in order to assess the uptake and effectiveness of the Guidelines and 
+identify any required action. 
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-.3 the stability in the final stage of flooding should be investigated and may be 
-regarded as sufficient if the righting-lever curve has, at least, a range of 20° 
-beyond the position of equilibrium in association with a maximum residual 
-righting lever of at least 100 mm within this range. Unprotected openings 
-should not become immersed at an angle of heel within the prescribed 
-minimum range of residual stability unless the space in question has been 
-included as a floodable space in calculations for damage stability. Within this 
-range, immersion of any openings referred to in 2.8.3.1 and any other 
-openings capable of being closed weather tight may be authorized. 
+1.3 Studies have shown that biofouling can be a significant vector for the transfer of 
+invasive aquatic species. Biofouling on ships entering the waters of States may result in the 
+establishment of invasive aquatic species, which may pose threats to human, animal and plant 
+life, economic and cultural activities, and the aquatic environment.  
  
-2.9 Location of cargo tanks
+1.4 Invasive aquatic species have been recognized as one of the major threats for the 
+well-being of the oceans by, inter alia, the Convention on Biological Diversity, several UNEP
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-range, immersion of any openings referred to in 2.8.3.1 and any other 
-openings capable of being closed weather tight may be authorized. 
+SOURCE: MEPC.378%2880%29.pdf
+1.4 Invasive aquatic species have been recognized as one of the major threats for the 
+well-being of the oceans by, inter alia, the Convention on Biological Diversity, several UNEP 
+Regional Seas Conventions, the Asia Pacific Economic Cooperation forum and the Secretariat 
+of the Pacific Region Environmental Programme. 
  
-2.9 Location of cargo tanks 
- 
-2.9.1 Cargo tanks should be located at the following distances inboard: 
- 
-.1 Cargo tanks for IBC Code ship type 1 products: from the side shell plating, 
-not less than the transverse extent of damage specified in 2.6.1.1.1, and from 
-the moulded line of the bottom shell plating at centreline, not less than 
-the vertical extent of damage specified in 2.6.1.2.1, and nowhere less 
-than 760 mm from the shell plating. This provision does not apply to tanks 
-for diluted slops arising from tank washing. 
- 
-.2 Cargo tanks for IBC Code ship type 2 products: from the moulded line of 
-the bottom shell plating at centreline, not less than the vertical extent of 
-damage specified in 2.6.1.2, and nowhere less than 760 mm from the shell 
-plating. This provision does not apply to tanks for diluted slop s arising from
+1.5 Prediction of risk of introducing invasive species is complex, hence these Guidelines 
+have the intention to minimize the accumulation of biofouling on ships. Biofouling may include 
+invasive species while a clean hull and niche areas significantly reduce this risk. Studies have 
+shown that the biofouling process begins within the first few hours of a ship's immersion in 
+water. The biofouling pressure on a specific ship is influenced by a range of factors, starting 
+with design and construction of the ship hull and niche areas, followed by operating profile of 
+the ship and maintenance history.
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-damage specified in 2.6.1.2, and nowhere less than 760 mm from the shell 
-plating. This provision does not apply to tanks for diluted slop s arising from 
-tank washing. 
+SOURCE: MEPC.378%2880%29.pdf
+with design and construction of the ship hull and niche areas, followed by operating profile of 
+the ship and maintenance history.  
  
-.3 Cargo tanks for IBC Code ship type 3 products: nowhere less than 760 mm 
-from the shell plating. This provision does not apply to tanks for diluted slops 
-arising from tank washing. 
+1.6 These Guidelines describe recommended biofouling management practices, as 
+illustrated in figure 1. Attention during initial ship design and construction may provide effective 
+and sustainable means to reduce ship biofouling risks, supplemented by anti-fouling systems 
+(AFS) for all types of ships' submerged or otherwise wetted surface areas, inc luding hull and 
+niche areas. Although these Guidelines focus on ships using AFS, these biofouling 
+management practices are equally recommended for ships using coatings or surfaces that are 
+not used to control or prevent attachment of organisms, as may be applicable. 
  
-2.9.2 Suction wells installed in cargo tanks for IBC Code ship types 2 and 3 products may 
-protrude below the inner bottom plating provided that such wells are as small as practicable 
-and the protrusion below the inner bottom plating does not exceed 25% of the depth of 
-the double bottom or 350 mm, whichever is less. Where there is no double bottom, 
-the protrusion of the suction well of independent tanks below the upper limit of bottom damage 
-should not exceed 350 mm. Suction wells installed in accordance with this paragraph may be 
-ignored in determining the compartments affected by damage. 
- 
-CHAPTER 3 – VESSEL DESIGN
+1.7 The need for inspection and biofouling management may depend on the use of AFS, 
+cleaning regime, and the overall risk of biofouling on the hull and in niche areas. By conducting
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-should not exceed 350 mm. Suction wells installed in accordance with this paragraph may be 
-ignored in determining the compartments affected by damage. 
- 
-CHAPTER 3 – VESSEL DESIGN 
- 
-To ensure that the cargo containment and handling systems are located in such a way that the 
-consequences of any release of cargo will be minimized, and to provide safe access for 
-operation and inspection. This chapter describes the minimum containment and handling 
-provisions for all liquid cargoes. Additional provisions for those products with higher levels of 
-hazard are described in chapter 4. 
- 
-3.1 Cargo segregation 
- 
-3.1.1 Tanks containing cargoes, residues of cargoes or mixtures containing cargoes subject 
-to the present Code should be segregated from machinery spaces as defined in 1.2.28 
-and 1.2.29, accommodation and service spaces and from drinking water and stores for human 
-consumption by means of a cofferdam, void space, cargo pump-room, pump-room, empty
+SOURCE: MEPC.378%2880%29.pdf
+1.7 The need for inspection and biofouling management may depend on the use of AFS, 
+cleaning regime, and the overall risk of biofouling on the hull and in niche areas. By conducting 
+ship-specific monitoring of risk parameters, identifying potential higher risk for biofouling, an 
+optimized regime for biofouling management can be determined. Cleaning is an important 
+measure to remove biofouling from the hull and niche areas but, when conducted in -water, it 
+poses a risk of releasing invasive aquatic species into the water. Waste substances which are 
+dislodged from the ship during the cleaning operation  should therefore be collected. 
+The Guidelines provide guidance for cleaning actions based on a fouling rating number with 
+an overall aim to minimize the risk of transfer of invasive aquatic species. Maintenance and 
+ship recycling should also be conducted with sufficient preventative measures to avoid release
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-and 1.2.29, accommodation and service spaces and from drinking water and stores for human 
-consumption by means of a cofferdam, void space, cargo pump-room, pump-room, empty 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 20 
+SOURCE: MEPC.378%2880%29.pdf
+an overall aim to minimize the risk of transfer of invasive aquatic species. Maintenance and 
+ship recycling should also be conducted with sufficient preventative measures to avoid release 
+of any invasive aquatic species into the water. When conducting biofouling management, 
+potential release of harmful waste substances should also be considered. 
+ 
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)  
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 5 
  
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-tank, oil fuel tank, or other similar space. 3 On-deck stowage of permanently attached deck 
-tanks or install ation of independent tanks in otherwise empty hold spaces should be 
-considered as satisfying this provision. 
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
+1.8 In addition to the Biofouling Guidelines, the following frameworks are relevant for 
+minimizing the transfer of invasive aquatic species: 
  
-3.1.1.1 For pollution hazards only substances having a flashpoint exceeding 60°C, 
-the segregation provisions need only be met for accommodation spaces, drinking water and 
-stores for human consumption. 
- 
-3.1.2 Cargoes, residues of cargoes or mixtures containing cargoes which react in a
+.1 the International Convention for the Control and Management of Ships' 
+Ballast Water and Sediments, 2004  (BWM Convention), which aims to 
+minimize the transfer of invasive aquatic species through ships' ballast water 
+and sediments; and
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-stores for human consumption. 
+SOURCE: MEPC.378%2880%29.pdf
+Ballast Water and Sediments, 2004  (BWM Convention), which aims to 
+minimize the transfer of invasive aquatic species through ships' ballast water 
+and sediments; and 
  
-3.1.2 Cargoes, residues of cargoes or mixtures containing cargoes which react in a 
-hazardous manner with other cargoes or oil fuels should: 
+.2 the International Convention on the Control of Harmful Anti-fouling Systems 
+on Ships, 2001 (AFS Convention), which addresses anti-fouling systems on 
+ships and focuses on the prevention of adverse impacts from the use of 
+anti-fouling systems and the biocides they may contain. 
  
-.1 be segregated from such other cargoes or oil fuels by means of a cofferdam, 
-void space, cargo pump-room, pump-room, empty tank, or tank containing a 
-mutually compatible cargo; 
- 
-.2 have separate pumping and piping systems which should not pass through 
-other cargo tanks containing such cargoes, unless encased in a tunnel; and 
- 
-.3 have separate tank venting systems. 
- 
-3.1.3 Cargo piping should not pass through any accommodation, service spaces or 
-machinery space of category A. 
- 
-3.1.4 If cargo piping systems or cargo venting systems are required to be separated, this 
-separation may be achieved by the use of design or operational methods. Operational methods 
-should not be used within a cargo tank or a cofferdam surrounding the cargo tanks, if entry
+1.9 Biofouling management practices may also improve a ship's hydrodynamic 
+performance and can be effective at enhancing energy efficiency and reducing air emissions 
+from ships. This concept has been identified by IMO in the 2022 Guidelines for the 
+development of a ship energy efficiency management plan (SEEMP) (resolution 
+MEPC.346(78)). These Guidelines further support the 2023 IMO Strategy for the reduction of 
+green house gases from ships (resolution MEPC.377(80)).
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-separation may be achieved by the use of design or operational methods. Operational methods 
-should not be used within a cargo tank or a cofferdam surrounding the cargo tanks, if entry 
-into the cofferdam is required, and should consist of one of the following types: 
+SOURCE: MEPC.378%2880%29.pdf
+MEPC.346(78)). These Guidelines further support the 2023 IMO Strategy for the reduction of 
+green house gases from ships (resolution MEPC.377(80)). 
  
-.1 removing spool pieces or valves and blanking the pipe ends; 
- 
-.2 arrangements of two spectacle flanges in series, with provisions for detecting 
-leakage into the pipe between the two spectacle flanges; and 
- 
-.3 blind flange valve with double shut-off and with provisions for detecting 
-leakage in valve body. 
- 
-3.1.5 Pumps, ballast lines, vent lines and other similar equipment serving ballast tanks 
-should be separated from similar equipment serving cargo tanks and of cargo tanks 
-themselves. 
- 
-3.1.6 For access to all spaces, the minimum spacing between cargo tank boundaries and 
-adjacent vessel structure should be 600 mm.
+1.10 A GEF-UNDP-IMO GloFouling Partnerships Project was conducted as part of wider 
+efforts by IMO, in collaboration with the United Nations Development Programme (UNDP) and 
+the Global Environment Facility (GEF), to protect marine ecosystems from the negative effects 
+of invasive aquatic species. The aim of the GloFouling Partnerships Project was to build 
+capacity in developing countries  for implementing the IMO Biofouling Guidelines and other 
+relevant guidelines to minimize the transboundary introduction of invasive aquatic species, 
+with additional benefits in the reduction of greenhouse gas emissions from global shipping.  
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)  
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 6
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-themselves. 
+SOURCE: MEPC.378%2880%29.pdf
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 6 
  
-3.1.6 For access to all spaces, the minimum spacing between cargo tank boundaries and 
-adjacent vessel structure should be 600 mm.  
  
-3.1.7 Cargo tanks other than those certified to carry substances subject to the provisions of 
-chapter 4 may extend to the deck plating. Where cargo is handled on the deck area above a 
-cargo tank, the cargo tank may not extend to the deck plating unless a continuous permanent 
-deck sheathing of min 50 mm of wood or other suitable material of equivalent thickness and 
-construction is fitted. 
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
  
-3.1.8 Cargoes subject to the present Code should not be carried in either the fore or aft 
-peak tanks. 
  
-                                                 
-3 Refer to the interpretation of SOLAS regulation II-2/4.5.1 (MSC/Circ.1120). 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122
+Figure 1: Simplified flow chart visualizing the biofouling management activities of a ship 
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)  
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 7 
+ 
+ 
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
+2 DEFINITIONS 
+ 
+2.1 For the purposes of these Guidelines, the following definitions apply: 
+ 
+Anti-fouling system (AFS) means a coating, paint, surface treatment, surface or device that 
+is used on a ship to control or prevent attachment of organisms.  
+ 
+Anti-fouling coating (AFC) means a surface coating or paint designed to prevent, repel or 
+facilitate the detachment of biofouling from hull and niche areas that are typically or 
+occasionally submerged.
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 21 
+SOURCE: MEPC.378%2880%29.pdf
+facilitate the detachment of biofouling from hull and niche areas that are typically or 
+occasionally submerged. 
  
+Biofouling is the accumulation of aquatic organisms such as microorganisms, plants and 
+animals on surfaces and structures immersed in or exposed to the aquatic environment.  
+Biofouling can include pathogens. For microfouling and macrofouling, see definitions below. 
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-3.2 Accommodation, service and machinery spaces and control stations 
+Biofouling pressure means the biofouling accumulation rate , which differs regionally and 
+seasonally. High biofouling pressure means the development of dense biofouling within a short 
+period of time. 
  
-3.2.1 Accommodation or service spaces or control stations should not be located within the 
-cargo area. 
+Capture is the process of containment, collection and removal of biofouling material and waste 
+substances detached from submerged surfaces during cleaning in water or in dry dock. 
  
-3.2.2 For a vessel certified to carry safety hazard substances, entrances, air inlets and 
-openings to accommodation, service and machinery spaces and control stations may be accepted 
-in bulkheads facing the cargo deck area if they are located outside the deck area defined in 1.2.7.2. 
- 
-3.2.3 Propulsion shafts may be routed through cargo pump-rooms. 
- 
-3.3 Access to spaces in the cargo area 
- 
-3.3.1 Unless expressly provided otherwise in chapter 4, the following should apply: 
- 
-.1 For pollution hazard only substances, at least one access to cargo tanks
+Cleaning system is the equipment used for, or the process of, removal of biofouling from the 
+ship surface, with or without capture.
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-3.3.1 Unless expressly provided otherwise in chapter 4, the following should apply: 
+SOURCE: MEPC.378%2880%29.pdf
+Cleaning system is the equipment used for, or the process of, removal of biofouling from the 
+ship surface, with or without capture. 
  
-.1 For pollution hazard only substances, at least one access to cargo tanks 
-should be direct from the open deck and designed such as to ensure 
-complete inspection of those substances. 
+Dry-dock cleaning refers to the cleaning of the submerged areas when the ship is out of 
+water. 
  
-.2 For safety hazard substances, at least one access to each cargo tank, 
-cofferdams and other spaces in the cargo area should be direct from th e 
-open deck and designed such as to ensure complete inspection of those 
-substances. 
+Fouling rating is the allocation of a number for a defined inspection area of the ship surface 
+based on a visual assessment, including description of biofouling present and percentage of 
+macrofouling coverage. 
  
-.3 Access to double bottom spaces within the cargo area may be through a 
-cargo pump-room, pump-room, deep cofferdam, pipe tunnel or similar dry 
-compartments with their own direct access from open deck, subject to 
-consideration of ventilation aspects. Where cofferdams are provided over 
-integral tanks, small trunks may be used to penetrate the cofferdam. 
+In-water cleaning is the removal of biofouling from a ship's hull and niche areas while in the 
+water.  
  
-3.3.2 For accesses defined in 3.3.1 and 4.1.8 through horizontal openings, hatches or
+Invasive aquatic species are non-native species to a particular ecosystem which may pose 
+threats to human, animal and plant life, economic and cultural activities and the aquatic 
+environment. 
+ 
+Macrofouling is biofouling caused by the attachment and subsequent growth of visible plants 
+and animals on structures and ships exposed to water. Macrofouling is large, distinct
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-integral tanks, small trunks may be used to penetrate the cofferdam. 
+SOURCE: MEPC.378%2880%29.pdf
+environment. 
  
-3.3.2 For accesses defined in 3.3.1 and 4.1.8 through horizontal openings, hatches or 
-manholes, the dimensions should be sufficient to allow a person with a self-contained air-breathing 
-apparatus and protective equipment to ascend or descend any ladder without obstruction and also 
-to provide a clear opening to facilitate the hoisting of an injured person from the bottom of the 
-space. The minimum clear opening should be not less than 600 mm by 600 mm. 
+Macrofouling is biofouling caused by the attachment and subsequent growth of visible plants 
+and animals on structures and ships exposed to water. Macrofouling is large, distinct 
+multicellular individual or colonial organisms visible to the human eye such as barnacles,  
+tubeworms, mussels, fronds/filaments of algae, bryozoans, sea squirts and other large 
+attached, encrusting or mobile organisms. 
  
-3.3.3 For accesses defined in 3.3.1 and 4.1.8 through vertical openings, or manholes 
-providing passage through the length and breadth of space, the minimum clear opening should 
-be not less than 600 mm by 800 mm at a height of not more than 600 mm from the bottom 
-shell or deck plating, unless gratings or other footholds are provided. 
+Marine growth prevention system (MGPS) is an AFS used for the prevention of biofouling 
+accumulation in niche areas or other surface areas but may also include methods which apply 
+surface treatments. 
  
-3.3.4 Smaller dimensions may be approved, if at least one main access defined in 3.3.1
+Member States means States that are Members of the International Maritime Organization. 
+ 
+Microfouling is biofouling caused by bacteria, fungi, microalgae, protozoans and other 
+microscopic organisms that creates a biofilm also called a slime layer. 
+ 
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-shell or deck plating, unless gratings or other footholds are provided. 
+SOURCE: MEPC.378%2880%29.pdf
+microscopic organisms that creates a biofilm also called a slime layer. 
  
-3.3.4 Smaller dimensions may be approved, if at least one main access defined in 3.3.1 
-and 4.1.8 has dimensions not less than those required in 3.3.2 and 3.3.3, respectively. The 
-main access should be identified clearly in an access plan. 
- 
-3.3.5 Cargo pump-rooms should be so arranged as to ensure unrestricted access to all valves 
-necessary for cargo handling for a person wearing the required personal protective equipment. 
-  
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 22 
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)  
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 8 
  
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-CHAPTER 4 – SPECIAL REQUIREMENTS FOR PRODUCTS WITH A FLASHPOINT NOT 
-EXCEEDING 60°C, TOXIC PRODUCTS AND ACIDS 
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
+Niche areas  are a subset of the submerged surface areas on a ship that may be more 
+susceptible to biofouling than the main hull owing to structural complexity, different or variable 
+hydrodynamic forces, susceptibility to AFC wear or damage, or inadequate or no protection by 
+AFS.  
  
-To ensure that the designs of the vessels are such that the consequences of any release of
+Organization means the International Maritime Organization. 
+ 
+Port State authority  means any official or organization authorized by the Government of a 
+port State to verify the compliance and enforcement of standards and regulations relevant to 
+the implementation of national and international shipping control measures.
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-EXCEEDING 60°C, TOXIC PRODUCTS AND ACIDS 
+SOURCE: MEPC.378%2880%29.pdf
+port State to verify the compliance and enforcement of standards and regulations relevant to 
+the implementation of national and international shipping control measures. 
  
-To ensure that the designs of the vessels are such that the consequences of any release of 
-liquid cargo with severe safety hazards will be minimized, and to provide protection to the 
-vessel and crew from fire, toxic vapour and corrosive substances. The provisions in this 
-chapter are additional to the general provisions of chapter 3 of the present Code. 
+Proactive cleaning  is the periodic removal of microfouling on ships' hulls to prevent or 
+minimize attachment of macrofouling. 
  
-4.1 General requirements for products with a flashpoint not exceeding 60°C, toxic 
-products and acids 
+Reactive cleaning is a corrective action during which biofouling is removed from a ship's hull 
+and niche areas either in water with capture or in dry dock.  
  
-4.1.1 Unless expressly provided otherwise, the provisions of this section are applicable to 
-products with a flashpoint not exceeding 60°C, toxic products and acids. These provisions are 
-additional to the general provisions of the present Code. 
+Ship means a vessel of any type whatsoever operating in the aquatic environment and 
+includes hydrofoil boats, air -cushion vehicles, submersibles, floating craft, fixed or floating 
+platforms, floating storage units and floating production storage and off-loading units. 
  
-4.1.2 Cargo tanks certified for products or residues of products subject to the provisions of 
-this chapter should be segregated from machinery spaces, propulsion shaft tunnels, solid bulk
+States means coastal, port, flag or Member States, as appropriate. 
+ 
+Waste substances are dissolved and particulate materials that may be released or produced 
+during cleaning or maintenance, and may include biocides, metals, organic substances,
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-4.1.2 Cargo tanks certified for products or residues of products subject to the provisions of 
-this chapter should be segregated from machinery spaces, propulsion shaft tunnels, solid bulk 
-cargo and underdeck access way if fitted, by means of a cofferdam, 4 void space, cargo 
-pump-room, empty tank or other similar space. 
+SOURCE: MEPC.378%2880%29.pdf
+Waste substances are dissolved and particulate materials that may be released or produced 
+during cleaning or maintenance, and may include biocides, metals, organic substances, 
+removed biofouling, pigments, microplastics or other contaminants that could have a negative 
+impact on the environment.  
  
-4.1.3 Cargo tanks certified for products subject to the provisions of this chapter need to be 
-separated from the deck plating by cofferdams. 
+3 APPLICATION 
  
-4.1.4 Cargo piping should not pass through any underdeck access way or machinery spaces. 
+3.1 The Guidelines are intended to provide useful recommendations for measures to 
+minimize biofouling for all types of ships. The Guidelines are directed at various stakeholders, 
+such as ship designers, shipbuilders, anti -fouling paint manufacturers and su ppliers, States, 
+including environmental and regulatory agencies, classification societies, shipowners, ship 
+operators, charterers, shipmasters, port authorities, ship cleaning and maintenance operators, 
+inspection organizations, ship repair, dry -docking a nd recycling facilities, and any other 
+interested parties.  
  
-4.1.5 Discharge arrangements for ballast or fresh water sited immediately adjacent to cargo 
-tanks certified for products or residues of products subject to the provisions of this chapter 
-should be outside machinery spaces and accommodation spaces. Filling arrangements may 
-be in the machinery spaces provided that such arrangements ensure filling from main deck 
-level and non-return valves are fitted.
+3.2 Alternative procedures, methods or actions taken to meet the objectives of these
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-be in the machinery spaces provided that such arrangements ensure filling from main deck 
-level and non-return valves are fitted. 
+SOURCE: MEPC.378%2880%29.pdf
+interested parties.  
  
-4.1.6 Bilge pumping systems serving spaces where cargoes or residues of cargoes may 
-occur are to be independent from systems serving spaces outside such areas and are to be 
-entirely situated within the area related to cargos subject to this chapter. The bilge system 
-serving these spaces should be operable from outside the cargo area. 
+3.2 Alternative procedures, methods or actions taken to meet the objectives of these 
+Guidelines which are not described should be reported to the Organization by Members of the 
+Organization and their representatives and be taken into account in future revi ews of the 
+Guidelines as appropriate. 
  
-4.1.7 In order to guard against the danger of hazardous vapours, due consideration should 
-be given to the location of air intakes and openings into accommodation, passageways, service 
-and machinery spaces and control stations in relation to cargo piping and cargo vent systems 
-as defined in 1.2.7. 
+3.3 A separate guidance document, based on these Guidelines, provides advice relevant 
+to owners and/or operators of recreational craft less than 24 metres in length, using 
+terminology appropriate for that sector ( Guidance for minimizing the transfer of invasive 
+aquatic species as biofouling (hull fouling) for recreational craft (MEPC.1/Circ.792)).  
  
-4.1.8 All access to cargo tanks, cofferdams, void spaces, cargo pump-room, pump-room, 
-empty tank, or other spaces adjacent to cargo tanks certified for products subject to the provisions
+3.4 The Guidelines may not be relevant to ships which operate only in the same waters 
+in which the biofouling was accumulated. Although operation in the same waters leads to no 
+risk of introducing invasive aquatic species, measures to avoid discharge of harmful waste
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-4.1.8 All access to cargo tanks, cofferdams, void spaces, cargo pump-room, pump-room, 
-empty tank, or other spaces adjacent to cargo tanks certified for products subject to the provisions 
-of this chapter, should be direct from the open deck and such as to ensure their complete 
-inspection. The dimensions of the accesses should be in accordance with 3.3.2 to 3.3.4. 
+SOURCE: MEPC.378%2880%29.pdf
+in which the biofouling was accumulated. Although operation in the same waters leads to no 
+risk of introducing invasive aquatic species, measures to avoid discharge of harmful waste 
+substances during cleaning may still be relevant. 
  
-4.1.9 High walkways should not be located within the cargo area as defined in 1.2.7.3.3. 
- 
-                                                 
-4  Refer to the interpretation of SOLAS regulation II-2/4.5.1 (MSC/Circ.1120). 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 23 
+RESOLUTION MEPC.378(80) (adopted on 7 July 2023)  
+2023 GUIDELINES FOR THE CONTROL AND MANAGEMENT OF SHIPS' BIOFOULING TO 
+MINIMIZE THE TRANSFER OF INVASIVE AQUATIC SPECIESMEPC 80/17/Add.1 
+Annex 17, page 9 
  
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-4.2 Products with a flashpoint not exceeding 60°C 
+I:\MEPC\80\MEPC 80-17-Add.1.docx 
+3.5 An inspection regime as defined in paragraphs 8.4 to 8.6 may  not be relevant to a 
+ship when idle for a longer period. To maintain the anti-fouling effect of an AFS, inspection and 
+reactive cleaning may be needed before the ship is reactivated to reduce the risk of biofouling. 
  
-4.2.1 The provisions of this section are applicable to products with a flashpoint not
+4 OBJECTIVES 
+ 
+4.1 The objective of these Guidelines is to minimize the transfer of invasive aquatic 
+species through biofouling on ships.  
+ 
+4.2 Procedures, methods and actions taken in line with these Guidelines should
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-Annex, page 23 
+SOURCE: MEPC.378%2880%29.pdf
+species through biofouling on ships.  
  
+4.2 Procedures, methods and actions taken in line with these Guidelines should 
+safeguard the obligation under the United Nations Convention on the Law of the Sea 
+(UNCLOS), article 194, to prevent, reduce and control pollution of the marine environment. 
+This includes ensuring not to transfer, directly or indirectly, damage or hazards from one area 
+to another, or transform one type of pollution into another (ref. UNCLOS article 195), as well 
+as preventing the intentional or accidental introduction of species, alien or new, to a particular 
+part of the marine environment (ref. UNCLOS article 196).  
  
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-4.2 Products with a flashpoint not exceeding 60°C 
- 
-4.2.1 The provisions of this section are applicable to products with a flashpoint not 
-exceeding 60°C. These provisions are in addition to the general provisions of chapter 3 of the 
-present Code. 
- 
-4.2.2 Unless they are located at least 7 m away from the deck area as defined in 1.2.7.3, 
-entrances, air inlets and openings to accommodation, service and machinery spaces and 
-control stations should not face the cargo deck area. Doors to spaces not having access to 
-accommodation, service and machinery spaces and control stations, such as cargo control 
-stations and storerooms, may be permitted within such deck area, provided the boundaries of 
-the spaces are insulated to A-60 standard. When arranged within such deck area, windows 
-and sidescuttles facing the deck area should be of a fixed (non-opening) type. Such
+4.3 The objective of these Guidelines is pursued by providing a globally consistent 
+approach to stakeholders on the control and management of biofouling, which will contribute 
+to minimizing the risk of transferring invasive aquatic species from biofouling on ships.
 
 ---CHUNK---
 
-SOURCE: A.1122(30).pdf
-the spaces are insulated to A-60 standard. When arranged within such deck area, windows 
-and sidescuttles facing the deck area should be of a fixed (non-opening) type. Such 
-sidescuttles in the first tier on the main deck should be fitted with inside covers of steel or 
-equivalent material. 
- 
-4.3 Toxic products 
- 
-4.3.1 The provisions of this section are applicable to toxic products. These provisions are 
-additional to the general provisions of chapter 3 of the present Code and to the special 
-requirements in section 15.12 of the IBC Code. 
- 
-4.3.2 Unless they are located at least 15 m away from the deck area as defined in 1.2.7.3, 
-entrances, air inlets and openings to accommodation, service and machinery spaces and 
-control stations should not face the deck area. Doors to spaces not having access to 
-accommodation, service and machinery spaces and control stations, such as cargo control 
-stations and storerooms, may be permitted within such deck area, provided the boundaries of
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-accommodation, service and machinery spaces and control stations, such as cargo control 
-stations and storerooms, may be permitted within such deck area, provided the boundaries of 
-the spaces have equivalent gas tightening to A-60 standard. Wheelhouse doors and 
-wheelhouse windows may be located within the limits specified above so long as they are 
-designed in such a way that a rapid and efficient gas- and vapour-tightening of the wheelhouse 
-can be assured. Windows and sidescuttles facing the deck area and on the sides of the 
-superstructures and deckhouses within the limits specified above should be of the fixed 
-(non-opening) type. Such sidescuttles in the first tier on the main deck should be fitted with 
-inside covers of steel or equivalent material. 
- 
-4.3.3 For a vessel certified to carry toxic products only subject to the requirements 
-of 15.12.3 and 15.12.4 of the IBC Code, entrances, air inlets and openings to accommodation,
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-4.3.3 For a vessel certified to carry toxic products only subject to the requirements 
-of 15.12.3 and 15.12.4 of the IBC Code, entrances, air inlets and openings to accommodation, 
-service and machinery spaces and control stations may be accepted in bulkheads facing the 
-cargo deck area if they are located outside the deck area as defined in 1.2.7.3. 
- 
-4.3.4 Cargo tanks certified to carry toxic products should be fitted with fixed tank washing 
-arrangements. Other arrangements allowing cleaning of the tank(s) without the need for personnel 
-to enter during the cleaning process may be fitted, if proper safety equipment is used. 
- 
-4.3.5 The cargo deck area should be such as to promote natural ventilation and to prevent 
-toxic gas from accumulat ing in closed or partly closed spaces on deck. A high closed cargo 
-rail in the stern is prohibited. However, if proper natural ventilation can be documented, a 
-higher aft bulwark/cargo rail may be accepted.
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-rail in the stern is prohibited. However, if proper natural ventilation can be documented, a 
-higher aft bulwark/cargo rail may be accepted. 
- 
-4.3.6 Means should be provided to minimize the range of a possible leak in the hose landing 
-area on the main deck. An example of such means is transverse gutter bars on both sides of 
-the hose landing area in way of the loading stations. 
- 
-4.3.7 The set point of the pressure side of the P/V valves should be set at a 
-minimum 0.6 bar gauge. 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 24 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-4.4 Acids 
- 
-4.4.1 The provisions of this section are applicable to acids. These provisions are additional 
-to the general provisions of the present Code and to the special requirements in section 15.11 
-of the IBC Code.
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-to the general provisions of the present Code and to the special requirements in section 15.11 
-of the IBC Code. 
- 
-4.4.2 Floors or decks under acid storage tanks and pumps and piping for acid should have 
-a lining or coating of corrosion-resistant material extending up to a minimum height of 500 mm 
-on the bounding bulkheads or coamings. Hatches or other openings in such floors or decks 
-should be raised to a minimum height of 500 mm; however, where the Administration 
-determines that this height is not practicable, a lesser height may be accepted. 
- 
-4.4.3 Flanges or other detachable pipe connections should be covered by spray shields. 
- 
-4.4.4 Portable shield covers for connecting the flanges of the loading manifold should be 
-provided. Drip trays of corrosion-resistant material should be provided under loading manifolds 
-for acids. 
- 
-4.4.5 Spaces for acid storage tanks and acid pumping and piping should be provided with 
-drainage arrangements of corrosion-resistant materials.
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-for acids. 
- 
-4.4.5 Spaces for acid storage tanks and acid pumping and piping should be provided with 
-drainage arrangements of corrosion-resistant materials. 
- 
-4.4.6 Deck spills should be kept away from accommodation and service areas by means of 
-a permanent coaming of suitable height and extension. 
- 
-CHAPTER 5 – CARGO CONTAINMENT 
- 
-To ensure the safe containment of cargo under all design and operating conditions having 
-regard to the nature of the cargo carried. 
- 
-5.1 Definitions  
- 
-5.1.1 Independent tank means a cargo-containment envelope, which is not contiguous with, 
-or part of, the hull structure. An independent tank is built and installed so as to eliminate 
-whenever possible (or in any event to minimize) its stressing as a result of stressing or motion 
-of the adjacent hull structure. An independent tank is not essential to the structural 
-completeness of the vessel's hull. 
- 
-5.1.2 Integral tank means a cargo-containment envelope which forms part of the vessel's
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-completeness of the vessel's hull. 
- 
-5.1.2 Integral tank means a cargo-containment envelope which forms part of the vessel's 
-hull and which may be stressed in the same manner and by the same loads which stress the 
-contiguous hull structure and which is normally essential to the structural completeness of the 
-vessel's hull. 
- 
-5.1.3 Gravity tank means a tank having a design pressure not greater than 0.07 MPa gauge 
-at the top of the tank. A gravity tank may be independent or integral. A gravity tank should be 
-constructed and tested according to recognized standards, taking account of the temperature 
-of carriage and relative density of the cargo. 
- 
-5.1.4 Pressure tank means a tank having a design pressure greater than 0.07 MPa gauge. 
-A pressure tank should be an independent tank and should be of a configuration permitting the 
-application of pressure-vessel design criteria according to recognized standards. 
- 
-Resolution A.1122(30)  Adopted on 6 December 2017
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-application of pressure-vessel design criteria according to recognized standards. 
- 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 25 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-5.2 Tank type requirements for individual products 
- 
-5.2.1 Requirements for both installation and design of tank types for individual products are 
-shown in column f in the table in chapter 17 of the IBC Code. 
- 
-5.2.2 Instead of the use of permanently attached cargo deck tanks complying with the 
-requirements of the IBC Code, portable tanks meeting the construction requirements of the 
-IMDG Code or other portable tanks specifically approved by the Administration may be used 
-for cargoes indicated in 1.1.9, provided that the provisions of chapter 17 are complied with.
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-IMDG Code or other portable tanks specifically approved by the Administration may be used 
-for cargoes indicated in 1.1.9, provided that the provisions of chapter 17 are complied with. 
-The applicable tank instruction for the products listed as dangerous goods in the IMDG Code 
-should apply. Products with pollution hazard only and a flashpoint above 60°C falling within 
-the scope of the present Code, but for which the IMDG Code is not applicable, when carried 
-in packaged form, should be shipped under the tank instruction and special tank requirements 
-as included in the IMDG Code for goods with UN number 3082. 
- 
-CHAPTER 6 – CARGO TRANSFER 
- 
-To ensure the safe handling of all cargoes, under all normal operating conditions and 
-foreseeable emergency conditions, to minimize the risk to the vessel, its crew and the 
-environment, having regard to the nature of the products involved. This will: 
- 
-.1 ensure the integrity of integral liquid product tanks, piping systems and cargo 
-hoses;
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-environment, having regard to the nature of the products involved. This will: 
- 
-.1 ensure the integrity of integral liquid product tanks, piping systems and cargo 
-hoses; 
- 
-.2 prevent the uncontrolled transfer of cargo; and 
- 
-.3 ensure reliable means to fill and empty the cargo tank. 
- 
-6.1 Piping scantlings 
- 
-6.1.1 Subject to the conditions stated in 6.1.4, the wall thickness ( t) of pipes should not be 
-less than: 
- 
-𝑡 =𝑡0 + 𝑏 + 𝑐
-1 −a100 (mm) 
- 
- 
-where: 
- 
-𝑡0 = theoretical thickness 
- 
-𝑡0  =  𝑃𝐷/(2𝐾𝑒 + 𝑃) (mm) 
- 
-with 
- 
-P = design pressure (MPa) referred to in 6.1.2 
- 
-D = outside diameter (mm) 
- 
-K = allowable stress (N/mm2) referred to in 6.1.5 
- 
-e = efficiency factor equal to 1.0 for seamless pipes and for longitudinally or 
-spirally welded pipes, delivered by approved manufacturers of welded 
-pipes, which are considered equivalent to seamless pipes when 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-pipes, which are considered equivalent to seamless pipes when 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 26 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-non-destructive testing on welds is carried out in accordance with 
-recognized standards. In other cases, an efficiency factor of less 
-than 1.0, in accordance with recognized standards, may be required 
-depending on the manufacturing process. 
- 
-b = allowance for bending (mm). The value of b should be chosen so that the 
-calculated stress in the bend, due to internal pressure only, does not exceed the 
-allowable stress. Where such justification is not given, b should be not less than: 
- 
-𝑏 =𝐷𝑡0
-2.5𝑟 (mm) 
- 
-with 
- 
-r = mean radius of the bend (mm) 
- 
-c = corrosion allowance (mm). If corrosion or erosion is expected, the wall thickness
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-𝑏 =𝐷𝑡0
-2.5𝑟 (mm) 
- 
-with 
- 
-r = mean radius of the bend (mm) 
- 
-c = corrosion allowance (mm). If corrosion or erosion is expected, the wall thickness 
-of piping should be increased over that required by the other design provisions. 
- 
-a = negative manufacturing tolerance for thickness (%). 
- 
-6.1.2 The design pressure P in the formula in 6.1.1 is the maximum gauge pressure to 
-which the system may be subjected in service, taking into account the highest set pressure on 
-the relief valve on the system. 
- 
-6.1.3 Piping and piping-system components which are not protected by a relief valve, or 
-which may be isolated from their relief valve, should be designed for at least the greatest of: 
- 
-.1 for piping systems or components which may contain some liquid, the 
-saturated vapour pressure at 45°C; 
- 
-.2 the pressure setting of the associated pump discharge relief valve; 
- 
-.3 the scantlings' maximum possible total pressure head at the outlet of the
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-saturated vapour pressure at 45°C; 
- 
-.2 the pressure setting of the associated pump discharge relief valve; 
- 
-.3 the scantlings' maximum possible total pressure head at the outlet of the 
-associated pumps when a pump discharge relief valve is not installed; and 
- 
-.4 for systems or components which may be separated from their relief valves 
-and which contain only vapour at all times, the superheated vapour pressure 
-at 45°C, assuming an initial condition of saturated vapour in the system at 
-the system operating pressure and temperature. 
- 
-6.1.4 The design pressure should not be less than 1 MPa gauge except for open-ended 
-lines, where it should be not less than 0.5 MPa gauge. 
- 
-6.1.5 For pipes, the allowable stress K to be considered in the formula in 6.1.1 is the lower 
-of the following values: 
- 
-𝑅m
-𝐴 or 𝑅e𝐵  
- 
-where: 
- 
-Rm = specified minimum tensile strength at ambient temperature (N/mm2). 
- 
-Resolution A.1122(30)  Adopted on 6 December 2017
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-of the following values: 
- 
-𝑅m
-𝐴 or 𝑅e𝐵  
- 
-where: 
- 
-Rm = specified minimum tensile strength at ambient temperature (N/mm2). 
- 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 27 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-Re =  specified minimum yield stress at ambient temperature (N/mm2). If the stress-strain 
-curve does not show a defined yield stress, the 0.2% proof stress applies. 
- 
-A and B should have values of at least A = 2.7 and B = 1.8. 
- 
-6.1.5.1 The minimum wall thickness should be in accordance with recognized standards. 
- 
-6.1.5.2 Where necessary for mechanical strength to prevent damage, collapse, excessive 
-sag or buckling of pipes due to weight of pipes and content and to superimposed loads from 
-supports, vessel deflection or other causes, the wall thickness should be increased over tha t
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-sag or buckling of pipes due to weight of pipes and content and to superimposed loads from 
-supports, vessel deflection or other causes, the wall thickness should be increased over tha t 
-required by 6.1.1 or, if this is impracticable or would cause excessive local stresses, these 
-loads should be reduced, protected against or eliminated by other design methods. 
- 
-6.1.5.3 Flanges, valves and other fittings should be in accordance with recognized standards, 
-taking into account the design pressure defined under 6.1.2. 
- 
-6.1.5.4 For flanges not complying with a standard, the dimensions for flanges and associated 
-bolts should be to the satisfaction of the Administration. 
- 
-6.2 Piping fabrication and joining details 
- 
-6.2.1 The provisions of this section apply to piping inside and outside the cargo tanks. 
-However, relaxations from these provisions may be accepted in accordance with recognized 
-standards for open-ended piping and for piping inside cargo tanks except for cargo piping
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-However, relaxations from these provisions may be accepted in accordance with recognized 
-standards for open-ended piping and for piping inside cargo tanks except for cargo piping 
-serving other cargo tanks. 
- 
-6.2.2 Cargo piping should be joined by welding except: 
- 
-.1 for approved connections to shut-off valves and expansion joints; and 
- 
-.2 for any practical vessel building and pipe corrosion protection limits taking 
-into account the provisions stated in 6.2.5 and 6.3 in relation to any additional 
-flanged connections, the use of flanged connections should be limited as far 
-as possible. 
- 
-6.2.3 Cargo piping for products or residues of products which are subject to the provisions 
-of chapter 4 should be joined by welding. 
- 
-6.2.4 The following direct connections of pipe lengths without flanges may be considered: 
- 
-.1 Butt -welded joints with complete penetration at the root may be used in all 
-applications.
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-6.2.4 The following direct connections of pipe lengths without flanges may be considered: 
- 
-.1 Butt -welded joints with complete penetration at the root may be used in all 
-applications.  
- 
-.2 Slip -on welded joints with sleeves and related welding having dimensions in 
-accordance with recognized standards should only be used for pipes with an 
-external diameter of 50 mm or less. This type of joint should not be used 
-when crevice corrosion is expected to occur.  
- 
-.3 Screwed connections, in accordance with recognized standards, should only 
-be used for accessory lines and instrumentation lines with external diameters 
-of 25 mm or less. 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 28 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-6.2.5 Expansion of piping should normally be allowed for by the provision of expansion
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 28 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-6.2.5 Expansion of piping should normally be allowed for by the provision of expansion 
-loops or bends in the piping system: 
- 
-.1 bellows, in accordance with recognized standards and installed in an easily 
-accessible location, may be specially considered; and 
- 
-.2 slip joints should not be used. 
- 
-6.2.6 Welding, post-weld heat treatment and non-destructive testing should be performed 
-in accordance with recognized standards. 
- 
-6.3 Flange connections  
- 
-6.3.1 Flanges should be of the welded-neck, slip-on or socket-welded type. However, 
-socket-welded-type flanges should not be used with an external diameter above 50 mm. 
- 
-6.3.2 Flanges should comply with recognized standards as to their type, manufacture and test. 
- 
-6.4 Test requirements for piping  
- 
-6.4.1 The test provisions of this section apply to piping inside and outside cargo tanks.
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-6.4 Test requirements for piping  
- 
-6.4.1 The test provisions of this section apply to piping inside and outside cargo tanks. 
-However, relaxations from these provisions may be accepted in accordance with recognized 
-standards for piping inside tanks and open-ended piping. 
- 
-6.4.2 After assembly, each cargo piping system should be subject to a hydrostatic test to at 
-least 1.5 times the design pressure. When piping systems or parts of systems are completely 
-manufactured and equipped with all fittings, the hydrostatic test may be conducted prior to 
-installation aboard the vessel. Joints welded on board should be hydrostatically tested to at 
-least 1.5 times the design pressure. 
- 
-6.4.3 After assembly on board, each cargo piping system should be tested for leaks to a 
-pressure depending on the method applied. 
- 
-6.5 Piping arrangements 
- 
-6.5.1 Cargo piping should not be installed under deck between the outboard side of the
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-pressure depending on the method applied. 
- 
-6.5 Piping arrangements 
- 
-6.5.1 Cargo piping should not be installed under deck between the outboard side of the 
-cargo containment spaces and the skin of the vessel unless clearances required for damage 
-protection (see 2.9) are maintained; but such distances may be reduced where damage to the 
-pipe would not cause release of cargo provided that the clearance required for inspection 
-purposes is maintained. 
- 
-6.5.2 Cargo piping located below the main deck may run from the tank it serves and 
-penetrate tank bulkheads or boundaries common to longitudinally or transversally adjacent 
-cargo tanks, ballast tanks, empty tanks, pump-rooms or cargo pump-rooms provided that 
-inside the tank it serves it is fitted with a stop valve operable from the weather deck and provided 
-cargo compatibility is assured in the event of piping failure. As an exception, where a cargo tank
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-cargo compatibility is assured in the event of piping failure. As an exception, where a cargo tank 
-is adjacent to a cargo pump-room, the stop valve operable from the weather deck may be 
-situated on the tank bulkhead on the cargo pump-room side, provided an additional valve is fitted 
-between the bulkhead valve and the cargo pump. A totally enclosed hydraulically operated valve 
-located outside the cargo tank may, however, be accepted, provided that the valve is:  
- 
-.1 designed to preclude the risk of leakage;  
- 
-.2 fitted on the bulkhead of the cargo tank which it serves;  
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 29 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-.3 suitably protected against mechanical damage;  
- 
-.4 fitted at a distance from the shell as required for damage protection; and
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-Annex, page 29 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-.3 suitably protected against mechanical damage;  
- 
-.4 fitted at a distance from the shell as required for damage protection; and 
- 
-.5 operable from the weather deck. 
- 
-6.5.3 If a cargo pump serves more than one tank, a stop valve should be fitted in the line to 
-each tank. 
- 
-6.5.4 Cargo piping installed in pipe tunnels should also comply with the provisions of 6.5.1 
-and 6.5.2. Pipe tunnels should satisfy all tank provisions for construction, location and 
-ventilation and electrical hazard provisions. Cargo compatibility should be assured in the event 
-of a piping failure. The tunnel should not have any other openings except to the weather deck 
-and cargo pump-room or pump-room. 
- 
-6.5.5 Cargo piping passing through bulkheads should be so arranged as to preclude 
-excessive stresses at the bulkhead and should not utilize flanges bolted through the bulkhead.
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-6.5.5 Cargo piping passing through bulkheads should be so arranged as to preclude 
-excessive stresses at the bulkhead and should not utilize flanges bolted through the bulkhead. 
- 
-6.5.6. In order to prevent any generation of static electricity, the outlets of filling lines should 
-be led as low as possible in the tanks, except for vessels intended to carry pollution hazard 
-only substances having a flashpoint exceeding 60°C or oil products having a flashpoint 
-exceeding 60°C. 
- 
-6.6 Cargo-transfer control systems  
- 
-6.6.1 For the purpose of adequately controlling the cargo, cargo-transfer systems should 
-be provided with: 
- 
-.1 one stop valve capable of being manually operated on each tank filling and 
-discharge line, located near the tank penetration; if an individual deep well 
-pump is used to discharge the contents of a cargo tank, a stop valve is not 
-required on the discharge line of that tank; 
- 
-.2 one stop valve and break-away fitting at each cargo-hose connection; and
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-required on the discharge line of that tank; 
- 
-.2 one stop valve and break-away fitting at each cargo-hose connection; and 
- 
-.3 remote shutdown devices for all cargo pumps and similar equipment which 
-should be capable of being activated from a dedicated cargo control location 
-and which is manned at the time of cargo transfer and from at least one other 
-location outside the cargo area and at a safe distance from it; cargo controls 
-located in the vessel wheelhouse are acceptable as one of the cargo control 
-locations. 
- 
-6.6.2 For certain products, additional cargo-transfer control requirements are shown in 
-column o in the table of chapter 17 of the IBC Code. 
- 
-6.6.3 Pump discharge pressure gauges or readouts should be provided outside the cargo 
-pump-room. 
- 
-6.7 Vessels' cargo hoses  
- 
-6.7.1 Liquid and vapour hoses used for cargo transfer should be compatible with the cargo 
-and suitable for the cargo temperature. 
- 
-Resolution A.1122(30)  Adopted on 6 December 2017
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-6.7.1 Liquid and vapour hoses used for cargo transfer should be compatible with the cargo 
-and suitable for the cargo temperature. 
- 
-Resolution A.1122(30)  Adopted on 6 December 2017 
-CODE FOR THE TRANSPORT AND HANDLING OF HAZARDOUS AND NOXIOUS 
-LIQUID SUBSTANCES IN BULK ON OFFSHORE SUPPORT VESSELS 
-(OSV CHEMICAL CODE)A 30/Res.1122 
-Annex, page 30 
- 
- 
-I:\ASSEMBLY\30\RES\A 30-RES.1122.docx 
-6.7.2 Hoses subject to tank pressure or the discharge pressure of pumps should be 
-designed for a bursting pressure not less than 5 times the maximum pressure the hose will be 
-subjected to during cargo transfer. 
- 
-6.7.3 Drip trays for collecting cargo residues in cargo lines and hoses should be provided 
-in the area of pipe and hose connections under the manifold area. 
- 
-6.7.4 Each type of cargo hose, complete with end-fittings, should be prototype tested at a 
-normal ambient temperature with 200 pressure cycles from zero to at least twice the specified
-
----CHUNK---
-
-SOURCE: A.1122(30).pdf
-6.7.4 Each type of cargo hose, complete with end-fittings, should be prototype tested at a 
-normal ambient temperature with 200 pressure cycles from zero to at least twice the specified 
-maximum working pressure. After this cycle pressure test has been carried out, the prototype 
-test should demonstrate a bursting pressure of at least 5 times its specified maximum working 
-pressure at the extreme service temperature. Hoses used for prototype testing should not be 
-used for cargo service. Thereafter, before being placed in service, each new length of cargo 
-hose produced should be hydrostatically tested at ambient temperature to a pressure not less 
-than 1.5 times its specified maximum working pressure but not more than two-fifths of its 
-bursting pressure. The hose should be stencilled or otherwise marked with the date of testing, 
-its specified maximum working pressure and, if used in services other than the ambient
+SOURCE: MEPC.378%2880%29.pdf
+approach to stakeholders on the control and management of biofouling, which will contribute 
+to minimizing the risk of transferring invasive aquatic species from biofouling on ships. 
+An additional effect of good biofouling management can be a reduction in emissions to air from 
+ships, due to lower fuel demand in operation as a result of a clean hull.  
+ 
+5 DESIGN AND CONSTRUCTION 
+ 
+5.1 Initial ship design and construction offers the most comprehensive, effective and 
+long-lasting means to minimize ship biofouling risks. In the design and construction of a ship, 
+or when a ship is being significantly modified, the following items, not e xhaustive, should be 
+taken into consideration: 
+ 
+.1 small niches and sheltered areas should be avoided as far as practical, e.g. 
+flush mounting pipes in sea chests (where not practical, these should be 
+designed so that they may be easily accessed for inspection, cleaning and 
+application of AFS like marine growth prevention systems (MGPS));

@@ -1,3909 +1,1825 @@
-SOURCE: A.1141(31).pdf
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 42 
+SOURCE: MEPC.328%2876%29.pdf
+a ship fitted with a d ual fuel engine, the ship directly exits the NO x Tier III 
+emission control area(s) or proceeds directly to the nearest gas fuel 
+bunkering facility appropriate to the ship located in the NOx Tier III emission 
+control area(s);  
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Paras. 18.3.1 to 18.3.7 Training and qualifications 
+.2 for a ship with a Tier II engine undergoing conversion, maintenance or repair, 
+the period beginning at the time the ship enters the NO x Tier III emission 
+control area(s) and proceeds directly to the shipyard or other repair facility, 
+and ending at the time the ship is released from the shipyard or other repair 
+facility and directly exits the NO x Tier III emission control area (s) after 
+performing sea trials, if applicable; or  
  
- 
-Chapter 19 Inspection and maintenance 
-requirements 
- 
- 
-2000 HSC Code 
- 
- 
- 
- 
- 
-Para. 1.3.7 
- 
-Verification 
- 
- 
-Para. 1.4.37 
- 
-Determination of "maximum operational 
-weight" 
- 
- 
-Para. 1.5.1.2 
- 
-Specifying intervals for renewal surveys 
- 
- 
-Para. 1.5.4 Inspection and survey 
- 
- 
-Para. 1.5.5 
- 
-Recognized organizations and 
-nominated surveyors 
- 
- 
-Para. 1.5.7 
- 
-Completeness of survey and inspection 
- 
- 
-Para. 1.7.3 Investigation to determine the need of 
-survey 
- 
- 
-Para. 1.8.1 
- 
-Issue/endorsement of certificate 
- 
- 
-Para. 1.9.1.1.4 
- 
-Transit voyage – arrangements 
-satisfactory 
- 
- 
-Para. 1.9.2 
- 
-Issue of permit to operate  
-Para. 1.9.7
+.3 for a ship with a dual fuel engine undergoing conversion, maintenance or 
+repair, when the ship is required to not have gas fuel or gas cargo on board 
+due to safety requirements, the period beginning at the time the ship enters
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-survey 
+SOURCE: MEPC.328%2876%29.pdf
+repair, when the ship is required to not have gas fuel or gas cargo on board 
+due to safety requirements, the period beginning at the time the ship enters 
+the NOx Tier III emission control area(s) or when it is degassed in the NO x 
+Tier III emission control area(s) and proceeds directly to the shipyard or other 
+repair facility, and ending at the time when the ship is released from the 
+shipyard or other repair facility and directly exits the NO x Tier III emission 
+control area(s) or proceeds directly to the nearest gas fuel bunkering facility 
+appropriate to the ship located in the NOx Tier III emission control area(s). 
  
+Emission control area 
  
-Para. 1.8.1 
- 
-Issue/endorsement of certificate 
- 
- 
-Para. 1.9.1.1.4 
- 
-Transit voyage – arrangements 
-satisfactory 
- 
- 
-Para. 1.9.2 
- 
-Issue of permit to operate  
-Para. 1.9.7 
- 
-Worst intended conditions and 
-operational limitations 
- 
- 
-Para. 1.11.2 Equivalents – reporting  
-Para. 1.12.1 
- 
-Adequate information and guidance 
-provided to the craft by the company 
- 
- 
-Paras. 1.13.2 
-and 1.13.3 
- 
-Novel designs 
- 
- 
-Para. 1.14.1 
- 
-Investigation reports to IMO 
- 
- 
-Para. 2.9.3 Verification of load line marks 
- 
- 
-Paras. 2.7.5 and 
-2.14.2 
- 
-Inclining and stability information – 
-approval 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 43 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 3.4 
- 
-Determination of service life 
- 
- 
-Para. 3.5 Design criteria
+6 For the purposes of this regulation, a NOx Tier III emission control area shall be any 
+sea area, including any port area, designated by the Organization in accordance with the 
+criteria and procedures set forth in appendix III to this Annex. The NOx Tier III emission control 
+areas are:
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Page 43 
+SOURCE: MEPC.328%2876%29.pdf
+criteria and procedures set forth in appendix III to this Annex. The NOx Tier III emission control 
+areas are:  
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 3.4 
+.1 the North American Emission Control Area, which means the area described 
+by the coordinates provided in appendix VII to this Annex;  
  
-Determination of service life 
+.2 the United States Caribbean Sea Emission Control Area, which means the 
+area described by the coordinates provided in appendix VII to this Annex;  
  
+.3 the Baltic Sea area as defined in regulation 1.11.2 of Annex I of the present 
+Convention; and  
  
-Para. 3.5 Design criteria 
+.4 the North Sea area as defined in regulation 1.14.6 of Annex V of the present 
+Convention. 
+Marine diesel engines installed on a ship constructed prior to 1 January 2000 
  
- 
-Para. 4.2.2 Approval of public address system 
- 
- 
-Para. 4.8.3 
- 
-Documentation and verification of 
-evacuation time 
- 
- 
-Para. 4.8.10 
- 
-Evacuation demonstration 
- 
- 
-Para. 7.3.3 
- 
-Approval of structural fire protection 
-details 
- 
- 
-Para. 7.5.6.3 
- 
-Safe outlets for exhaust fans in fuel tank 
-spaces 
- 
- 
-Para. 7.7.1.1.8 
- 
- 
-Limitation of number of enclosed spaces 
-in each section 
- 
-Para. 7.7.1.3.2 Sensitivity limits of smoke detectors 
- 
- 
-Para. 7.7.3.3.6 
- 
-Additional quantity of fire -extinguishing 
-medium 
- 
- 
-Para. 7.17.1 
- 
- 
-Reduced requirements for cargo craft of 
-less than 500 GT 
- 
- 
-Para. 7.17.3.1.5 
- 
-Water spray system – approval  
-Para. 7.17.3.3 
- 
-Smoke d etection systems – equivalent 
-protection 
- 
- 
-Para. 7.17.4 
- 
-Issue of Document of Compliance for
+7.1 Notwithstanding paragraph 1.1.1 of this regulation, a marine diesel engine with a 
+power output of more than 5,000 kW and a per cylinder displacement at or above 90 L installed 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-less than 500 GT 
+SOURCE: MEPC.328%2876%29.pdf
+power output of more than 5,000 kW and a per cylinder displacement at or above 90 L installed 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 25 - 
  
+on a ship constructed on or after 1 January 1990 but prior to 1 January 2000 shall comply with 
+the emission limits set forth in paragraph 7.4 of this regulation, provided that an approved 
+method for that engine has been certified by an Administration of a Party and notification of 
+such certification has been submitted to the Organization by the certifying Administration. 
+Compliance with this paragraph shall be demonstrated through one of the following: 
  
-Para. 7.17.3.1.5 
- 
-Water spray system – approval  
-Para. 7.17.3.3 
- 
-Smoke d etection systems – equivalent 
-protection 
- 
- 
-Para. 7.17.4 
- 
-Issue of Document of Compliance for 
-craft carrying dangerous goods 
- 
- 
-Para. 8.1 
- 
- 
-Approval and acceptance of LSA and 
-arrangements 
- 
- 
-Para. 8.9.7.1.2 
- 
-Approval of servicing stations 
- 
- 
-Para. 8.9.8 
- 
- 
-Rotational deployment of marine 
-evacuation systems 
- 
- 
-Para. 8.9.11 
- 
- 
-Extension of life raft  service intervals – 
-notification 
- 
- 
-Para. 8.11 
- 
-Helicopter pick-up areas – approval 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 44 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 10.2.4.9 
- 
-Flexible oil fuel pipes 
- 
- 
-Para. 10.3.7 
- 
-Internal diameters of suction branches 
- 
- 
-Para. 12.6.2
+.1 installation of the certified approved method, as confirmed by a survey using 
+the verification procedure specified in the approved method file, including
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 10.2.4.9 
+SOURCE: MEPC.328%2876%29.pdf
+.1 installation of the certified approved method, as confirmed by a survey using 
+the verification procedure specified in the approved method file, including 
+appropriate notation on the ship's IAPP Certificate of the presence of the 
+approved method; or 
  
-Flexible oil fuel pipes 
+.2 certification of the engine confirming that it operates within the limits set forth 
+in paragraph 3, 4, or 5.1.1 of this regulation and an appropriate notation of 
+the engine certification on the ship's IAPP Certificate. 
  
- 
-Para. 10.3.7 
- 
-Internal diameters of suction branches 
- 
- 
-Para. 12.6.2 
- 
-Specified voltages to earth 
- 
- 
-Para. 13.1.2 
- 
-Shipborne navigational systems and 
-equipment and voyage data recorders 
-and their installation 
- 
- 
-Para. 13.17 Type approval 
- 
- 
-Para. 14.3.3 
- 
-Exemptions – reporting 
- 
- 
-Para. 14.4.2 
- 
-GMDSS Identities – suitable 
-arrangements 
- 
- 
-Para. 14.14.1 
- 
-Type approval 
- 
- 
-Para. 14.15.5 
- 
-Ensuring maintenance 
- 
- 
-Para. 14.16 
- 
-Radio personnel 
- 
- 
-Para. 14.17 Radio records 
- 
- 
-Para. 15.3.1 
- 
-Operating station – field of vision 
- 
- 
-Para. 15.7.2 
- 
-Ensuring clear view through windows 
- 
- 
-Para. 17.8 
- 
-Acceleration and deceleration 
- 
- 
-Para. 18.1.4 
- 
- 
-Determining maximum allowable 
-distance from a base port or place of 
-refuge  
- 
- 
-Para. 18.2 
- 
-Craft documentation 
- 
- 
-Paras. 18.3.1 to 18.3.7 
- 
-Training and qualifications
+7.2 Paragraph 7.1 of this regulation shall apply no later than the first renewal survey that 
+occurs 12 months or more after deposit of the notification in paragraph 7.1. If a shipowner of 
+a ship on which an approved method is to be installed can demonstrate to the satisfaction of 
+the Administration that the approved method was not commercially available despite best 
+efforts to obtain it, then that approved method shall be installed on the ship no later than the
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Para. 18.1.4 
+SOURCE: MEPC.328%2876%29.pdf
+the Administration that the approved method was not commercially available despite best 
+efforts to obtain it, then that approved method shall be installed on the ship no later than the 
+next annual survey of that ship that falls after the approved method is commercially available. 
  
+7.3 With regard to a marine diesel engine with a power output of more than 5,000 kW and 
+a per cylinder displacement at or above 90 L installed on a ship constructed on or after 1 
+January 1990, but prior to 1 January 2000, the IAPP Certificate shall, for a marine diesel engine 
+to which paragraph 7.1 of this regulation applies, indicate one of the following: 
  
-Determining maximum allowable 
-distance from a base port or place of 
-refuge  
+.1 an approved method has been applied pursuant to paragraph 7.1.1 of this 
+regulation; 
  
+.2 the engine has been certified pursuant to paragraph 7.1.2 of this regulation; 
  
-Para. 18.2 
+.3 an approved method is not yet commercially available as described in 
+paragraph 7.2 of this regulation; or 
  
-Craft documentation 
+.4 an approved method is not applicable.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.3 an approved method is not yet commercially available as described in 
+paragraph 7.2 of this regulation; or 
  
+.4 an approved method is not applicable. 
  
-Paras. 18.3.1 to 18.3.7 
+7.4 Subject to regulation 3 of this Annex, the operation of a marine diesel engine described 
+in paragraph 7.1 of this regulation is prohibited, except when the emission of nitrogen oxides 
+(calculated as the total weighted emission of NO2) from the engine is within the following limits, 
+where n = rated engine speed (crankshaft revolutions per minute): 
  
-Training and qualifications 
+.1 17.0 g/kWh when n is less than 130 rpm; 
  
+.2 45 · n(–0.2) g/kWh when n is 130 or more but less than 2,000 rpm; and 
  
-Chapter 19 Inspection and maintenance 
-requirements 
+.3 9.8 g/kWh when n is 2,000 rpm or more. 
  
+7.5 Certification of an approved method shall be in accordance with chapter 7 of the 
+revised NOx Technical Code 2008 and shall include verification: 
  
-2011 ESP Code  
+.1 by the designer of the base marine diesel engine to which the approved 
+method applies that the calculated effect of the approved method will not
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.1 by the designer of the base marine diesel engine to which the approved 
+method applies that the calculated effect of the approved method will not 
+decrease engine rating by more than 1.0%, increase fuel consumption by 
+more than 2.0% as measured according to the appropriate test cycle set forth 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 26 - 
  
+in the revised NOx Technical Code 2008, or adversely affect engine durability 
+or reliability; and 
  
-Annex A, part A 
-Single-side skin bulk 
-carriers 
+.2 that the cost of the approved method is not excessive, which is determined 
+by a comparison of the amount of NOx reduced by the approved method to 
+achieve the standard set forth in paragraph 7.4 of this regulation and the cost 
+of purchasing and installing such approved method. 
  
+Certification
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+achieve the standard set forth in paragraph 7.4 of this regulation and the cost 
+of purchasing and installing such approved method. 
+ 
+Certification 
+ 
+8 The revised NOx Technical Code 2008 shall be applied in the certification, testing and 
+measurement procedures for the standards set forth in this regulation. 
+ 
+9 The procedures for determining NOx emissions set out in the revised NOx Technical 
+Code 2008 are intended to be representative of the normal operation of the engine. Defeat 
+devices and irrational emission control strategies undermine this intention and shall not be 
+allowed. This regulation shall not prevent the use of auxiliary control devices that are used to 
+protect the engine and/or its ancillary equipment against operating conditions that could result 
+in damage or failure or that are used to facilitate the starting of the engine. 
+ 
+Regulation 14 
+Sulphur oxides (SOx) and particulate matter 
+ 
+General requirements
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+in damage or failure or that are used to facilitate the starting of the engine. 
+ 
+Regulation 14 
+Sulphur oxides (SOx) and particulate matter 
+ 
+General requirements 
+ 
+1 The sulphur content of fuel oil used or carried for use on board a ship shall not 
+exceed 0.50% m/m. 
+ 
+2 The worldwide average sulphur content of residual fuel oil supplied for use on board 
+ships shall be monitored taking into account the guidelines developed by the Organization. 
+ 
+Requirements within emission control areas 
+ 
+3 For the purpose of this regulation, an emission control area shall be any sea area, 
+including any port area, designated by the Organization in accordance with the criteria and 
+procedures set forth i n appendix III to this Annex. The emission control areas under this 
+regulation are:  
+ 
+.1 the Baltic Sea area as defined in regulation 1.11.2 of Annex I of the present 
+Convention; 
   
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 45 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 3.3.4 Supervision on repair of cargo hatch 
-securing system 
- 
- 
-Para. 5.1.1 Cooperation on development of a 
-specific survey programme 
- 
- 
- 
-Para. 5.1.4 Advice on the maximum acceptable 
-structural diminution levels 
- 
- 
-Para. 5.2.2 Agreement on provisions for proper and 
-safe access 
- 
-Para. 8.1.2 Evaluation of survey report
+.2 the North Sea area as defined in regulation 1.14.6 of Annex V of the present 
+Convention;
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Para. 5.1.4 Advice on the maximum acceptable 
-structural diminution levels 
- 
- 
-Para. 5.2.2 Agreement on provisions for proper and 
-safe access 
- 
-Para. 8.1.2 Evaluation of survey report  
-Para. 8.2.3 Endorsement on condition evaluation 
-report 
- 
- 
-Annex 4B, Para. 1 Cooperation on development of a survey 
-programme 
- 
-Annex 5, Para. 3.1 Certification of a company engaged in 
-thickness measurement 
- 
- 
-Annex 13, Para. 3 Approval of materials and welding  
-Annex A, part B 
-Double-side skin bulk 
-carriers 
- 
+SOURCE: MEPC.328%2876%29.pdf
+.1 the Baltic Sea area as defined in regulation 1.11.2 of Annex I of the present 
+Convention; 
   
-Para. 3.3.4 Supervision on repair of cargo hatch 
-securing system 
+.2 the North Sea area as defined in regulation 1.14.6 of Annex V of the present 
+Convention;  
  
+.3 the North American Emission Control Area, which means the area described 
+by the coordinates provided in appendix VII to this Annex; and  
  
+.4 the United States Car ibbean Sea Emission Control Area, which means the 
+area described by the coordinates provided in appendix VII to this Annex. 
  
-Para. 5.1.1 Cooperation on development of a 
-specific survey programme 
+4 While a ship is operating within an emission control area, the sulphur content of fuel 
+oil used on board that ship shall not exceed 0.10% m/m. 
  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 27 - 
  
-Para. 5.1.4 Advice on the maximum acceptable 
-structural diminution levels 
- 
- 
-Para. 5.2.2 Agreement on provisions f or proper and 
-safe access 
- 
- 
-Para. 8.1.2 Evaluation of survey report  
-Para. 8.2.3 Endorsement on condition evaluation 
-report 
- 
- 
-Annex 4B, Para. 1 Cooperation on development of a survey 
-programme
+5 The sulphur content of fuel oil referred to in paragraph 1 and paragraph 4 of this
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-safe access 
+SOURCE: MEPC.328%2876%29.pdf
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 27 - 
  
+5 The sulphur content of fuel oil referred to in paragraph 1 and paragraph 4 of this 
+regulation shall be documented by its supplier as required by regulation 18 of this Annex. 
  
-Para. 8.1.2 Evaluation of survey report  
-Para. 8.2.3 Endorsement on condition evaluation 
-report 
- 
- 
-Annex 4B, Para. 1 Cooperation on development of a survey 
-programme 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 46 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Annex 5, Para. 3.1 Certification of a company engaged in 
-thickness measurement 
- 
- 
-Annex 11, Para. 3 
- 
- 
- 
-Approval of materials and welding  
-Annex B, part A 
-Double hull oil 
-tankers 
- 
-  
-Para. 5.1.1 Cooperation on development of a 
-specific survey programme 
- 
- 
-Para. 5.1.4 Advice on the maximum acceptable 
-structural diminution levels 
- 
- 
-Para. 5.2.1.1 Agreement on provisions for proper and 
-safe access 
- 
- 
-Para. 8.1.3 Evaluation of survey report
+6 Those ships using separate fuel oils to comply with paragraph 4 of this regulation and 
+entering or leaving an emission control area set forth in paragraph 3 of this regulation shall 
+carry a written procedure showing how the fuel oil changeover is to be done, allowing sufficient 
+time for the fuel oil service system to be fully flushed of all fuel oils exceeding the applicable 
+sulphur content specified in paragraph 4 of this regulation prior to entry into an emission control 
+area. The volume of low sulphur fuel oils in each tank as well as the date, time and position of 
+the ship when any fuel oil changeover operation is completed prior to the entry into an emission
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Para. 5.1.4 Advice on the maximum acceptable 
-structural diminution levels 
+SOURCE: MEPC.328%2876%29.pdf
+area. The volume of low sulphur fuel oils in each tank as well as the date, time and position of 
+the ship when any fuel oil changeover operation is completed prior to the entry into an emission 
+control area or commenced after exit from such an area shall be recorded in such logbook or 
+electronic record book as prescribed by the Administration. 
  
+7 During the first 12 months immediately following entry into force of an amendment 
+designating a specific emission control area under paragraph 3 of this regulation, ships 
+operating in that emission control area are exempt from the requirements in paragraphs 4 and 
+6 of this regulation and from the requirements of paragraph 5 of this regulation insofar as they 
+relate to paragraph 4 of this regulation. 
  
-Para. 5.2.1.1 Agreement on provisions for proper and 
-safe access 
+In-use and onboard fuel oil sampling and testing 
  
- 
-Para. 8.1.3 Evaluation of survey report  
-Para. 8.2.3 Endorsement on condition evaluation 
-report 
- 
- 
-Annex 6B Cooperation on development of a survey 
-programme 
- 
- 
-Annex 7, Para. 3.1 Certification of a company engaged in 
-thickness measurement 
- 
- 
-Annex B, part B 
-Oil tankers other 
-than double hull oil 
-tankers 
- 
-  
-Para. 5.1.1 Cooperation on development of a 
-specific survey programme 
- 
- 
-Para. 5.1.4 Advice on the maximum accepta ble 
-structural diminution levels 
- 
- 
-Para. 5.2.1.1 Agreement on provisions for proper and 
-safe access 
- 
- 
-Para. 8.1.3 Evaluation of survey report  
-Para. 8.2.3 Endorsement on condition evaluation 
-report 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141
+8  If the competent authority of a Party requires the in -use or onboard sample to be
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-report 
+SOURCE: MEPC.328%2876%29.pdf
+relate to paragraph 4 of this regulation. 
  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 47 
+In-use and onboard fuel oil sampling and testing 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
+8  If the competent authority of a Party requires the in -use or onboard sample to be 
+analysed, it shall be done in accordance with the verification procedure set forth in appendix VI 
+to this Annex to determine whether the fuel oil being used or carried for us e on board meets 
+the requirements in paragraph 1 or paragraph 4 of this regulation. The in-use sample shall be 
+drawn taking into account the guidelines developed by the Organization. The onboard sample 
+shall be drawn taking into account the guidelines developed by the Organization. 
  
-Annex 6B Cooperation on development of a survey 
-programme 
+9 The sample shall be sealed by the representative of the competent authority with a 
+unique means of identification installed in the presence of the ship 's representative. The ship 
+shall be given the option of retaining a duplicate sample. 
  
- 
-Annex 7, Para. 3.1 Certification of a company engaged in 
-thickness measurement 
- 
- 
-Res. 4 of the  1997 
-SOLAS Conference 
- 
- 
- 
- 
- 
-Section 5 Dimension and selection of weld 
-connections and materials 
- 
- 
-Res. MSC.168(79) 
- 
- 
-Standards and criteria for side structures 
-of bulk carriers of single -side skin 
-construction 
- 
- 
- 
- 
-Para. 2.1 
- 
-Applicable national standards 
- 
- 
-Para. 4.4 Applicable national standards 
- 
- 
-Para. 4.5 Applicable national standards 
- 
- 
-NOX Technical Code 
-2008 
- 
- 
- 
- 
-Chapter 1 Assumption of full res ponsibility for the 
-approval of documentation as required
+In-use fuel oil sampling point
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Para. 4.5 Applicable national standards 
+SOURCE: MEPC.328%2876%29.pdf
+unique means of identification installed in the presence of the ship 's representative. The ship 
+shall be given the option of retaining a duplicate sample. 
  
+In-use fuel oil sampling point 
  
-NOX Technical Code 
-2008 
+10 For each ship subject to regulations 5 and 6 of this Annex, sampling point(s) shall be 
+fitted or designated for the purpose of taking representative samples of the fuel oil being used 
+on board the ship taking into account the guidelines developed by the Organization. 
  
+11 For a ship constructed before 1 April 2022, the sampling point(s) referred to in 
+paragraph 10 shall be fitted or designated not later than the first renewal survey as identified 
+in regulation 5.1.2 of this Annex on or after 1 April 2023. 
  
- 
- 
-Chapter 1 Assumption of full res ponsibility for the 
-approval of documentation as required 
-by the Code together with the acceptance 
-of procedures and alternatives as 
-permitted by the Code 
- 
- 
-Chapter 2 Issue of the Engine International Air 
-Pollution Prevention Certificate, 
-arrangements for the parent engine test 
-and pre-certification of engines, usage of 
-the engine family/engine group concepts 
-and approval of the technical file and any 
-subsequent amendments 
- 
- 
-Chapter 2, Para. 
-2.2.5.1 
-Approval and pre-certification in the case 
-referred to in the paragraph 
- 
- 
-Chapter 3 Acceptance of modification of engine 
-speed at E2 test cycle 25% power mode 
-point 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 48
+12 The requirements of paragraphs 10 and 11 above are not applicable to a fuel oil 
+service system for a low -flashpoint fuel for combustion purposes for propulsion or operation 
+on board the ship.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 48 
+SOURCE: MEPC.328%2876%29.pdf
+service system for a low -flashpoint fuel for combustion purposes for propulsion or operation 
+on board the ship. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Chapter 4 Assignment of engine family/engine 
-group status, as applicable, and selection 
-of associated parent engine; acceptance 
-of conformity o f production 
-arrangements; adjustment of parent 
-engine relative to engine group reference 
-values 
+13 The competent authority of a Party shall, as appropriate, utilize the sampling point(s) 
+which is(are) fitted or designated for the purpose of taking representative sample(s) of the fuel  
+oil being used on board in order to verify that the fuel oil complies with this  regulation. 
+Taking fuel oil samples by the competent authority of the Party shall be performed as 
+expeditiously as possible without causing the ship to be unduly delayed. 
  
+Regulation 15 
+Volatile organic compounds 
  
-Chapter 5 Ensuring that the parent engine test and 
-subsequent calculations are undertaken 
-in accordance with Code requirements 
-and that, where alternatives are applied, 
-these meet the Code 's equivalency 
-requirements and any deviations are 
-within the permitted margins; filing of 
-parent engine test report 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 28 - 
  
- 
-Chapter 6 Onboard NOX verification procedures are 
-in accordance with the provisions of the
+1 If the emissions of volatile organic compounds (VOCs) from a tanker are to be
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-within the permitted margins; filing of 
-parent engine test report 
+SOURCE: MEPC.328%2876%29.pdf
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 28 - 
  
+1 If the emissions of volatile organic compounds (VOCs) from a tanker are to be 
+regulated in a port or ports or a terminal or terminals under the jurisdiction of a Party, they shall 
+be regulated in accordance with the provisions of this regulation. 
  
-Chapter 6 Onboard NOX verification procedures are 
-in accordance with the provisions of the 
-Code and are  adequate to provide 
-verification that an engine, as so 
-surveyed, will be in accordance with the 
-applicable Annex VI requirements; 
-acceptance of aspects within onb oard 
-NOX verification procedure – simplified 
-measurement method if applicable; 
-approval of as pects within onboard NO X 
-verification procedure – direct 
-measurement and monitoring method 
-including the onboard monitoring 
-manual, if applicable 
+2 A Party regulating tank ers for VOC emissions shall submit a notification to the 
+Organization. This notification shall include information on the size of tankers to be controlled, 
+the cargoes requiring vapour emission control systems and the effective date of such control. 
+The notification shall be submitted at least six months before the effective date. 
  
- 
-Chapter 7 Installation of approved method – 
-amendment of IAPP Certificate 
- 
- 
-Appendix IV Verification that the calibration of all 
-necessary measurement equipment 
-meets Code requirements 
- 
- 
-Appendix VII Aspects to be included within onboard 
-NOX verification procedure – parameter 
-check method 
- 
- 
-Appendix VIII Approval of alternative exhaust gas 
-measurement principles
+3 A Party that designates ports or terminals at which VOC emissions from tankers are 
+to be regulated shall ensure that vapour emission control systems, approved by that Party 
+taking into account the safety standards for such systems developed by the Organization, are
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Appendix VII Aspects to be included within onboard 
-NOX verification procedure – parameter 
-check method 
+SOURCE: MEPC.328%2876%29.pdf
+to be regulated shall ensure that vapour emission control systems, approved by that Party 
+taking into account the safety standards for such systems developed by the Organization, are 
+provided in any designated port and terminal and are operated safely and in a manner so as 
+to avoid undue delay to a ship. 
  
+4 The Organization shall circulate a list of the ports and terminals designated by Parties 
+to other Parties and Member States of the Organization for their information. 
  
-Appendix VIII Approval of alternative exhaust gas 
-measurement principles 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 49 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-IBC CODE   
-Para. 1.1.6 Prescribe preliminary suitable conditions 
-for carriage of products not listed in 
-chapters 17 or 18 
- 
- 
-Para. 1.4.2 Equivalents – communication to IMO 
- 
- 
-Section 1.5 Survey and certification 
- 
- 
-Para. 2.2.2 
- 
-Intact stability in all seagoing conditions 
- 
- 
-Para. 2.2.3 
- 
-Free surface effect in undamaged 
-compartments 
- 
-Para. 2.2.6.3 
- 
-Issuing a document of approval for the 
-stability instrument 
- 
- 
-Section 2.4 
- 
-Conditions of loading 
- 
- 
-Para. 2.8.1.6
+5 A tanker to which paragraph 1 of this regulation applies shall be provided with a 
+vapour emission collection system approved by the Administration taking into account the 
+safety standards for such systems developed by the Organization, and shall use this system 
+during the loading of relevant cargoes. A port or terminal that has installed vapour emission 
+control systems in accordance with this regulation may accept tankers that are not fitted with
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Free surface effect in undamaged 
-compartments 
+SOURCE: MEPC.328%2876%29.pdf
+during the loading of relevant cargoes. A port or terminal that has installed vapour emission 
+control systems in accordance with this regulation may accept tankers that are not fitted with 
+vapour collection systems for a period of three years after the effective date identified in 
+paragraph 2 of this regulation. 
  
-Para. 2.2.6.3 
+6 A tanker carrying crude oil shall have on board and implement a VOC management 
+plan approved by the Administration. Such a plan shall be prepared taking into account the 
+guidelines developed by the Organization. The plan shall be specific to each ship and shall at 
+least: 
  
-Issuing a document of approval for the 
-stability instrument 
+.1 provide written procedures for minimizing VOC emissions during the loading, 
+sea passage and discharge of cargo; 
  
+.2 give consideration to the additional VOC generated by crude oil washing; 
  
-Section 2.4 
+.3 identify a person responsible for implementing the plan; and 
  
-Conditions of loading 
- 
- 
-Para. 2.8.1.6 
- 
-Standard of damage 
- 
- 
-Para. 2.8.2 
- 
-Standard of damage – alternative 
-measures 
- 
- 
-Para. 2.9.2.3 
- 
- 
-Residual stability during intermediate 
-stages of flooding 
- 
- 
-Para. 3.4.4 
- 
-Access to spaces in the cargo area 
- 
- 
-Para. 3.7.3.5 
- 
-Alternative arrangements for draining the 
-piping 
- 
- 
-Para. 3.7.4 
- 
-Relaxation for small ships 
- 
- 
-Para. 5.1.6.4 
- 
- 
-Dimensions for flanges not complying 
-with the standards 
- 
- 
-Para. 5.2.2 
- 
-Piping fabrication and joining details 
- 
- 
-Para. 7.1.1 Cargo temperature control – general 
- 
- 
-Para. 8.3.6 
- 
- 
-Devices to prevent the passage of flames 
-into cargo tanks – requirements for the 
-design, testing and locating 
- 
-Para. 10.1.3 Electrical installations – appropriate 
-steps for uniform implementation
+.4 for ships on international voyages, be written in the working language of the
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-into cargo tanks – requirements for the 
-design, testing and locating 
+SOURCE: MEPC.328%2876%29.pdf
+.3 identify a person responsible for implementing the plan; and 
  
-Para. 10.1.3 Electrical installations – appropriate 
-steps for uniform implementation 
+.4 for ships on international voyages, be written in the working language of the 
+master and officers and, if the working language of the master and officers 
+is not English, French or Spanish, include a translation into one of these  
+languages. 
  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 50 
+7 This regulation shall also apply to gas carriers only if the types of loading and 
+containment systems allow safe retention of non-methane VOCs on board or their safe return 
+ashore. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 10.1.4 
+Regulation 16 
+Shipboard incineration 
  
-Electric equipment, cables and wiring 
-that do not conform to the standard 
+1 Except as provided in paragraph 4 of this regulation, shipboard incineration shall be 
+allowed only in a shipboard incinerator. 
+2 Shipboard incineration of the following substances shall be prohibited: 
  
- 
-Para. 10.1.5 
- 
-Electrical equipment in hazardous 
-locations 
- 
- 
-Para. 11.2.2 
- 
-Approval of an appropriate 
-fire-extinguishing system 
- 
- 
-Para. 11.3.2 
- 
-Cargo area – additional arrangements 
- 
- 
-Para. 11.3.5.3 Cargo area – minimum capacity of 
-monitor 
- 
- 
-Para. 11.3.7 
- 
-Minimum capacity of foam monitor for 
-ships less than 4,000 tonnes deadweight 
- 
- 
-Para. 11.3.13 
- 
-Alternative provisions to deck foam 
-system
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 29 -
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-monitor 
+SOURCE: MEPC.328%2876%29.pdf
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 29 - 
  
+.1 residues of cargoes subject to Annex I, II or III or related contaminated 
+packing materials; 
  
-Para. 11.3.7 
+.2 polychlorinated biphenyls (PCBs); 
  
-Minimum capacity of foam monitor for 
-ships less than 4,000 tonnes deadweight 
+.3 garbage, as defined by Annex V, containing more than traces of heavy  
+metals; 
  
+.4 refined petroleum products containing halogen compounds; 
  
-Para. 11.3.13 
+.5 sewage sludge and sludge oil n either of which is generated on board the 
+ship; and 
  
-Alternative provisions to deck foam 
-system 
+.6 exhaust gas cleaning system residues. 
  
+3 Shipboard incineration of polyvinyl chlorides (PVCs) shall be prohibited, except in 
+shipboard incinerators for which IMO Type Approval Certificates have been issued. 
  
-Para. 13.2.3 
- 
- 
-Exemption of toxic-vapour-detection 
-equipment 
- 
- 
-Para. 14.1.2 
- 
-Protective equipment 
- 
- 
-Chapter 15 
- 
-Approval of special requirements for 
-specific chemicals 
- 
-Para. 16.2.2 
- 
-Cargo information – independent expert 
- 
- 
-Para. 16.5.1 Stowage of cargo samples – approval 
- 
- 
-Para. 18.2 Safety requirements – list of products to 
-which the Code does not apply 
- 
- 
-BCH CODE 
- 
- 
- 
- 
- 
-Para. 1.5.2 
- 
-Equivalents – communication to IMO 
- 
- 
- 
-Section 1.6 Survey requirements  
- 
-Section 1.8 
- 
- 
-Para. 2.2.1.2.2 
- 
- 
-New products – establishing suitable 
-conditions – notifying IMO 
- 
-Issuing a document of approval for the 
-stability instrument 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT
+4 Shipboard incineration of sewage sludge and sludge oil generated during normal 
+operation of a ship may also take place in the main or auxiliary power plant or boilers, but in
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Issuing a document of approval for the 
-stability instrument 
+SOURCE: MEPC.328%2876%29.pdf
+4 Shipboard incineration of sewage sludge and sludge oil generated during normal 
+operation of a ship may also take place in the main or auxiliary power plant or boilers, but in 
+those cases, shall not take place inside ports, harbours or estuaries. 
  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 51 
+5 Nothing in this regulation either: 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 2.2.4 
+.1 affects the incineration at sea prohibitions of the Convention on the 
+Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 
+1972, as amended, and the 1996 Protocol thereto, or other requirements 
+thereof, 
+or 
  
+.2 precludes the development, installation and operation of alternative design 
+shipboard thermal waste treatment devices that meet or exceed the 
+requirements of this regulation. 
  
- 
-Determination of the ability to survive 
-flooding of the machinery space in 
-Type 3 below 125 m in length 
- 
- 
- 
- 
- 
-Para. 2.2.5 
- 
- 
-Nature of alternative measures 
-prescribed for small ships – duly noted on 
-certificate 
- 
- 
- 
- 
-Para. 2.9.5 
- 
- 
-Access to void spaces, cargo tanks, etc. 
-– approval of smaller dimensions in 
-special circumstances 
- 
- 
- 
-Section 2.10 
- 
-Cargo piping systems – setting standards 
- 
- 
- 
-Section 2.12 Cargo hoses – setting standards 
- 
- 
- 
- 
-Para. 2.14.2 
- 
-High-velocity vent valves – type approval 
- 
- 
- 
-Para. 2.15.1 
- 
-Cargo heating and cooling systems
+6.1 Except as provided in paragraph 6.2 of this regulation, each incinerator on a ship 
+constructed on or after 1 January 2000 or incinerator that is installed on board a ship on or 
+after 1 January 2000 shall meet the requirements contained in appendix IV to this Annex. Each
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Section 2.12 Cargo hoses – setting standards 
+SOURCE: MEPC.328%2876%29.pdf
+constructed on or after 1 January 2000 or incinerator that is installed on board a ship on or 
+after 1 January 2000 shall meet the requirements contained in appendix IV to this Annex. Each 
+incinerator subject to this paragraph shall be approved by the Administration taking into 
+account the standard specification for shipboard incinerators developed by the Organization; 
  
+6.2 The Administration may allow exclusion from the application of paragraph 6.1 of this 
+regulation to any incinerator installed on board a ship before 19 May 2005, provided that the 
+ship is solely engaged in voyages within waters subject to the sovereignty or jurisdiction of the 
+State the flag of which the ship is entitled to fly. 
  
- 
- 
-Para. 2.14.2 
- 
-High-velocity vent valves – type approval 
- 
- 
- 
-Para. 2.15.1 
- 
-Cargo heating and cooling systems 
- 
- 
- 
-Para. 3.1.2(f) Ventilation fans – approval 
- 
- 
- 
-Para. 3.14.1 
- 
- 
-Alternative provisions for ships dedicated 
-to the carriage of specific cargoes 
- 
- 
- 
- 
-Para. 3.14.2 
- 
-Additional arrangements when foam is 
-not effective or is incompatible 
- 
- 
-Para. 3.14.7 
- 
-Foam monitors on ships of less 
-than 4,000 tonnes deadweight – 
-minimum capacity 
- 
- 
-Para. 3.15.2 
- 
- 
-Protection of cargo pump -rooms with 
-fire-extinguishing systems – approval 
- 
- 
-Para. 3.15.5 
- 
-Products evolving fl ammable vapours – 
-fire-extinguishing systems – approval 
- 
- 
-Chapter IV 
- 
-Approval of special requirements for 
-specific chemicals 
- 
-IGC CODE 
- 
- 
- 
- 
-Para. 1.1.2.3 Compliance with relevant requirements 
-for existing ships 
- 
-Para. 1.1.6.1 Establishment of a Tripartite Agreement, 
-where applicable
+7 Incinerators installed in accordance with the requirements of paragraph 6.1 of this 
+regulation shall be provided with a manufacturer's operating manual, which is to be retained 
+with the unit and which shall specify how to operate the incinerator within the limits described
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-specific chemicals 
+SOURCE: MEPC.328%2876%29.pdf
+regulation shall be provided with a manufacturer's operating manual, which is to be retained 
+with the unit and which shall specify how to operate the incinerator within the limits described 
+in paragraph 2 of appendix IV of this Annex. 
  
-IGC CODE 
- 
- 
- 
- 
-Para. 1.1.2.3 Compliance with relevant requirements 
-for existing ships 
- 
-Para. 1.1.6.1 Establishment of a Tripartite Agreement, 
-where applicable 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 52 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 1.1.6.3 Assessment form and a proposal for a 
-new and complete entry – submission to 
-IMO 
- 
- 
-Para. 1.1.10 Implementation of the Code for ships 
-operating in operation modes as referred 
-to in the paragraph 
- 
- 
-Para. 1.3.2 Equivalents – communication to IMO  
-Paras. 1.4.1.1, 1.4.1.5, 
-1.4.6 
- 
-Survey and certification 
- 
- 
- 
-Para. 1.4.1.3 Information of nominated surveyors or 
-ROs – communication to IMO 
- 
- 
-Para. 1.4.6.9.3 Flag changes – providing information
+8 Personnel responsible for the operation of an incinerator installed in accordance with 
+the requirements of paragraph 6.1 of this regulation shall be trained to implement the guidance 
+provided in the manufacturer's operating manual as required by paragraph 7 of this regulation. 
+9 For incinerators installed in accordance with the requirements of paragraph 6.1 of this 
+regulation the combustion chamber gas outlet temperature shall be monitored at all times the 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 30 -
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-1.4.6 
- 
-Survey and certification 
- 
- 
- 
-Para. 1.4.1.3 Information of nominated surveyors or 
-ROs – communication to IMO 
- 
- 
-Para. 1.4.6.9.3 Flag changes – providing information 
-regarding survey and certificate 
- 
- 
-Para. 2.2.6.3 Issuing a document of approval for the 
-stability instrument 
- 
- 
-Para. 2.2.8 Damage survival capability investigation  
-Para. 2.6.2 Alternative measures – approval  
-Para. 4.3.6 Inspection/survey plan for the cargo 
-containment system – approval 
- 
- 
-Para. 4.6.2.5 Inspection/test means for secondary 
-barrier – approval 
- 
- 
-Para. 4.14.1.3 Methods to predict accelerations due to 
-ship motion – approval 
- 
- 
-Para. 4.18.1.5 Allowable stress for materials other than 
-those covered by chapter 6 – approval 
- 
- 
-Para. 4.18.2.6.3 Load distribution and sequence for 
-longer periods – approval 
- 
- 
-Para. 4.19.1.6.3 Design and construction of the heating 
-system – approval 
- 
- 
-Para. 4.20.3.3 Determining requirements of inspection 
-for secondary barriers
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-longer periods – approval 
- 
- 
-Para. 4.19.1.6.3 Design and construction of the heating 
-system – approval 
- 
- 
-Para. 4.20.3.3 Determining requirements of inspection 
-for secondary barriers 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 53 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 6.4.1.1 Requirements for metallic materials as 
-referred to in tables 6.1 to 6.5 of IGC 
-Code 
- 
- 
-Para. 6.6.3 Requirements for testing and inspection 
-of secondary barriers 
- 
- 
-Para. 8.2.6 Setting and sealing of pressure relief 
-valves (PRVs) 
- 
- 
-Para. 8.2.18 Adequacy of the vent system fitted on 
-tanks 
- 
-Para. 10.2.4 Recognition of accredited testing 
-authority or notified body 
- 
- 
-Para. 11.4.1 
- 
-Fixed dry chemical powder fire-
-extinguishing systems – approval
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-tanks 
- 
-Para. 10.2.4 Recognition of accredited testing 
-authority or notified body 
- 
- 
-Para. 11.4.1 
- 
-Fixed dry chemical powder fire-
-extinguishing systems – approval 
- 
- 
-Para. 13.6.16 Vapour concentration value at which 
-alarm in primary space is set – approval 
- 
- 
-Para. 15.6.1 Information on maximum allowable 
-loading limits – approval 
- 
- 
-Para. 17.14.7 Maximum set pressure of PRVs 
-(Ethylene oxide) – approval 
- 
- 
-Para. 17.18.24 Cargo handling plans – approval 
- 
- 
-Para. 18.2.1 Cargo system operation manuals – 
-approval 
- 
- 
-STCW Code, part A 
- 
- 
- 
- 
-Section A-I/10.2 
- 
-Withdrawal of endorsement of 
-recognition – communication to the Party 
-that issued the certificate  
- 
- 
-Section A-II/4.4 Determining the requirements of training, 
-assessment and certification where there 
-are no tables of competence for the 
-support level 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-are no tables of competence for the 
-support level 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 54 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Section A-III/4.4 Determining the requirements of training, 
-assessment and certification where there 
-are no tables of competence for the 
-support level 
- 
- 
-Section A-VIII/1.1 Fitness for duty – consideration of the 
-danger posed by fatigue of seafarers 
- 
- 
-Section A-VIII/1.5 Requirement for watch schedules to be 
-posted in a standardized form 
- 
- 
-Section A-VIII/1.7 Requirement for maintaining records of 
-daily hours of rest of seafarers 
- 
-Section A-VIII/1.10 Establishment of a limit of alcohol 
-concentration for personnel performing 
-designated duties 
- 
- 
-Section A-VIII/2.84 Principles to be observed in keeping
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Section A-VIII/1.10 Establishment of a limit of alcohol 
-concentration for personnel performing 
-designated duties 
- 
- 
-Section A-VIII/2.84 Principles to be observed in keeping 
-radio watch – directing the attention of 
-companies, masters and radio 
-watchkeeping personnel to comply with 
-provisions of part  4-3 to ensure that an 
-adequate safety radio watch is 
-maintained while the ship is at sea 
- 
- 
-Res. MEPC.94(46), as 
-amended 
-Condition assessment scheme 
- 
- 
-Para. 4.1 
- 
- 
-Issue of instructions to the recognized 
-organization for Condition Assessment 
-Scheme (CAS) survey 
- 
- 
- 
- 
-Para. 4.3 
- 
- 
-Requirement for oil tankers to remain out 
-of service until Statement of Compliance 
-is issued 
- 
- 
- 
- 
-Para. 7.1.3 CAS surveyors' requirements 
- 
- 
-Para. 11 
- 
-Verification of CAS 
- 
- 
- 
-Para. 12 Reassessment of ships that have failed 
- 
- 
-Para. 13 
- 
- 
-Issue, suspension or withdrawal of 
-Statement of Compliance 
- 
- 
-Para. 14 Communication to IMO
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Verification of CAS 
- 
- 
- 
-Para. 12 Reassessment of ships that have failed 
- 
- 
-Para. 13 
- 
- 
-Issue, suspension or withdrawal of 
-Statement of Compliance 
- 
- 
-Para. 14 Communication to IMO 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 55 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Res. MSC.215(82), as 
-amended 
- 
-Performance standard for protective 
-coatings for dedicated seawater ball ast 
-tanks in all types of ships and double-side 
-skin spaces of bulk carriers 
- 
- 
-Para. 3.2 
- 
-Inspection of surface preparation and 
-coating processes 
- 
- 
-Para. 3.4.1 
- 
-Coating technical file 
- 
- 
-Para. 4.4.3 
- 
-Technical Data Sheet and Statement of 
-Compliance or Type Approval Certificate 
-– verification 
- 
- 
-Section 5 
- 
-Coating system approval 
- 
- 
-Para. 6.1.1
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Coating technical file 
- 
- 
-Para. 4.4.3 
- 
-Technical Data Sheet and Statement of 
-Compliance or Type Approval Certificate 
-– verification 
- 
- 
-Section 5 
- 
-Coating system approval 
- 
- 
-Para. 6.1.1 
- 
-Verification of equivalent qualification of 
-coating inspector 
- 
- 
-Section 7 
- 
-Verification requirements  
-Res. MSC.288(87), as 
-amended 
-Performance standard for prote ctive 
-coatings for cargo oil tanks of crude oil 
-tankers 
- 
- 
-Para. 3.2 Inspection of surface preparation and 
-coating processes – review 
- 
- 
-Para. 4.6.3 Verification of the Technical Data Sheet 
-and Statement of Compliance or Type 
-Approval Certificate for the p rotective 
-coating system 
- 
- 
-Para. 6.1.1 Equivalent to NACE Coating Inspector 
-Level 2 and FROSIO Inspector Level III – 
-verification 
- 
- 
-Para. 7 Coating verification requir ement as 
-referred to in paragraph 7  
- 
-Res. MSC.289(87) Performance standard for altern ative 
-means of corrosion protection for cargo 
-oil tanks of crude oil tankers
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-referred to in paragraph 7  
- 
-Res. MSC.289(87) Performance standard for altern ative 
-means of corrosion protection for cargo 
-oil tanks of crude oil tankers  
- 
- 
-Para. 2.2 Verification of Technical File  
-Para. 4.2 Issuance of Type Approval Certificate for 
-corrosion-resistant steel 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 56 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Para. 5 Survey(s) during the construction 
-process t o verify that approved 
-corrosion-resistant steel has been 
-applied to the area required 
- 
- 
-Casualty 
-Investigation Code 
-  
-Para. 1.3 Qualified person(s) for investigation  
-Para. 6.2 Investigation into a very serious marine 
-casualty 
- 
- 
-IS Code, 2008 International Code on Intact Stability, 
-2008
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Para. 1.3 Qualified person(s) for investigation  
-Para. 6.2 Investigation into a very serious marine 
-casualty 
- 
- 
-IS Code, 2008 International Code on Intact Stability, 
-2008 
- 
-Part A, Section 1.2 Criteria demonstrating sufficient ship 
-stability in critical stability situation in 
-waves 
- 
- 
-Part A, Para. 2.1.3 Stability criteria where anti -rolling 
-devices are installed 
- 
- 
-Part A, Section 2.3 Severe wind and stability criterion  
- 
- 
-Part A, Chapter 3 Special criteria for certain types of ships 
- 
- 
-IMSBC Code  
- 
- 
-Section 1.3 Conditions for the carriage of cargoes not 
-listed in the Code 
- 
- 
-Section 1.5 Exemptions 
- 
- 
-Para. 7.3.2. 
- 
- 
-Para. 7.3.2.2 
-Approval of specially constructed or fitted 
-cargo ships for confining cargo shift  
- 
-Approval of specially constructed cargo 
-ships 
- 
- 
-Para. 7.3.2.3 Approval of plan of special arrangements 
-and details of the stability conditions on 
-which the design has been based 
- 
- 
-Appendix 1, Schedule 
-for Aluminium
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-ships 
- 
- 
-Para. 7.3.2.3 Approval of plan of special arrangements 
-and details of the stability conditions on 
-which the design has been based 
- 
- 
-Appendix 1, Schedule 
-for Aluminium 
-Ferrosilicon Powder, 
-UN 1395, and 
-Aluminium Silicon 
-Inspection and approval of gastight 
-bulkheads between cargo spaces and 
-engine-room 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 57 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Powder, Uncoated, 
-UN 1398  
-Appendix 1, Schedule 
-for Ferrosilicon, 
-UN 1408, and 
-Ferrosilicon 
- 
-Inspection and approval of gastight 
-bulkheads between cargo spaces and 
-engine-room and approval of safety of 
-bilge pumping arrangement 
- 
-Polar Code   
-Part I-A, Paras. 1.3.4 
-and 1.3.7 
-Issue of a Polar Ship Certificate to a ship 
-as applicable
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-engine-room and approval of safety of 
-bilge pumping arrangement 
- 
-Polar Code   
-Part I-A, Paras. 1.3.4 
-and 1.3.7 
-Issue of a Polar Ship Certificate to a ship 
-as applicable 
- 
- 
-Part I-A, Para. 3.3.1 Approval of materials of exposed 
-structures in ships 
- 
- 
-Part I-A, Para. 3.3.2 Approval of scantlings of category A, B 
-and ice-strengthened category C ships 
- 
-Part I-A, Para. 6.3.2.3 Approval of materials of exposed 
-machinery and  foundations for ships 
-intended to operate in low air 
-temperature 
- 
- 
-Part I-A, Para. 6.3.3 Approval of propeller blades, propulsion 
-line, steering equipment and other 
-appendages of category A, B and ice -
-strengthened category C ships 
- 
- 
-Part I-A, Para. 7.3.3 Approval of materials of exposed fire 
-safety systems for ships intended to 
-operate in low air temperature 
- 
- 
-Part II-A, Para. 1.1.3 Approval of operational requirements for 
-a category A ship in relation to discharge 
-of oil or oily mixtures from machinery  
-spaces, as applicable
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Part II-A, Para. 1.1.3 Approval of operational requirements for 
-a category A ship in relation to discharge 
-of oil or oily mixtures from machinery  
-spaces, as applicable 
- 
- 
-Part II-A, Para. 2.1.3 Approval of operational requirements for 
-category A and B ships carrying NLS, as 
-applicable 
- 
- 
-Part II-A, para 4.2.3 Approval of operational requirements for 
-category A and B s hips in relation to 
-discharge of sewage, as applicable 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 58 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-SPECIFIC FLAG STATE OBLIGATIONS 
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-IGF Code 
- 
- 
- 
- 
-Para. 2.3.3 Approval of alternative design 
- 
- 
-Para. 6.4.1.8 Approval of an inspection/survey plan for 
-the liquefied gas fuel containment system 
- 
-Para. 6.4.4.5 Approval of the methods for periodically
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Para. 6.4.1.8 Approval of an inspection/survey plan for 
-the liquefied gas fuel containment system 
- 
-Para. 6.4.4.5 Approval of the methods for periodically 
-checking effec tiveness of secondary 
-barriers 
- 
- 
-Para. 6.4.9.4.1.1 Approval of methods to predict 
-accelerations due to ship motion 
- 
-Para. 6.4.12.1.1.5 Approval of allowable stresses for 
-materials other than those covered by 
-paragraph 7.4 of the Code 
- 
- 
-Para. 6.4.12.2.5 Special consideration in the case of use 
-of simplified dynamic loading spectra for 
-estimation of the fatigue life 
- 
- 
-Para. 6.4.12.2.6 Approval of load distribution and 
-sequence for longer periods 
- 
- 
-Para. 6.4.13.1.1.4.3 Approval of the containment system 
-including design and construction of the 
-heating system 
- 
- 
-Para. 6.6.1 Certification and approval for the storage 
-tanks to be used for compressed natural 
-gas 
- 
- 
-Para. 7.3.4.3 Consideration of the allowable stress for 
-pipes made of materials other than steel
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-tanks to be used for compressed natural 
-gas 
- 
- 
-Para. 7.3.4.3 Consideration of the allowable stress for 
-pipes made of materials other than steel 
- 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 59 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 3 
- 
-SPECIFIC COASTAL STATE OBLIGATIONS 
- 
-The following table contains a non -exhaustive list of obligations, including those obligations 
-imposed when a right is exercised. 
- 
- 
-SPECIFIC COASTAL STATE OBLIGATIONS  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-SOLAS 1974 
- 
- 
- 
- 
- 
-Reg. V/4 
- 
-Navigation warnings 
- 
- 
- 
-Reg. V/7.1 
- 
-Search and rescue services – necessary arrangements 
- 
- 
- 
-Reg. V/7.2 
- 
-Search and rescue services – information to IMO 
- 
- 
- 
-Reg. V/8 
- 
-Life-saving signals 
- 
- 
-Reg. V/9 Hydrographic services 
- 
- 
-Regs. VII/6.1 
-and 7-4.1
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Reg. V/7.2 
- 
-Search and rescue services – information to IMO 
- 
- 
- 
-Reg. V/8 
- 
-Life-saving signals 
- 
- 
-Reg. V/9 Hydrographic services 
- 
- 
-Regs. VII/6.1 
-and 7-4.1 
- 
-Reporting of incidents involving dangerous goods  
-MARPOL 
- 
- 
- 
- 
-Annex I 
- 
- 
- 
- 
-Reg. 4.3 
- 
-Exceptions – discharge of substances containing oil for the 
-purpose of combating pollution incidents 
- 
- 
-Annex II 
- 
- 
- 
- 
-Reg. 3.1.3 
- 
-Exceptions – approval of discharge of NLS for the purpose 
-of combating pollution incidents 
- 
- 
-Reg. 13.2.3 
- 
- 
-Control of discharges of residues of NLS – agreement and 
-communication to IMO 
- 
- 
- 
- 
-  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 60 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 4 
- 
-SPECIFIC PORT STATE OBLIGATIONS 
- 
-The following table contains a non -exhaustive list of obligations, including those obligations
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Page 60 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 4 
- 
-SPECIFIC PORT STATE OBLIGATIONS 
- 
-The following table contains a non -exhaustive list of obligations, including those obligations 
-imposed when a right is exercised. 
- 
- 
- SPECIFIC PORT STATE OBLIGATIONS  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-TONNAGE 1969   
-Article 12 
- 
-Inspection 
- 
- 
-LL 1966 AND  
-LL PROT 1988 
- 
- 
- 
- 
- 
- 
-Article 21 Control 
- 
-amended by  
-LL PROT 1988 
- 
-STCW 1978 
- 
- 
- 
- 
-Article X 
- 
-Control 
- 
- 
-Reg. I/4 Control procedures 
- 
- 
-SOLAS 1974 
- 
- 
- 
- 
-Reg. I/6(c) 
- 
-Ships not allowed to sail 
- 
- 
-Reg. I/19 
- 
-Control 
- 
- 
-Reg. VII/7-2.2 
- 
- 
-Documents relating to carriage of dangerous goods in 
-solid form 
- 
- 
-Reg. VIII/11 
- 
-Special control for nuclear ships 
- 
- 
-Reg. XI-1/4 Port State control on operational requirements 
- 
- 
-Reg. XIV/3.2 Port State control of ships to which the chapter applies  
-MARPOL  
- 
- 
- 
-Article 5(2) 
- 
-Certificates and special rules on inspe ction of ships –
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Reg. XIV/3.2 Port State control of ships to which the chapter applies  
-MARPOL  
- 
- 
- 
-Article 5(2) 
- 
-Certificates and special rules on inspe ction of ships – 
-port State control 
- 
- 
- 
-Article 5(3) 
- 
-Certificates and special rules on inspection of ships – 
-denial of entry 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 61 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- SPECIFIC PORT STATE OBLIGATIONS  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Article 6(2) 
- 
-Detection of violations and enforcement of the 
-Convention – inspection 
- 
- 
- 
-Article 6(5) 
- 
-Detection of violations  and enforcement of the 
-Convention – inspection upon request – reporting 
- 
- 
-Annex I 
- 
- 
- 
- 
- 
-Reg. 2.6.2 
- 
- 
-Application – an oil tanker delivered on or  
-before 1  June 1982 engaged in specific trades: 
-agreement with flag States 
- 
- 
- 
- 
-Reg. 2.6.3
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Annex I 
- 
- 
- 
- 
- 
-Reg. 2.6.2 
- 
- 
-Application – an oil tanker delivered on or  
-before 1  June 1982 engaged in specific trades: 
-agreement with flag States 
- 
- 
- 
- 
-Reg. 2.6.3 
- 
- 
-Application – an oil tanker delivered on or  
-before 1 June 1982, engaged in specific trades: approval 
-by port States 
- 
- 
- 
- 
-Reg. 11 
- 
-Port State control on operational requirements 
- 
- 
- 
-Reg. 17.7 
- 
-Oil Record Book, Part I – inspection without undue delay 
- 
- 
- 
-Reg. 18.10.1.2 
- 
- 
- 
-Segregated ballast tanks – oil tanker delivered on or  
-before 1 June 1982 having special ballast arrangements: 
-agreement with flag States 
- 
- 
- 
- 
- 
-Reg. 20.8.2 
- 
-Denial of entry – communication to IMO 
- 
- 
- 
-Reg. 21.8.2 
- 
-Denial of entry – communication to IMO 
- 
- 
- 
-Reg. 36.8 
- 
-Oil Record Book, Part II – inspection without undue delay 
- 
- 
- 
-Regs. 38.1, 38.2, 
- 38.3 and 38.4 
- 
-Reception facilities outside special areas 
- 
- 
- 
- 
- 
-Regs. 38.5, 38.6 
-and 38.7 
- 
-Reception facilities within special areas
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Regs. 38.1, 38.2, 
- 38.3 and 38.4 
- 
-Reception facilities outside special areas 
- 
- 
- 
- 
- 
-Regs. 38.5, 38.6 
-and 38.7 
- 
-Reception facilities within special areas 
- 
- 
-Reg. 38.9.1 
- 
-Reception facilities within special areas: "Antarctic area" 
- 
- 
- 
-Annex II 
- 
- 
- 
- 
- 
-Reg. 4.3.3 
- 
-Exemptions – approval of adequacy of reception facilities 
- 
- 
- 
-Reg. 13.6.1 Control of discharges of residues – endorsement of 
-cargo record book 
- 
-Reg. 15.6 
- 
-Cargo record book – inspection without undue delay 
- 
- 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 62 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- SPECIFIC PORT STATE OBLIGATIONS  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. 16.1 
- 
-Measures of control 
- 
- 
- 
-Regs. 16.6 and 
-16.7 
- 
- 
-Measures of control – exemption granted (endorsement 
-of cargo record book)
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Reg. 16.1 
- 
-Measures of control 
- 
- 
- 
-Regs. 16.6 and 
-16.7 
- 
- 
-Measures of control – exemption granted (endorsement 
-of cargo record book) 
- 
- 
- 
- 
-Reg. 16.9 Port State control on operational requirement 
- 
- 
-Regs. 18.1, 18.2, 
-18.4 and 18.6 
-Reception facilities and cargo unloading terminal 
-arrangements 
- 
- 
-   
-Annex III 
- 
- 
- 
- 
- 
-Reg. 9 Port State control on operational requirements 
- 
- 
- 
-Annex IV  
- 
- 
-Reg. 12.1 
- 
-Reg. 13.1 
-Provision of reception facilities 
- 
-Provision of reception facilities fo r passenger ships in 
-special areas 
- 
- 
- 
- 
-Reg. 13.2 Measures taken regarding reception facilities for 
-passenger ships in special areas – notifying the 
-Organization 
- 
- 
-Reg. 14 
- 
-Port State control on operational requirements 
- 
- 
-Annex V 
- 
- 
- 
- 
- 
-Reg. 6.3.1 
- 
-Provision of reception facilities – all garbage from all 
-ships departing en route to or arriving from the Antarctic 
-area 
- 
- 
-Reg. 8.1 
- 
-Reception facilities
-
----CHUNK---
-
-SOURCE: A.1141(31).pdf
-Annex V 
- 
- 
- 
- 
- 
-Reg. 6.3.1 
- 
-Provision of reception facilities – all garbage from all 
-ships departing en route to or arriving from the Antarctic 
-area 
- 
- 
-Reg. 8.1 
- 
+SOURCE: MEPC.328%2876%29.pdf
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 30 - 
+ 
+unit is in operation. Where that incinerator is of the continuous-feed type, waste shall not be 
+fed into the unit when the combustion chamber gas outlet temperature is below 850°C. Where 
+that incinerator is of the batch-loaded type, the unit shall be designed so that the combustion 
+chamber gas outlet temperature shall reach 600°C within five minutes after start-up and will 
+thereafter stabilize at a temperature not less than 850°C. 
+ 
+Regulation 17 
 Reception facilities 
  
+1 Each Party undertakes to ensure the provision of facilities adequate to meet the: 
  
-Reg. 8.2 Reception facilities within special areas 
- 
- 
-Reg. 8.4 Measures taken regarding provision of reception facilities 
-– notifying the Organization 
- 
- 
-Reg. 9 
- 
-Port State control on operational requirements 
- 
- 
-Reg. 10.5 Inspection of Garbage Record Book or ship 's official 
-log-book 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 63 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- SPECIFIC PORT STATE OBLIGATIONS  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Annex VI 
- 
-  
-Reg. 5.3.3 Necessary assistance to the surveyor as referred to in 
-the paragraph 
- 
- 
-Reg. 10 
- 
-Port State control on operational requirements – in
+.1 needs of ships using its repair ports for the reception of ozone-depleting 
+substances and equipment containing such substances when removed from 
+ships;
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Annex VI 
+SOURCE: MEPC.328%2876%29.pdf
+.1 needs of ships using its repair ports for the reception of ozone-depleting 
+substances and equipment containing such substances when removed from 
+ships; 
  
-  
-Reg. 5.3.3 Necessary assistance to the surveyor as referred to in 
-the paragraph 
+.2 needs of ships using its ports, terminals or repair ports for the reception of 
+exhaust gas cleaning residues from an exhaust gas cleaning system; 
  
+without causing undue delay to ships, and 
  
-Reg. 10 
+.3 needs in ship -breaking facilities for the reception of ozone-depleting 
+substances and equipment containing such substances when removed from 
+ships. 
  
-Port State control on operational requirements – in 
-relation to chapter 4 of Annex VI, limiting of inspection to 
-verification that there are valid Statement of Compliance 
-related to fuel oil consumption and International Energy 
-Efficiency Certificate on board  
- 
- 
-Regs. 15.2 and 
-15.3  
-Volatile organic compounds – approvals of vapour 
-emission control systems and notifying IMO 
- 
- 
-Reg. 17.1 
- 
-Reception facilities as referred to in the paragraph   
-Reg. 17.3 and 
-17.4 
-Ports and terminals where reception facilities are/are not 
-available to manage and process the substances as 
-referred to in regulation 17.1 – communication to IMO 
- 
- 
-Reg. 18.10  Fuel oil quality – communication to Party or non-Parties 
-and remedial action 
- 
-IBC Code 
- 
- 
- 
- 
-Para. 15.8.25.3 
- 
-Certification verifying that the required piping separation 
-has been achieved 
- 
- 
-1994 HSC Code
+2 Small island developing States may satisfy the requirements in paragraph 1 of this 
+regulation through regional arrangements when, because of those States ' unique 
+circumstances, such arrangements are the only practical means to satisfy these requirements. 
+Parties participating in a regional arrangement shall develop a Regional Reception Facilities 
+Plan, taking into account the guidelines developed by the Organization.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-and remedial action 
+SOURCE: MEPC.328%2876%29.pdf
+Parties participating in a regional arrangement shall develop a Regional Reception Facilities 
+Plan, taking into account the guidelines developed by the Organization. 
  
-IBC Code 
+The Government of each Party participating in the arrangement shall consult with the 
+Organization for circulation to the Parties of the present Convention: 
  
+.1 how the Regional Reception Facilities Plan takes into account the 
+Guidelines; 
  
+.2 particulars of the identified Regional Ships Waste Reception Centres; and 
  
+.3 particulars of those ports with only limited facilities. 
  
-Para. 15.8.25.3 
- 
-Certification verifying that the required piping separation 
-has been achieved 
- 
- 
-1994 HSC Code 
- 
- 
- 
- 
-Para. 1.3.5 Acceptance of the Code 
- 
- 
-Para. 1.5.6 
- 
-Providing assistance to surveyors  
- 
- 
-Para. 1.6 
- 
-Design approval 
- 
- 
-Para. 1.9.3 
- 
-Operational conditions – Permit to Operate 
- 
- 
-Para. 1.9.4 Port State control 
- 
- 
-Para. 18.3.8 Training and qualifications 
- 
- 
-2000 HSC Code 
- 
- 
- 
- 
-Para. 1.3.7 
- 
-Acceptance of the Code 
- 
- 
-Para. 1.5.6 
- 
-Providing assistance to surveyors 
- 
- 
- 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 64 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- SPECIFIC PORT STATE OBLIGATIONS  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Section 1.6 
- 
-Design approval 
- 
- 
-Para. 1.9.3 
- 
-Operational conditions – Permit to Operate 
- 
- 
-Para. 1.9.4
+3 If a particular port or terminal of a Party is, taking into account the guidelines to be 
+developed by the Organization, remotely located from, or lacking in, the industrial infrastructure 
+necessary to manage and process those  substances referred to in paragraph 1 of this 
+regulation and therefore cannot accept such substances, then the  Party shall inform the
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-SPECIFIC PORT STATE OBLIGATIONS  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Section 1.6 
+SOURCE: MEPC.328%2876%29.pdf
+necessary to manage and process those  substances referred to in paragraph 1 of this 
+regulation and therefore cannot accept such substances, then the  Party shall inform the 
+Organization of any such port or terminal so that this information may be circulated to all Parties 
+and Member States of the Organization for their information and any appropriate action. Each 
+Party that has provided the Organization with such information shall also notify the 
+Organization of its ports and terminals where reception facilities are available to manage and 
+process such substances. 
  
-Design approval 
- 
- 
-Para. 1.9.3 
- 
-Operational conditions – Permit to Operate 
- 
- 
-Para. 1.9.4 
- 
-Port State control 
- 
- 
-Para. 18.3.8 Training and qualifications 
- 
- 
-Grain Code 
- 
- 
- 
- 
-Para. 3.4 
- 
-Document of authorization 
- 
- 
-Para. 3.5 
- 
-Document of authorization 
- 
- 
-Section 5 
- 
-Exemptions for certain voyages 
- 
- 
-Para. 7.2 Stability requirements 
- 
- 
-IMSBC Code 
- 
-  
-Section 1.3 Conditions for the carriage of cargoes not listed in the 
-Code 
- 
-Section 1.5 Exemptions  
-Para. 4.3.2 Concentrate of cargo which may liquefy – recognition of 
-entity is suing the certificate or declaration of moisture 
-content 
- 
- 
-Para. 4.3.3 Procedures for sampling, testing and controlling – role of 
-the competent authority as referred to in the paragraph 
- 
-   
-IGC Code   
-Para. 1.1.6.1 Establishment of a Tripartite Agreeme nt, where 
-applicable
+4 Each Party shall notify the Organization for circulation to the Members of the 
+Organization of all cases where the facilities provided under this regulation are unavailable or 
+alleged to be inadequate. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-the competent authority as referred to in the paragraph 
+SOURCE: MEPC.328%2876%29.pdf
+alleged to be inadequate. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 31 - 
  
-   
-IGC Code   
-Para. 1.1.6.1 Establishment of a Tripartite Agreeme nt, where 
-applicable 
+Regulation 18 
+Fuel oil availability and quality 
  
-Para. 1.1.10 Implementation of the Code for ships operating in 
-operation modes as referred to in the paragraph 
+Fuel oil availability 
  
-Para. 1.4.1.4 Ships not allowed to sail  
+1 Each Party shall take all reasonable steps to promote the availability of fuel oils that 
+comply with this Annex and inform the Organization of the availability of compliant fuel oils in 
+its ports and terminals. 
  
+2.1 If a ship is found by a Party not to be in compliance with the standards for compliant 
+fuel oils set forth in this Annex, the competent authority of the Party is entitled to require the 
+ship to: 
  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 65 
+.1 present a record of the actions taken to attempt to achieve compliance; and 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 5 
- 
-INSTRUMENTS MADE MANDATORY UNDER IMO CONVENTIONS 
- 
- 
-SOLAS 1974 Res. MSC.215(82), as amended Reg. II-1/3-2.2 
- Res. MSC.133(76), as amended Reg. II-1/3-6.2.1 
- Res. MSC.287(87) Reg. II-1/3-10.3 
- Res. MSC.288(87), as amended Reg. II-1/3-11.3.1 
- Res. MSC.289(87) Reg. II-1/3-11.3.2 
- Noise Code Reg. II-1/3-12 
- 2008 IS Code (introduction and part A) Reg. II-1/5.1 
- FSS Code   Reg. II-2/3.22 
- 2010 FTP Code Reg. II-2/3.23
+.2 provide evidence that it attempted to purchase compliant fuel oil in 
+accordance with its voyage plan and, if it was not made available where
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Res. MSC.289(87) Reg. II-1/3-11.3.2 
- Noise Code Reg. II-1/3-12 
- 2008 IS Code (introduction and part A) Reg. II-1/5.1 
- FSS Code   Reg. II-2/3.22 
- 2010 FTP Code Reg. II-2/3.23 
- LSA Code Reg. III/3.10 
- Res. MSC.402(96) Reg. III/3.25 
- IMSBC Code Reg. VI/1-2 
- CSS Code, sub-chapter 1.9 Reg. VI/2.1 
- Grain Code Reg. VI/8.1 
- IMDG Code Reg. VII/1.1 
- IBC Code Reg. VII/8.1 
- IGC Code Reg. VII/11.1 
- INF Code Reg. VII/14.1 
- ISM Code Reg. IX/1.1 
- 1994 HSC Code Reg. X/1.1 
- 2000 HSC Code Reg. X/1.2 
- RO Code Reg. XI-1/1 
- 2011 ESP Code Reg. XI-1/2 
- Casualty Investigation Code (parts I and II)  Reg. XI-1/6 
- Res. 4 of the 1997 SOLAS Conf. Reg. XII/1.7  
- Res. MSC.169(79) Reg. XII/7.2 
- Res. MSC.168(79) Reg. XII/14 
- III Code Reg. XIII/2 
- Polar Code (introduction and part I-A) Reg. XIV/3.1 
- IGF Code Reg. II-1/57 
+SOURCE: MEPC.328%2876%29.pdf
+.2 provide evidence that it attempted to purchase compliant fuel oil in 
+accordance with its voyage plan and, if it was not made available where 
+planned, that attempts were made to locate alternative sources for such fuel 
+oil and that despite best efforts to obtain compliant fuel oil, no such fuel oil 
+was made available for purchase. 
  
-MARPOL  RO Code Annex I, Reg. 6 
-Annex II, Reg. 8 
- Res. MEPC.94(46), as amended Annex I, Reg. 20.6 
- IBC Code Annex II, Reg. 1.4 
- BCH Code Annex II, Reg. 1.4
+2.2 The ship should not be required to deviate from its intended voyage or to delay unduly  
+the voyage in order to achieve compliance. 
+ 
+2.3 If a ship provides the information set forth in paragraph 2.1 of this regulation, a Party 
+shall take into account all relevant circumstances and the evidence presented to determine the 
+appropriate action to take, including not taking control measures. 
+ 
+2.4 A ship shall notify its Administration and the competent authority of the relevant port 
+of destination when it cannot purchase compliant fuel oil. 
+ 
+2.5 A Party shall notify the Organization when a ship has presented evidence of the non-
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-IGF Code Reg. II-1/57 
+SOURCE: MEPC.328%2876%29.pdf
+of destination when it cannot purchase compliant fuel oil. 
  
-MARPOL  RO Code Annex I, Reg. 6 
-Annex II, Reg. 8 
- Res. MEPC.94(46), as amended Annex I, Reg. 20.6 
- IBC Code Annex II, Reg. 1.4 
- BCH Code Annex II, Reg. 1.4 
- NOX Technical Code 2008 Annex VI, Reg. 5.3.2  
- III Code Annex I, Reg. 44 
-Annex II, Reg. 19 
-Annex III, Reg. 10 
-Annex IV, Reg. 15 
-Annex V, Reg. 11 
-Annex VI, Reg. 24 
- Polar Code (introduction and part II-A) Annex I, Reg. 47.2 
-Annex II, Reg. 22.2 
-Annex IV, Reg. 18.2 
-Annex V, Reg. 14.2 
-   
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 66 
+2.5 A Party shall notify the Organization when a ship has presented evidence of the non-
+availability of compliant fuel oil. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-STCW 1978 STCW Code (part A) Reg. I/1.2.3 
+Fuel oil quality 
  
- III Code Reg. I/16.1 
-LL PROT 1988 2008 IS Code Annex 1, Reg. 1 
- RO Code Annex I, Reg. 2-1 
+3 Fuel oil for combustion purposes delivered to and used on board ships to which this 
+Annex applies shall meet the following requirements: 
  
- III Code Annex IV, Reg. 54(1) 
-TONNAGE 1969 III Code Annex III, Reg. 8 
-COLREG 1972 III Code Part F, Reg. 40
+.1 except as provided in paragraph 3.2 of this regulation: 
+ 
+.1.1 the fuel oil shall be blends of hydrocarbons derived from petroleum 
+refining. This shall not preclude the incorporation of small amounts 
+of additives intended to improve some aspects of performance; 
+ 
+.1.2 the fuel oil shall be free from inorganic acid; and 
+ 
+.1.3 the fuel oil shall not include any added substance or chemical waste 
+that: 
+.1 jeopardizes the safety of ships or adversely affects the 
+performance of the machinery, or 
+ 
+.2 is harmful to personnel, or 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-LL PROT 1988 2008 IS Code Annex 1, Reg. 1 
- RO Code Annex I, Reg. 2-1 
+SOURCE: MEPC.328%2876%29.pdf
+performance of the machinery, or 
  
- III Code Annex IV, Reg. 54(1) 
-TONNAGE 1969 III Code Annex III, Reg. 8 
-COLREG 1972 III Code Part F, Reg. 40 
+.2 is harmful to personnel, or 
  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 32 - 
  
-  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 67 
+.3 contributes overall to additional air pollution. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 6 
+.2 fuel oil for combustion purposes derived by methods other than petroleum 
+refining shall not: 
  
-SUMMARY OF AMENDMENTS TO MANDATORY INSTRUMENTS  
-REFLECTED IN THE NON-EXHAUSTIVE LIST OF OBLIGATIONS 
-(ANNEXES 1 TO 4)  
+.2.1 exceed the applicable sulphur content set forth in regulation 14 of 
+this Annex; 
  
-The amendments to mandatory instruments reflected in annexes 1 to 4 are summarized below 
-to facilitate the amendment of corresponding tables in the future.  
+.2.2 cause an engine to exceed the applicable NOx emission limit set 
+forth in paragraphs 3, 4, 5.1.1 and 7.4 of regulation 13; 
  
-SOLAS 1974 up to and including 2017 amendments  (res. 
-MSC.421(98) except chapter XI -2, regulation V/19-1 
-and ISPS Code) 
- Res. MSC.215(82) 
+.2.3 contain inorganic acid; or 
  
-up to and including the 2012 amendments (res. 
-MSC.341(91))  
- Res. MSC.133(76) up to and including the 2004 amendments
+.2.4.1 jeopardize the safety of ships or adversely affect the performance 
+of the machinery, or 
+ 
+.2.4.2 be harmful to personnel, or 
+ 
+.2.4.3 contribute overall to additional air pollution. 
+ 
+4 This regulation does not apply to coal in its solid form or nuclear fuels.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-and ISPS Code) 
- Res. MSC.215(82) 
+SOURCE: MEPC.328%2876%29.pdf
+of the machinery, or 
  
-up to and including the 2012 amendments (res. 
-MSC.341(91))  
- Res. MSC.133(76) up to and including the 2004 amendments 
-(res. MSC.158(78)) 
- Res. MSC.287(87) as adopted 
- Res. MSC.288(87) up to and including the 2012 amendments 
-(res. MSC.342(91)) 
- Res. MSC.289(87) as adopted  
- Noise Code as adopted by res. MSC.337(91) 
- 2008 IS Code up to and including the 2015 amendments (res. 
-MSC.398(95)) (part B only)  
- FSS Code up to a nd including the 2014 amendments (res. 
-MSC.367(93)) 
- 2010 FTP Code up to and including the 2010 amendments 
-(res. MSC.307(88)) 
- LSA Code up to and including the 20 14 amendments (res. 
-MSC.368(93)) 
- IMSBC Code up to and including the 2017 amendments (res. 
-MSC.426(98))  
- CSS Code, sub-chapter 1.9 up to and including the 2002 amendments 
-(MSC/Circ.1026) 
- Grain Code up to and including the 1991 amendments 
-(res. MSC.23(59)) 
- IMDG Code up to and including the 2016 amendments (res. 
-MSC.406(96))
+.2.4.2 be harmful to personnel, or 
+ 
+.2.4.3 contribute overall to additional air pollution. 
+ 
+4 This regulation does not apply to coal in its solid form or nuclear fuels. 
+Paragraphs 5, 6, 7.1, 7.2, 8.1, 8.2, 9.2, 9.3, and 9.4 of this regulation do not apply to gas fuels 
+such as liquefied natural gas, compressed natural gas or liquefied petroleum gas. The sulphur 
+content of gas fuels delivered to a ship specifically for combustion purposes on board that ship 
+shall be documented by the supplier. 
+ 
+5 For each ship subject to regulations 5 and 6 of this Annex, details of fuel oil for 
+combustion purposes delivered to and used on board shall be recorded by means of a bunker 
+delivery note that shall contain at least the information specified in appendix V to this Annex. 
+ 
+6 The bunker delivery note shall be kept on board the ship in such a place as to be 
+readily available for inspection at all reasonable times. It shall be retained for a period of three
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-(MSC/Circ.1026) 
- Grain Code up to and including the 1991 amendments 
-(res. MSC.23(59)) 
- IMDG Code up to and including the 2016 amendments (res. 
-MSC.406(96)) 
- IBC Code up to  and including the 2014 amendments 
-(res. MSC.369(93) and res. MEPC.250(66))  
- IGC Code up to and including the 2014 amendments 
-(res. MSC.370(93)) 
- INF Code up to and including the 2007 amendments 
-(res. MSC.241(83)) 
- ISM Code up to and including the 2013  amendments 
-(res. MSC.353(92))  
- 1994 HSC Code up to and including the 2013 amendments (res. 
-MSC.351(92))  
- 2000 HSC Code up to and including the 2013 amendments (res. 
-MSC.352(92))  
- RO Code as adopted by res. MSC.349(92) and MEPC.237(65) 
- 2011 ESP Code up to and including the 2016 amendments  (res. 
-MSC.412(97)) 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 68 
+SOURCE: MEPC.328%2876%29.pdf
+6 The bunker delivery note shall be kept on board the ship in such a place as to be 
+readily available for inspection at all reasonable times. It shall be retained for a period of three 
+years after the fuel oil has been delivered on board. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx
+7.1 The competent authority of a Party may inspect the bunker delivery notes on board 
+any ship to which this Annex applies while the ship is in its port or offshore terminal, may make 
+a copy of each delivery note, and may require the master or person in charge of the ship to 
+certify that each copy is a true copy of such bunker delivery note. The competent authority may 
+also verify the contents of each note through consultations with the port where the note was  
+issued. 
+ 
+7.2 The inspection of the bunker delivery notes and the taking of certified copies by the 
+competent authority under paragraph 7.1 of this regulation shall be performed as expeditiously 
+as possible without causing the ship to be unduly delayed.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 68 
+SOURCE: MEPC.328%2876%29.pdf
+competent authority under paragraph 7.1 of this regulation shall be performed as expeditiously 
+as possible without causing the ship to be unduly delayed. 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- Casualty Investigation Code up to and including 2014 amendments 
-(res. MSC.390(94)) 
- Res. 4 of the 1997 SOLAS 
-Conf. 
-no amendments yet adopted 
- Res. MSC.169(79) no amendments yet adopted 
- Res. MSC.168(79) no amendments yet adopted 
- III Code as adopted by res. A.1070(28) 
- Polar Code as adopted by res. MSC.385(94) and res. 
-MEPC.264(68) 
- IGF Code as adopted by res. MSC.391(95) 
-SOLAS PROT 1978 up to and including the 2015 amendments 
-(res. MSC.394(95)) 
-SOLAS PROT 1988 up to and including the 2015 amendments 
-(res. MSC.395(95)) 
-MARPOL up to and including the 2018 amendments (res. 
-MEPC.301(72))  
- RO Code as adopted by res. MEPC.237(65) and MSC.349(92) 
- Res. MEPC.94(46), as amended up to and incl uding the 2013 amendments (res. 
-MEPC.236(65))  
- IBC Code up to and including the 2014 amendments
+8.1 The bunker delivery note shall be accompanied by a representative sample of the fuel 
+oil delivered taking into account the guidelines developed by the Organization.  The sample is 
+to be sealed and signed by  the supplier's representative and the master or officer in charge of 
+the bunker operation on completion of bunkering operations and retained under the ship's 
+control until the fuel oil is substantially consumed, but in any case for a period of not less 
+than 12 months from the time of delivery. 
+ 
+8.2 If a Party requires the representative sample to be analysed, it shall be done in 
+accordance with the verification procedure set forth in appendix VI to this Annex to determine 
+whether the fuel oil meets the requirements of this Annex. 
+RESOLUTION MEPC.328(76)
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Res. MEPC.94(46), as amended up to and incl uding the 2013 amendments (res. 
-MEPC.236(65))  
- IBC Code up to and including the 2014 amendments 
-(res. MEPC.250(66) and MSC.369(93)) 
- BCH Code up to and including the 20 14 amendments 
-(res. MEPC. 249(66) and MSC.376(93)) 
- NOX Technical Code 2008 up to an d including the 2016 amendments res. 
-MEPC.272(69))  
- III Code as adopted by res. A.1070(28) 
- Polar Code as adopted by res. MEPC.264(68) and res. 
-MSC.385(94) 
-STCW 1978 up to and including the 2016 amendments (res. 
-MSC.416 (97)), except Regs. VI/5.2, 6.3 and 6.6  
- STCW Code, part A up to and including the 2016 amendments  (res. 
-MSC.417(97)) 
- III Code as adopted by res. A.1070(28) 
-LL 1966 up to and including the 2005 ame ndments (res. 
-A.972(24))  
-LL PROT 1988 up to and including the 2014 amendments (res. 
-MSC.375(93)) 
- RO Code as adopted by res. MSC.349(92) 
- III Code as adopted by res. A.1070(28) 
-TONNAGE 1969 no amendments yet adopted
+SOURCE: MEPC.328%2876%29.pdf
+accordance with the verification procedure set forth in appendix VI to this Annex to determine 
+whether the fuel oil meets the requirements of this Annex. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 33 - 
+ 
+9 Parties undertake to ensure that appropriate authorities designated by them: 
+ 
+.1 maintain a register of local suppliers of fuel oil; 
+ 
+.2 require local suppliers to provide the bunker delivery note and sample as 
+required by this regulat ion, certified by the fuel oil supplier that the fuel oil 
+meets the requirements of regulations 14 and 18 of this Annex; 
+ 
+.3 require local suppliers to retain a copy of the bunker delivery note for at least 
+three years for inspection and verification by the port State as necessary; 
+ 
+.4 take action as appropriate against fuel oil suppliers that have been found to
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-LL PROT 1988 up to and including the 2014 amendments (res. 
-MSC.375(93)) 
- RO Code as adopted by res. MSC.349(92) 
- III Code as adopted by res. A.1070(28) 
-TONNAGE 1969 no amendments yet adopted 
- III Code as adopted by res. A.1070(28) 
-COLREG 1972 up to and including the 2013 amendments 
-(res. A.1085(28)) 
- III Code as adopted by res. A.1070(28) 
+SOURCE: MEPC.328%2876%29.pdf
+three years for inspection and verification by the port State as necessary; 
  
-  
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 69 
+.4 take action as appropriate against fuel oil suppliers that have been found to 
+deliver fuel oil that does not comply with that stated on the bunker delivery 
+note; 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 7 
+.5 inform the Administration of any ship receiving fuel oil found to be 
+non-compliant with the requirements of regulation 14 or 18 of this Annex; and 
  
-AMENDMENTS4 TO IMO INSTRUMENTS EXPECTED TO BE ACCEPTED  
-AND TO ENTER INTO FORCE BETWEEN 1 JANUARY 2020 AND 1 JULY 2020 
+.6 inform the Organization for circulation to Parties and Member States of the 
+Organization of all cases where fuel oil suppliers have fa iled to meet the 
+requirements specified in regulations 14 or 18 of this Annex. 
  
+10 In connection with port State inspections carried out by Parties, the Parties further 
+undertake to: 
  
-The following tables contain non -exhaustive lists of obligations, including those obligati ons 
-imposed when a right is exercised. 
+.1 inform the Party or non-Party under whose jurisdiction a bunker delivery note 
+was issued of cases of delivery of non-compliant fuel oil, giving all relevant 
+information; and 
  
-Annex 1 
- 
-OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
- 
- OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES
+.2 ensure that remedial action as appropriate is taken to bring non-compliant
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-imposed when a right is exercised. 
+SOURCE: MEPC.328%2876%29.pdf
+was issued of cases of delivery of non-compliant fuel oil, giving all relevant 
+information; and 
  
-Annex 1 
+.2 ensure that remedial action as appropriate is taken to bring non-compliant 
+fuel oil discovered into compliance. 
  
-OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
+11 For every ship of 400 gross tonnage and above on scheduled services with frequent 
+and regular port calls, an Administration may decide after application and consultation with 
+affected States that compliance with paragraph 6 of this regulation may be documented in an 
+alternative manner that gives similar certainty of compliance with regulations 14 and 18 of this 
+Annex. 
  
- OBLIGATIONS OF CONTRACTING 
-GOVERNMENTS/PARTIES 
+Chapter 4 – Regulations on the carbon intensity of international shipping  
  
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-IMDG Code  
+Regulation 19 
+Application 
  
-  
-Chapter 6.8  
+1 This chapter shall apply to all ships of 400 gross tonnage and above. 
  
-Provisions for road tank vehicles and road gas 
-elements vehicles-role of competent authority 
-In force 1/1/2020 by 
-MSC.442(99)  
+2 The provisions of this chapter shall not apply to: 
  
- 
- 
- 
- 
-  
- 
-4 The struck -out text indicates deletions and the underlined text shows additions or changes to the 
-non-exhaustive list of obligations. 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 70 
- 
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
-Annex 2 
- 
-SPECIFIC FLAG STATE OBLIGATIONS 
- 
- 
- SPECIFIC FLAG STATE OBLIGATIONS   
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Res.MSC.402(96) Requirements for maintenance, th orough 
-examination, operational testing, overhaul
+.1 ships solely engaged in voyages within waters subject to the sovereignty or
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-SPECIFIC FLAG STATE OBLIGATIONS   
-SOURCE SUMMARY DESCRIPTION COMMENTS 
-Res.MSC.402(96) Requirements for maintenance, th orough 
-examination, operational testing, overhaul 
-and repair of lifeboats and rescue boats, 
-launching appliances and release gear 
+SOURCE: MEPC.328%2876%29.pdf
+2 The provisions of this chapter shall not apply to: 
  
-In force 1/1/2020 by 
-MSC.402(96) 
+.1 ships solely engaged in voyages within waters subject to the sovereignty or 
+jurisdiction of the State the flag of which the ship is entitled to fly. However, 
+each Party should ensure, by the adoption of appropriate measures, that 
+such ships are constructed and act in a manner consistent with the 
+requirements of chapter 4 of this Annex, so far as is reasonable and 
+practicable. 
  
-Para.7.2 Availability to the information regarding 
-authorized service providers 
-In force 1 /1/2020 by 
-MSC.402(96) 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 34 - 
  
-Para.7.4.1 Issuance of an authorization document upon 
-initial audit 
-In force 1/1/2020 by 
-MSC.402(96) 
-Para.7.4.2 Periodic audit and if not in compliance, 
-withdrawal of the authorization of service 
-providers 
+.2 ships not propelled by mechanical means, and platforms including FPSOs 
+and FSUs and drilling rigs, regardless of their propulsion. 
  
-In force 1/1/2020 by 
-MSC.402(96) 
- 
-SOLAS 1974   
-Regs. II-1/1.1.2 and 1.2 Compliance with earlier requirements  
- 
-revised SOLAS chapter 
-II-1 adopted by MSC 80 
-and MSC  82 and 
-MSC 98 
-In force 1/1/2020 by 
-MSC.421(98) 
- 
- 
-Reg. II-1/4.32 
- 
-Alternative methodologies – communication 
-to IMO  
- 
-In force 1/1/2020 by 
-MSC.421(98)  
- 
-Reg. II-1/4.54
+3  Regulations 22, 23, 24 and 25 of this Annex shall not apply to ships which have 
+non-conventional propulsion, except that regulations 22 and 24 shall apply to cruise passenger
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-and MSC  82 and 
-MSC 98 
-In force 1/1/2020 by 
-MSC.421(98) 
+SOURCE: MEPC.328%2876%29.pdf
+3  Regulations 22, 23, 24 and 25 of this Annex shall not apply to ships which have 
+non-conventional propulsion, except that regulations 22 and 24 shall apply to cruise passenger 
+ships having non -conventional propulsion and LNG carriers having conventional or 
+non-conventional propulsion, delivered on or after 1 September 2019, as defined in 
+regulation 2.2.1, and regulations 23 and 25 shall apply to cruise passenger ships having 
+non-conventional propulsion and LNG carriers having conventional or non -conventional 
+propulsion. Regulations 22, 23, 24, 25 and 28 shall not apply to category A ships as defined in 
+the Polar Code. 
  
+4 Notwithstanding the provisions of paragraph 1 of this regulation, the Administration 
+may waive the requirement for a ship of 400 gross tonnage and above to comply  with 
+regulations 22 and 24 of this Annex. 
  
-Reg. II-1/4.32 
- 
-Alternative methodologies – communication 
-to IMO  
- 
-In force 1/1/2020 by 
-MSC.421(98)  
- 
-Reg. II-1/4.54  
- 
-Beneficial or adverse effects of fitting 
-structures as defined by the regulation  
- 
-In force 1/1/2020 by 
-MSC.421(98)  
- 
-Reg.11-1/16.1.1 Construction and initial tests of watertight 
-doors, sidescuttles , et c. Design, material 
-and construction of all watertight closures, 
-such as doors, hatches, etc. 
- 
-In force 1/1/2020 by 
-MSC.421(98) 
- 
-Regs.II-1/19.23 and 
-19.34 
-Damage control information – general and 
-specific precautions  
- 
-In force 1/1/2020 by 
-MSC.421(98) 
- 
-Reg.II-1/22.34 Determination as to whether watertight 
-doors must be permitted to remain open 
-Authorization of such a watertight door that 
-may be opened during navigation 
- 
-In force 1/1/2020 by 
-MSC.421(98) 
- 
-Regs. III/20.11 .1 and 
-20.11.2 
-Periodic servic ing of launching appliances
+5 The provision of paragraph 4 of this regulation shall not apply to ships of 400 gross 
+tonnage and above:
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Authorization of such a watertight door that 
-may be opened during navigation 
+SOURCE: MEPC.328%2876%29.pdf
+regulations 22 and 24 of this Annex. 
  
-In force 1/1/2020 by 
-MSC.421(98) 
+5 The provision of paragraph 4 of this regulation shall not apply to ships of 400 gross 
+tonnage and above: 
  
-Regs. III/20.11 .1 and 
-20.11.2 
-Periodic servic ing of launching appliances 
-and on -load release gear – thorough 
-In force 1/1/2020 by 
-MSC.404(96) 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)A 31/Res.1141 
-Page 71 
+.1 for which the building contract is placed on or after 1 January 2017; or 
  
-I:\ASSEMBLY\31\RES\A 31-RES.1141.docx 
- SPECIFIC FLAG STATE OBLIGATIONS   
-SOURCE SUMMARY DESCRIPTION COMMENTS 
+.2 in the absence of a building contract, the keel of which is laid or which is at 
+a similar stage of construction on or after 1 July 2017; or 
  
+.3 the delivery of which is on or after 1 July 2019; or 
  
-examination at the annual surveys  
-Maintenance, thorough examination, 
-operational testing, overhaul and repair of 
-lifeboats, rescue boats and fast rescue 
-boats, launching appliances and release  
-gear 
+.4 in cases of a major conversion of a new or existing ship, as defined in 
+regulation 2.2.17 of this Annex, on or after 1 Janu ary 2017, and in which 
+regulations 5.4.2 and 5.4.3 of this Annex apply. 
  
- 
-FSS Code   
-Ch.17, Para.3.7 and 3.8 Manufacture and test of foam fire -fighting 
-system and its components, including deck 
-integrated foam nozzles 
- 
-In force 1/1/2020 by 
-MSC.403(96) 
- 
- 
- 
-___________
+6 The Administration of a Party to the present Convention which allows the application 
+of paragraph 4, or suspends, withdraws or declines the application of that paragraph, to a ship 
+entitled to fly its flag shall forthwith communicate to the Organization for circulation to the 
+Parties to the present Protocol particulars thereof, for their information.
 
 ---CHUNK---
 
-SOURCE: A.1141(31).pdf
-Ch.17, Para.3.7 and 3.8 Manufacture and test of foam fire -fighting 
-system and its components, including deck 
-integrated foam nozzles 
+SOURCE: MEPC.328%2876%29.pdf
+entitled to fly its flag shall forthwith communicate to the Organization for circulation to the 
+Parties to the present Protocol particulars thereof, for their information. 
  
-In force 1/1/2020 by 
-MSC.403(96) 
+Regulation 20 
+Goal 
  
+The goal of this chapter is to reduce the carbon intensity of international shipping, working 
+towards the levels of ambition set out in the Initial IMO Strategy on reduction of GHG emissions 
+from ships.   
  
+Regulation 21 
+Functional requirements 
  
-___________ 
-Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)Resolution A.1141(31)  Adopted on 4 December 2019 
-2019 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
-TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)
+In order to achieve the goal set out in regulation 20 of this Annex, a ship to which this chapter 
+applies shall comply, as applicable, with the following functional requirements to reduce its 
+carbon intensity: 
+.1 the technical carbon intensity requirements in accorda nce with 
+regulations 22, 23, 24 and 25 of this Annex; and  
+ 
+.2 the operational carbon intensity requirements in accordance with 
+regulations 26, 27 and 28 of this Annex. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
 
 ---CHUNK---
 
-SOURCE: MEPC.354(78).pdf
-RESOLUTION MEPC.354(78) (adopted on 10 June 2022) 
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4)MEPC 78/17/Add/1 
-Annex 16, page 1 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-ANNEX 16 
-RESOLUTION MEPC.354(78) 
-(adopted on 10 June 2022) 
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4) 
-THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
-RECALLING Article 38(a) of the Convention on the Internation al Maritime Organization 
-concerning the functions of the Marine Environment Protection Committee (the Committee) 
-conferred upon it by international conventions for the prevention and control of marine pollution 
-from ships, 
-NOTING that the Committee adopted, by resolution MEPC.328(76), the 2021 Revised MARPOL 
-Annex VI, which will enter into force on 1 November 2022, 
-NOTING IN PARTICULAR that the 2021 Revised MARPOL Annex VI  (MARPOL Annex VI)
+SOURCE: MEPC.328%2876%29.pdf
+.2 the operational carbon intensity requirements in accordance with 
+regulations 26, 27 and 28 of this Annex. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 35 - 
+ 
+Regulation 22 
+Attained Energy Efficiency Design Index (attained EEDI) 
+ 
+1 The attained EEDI shall be calculated for: 
+ 
+.1 each new ship; 
+ 
+.2 each new ship which has undergone a major conversion; and 
+ 
+.3 each new or existing ship which has undergone a major conversion that is 
+so extensive that the ship is regarded by the Administration as a newly 
+constructed ship, 
+ 
+which falls into one or more of the categories in regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 
+to 2.2.16, 2.2.20, 2.2.22, and 2.2.26 to 2.2.29 of this Annex. The attained EEDI shall be specific
 
 ---CHUNK---
 
-SOURCE: MEPC.354(78).pdf
-Annex VI, which will enter into force on 1 November 2022, 
-NOTING IN PARTICULAR that the 2021 Revised MARPOL Annex VI  (MARPOL Annex VI) 
-contains amendments concerning mandatory goal-based technical and operational measures 
-to reduce carbon intensity of international shipping, 
-NOTING FURTHER that regulation 28.6 of MARPOL Annex VI requires ships to which this 
-regulation apply to determine operational carbon intensity rating taking into account guidelines 
-developed by the Organization, 
-RECOGNIZING that the aforementioned amendments to MARPOL Annex VI require relevant 
-guidelines for uniform and effective implementation of the regulations and to provide sufficient 
-lead time for industry to prepare, 
-NOTING that, at its seventy -sixth session, the Committee adopted, by resolution 
-MEPC.339(76) the 2021 Guidelines on the operational carbon intensity rating of ships (CII 
-rating guidelines, G4), 
-HAVING CONSIDERED, at its seventy -eighth session, draft 2022 Guidelines on the
+SOURCE: MEPC.328%2876%29.pdf
+which falls into one or more of the categories in regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 
+to 2.2.16, 2.2.20, 2.2.22, and 2.2.26 to 2.2.29 of this Annex. The attained EEDI shall be specific 
+to each ship and shall indicate the estimated performance of the ship in terms of energy 
+efficiency, and be accompanied by the EEDI technical file that contains the information 
+necessary for the calculation of the attained EEDI and that shows the process of calculation. 
+The attained EEDI shall be verified, based on the EEDI technical file, either by the 
+Administration or by any organization duly authorized by it. 
+ 
+2 The attained EEDI shall be calculated taking into account the guidelines develo ped 
+by the Organization. 
+ 
+3 For each ship subject to regulation 24 of this Annex, the Administration or any 
+organization duly authorized by it shall report to the Organization the required and attained
 
 ---CHUNK---
 
-SOURCE: MEPC.354(78).pdf
-MEPC.339(76) the 2021 Guidelines on the operational carbon intensity rating of ships (CII 
-rating guidelines, G4), 
-HAVING CONSIDERED, at its seventy -eighth session, draft 2022 Guidelines on the 
-operational carbon intensity rating of ships (CII rating guidelines, G4), 
-1 ADOPTS the 2022 Guidelines on the operational carbon intensity rating of ships (CII 
-rating guidelines, G4), as set out in the annex to the present resolution; 
-2 INVITES Administrations to take the annexed Guidelines into account when 
-developing and enacting national laws which give force to and implement requirements set 
-forth in regulation 28.6 of MARPOL Annex VI; 
-3 REQUESTS the Parties to MARPOL Annex VI and other Member Governments to 
-bring the annexed Guidelines to the attention of masters, seafarers, shipowners, ship operators 
-and any other interested parties; 
-4 AGREES to keep the Guidelines under review in light of experience gained with their
+SOURCE: MEPC.328%2876%29.pdf
+3 For each ship subject to regulation 24 of this Annex, the Administration or any 
+organization duly authorized by it shall report to the Organization the required and attained 
+EEDI values and relevant information, taking into acco unt the guidelines developed by the 
+Organization, via electronic communication: 
+ 
+.1 within seven months of completing the survey required under regulation 5.4 
+of this Annex; or  
+ 
+.2 within seven months following 1 April 2022 for a ship delivered prior 
+to 1 April 2022. 
+ 
+Regulation 23 
+Attained Energy Efficiency Existing Ship Index (attained EEXI) 
+ 
+1 The attained EEXI shall be calculated for: 
+ 
+.1 each ship; and 
+ 
+.2 each ship which has undergone a major conversion, 
+ 
+which falls into one or more of the categories in regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 
+to 2.2.16, 2.2.22, and 2.2.26 to 2.2.29 of this Annex. The attained EEXI shall be specific to
 
 ---CHUNK---
 
-SOURCE: MEPC.354(78).pdf
-and any other interested parties; 
-4 AGREES to keep the Guidelines under review in light of experience gained with their 
-implementation, of additional data collected and analysed, also taking into consideration that 
-RESOLUTION MEPC.354(78) (adopted on 10 June 2022) 
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4)MEPC 78/17/Add/1 
-Annex 16, page 2 
+SOURCE: MEPC.328%2876%29.pdf
+which falls into one or more of the categories in regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 
+to 2.2.16, 2.2.22, and 2.2.26 to 2.2.29 of this Annex. The attained EEXI shall be specific to 
+each ship and shall indicate the estimated performance of the sh ip in terms of energy 
+efficiency, and be accompanied by the EEXI technical file which contains the information 
+necessary for the calculation of the attained EEXI and which shows the process of the 
+calculation. The attained EEXI shall be verified, based on the EEXI technical file, either by the 
+Administration or by any organization duly authorized by it. 
  
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-in accordance with regulation 28.11 of MARPOL Annex VI a review of the operational measure 
-to reduce carbon intensity of international shipping shall be completed by 1 January 2026; 
+2 The attained EEXI shall be calculated taking into account the guidelines developed 
+by the Organization. 
  
-5 REVOKES the 2021 Guidelines on the operational carbon intensity rating of ships (CII 
-rating guidelines, G4), adopted by resolution MEPC.339(76). 
- 
- 
-  
-RESOLUTION MEPC.354(78) (adopted on 10 June 2022) 
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4)MEPC 78/17/Add/1 
-Annex 16, page 3 
- 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 36 -
 
 ---CHUNK---
 
-SOURCE: MEPC.354(78).pdf
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4)MEPC 78/17/Add/1 
-Annex 16, page 3 
+SOURCE: MEPC.328%2876%29.pdf
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 36 - 
  
+3 Notwithstanding paragraph 1 of this regulation , for each ship to which regulation 22 
+of this Annex applies, the attained EEDI verified by the Administration or by any organization 
+duly authorized by it in accordance with regulation 22.1 of this Annex may be taken as the 
+attained EEXI if the value of the attained EEDI is equal to or less than that of the required EEXI 
+as required by regulation 25 of this Annex. In this case, the attained EEXI shall be verified 
+based on the EEDI technical file. 
  
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-ANNEX 
+Regulation 24 
+Required EEDI 
  
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY  
-RATING OF SHIPS (CII RATING GUIDELINES, G4) 
+1 For each: 
  
+.1 new ship, 
  
-1 Introduction 
+.2 new ship which has undergone a major conversion, and 
  
-1.1 These Guidelines provide the methods to assign operational energy efficiency 
-performance ratings to ships, as referred to in regulation 28 of MARPOL Annex VI.  On this 
-basis, the boundaries for determining a ship's annual operational carbon intensity performance 
-from year 2023 to 2030 are also provided. 
- 
-2 Definitions 
- 
-2.1 MARPOL means the International Convention for the Prevention of Pollution from 
-Ships, 1973, as modified by the Protocols of 1978 and 1997 relating thereto, as amended. 
- 
-2.2 IMO DCS means the data collection system for fuel oil consumption of ships referred 
-to in regulation 27 and related provisions of MARPOL Annex VI.
+.3 new or existing ship which has undergone a major conversion that is so 
+extensive that the ship is regarded by the Administration as a newly 
+constructed ship
 
 ---CHUNK---
 
-SOURCE: MEPC.354(78).pdf
-2.2 IMO DCS means the data collection system for fuel oil consumption of ships referred 
-to in regulation 27 and related provisions of MARPOL Annex VI. 
+SOURCE: MEPC.328%2876%29.pdf
+.3 new or existing ship which has undergone a major conversion that is so 
+extensive that the ship is regarded by the Administration as a newly 
+constructed ship 
  
-2.3 For the purpose of these Guidelines, the definitions in MARPOL Annex VI, as 
-amended, apply.  
+which falls into one of the categories in regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 to 2.2.16, 
+2.2.22, and 2.2.26 to 2.2.29 and to which this chapter is applicable, the attained EEDI shall be 
+as follows: 
+Attained EEDI ≤  Required EEDI = (1 −
+X
+100) ∙  Reference line value  
  
-2.4 Operational carbon intensity rating means to assign a ranking label from among the 
-five grades (A, B, C, D and E) to the ship based on the attained annual ope rational carbon 
-intensity indicator, indicating a major superior, minor superior, moderate, minor inferior, or 
-inferior performance level. 
+where X is the reduction factor specified in table 1 for the required EEDI compared to the EEDI 
+reference line. 
  
-3 Framework of the operational energy efficiency performance rating 
- 
-3.1 An operational energy efficiency performance rati ng should be assigned annually to 
-each ship to which regulation 28 of MARPOL Annex VI applies, in a transparent and robust 
-manner, based on the deviation of the attained annual operational carbon intensity indicator 
-(CII) of a ship from the required value.
+2 For each new and existing ship that has undergone a major conversion which is so 
+extensive that the ship is regarded by the Administration as a newly constructed ship, the 
+attained EEDI shall be calculated and meet the requirement of paragraph 1 of this regulation 
+with the reduction factor applicable corresponding to the ship type and size of the converted
 
 ---CHUNK---
 
-SOURCE: MEPC.354(78).pdf
-manner, based on the deviation of the attained annual operational carbon intensity indicator 
-(CII) of a ship from the required value. 
- 
-3.2 To facilitate the rating assignment, for each year from 2023 to 2030, four boundaries 
-are defined for the five -grade rating mechanism, namely superior boundary, lower boundary, 
-upper boundary, and inferior boundary. Thus, a rating can be assigned through comparing the 
-attained annual operational CII of a ship with the boundary values.  
- 
-3.3 The boundaries are set based on the distribution of CIIs of individ ual ships in 
-year 2019. The appropriate rating boundaries are expected to generate the following results: 
-the middle 30% of individual ships across the fleet segment, in terms of the attained annual 
-operational CIIs, are to be assigned rating C, while the upper 20% and further upper 15% of 
-individuals are to be assigned rating D and E respectively, and the lower 20% and further
-
----CHUNK---
-
-SOURCE: MEPC.354(78).pdf
-operational CIIs, are to be assigned rating C, while the upper 20% and further upper 15% of 
-individuals are to be assigned rating D and E respectively, and the lower 20% and further 
-lower 15% of the individuals are to be assigned rating B and A , respectively, as illustrated 
-in figure 1. 
- 
-RESOLUTION MEPC.354(78) (adopted on 10 June 2022) 
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4)MEPC 78/17/Add/1 
-Annex 16, page 4 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
- 
-Figure 1: Operational energy efficiency performance rating scale 
-3.4 Given the incremental operational carbon intensity reduction factors over time, the 
-boundaries for defining performance ratings should be synchronized accordingly, although the 
-relative distance between the bo undaries should not change. The rating of a ship would be 
-determined by the attained CII and the predetermined rating boundaries, rather than the
-
----CHUNK---
-
-SOURCE: MEPC.354(78).pdf
-relative distance between the bo undaries should not change. The rating of a ship would be 
-determined by the attained CII and the predetermined rating boundaries, rather than the 
-attained CII of other ships. Note that the distribution of ship individual ratings in a specific year 
-may not be always identical with the scenario in 2019, where for example 20% may achieve A, 
-30% may achieve B, 40% may achieve C, 8% may achieve D and 2% may achieve E in a 
-given year. 
- 
-4 Method to determine the rating boundaries 
- 
-4.1 The boundaries can be determi ned by the required annual operational CII in 
-conjunction with the vectors, indicating the direction and distance they deviate from the 
-required value (denoted as  vectors for easy reference), as illustrated in figure 2.  
- 
- 
-Figure 2:  vectors and rating bands 
- 
-4.2 Statistically, the  vectors depend on the distribution of the attained annual 
-operational CII of ships of the type concerned, which can be estimated through a quantile
-
----CHUNK---
-
-SOURCE: MEPC.354(78).pdf
-4.2 Statistically, the  vectors depend on the distribution of the attained annual 
-operational CII of ships of the type concerned, which can be estimated through a quantile 
-regression, taking data collected through DCS in year 2019 as the sample. 
- 
-4.3 The quantile regression model for a specific ship type can be developed as follows: 
- 
-(1) 
- 
-where  is identical with the one used in the operation carbon intensity indicator as 
-specified in the Guidelines on operational carbon intensity indicators and the calculation 
-dd
-dd
-dd
-( ) ( )ln( ) ln( ) ,    {0.15,0.35,0.50,0.65,0.85}ppattained CII c Capacity p= − + =
-Capacity
-RESOLUTION MEPC.354(78) (adopted on 10 June 2022) 
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4)MEPC 78/17/Add/1 
-Annex 16, page 5 
- 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-methods (G1);  is the typical quantile, meaning the proportion of observations with a lower
-
----CHUNK---
-
-SOURCE: MEPC.354(78).pdf
-Annex 16, page 5 
- 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-methods (G1);  is the typical quantile, meaning the proportion of observations with a lower 
-value is ; is the constant term, and  is the error term. 
- 
-4.4 The quantile regression lines in logarithm form are illustrated in Fig.3. 
- 
- 
-Figure 3: Quantile regression lines in logarithm form 
- 
-4.5 Then, the  vectors can be calculated based on the estimates of the intercept ( ), 
-in accordance with Eq.(2), as follows: 
- 
-   (2) 
- 
-4.6 Through an exponential transformation of each  vector, the four boundaries fitted 
-in the original data form can be derived based on the required annual operational carbon 
-intensity indicator ( ), as follows: 
- 
-           (3) 
- 
-Rating boundaries of ship types 
- 
-The estimated   vectors after exponential transformation for determining the rating 
-boundaries of ship types are as follows: 
- 
- 
- 
- 
- 
- 
-p
-%p
-()p
-()p
-dd
-()ˆ p
-(0.15) (0.50)
-1
-(0.35) (0.50)
-2
-(0.65) (0.50)
-3
-(0.85) (0.50)
-4
-ˆ ˆ
-ˆ ˆ
-ˆ ˆ
-
----CHUNK---
-
-SOURCE: MEPC.354(78).pdf
-boundaries of ship types are as follows: 
- 
- 
- 
- 
- 
- 
-p
-%p
-()p
-()p
-dd
-()ˆ p
-(0.15) (0.50)
-1
-(0.35) (0.50)
-2
-(0.65) (0.50)
-3
-(0.85) (0.50)
-4
-ˆ ˆ
-ˆ ˆ
-ˆ ˆ
-ˆ ˆ
-d
-d
-d
-d
-
-
-
-
-=−
-
-=− 
-
-=− 
-=− 
-dd
- required CII
-1
-2
-3
-4
-superior boundary exp( )  
-lower boundary exp( )  
-upper boundary exp( )  
- boundary exp( )  inferior
-d required CII
-d required CII
-d required CII
-d required CII
-= 
-= = 
-= 
-dd
-RESOLUTION MEPC.354(78) (adopted on 10 June 2022) 
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4)MEPC 78/17/Add/1 
-Annex 16, page 6 
- 
-I:\MEPC\78\MEPC 78-17-Add.1.docx 
-Table 1:  vectors for determining the rating boundaries of ship types 
- 
-Ship type 
-Capacity 
-in CII 
-calculation 
-dd vectors  
-(after exponential transformation) 
-exp(d1) exp(d2) exp(d3) exp(d4) 
-Bulk carrier DWT 0.86 0.94 1.06 1.18 
-Gas carrier 
-65,000 DWT and above DWT 0.81 0.91 1.12 1.44 
-less than 65,000 DWT DWT 0.85 0.95 1.06 1.25
-
----CHUNK---
-
-SOURCE: MEPC.354(78).pdf
-exp(d1) exp(d2) exp(d3) exp(d4) 
-Bulk carrier DWT 0.86 0.94 1.06 1.18 
-Gas carrier 
-65,000 DWT and above DWT 0.81 0.91 1.12 1.44 
-less than 65,000 DWT DWT 0.85 0.95 1.06 1.25 
-Tanker DWT 0.82 0.93 1.08 1.28 
-Container ship DWT 0.83 0.94 1.07 1.19 
-General cargo ship DWT 0.83 0.94 1.06 1.19 
-Refrigerated cargo carrier DWT 0.78 0.91 1.07 1.20 
-Combination carrier DWT 0.87 0.96 1.06 1.14 
-LNG carrier 
-100,000 DWT and above 
-DWT 0.89 0.98 1.06 1.13 
-less than 100,000 DWT 0.78 0.92 1.10 1.37 
-Ro-ro cargo ship (vehicle carrier) GT 0.86 0.94 1.06 1.16 
-Ro-ro cargo ship GT 0.76 0.89 1.08 1.27 
-Ro-ro passenger ship GT 0.76 0.92 1.14 1.30 
-Cruise passenger ship  GT 0.87 0.95 1.06 1.16 
- 
-By comparing the attained annual operational CII of a specific ship with the four boundaries, a 
-rating can then be assigned. For example, given the required CII of a bulk carrier in a specific 
-year as 10 gCO 2/(dwt.nmile), then the superior boundary, lower boundary, upper boundary,
-
----CHUNK---
-
-SOURCE: MEPC.354(78).pdf
-rating can then be assigned. For example, given the required CII of a bulk carrier in a specific 
-year as 10 gCO 2/(dwt.nmile), then the superior boundary, lower boundary, upper boundary, 
-and inferior boundary is 8.6, 9.4, 10.6 and 11.8  gCO2/(dwt.nmile). If the attained CII 
-is 9 gCO2/(dwt.nmile), the ship would be rated as ʺBʺ. 
- 
- 
-***
-dd
-RESOLUTION MEPC.354(78) (adopted on 10 June 2022) 
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4)RESOLUTION MEPC.354(78) (adopted on 10 June 2022) 
-2022 GUIDELINES ON THE OPERATIONAL CARBON INTENSITY 
-RATING OF SHIPS (CII RATING GUIDELINES, G4)
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-Resolution A.1069(28) 
-Adopted on 29 November 2013  (Agenda item 7) 
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEA 
-I:\ASSEMBLY\28\RES\1069.doc 
- 
- 
- 
-E 
- 
- 
-ASSEMBLY 
-28th session  
-Agenda item 7 
- 
-A 28/Res.1069 
-5 February 2014 
- Original:  ENGLISH 
- 
-Resolution A.1069(28) 
- 
-Adopted on 29 November 2013
-(Agenda item 7) 
- 
-PREVENTION AND SUPPRESSION OF PIRACY1, ARMED ROBBERY AGAINST SHIPS2 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEA 
- 
-THE ASSEMBLY, 
- 
-RECALLING Article 15(j) of the Convention on the International Maritime Organization 
-concerning the functions of the Assembly in relation to regulations and guidelines concerning 
-maritime safety and the prevention and control of marine pollution from ships, 
- 
-CONSIDERING the relevant provisions of United Nations General Assembly resolution 55/2, 
-adopted on 8 September 2000, on the United Nations Millennium Declaration and, in
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-CONSIDERING the relevant provisions of United Nations General Assembly resolution 55/2, 
-adopted on 8 September 2000, on the United Nations Millennium Declaration and, in 
-particular, section II on Peace, security and disarmament; section III on Development and 
-poverty eradication; section IV on Protecting our common environment; and section VII on 
-Meeting the special needs of Africa, 
- 
-                                                
-1  "Piracy" is defined in article 101 of the United Nations Convention on the Law of the Sea as follows: 
- 
-"Piracy consists of any of the following acts: 
- 
- (a) any illegal acts of violence or detention, or any act of depredation, committed for private ends by 
-the crew or the passengers of a private ship or a private aircraft, and directed: 
- 
-(i) on the high seas, against another ship or aircraft, or against persons or property on board 
-such ship or aircraft;
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-(i) on the high seas, against another ship or aircraft, or against persons or property on board 
-such ship or aircraft; 
- 
- (ii) against a ship, aircraft, persons or property in a place outside the jurisdiction of any State; 
- 
- (b) any act of voluntary participation in the operation of a ship or of an aircraft with knowledge of facts 
-making it a pirate ship or aircraft; 
- 
- (c) any act of inciting or of intentionally facilitating an act described in subparagraph (a) or (b)." 
- 
-2  "Armed robbery against ships" is defined in the Code of Practice for the Investigation of Crimes of Piracy 
-and Armed Robbery Against Ships (resolution A.1025(26), annex, paragraph 2.2), as follows: 
- 
- "Armed robbery against ships means any of the following acts: 
- 
-.1 any illegal act of violence or detention or any act of depredation, or threat thereof, other than an act 
-of "piracy", committed for private ends and directed against a ship or against persons or property on
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-of "piracy", committed for private ends and directed against a ship or against persons or property on 
-board such ship, within a State's internal waters, archipelagic waters and territorial sea; 
- 
- .2 any act of inciting or of intentionally facilitating an act described above." 
-Resolution A.1069(28) 
-Adopted on 29 November 2013  (Agenda item 7) 
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEAA 28/Res.1069 
-Page 2 
- 
-I:\ASSEMBLY\28\RES\1069.doc 
-CONSIDERING ALSO the initiatives of the Zone of Peace and Cooperation in the South 
-Atlantic, established by United Nations General Assembly resolution 41/11 and, in particular, 
-the Declaration of the Seventh Ministerial Meeting of "the Zone" held in Montevideo 
-on 15 and 16 January 2013, which stressed the need to continue to preserve the South 
-Atlantic region free from the scourge of war, the instability of conflict, drug trafficking and 
-piracy,
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-on 15 and 16 January 2013, which stressed the need to continue to preserve the South 
-Atlantic region free from the scourge of war, the instability of conflict, drug trafficking and 
-piracy, 
- 
-FURTHER CONSIDERING the relevant provisions of the African Maritime Transport Charter 
-adopted in Kampala, Uganda in July 2010 by Heads of State and Government of the African 
-Union,   
- 
-NOTING WITH APPRECIATION the actions taken by the Security Council of the 
-United Nations ("the Security Council") and, in particular, the adoption of Security Council 
-resolutions 2018 (2011) and 2039 (2012) in relation to piracy and armed robbery in the 
-Gulf of Guinea, which, inter alia, welcomed the intention to convene a summit of Gulf of 
-Guinea Heads of State in order to consider a comprehensive response in the region and 
-encouraged the States of the Economic Community of Central African States (ECCAS), the 
-Economic Community of West African States (ECOWAS) and the Gulf of Guinea
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-encouraged the States of the Economic Community of Central African States (ECCAS), the 
-Economic Community of West African States (ECOWAS) and the Gulf of Guinea 
-Commission (GGC) to develop a comprehensive strategy, including through:  
- 
-(a)  the development of domestic laws and regulations, where these are not in 
-place, criminalizing piracy and armed robbery at sea;  
- 
-(b)  the development of a regional framework to counter piracy and armed 
-robbery at sea, including information-sharing and operational coordination 
-mechanisms in the region; and  
- 
-(c)  the development and strengthening of domestic laws and regulations, as 
-appropriate, to implement relevant international agreements addressing the 
-safety and security of navigation, in accordance with international law, 
- 
-NOTING IN PARTICULAR that resolution 2039 (2012) recognized the urgent need to devise 
-and adopt effective and practical measures to counter piracy and armed robbery at sea in the
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-NOTING IN PARTICULAR that resolution 2039 (2012) recognized the urgent need to devise 
-and adopt effective and practical measures to counter piracy and armed robbery at sea in the 
-Gulf of Guinea; reiterated the leadership role and responsibility of States in the region in 
-countering the threat and addressing the underlying causes of piracy and armed robbery at 
-sea in the Gulf of Guinea, in close cooperation with organizations in the region and their 
-partners; emphasized the importance of building on existing national, regional and 
-extra-regional initiatives to enhance maritime safety and security in the Gulf of Guinea; and 
-welcomed the initiatives already taken by States in the region and regional organizations, 
-including ECCAS, ECOWAS, GGC, and the Maritime Organisation for West and Central 
-Africa (MOWCA), to enhance maritime safety and security in the Gulf of Guinea,  
- 
-RECALLING that, since 2006, the Organization has cooperated with MOWCA to promote the
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-Africa (MOWCA), to enhance maritime safety and security in the Gulf of Guinea,  
- 
-RECALLING that, since 2006, the Organization has cooperated with MOWCA to promote the 
-concept of an "integrated coast guard function network", pursuant to which 15 out of 20 
-coastal Member States of MOWCA have signed a Memorandum of Understanding on the 
-establishment of a subregional integrated coast guard network in west and central Africa, 
-which sets out a strategy for enhancing maritime security in its widest sense and encourages 
-a multi-agency approach to maritime law enforcement including countering trafficking, border 
-control, maritime safety, security and protection of the marine environment, 
- 
-NOTING WITH APPRECIATION that on 25 June 2013 Governments from ECCAS, 
-ECOWAS and GGC countries concluded the Code of Conduct concerning the repression of 
-piracy, armed robbery against ships and illicit maritime activity in west and central Africa, 
-which has been adopted by 25 States,
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-piracy, armed robbery against ships and illicit maritime activity in west and central Africa, 
-which has been adopted by 25 States, 
-Resolution A.1069(28) 
-Adopted on 29 November 2013  (Agenda item 7) 
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEAA 28/Res.1069 
-Page 3 
- 
-I:\ASSEMBLY\28\RES\1069.doc 
-NOTING ALSO that the General Assembly of the United Nations, at its sixty-seventh 
-session, adopted, on 11 December 2012, resolution 67/78 on Oceans and the Law of the 
-Sea which, inter alia: 
- 
-(a) Noted with concern the continuing problem of transnational organized crime 
-committed at sea, including illicit traffic in narcotic drugs and psychotropic 
-substances, the smuggling of migrants and trafficking in persons, and 
-threats to maritime safety and security, including piracy, armed robbery at 
-sea, smuggling and terrorist acts against shipping, offshore installations
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-threats to maritime safety and security, including piracy, armed robbery at 
-sea, smuggling and terrorist acts against shipping, offshore installations 
-and other maritime interests, and deplored the loss of life and adverse 
-impact on international trade, energy security and the global economy 
-resulting from such activities; 
- 
-(b) Recognized the crucial role of international cooperation at the global, 
-regional, subregional, and bilateral levels in combating, in accordance with 
-international law, threats to maritime security, including piracy, armed 
-robbery at sea, terrorist acts against shipping, offshore installations and 
-other maritime interests, through bilateral and multilateral instruments and 
-mechanisms aimed at monitoring, preventing and responding to such 
-threats, the enhanced sharing of information among States relevant to the 
-detection, prevention and suppression of such threats and the prosecution
-
----CHUNK---
-
-SOURCE: A.1069(28).pdf
-threats, the enhanced sharing of information among States relevant to the 
-detection, prevention and suppression of such threats and the prosecution 
-of offenders, with due regard to national legislation, and the need to 
-sustainably build capacity which permits the attainment of these objectives; 
+SOURCE: MEPC.328%2876%29.pdf
+attained EEDI shall be calculated and meet the requirement of paragraph 1 of this regulation 
+with the reduction factor applicable corresponding to the ship type and size of the converted 
+ship at the date of the contract of the conversion, or in the absence of a contract, the 
+commencement date of the conversion. 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 37 - 
+ 
+Table 1 - Reduction factors (in percentage) for the EEDI relative to the EEDI reference 
+line 
+ 
+Ship Type Size 
+Phase 0 
+1 Jan 
+2013 – 
+31 Dec 
+2014 
+Phase 1 
+1 Jan 
+2015 – 
+31 Dec 
+2019 
+Phase 2 
+1 Jan 
+2020 – 
+31 Mar 
+2022 
+Phase 2 
+1 Jan 
+2020 – 
+31 Dec 
+2024 
+Phase 3 
+1 Apr 
+2022 
 and 
- 
-(c) Recognized the importance of enhancing international cooperation at all 
-levels to fight transnational organized criminal activities, including illicit 
-traffic in narcotic drugs and psychotropic substances within the scope of the 
-United Nations instruments against illicit drug trafficking, as well as the 
-smuggling of migrants and trafficking in persons, illicit trafficking in firearms 
-and criminal activities at sea falling within the scope of the United Nations 
-Convention against Transnational Organized Crime,  
- 
-RECALLING article 100 of the United Nations Convention on the Law of the Sea (UNCLOS),
+onwards 
+Phase 3 
+1 Jan 
+2025 
+and 
+onwards 
+Bulk carrier 
+20,000 DWT 
+and above 0 10  20  30 
+10,000 and 
+above but less 
+than 20,000 
+DWT 
+n/a 0-10*
 
 ---CHUNK---
 
-SOURCE: A.1069(28).pdf
-Convention against Transnational Organized Crime,  
+SOURCE: MEPC.328%2876%29.pdf
+31 Dec 
+2024 
+Phase 3 
+1 Apr 
+2022 
+and 
+onwards 
+Phase 3 
+1 Jan 
+2025 
+and 
+onwards 
+Bulk carrier 
+20,000 DWT 
+and above 0 10  20  30 
+10,000 and 
+above but less 
+than 20,000 
+DWT 
+n/a 0-10* 
  
-RECALLING article 100 of the United Nations Convention on the Law of the Sea (UNCLOS), 
-which requires all States to cooperate to the fullest possible extent in the repression of piracy 
-on the high seas or in any other place outside the jurisdiction of any State, 
+0-20*  0-30* 
+Gas carrier 
+15,000 DWT 
+and above 0 10 20  30  
+10,000 and 
+above but less 
+than 15,000 
+DWT 
+0 10 
  
-RECALLING FURTHER article 105 of UNCLOS, which, inter alia, provides that, on the high 
-seas or in any other place outside the jurisdiction of any State, every State may seize a 
-pirate ship or aircraft, or a ship or aircraft taken by piracy and under the control of pirates, 
-and arrest the persons and seize the property on board, 
+20  30 
+2,000 and 
+above but less 
+than 10,000 
+DWT 
+n/a 0-10* 
  
-REAFFIRMING: 
+0-20*  0-30* 
+Tanker 
+20,000 DWT 
+and above 0 10  20  30 
+4,000 and 
+above but less 
+than 20,000 
+DWT 
+n/a 0-10* 
  
-(a) resolution A.545(13) on Measures to prevent acts of piracy and armed 
-robbery against ships, adopted on 17 November 1983; 
- 
-(b) resolution A.683(17) on Prevention and suppression of acts of piracy and 
-armed robbery against ships, adopted on 6 November 1991;
+0-20*  0-30* 
+Containership 
+200,000 DWT 
+and above 0 10 20  50  
+120,000 and 
+above but less 
+than 200,000 
+DWT 
+0 10 
+20 
+ 45  
+80,000 and 
+above but less 
+than 120,000 
+DWT 
+0 10 20  40  
+40,000 and 
+above but less 
+than 80,000 
+DWT 
+0 10 20  35  
+15,000 and 
+above but less 
+than 40,000 
+DWT 
+0 10 20  30  
+10,000 and 
+above but less 
+than 15,000 
+DWT 
+n/a 0-10* 0-20*  15-30*  
+General 
+Cargo ships 
+15,000 DWT 
+and above 0 10 15  30  
+RESOLUTION MEPC.328(76)
 
 ---CHUNK---
 
-SOURCE: A.1069(28).pdf
-robbery against ships, adopted on 17 November 1983; 
+SOURCE: MEPC.328%2876%29.pdf
+than 40,000 
+DWT 
+0 10 20  30  
+10,000 and 
+above but less 
+than 15,000 
+DWT 
+n/a 0-10* 0-20*  15-30*  
+General 
+Cargo ships 
+15,000 DWT 
+and above 0 10 15  30  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 38 - 
  
-(b) resolution A.683(17) on Prevention and suppression of acts of piracy and 
-armed robbery against ships, adopted on 6 November 1991; 
+Ship Type Size 
+Phase 0 
+1 Jan 
+2013 – 
+31 Dec 
+2014 
+Phase 1 
+1 Jan 
+2015 – 
+31 Dec 
+2019 
+Phase 2 
+1 Jan 
+2020 – 
+31 Mar 
+2022 
+Phase 2 
+1 Jan 
+2020 – 
+31 Dec 
+2024 
+Phase 3 
+1 Apr 
+2022 
+and 
+onwards 
+Phase 3 
+1 Jan 
+2025 
+and 
+onwards 
+3,000 and 
+above but less 
+than 15,000 
+DWT 
+n/a 0-10* 0-15*  0-30*  
+Refrigerated 
+cargo carrier 
+5,000 DWT 
+and above 0 10  15  30 
+3,000 and 
+above but less 
+than 5,000 
+DWT 
+n/a 0-10* 
  
-(c) resolution A.738(18) on Measures to prevent and suppress piracy and 
-armed robbery against ships, adopted on 4 November 1993; 
+0-15*  0-30* 
+Combination 
+carrier 
+20,000 DWT 
+and above 0 10  20  30 
+4,000 and 
+above but less 
+than 20,000 
+DWT 
+n/a 0-10* 
  
-Resolution A.1069(28) 
-Adopted on 29 November 2013  (Agenda item 7) 
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEAA 28/Res.1069 
-Page 4 
- 
-I:\ASSEMBLY\28\RES\1069.doc 
-(d) resolution A.923(22) on Measures to prevent the registration of "phantom" 
-ships, adopted on 29 November 2001; and 
- 
-(e) resolution A.1025(26) on Code of Practice for the Investigation of the Crimes 
-of Piracy and Armed Robbery against Ships, adopted on 2 December 2009, 
- 
-NOTING with satisfaction the actions taken by the Council, the Legal Committee, the
+0-20*  0-30* 
+LNG 
+carrier*** 
+10,000 DWT
 
 ---CHUNK---
 
-SOURCE: A.1069(28).pdf
-of Piracy and Armed Robbery against Ships, adopted on 2 December 2009, 
+SOURCE: MEPC.328%2876%29.pdf
+DWT 
+n/a 0-10* 
  
-NOTING with satisfaction the actions taken by the Council, the Legal Committee, the 
-Maritime Safety Committee, the Technical Cooperation Committee, the Facilitation 
-Committee and the Secretary-General aiming at preventing and suppressing acts of piracy 
-and armed robbery against ships, 
+0-15*  0-30* 
+Combination 
+carrier 
+20,000 DWT 
+and above 0 10  20  30 
+4,000 and 
+above but less 
+than 20,000 
+DWT 
+n/a 0-10* 
  
-BEING AWARE of the serious safety and security concerns of the shipping industry and the 
-seafaring community as a result of the attacks against ships sailing in the Gulf of Guinea, 
- 
-MINDFUL OF the grave danger to life and the serious risks to navigational safety and the 
-environment that attacks by pirates, armed robbers and other criminals may cause, 
- 
-REITERATING its full respect for the sovereignty, sovereign rights, jurisdiction and territorial 
-integrity of all States and the relevant provisions of international law, in particular UNCLOS,
+0-20*  0-30* 
+LNG 
+carrier*** 
+10,000 DWT 
+and above n/a 10** 20  30  
+Ro-ro cargo 
+ship (vehicle 
+carrier)*** 
+10,000 DWT 
+and above n/a 5**  15  30 
+Ro-ro cargo 
+ship*** 
+2,000 DWT 
+and above n/a 5**  20  30 
+1,000 and 
+above but less 
+than 2,000 
+DWT 
+n/a 0-5*,**  0-20*  0-30* 
+Ro-ro 
+passenger 
+ship*** 
+1,000 DWT 
+and above n/a 5**  20  30 
+250 and above 
+but less than 
+1,000 DWT 
+n/a 0-5*,**  0-20*  0-30* 
+Cruise 
+passenger 
+ship*** 
+having  
+non-
+conventional 
+propulsion 
+85,000 GT 
+and above n/a 5** 20  30  
+25,000 and 
+above but less 
+than 85,000 
+GT 
+n/a 0-5*,** 0-20*  0-30*  
+* Reduction factor to be linearly interpolated between the two values dependent 
+upon ship size. The  lower value of the reduction factor is to be applied to the 
+smaller ship size. 
+** Phase 1 commences for those ships on 1 September 2015.
 
 ---CHUNK---
 
-SOURCE: A.1069(28).pdf
-REITERATING its full respect for the sovereignty, sovereign rights, jurisdiction and territorial 
-integrity of all States and the relevant provisions of international law, in particular UNCLOS, 
+SOURCE: MEPC.328%2876%29.pdf
+upon ship size. The  lower value of the reduction factor is to be applied to the 
+smaller ship size. 
+** Phase 1 commences for those ships on 1 September 2015. 
+*** Reduction factor applies to those ships delivered on or after 1 September 2019, 
+as defined in paragraph 2.1 of regulation 2. 
+ Note:  n/a means that no required EEDI applies. 
  
-HAVING CONSIDERED, in the light of the situation prevailing in the Gulf of Guinea, the 
-recommendations of the Council at its twenty-seventh extraordinary session,  
+  
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 39 - 
  
-1 CONDEMNS AND DEPLORES piracy, armed robbery against ships and other illicit 
-maritime activity, irrespective of where such acts have occurred or may occur; 
+3 The reference line values shall be calculated as follows: 
  
-2 EXPRESSES deep sympathy for the loss of seafarers during attacks and while in 
-captivity; for their plight while held hostage in appalling conditions; and for their families; 
+Reference line value = a · b−c 
  
-3 ACKNOWLEDGES the leadership role and responsibility of the States of the Gulf of 
-Guinea to counter piracy, armed robbery against ships and illicit activity in their region; 
+where a, b and c are the parameters given in table 2. 
  
-4 APPEALS to States in the region, in close cooperation with international and
+Table 2 - Parameters for the determination of reference values for the different ship types 
+ 
+Ship type defined in regulation 2 a b c 
+2.2.5 Bulk carrier 961.79 DWT of the ship 
+where 
+DWT≤279,000 
+ 
+279,000 where 
+DWT > 279,000 
+0.477
 
 ---CHUNK---
 
-SOURCE: A.1069(28).pdf
-Guinea to counter piracy, armed robbery against ships and illicit activity in their region; 
+SOURCE: MEPC.328%2876%29.pdf
+Ship type defined in regulation 2 a b c 
+2.2.5 Bulk carrier 961.79 DWT of the ship 
+where 
+DWT≤279,000 
  
-4 APPEALS to States in the region, in close cooperation with international and 
-regional organizations, to take all measures possible within the provisions of international 
-law, to ensure that: 
+279,000 where 
+DWT > 279,000 
+0.477 
+2.2.7 Combination carrier 1,219.00 DWT of the ship 0.488 
+2.2.9 Containership 174.22 DWT of the ship 0.201 
+2.2.11 Cruise passenger ship 
+having non-conventional 
+propulsion 
+170.84 GT of the ship 0.214 
+2.2.14 Gas carrier 1,120.00 DWT of the ship 0.456 
+2.2.15 General cargo ship 107.48 DWT of the ship 0.216 
+2.2.16 LNG carrier 2,253.7 DWT of the ship 0.474 
+2.2.22 Refrigerated cargo carrier 227.01 DWT of the ship 0.244 
+2.2.26 Ro-ro cargo ship 1405.15 DWT of the ship  
  
-(a) all acts or attempted acts of piracy, armed robbery against ships and other 
-illicit maritime activities are terminated forthwith and any plans for 
-committing such acts are also forthwith abandoned; and 
  
-(b) any hijacked ships, kidnapped seafarers held on them and any other 
-persons on board such ships are immediately and unconditionally released 
-and that no harm is caused to them; 
+0.498 
+1686.17* DWT of the ship 
+where 
+DWT≤17,000* 
  
-5 URGES Governments to cooperate with and assist States in the Gulf of Guinea to 
-develop their national and regional capabilities to improve maritime governance in waters 
-under their jurisdiction; to prevent, within the provisions of international law, piracy, armed
+17,000 where 
+DWT > 17,000* 
+2.2.27 Ro -ro cargo ship (vehicle 
+carrier) 
+(DWT/GT)-
+0.7 · 780.36 
+where DWT/GT < 0.3 
+1,812.63 
+where DWT/GT ≥ 0.3 
+DWT of the ship  
+ 
+0.471 
+2.2.28 Ro-ro passenger ship 752.16 DWT of the ship  
+ 
+ 
+0.381 
+902.59* DWT of the ship 
+where 
+DWT≤10,000* 
+ 
+10,000 where 
+DWT > 10,000*
 
 ---CHUNK---
 
-SOURCE: A.1069(28).pdf
-develop their national and regional capabilities to improve maritime governance in waters 
-under their jurisdiction; to prevent, within the provisions of international law, piracy, armed 
-robbery against ships and other illicit maritime activities; and to assist States to build capacity 
-to interdict and bring to justice those who commit crimes.   Such assistance might include 
-strengthening of the legal frameworks, including anti-piracy laws and enforcement 
-regulations; the training of national maritime law enforcement agencies; promoting anti-piracy 
-and law enforcement coordination and cooperation procedures between and among States, 
-regions, organizations and industry; and the sharing of information; 
+SOURCE: MEPC.328%2876%29.pdf
+1,812.63 
+where DWT/GT ≥ 0.3 
+DWT of the ship  
  
-Resolution A.1069(28) 
-Adopted on 29 November 2013  (Agenda item 7) 
-PREVENTION AND SUPPRESSION OF PIRACY(1), ARMED ROBBERY AGAINST SHIPS(2) 
-AND ILLICIT MARITIME ACTIVITY IN THE GULF OF GUINEAA 28/Res.1069 
-Page 5 
+0.471 
+2.2.28 Ro-ro passenger ship 752.16 DWT of the ship  
  
-I:\ASSEMBLY\28\RES\1069.doc
+ 
+0.381 
+902.59* DWT of the ship 
+where 
+DWT≤10,000* 
+ 
+10,000 where 
+DWT > 10,000* 
+2.2.29 Tanker 1,218.80 DWT of the ship 0.488 
+*  to be used from phase 2 and thereafter. 
+ 
+4 If the design of a ship allows it to fall into more than one of the ship type definitions 
+specified in table 2, the required EEDI for the ship shall be the most stringent (the lowest) 
+required EEDI. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 40 - 
+ 
+5 For each ship to which this regulation applies, the installed propulsion power shall not 
+be less than the propulsion power needed to maintain the manoeuvrability of the ship under 
+adverse conditions as defined in the guidelines to be developed by the Organization.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+be less than the propulsion power needed to maintain the manoeuvrability of the ship under 
+adverse conditions as defined in the guidelines to be developed by the Organization. 
+ 
+6 At the beginning of phase 1 and at the midpoint of phase 2, the Organization shall 
+review the status of technological developments and, if proven necessary, amend the time 
+periods, the EEDI reference line parameters for relevant ship types and reduction rates set out 
+in this regulation. 
+ 
+Regulation 25 
+Required EEXI 
+ 
+1 For: 
+ 
+.1 each ship; and 
+ 
+.2 each ship which has undergone a major conversion 
+ 
+which falls into one of the categories in regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 to 2.2.16, 
+2.2.22, and 2.2.26 to 2.2.29 and to which this chapter is applicable, the attained EEXI shall be 
+as follows: 
+ 
+Attained EEXI ≤  Required EEXI = (1 −
+Y
+100) •  EEDI reference line value  
+ 
+ 
+where Y is the reduction factor specified in Table 3 for the required EEXI compared to the EEDI
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+as follows: 
+ 
+Attained EEXI ≤  Required EEXI = (1 −
+Y
+100) •  EEDI reference line value  
+ 
+ 
+where Y is the reduction factor specified in Table 3 for the required EEXI compared to the EEDI 
+reference line. 
+ 
+Table 3 - Reduction factors (in percentage) for the EEXI relative to the EEDI reference 
+line 
+ 
+Ship type Size Reduction factor 
+Bulk carrier 
+200,000 DWT and  
+above 15 
+20,000 and above but less 
+than 200,000 DWT 20 
+10,000 and above but less 
+than 20,000 DWT 0-20* 
+Gas carrier 
+15,000 DWT and  
+above 30 
+10,000 and above but less 
+than 15,000 DWT 20 
+2,000 and above but less 
+than 10,000 DWT 0-20* 
+Tanker 
+200,000 DWT and  
+above 15 
+20,000 and above but less 
+than 200,000 DWT 20 
+4,000 and above but less 
+than 20,000 DWT 
+0-20* 
+ 
+  
+Containership 200,000 DWT  and above 50 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Containership 200,000 DWT  and above 50 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 41 - 
+ 
+Ship type Size Reduction factor 
+120,000 and above but 
+less than 200,000 DWT 45 
+80,000 and above but less 
+than 120,000 DWT 35 
+40,000 and above but less 
+than 80,000 DWT 30 
+15,000 and above but less 
+than 40,000 DWT 20 
+10,000 and above but less 
+than 15,000 DWT 0-20* 
+General cargo ship 
+15,000 DWT and  
+above 30 
+3,000 and above but less 
+than 15,000 DWT 0-30* 
+Refrigerated cargo carrier 
+5,000 DWT and  
+above 15 
+3,000 and above but less 
+than 5,000 DWT 0-15* 
+Combination carrier 
+20,000 DWT and  
+above 20 
+4,000 and above but less 
+than 20,000 DWT 0-20* 
+LNG carrier 10,000 DWT and  above 30 
+Ro-ro cargo ship (vehicle 
+carrier) 
+10,000 DWT and  
+above 15 
+Ro-ro cargo ship 
+2,000 DWT and  
+above 5
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+4,000 and above but less 
+than 20,000 DWT 0-20* 
+LNG carrier 10,000 DWT and  above 30 
+Ro-ro cargo ship (vehicle 
+carrier) 
+10,000 DWT and  
+above 15 
+Ro-ro cargo ship 
+2,000 DWT and  
+above 5 
+1,000 and above but less 
+than 2,000 DWT 0-5* 
+Ro-ro passenger ship 
+1,000 DWT and  
+above 5 
+250 and above but less 
+than 1,000 DWT 0-5* 
+Cruise passenger ship 
+having non-conventional 
+propulsion 
+85,000 GT 
+and above 30 
+25,000 and above but less 
+than 85,000 GT 0-30* 
+ 
+* Reduction factor to be linearly interpolated between the two values dependent 
+upon ship size. 
+  
+ The lower value of the reduction factor is to be applied to the smaller ship size. 
+ 
+2 The EEDI reference line values shall be calculated in accordance with 
+regulations 24.3 and 24.4 of this Annex. For ro-ro cargo ships and ro-ro passenger ships, the 
+reference line value to be used from phase 2 and thereafter under regulation 24.3 of this Annex 
+shall be referred to.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+reference line value to be used from phase 2 and thereafter under regulation 24.3 of this Annex 
+shall be referred to. 
+ 
+3 A review shall be completed by 1 January 2026 by the Organization to assess the 
+effectiveness of this regulation  taking into account any guidelines developed by the 
+Organization. If, based on the review, the Parties decide to adopt amendments to this 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 42 - 
+ 
+regulation, such amendments shall be adopted and brought into force in accordance with the 
+provisions of article 16 of the present Convention. 
+ 
+Regulation 26 
+Ship Energy Efficiency Management Plan (SEEMP) 
+ 
+1 Each ship shall keep on board a ship specific Ship Energy Efficiency Management 
+Plan (SEEMP). This may form part of the ship 's Safety Management System (SMS).
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+1 Each ship shall keep on board a ship specific Ship Energy Efficiency Management 
+Plan (SEEMP). This may form part of the ship 's Safety Management System (SMS). 
+The SEEMP shall be developed and reviewed, taking into account the guidelines adopted by 
+the Organization. 
+ 
+2 In the case of a ship of 5,000 gross tonnage and above, the SEEMP shall include a 
+description of the methodology that will be used to collect the data required by regulation 27.1 
+of this Annex and the processes that will be used to report the data to the ship's Administration. 
+ 
+3 In the case of a ship of 5,000 gross tonnage and above, which falls into one or more 
+of the categories in regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 to 2.2.16, 2.2.22, and 2.2.26 
+to 2.2.29 of this Annex: 
+ 
+.1 On or before 1 January 2023 the SEEMP shall include: 
+ 
+.1 a description of the methodology that will be used to calculate the 
+ship's attained annual o perational CII required by regulation 28 of
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.1 a description of the methodology that will be used to calculate the 
+ship's attained annual o perational CII required by regulation 28 of 
+this Annex and the processes that will be used to report this value 
+to the ship's Administration;  
+ 
+.2 the required annual operational CII, as specified in regulation 28 of 
+this Annex, for the next three years; 
+ 
+.3 an implementation plan documenting how the required annual 
+operational CII will be achieved during the next three years; and 
+ 
+.4 a procedure for self-evaluation and improvement. 
+ 
+.2 For a ship rated as D for three consecutive years or rated as E in accordance 
+with regulation 28 of this Annex, the SEEMP shall be reviewed in accordance 
+with regulation 28.8 of this Annex  to include a plan of corrective actions to 
+achieve the required annual operational CII. 
+ 
+.3 The SEEMP shall be subject to verification and company audits taking into 
+account the guidelines to be developed by the Organization. 
+ 
+Regulation 27
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+.3 The SEEMP shall be subject to verification and company audits taking into 
+account the guidelines to be developed by the Organization. 
+ 
+Regulation 27 
+Collection and reporting of ship fuel oil consumption data 
+ 
+1 From calendar year 2019, each ship of 5,000 gross tonnage and above shall collect 
+the data specified in appendix IX to this Annex, for that and each subsequent calendar year or 
+portion thereof, as appropriate according to the methodology included in the SEEMP. 
+ 
+2 Except as provided for in paragraphs 4, 5 and 6 of this regulation, at the end of each 
+calendar year, the ship shall aggregate the data collected in that calendar year or portion 
+thereof, as appropriate. 
+ 
+3 Except as provided for in paragraphs 4, 5 and 6 of this regulation, within three months 
+after the end of each calendar year, the ship shall report to its Administration or any 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+after the end of each calendar year, the ship shall report to its Administration or any 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 43 - 
+ 
+organization duly authorized by it, the aggregated value for each datum specified in appendix 
+IX to this Annex, via electronic communication and using a standardized format to be 
+developed by the Organization. 
+ 
+4 In the event of the transfer of a ship from one Administration to another, the ship shall 
+on the day of completion of the transfer or as close as practical thereto report to the losing 
+Administration or any organization duly authorized by it 41, the aggregated data for the period 
+of the calendar year corresponding to that Administration, as specified in appendix IX to this 
+Annex and, upon prior request of that Administration, the disaggregated data.
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+of the calendar year corresponding to that Administration, as specified in appendix IX to this 
+Annex and, upon prior request of that Administration, the disaggregated data. 
+ 
+5 In the event of a change from one company to another, the ship shall on the day of 
+completion of the change or as close as practical thereto report to its Administration or any 
+organization duly authorized by it, the aggregated data for the portion of the calendar year 
+corresponding to the company, as specified in appendix IX to this Annex and, upon request of 
+its Administration, the disaggregated data. 
+ 
+6 In the event of change from one Administration to another and from one company to 
+another concurrently, paragraph 4 of this regulation shall apply. 
+ 
+7 The data shall be verified according to procedures established by the Administration, 
+taking into account the guidelines developed by the Organization. 
+ 
+8 Except as provided for in paragraphs 4, 5 and 6 of this regulation, the disaggregated
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+taking into account the guidelines developed by the Organization. 
+ 
+8 Except as provided for in paragraphs 4, 5 and 6 of this regulation, the disaggregated 
+data that underlies the reported data noted in appendix IX to this Annex for the previous 
+calendar year shall be readily accessible for a period of not less than 12 months from the end 
+of that calendar year and be made available to the Administration upon request. 
+ 
+9 The Administration shall ensure that the reported data noted in appendix IX to this 
+Annex by its registered ships of 5,000 gross tonnage and above are transferred to the IMO 
+Ship Fuel Oil Consumption Database via electronic communication and using a standardized 
+format to be developed by the Organization not later than one month after issuing the 
+Statements of Compliance of these ships. 
+ 
+10 On the basis of the reported data submitted to the IMO Ship Fuel Oil Consumption
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+Statements of Compliance of these ships. 
+ 
+10 On the basis of the reported data submitted to the IMO Ship Fuel Oil Consumption 
+Database, the Secretary -General of the Organization shall produce an annual report to the 
+Marine Environment Protection Committee summarizing the data collected, the status of 
+missing data, and such other relevant information as may be requested by the Committee. 
+ 
+11  The Secretary-General of the Organization shall grant the Administration of a ship to 
+which regulation 28 of this Annex applies access to all the reported data for all the pre ceding 
+calendar year in the IMO Ship Fuel Oil Consumption Database for that ship. 
+ 
+12 The Secretary-General of the Organization shall maintain an anonymized database 
+such that identification of a specific ship will not be possible. Parties shall have acces s to the 
+anonymized data strictly for their analysis and consideration. 
+ 
+13 The IMO Ship Fuel Oil Consumption Database shall be undertaken and managed by
+
+---CHUNK---
+
+SOURCE: MEPC.328%2876%29.pdf
+anonymized data strictly for their analysis and consideration. 
+ 
+13 The IMO Ship Fuel Oil Consumption Database shall be undertaken and managed by 
+the Secretary -General of the Organization, pursuant to guidelines to be developed by the 
+Organization. 
+ 
+RESOLUTION MEPC.328(76) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 44 - 
+ 
+Regulation 28 
+Operational carbon intensity 
+ 
+Attained annual operational carbon intensity indicator (attained annual operational CII) 
+ 
+1 After the end of calendar year 2023 and after the end of each following calendar year, 
+each ship of 5,000 gross tonnage and above which falls into one or more of the categories in 
+regulations 2.2.5, 2.2.7, 2.2.9, 2.2.11, 2.2.14 to 2.2.16, 2.2.22, and 2.2.26 to 2.2.29 of this 
+Annex shall calculate the attained annual operational CII over a 12 -month period from
