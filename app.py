@@ -39,7 +39,7 @@ def get_gemini_client():
     try:
         from google import genai
         api_key = st.secrets.get("GEMINI_API_KEY") or os.environ.get("GEMINI_API_KEY")
-        if not api_key: return None, False, "No API Key in Secrets"
+        if not api_key: return None, False, "No API Key"
         client = genai.Client(api_key=api_key)
         return client, True, "OK"
     except Exception as e:
@@ -66,7 +66,7 @@ def build_tfidf(_chunks):
     return vectorizer, tfidf_matrix
 vectorizer, tfidf_matrix = build_tfidf(chunks)
 
-def get_best_chunks(question, chunks, vectorizer, tfidf_matrix, top_k=4):
+def get_best_chunks(question, chunks, vectorizer, tfidf_matrix, top_k=3):
     q_vec = vectorizer.transform([question])
     scores = (tfidf_matrix * q_vec.T).toarray().ravel()
     top_idx = np.argsort(scores)[-top_k:][::-1]
@@ -81,38 +81,59 @@ for m in st.session_state.messages:
     st.markdown(f'<div class="{role_class}">{m["content"]}<div class="msg-time">{datetime.now().strftime("%H:%M")} ✓✓</div></div><div style="clear:both;"></div>', unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
+# SAARE FLASH MODELS - JO CHALEGA AUTO PAKDEGA
+ALL_FLASH_MODELS = [
+    "gemini-2.5-flash",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-001",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-001",
+    "gemini-1.5-flash-002",
+    "gemini-1.5-flash-latest",
+    "gemini-flash-latest",
+    "gemini-2.0-flash-lite",
+    "gemini-1.5-flash-8b",
+]
+
+def generate_with_fallback(client, prompt):
+    last_error = ""
+    for model_name in ALL_FLASH_MODELS:
+        try:
+            response = client.models.generate_content(model=model_name, contents=prompt)
+            if response.text:
+                return response.text, model_name, None
+        except Exception as e:
+            last_error = str(e)
+            continue
+    return None, None, last_error
+
 if prompt := st.chat_input("Type a message..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
     q_lower = prompt.lower()
 
-    # SPECIAL CHECK FOR GEMINI KEY TEST
     if "gemini key" in q_lower or "key working" in q_lower:
-        if gemini_ok:
-            answer = f"✅ **GEMINI KEY WORKING!**\n\nYour AQ... key is connected: {gemini_msg}\nProject: IMO RAG BOT\nStatus: Ready to give full answers.\n\nNow ask any IMO question like 'Bunker leak during recycling liability?'"
+        if gemini_ok and gemini_client:
+            test_prompt = "Say 'KEY WORKING' in 2 words"
+            ans, used_model, err = generate_with_fallback(gemini_client, test_prompt)
+            if ans:
+                final = f"✅ **GEMINI KEY WORKING!**\n\nWorking Model: `{used_model}`\nYour Key: AQ... (IMO RAG BOT)\nResponse: {ans}\n\nAb koi bhi IMO sawal pucho - pura answer aayega!"
+            else:
+                final = f"❌ Key error: {err}\n\nEnable API: https://console.developers.google.com/apis/api/generativelanguage.googleapis.com"
         else:
-            answer = f"❌ **KEY NOT WORKING:** {gemini_msg}\n\nFix: Enable Generative Language API in Google Cloud Console for project 62307425164"
-        st.session_state.messages.append({"role": "assistant", "content": answer})
+            final = f"❌ {gemini_msg}"
+        st.session_state.messages.append({"role": "assistant", "content": final})
         st.rerun()
 
     results = get_best_chunks(prompt, chunks, vectorizer, tfidf_matrix, top_k=3)
     context = "\n\n---\n\n".join(results)[:10000]
 
-    # Generate with new client
     if gemini_ok and gemini_client:
-        try:
-            final_prompt = f"You are Assistant IMO Bot, expert in IMO Conventions. Answer fully with Articles.\nQuestion: {prompt}\nIMO Context: {context}\nGive full detailed answer, don't cut half. Add SOURCE at end."
-            response = gemini_client.models.generate_content(model="gemini-1.5-flash", contents=final_prompt)
-            answer = response.text
-        except Exception as e:
-            # Show real error + give context nicely
-            answer = f"""**⚠️ Gemini API Error (Need to Enable API):** {e}
-
-**But here is IMO info from your data:**
-{context[:2500]}
-
-**Fix:** Go to https://console.developers.google.com/apis/api/generativelanguage.googleapis.com -> Select IMO RAG BOT project -> Click ENABLE
-
-After enabling, full legal answer will come."""
+        final_prompt = f"You are Assistant IMO Bot expert. Question: {prompt}\nIMO Context: {context}\nGive FULL detailed answer with Articles, no half answer. Add SOURCE."
+        ans, used_model, err = generate_with_fallback(gemini_client, final_prompt)
+        if ans:
+            answer = f"{ans}\n\n---\n✅ Model Used: `{used_model}`"
+        else:
+            answer = f"**Gemini Error - Tried all models:** {err[:800]}\n\n**IMO Data from your files:**\n{context[:2500]}\n\nFix: Enable Generative Language API"
     else:
         answer = f"Key error: {gemini_msg}\n\n{context[:2500]}"
 
