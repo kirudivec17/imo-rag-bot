@@ -1,0 +1,1743 @@
+SOURCE: A.722(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.722(17).pdf
+RESOLUTION A.722(17)  adopted on 6 November 1991 
+APPLICATION OF TONNAGE MEASUREMENT OF BALLAST SPACES 
+IN SEGREGATED BALLAST OIL TANKERSINTERNATIONA L MA RIT IME 
+ORGA NIZATION 
+ASSEMBLY - 17th session 
+Agenda item 12 
+A 17/Res.722 
+5 December 1991 
+Original: ENGLISH 
+IMO 
+RESOLUTION A.722(17) 
+adopted on 6 November 1991 
+APPLICATION OF TONNAGE MEASUREMENT OF BALLAST SPACES 
+IN SEGREGATED BALLAST OIL TANKERS 
+THE ASSEMBLY, 
+NOTING Article 15{j) of the Convention on the International Maritime 
+Organization concerning the functions of the Assembly in relation to 
+regulations and guidelines concerning maritime safety and the prevention and 
+control of marine pollution from ships, 
+NOTING further resolution 9 of the International Conference on Marine 
+Pollution, 1973, concerning tonnage measurement of segregated ballast oil 
+tankers, 
+RECALLING resolution A.388(X) in which Member Governments are invited 
+to accept the recommendation concerning tonnage measurement of ballast spaces
+---
+SOURCE: A.722(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.722(17).pdf
+RECALLING resolution A.388(X) in which Member Governments are invited 
+to accept the recommendation concerning tonnage measurement of ballast spaces 
+in segregated ballast oil tankers, 
+REALIZING the urgent need for the establishment of principles for the 
+treatment of tonnage resulting from the fitting of segregated ballast tanks 
+in oil tankers provided with an International Tonnage Certificate (1969), 
+REALIZING ALSO the urgent need for the unified application of tonnage 
+measurement of segregated ballast spaces in oil tankers, 
+REAFFIRMING its desire to encourage the design of segregated ballast 
+tanks in oil tankers, 
+HAVING CONSIDERED the recommendations made by the Marine Environment 
+Protection Committee and the Maritime Safety Committee, 
+1. ADOPTS the Recommendation concerning Tonnage Measurement of Segregated 
+Ballast Tanks in Oil Tankers, the text of which is given in the annex to this 
+resolution;
+---
+SOURCE: A.722(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.722(17).pdf
+Ballast Tanks in Oil Tankers, the text of which is given in the annex to this 
+resolution; 
+2. INVITES Governments to advise the port and harbour authorities to apply 
+this Recommendation for deducting the tonnage of the segregated ballast tanks, 
+required by regulation 13 of annex I of MARPOL 73/78 from the gross tonnage on 
+the International Tonnage Certificate (1969); 
+3. REQUESTS the Secretary-General to invite the Governments concerned to 
+provide information on experience gained from the implementation of this 
+resolution; 
+4. REVOKES resolution A.388{X). 
+W/4154x/EWP 
+For reasons of economy, this document is printed in a limited number. Delegates 
+are kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.722(17)  adopted on 6 November 1991 
+APPLICATION OF TONNAGE MEASUREMENT OF BALLAST SPACES 
+IN SEGREGATED BALLAST OIL TANKERSA 17/Res. 722 - 2 - 
+ANNEX 
+RECOMMENDATION CONCERNING TONNAGE MEASUREMENT OF
+---
+SOURCE: A.722(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.722(17).pdf
+IN SEGREGATED BALLAST OIL TANKERSA 17/Res. 722 - 2 - 
+ANNEX 
+RECOMMENDATION CONCERNING TONNAGE MEASUREMENT OF 
+SEGREGATED BALLAST TANKS IN OIL TANKERS 
+In order to use a unified base for the application of tonnage measurement 
+of segregated ballast tanks in oil tankers, Administrations are recommended to 
+accept the following principles: 
+1 The ship is certified as a segregated ballast oil tanker as stated in 
+paragraph 5 of the supplement to the International Oil Pollution Prevention 
+Certificate and the location of the segregated ballast tanks is indicated 
+under paragraph 5.2 of that supplement. 
+2 Segregated ballast tanks are those tanks exclusively used for the 
+carriage of segregated water ballast, as defined in regulation 1(17) of 
+annex I of MARPOL 73/78. The segregated ballast tanks should have a separate 
+ballast pumping and piping system arranged for the intake and discharge of 
+ballast water from and to the sea only. There should be no piping connections
+---
+SOURCE: A.722(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.722(17).pdf
+ballast water from and to the sea only. There should be no piping connections 
+from segregated ballast tanks to the fresh water system. No segregated 
+ballast tank should be used for the carriage of any cargo or for storage of 
+ship's stores or material. 
+3 In the International Tonnage Certificate (1969) under "Remarks" an entry 
+is made for the tonnage of segregated ballast tanks in oil tankers as follows: 
+"The segregated ballast tanks comply with regulation 13 of annex I of the 
+International Convention for the Prevention of Pollution from Ships, 
+1973, as modified by the Protocol of 1978 relating thereto, and the total 
+tonnage of such tanks exclusively used for the carriage of segregated 
+water ballast is ..•• ". 
+4 The tonnage of segregated ballast tanks mentioned above should be 
+calculated according to the following formula: 
+where: 
+K1 = 0.2 + 0.02 log 10 V (or as tabulated in appendix 2 of 
+the International Convention on Tonnage Measurement of Ships, 1969)
+---
+SOURCE: A.722(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.722(17).pdf
+where: 
+K1 = 0.2 + 0.02 log 10 V (or as tabulated in appendix 2 of 
+the International Convention on Tonnage Measurement of Ships, 1969) 
+V = the total voltune of all enclosed spaces of the ship in cubic 
+metres as defined in regulation 3 of the International Convention on 
+Tonnage Measurement of Ships, 1969 
+Vb = the total volume of segregated ballast tanks in cubic metres 
+measured in accordance with regulation 6 of the International Convention 
+on Tonnage Measurement of Ships, 1969. 
+W/4154x/EWP 
+RESOLUTION A.722(17)  adopted on 6 November 1991 
+APPLICATION OF TONNAGE MEASUREMENT OF BALLAST SPACES 
+IN SEGREGATED BALLAST OIL TANKERSRESOLUTION A.722(17)  adopted on 6 November 1991 
+APPLICATION OF TONNAGE MEASUREMENT OF BALLAST SPACES 
+IN SEGREGATED BALLAST OIL TANKERS
+---
+
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+RESOLUTION MEPC.310(73)  (adopted on 26 October 2018) 
+ACTION PLAN TO ADDRESS MARINE PLASTIC LITTER FROM SHIPSMEPC 73/19/Add.1 
+Annex 10, page 1 
+I:\MEPC\73\MEPC 73-19-Add-1.docx 
+ANNEX 10 
+RESOLUTION MEPC.310(73)  
+(adopted on 26 October 2018) 
+ACTION PLAN TO ADDRESS MARINE PLASTIC LITTER FROM SHIPS 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE 
+RECALLING Article 38(e) of the Convention on the International Maritime Organization (the 
+Organization) concerning the functions of the Marine Environment Protection Committee (the 
+Committee) conferred upon it by international conventions for the prevention and control of 
+marine pollution from ships, 
+ACKNOWLEDGING that work to prevent pollution by garbage from ships has been 
+undertaken by the Organization since the adoption of MARPOL Annex V, 
+ACKNOWLEDGING ALSO the relevance of the work on marine plastic litter undertaken by 
+the Parties to the Convention on the Prevention of Marine Pollution by Dumping of Wastes
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+the Parties to the Convention on the Prevention of Marine Pollution by Dumping of Wastes 
+and Other Matter 1972 and its 1996 Protocol, including the adoption in 2016 of a 
+"Recommendation to Encourage Action to Combat Marine Litter", 
+ACKNOWLEDGING FURTHER the relevant work of other international organizations in 
+relation to marine plastic litter, in particular FAO and UN Environment, and the importance of 
+existing cooperation mechanisms, including GESAMP, the Joint FAO/IMO Ad Hoc Working 
+Group on IUU fishing and related matters, and the Global Partnership for Marine Litter, 
+RECALLING the United Nations 2030 Agenda for Sustainable Development, in particular 
+Sustainable Development Goal (SDG) 14: Conserve and sustainably use the oceans, seas 
+and marine resources for sustainable development, 
+RECALLING ALSO that the Assembly, at its thirtieth session, in December 2017, recognized 
+the ongoing problem of marine plastic pollution, as addressed in MARPOL Annex V, which
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+the ongoing problem of marine plastic pollution, as addressed in MARPOL Annex V, which 
+required further consideration as part of a global solution within the framework of ocean 
+governance, in pursuance of the target of Sustainable Development Goal 14 to prevent and 
+significantly reduce marine pollution of all kinds by 2025, 
+1 ADOPTS the Action Plan to address marine plastic litter from ships (hereinafter the 
+Action Plan) as set out in the annex to the present resolution; 
+2 NOTES the application of the Action Plan to all ships, incuding fishing vessels; 
+3 INVITES the Secretary-General of the Organization to make adequate provisions in 
+the Integrated Technical Cooperation Programme (ITCP) to support relevant follow-up actions 
+of the Action Plan; 
+4 AGREES to keep the Action Plan under review, with a view to assessing, in 2023, 
+the effectiveness of the actions within the Action Plan against the intended outcomes. 
+RESOLUTION MEPC.310(73)  (adopted on 26 October 2018)
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+the effectiveness of the actions within the Action Plan against the intended outcomes. 
+RESOLUTION MEPC.310(73)  (adopted on 26 October 2018) 
+ACTION PLAN TO ADDRESS MARINE PLASTIC LITTER FROM SHIPSMEPC 73/19/Add.1 
+Annex 10, page 2 
+ 
+ 
+I:\MEPC\73\MEPC 73-19-Add-1.docx 
+ANNEX 
+ 
+ACTION PLAN TO ADDRESS MARINE PLASTIC LITTER FROM SHIPS 
+ 
+ 
+1 Background 
+ 
+1.1 Marine plastic litter enters the marine environment as a result of a wide range of 
+land- and sea-based activities. Both macroplastics (e.g. large plastic items such as plastic 
+bags, water bottles and fishing gear) and microplastics (small plastic particles generally five 
+millimetres or less in size) persist in the marine environment and result in harmful effects on 
+marine life and biodiversity, as well as negative impacts on human health. In addition, marine 
+plastic litter negatively impacts on activities such as tourism, fisheries and shipping. This
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+plastic litter negatively impacts on activities such as tourism, fisheries and shipping. This 
+plastic material has the potential to be brought back into the economy by means of reuse or 
+recycling. Studies demonstrate that despite the existing regulatory framework to prevent 
+marine plastic litter from ships discharges into the sea continue to occur. 
+ 
+1.2 IMO has recognized the importance of preventing pollution by garbage, including 
+plastics, from ships since the adoption of MARPOL Annex V, as well as the dumping of various 
+types of waste, including plastics, into the sea through the Convention on the Prevention of 
+Marine Pollution by Dumping of Wastes and Other Matter 1972 (London Convention or LC) 
+and its 1996 Protocol (London Protocol or LP). This commitment was reinforced by the IMO 
+Assembly, at its thirtieth session, in December 2017, recognizing the ongoing problem of 
+marine plastic pollution, as addressed in MARPOL Annex V, which required further
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+marine plastic pollution, as addressed in MARPOL Annex V, which required further 
+consideration as part of a global solution within the framework of ocean governance, in 
+pursuance of the target of Sustainable Development Goal 14 to prevent and significantly 
+reduce marine pollution of all kinds by 2025. 
+ 
+1.3 IMO has committed to working closely with a number of partners to address the issue 
+of marine plastic litter including, but not limited to: 
+ 
+.1 FAO through the Joint FAO/IMO Ad Hoc Working Group on IUU Fishing and 
+Related Matters (JWG); 
+ 
+.2 the Joint Group of Experts on the Scientific Aspects of Marine Environmental 
+Protection (GESAMP); 
+ 
+.3 the UN Environment-managed Global Partnership on Marine Litter (GPML); 
+ 
+.4 the United Nations Open-ended Informal Consultative Process on Oceans 
+and the Law of the Sea (ICP); and 
+ 
+.5 the United Nations Environment Assembly (UNEA). 
+ 
+1.4 IMO recognizes the importance of continued action to manage this global issue with
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+.5 the United Nations Environment Assembly (UNEA). 
+ 
+1.4 IMO recognizes the importance of continued action to manage this global issue with 
+the development of an Action Plan to address marine plastic litter from ships. In addition, the 
+thirty-eighth Consultative Meeting of Contracting Parties to the London Convention and the 
+eleventh Meeting of Contracting Parties to the London Protocol adopted a "Recommendation 
+to Encourage Action to Combat Marine Litter". 
+ 
+2 Objective 
+ 
+The Action Plan to address marine plastic litter from ships has been developed to contribute 
+to the global solution for preventing marine plastic litter entering the oceans through 
+ship-based activities. This Action Plan provides IMO with a mechanism to identify specific 
+RESOLUTION MEPC.310(73)  (adopted on 26 October 2018) 
+ACTION PLAN TO ADDRESS MARINE PLASTIC LITTER FROM SHIPSMEPC 73/19/Add.1 
+Annex 10, page 3 
+ 
+ 
+I:\MEPC\73\MEPC 73-19-Add-1.docx
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+ACTION PLAN TO ADDRESS MARINE PLASTIC LITTER FROM SHIPSMEPC 73/19/Add.1 
+Annex 10, page 3 
+ 
+ 
+I:\MEPC\73\MEPC 73-19-Add-1.docx 
+outcomes, and actions to achieve these outcomes, in a way that is meaningful and 
+measureable. The Action Plan builds on existing policy and regulatory frameworks, and 
+identifies opportunities to enhance these frameworks and introduce new supporting measures 
+to address the issue of marine plastic litter from ships.   
+ 
+3 Time frames 
+ 
+3.1 In line with the time frames provided in Sustainable Development Goal 14, the 
+measures within this Action Plan should be completed by 2025.  
+ 
+3.2 Priority actions under this plan, to be pursued upon adoption of this plan, have been 
+identified in the below table of actions. Further specific time frames for individual measures 
+should be evaluated during the annual review and evaluation process by the Marine 
+Environment Protection Committee. 
+ 
+ 
+ 
+RESOLUTION MEPC.310(73)  (adopted on 26 October 2018)
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+Environment Protection Committee. 
+ 
+ 
+ 
+RESOLUTION MEPC.310(73)  (adopted on 26 October 2018) 
+ACTION PLAN TO ADDRESS MARINE PLASTIC LITTER FROM SHIPSMEPC 73/19/Add.1 
+Annex 10, page 4 
+ 
+ 
+I:\MEPC\73\MEPC 73-19-Add-1.docx 
+4 Actions 
+ 
+ Outcome Measures Parent 
+Organ 
+Coordinating/
+Associated 
+Organ 
+Priority Associated 
+partners 
+1.  Reduction of marine 
+plastic litter 
+generated from, and 
+retrieved by, fishing 
+vessels 
+Consider making the IMO Ship Identification Number 
+Scheme mandatory for all fishing vessels over 
+24 metres in length through an amendment to the 
+Cape Town Agreement once it enters into force. 
+ 
+Encourage the ratification of the Cape Town 
+agreement 
+MSC / 
+MEPC 
+   
+2.   Consider making mandatory, through an appropriate 
+IMO instrument (e.g. MARPOL Annex V), the marking 
+of fishing gear with the IMO Ship Identification 
+Number, in cooperation with the Food and Agriculture 
+Organization of the United Nations (FAO) 
+MEPC PPR / III (JWG)  FAO
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+Number, in cooperation with the Food and Agriculture 
+Organization of the United Nations (FAO) 
+MEPC PPR / III (JWG)  FAO 
+3.   Further investigate logging of the identification 
+number for each item of fishing gear on board a 
+fishing vessel  
+MEPC PPR / III  FAO 
+4.   Preparation of a circular reminding IMO Member 
+States to collect information from their registered 
+fishing vessels regarding any discharge or accidental 
+loss of fishing gear  
+MEPC PPR   
+5.   Consider the development of best management 
+practice to facilitate incentives for fishing vessels to 
+retrieve derelict fishing gear and deliver it to port 
+reception facilities, in collaboration with FAO 
+MEPC / 
+MSC 
+PPR / III (JWG) 
+/ SDC 
+ FAO 
+RESOLUTION MEPC.310(73)  (adopted on 26 October 2018) 
+ACTION PLAN TO ADDRESS MARINE PLASTIC LITTER FROM SHIPSMEPC 73/19/Add.1 
+Annex 10, page 5 
+ 
+ 
+I:\MEPC\73\MEPC 73-19-Add-1.docx 
+ Outcome Measures Parent 
+Organ 
+Coordinating/
+Associated 
+Organ 
+Priority Associated 
+partners
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+I:\MEPC\73\MEPC 73-19-Add-1.docx 
+ Outcome Measures Parent 
+Organ 
+Coordinating/
+Associated 
+Organ 
+Priority Associated 
+partners 
+6.   Consider the issue of waste that has been collected 
+during fishing operations building on experience 
+gathered from established projects 
+ 
+MEPC  PPR   
+7.   Review the application of placards, garbage 
+management plans and garbage record -keeping 
+(regulation 10, MARPOL Annex V), for example 
+making the Garbage Record Book mandatory for 
+ships of 100 GT and above 
+MEPC PPR   
+8.   Preparation of a circular reminding Member States to 
+enforce MARPOL Annex V on fishing vessels through 
+PSC measures. 
+ 
+Encourage port State control MoUs to develop PSC 
+procedures that include fishing vessels  
+MEPC PPR / III   
+9.  Reduction of 
+shipping's 
+contribution to 
+marine plastic litter 
+Review the application of placards, garbage 
+management plans and garbage record -keeping 
+(regulation 10, MARPOL Annex V), for example
+---
+SOURCE: MEPC.310(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.310(73).pdf
+Review the application of placards, garbage 
+management plans and garbage record -keeping 
+(regulation 10, MARPOL Annex V), for example 
+making the Garbage Record Book mandatory for 
+ships of 100 GT and above 
+MEPC PPR   
+10.   Consider the establishment of a compulsory system 
+of formatted declarations of the loss of containers and 
+the means on board to easily identify the exact 
+number of losses 
+ 
+Also, consider establishing an obligation to report 
+through a standardized procedure the loss of 
+containers  
+MSC / 
+MEPC 
+ 
+X 
+ 
+RESOLUTION MEPC.310(73)  (adopted on 26 October 2018) 
+ACTION PLAN TO ADDRESS MARINE PLASTIC LITTER FROM SHIPS
+---
+
+SOURCE: MEPC.270(69).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.270(69).pdf
+RESOLUTION MEPC.270(69) 
+(Adopted on 22 April 2016) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE 
+PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE 
+PROTOCOL OF 1978 RELATING THERETO 
+ 
+ 
+RESOLUTION MEPC.270(69) 
+(Adopted on 22 April 2016) 
+ 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE 
+PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE 
+PROTOCOL OF 1978 RELATING THERETO 
+ 
+Amendments to MARPOL Annex II 
+ 
+(Revised GESAMP Hazard Evaluation Procedure) 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee conferred upon it 
+by international conventions for the prevention and control of marine pollution from ships, 
+ 
+NOTING article 16 of the International Convention for the Prevention of Pollution from
+---
+SOURCE: MEPC.270(69).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.270(69).pdf
+NOTING article 16 of the International Convention for the Prevention of Pollution from 
+Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL), which specifies 
+the amendment procedure and confers upon the appropriate body of the Organization the 
+function of considering and adopting amendments thereto, 
+ 
+HAVING CONSIDERED, at its sixty-ninth session, proposed amendments to Appendix I of 
+MARPOL Annex II concerning the abbreviated legend to the revised GESAMP Hazard 
+Evaluation Procedure, 
+ 
+1 ADOPTS, in accordance with article 16(2)(d) of MARPOL, amendments to  
+Appendix I of MARPOL Annex II, the text of which is set out in the annex to the present 
+resolution; 
+ 
+2 DETERMINES, in accordance with article 16(2)(f)(iii) of MARPOL, that the 
+amendments shall be deemed to have been accepted on 1 March 2017 unless prior to that 
+date, not less than one third of the Parties or Parties the combined merchant fleets of which
+---
+SOURCE: MEPC.270(69).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.270(69).pdf
+date, not less than one third of the Parties or Parties the combined merchant fleets of which 
+constitute not less than 50% of the gross tonnage of the world's merchant fleet, have 
+communicated to the Organization their objection to the amendments; 
+ 
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of MARPOL, 
+the said amendments shall enter into force on 1 September 2017 upon their acceptance in 
+accordance with paragraph 2 above; 
+ 
+4 REQUESTS the Secretary-General, for the purposes of article 16(2)(e) of MARPOL, 
+to transmit certified copies of the present resolution and the text of the amendments contained 
+in the annex to all Parties to MARPOL;  
+ 
+5 REQUESTS FURTHER the Secretary-General to transmit copies of the present 
+resolution and its annex to Members of the Organization which are not Parties to MARPOL. 
+ 
+  
+RESOLUTION MEPC.270(69) 
+(Adopted on 22 April 2016) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE
+---
+SOURCE: MEPC.270(69).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.270(69).pdf
+RESOLUTION MEPC.270(69) 
+(Adopted on 22 April 2016) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE 
+PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE 
+PROTOCOL OF 1978 RELATING THERETO- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO MARPOL ANNEX II 
+(Revised GESAMP Hazard Evaluation Procedure) 
+ 
+ 
+ANNEX II 
+ 
+REGULATIONS FOR THE CONTROL OF POLLUTION BY  
+NOXIOUS LIQUID SUBSTANCES IN BULK 
+ 
+Appendix I 
+ 
+Guidelines for the categorization of noxious liquid substances 
+ 
+The tables under the title "Abbreviated legend to the revised GESAMP Hazard Evaluation 
+Procedure" are replaced with the following: 
+ 
+The Revised GESAMP hazard evaluation procedure 
+ 
+Columns A & B        Aquatic environment 
+ A B 
+ Bioaccumulation and biodegradation Aquatic toxicity 
+ A 1 A 2 B 1 B 2 
+rating Bioaccumulation Biodegradation Acute toxicity Chronic toxicity 
+ log Pow BCF  LC/EC/IC50 
+(mg/l) 
+NOEC (mg/l) 
+0  
+<1 or > 
+ca.7 
+no 
+measurable 
+BCF 
+R: readily 
+biodegradable 
+ 
+>1000 
+ 
+>1
+---
+SOURCE: MEPC.270(69).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.270(69).pdf
+log Pow BCF  LC/EC/IC50 
+(mg/l) 
+NOEC (mg/l) 
+0  
+<1 or > 
+ca.7 
+no 
+measurable 
+BCF 
+R: readily 
+biodegradable 
+ 
+>1000 
+ 
+>1 
+1 ≥1 - <2 ≥1 - <10 NR: not readily  
+biodegradable 
+>100 - ≤1000 >0.1 - ≤1 
+2 ≥2 - <3 ≥10 - <100 >10 - ≤100 >0.01 - ≤0.1 
+3 ≥3 - <4 ≥100 - <500  >1 - ≤10 >0.001 - ≤0.01 
+4 ≥4 - <5 ≥500 - 
+<4000 
+ >0.1 - ≤1 ≤0.001 
+5 ≥5 - < ca.7 >4000  >0.01 - ≤0.1  
+6    ≤0.01  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESOLUTION MEPC.270(69) 
+(Adopted on 22 April 2016) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE 
+PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE 
+PROTOCOL OF 1978 RELATING THERETO- 3 - 
+ 
+ 
+ 
+ 
+Column E Interference with other uses of the sea 
+E1 E2  E3 
+Tainting Physical effects on 
+wildlife & benthic 
+habitats 
+Numerical 
+rating 
+Interference with Coastal 
+Amenities 
+NT: not tainting 
+       (tested) 
+Fp: Persistent 
+Floater 
+0 no interference  
+no warning 
+T: tainting test 
+    positive 
+F: Floater 1 slightly objectionable
+---
+SOURCE: MEPC.270(69).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.270(69).pdf
+(tested) 
+Fp: Persistent 
+Floater 
+0 no interference  
+no warning 
+T: tainting test 
+    positive 
+F: Floater 1 slightly objectionable 
+warning, no closure of 
+amenity 
+ S: Sinking 
+Substances 
+2 moderately objectionable 
+possible closure of amenity 
+  3 highly objectionable 
+closure of amenity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Columns C & D Human health (toxic effects to mammals) 
+ C D 
+ Acute mammalian toxicity Irritation, corrosion and long-term health effects 
+ C1 C2 C3 D1 D2 D3 
+rating Oral  
+toxicity 
+Dermal 
+toxicity 
+Inhalation 
+toxicity 
+Skin irritation 
+& corrosion 
+Eye irritation 
+& corrosion 
+Long-term health 
+effects 
+ LD50/ATE 
+(mg/kg) 
+LD50/ATE 
+(mg/kg) 
+LC50/ATE 
+(mg/l) 
+   
+0 >2000 >2000 >20 not irritating not irritating C - Carcinogenic 
+1 >300 - 
+≤2000 
+>1000 - 
+≤2000 
+>10 - ≤20 mildly 
+irritating 
+mildly 
+irritating 
+M - Mutagenic  
+2 >50 - ≤300 >200 - 
+≤1000 
+>2 - ≤10 irritating irritating R - Reprotoxic 
+3 >5 - ≤50 >50 - ≤200 >0.5 - ≤2 severely 
+irritating or 
+corrosive
+---
+SOURCE: MEPC.270(69).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.270(69).pdf
+2 >50 - ≤300 >200 - 
+≤1000 
+>2 - ≤10 irritating irritating R - Reprotoxic 
+3 >5 - ≤50 >50 - ≤200 >0.5 - ≤2 severely 
+irritating or 
+corrosive 
+ 
+3A Corr. 
+(4hr) 
+3B Corr. 
+(1hr) 
+3C Corr. 
+(3min) 
+severely 
+irritating 
+Ss - Sensitising to 
+        skin 
+Sr - Sensitising to  
+       respiratory  
+       system 
+A - Aspiration 
+      hazard 
+T - Target Organ 
+     Toxicity 
+N - Neurotoxic 
+I -   Immunotoxic 
+4 5 50 0.5    
+RESOLUTION MEPC.270(69) 
+(Adopted on 22 April 2016) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE 
+PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE 
+PROTOCOL OF 1978 RELATING THERETORESOLUTION MEPC.270(69) 
+(Adopted on 22 April 2016) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE 
+PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE 
+PROTOCOL OF 1978 RELATING THERETO
+---
+
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+RESOLUTION A.686(17)  adopted on 6 November 1991 
+CODE ON ALARMS AND INDICATORSINTERNATIONAL MARITIME 
+ORGANIZATION A 17/Res.686 20 January 1992 
+Original: ENGLISH 
+ASSEMBLY - 17th session 
+Agenda item 10 
+RESOLUTION A.686(17) 
+adopted on 6 November 1991 
+CODE ON ALARMS AND INDICATORS 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International 
+Maritime Organization concerning the functions of the Assembly in relation 
+to regulations and guidelines concerning maritime safety, 
+NOTING that many IMO instruments, such as the 1974 SOLAS Convention, 
+as amended, and the IBC, BCH, IGC and GC Codes, as amended, contain provisions 
+for alarms and indicators, 
+NOTING ALSO the proliferation of alarm systems, indicators and 
+monitoring equipment which are being installed in accordance with or in 
+excess of the above IMO instruments, 
+RECOGNIZING the need to develop guidelines for alarm and indicator 
+systems in order to promote consistency, to reduce the number and variety
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+RECOGNIZING the need to develop guidelines for alarm and indicator 
+systems in order to promote consistency, to reduce the number and variety 
+of alarms and indicators used and thereby to avoid confusion to crew members 
+and also to ensure uniformity in application of the above IMO instruments, 
+RECOGNIZING ALSO the need for such guidelines for alarms and indicators 
+to be extended in the future to cover all IMO instruments which have been or 
+may be developed, 
+HAVING CONSIDERED the recommendations made by the Maritime Safety 
+Committee at its fifty-ninth session, 
+1. ADOPTS the Code on Alarms and Indicators set out in the annex to the 
+present resolution; 
+2. RECOMMENDS Governments: 
+(a) to take appropriate steps to apply the Code; 
+(b) to use the Code as an international safety standard for designing 
+alarms and indicators for ships, ships' equipment and machinery; 
+(c) to inform the Organization of measures taken for the application 
+of the Code; 
+W/4774x/EWP
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+(c) to inform the Organization of measures taken for the application 
+of the Code; 
+W/4774x/EWP 
+For reasons of economy. this document is printed in a limited number. Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.686(17)  adopted on 6 November 1991 
+CODE ON ALARMS AND INDICATORSA 17/Res.686 - 2 - 
+3. URGES the Maritime Safety Committee and the Marine Environment Protection 
+Committee to take account of the provisions of the Code when developing new 
+standards on alarms and indicators; 
+4. AUTHORIZES the Maritime Safety Committee and the Marine Environment 
+Protection Committee to amend or extend the Code as may be necessary. 
+W/4774x/EWP 
+RESOLUTION A.686(17)  adopted on 6 November 1991 
+CODE ON ALARMS AND INDICATORS- 3 - A 17/Res.686 
+ANNEX 
+CODE ON ALARMS AND INDICATORS 
+PREAMBLE 
+This Code has been developed on the basis of the following principles:
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+ANNEX 
+CODE ON ALARMS AND INDICATORS 
+PREAMBLE 
+This Code has been developed on the basis of the following principles: 
+1 The Code is a recommendatory docwnent primarily directed to ships 
+covered by the International Convention for the Safety of Life at Sea, 1974 
+(1974 SOLAS Convention), as amended, and associated Codes (IBC, BCH, IGC and 
+GC Codes). Although alarms and indicators required by the Codes on mobile 
+offshore drilling units, nuclear merchant ships, dynamically supported 
+craft and similar specialized vessels and also by MARPOL 73/78 are not 
+specifically included, the Code can be used for guidance where appropriate, 
+and in the future it could be extended to include these instrwnents. The 
+Code can also be used for guidance for alarms and indicators fitted in excess 
+of or in addition to those required by lMO instrwnents. It permits present 
+practices in use in world fleets and provides flexibility for alternative
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+practices in use in world fleets and provides flexibility for alternative 
+methods. It is, however, intended to promote uniformity of the system between 
+ships which will improve crew safety and training. 
+2 The Code will benefit designers and operators by consolidating in 
+one docwnent the references to priorities, grouping, locations and types, 
+including colours, symbols, etc., of shipboard alarms and indicators. 
+Where the applicable IMO instrwnents do not specify the type and location 
+of particular alarms, this information, as far as practicable, is presented 
+in this Code to promote uniform application. 
+3 Although preference was given to. promoting consistency of terminology 
+with IMO instrwnents, harmonization with the contents of IEC publication 
+92-203:1985 "Electrical Installations in Ships. System Design - Acoustic 
+and Optical Signals" was achieved as far as practicable. 
+4 It is recognized that changing technology and future amendments to the
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+and Optical Signals" was achieved as far as practicable. 
+4 It is recognized that changing technology and future amendments to the 
+IMO instrwnents referred to in the Code will necessitate changes to the 
+Code itself. Accordingly, the Organization will review the Code as necessary 
+taking into account both amendments to iMO instrwnents and future development. 
+5 Administrations are encouraged to give wide dissemination of this Code 
+to shipowners, operators, designers and other interested bodies. 
+1 Purpose and application 
+1.1 This Code is a recommendatory document for alarms and indicators. It is 
+intended to provide general design guidance and to promote uniformity of type, 
+location and priority for those alarms and indicators which are required by 
+the 1974 SOLAS Convention, as amended, and associated Codes (IBC, BCH, IGC 
+and GC Codes). 
+1.2 In order to achieve similar uniformity, the Code also serves as guidance
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+and GC Codes). 
+1.2 In order to achieve similar uniformity, the Code also serves as guidance 
+for alarms and indicators included in IMO instruments, other than those 
+referred to in 1.1. 
+W/4774x/EWP 
+RESOLUTION A.686(17)  adopted on 6 November 1991 
+CODE ON ALARMS AND INDICATORSA 17/Res.686 - 4 - 
+1.3 The Code applies to shipboard alarms and indicators on ships 
+constructed on or after 1 July 1992. The Code also applies to major 
+modifications to, or new installations of, alarms and indicators carried 
+out on or after 1 July 1992. 
+2 Definitions 
+2.1 Alarm. An alarm or alarm system which announces by audible means, or 
+audible and visual means, a condition requiring attention. 
+2.2 Emergency alarms. Alarms which indicate that immediate danger to human 
+life or to the ship and its machinery exists and that immediate action must 
+be taken. The following are classified as emergency alarms: 
+.1 General emergency alarm. An alarm given in the case of an emergency
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+be taken. The following are classified as emergency alarms: 
+.1 General emergency alarm. An alarm given in the case of an emergency 
+to all persons on board summoning passengers and crew to muster 
+stations • 
+. 2 Fire alarm. An alarm to summon the crew in the case of fire . 
+• 3 Those alarms giving warning of immediate personnel hazard, including: 
+.3.1 Fire-extinguishing medium alarm. An alarm warning of the 
+imminent release of fire-extinguishing medium into a space • 
+. 3.2 Power-operated sliding watertight door closing alarm. 
+An alarm required by SOLAS regulation II-1/15.9.1, or 
+SOLAS regulation II-1/15.7.1.6 for ships constructed on 
+or after 1 February 1992, warning of the closing of a 
+power-operated sliding watertight door. 
+2.3 Primary alarms. Alarms which indicate a condition that requires prompt 
+attention to prevent an emergency condition. The following are classified as 
+primary alarms: 
+.1 Machinery alarm. An alarm which indicates a malfunction or other
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+primary alarms: 
+.1 Machinery alarm. An alarm which indicates a malfunction or other 
+abnormal condition of the machinery and electrical installation • 
+. 2 Steering gear alarm. An alarm which indicates a malfunction or 
+other abnormal condition of the steering gear system, i.e. overload 
+alarm, phase failure alarm, no-voltage alarm, and hydraulic oil tank 
+low-level alarm . 
+. 3 Control system fault alarm. An alarm which indicates a failure of 
+an automatic or remote control system, e.g., the navigating bridge 
+propulsion control failure alarm . 
+. 4 Bilge alarm. An alarm which indicates an abnormally high level of 
+bilge water . 
+• 5 Engineers' alarm. An alarm to be operated from the engine control 
+room or at the manoeuvering platform, as appropriate, to alert 
+personnel in the engineers' accommodation that assistance is needed 
+in the engine-room. 
+W/4774x/EWP 
+RESOLUTION A.686(17)  adopted on 6 November 1991 
+CODE ON ALARMS AND INDICATORS- 5 - A 17/Res.686
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+in the engine-room. 
+W/4774x/EWP 
+RESOLUTION A.686(17)  adopted on 6 November 1991 
+CODE ON ALARMS AND INDICATORS- 5 - A 17/Res.686 
+.6 Personnel alarm. An alarm to confirm the safety of the engineer on 
+duty when alone in the machinery spaces • 
+• 7 Fire detection alarm. An alarm to alert the crew on the navigating 
+bridge, at the fire control station or elsewhere that a fire has 
+been detected • 
+. 8 Alarms indicating faults in emergency or primary alarm or detection 
+systems or failure of their power supplies • 
+. 9 Cargo alarm. An alarm which indicates abnormal conditions 
+originating in cargo, or in ~ystems for the preservation or safety 
+of cargo • 
+• 10 Gas detection alarm. An a Larm which indicates that gas has been 
+detected • 
+• 11 Power-operated watertight door fault alarms. Alarms which indicate 
+low level in hydraulic fluid reservoir, low gas pressure or loss 
+of stored energy in hydraulic accumulators, and loss of electrical
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+low level in hydraulic fluid reservoir, low gas pressure or loss 
+of stored energy in hydraulic accumulators, and loss of electrical 
+power supply for power-operated sliding watertight doors. 
+2.4 Secondary alarms. Alarms which are not included in 2.2 and 2.3. 
+2.5 Indicator. Visual indication giving information about the condition of 
+a system or equipment. 
+2.6 Required alarm or indicator. An ~larm or indicator required by IMO 
+instruments referred to in 1.1 and 1.2. Any other alarms and indicators are 
+referred to in this Code as non-requir.ed alarms or indicators. 
+2.7 Call. The request for contact, assistance and/or action from an 
+individual to another person or group of persons, i.e. the complete procedure 
+of signalling and indicating this request. 
+2.8 Accept. Manually acknowledge receipt of an alarm or call. 
+2.9 Cancel. Manual stopping of an alarm or call after the cause has been 
+eliminated. 
+2.10 Grouping. Grouping is a generic term meaning:
+---
+SOURCE: A.686(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.686(17).pdf
+2.9 Cancel. Manual stopping of an alarm or call after the cause has been 
+eliminated. 
+2.10 Grouping. Grouping is a generic term meaning: 
+.1 the arrangement of individual alarms on alarm panels or individual 
+indicators on indicating panels, e.g., steering gear alarms at the 
+navigating bridge steering position, or door indicators on a 
+watertight door position indicating panel; 
+.2 the combining of individual alarms to provide one alarm at a remote 
+position, e.g., the machinery alarm at the engineers' accommodation 
+or at the navigating bridge; and 
+.3 the arrangement of alarms in terms of their priority, e.g ., 
+emergency alarms, primary alarms, secondary alarms. 
+W/4774x/EWP 
+RESOLUTION A.686(17)  adopted on 6 November 1991 
+CODE ON ALARMS AND INDICATORS
+---
+
+SOURCE: MEPC.353(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.353(78).pdf
+RESOLUTION MEPC.353(78) (adopted on 10 June 2022)  
+2022 GUIDELINES ON THE REFERENCE LINES FOR USE WITH OPERATIONAL 
+ CARBON INTENSITY INDICATORS (CII REFERENCE LINES GUIDELINES, G2) MEPC 78/17/Add.1 
+Annex 15, page 1 
+ 
+ 
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+ANNEX 15 
+ 
+RESOLUTION MEPC.353(78) 
+(adopted on 10 June 2022) 
+ 
+2022 GUIDELINES ON THE REFERENCE LINES FOR USE WITH OPERATIONAL 
+CARBON INTENSITY INDICATORS (CII REFERENCE LINES GUIDELINES, G2) 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,  
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution 
+from ships, 
+ 
+NOTING that the Committee adopted, at its seventy-sixth session, by resolution MEPC.328(76), 
+the 2021 Revised MARPOL Annex VI, which will enter into force on 1 November 2022,
+---
+SOURCE: MEPC.353(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.353(78).pdf
+the 2021 Revised MARPOL Annex VI, which will enter into force on 1 November 2022, 
+ 
+NOTING IN PARTICULAR that the 2021 Revised MARPOL Annex VI  (MARPOL Annex VI) 
+contains amendments concerning mandatory goal-based technical and operational measures 
+to reduce carbon intensity of international shipping, 
+ 
+NOTING FURTHER that regulation 28.4 of MARPOL Annex VI requires reference lines to be 
+established for each ship type to which regulation 28 is applicable, 
+ 
+NOTING that the Committee, at its seventy -sixth session, adopted, by resolution 
+MEPC.337(76), 2021 Guidelines on the reference lines for use with operational carbon 
+intensity indicators (CII Reference Lines Guidelines, G2)   
+ 
+HAVING CONSIDERED, at its seventy -eighth session, the draft 2022 Guidelines on the 
+reference lines for use with operational carbon intensity indicators (CII reference lines 
+guidelines, G2), 
+ 
+1 ADOPTS the 2022 Guidelines on the reference lines for use with operational carbon
+---
+SOURCE: MEPC.353(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.353(78).pdf
+guidelines, G2), 
+ 
+1 ADOPTS the 2022 Guidelines on the reference lines for use with operational carbon 
+intensity indicators (CII reference lines guidelines, G2), as set out in the annex to the present 
+resolution; 
+ 
+2 INVITES Administrations to take the annexed Guidelines into account when 
+developing and enacting national laws which give force to and implement requirements set 
+forth in regulation 28.4 of MARPOL Annex VI; 
+ 
+3 REQUESTS the Parties to MARPOL Annex VI and other Member Governments to 
+bring the annexed Guidelines to the attention of masters, seafarers, shipowners, ship 
+operators and any other interested parties; 
+ 
+4 AGREES to keep the Guidelines under review in light of experience gained with their 
+implementation, also taking into consideration that in accordance with regulation 28.11 of 
+MARPOL Annex VI a review of the operational measures to reduce carbon intensity of 
+international shipping shall be completed by 1 January 2026;
+---
+SOURCE: MEPC.353(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.353(78).pdf
+MARPOL Annex VI a review of the operational measures to reduce carbon intensity of 
+international shipping shall be completed by 1 January 2026; 
+ 
+RESOLUTION MEPC.353(78) (adopted on 10 June 2022)  
+2022 GUIDELINES ON THE REFERENCE LINES FOR USE WITH OPERATIONAL 
+ CARBON INTENSITY INDICATORS (CII REFERENCE LINES GUIDELINES, G2) MEPC 78/17/Add.1 
+Annex 15, page 2 
+ 
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+5 REVOKES the 2021 Guidelines on the reference lines for use with operational carbon 
+intensity indicators (CII Reference Lines Guidelines, G2).   
+RESOLUTION MEPC.353(78) (adopted on 10 June 2022)  
+2022 GUIDELINES ON THE REFERENCE LINES FOR USE WITH OPERATIONAL 
+ CARBON INTENSITY INDICATORS (CII REFERENCE LINES GUIDELINES, G2) MEPC 78/17/Add.1 
+Annex 15, page 3 
+ 
+ 
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+ANNEX 
+ 
+2022 GUIDELINES ON THE REFERENCE LINES FOR USE WITH OPERATIONAL 
+CARBON INTENSITY INDICATORS (CII REFERENCE LINES GUIDELINES, G2) 
+ 
+1 Introduction
+---
+SOURCE: MEPC.353(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.353(78).pdf
+CARBON INTENSITY INDICATORS (CII REFERENCE LINES GUIDELINES, G2) 
+ 
+1 Introduction 
+ 
+1.1 These Guidelines provide the methods to calculate the reference lines for use with 
+operational carbon intensity indicators, and the ship type specific carbon intensity reference 
+lines as referred to in regulation 28 of MARPOL Annex VI.  
+ 
+1.2 One reference line is developed for each ship type to which regulation 28 of MARPOL 
+Annex VI applies, based on the specific indicators stipulated in 2022 Guidelines on operational 
+carbon intensity indicators and the calculation methods  (G1) developed by the Organization, 
+ensuring that only data from comparable ships are included in the calculation of each reference 
+line. 
+ 
+2 Definition 
+ 
+2.1 MARPOL means the International Convention for the Prevention of Pollution from 
+Ships, 1973, as modified by the Protocols of 1978 and 1997 relating thereto, as amended. 
+ 
+2.2 IMO DCS means the data collection system for fuel oil consumption of ships referred
+---
+SOURCE: MEPC.353(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.353(78).pdf
+2.2 IMO DCS means the data collection system for fuel oil consumption of ships referred 
+to in regulation 27 and related provisions of MARPOL Annex VI. 
+ 
+2.3 For the purpose of these Guidelines, the definitions in MARPOL Annex VI, as 
+amended, apply. 
+ 
+2.4 An operational carbon intensity indicator (CII) reference line is defined as a curve 
+representing the median attained operational carbon intensity performance, as a function of 
+Capacity, of a defined group of ships in year of 2019.  
+ 
+3 Method to develop the CII reference lines 
+ 
+3.1 Given the limited data available for the year of 2008, the operational carbon intensity 
+performance of ship types in year 2019 is taken as the reference.  
+ 
+3.2 For a defined group of ships, the reference line is formulated as follows: 
+ 
+𝑪𝑰𝑰𝒓𝒆𝒇  =  𝒂𝑪𝒂𝒑𝒂𝒄𝒊𝒕𝒚−𝒄    (1) 
+ 
+where is the reference value of year 2019,  is identical with the one defined in the
+---
+SOURCE: MEPC.353(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.353(78).pdf
+𝑪𝑰𝑰𝒓𝒆𝒇  =  𝒂𝑪𝒂𝒑𝒂𝒄𝒊𝒕𝒚−𝒄    (1) 
+ 
+where is the reference value of year 2019,  is identical with the one defined in the 
+specific carbon intensity indicator (CII) for a ship type, as shown in Table. 1; a and c are 
+parameters estimated through median regression fits, taking the attained CII and the Capacity 
+of individual ships collected through IMO DCS in year 2019 as the sample. 
+ 
+4 Ship type specific operational carbon intensity reference lines 
+ 
+ The parameters for determining the ship type specific reference lines, for use in 
+Eq.(1), are specified as follows: 
+  
+ refCII
+Capacity
+RESOLUTION MEPC.353(78) (adopted on 10 June 2022)  
+2022 GUIDELINES ON THE REFERENCE LINES FOR USE WITH OPERATIONAL 
+ CARBON INTENSITY INDICATORS (CII REFERENCE LINES GUIDELINES, G2) MEPC 78/17/Add.1 
+Annex 15, page 4 
+ 
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+Table 1: Parameters for determining the 2019 ship type specific reference lines 
+Ship type Capacity
+---
+SOURCE: MEPC.353(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.353(78).pdf
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+Table 1: Parameters for determining the 2019 ship type specific reference lines 
+Ship type Capacity   
+Bulk carrier 279,000 DWT and above 279,000 4745 0.622 
+less than 279,000 DWT DWT 4745 0.622 
+Gas carrier 
+65,000 and above DWT 14405E7 2.071 
+less than 65,000 DWT DWT 8104 0.639 
+Tanker DWT 5247 0.610 
+Container ship DWT 1984 0.489 
+General cargo ship 
+20,000 DWT and above DWT 31948 0.792 
+less than 20,000 DWT DWT 588 0.3885 
+Refrigerated cargo carrier DWT 4600 0.557 
+Combination carrier DWT 5119 0.622 
+LNG carrier 100,000 DWT and above DWT 9.827 0.000 
+65,000 DWT and above, but less than 100,000 DWT DWT 14479E10 2.673 
+less than 65,000 DWT 65,000 14779E10 2.673 
+Ro-ro cargo ship 
+(vehicle carrier) 
+57,700 GT and above 57,700 3627 0.590 
+30,000 GT and above, but less than 
+57,700 GT GT 3627 0.590 
+Less than 30,000 GT GT 330 0.329 
+Ro-ro cargo ship GT 1967 0.485 
+Ro-ro passenger 
+ship 
+Ro-ro passenger ship GT 2023 0.460
+---
+SOURCE: MEPC.353(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.353(78).pdf
+57,700 GT GT 3627 0.590 
+Less than 30,000 GT GT 330 0.329 
+Ro-ro cargo ship GT 1967 0.485 
+Ro-ro passenger 
+ship 
+Ro-ro passenger ship GT 2023 0.460 
+High-speed craft designed to SOLAS 
+chapter X GT 4196 0.460 
+Cruise passenger ship GT 930 0.383 
+ 
+ 
+ 
+***
+a
+c
+RESOLUTION MEPC.353(78) (adopted on 10 June 2022)  
+2022 GUIDELINES ON THE REFERENCE LINES FOR USE WITH OPERATIONAL 
+ CARBON INTENSITY INDICATORS (CII REFERENCE LINES GUIDELINES, G2) RESOLUTION MEPC.353(78) (adopted on 10 June 2022)  
+2022 GUIDELINES ON THE REFERENCE LINES FOR USE WITH OPERATIONAL 
+ CARBON INTENSITY INDICATORS (CII REFERENCE LINES GUIDELINES, G2)
+---
+
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+RESOLUTION A.861(20)  adopted on 27 November 1997 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+VOYAGE DATA RECORDERS (VDRs)(;u.v? 
+INTERNATIONAL MARITIME 
+ORGANIZATION 
+A 20/Res. 861 
+3 December 1997 
+Original: ENGLISH 
+ASSEMBLY 
+20th session 
+Agenda item 9 
+RESOLUTION A.861(20) 
+adopted on 27 November 1997 
+Nor TO BE REMOVED 
+FROM 
+THE IMO LIBRARY 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+VOYAGE DATA RECORDERS (VDRs) 
+THE ASSEMBLY, 
+RECALLING Article 15G) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning maritime 
+safety, 
+RECALLING ALSO that, by resolution 12, the Conference of Contracting Governments to the 
+International Convention for the Safety of Life at Sea (SOLAS), 1974, being of the opinion that it would 
+be desirable that ships, in particular passenger ships, be fitted with voyage data recorders (VDRs) to assist
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+be desirable that ships, in particular passenger ships, be fitted with voyage data recorders (VDRs) to assist 
+in investigations into casualties, requested the Maritime Safety Committee to develop, as a matter of 
+urgency, operational requirements and performance standards for such recorders, taking into account any 
+potential human element implications, 
+NOTING that consideration is being given to the development of carriage requirements for VDRs 
+for inclusion in the SOLAS Convention at the earliest opportunity, 
+HAVING CONSIDERED the recommendations made by the Maritime Safety Committee at its 
+sixty-eighth session and by the Sub-Committee on Safety of Navigation at its forty-third session, 
+1. ADOPTS the Recommendation on Performance Standards for Shipborne Voyage Data Recorders 
+(VDRs), set out in the Annex to the present resolution; 
+2. INVITES Governments to encourage shipowners and operators of ships entitled to fly their flag to
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+2. INVITES Governments to encourage shipowners and operators of ships entitled to fly their flag to 
+install VDRs on such ships, as soon as possible, especially considering that the carriage ofVDRs may soon 
+be made mandatory under the SOLAS Convention; 
+3. RECOMMENDS Governments to ensure that VDRs installed on board ships flying their flag 
+conform to performance standards not inferior to those specified in the Annex to this resolution; 
+4. REQUESTS the Maritime Safety Committee to keep these Performance Standards under review 
+and to adopt amendments thereto, as necessary. 
+I:\ASSEtvffiL Y\20\RES\861 
+For reasons of economy, this document is printed in a limited num ber. Delegates are 
+kindly asked to bring their copies to meetings and not to reque st additional copies. 
+RESOLUTION A.861(20)  adopted on 27 November 1997 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+VOYAGE DATA RECORDERS (VDRs)A 20/Res.861 - 2 - 
+ANNEX 
+RECOMMENDATION ON PERFORMANCE STANDARDS FOR SHIPBORNE
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+VOYAGE DATA RECORDERS (VDRs)A 20/Res.861 - 2 - 
+ANNEX 
+RECOMMENDATION ON PERFORMANCE STANDARDS FOR SHIPBORNE 
+VOYAGE DATA RECORDERS (VDRs) 
+1 PURPOSE 
+The purpose of a voyage data recorder (VDR) is to maintain a store, in a secure and retrievable 
+form, of information concerning the position, movement, physical status, command and control of a vessel 
+over the period leading up to and following an incident having an impact thereon. Information contained 
+in a VDR should be made available to both the Administration and the shipowner. This information is for 
+use during any subsequent investigation to identify the cause(s) of the incident. 
+2 APPLICATION 
+A VDR with capabilities not inferior to those defined in these performance standards is required 
+to be fitted to ships of classes defined in SOLAS chapter V, as amended. 
+3 REFERENCES 
+3.1 SOLAS: 
+1995 SOLAS Conference, resolution 12. 
+3.2 IMO resolutions: 
+A.662(16) 
+A.694(17) 
+A.824(19)
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+3 REFERENCES 
+3.1 SOLAS: 
+1995 SOLAS Conference, resolution 12. 
+3.2 IMO resolutions: 
+A.662(16) 
+A.694(17) 
+A.824(19) 
+A.830(19) 
+Performance Standards for Float-free Release and Activation 
+Arrangements for Emergency Radio Equipment 
+General Requirements for Shipborne Radio Equipment Forming Part of 
+the GMDSS and for Electronic Navigational Aids 
+Performance Standards for Devices to Indicate Speed and Distance 
+Code on Alarms and Indicators, 1995 
+MSC.64(67), Performance Standard for Heading Control Systems 
+annex 3 
+MSC.64(67), Performance Standards for Navigational Radar Equipment, as amended. 
+annex4 
+4 DEFINITIONS 
+4.1 Voyage data recorder (VDR) means a complete system, including any items required to interface 
+with the sources of input data, for processing and encoding the data, the final recording medium in its 
+capsule, the power supply and dedicated reserve power source. 
+1:\ASSEMBL Y\20\RES\861 
+RESOLUTION A.861(20)  adopted on 27 November 1997
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+capsule, the power supply and dedicated reserve power source. 
+1:\ASSEMBL Y\20\RES\861 
+RESOLUTION A.861(20)  adopted on 27 November 1997 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+VOYAGE DATA RECORDERS (VDRs)- 3 - A 20/Res. 861 
+4.2 Sensor means any unit external to the VDR, to which the VDR is connected and from which it 
+obtains data to be recorded. 
+4.3 Final recording medium means the item ofhardware on which the data is recorded such that access 
+to it would enable the data to be recovered and played back by use of suitable equipment. 
+4.4 Playback equipment means the equipment, compatible with the recording medium and the format 
+used during recording, employed for recovering the data. It includes also the display or presentation 
+hardware and software that is appropriate to the original data source equipment.1 
+4.5 Dedicated reserve power source means a secondary battery, with suitable automatic charging
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+4.5 Dedicated reserve power source means a secondary battery, with suitable automatic charging 
+arrangements, dedicated solely to the VDR, of sufficient capacity to operate it as required by 5.3.2. 
+5 OPERATIONAL REQUIREMENTS 
+5.1 General 
+5. 1. 1 The VDR should continuously maintain sequential records of preselected data items relating to the 
+status and output of the ship's equipment, and command and control of the ship, referred to in 5.4. 
+5 .1.2 To permit subsequent analysis of factors surrounding an incident, the method of recording should 
+ensure that the various data items can be co-related in date and time during playback on suitable equipment. 
+5. 1. 3 The final recording medium should be installed in a protective capsule which should meet all of 
+the following requirements: 
+.1 be capable of being accessed following an incident but secure against tampering; 
+.2 maximize the probability of survival and recovery of the final recorded data after any 
+incident;
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+.2 maximize the probability of survival and recovery of the final recorded data after any 
+incident; 
+.3 be of a highly visible colour and marked with retro-reflective materials; and 
+. 4 b e fitted with an appropriate device to aid location. 
+5. 1. 4 The design and construction, which should be in accordance with the requirements of 
+resolution A.694(17) and international standards acceptable to the Organization2, should take special 
+account of the requirements for data security and continuity of operation as detailed in 5.2 and 5.3. 
+5.2 Data selection and security 
+5 .2. 1 The minimum selections of data items to be recorded by the VDR are specified in 5. 4. Optionally, 
+additional items may be recorded provided that the requirements for the recording and storage of the 
+specified selections are not compromised. 
+1 Playback equipment is not normally installed on a ship and is not regarded as part of a VDR for the 
+purposes of these performance standards.
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+1 Playback equipment is not normally installed on a ship and is not regarded as part of a VDR for the 
+purposes of these performance standards. 
+2Refer to publication IEC 945-Maritime navigation and radiocommunication equipment and systems - 
+General requirements, methods of testing and required test results. 
+I:\ASSE:rvIBL Y\20\RES\861 
+RESOLUTION A.861(20)  adopted on 27 November 1997 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+VOYAGE DATA RECORDERS (VDRs)A 20/Res.861 - 4 - 
+5.2.2 The equipment should be so designed that, as far as is practical, it is not possible to tamper with 
+the selection of data being input to the equipment, the data itself nor that which has already been recorded. 
+Any attempt to interfere with the integrity of the data or the recording should be recorded. 
+5.2.3 The recording method should be such that each item of the recorded data is checked for integrity 
+and an alarm given if a non-correctable error is detected. 
+5.3 Continuity of operation
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+and an alarm given if a non-correctable error is detected. 
+5.3 Continuity of operation 
+5.3.1 To ensure that the VDR continues to record events during an incident, it should be capable of 
+operating from the ship's emergency source of electrical power. 
+5.3.2 If the ship's emergency source of electrical power supply fails, the VDR should continue to record 
+Bridge Audio (see 5.4.5) from a dedicated reserve source of power for a period of 2 h. At the end of 
+this 2 h period all recording should cease automatically. 
+5. 3. 3 Recording should be continuous unless interrupted briefly in accordance with 6 or terminated in 
+accordance with 5.3.2. The time for which all stored data items are retained should be at least 12 h. Data 
+items which are older than this may be overwritten with new data. 
+5.4 Data items to be recorded 
+5.4.1 Date and time 
+Date and time, referenced to UTC, should be obtained from a source external to the ship or from
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+5.4 Data items to be recorded 
+5.4.1 Date and time 
+Date and time, referenced to UTC, should be obtained from a source external to the ship or from 
+an internal clock. The recording should indicate which source is in use. The recording method should be 
+such that the timing of all other recorded data items can be derived on playback with a resolution sufficient 
+to reconstruct the history of the incident in detail. 
+5.4.2 Ship's position 
+Latitude and longitude, and the datum used, should be derived from an electronic position-fixing 
+system (EPFS). The recording should ensure that the identity and status of the EPFS can always be 
+determined on playback. 
+5.4.3 Speed 
+Speed through the water or speed over the ground, including an indication of which it is, derived 
+from the ship's speed and distance measuring equipment. 
+5.4.4 Heading 
+As indicated by the ship's compass. 
+5.4.5 Bridge Audio
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+from the ship's speed and distance measuring equipment. 
+5.4.4 Heading 
+As indicated by the ship's compass. 
+5.4.5 Bridge Audio 
+One or more microphones positioned on the bridge should be placed so that conversation at or near 
+the conning stations, radar displays, chart tables, etc., are adequately recorded. As far as practicable, the 
+positioning of microphones should also capture intercom, public address systems and audible alarms on 
+the bridge. 
+I:\ASSEMBL Y\20\RES\861 
+RESOLUTION A.861(20)  adopted on 27 November 1997 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+VOYAGE DATA RECORDERS (VDRs)- 5 - A 20/Res.861 
+5.4.6 Communications Audio 
+VHF communications relating to ship operations should be recorded. 
+5.4. 7 Radar data, post-display selection 
+This should include electronic signal information from within one of the ship's radar installations 
+which records all the information which was actually being presented on the master display of that radar
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+which records all the information which was actually being presented on the master display of that radar 
+at the time of recording. This should include any range rings or markers, bearing markers, electronic 
+plotting symbols, radar maps, whatever parts of the SENC or other electronic chart or map that were 
+selected, the voyage plan, navigational data, navigational alarms and the radar status data that were visible 
+on the display. The recording method should be such that, on playback, it is possible to present a faithful 
+replica of the entire radar display that was on view at the time of recording, albeit within the limitations of 
+any bandwidth compression techniques that are essential to the working of the VDR. 
+5.4.8 Echo sounder 
+This should include depth under keel, the depth scale currently being displayed and other status 
+information where available. 
+5.4.9 Main alarms 
+This should include the status of all mandatory alarms on the bridge. 
+5.4.10 Rudder order and response
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+5.4.9 Main alarms 
+This should include the status of all mandatory alarms on the bridge. 
+5.4.10 Rudder order and response 
+This should include status and settings of auto-pilot if fitted. 
+5.4.11 Engine order and response 
+This should include the positions of any engine telegraphs or direct engine/propeller controls and 
+feedback indications, if fitted, including ahead/astern indicators. This should also include status of bow 
+thrusters if fitted. 
+5.4.12 Hull openings status 
+This should include all mandatory status information required to be displayed on the bridge. 
+5.4.13 W atertight and fire door status 
+This should include all mandatory status information required to be displayed on the bridge. 
+5.4.14 Accelerations and hull stresses 
+Where a ship is fitted with hull stress and response monitoring equipment, all the data items that 
+have been pre-selected within that equipment should be recorded. 
+l:\ASSEMBL Y\20\RES\861 
+RESOLUTION A.861(20)  adopted on 27 November 1997
+---
+SOURCE: A.861(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.861(20).pdf
+have been pre-selected within that equipment should be recorded. 
+l:\ASSEMBL Y\20\RES\861 
+RESOLUTION A.861(20)  adopted on 27 November 1997 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+VOYAGE DATA RECORDERS (VDRs)
+---
+
+SOURCE: A.776(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.776(18).pdf
+RESOLUTION A.776(18)  
+adopted on 4 November 1993  
+PRESENTATION OF ACCOUNTS AND AUDIT REPORTS INTERNATIONAL MARITIME 
+ORGANIZATION A 18/Res.776 8 November 1993 
+Original: ENGLISH 
+ASSEMBLY - 18th session 
+Agenda item 26 
+RESOLUTION A.776(18} 
+adopted on 4 November 1993 
+PRESENTATION OF ACCOUNTS AND AUDIT REPORTS 
+THE ASSEMBLY, 
+RECALLING that regulation 12.10 of the Financial Regulations of the 
+Organization provides for the transmission of the External Auditor's reports 
+through the Council, together with the audited financial statements, to the 
+Assembly, 
+NOTING the Secretary-General's presentation of the final accounts for the 
+sixteenth financial period 1990-1991, and the accounts of IMO's transactions 
+for 1991 as a participating and executing agency of UNDP, together with the 
+External Auditor's report and opinions thereon, 
+NOTING FURTHER the Secretary-General's presentatior\ of the interim 
+account~ for the first year of the seventeenth financial period 1992-1993, and
+---
+SOURCE: A.776(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.776(18).pdf
+NOTING FURTHER the Secretary-General's presentatior\ of the interim 
+account~ for the first year of the seventeenth financial period 1992-1993, and 
+the accounts of IMO's transactions for 1992 as a particjpating and executing 
+agency cf UNDP, together with the External Auditor's re1·orts and opinions 
+thereon, 
+BEARING IN MIND that the Council at its sixty-eighth and seventieth 
+sessions approved the accounts and audit reports for trc,nsmission to the 
+Assembly at its eighteenth regular session, 
+1. APPROVES the accounts and the audit reports thereo11 for the sixteenth 
+financial period 1990-1991 and for IMO's participation in UNDP in 1991; 
+2. APF'ROVES also the accounts and the audit reports thereon for the first 
+year of the seventeenth financial period 1992-1993 and for IMO's participation 
+in UNDP in 1992. 
+W/0230a 
+For reasons of economy, this document is printed in a limited number. Delegates are
+---
+SOURCE: A.776(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.776(18).pdf
+in UNDP in 1992. 
+W/0230a 
+For reasons of economy, this document is printed in a limited number. Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.776(18)  
+adopted on 4 November 1993 
+PRESENTATION OF ACCOUNTS AND AUDIT REPORTS RESOLUTION A.776(18)  
+adopted on 4 November 1993  
+PRESENTATION OF ACCOUNTS AND AUDIT REPORTS
+---
+
+SOURCE: MEPC.154(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.154(55).pdf
+RESOLUTION MEPC.154(55)  
+Adopted on 13 October 2006  
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL 
+CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973 
+ 
+ 
+RESOLUTION MEPC.154(55) 
+Adopted on 13 October 2006 
+ 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO  
+THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF  
+POLLUTION FROM SHIPS, 1973 
+ 
+(Designation of the Southern South African waters as a Special Area) 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+ RECALLING article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Envi ronment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution, 
+ 
+ NOTING article 16 of the Inte rnational Convention for the Prevention of Pollution from 
+Ships, 1973 (hereinafter referred to as the 1973 Convention) and article VI of the Protocol of
+---
+SOURCE: MEPC.154(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.154(55).pdf
+Ships, 1973 (hereinafter referred to as the 1973 Convention) and article VI of the Protocol of 
+1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 
+(hereinafter referred to as the 1978 Protocol) which together specify the amendment procedure 
+of the 1978 Protocol and confer upon the appropriate body of th e Organization the function of 
+considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol 
+(MARPOL 73/78),  
+ 
+ HAVING CONSIDERED proposed amendments to regulation 1 of the revised Annex I to 
+MARPOL 73/78, with a view to designating the Southern South African waters as a Special 
+Area, 
+ 
+1. ADOPTS, in accordance with article 16(2)(d ) of the 1973 Convention, the amendments to 
+the revised Annex I of MARPOL 73/78, the text of which is se t out at Annex to the present 
+resolution; 
+ 
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the
+---
+SOURCE: MEPC.154(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.154(55).pdf
+resolution; 
+ 
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the 
+amendments shall be deemed to have been ac cepted on 1 September 2007, unless prior to that 
+date, not less than one-third of the Parties or Parties the combined merchant fleets of which 
+constitute not less than 50 per cent of the gross tonna ge of the worlds merchant fleet, have 
+communicated to the Organization their objection to the amendments; 
+ 
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of 
+the 1973 Convention, the said amendments shal l enter into force on 1 March 2008 upon their 
+acceptance in accordance with paragraph 2 above; 
+ 
+4. REQUESTS the Secretary- General, in conformity with article 16(2)(e) of 
+the 1973 Convention, to transmit to all Parties to  MARPOL 73/78 certified copies of the present 
+resolution and the text of the amendments contained in the Annex; and
+---
+SOURCE: MEPC.154(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.154(55).pdf
+resolution and the text of the amendments contained in the Annex; and 
+ 
+5. REQUESTS FURTHER the Secretary-Genera l to transmit to the Members of the 
+Organization which are not Parties to MARPOL 73/78 copies of the present resolution and its 
+Annex. 
+RESOLUTION MEPC.154(55)  
+Adopted on 13 October 2006  
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL 
+CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973- 2 - 
+ 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE REVISED ANNEX I OF MARPOL 73/78 
+ 
+(Designation of the Southern South African  waters as a Special Area) 
+A new subparagraph .10 is added to regulation 1.11 as follows: 
+.10 the Southern South African waters  means the sea area enclosed by the following 
+co-ordinates: 
+ 
+31° 14΄ S; 017° 50΄ E 
+31° 30΄ S; 017° 12΄ E 
+32° 00΄ S; 017° 06΄ E 
+32° 32΄ S; 016° 52΄ E 
+34° 06΄ S; 017° 24΄ E 
+36° 58΄ S; 020° 54΄ E 
+36° 00΄ S; 022° 30΄ E 
+35° 14΄ S; 022° 54΄ E 
+34° 30΄ S; 026° 00΄ E 
+33° 48΄ S; 027° 25΄ E
+---
+SOURCE: MEPC.154(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.154(55).pdf
+34° 06΄ S; 017° 24΄ E 
+36° 58΄ S; 020° 54΄ E 
+36° 00΄ S; 022° 30΄ E 
+35° 14΄ S; 022° 54΄ E 
+34° 30΄ S; 026° 00΄ E 
+33° 48΄ S; 027° 25΄ E 
+33° 27΄ S; 027°12΄ E 
+ 
+ 
+ 
+RESOLUTION MEPC.154(55)  
+Adopted on 13 October 2006  
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL 
+CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973 
+ 
+ 
+ 
+RÉSOLUTION MEPC.154(55) 
+ 
+adoptØe le 13 octobre 2006 
+ 
+AMENDEMENTS À L’ANNEXE DU PROTOCOLE DE 1978 RELATIF À LA 
+CONVENTION INTERNATIONALE DE 1973 POUR LA PRÉVENTION DE LA 
+POLLUTION PAR LES NAVIRES 
+ 
+(DØsignation des eaux au large de la côte mØridionale 
+de l’Afrique du Sud comme zone spØciale) 
+ 
+LE COMITÉ DE LA PROTECTION DU MILIEU MARIN, 
+ 
+RAPPELANT l’article 38 a) de la Convention portant crØation de l’Organisation maritime 
+internationale, qui a trait aux f onctions confØrØes au ComitØ de la protection du milieu marin
+---
+SOURCE: MEPC.154(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.154(55).pdf
+internationale, qui a trait aux f onctions confØrØes au ComitØ de la protection du milieu marin 
+(le ComitØ) aux termes des conventions internationales visant à prØvenir et combattre la pollution 
+des mers, 
+ 
+NOTANT l’article 16 de la Conve ntion internationale de 1 973 pour la prØvention de la 
+pollution par les navires (ci-aprŁs dØnommØe la  "Convention de 1973") et l’article VI du 
+Protocole de 1978 relatif à la Convention internationale de 1973 pour la prØvention de la 
+pollution par les navires (ci-aprŁs dØnommØ le "Pro tocole de 1978"), lesquels Ønoncent ensemble 
+la procØdure d’amendement du Protocole de 1978 et confŁrent à l’or gane compØtent de 
+l’Organisation la fonction d’examiner et d’adopter des amendements à la Convention de 1973, 
+telle que modifiØe par le Protocole de 1978 (MARPOL 73/78),  
+ 
+ AYANT EXAMINÉ les amendements qu’il Øtait proposØ d’apporter à la rŁgle 1 de 
+l’Annexe I rØvisØe de MARPOL 73/78, aux fins d’octroyer le statut de zone  spØciale aux eaux au
+---
+SOURCE: MEPC.154(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.154(55).pdf
+l’Annexe I rØvisØe de MARPOL 73/78, aux fins d’octroyer le statut de zone  spØciale aux eaux au 
+large de la côte mØridionale de l’Afrique du Sud, 
+ 
+1.  ADOPTE, conformØment à l’article 16 2) d) de la Convention de 1973, les amendements 
+à l’Annexe I rØvisØe de MARPOL 73/78 dont le texte figure en annexe à la prØsente rØsolution; 
+ 
+2.  DÉCIDE, conformØment à l’article 16 2) f) iii) de la Convention de 1973, que les 
+amendements seront rØputØs avoir ØtØ acceptØs le 1er septembre 2007 à moins que, avant cette 
+date, un tiers au moins des Parties ou des Parties dont les flottes marchandes reprØsentent au total 
+au moins 50 % du tonnage brut de la flotte mo ndiale des navires de co mmerce n’aient notifiØ à 
+l’Organisation qu’elles ØlŁvent une objection à ces amendements; 
+ 
+3.  INVITE les Parties à noter que, conformØment à l’article 16 2) g) ii) de la Convention 
+de 1973, lesdits amendements entreront en vigu eur le 1er mars 2008, aprŁs avoir ØtØ acceptØs
+---
+SOURCE: MEPC.154(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.154(55).pdf
+de 1973, lesdits amendements entreront en vigu eur le 1er mars 2008, aprŁs avoir ØtØ acceptØs 
+suivant la procØdure dØcrite au paragraphe 2 ci-dessus; 
+ 
+4.  PRIE le SecrØtaire gØnØral, en application de l’article 16 2) e) de  la Convention de 1973, 
+de communiquer à toutes les Parties à MARPOL 73/78 des copies certifiØes conformes de la 
+prØsente rØsolution et du texte des amendements qui y est annexØ;  
+ 
+5. PRIE EN OUTRE le SecrØtaire gØnØral de communiquer des exemplaires de la prØsente 
+rØsolution et de son annexe aux Membres de  l’Organisation qui ne sont pas Parties à 
+MARPOL 73/78. 
+RESOLUTION MEPC.154(55)  
+Adopted on 13 October 2006  
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL 
+CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973- 2 - 
+ 
+ 
+ 
+ 
+ANNEXE 
+ 
+AMENDEMENTS À L’ANNEXE I RÉVISÉE DE MARPOL 73/78 
+ 
+(DØsignation des eaux au large de la côte mØridionale 
+de l’Afrique du Sud comme zone spØciale)
+---
+SOURCE: MEPC.154(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.154(55).pdf
+(DØsignation des eaux au large de la côte mØridionale 
+de l’Afrique du Sud comme zone spØciale) 
+ 
+Dans la rŁgle 1.11, ajouter le nouvel alinØa .10 suivant : 
+ 
+".10 par eaux au large de la côte mØridionale de l’Afrique du Sud,  on entend la 
+zone maritime dØlimitØe par une ligne  reliant les poin ts gØographiques 
+ci-aprŁs : 
+ 
+31° 14’ S; 017° 50’ E 
+31° 30’ S; 017° 12’ E 
+32° 00’ S; 017° 06’ E 
+32° 32’ S; 016° 52’ E 
+34° 06’ S; 017° 24’ E 
+36° 58’ S; 020° 54’ E 
+36° 00’ S; 022° 30’ E 
+35° 14’ S; 022° 54’ E 
+34° 30’ S; 026° 00’ E 
+33° 48’ S; 027° 25’ E 
+33° 27’ S; 027°12’ E" 
+ 
+ 
+ 
+RESOLUTION MEPC.154(55)  
+Adopted on 13 October 2006  
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL 
+CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973RESOLUTION MEPC.154(55)  
+Adopted on 13 October 2006  
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING TO THE INTERNATIONAL 
+CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973
+---
