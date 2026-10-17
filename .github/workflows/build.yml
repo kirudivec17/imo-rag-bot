@@ -13,87 +13,75 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-python@v5
         with: { python-version: '3.11' }
-      - run: pip install requests pypdf langchain-text-splitters beautifulsoup4 lxml --quiet
+      - run: pip install requests pypdf langchain-text-splitters --quiet
       
-      - name: Build ALL IMO - Full Capture
+      - name: Build and Update Summary
         run: |
           python - << 'PY'
-          import requests, os, re, concurrent.futures, urllib.parse
+          import os, re, concurrent.futures, urllib.parse, requests
           from pypdf import PdfReader
           from langchain_text_splitters import RecursiveCharacterTextSplitter
 
           s = requests.Session()
           s.headers.update({"User-Agent":"Mozilla/5.0"})
+          splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
 
-          # 1. REPEAT ROKO - existing SOURCE naam yaad rakho
+          # 1. Existing count - repeat roko
           existing = set()
+          total_chunks = 0
+          max_part = -1
+          processed_till = 12000
+
           for fn in os.listdir('.'):
             if 'master_imo_all_public_part' in fn and fn.endswith('.txt'):
               try:
                 txt = open(fn, encoding='utf-8', errors='ignore').read()
+                total_chunks += txt.count('---')
                 for m in re.findall(r'SOURCE:\s*([^\n]+\.pdf)', txt):
                   existing.add(m.strip())
-                  existing.add(urllib.parse.unquote(m.strip()))
+                mm = re.match(r'master_imo_all_public_part(\d+)\.txt', fn)
+                if mm: max_part = max(max_part, int(mm.group(1)))
               except: pass
-          print(f"Already have: {len(existing)} PDFs")
+            if fn == 'imo_public_summary.txt' or fn == 'imo_rag_bot/imo_public_summary.txt':
+              try:
+                t = open(fn).read()
+                m = re.search(r'Processed till (\d+)', t)
+                if m: processed_till = int(m.group(1))
+              except: pass
 
-          # 2. SAARE REAL LINKS - 3 tarike se
-          urls = set()
+          print(f"Before: {len(existing)} PDFs, {total_chunks} chunks, processed till {processed_till}")
 
-          # A) Known working IMO CDN links (100% kaam karte hain)
-          # Ye links maine manually verify kiye hain
+          # 2. New URLs - MSC pattern jo kaam kar raha hai (tumhare 17 wale)
+          urls = []
           base = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions"
-          for n in range(1000, 1230):
-            for sess in [28,29,30,31,32,33]:
-              urls.add(f"{base}/Assembly/Resolution%20A.{n}({sess}).pdf")
-              urls.add(f"{base}/Assembly/A.{n}({sess}).pdf")
-          for n in range(400, 610):
-            for sess in [100,101,102,103,104,105,106,107,108,109]:
-              urls.add(f"{base}/MSCResolutions/MSC.{n}({sess}).pdf")
-          for n in range(200, 420):
-            for sess in [60,70,80,81,82,83,84,85]:
-              urls.add(f"{base}/MEPResolutions/MEPC.{n}({sess}).pdf")
+          # Next batch: 12000-16000 nahi, balki MSC 550-650 jo abhi baaki hai
+          for n in range(528, 650):
+            for sess in [106,107,108,109,110]:
+              urls.append(f"{base}/MSCResolutions/MSC.{n}({sess}).pdf")
+              urls.append(f"{base}/MSCResolutions/MSC.{n}({sess-1}).pdf")
 
-          # B) Extra LCLP docs
-          urls.add(f"{base}/LCLPDocuments/LC-LP.1%20(2008).pdf")
-          urls.add(f"{base}/LCLPDocuments/LC-LP.2(2010).pdf")
-
-          urls = list(urls)
-          print(f"Total generated: {len(urls)}")
-
-          # Repeat hatao
-          new_urls = [u for u in urls if urllib.parse.unquote(u.split('/')[-1]) not in existing]
-          print(f"NEW to try after filter: {len(new_urls)}")
-          new_urls = new_urls[:1000]
-
-          splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
+          # Filter repeat
+          new_urls = [u for u in urls if urllib.parse.unquote(u.split('/')[-1]) not in existing][:800]
+          print(f"NEW to try: {len(new_urls)}")
 
           def dl(url):
             try:
               r = s.get(url, timeout=20)
-              if r.status_code != 200: return None
-              if len(r.content) < 12000: return None
-              if r.content[:4] != b'%PDF': return None
+              if r.status_code != 200 or len(r.content) < 12000 or r.content[:4] != b'%PDF': return None
               open('/tmp/t.pdf','wb').write(r.content)
-              try:
-                reader = PdfReader('/tmp/t.pdf')
-                text = ""
-                for p in reader.pages[:15]:
-                  text += (p.extract_text() or "") + "\n"
-              except:
-                return None
+              reader = PdfReader('/tmp/t.pdf')
+              text = ""
+              for p in reader.pages[:15]:
+                text += (p.extract_text() or "") + "\n"
               if len(text) < 300: return None
               fname = urllib.parse.unquote(url.split('/')[-1])
-              chunks = splitter.split_text(text)
               out = ""
-              for ch in chunks:
+              for ch in splitter.split_text(text):
                 out += f"SOURCE: {fname}\nURL: {url}\n{ch}\n---\n"
               return (fname, out)
-            except:
-              return None
+            except: return None
 
           results = []
-          print("Starting download 20 workers target 300...")
           with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
             futs = [ex.submit(dl, u) for u in new_urls]
             for f in concurrent.futures.as_completed(futs):
@@ -101,28 +89,43 @@ jobs:
               if r:
                 results.append(r)
                 print(f"  [{len(results)}] OK {r[0]}")
-                if len(results) >= 300:
-                  break
+                if len(results) >= 200: break
 
-          print(f"FINAL Downloaded: {len(results)}")
+          print(f"FINAL Downloaded this batch: {len(results)}")
+
+          # 3. Save new part file
           if results:
             combined = "\n".join([x[1] for x in results])
-            max_part = -1
-            for fn in os.listdir('.'):
-              m = re.match(r'master_imo_all_public_part(\d+)\.txt', fn)
-              if m:
-                max_part = max(max_part, int(m.group(1)))
             next_file = f"master_imo_all_public_part{max_part+1}.txt"
+            # agar imo-rag-bot folder me hai to wahi save karo
+            if os.path.exists('imo-rag-bot'):
+              next_file = f"imo-rag-bot/{next_file}"
             open(next_file, 'w', encoding='utf-8').write(combined)
-            print(f"Saved to {next_file} size {len(combined)//1024}KB")
-          else:
-            print("No new file this batch")
+            print(f"Saved {next_file}")
+
+          # 4. SUMMARY UPDATE - Yahi missing tha
+          total_unique = len(existing) + len(results)
+          total_chunks_new = total_chunks + sum([c[1].count('---') for c in results])
+          processed_till_new = processed_till + 500
+
+          summary_text = f"""Processed till {processed_till_new}
+          Total Unique PDFs: {total_unique}
+          Total Chunks: {total_chunks_new}
+          Last Batch New: {len(results)}
+          """
+
+          # dono jagah update karo
+          open('imo_public_summary.txt','w').write(summary_text)
+          if os.path.exists('imo-rag-bot'):
+            open('imo-rag-bot/imo_public_summary.txt','w').write(summary_text)
+
+          print(f"Updated summary: {total_unique} PDFs")
           PY
 
-      - name: Push to repo
+      - name: Push all
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
-          git add master_imo_all_public_part*.txt || true
-          git commit -m "add 300+ IMO" || true
+          git add -A
+          git commit -m "update part and summary - add ${{ github.run_number }}" || true
           git push || true
