@@ -1,0 +1,3712 @@
+SOURCE: MSC.377(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.377(93).pdf
+RESOLUTION MSC.377(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)
+MSC 93/22/Add.1 
+Annex 14, page 1 
+ 
+ 
+I:\MSC\93\22-Add-1.doc 
+ANNEX 14 
+ 
+RESOLUTION MSC.377(93) 
+(adopted on 22 May 2014) 
+ 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND  
+EQUIPMENT OF SHIPS CARRYING LIQUEFIED GASES IN BULK (GC CODE) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO resolution A.328(IX) by which the Assembly, at its ninth session, adopted 
+the Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk 
+(GC Code), 
+ 
+NOTING resolution MSC.370(93), by which it adopted amendments to the International Code 
+for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk (IGC Code),
+---
+SOURCE: MSC.377(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.377(93).pdf
+for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk (IGC Code), 
+ 
+HAVING CONSIDERED, at its ninety-third session, amendments to the GC Code proposed 
+by the Sub-Committee on Stability and Load Lines and Fishing Vessels Safety, at its fifty-fifth 
+session, which were approved by the Committee at its ninety-second session, 
+ 
+RECOGNIZING the need for the amendments to the GC Code to become effective on the 
+date on which the corresponding amendments to the IGC Code enter into force, 
+ 
+1 ADOPTS amendments to  the Code for the Construction and Equipment of Ships 
+Carrying Liquefied Gases in Bulk (GC Code), as amended, the text of which is set out in the 
+annex to the present resolution; 
+ 
+2 DETERMINES that the said amendments shall become effective on 1 January 2016  
+upon acceptance and entry into force of the corresponding amendments to the IGC Code 
+adopted by resolution MSC.370(93).
+---
+SOURCE: MSC.377(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.377(93).pdf
+adopted by resolution MSC.370(93). 
+ 
+                                                
+ Date of entry into force of the aforementioned amendments to the IGC Code.  
+RESOLUTION MSC.377(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)
+MSC 93/22/Add.1 
+Annex 14, page 2 
+ 
+ 
+I:\MSC\93\22-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND  
+EQUIPMENT OF SHIPS CARRYING LIQUEFIED GASES IN BULK (GC CODE) 
+ 
+ 
+CHAPTER II 
+SHIP SURVIVAL CAPABILITY AND CARGO TANK LOCATION 
+ 
+ 
+Paragraph 2.2 – Freeboard and stability 
+ 
+1 A new subparagraph 2.2.4 is added as follows: 
+ 
+"2.2.4 All ships, subject to the Code, should be fitted with a stability instrument, 
+capable of verifying compliance with intact and damage stability requirements, 
+approved by the Administration, at the first scheduled periodical survey of the ship
+---
+SOURCE: MSC.377(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.377(93).pdf
+approved by the Administration, at the first scheduled periodical survey of the ship 
+on or after 1 January 2016, but not later than 1 January 2021, having regard to the 
+performance standards recommended by the Organization*:   
+ 
+.1 notwithstanding the requirements above, a stability instrument 
+fitted on a sh ip before 1 January 2016 need not be replaced 
+provided it is capable of verifying compliance with intact and 
+damage stability, to the satisfaction of the Administration; and 
+ 
+.2 the Administration should issue a document of approval for the 
+stability instrument.  
+________________ 
+* Refer to part B, chapter 4, of the International Code on Intact Stability, 2008 (2008 IS Code), 
+as amended; the Guidelines for the Approval of Stability Instruments (MSC.1/Circ.1229), annex, 
+section 4, as amended; and the technic al standards defined in part 1 of the Guidelines 
+for verification of damage stability requirements for tankers (MSC.1/Circ.1461)."
+---
+SOURCE: MSC.377(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.377(93).pdf
+for verification of damage stability requirements for tankers (MSC.1/Circ.1461)." 
+ 
+2 A new subparagraph 2.2.5 is added as follows: 
+ 
+"2.2.5 The Administration may waive the requirements of paragraph 2.2.4 for the 
+following ships, provided the procedures employed for intact and damage stability 
+verification maintain the same degree of safety as being loaded in accordance with 
+the approved conditions*. Any such waiver should be duly noted on the Certificate of 
+Fitness referred to in paragraph 1.6.4:  
+ 
+.1 ships which are on a dedicated service, with a limited number of 
+permutations of loading such that all anticipated conditions have 
+been approved in the stability information provided to the master 
+in accordance with the requirements of paragraph 2.2.3; 
+ 
+.2 ships where stability verification is made remotely by a means 
+approved by the Administration; 
+ 
+.3 ships which are loaded within an approved range of loading 
+conditions; or 
+ 
+RESOLUTION MSC.377(93)
+---
+SOURCE: MSC.377(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.377(93).pdf
+approved by the Administration; 
+ 
+.3 ships which are loaded within an approved range of loading 
+conditions; or 
+ 
+RESOLUTION MSC.377(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)
+MSC 93/22/Add.1 
+Annex 14, page 3 
+ 
+ 
+I:\MSC\93\22-Add-1.doc 
+.4 ships provided with approved limit ing KG/GM curves covering all 
+applicable intact and damage stability requirements.  
+________________ 
+* Refer to operational guidance provided in part 2 of the Guidelines for verification of damage 
+stability requirements for tankers (MSC.1/Circ.1461)." 
+ 
+Certificate of Fitness 
+ 
+3 The existing paragraph 6 is replaced by the following: 
+ 
+"6 That the ship must be loaded:  
+ 
+.1* only in accordance with loading conditions verified compliant with 
+intact and damage stability requirements using the approved stability 
+instrument fitted in accordance with paragraph 2.2.4 of the Code;
+---
+SOURCE: MSC.377(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.377(93).pdf
+intact and damage stability requirements using the approved stability 
+instrument fitted in accordance with paragraph 2.2.4 of the Code; 
+ 
+.2* where a waiver permitted by paragraph 2.2.5 of the Code is 
+granted and the approved stability instrument required by 
+paragraph 2.2.4 of the Code is not fitted, loading shall be made 
+in accordance with one or more of the following approved 
+methods:  
+ 
+(i) * in accordance with the loading conditions provided in the 
+approved loading manual, stamped and dated .................. 
+and signed by a responsible officer of the Administration, 
+or of an organization recognized by the Administration; or 
+ 
+(ii) * in accordance with loading conditions verified remotely 
+using an approved means…………………; or 
+ 
+(iii) * in accordance with a loading condition which lies within an 
+approved range of conditions defined  in the approved 
+loading manual referred to in (i) above; or 
+ 
+(iv) * in accordance with a loading condition verified using
+---
+SOURCE: MSC.377(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.377(93).pdf
+loading manual referred to in (i) above; or 
+ 
+(iv) * in accordance with a loading condition verified using 
+approved critical KG/GM data defined in the approved 
+loading manual referred to in (i) above;  
+ 
+.3* in accordance with the loading limitations appended to this Certificate. 
+ 
+Where it is required to load the ship other than in accordance with the above 
+instruction, then the necessary calculations to justify the proposed loading 
+conditions should be communicated to the certifying Administ ration who may 
+authorize in writing the adoption of the proposed loading condition. 
+________________ 
+* Delete as appropriate. " 
+ 
+ 
+***
+RESOLUTION MSC.377(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)
+RESOLUTION MSC.377(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)
+---
+
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+RESOLUTION MSC.385(94) (adopted on 21 November 2014) 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE)
+ 
+RESOLUTION MSC.385(94) 
+(adopted on 21 November 2014) 
+ 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING article 28(b) of the Convention on the International Maritime Organization 
+concerning the function of the Committee, 
+ 
+RECOGNIZING the need to provide a mandatory framework for ships operating in polar 
+waters due to the additional demands on ships, their systems and operation, which go 
+beyond the existing requirements of the International Convention for the Safety of Life at Sea 
+(SOLAS), 1974, as amended ("the Convention"), and other relevant binding 
+IMO instruments, 
+ 
+NOTING resolution MSC.386(94), by which it adopted, inter alia, the new chapter XIV of the 
+Convention, 
+ 
+NOTING ALSO that the Marine Environment Protection Committee, at its sixty-seventh
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+Convention, 
+ 
+NOTING ALSO that the Marine Environment Protection Committee, at its sixty-seventh 
+session, approved with a view to adoption, at its sixty-eighth session, the Introduction, as it 
+relates to environmental protection, and parts II-A and II-B of the International Code for Ships 
+Operating in Polar Waters (Polar Code), and also considered for adoption relevant 
+amendments to the International Convention for the Prevention of Pollution from Ships, 1973, 
+as modified by the 1978 Protocol, 
+ 
+HAVING CONSIDERED, at its ninety-fourth session, the draft International Code for Ships 
+Operating in Polar Waters, 
+ 
+1 ADOPTS the safety-related provisions of the Introduction, and the whole of parts I- A 
+and I-B of the Polar Code, the text of which is set out in the annex to the present resolution; 
+ 
+2 AGREES that amendments to the Introduction of the Polar Code that address both 
+safety and environmental protection shall be adopted in consultation with the Marine
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+safety and environmental protection shall be adopted in consultation with the Marine 
+Environment Protection Committee; 
+ 
+3 INVITES Contracting Governments to the Convention to note that the Polar Code 
+will take effect on 1 January 2017 upon entry into force of the new chapter XIV of 
+the Convention; 
+ 
+4 INVITES ALSO Contracting Governments to consider the voluntary application of 
+the Polar Code, as far as practicable, also to ships not covered by the Polar Code and 
+operating in polar waters;  
+ 
+5 REQUESTS the Secretary-General of the Organization, for the purposes of 
+article VIII(b)(v) of the Convention, to transmit certified copies of the present resolution and 
+the text of the Polar Code, contained in the annex, to all Contracting Governments to the 
+Convention; 
+ 
+6 REQUESTS ALSO the Secretary-General of the Organization to transmit copies of 
+the present resolution and the text of the Code contained in the annex to all Members of the
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+the present resolution and the text of the Code contained in the annex to all Members of the 
+Organization which are not Contracting Governments to the Convention; 
+ 
+RESOLUTION MSC.385(94) (adopted on 21 November 2014) 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE)
+- 2 - 
+ 
+7 REQUESTS FURTHER the Secretary-General to prepare a consolidated text of the 
+Polar Code upon adoption of the environmental protection related provisions by the Marine 
+Environment Protection Committee. 
+ 
+ 
+RESOLUTION MSC.385(94) (adopted on 21 November 2014) 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE)
+- 3 - 
+ 
+RESOLUTION MEPC.264(68) 
+(adopted on 15 May 2015) 
+ 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE) 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee conferred upon it
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+concerning the functions of the Marine Environment Protection Committee conferred upon it 
+by international conventions for the prevention and control of marine pollution from ships, 
+ 
+RECOGNIZING the need to provide a mandatory framework for ships operating in polar 
+waters due to the additional demands for the protection of the marine environment, which go 
+beyond the existing requirements contained in the International Convention for the 
+Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto 
+as amended by the 1997 Protocol (MARPOL) and other relevant binding IMO instruments, 
+ 
+NOTING resolution MEPC.265( 68), by which it adopted, inter alia, amendments to 
+MARPOL Annexes I, II, IV and V to make use of the environment-related provisions of the 
+International Code for Ships Operating in Polar Waters (Polar Code) mandatory,  
+ 
+NOTING ALSO that the Maritime Safety Committee, at its ninety-fourth session, adopted, by
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+NOTING ALSO that the Maritime Safety Committee, at its ninety-fourth session, adopted, by 
+resolution MSC.385(94), the Introduction, as it relates to safety, and parts I-A and I-B of the 
+Polar Code and, by resolution MSC.386(94), amendments to the 1974 SOLAS Convention to 
+make use of the safety-related provisions of the Polar Code mandatory,  
+ 
+HAVING CONSIDERED, at its sixty-eighth session, the draft International Code for Ships 
+Operating in Polar Waters, 
+ 
+1 ADOPTS the environment-related provisions of the Introduction, and the whole of 
+parts II-A and II-B of the Polar Code, the text of which is set out in the annex to the present 
+resolution; 
+ 
+2 AGREES that amendments to the Introduction of the Polar Code that address both 
+safety and environmental protection shall be adopted in consultation with the Maritime Safety 
+Committee; 
+ 
+3 INVITES Parties to note that the Polar Code will take effect on 1 January 2017 upon
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+Committee; 
+ 
+3 INVITES Parties to note that the Polar Code will take effect on 1 January 2017 upon 
+entry into force of the associated amendments to MARPOL Annexes I, II, IV and V; 
+ 
+4 INVITES ALSO Parties to consider the voluntary application of the Polar Code, as 
+far as practicable, to ships not covered by the Polar Code and operating in polar waters;  
+  
+5 REQUESTS the Secretary-General, for the purposes of article 16(2)(e) of MARPOL, 
+to transmit certified copies of the present resolution and the text of the Polar Code, contained 
+in the annex, to all Parties to MARPOL;  
+ 
+6 REQUESTS ALSO the Secretary-General to transmit copies of the present 
+resolution and the text of the Polar Code contained in the annex to Members of the 
+Organization which are not Parties to MARPOL;  
+ 
+7 REQUESTS FURTHER the Secretary-General to prepare a consolidated certified 
+text of the Polar Code. 
+ 
+RESOLUTION MSC.385(94) (adopted on 21 November 2014)
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+text of the Polar Code. 
+ 
+RESOLUTION MSC.385(94) (adopted on 21 November 2014) 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE)
+- 4 - 
+ 
+ANNEX 
+ 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE) 
+ 
+ 
+Contents 
+PREAMBLE 
+INTRODUCTION 
+1 Goal 
+2 Definitions  
+3 Sources of hazards  
+4 Structure of the Code  
+PART I-A — SAFETY MEASURES 
+CHAPTER 1 – GENERAL 
+1.1 Structure of this part  
+1.2 Definitions  
+1.3 Certificate and survey  
+1.4 Performance standards  
+1.5 Operational assessment  
+CHAPTER 2 – POLAR WATER OPERATIONAL MANUAL (PWOM) 
+2.1 Goal  
+2.2 Functional requirements  
+2.3 Regulations  
+CHAPTER 3 – SHIP STRUCTURE 
+3.1 Goal 
+3.2 Functional requirements 
+3.3 Regulations 
+CHAPTER 4 – SUBDIVISION AND STABILITY 
+4.1 Goal 
+4.2 Functional requirements 
+4.3 Regulations  
+CHAPTER 5 – WATERTIGHT AND WEATHERTIGHT INTEGRITY 
+5.1 Goal  
+5.2 Functional requirements  
+5.3 Regulations  
+CHAPTER 6 – MACHINERY INSTALLATIONS 
+6.1 Goal
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+5.1 Goal  
+5.2 Functional requirements  
+5.3 Regulations  
+CHAPTER 6 – MACHINERY INSTALLATIONS 
+6.1 Goal  
+6.2 Functional requirements  
+6.3 Regulations  
+CHAPTER 7 – FIRE SAFETY/PROTECTION 
+7.1 Goal  
+7.2 Functional requirements  
+7.3 Regulations  
+ 
+RESOLUTION MSC.385(94) (adopted on 21 November 2014) 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE)
+- 5 - 
+ 
+CHAPTER 8 – LIFE-SAVING APPLIANCES AND ARRANGEMENTS 
+8.1 Goal  
+8.2 Functional requirements  
+8.3 Regulations  
+CHAPTER 9 – SAFETY OF NAVIGATION 
+9.1 Goal  
+9.2 Functional requirements  
+9.3 Regulations  
+CHAPTER 10 – COMMUNICATION 
+10.1 Goal  
+10.2 Functional requirements  
+10.3  Regulations  
+CHAPTER 11 – VOYAGE PLANNING 
+11.1 Goal  
+11.2 Functional requirement s 
+11.3 Requirements  
+CHAPTER 12 – MANNING AND TRAINING 
+12.1 Goal  
+12.2 Functional requirements  
+12.3 Regulations  
+PART I-B — ADDITIONAL GUIDANCE REGARDING THE PROVISIONS OF THE INTRODUCTION 
+AND PART I-A
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+12.2 Functional requirements  
+12.3 Regulations  
+PART I-B — ADDITIONAL GUIDANCE REGARDING THE PROVISIONS OF THE INTRODUCTION 
+AND PART I-A 
+1 Additional guidance to section 2 (definitions) of the introduction 
+2 Additional guidance to chapter 1 (General)  
+3 Additional guidance to chapter 2 (Polar Water Operational Manual (PWOM))  
+4 Additional guidance to chapter 3 (Ship structure)  
+5 Additional guidance to chapter 4 (Subdivision and stability)  
+6 Additional guidance to chapter 5 (Watertight and weathertight integrity)  
+7 Additional guidance to chapter 6 (Machinery installations)  
+8 Additional guidance to chapter 7 (Fire safety/protection)  
+9 Additional guidance to chapter 8 (Life-saving appliances and arrangements)  
+10 Additional guidance to chapter 9 (Safety of navigation)  
+11 Additional guidance to chapter 10 (Communication)  
+12 Additional guidance to chapter 11 (Voyage planning)  
+PART II-A — POLLUTION PREVENTION MEASURES 
+CHAPTER 1 – PREVENTION OF POLLUTION BY OIL
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+12 Additional guidance to chapter 11 (Voyage planning)  
+PART II-A — POLLUTION PREVENTION MEASURES 
+CHAPTER 1 – PREVENTION OF POLLUTION BY OIL 
+1.1 Operational requirements 
+1.2 Structural requirements  
+CHAPTER 2 – CONTROL OF POLLUTION BY NOXIOUS LIQUID SUBSTANCES IN BULK  
+2.1 Operational requirements  
+CHAPTER 3 – PREVENTION OF POLLUTION BY HARMFUL SUBSTANCES CARRIED BY SEA IN 
+PACKAGED FORM 
+CHAPTER 4 – PREVENTION OF POLLUTION BY SEWAGE FROM SHIPS 
+4.1  Definitions  
+4.2 Operational requirements  
+RESOLUTION MSC.385(94) (adopted on 21 November 2014) 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE)
+- 6 - 
+ 
+CHAPTER 5 – PREVENTION OF POLLUTION BY GARBAGE FROM SHIPS 
+5.1 Definitions 
+5.2 Operational requirements 
+PART II-B – ADDITIONAL GUIDANCE REGARDING THE PROVISIONS OF THE INTRODUCTION 
+AND PART II-A 
+ 
+1 Additional guidance to chapter 1  
+2 Additional guidance to chapter 2  
+3  Additional guidance to chapter 5
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+AND PART II-A 
+ 
+1 Additional guidance to chapter 1  
+2 Additional guidance to chapter 2  
+3  Additional guidance to chapter 5  
+4 Additional guidance under other environmental conventions and guidelines  
+APPENDIX I 
+Form of Certificate for Ships operating in Polar Waters (Polar Ship Certificate) 
+Record of Equipment for the Polar Ship Certificate 
+APPENDIX II 
+Model table of contents for the Polar Water Operational Manual (PWOM) 
+ 
+ 
+ 
+RESOLUTION MSC.385(94) (adopted on 21 November 2014) 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE)
+- 7 - 
+ 
+ 
+PREAMBLE 
+ 
+ 
+1 The International Code for Ships Operating in Polar Waters has been developed to 
+supplement existing IMO instruments in order to increase the safety of ships' operation and 
+mitigate the impact on the people and environment in the remote, vulnerable and potentially 
+harsh polar waters. 
+ 
+2 The Code acknowledges that polar water operation may impose additional demands
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+harsh polar waters. 
+ 
+2 The Code acknowledges that polar water operation may impose additional demands 
+on ships, their systems and operation beyond the existing requirements of the International 
+Convention for the Safety of Life at Sea (SOLAS), 1974, the International Convention for the 
+Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto 
+as amended by the 1997 Protocol (MARPOL), and other relevant binding IMO instruments.  
+ 
+3 The Code acknowledges that the polar waters impose additional navigational 
+demands beyond those normally encountered. In many areas, the chart coverage may not 
+currently be adequate for coastal navigation. It is recognized even existing charts may be 
+subject to unsurveyed and uncharted shoals.  
+ 
+4 The Code also acknowledges that coastal communities in the Arctic could be, and 
+that polar ecosystems are, vulnerable to human activities, such as ship operation.
+---
+SOURCE: MSC.385(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.385(94).pdf
+that polar ecosystems are, vulnerable to human activities, such as ship operation. 
+ 
+5 The relationship between the additional safety measures and the protection of the 
+environment is acknowledged as any safety measure taken to reduce the probability of an 
+accident will largely benefit the environment. 
+ 
+6 While Arctic and Antarctic waters have similarities, there are also significant 
+differences. Hence, although the Code is intended to apply as a whole to both Arctic and 
+Antarctic, the legal and geographical differences between the two areas have been taken 
+into account.  
+ 
+7 The key principles for developing the Polar Code have been to use a risk-based 
+approach in determining scope and to adopt a holistic approach in reducing identified risks.  
+ 
+RESOLUTION MSC.385(94) (adopted on 21 November 2014) 
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS 
+(POLAR CODE)
+---
+
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+RESOLUTION MSC.228(82) 
+(adopted on 7 December 2006) 
+REVISED GUIDELINES FOR THE PREVENTION AND  
+SUPPRESSION OF THE SMUGGLING OF DRUGS, PSYCHOTROPIC  
+SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS ENGAGED 
+IN INTERNATIONAL MARITIME TRAFFIC
+MSC 82/24/Add.2 
+ 
+I:\MSC\82\24-Add-2.doc 
+ 
+ 
+ANNEX 14 
+ 
+RESOLUTION MSC.228(82) 
+ 
+(adopted on 7 December 2006) 
+ 
+REVISED GUIDELINES FOR THE PREVENTION AND SUPPRESSION OF THE 
+SMUGGLING OF DRUGS, PSYCHOTROPIC SUBSTANCES AND PRECURSOR 
+CHEMICALS ON SHIPS ENGAGED IN INTERNATIONAL MARITIME TRAFFIC  
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Maritime Safety Committee, 
+ 
+RECALLING that the 2002 SOLAS Conference adopted resolution 3 on Further work by 
+the International Maritime Organization pertaini ng to the enhancement of maritime security, 
+which, in operative paragraph 1(h), invited the Organization to review resolution A.872(20) on
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+which, in operative paragraph 1(h), invited the Organization to review resolution A.872(20) on 
+Guidelines for the prevention and suppressi on of the smuggling of drugs, psychotropic 
+substances and precursor chemicals on ships engaged in international traffic (the Guidelines) and, 
+if necessary, to develop appropriate amendments thereto, 
+ 
+MINDFUL that United Nations Security Co uncil resolutions 1373(2001) and 1456(2003) 
+have, inter alia , noted with concern the close connection between in ternational terrorism and 
+transnational organized crime, illicit drugs, mone y laundering and illegal arms trafficking; and 
+have emphasized the need to enhance co-ordinati on of efforts on national, subregional, regional 
+and international levels in orde r to strengthen a global respons e to these serious threats to 
+international security, 
+ 
+MINDFUL ALSO of the work conducted by other United Nations agencies and
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+international security, 
+ 
+MINDFUL ALSO of the work conducted by other United Nations agencies and 
+international organizations, such as the United Nations International Narcotics Control Board, the 
+United Nations Office on Drugs and Crime, the Un ited Nations Interregional Criminal Justice 
+Research Institute, Interpol and the World Cust oms Organization, to assist States to combat 
+international terrorism and transnational orga nized crime, illicit drugs, money laundering and 
+illegal arms trafficking through provision of guidance and capacity-building activities, 
+ 
+ RECALLING ALSO resolution A.985(24) adopted by the Assembly, at its twenty-fourth 
+regular session, by which the Assembly, inter alia, authorized the Facilitation Committee and the 
+Maritime Safety Committee to adopt jointly the necessary amendments to the Guidelines and to 
+promulgate them by appropriate means, 
+ 
+NOTING that the Facilitation Committee, at its thirty-fourth session, is expected to adopt
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+promulgate them by appropriate means, 
+ 
+NOTING that the Facilitation Committee, at its thirty-fourth session, is expected to adopt 
+the Revised Guidelines for the prevention and suppression of the smuggling of drugs, 
+psychotropic substances and precursor chemicals on ships engaged in international maritime 
+traffic through which it will adopt identical amendments to the Guidelines, 
+ 
+1. ADOPTS the Revised Guidelines for the prev ention and suppression of the smuggling of 
+drugs, psychotropic substances and precursor chemi cals on ships engaged in international traffic, 
+set out in the Annex to the present resolution; 
+ 
+RESOLUTION MSC.228(82) 
+(adopted on 7 December 2006) 
+REVISED GUIDELINES FOR THE PREVENTION AND  
+SUPPRESSION OF THE SMUGGLING OF DRUGS, PSYCHOTROPIC  
+SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS ENGAGED 
+IN INTERNATIONAL MARITIME TRAFFIC
+MSC 82/24/Add.2 
+ANNEX 14 
+Page 2 
+ 
+I:\MSC\82\24-Add-2.doc
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS ENGAGED 
+IN INTERNATIONAL MARITIME TRAFFIC
+MSC 82/24/Add.2 
+ANNEX 14 
+Page 2 
+ 
+I:\MSC\82\24-Add-2.doc 
+2. URGES Member Governments to implem ent the Revised Guidelines as from 
+1 April 2007;  
+ 
+3. INVITES ALSO Member Governments and non-governmental organizations in 
+consultative status with IMO to circulate the Revised Guidelines as widely as possible in order to 
+ensure their widespread promulgation and implementation and to bring them in particular to the 
+attention of harbour masters, shipping companie s, ship operators and managers, shipmasters and 
+other parties concerned; 
+ 
+4. FURTHER INVITES, where appropriate, Member Governments to consider amending 
+their national legislation to give full and complete effect to the Revised Guidelines; 
+ 
+5. REQUESTS ALSO the Assembly to endorse the action taken by the Maritime Safety 
+Committee and the Facilitation Committee and to revoke resolution A.872(20). 
+ 
+RESOLUTION MSC.228(82)
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+Committee and the Facilitation Committee and to revoke resolution A.872(20). 
+ 
+RESOLUTION MSC.228(82) 
+(adopted on 7 December 2006) 
+REVISED GUIDELINES FOR THE PREVENTION AND  
+SUPPRESSION OF THE SMUGGLING OF DRUGS, PSYCHOTROPIC  
+SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS ENGAGED 
+IN INTERNATIONAL MARITIME TRAFFIC
+MSC 82/24/Add.2 
+ANNEX 14 
+Page 3 
+ 
+I:\MSC\82\24-Add-2.doc 
+ 
+ANNEX 
+ 
+REVISED GUIDELINES FOR THE PREVENTION AND SUPPRESSION OF THE 
+SMUGGLING OF DRUGS, PSYCHOTROPIC SUBSTANCES AND 
+PRECURSOR CHEMICALS ON SHIPS ENGAGED IN 
+INTERNATIONAL MARITIME TRAFFIC 
+ 
+CONTENTS 
+ 
+ 
+PREAMBLE 
+ 
+CHAPTER 1   PREVENTION OF ILLI CIT TRAFFICKING OF DRUGS AND 
+PSYCHOTROPIC SUBSTANCES 
+ 
+1 COMPETENT AUTHORITY PROCEDURES  
+ 
+1.1 Action by officers of the competent Authorities 
+1.2 Information about the crew 
+1.3 Action by Companies 
+1.4 Cargo security 
+1.5 Security in the port facility  
+1.6 General security 
+1.7 Personnel security 
+1.8 General
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+1.3 Action by Companies 
+1.4 Cargo security 
+1.5 Security in the port facility  
+1.6 General security 
+1.7 Personnel security 
+1.8 General 
+ 
+2 POSSIBILITY OF ILLICI T LOADING ONTO SHIPS 
+ 
+2.1 Overt or covert entry and concealment of drugs within the ship 
+2.2 Indirect entry and concealmen t of drugs within the ship 
+2.3 Conspiracy to insert and conceal drugs within the ship 
+2.4 Concealment of drugs on the outside of the ship 
+ 
+3 COMPANY ROLES IN OVERALL  SHIP SECURITY 
+ 
+3.1 Education and training of crew 
+3.2 Liaison between competent Authori ties at the port and the Company 
+3.3 Awareness of the risk of illicit trafficking 
+3.4 Review of ship security 
+3.5 Personnel available for ship security 
+3.6 Special care with cargo in containers 
+ 
+4 MEASURES AND PROCEDURES FOR OVERALL SHIP SECURITY 
+ 
+4.1 Port facility security 
+4.2 Security on board ship 
+4.2.1 Control of access to th e ship and identification 
+4.2.2 Precautions while ships are in port
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+4.2 Security on board ship 
+4.2.1 Control of access to th e ship and identification 
+4.2.2 Precautions while ships are in port 
+4.2.3 Access by persons other than crew members 
+4.3 General precautions on ships 
+RESOLUTION MSC.228(82) 
+(adopted on 7 December 2006) 
+REVISED GUIDELINES FOR THE PREVENTION AND  
+SUPPRESSION OF THE SMUGGLING OF DRUGS, PSYCHOTROPIC  
+SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS ENGAGED 
+IN INTERNATIONAL MARITIME TRAFFIC
+MSC 82/24/Add.2 
+ANNEX 14 
+Page 4 
+ 
+I:\MSC\82\24-Add-2.doc 
+4.4 Measures to provide protection against external concealment 
+4.4.1 Lighting 
+4.4.2 Watch from on board 
+4.4.3 Searches below the waterline 
+4.5 Personnel control 
+4.6 Forms of involvement of on-board personnel in drug trafficking 
+4.6.1 Individually 
+4.6.2 The organized conspiracy 
+ 
+5 DETECTION OF CONCEALED DRUGS 
+ 
+5.1 Shipboard searches 
+5.2 Shipboard search planning 
+5.3 Types of shipboard search 
+5.3.1 Reactive search 
+5.3.2 Fast search 
+5.3.3 Preventive search
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+5.2 Shipboard search planning 
+5.3 Types of shipboard search 
+5.3.1 Reactive search 
+5.3.2 Fast search 
+5.3.3 Preventive search 
+5.4 Methods of searching 
+5.4.1 Physical searching 
+5.4.2 X-ray systems and detection technology 
+5.4.3 Use of dogs 
+5.4.4 Additional considerations 
+ 
+6 CONCEALMENT OF DRUGS ON BOARD SHIPS AND TELL-TALE SIGNS 
+ 
+6.1 On board ship 
+6.2 Places of concealment on board ship 
+6.3 Suspicious circumstances on board 
+6.4 Suggested checks for masters and ships officers 
+6.5 Observation of behaviour patterns 
+6.6 Suspicious circumstances at sea 
+6.7 Suspicious circumstances on shore 
+ 
+7 ACTION WHEN DRUGS ARE FOUND 
+ 
+7.1 General guidance 
+7.2 Personal safety considerations 
+7.3 Specific guidance 
+ 
+8 MEDICAL SUBSTANCES PERMITTED ON BOARD 
+ 
+8.1 Medical substances used on board 
+8.2 Medical substances for trade 
+ 
+RESOLUTION MSC.228(82) 
+(adopted on 7 December 2006) 
+REVISED GUIDELINES FOR THE PREVENTION AND  
+SUPPRESSION OF THE SMUGGLING OF DRUGS, PSYCHOTROPIC
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+(adopted on 7 December 2006) 
+REVISED GUIDELINES FOR THE PREVENTION AND  
+SUPPRESSION OF THE SMUGGLING OF DRUGS, PSYCHOTROPIC  
+SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS ENGAGED 
+IN INTERNATIONAL MARITIME TRAFFIC
+MSC 82/24/Add.2 
+ANNEX 14 
+Page 5 
+ 
+I:\MSC\82\24-Add-2.doc 
+CHAPTER 2   CONTROL OF THE TRANSPORT OF PRECURSORS AND CHEMICAL 
+PRODUCTS  
+ 
+1 Precursors and essential chemical products used in the illicit manuf acture of narcotic 
+drugs and psychotropic substances 
+ 
+2 Precautions for the transport of precursors or essential chemical products used in the 
+manufacture of narcotic drugs 
+ 
+3 Recommendations to countrie s which produce, distribute and supply precursor chemicals  
+ 
+ 
+ 
+ANNEXES 
+ 
+ 
+Annex 1  List of essential chem icals and precursors frequently used in the manufacture of 
+narcotic drugs and psychotropic substances (under the United Nations Convention 
+against Illicit Traffic in Narcotic Drugs  and Psychotropic Substances, signed in
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+against Illicit Traffic in Narcotic Drugs  and Psychotropic Substances, signed in 
+Vienna on 19 December 1988) 
+ 
+Annex 2  The balance between  security and facilitation 
+ 
+Annex 3  Internet sites providing information relating to international and national 
+legislation, statistics on c onsumption and seizures and situations invo lving illicit 
+trafficking of drugs, psychotropic substances and chemical products 
+ 
+Annex 4   Drugs and drug addiction 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESOLUTION MSC.228(82) 
+(adopted on 7 December 2006) 
+REVISED GUIDELINES FOR THE PREVENTION AND  
+SUPPRESSION OF THE SMUGGLING OF DRUGS, PSYCHOTROPIC  
+SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS ENGAGED 
+IN INTERNATIONAL MARITIME TRAFFIC
+MSC 82/24/Add.2 
+ANNEX 14 
+Page 6 
+ 
+I:\MSC\82\24-Add-2.doc 
+REVISED GUIDELINES FOR THE PREVENTION AND SUPPRESSION OF THE 
+SMUGGLING OF DRUGS, PSYCHOTROPIC SUBSTANCES AND PRECURSOR 
+CHEMICALS ON SHIPS ENGAGED IN INTERNATIONAL MARITIME TRAFFIC 
+ 
+ 
+PREAMBLE
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+SMUGGLING OF DRUGS, PSYCHOTROPIC SUBSTANCES AND PRECURSOR 
+CHEMICALS ON SHIPS ENGAGED IN INTERNATIONAL MARITIME TRAFFIC 
+ 
+ 
+PREAMBLE 
+ 
+The International Maritime Organization (IMO) pr oposes the following Rev ised Guidelines for 
+the prevention and suppression of the smuggling of psychotropic substances and precursor 
+chemicals on ships engaged in international ma ritime traffic, harmonized with international 
+instruments and recommendations issued by various international bodies such as IMO, the World 
+Customs Organization (WCO) a nd the International Labour Or ganization (ILO), their purpose 
+being to strike a balance between facilitation of international trade and management of security, 
+thus helping to prevent drug-trafficking activities.  
+ 
+The ultimate aim is to comply with United Nations Security Council resolution 1373(2001), 
+whose paragraph 4 refers to the close conn ection between international terrorism and
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+whose paragraph 4 refers to the close conn ection between international terrorism and 
+transnational organized crime, illicit drugs, money laundering and illicit arms trafficking, and 
+highlights the need for closer co-operation at na tional, subregional, regional and international 
+levels so as to strengthen the internationa l response to terrorism and serious threats to 
+international security, and also  with resolution 1456(2003), which reaffirms the duty to prevent 
+terrorists from making use of other criminal activ ities such as transnational organized crime, 
+illicit drugs and drug trafficking, and other criminal activities.  
+ 
+The purpose of these Guidelines is thus to establish basic procedures, not only for detecting drugs 
+on board, but also for making prevention the principal means of ensuring that the scourge of drug 
+trafficking does not damage the worlds econom y and wellbeing through at tacks on international 
+maritime trade.
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+trafficking does not damage the worlds econom y and wellbeing through at tacks on international 
+maritime trade.  
+ 
+In this regard, it is worthwhile  recalling the work done by States and international organizations 
+to tackle drug trafficking, which is reflected in international in struments that are now gaining 
+unequivocal international acceptance. 
+ 
+To illustrate this point, there follows a brief summary of the various international efforts to tackle 
+drug trafficking, some of which address the close links with international maritime transport.   
+ 
+In general terms, the most important of th ese are the International Opium Conventions  
+(The Hague, 1912, and Geneva, 1925), the Convention for Limiting the Manufacture and 
+Regulating the Distribution of Narcotic Dr ugs (Geneva, 1931), the Convention for the 
+Suppression of Illicit Traffic in Dangerous Dr ugs (Geneva, 1936), the New York Protocol of
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+Suppression of Illicit Traffic in Dangerous Dr ugs (Geneva, 1936), the New York Protocol of 
+1946 amending most of the above-mentioned instruments, the Single C onvention on Narcotic 
+Drugs (New York, 1961) and its amending Prot ocol of 1972, the Convention on Psychotropic 
+Substances (Vienna, 1971) and th e United Nations Convention agains t Illicit Traffic in Narcotic 
+Drugs and Psychotropic Substances  (Vienna, 1988; this shows how the legal treatment of this 
+matter has developed over time, as well as the international response to an activity that has a 
+direct impact on society.) 
+ 
+RESOLUTION MSC.228(82) 
+(adopted on 7 December 2006) 
+REVISED GUIDELINES FOR THE PREVENTION AND  
+SUPPRESSION OF THE SMUGGLING OF DRUGS, PSYCHOTROPIC  
+SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS ENGAGED 
+IN INTERNATIONAL MARITIME TRAFFIC
+MSC 82/24/Add.2 
+ANNEX 14 
+Page 7 
+ 
+I:\MSC\82\24-Add-2.doc 
+The latter  the Vienna Convention of 1988 1 can now be said to have gained a large measure of
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+ANNEX 14 
+Page 7 
+ 
+I:\MSC\82\24-Add-2.doc 
+The latter  the Vienna Convention of 1988 1 can now be said to have gained a large measure of 
+acceptance in the international community, follo wing a full examination and review of its 
+provisions to take into account the prevention and eradication of illicit drug trafficking.  
+Implementation of these Guidelines will thus  require a general knowledge of the Vienna 
+Convention.  In this regard, special attention should be paid to the following articles of the 
+Convention: 3. Offences and sanctions; 5. Confiscation; 9. Other forms of co-operation and 
+training; 12. Substances frequently used in th e manufacture of narcotic drugs and psychotropic 
+substances; 13.  Materials and equipment; 15. Commercial carrier s; 16.  Commercial documents 
+and labelling of exports; 17. Illicit traffic by sea; 18. Free trade z ones and free ports;  
+20.  Information to be furnished by the Parties.
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+and labelling of exports; 17. Illicit traffic by sea; 18. Free trade z ones and free ports;  
+20.  Information to be furnished by the Parties. 
+ 
+It is also important to bear in mind the bila teral agreements concluded between States on the 
+subject of preventing and cont rolling illicit drug trafficki ng, many of which draw on the 
+international agreements mentioned above.  
+ 
+Furthermore, the 1982 United Nations Conve ntion on the Law of the Sea (UNCLOS) 2 is 
+fundamentally important to application of the Guidelines, especially its emphasis on the principle 
+of co-operation as the prerequisite  for ach ieving common objectives on the basis of shared 
+responsibility, since action against drugs is ultimately a joint responsibility requiring an 
+integrated and balanced approach. 
+ 
+However, as stated at the outset, mankind is t oday confronted with a set of variables which 
+radically affect development, trade and world economies, and factors such as drug trafficking and
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+radically affect development, trade and world economies, and factors such as drug trafficking and 
+terrorism threaten the facilitation of global maritime  trade. It is pertinent to highlight the direct 
+link between these factors and posi tive responses such as the new provisions in chapter XI-2 of 
+SOLAS, the ISPS Code developed by IMO, the ILO/IMO Code of Pr actice on Security in 
+Ports and the WCO Framework of Standards to Secure and Facilitate Global Trade (SAFE 
+Framework of Standards). 
+ 
+Familiarity with the content of these documents  is advisable for implementing the Guidelines; 
+they should be regarded as complementing and extending the Guidelines when dealing with the 
+areas of harmonization of procedures, flexible dealings in maritime transport, and security for 
+seafarers, shore-based personnel, port facilities and ships; their ultimate aim is to help achieve the 
+balance between security and facilitation.
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+balance between security and facilitation.  
+ 
+It is likewise worth recalli ng that at a diplomatic confer ence convened by IMO in 2002 new 
+provisions to the SOLAS Convention were adopte d, together with the IS PS Code, for the sole 
+and specific purpose of significantly enhanc ing maritime security through the efforts of 
+governments and private companies. The new provisions in the Code undoubtedly provide a solid 
+basis for international co-operati on between ships and por t facilities to prevent and identify acts 
+that threaten the security of maritime tr ansport. The new chapter XI-2 of SOLAS  and the ISPS 
+Code require ships, companies and port facilities to comply with provisions for enhancing 
+                                                 
+1  The Vienna Convention of 20 December 1988 came into interna tional force on 11 December 1990.  
+By January 2006 it had 179 States Parties, including  87 signatories.
+---
+SOURCE: MSC.228(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.228(82).pdf
+By January 2006 it had 179 States Parties, including  87 signatories.  
+ 
+2  UNCLOS, 1982, article 108: 1. All States shall co-opera te in the suppression of illicit traffic in narcotic drugs 
+and psychotropic substances engaged in by ships on the high seas contrary to international conventions. 
+2.  Any State which has reasonable grounds for believing th at a ship flying its flag is engaged in illicit traffic in 
+narcotic drugs or psychotropic substances may request the co-operation of other States to suppress such traffic. 
+ 
+RESOLUTION MSC.228(82) 
+(adopted on 7 December 2006) 
+REVISED GUIDELINES FOR THE PREVENTION AND  
+SUPPRESSION OF THE SMUGGLING OF DRUGS, PSYCHOTROPIC  
+SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS ENGAGED 
+IN INTERNATIONAL MARITIME TRAFFIC
+---
+
+SOURCE: MSC.411(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.411(97).pdf
+RESOLUTION MSC.411(97)   (adopted on 25 November 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS 
+CARRYING LIQUEFIED GASES IN BULK (IGC CODE)
+RESOLUTION MSC.411(97) 
+(adopted on 25 November 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE 
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING 
+LIQUEFIED GASES IN BULK (IGC CODE) 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+NOTING resolution MSC.5(48), by which it adopted the International Code for the Construction 
+and Equipment of Ships Carrying Liquefied Gases in Bulk ("the IGC Code"), which has become 
+mandatory under chapter VII of the International Convention for the Safety of Life at Sea, 1974 
+("the Convention"), 
+NOTING ALSO article VIII(b) and regulation VII/11.1 of the Convention concerning the 
+procedure for amending the IGC Code,
+---
+SOURCE: MSC.411(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.411(97).pdf
+("the Convention"), 
+NOTING ALSO article VIII(b) and regulation VII/11.1 of the Convention concerning the 
+procedure for amending the IGC Code, 
+HAVING CONSIDERED, at its ninety-seventh session, amendments to the IGC Code 
+proposed and circulated in accordance with article VIII(b)(i) of the Convention, 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to the 
+IGC Code, the text of which is set out in the annex to the present resolution; 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that the 
+amendments shall be deemed to have been accepted on 1 July 2019 unless, prior to that date, 
+more than one third of the Contracting Governments to the Convention or Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified their objections to the amendments; 
+3 INVITES Contracting Governments to note that, in accordance with
+---
+SOURCE: MSC.411(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.411(97).pdf
+3 INVITES Contracting Governments to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2020 upon their acceptance in accordance with paragraph 2 above; 
+4 REQUESTS the Secretary-General, for the purpose of article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Governments to the Convention; 
+5 REQUESTS ALSO the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the Organization which are not Contracting Governments to the 
+Convention. 
+RESOLUTION MSC.411(97)   (adopted on 25 November 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS 
+CARRYING LIQUEFIED GASES IN BULK (IGC CODE)
+- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING  
+LIQUEFIED GASES IN BULK (IGC CODE)
+---
+SOURCE: MSC.411(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.411(97).pdf
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING  
+LIQUEFIED GASES IN BULK (IGC CODE)  
+ 
+ 
+CHAPTER 3 
+SHIP ARRANGEMENTS 
+ 
+ 
+3.2 Accommodation, service and machinery spaces and control stations 
+ 
+Existing paragraph 3.2.5 is replaced with the following:  
+ 
+ "3.2.5 Windows and sidescuttles facing the cargo area and on the sides of the 
+superstructures and deckhouses within the limits specified in 3.2.4, except 
+wheelhouse windows, shall be constructed to "A- 60" class. Sidescuttles in the shell 
+below the uppermost continuous deck and in the first tier of the superstructure or 
+deckhouse shall be of fixed (non-opening) type." 
+ 
+ 
+ 
+RESOLUTION MSC.411(97)   (adopted on 25 November 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS 
+CARRYING LIQUEFIED GASES IN BULK (IGC CODE)
+RESOLUTION MSC.411(97)   (adopted on 25 November 2016)
+---
+SOURCE: MSC.411(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.411(97).pdf
+CARRYING LIQUEFIED GASES IN BULK (IGC CODE)
+RESOLUTION MSC.411(97)   (adopted on 25 November 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS 
+CARRYING LIQUEFIED GASES IN BULK (IGC CODE)
+---
+
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+RESOLUTION MSC.372(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE 
+ 
+RESOLUTION MSC.372(93) 
+ 
+(adopted on 22 May 2014) 
+ 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+DANGEROUS GOODS (IMDG) CODE 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+NOTING resolution MSC.122(75) by which it adopted the International Maritime Dangerous 
+Goods Code (hereinafter referred to as "the IMDG Code"), which has become mandatory 
+under chapter VII of the International Convention for the Safety of Life at Sea (SOLAS), 1974, 
+as amended (hereinafter referred to as "the Convention"), 
+ 
+NOTING ALSO article VIII(b) and regulation VII/1.1 of the Convention concerning 
+amendment procedure for amending the IMDG Code, 
+ 
+HAVING CONSIDERED, at its ninety-third session, amendments to the IMDG Code,
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+amendment procedure for amending the IMDG Code, 
+ 
+HAVING CONSIDERED, at its ninety-third session, amendments to the IMDG Code, 
+proposed and circulated in accordance with article VIII(b)(i) of the Convention, 
+ 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the IMDG Code, the text of which is set out in the annex to the present resolution; 
+ 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that 
+the said amendments shall be deemed to have been accepted on 1 July 2015, unless prior to 
+that date, more than one third of the Contracting Governments to the Convention or 
+Contracting Governments the combined merchant fleets of which constitute not less 
+than 50% of the gross tonnage of the world's merchant fleet, have notified their objections to 
+the amendments; 
+ 
+3 INVITES Contracting Governments to the Convention to note that, in accordance
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+the amendments; 
+ 
+3 INVITES Contracting Governments to the Convention to note that, in accordance 
+with article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2016 upon their acceptance in accordance with paragraph 2 above; 
+ 
+4 AGREES that Contracting Governments to the Convention may apply the 
+aforementioned amendments in whole or in part on a voluntary basis as from 1 January 2015; 
+ 
+5 REQUESTS the Secretary-General, in conformity with article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Governments to the Convention; 
+ 
+6 ALSO REQUESTS the Secretary-General to transmit copies of this resolution and 
+its annex to Members of the Organization, which are not Contracting Governments to the 
+Convention. 
+ 
+ 
+RESOLUTION MSC.372(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+Convention. 
+ 
+ 
+RESOLUTION MSC.372(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE 
+- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL MARITIME  
+DANGEROUS GOODS (IMDG) CODE 
+ 
+ 
+Table of Contents 
+ 
+Insert a new section as "7.1.5 Stowage Codes". 
+ 
+Insert a new section as "7.1.6 Handling Codes". 
+ 
+Insert a new section as "7.2.8 Segregation Codes". 
+ 
+PART 1 
+GENERAL PROVISIONS, DEFINITIONS AND TRAINING 
+ 
+Chapter 1.1– General provisions 
+ 
+1.1.1  Application and implementation of the Code 
+ 
+1.1.1.9 Insert a new paragraph 1.1.1.9 to read as follows: 
+ 
+"1.1.1.9 Lamps containing dangerous goods 
+ 
+The following lamps are not subject to this Code provided that they do not 
+contain radioactive material and do not contain mercury in quantities above 
+those specified in special provision 366 of chapter 3.3: 
+ 
+.1 Lamps that are collected directly from individuals and households 
+when transported to a collection or recycling facility;
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+.1 Lamps that are collected directly from individuals and households 
+when transported to a collection or recycling facility; 
+ 
+.2 Lamps each containing not more than 1 g of dangerous goods and 
+packaged so that there is not more than 30 g of dangerous goods 
+per package, provided that:  
+ 
+(i) the lamps are manufactured according to a certified 
+quality management system;  
+ 
+Note: The application of ISO 9001:2008 may be considered 
+acceptable for this purpose. 
+ 
+and 
+ 
+(ii) each lamp is either individually packed in inner 
+packagings, separated by dividers, or surrounded with 
+cushioning material to protect the lamps and packed into 
+strong outer packagings meeting the general provisions 
+of 4.1.1.1 and capable of passing a 1.2 m drop test. 
+ 
+.3 Used, damaged or defective lamps each containing not more 
+than 1 g of dangerous goods with not more than 30 g of dangerous 
+goods per package when transported from a collection or recycling
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+than 1 g of dangerous goods with not more than 30 g of dangerous 
+goods per package when transported from a collection or recycling 
+facility. The lamps shall be packed in strong outer packagings 
+sufficient for preventing release of the contents under normal 
+conditions of transport meeting the general provisions of 4.1.1.1 
+and that are capable of passing a drop test of not less than 1.2 m. 
+RESOLUTION MSC.372(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE 
+- 3 - 
+ 
+Note: lamps containing gases of class 2.2. are addressed 
+in 2.2.2.6.4 and lamps containing radioactive material are addressed 
+in 2.7.2.2.2.2.  
+ 
+.4 Lamps containing only gases of class 2.2 (according to 2.2.2.2) 
+provided they are packaged so that the projectile effects of any 
+rupture of the bulb will be contained within the package." 
+ 
+1.1.2 Conventions 
+ 
+1.1.2.3 International Convention for Safe Containers, 1972, as amended
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+1.1.2 Conventions 
+ 
+1.1.2.3 International Convention for Safe Containers, 1972, as amended 
+ 
+1.1.2.3 Insert a new 1.1.2.3 with the following: 
+ 
+"1.1.2.3 International Convention for Safe Containers, 1972, as amended 
+ 
+1.1.2.3.1 Regulations 1 and 2 of Annex I to the International Convention for Safe 
+Containers (CSC), 1972, as amended, deal with safety approval plates 
+and maintenance and examination of containers, and are reproduced in 
+full. 
+ 
+Annex I 
+Regulations for the testing, inspection, approval 
+and maintenance of containers 
+ 
+Chapter I 
+Regulations common to all 
+systems of approval 
+ 
+ 
+ 
+ 
+Regulation 1 
+Safety Approval Plate 
+ 
+1 (a) A Safety Approval Plate conforming to the specifications 
+set out in the appendix to this annex shall be permanently 
+affixed to every approved container at a readily visible 
+place, adjacent to any other approval plate issued for 
+official purposes, where it would not be easily damaged.
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+place, adjacent to any other approval plate issued for 
+official purposes, where it would not be easily damaged. 
+ 
+   (b) On each container, all maximum operating gross mass 
+markings shall be consistent with the maximum operating 
+gross mass information on the Safety Approval Plate. 
+ 
+   (c) The owner of the container shall remove the Safety 
+Approval Plate on the container if: 
+ 
+(i) the container has been modified in a manner 
+which would void the original approval and the 
+information found on the Safety Approval Plate, or 
+ 
+(ii) the container is removed from service and is not 
+being maintained in accordance with the 
+Convention, or 
+ 
+RESOLUTION MSC.372(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE 
+- 4 - 
+ 
+(iii) the approval has been withdrawn by the 
+Administration. 
+ 
+2 (a) The plate shall contain the following information in at least 
+the English or French language: 
+ 
+CSC SAFETY APPROVAL
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+Administration. 
+ 
+2 (a) The plate shall contain the following information in at least 
+the English or French language: 
+ 
+CSC SAFETY APPROVAL 
+Country of approval and approval reference 
+ 
+Date (month and year) of manufacture 
+ 
+Manufacturer's identification number of the container or, in 
+the case of existing containers for which that number is 
+unknown, the number allotted by the Administration 
+ 
+Maximum operating gross mass (kg and lb) 
+ 
+Allowable stacking load for 1.8g (kg and lb) 
+ 
+Transverse racking test force (newtons). 
+ 
+(b) A blank space should be reserved on the plate for 
+insertion of end-wall and/or side-wall strength values 
+(factors) in accordance with paragraph 3 of this regulation 
+and annex II, tests 6 and 7. A blank space should also be 
+reserved on the plate for the first and subsequent 
+maintenance examination dates (month and year) when 
+used. 
+ 
+3 Where the Administration considers that a new container satisfies
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+maintenance examination dates (month and year) when 
+used. 
+ 
+3 Where the Administration considers that a new container satisfies 
+the requirements of the present Convention in respect of safety 
+and if, for such container, the end-wall and/or side-wall strength 
+values (factors) are designed to be greater or less than those 
+stipulated in annex II, such values shall be indicated on the Safety 
+Approval Plate. Where the stacking or racking values are less 
+than 192,000 kg or 150 kN, respectively, the container shall be 
+considered as having limited stacking or racking capacity and shall 
+be conspicuously marked, as required under the relevant 
+standards*, at or before their next scheduled examination or before 
+any other date approved by the Administration, provided this is not 
+later than 1 July 2015. 
+ 
+4 The presence of the Safety Approval Plate does not remove the 
+necessity of displaying such labels or other information as may be
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+4 The presence of the Safety Approval Plate does not remove the 
+necessity of displaying such labels or other information as may be 
+required by other regulations which may be in force. 
+ 
+5 A container, the construction of which was completed prior 
+to 1 July 2014, may retain the Safety Approval Plate as permitted 
+by the Convention prior to that date as long as no structural 
+modifications occur to that container. 
+ 
+RESOLUTION MSC.372(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE 
+- 5 - 
+ 
+Regulation 2 
+Maintenance and examination 
+ 
+1 The owner of the container shall be responsible for maintaining it 
+in safe condition. 
+ 
+2 (a) The owner of an approved container shall examine the 
+ container or have it examined in accordance with the 
+ procedure either prescribed or approved by the 
+ Contracting Party concerned, at intervals appropriate to 
+ operating conditions. 
+ 
+(b) The date (month and year) before which a new container
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+Contracting Party concerned, at intervals appropriate to 
+ operating conditions. 
+ 
+(b) The date (month and year) before which a new container 
+shall undergo its first examination shall be marked on the 
+Safety Approval Plate. 
+ 
+(c) The date (month and year) before which the container 
+shall be re-examined shall be clearly marked on the 
+container on or as close as practicable to the Safety 
+Approval Plate and in a manner acceptable to that 
+Contracting Party which prescribed or approved the 
+particular examination procedure involved. 
+ 
+(d) The interval from the date of manufacture to the date of 
+the first examination shall not exceed five years. 
+Subsequent examination of new containers and 
+re-examination of existing containers shall be at intervals 
+of not more than 30 months. All examinations shall 
+determine whether the container has any defects which 
+could place any person in danger. 
+ 
+3 (a) As an alternative to paragraph 2, the Contracting Party
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+could place any person in danger. 
+ 
+3 (a) As an alternative to paragraph 2, the Contracting Party 
+concerned may approve a continuous examination 
+programme if satisfied, on evidence submitted by the 
+owner, that such a programme provides a standard of 
+safety not inferior to the one set out in paragraph 2 above. 
+ 
+ (b) To indicate that the container is operated under an 
+approved continuous examination programme, a mark 
+showing the letters ACEP and the identification of the 
+Contracting Party which has granted approval of the 
+programme shall be displayed on the container on or as 
+close as practicable to the Safety Approval Plate. 
+ 
+ (c) All examinations performed under such a programme 
+shall determine whether a container has any defects 
+which could place any person in danger. They shall be 
+performed in connection with a major repair, 
+refurbishment, or on-hire/off-hire interchange and in no 
+case less than once every 30 months.
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+performed in connection with a major repair, 
+refurbishment, or on-hire/off-hire interchange and in no 
+case less than once every 30 months. 
+ 
+4 As a minimum approved programmes should be reviewed once 
+every 10 years to ensure their continued viability. In order to 
+ensure uniformity by all involved in the inspection of containers 
+and their ongoing operational safety, the Contracting Party 
+RESOLUTION MSC.372(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE 
+- 6 - 
+ 
+concerned shall ensure the following elements are covered in each 
+prescribed periodic or approved continuous examination 
+programme: 
+ 
+(a)  methods, scope and criteria to be used during 
+examinations; 
+ 
+(b)  frequency of examinations; 
+ 
+(c)  qualifications of personnel to carry out examinations; 
+ 
+(d)  system of keeping records and documents that will 
+capture: 
+ 
+(i)  the owner's unique serial number of the container;
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+(d)  system of keeping records and documents that will 
+capture: 
+ 
+(i)  the owner's unique serial number of the container; 
+ 
+(ii)  the date on which the examination was carried 
+out; 
+ 
+(iii)  identification of the competent person who 
+carried out the examination; 
+ 
+(iv)  the name and location of the organization where 
+the examination was carried out; 
+ 
+(v)  the results of the examination; and 
+ 
+(vi)  in the case of a periodic examination scheme 
+(PES), the next examination date (NED); 
+ 
+(e)  a system for recording and updating the identification 
+numbers of all containers covered by the appropriate 
+examination scheme; 
+ 
+(f) methods and systems for maintenance criteria that 
+addresses the design characteristics of the specific 
+containers; 
+ 
+(g) provisions for maintaining leased containers if different 
+than those used for owned containers; and 
+ 
+(h) conditions and procedures for adding containers into an 
+already approved programme.
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+than those used for owned containers; and 
+ 
+(h) conditions and procedures for adding containers into an 
+already approved programme. 
+ 
+5 The Contracting Party shall carry out periodic audits of approved 
+programmes to ensure compliance with the provisions approved 
+by the Contracting Party. The Contracting Party shall withdraw any 
+approval when the conditions of approval are no longer complied 
+with. 
+ 
+6 For the purpose of this regulation, the Contracting Party concerned 
+is the Contracting Party of the territory in which the owner is 
+domiciled or has his head office. However, in the event that the 
+owner is domiciled or has his head office in a country the 
+government of which has not yet made arrangements for 
+RESOLUTION MSC.372(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE 
+- 7 - 
+ 
+prescribing or approving an examination scheme and until such 
+time as the arrangements have been made, the owner may use
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+- 7 - 
+ 
+prescribing or approving an examination scheme and until such 
+time as the arrangements have been made, the owner may use 
+the procedure prescribed or approved by the Administration of a 
+Contracting Party which is prepared to act as the Contracting Party 
+concerned. The owner shall comply with the conditions for the use 
+of such procedures set by the Administration in question. 
+ 
+7 Administrations shall make information on approved continuous 
+examination programmes publicly available." 
+ 
+Chapter 1.2 – Definitions, units of measurement and abbreviations 
+ 
+1.2.1 Definitions 
+ 
+In all the definitions, whenever the term "for the transport of Class 7 material" is used, 
+replace it with "for the transport of radioactive material". 
+ 
+Amend the following definitions as indicated: 
+ 
+Design: in the first sentence, insert "fissile material excepted under 2.7.3.5.6 after "the 
+description of".
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+Design: in the first sentence, insert "fissile material excepted under 2.7.3.5.6 after "the 
+description of". 
+ 
+Exclusive use: replace "and unloading is carried" with "and unloading and shipment are 
+carried" and insert ", where so required by the provisions of this Code;" after "consignee".  
+ 
+Freight container: replace the last two sentences with the following: 
+ 
+"In addition: Small freight container means a freight container that has an internal 
+volume of not more than 3 m3. Large freight container means a freight container that 
+has an internal volume of more than 3 m3.".  
+ 
+GHS: in the reference for GHS, replace Rev.4 with "Rev.5" 
+ 
+Manual of Test and Criteria, add at the end "and Amend.2". 
+ 
+Multiple-element gas container: replace "and bundles" with "or bundles". 
+ 
+Radiation level: amend the end of the definition to read: "millisieverts per hour or 
+microsieverts per hour;". 
+ 
+Add the following new definitions in alphabetical order:
+---
+SOURCE: MSC.372(93).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.372(93).pdf
+microsieverts per hour;". 
+ 
+Add the following new definitions in alphabetical order: 
+ 
+"Large salvage packaging means a special packaging which: 
+.1 is designed for mechanical handling; and 
+ 
+.2 exceeds 400 kg net mass or 450 litres capacity but has a volume 
+of not more than 3 m³; 
+ 
+into which damaged, defective or leaking dangerous goods packages, or dangerous 
+goods that have spilled or leaked are placed for purposes of transport for recovery 
+or disposal;" 
+ 
+"Management system , for the transport of radioactive material, means a set of 
+interrelated or interacting elements (system) for establishing policies and objectives 
+and enabling the objectives to be achieved in an efficient and effective manner;" 
+RESOLUTION MSC.372(93) 
+(adopted on 22 May 2014) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE
+---
+
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016) 
+INTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK
+MSC 97/22/Add.1 
+Annex 18, page 1 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MSC 97-22-ADD.1 (E).docx 
+ 
+ANNEX 18 
+ 
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016) 
+ 
+INTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK  
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+NOTING that the International Convention for the Safety of Life at Sea ("the Convention"), 1974 
+and the International Code for the Construction and Equipment of Ships Carrying Liquefied 
+Gases in Bulk ("the IGC Code") currently do not specifically provide requirements for carriage 
+of liquefied hydrogen in bulk by sea, 
+ 
+NOTING ALSO that paragraph 5 of Preamble of the IGC Code states that requirements for
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+of liquefied hydrogen in bulk by sea, 
+ 
+NOTING ALSO that paragraph 5 of Preamble of the IGC Code states that requirements for 
+new products and their conditions of carriage will be circulated as recommendations, on an 
+interim basis, prior to the entry into force of the appropriate amendments. 
+ 
+RECOGNIZING a need for the development of the Interim Recommendations for carriage of 
+liquefied hydrogen in bulk, 
+ 
+ACKNOWLEDGING that, in the interim, there is an urgent need to provide recommendations 
+to the Administrations on safe carriage of liquefied hydrogen in bulk, 
+ 
+ACKNOWLEDGING FURTHER that the Interim Recommendations are intended to facilitate 
+establishment of a tripartite agreement for a pilot ship, which will be developed for the research 
+and demonstration of safe long-distance overseas carriage of liquefied hydrogen in bulk, 
+ 
+HAVING CONSIDERED the Interim Recommendations prepared by the Sub-Committee on 
+Carriage of Cargoes and Containers at its third session,
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+HAVING CONSIDERED the Interim Recommendations prepared by the Sub-Committee on 
+Carriage of Cargoes and Containers at its third session, 
+ 
+1 ADOPTS the Interim Recommendations for carriage of liquefied hydrogen in bulk, 
+the text of which is set out in the annex to the present resolution; 
+ 
+2 INVITES Member States to apply the Interim Recommendations to the pilot ship 
+carrying liquefied hydrogen in bulk taking the explanatory notes into consideration; 
+ 
+3 AGREES to acquire information on safe carriage of liquefied hydrogen in bulk prior to 
+amendment to the IGC Code for the inclusion of liquefied hydrogen; 
+ 
+4 AGREES further that these Interim Recommendations may need to be reviewed if 
+they are to be applied to ships other than the pilot ship; and 
+ 
+5 URGES Member States and the industry to submit information, observations, 
+comments and recommendations based on the practical experience gained through
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+comments and recommendations based on the practical experience gained through 
+the application of the Interim Recommendations and submit relevant safety analysis on ships 
+carrying liquefied hydrogen in bulk. 
+ 
+  
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016) 
+INTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK
+MSC 97/22/Add.1 
+Annex 18, page 2 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MSC 97-22-ADD.1 (E).docx 
+ANNEX 
+ 
+INTERIM RECOMMENDATIONS FOR CARRIAGE 
+OF LIQUEFIED HYDROGEN IN BULK 
+ 
+ 
+1 I NTRODUCTION 
+ 
+1.1 For the carriage of liquefied gases in bulk by ships, the ships should comply with the 
+relevant requirements in the IGC Code, as amended by resolution MSC.370(93) ("the Code"). 
+The scope of the Code provided in paragraph 1.1.1 is: 
+ 
+"The Code applies to ships regardless of their size, including those of less than 
+500 gross tonnage, engaged in the carriage of liquefied gases having a vapour
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+500 gross tonnage, engaged in the carriage of liquefied gases having a vapour 
+pressure exceeding 0.28 MPa absolute at a temperature of 37.8°C, and other 
+products, as shown in chapter 19, when carried in bulk". 
+ 
+1.2 A ship carrying liquefied hydrogen in bulk (hereinafter called "liquefied hydrogen 
+carrier") should comply with the Code. 
+ 
+1.3 The Code requires that a gas carrier should comply with the minimum requirements 
+for the cargo listed in chapter 19. However, the requirements for liquefied hydrogen are not 
+specified in the Code. 
+ 
+1.4 This annex provides the interim recommendations, as referred to in paragraph  5 of 
+the preamble of the Code, for the carriage of liquefied hydrogen in bulk, which are intended to 
+provide the basis for the future minimum requirements for the carriage of this cargo. 
+ 
+1.5 These recommendations have been developed under the assumption that a liquefied 
+hydrogen carrier does not carry liquefied gases other than liquefied hydrogen. These
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+hydrogen carrier does not carry liquefied gases other than liquefied hydrogen. These 
+recommendations, therefore, are not applicable to liquefied hydrogen carriers carrying gases 
+other than liquefied hydrogen. 
+ 
+1.6 In the Code, reference is made to paragraph 5 of the Preamble; paragraph 1.1.6.1; 
+and Note No.8 on completion of certificate in "model form of international certificate of fitness 
+for the carriage of liquefied gases in bulk" in appendix 2 to the Code. 
+ 
+2 I NTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK 
+ 
+2.1 The Interim Recommendations for the carriage of liquefied hydrogen in bulk have 
+been developed based on the results of a comparison study of similar cargoes listed in 
+chapter 19 of the Code, e.g. liquefied natural gas. 
+ 
+2.2 In the Code, chapter 19 governs the application of general requirements for respective 
+cargoes. Selections of the general requirements for respective cargoes are expressed in
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+cargoes. Selections of the general requirements for respective cargoes are expressed in 
+columns 'c' to 'g'. In addition to general requirements, special requirements may apply to 
+specific cargoes depending on the properties/hazards of the cargoes. 
+ 
+2.3 Tables 1 and 2 specify the proposed selection of the general requirements and the 
+special requirements, respectively, for liquefied hydrogen. 
+ 
+  
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016) 
+INTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK
+MSC 97/22/Add.1 
+Annex 18, page 3 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MSC 97-22-ADD.1 (E).docx 
+Table 1: Interim Recommendations for carriage of liquefied hydrogen in bulk 
+ 
+a b c d e f g h i 
+Product name 
+ 
+Ship type 
+Independent 
+tank type C 
+required 
+Control of 
+vapour space 
+within cargo 
+tanks 
+Vapour 
+detection 
+Gauging 
+ 
+Special 
+requirements 
+Hydrogen  2G - - F C  See table 2
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+required 
+Control of 
+vapour space 
+within cargo 
+tanks 
+Vapour 
+detection 
+Gauging 
+ 
+Special 
+requirements 
+Hydrogen  2G - - F C  See table 2 
+ 
+Table 2: Special Requirements for carriage of liquefied hydrogen in bulk 
+ 
+No. Special Requirement Related hazard 
+1 Requirements for materia ls whose design temperature is lower 
+than -165°C should be agreed with the Administration, paying 
+attention to appropriate standards. Where minimum design 
+temperature is lower than -196°C, property testing for insulation 
+materials should be carried out with the appropriate medium, over 
+a range of temperatures expected in service. 
+Low temperature 
+(see 4.2.1) 
+2 Materials of construction and ancillary equipment such as 
+insulation should be resistant to the effects of high oxygen 
+concentrations caused by conde nsation and enrichment at the 
+low temperatures attained in parts of the cargo system (refer to 
+the requirement for nitrogen). 
+Low temperature 
+(see 4.2.2)
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+low temperatures attained in parts of the cargo system (refer to 
+the requirement for nitrogen). 
+Low temperature 
+(see 4.2.2) 
+3 For cargo pipes containing liquid hydrogen and cold hydrogen 
+vapour, measures should be taken to pr event the exposed 
+surfaces from reaching -183°C. For places where preventive 
+measures against low temperature are not sufficiently effective, 
+such as cargo manifolds, other appropriate measures such as 
+ventilation which avoids the formation of highly enric hed oxygen 
+and the installation of trays recovering liquid air may be permitted 
+in lieu of the preventive measures. Insulation on liquid hydrogen 
+piping systems exposing to air should be of non -combustible 
+material and should be designed to have a seal in the outer 
+covering to prevent the condensation of air and subsequent 
+oxygen enrichment within the insulation. 
+Low temperature 
+(see 4.2.2) 
+4 Appropriate means, e.g. filtering, should be provided in cargo
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+oxygen enrichment within the insulation. 
+Low temperature 
+(see 4.2.2) 
+4 Appropriate means, e.g. filtering, should be provided in cargo 
+piping systems to remove impure substances condensed  at low 
+temperature. 
+Low temperature 
+(see 4.2.3) 
+5 Pressure relief systems should be suitably designed and 
+constructed to prevent blockage due to formation of water or ice. 
+Low temperature 
+(see 4.2.4) 
+6 At places where contact with hydrogen is anticipate d, suitable 
+materials should be used to prevent any deterioration owing to 
+hydrogen embrittlement, as necessary. 
+Hydrogen 
+embrittlement 
+(see 4.3) 
+7 All welded joints of the shells of cargo tanks should be of the in-plane 
+butt weld full penetration type. F or dome -to-shell connections 
+only, tee welds of the full penetration type may be used depending 
+on the results of the tests carried out at the approval of the welding 
+procedure. 
+Permeability 
+(see 4.4.1) 
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016)
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+procedure. 
+Permeability 
+(see 4.4.1) 
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016) 
+INTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK
+MSC 97/22/Add.1 
+Annex 18, page 4 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MSC 97-22-ADD.1 (E).docx 
+No. Special Requirement Related hazard 
+8 Double tube structures ensuring no leakage, or fix ed hydrogen 
+detectors being capable of detecting a hydrogen leak, should be 
+provided for places where leakage of hydrogen may occur, such 
+as cargo valves, flanges, and seals. 
+Permeability 
+(see 4.4.2) 
+9 Helium or a mixture of 5% hydrogen and 95% nitrogen should be 
+used as the tightness test medium for cargo tank and cargo 
+piping. 
+Permeability 
+(see 4.4.3) 
+10 The amount of carbon dioxide carried for a carbon dioxide 
+fire-extinguishing system should be sufficient to provide a quantity 
+of free gas equal to 75% or more of the gross volume of the cargo 
+compressor and pump rooms in all cases. 
+Fire by Hydrogen
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+of free gas equal to 75% or more of the gross volume of the cargo 
+compressor and pump rooms in all cases. 
+Fire by Hydrogen 
+(see 4.7.3) 
+Wide range of 
+flammability limits 
+(see 4.10) 
+11 When deterioration of insulation capability by single damage is 
+possible, appropriate safety measures should be adopted taking 
+into account the deterioration. 
+High pressure 
+(see 4.8) 
+12 When vacuum insulation is used for a cargo containment system, 
+the insulation performance should be evaluated to the satisfaction 
+of the Administration based on experiments, as necessary. 
+General 
+(see 4.1) 
+13 Appropriate measures should be provided to prevent vents 
+becoming blocked by accumulations of ice formed from moisture 
+in the air. 
+Low temperature 
+(see 4.2.2) 
+14 Due consideration should be given to means for handling boil-off 
+gas. 
+High pressure 
+(see 4.8) 
+15 Due consideration should be given to static electricity associated 
+with rotating or reciprocating machinery including the installation
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+15 Due consideration should be given to static electricity associated 
+with rotating or reciprocating machinery including the installation 
+of conductive machinery belts and precautionary measures 
+incorporated i n operating and maintenance procedures. 
+Anti-static clothing and footwear, and a portable hydrogen 
+detector should be provided for each crew member working in 
+the cargo area. 
+Static electricity 
+(see 4.9.2) 
+16 An operation manual for a liquefied hydrogen c arrier should 
+include limitations of various operations in relation to 
+environmental conditions. 
+Wide range of 
+flammability limits 
+(see 4.10) 
+17 An appropriate procedure should be established for warm -up, 
+inert gas purge, gas -free, hydrogen purge and pre -cooling. 
+The procedure should include: 
+ 
+.1 selection of inert gas in relation to temperature limit; 
+ 
+.2 measurement of gas concentration; 
+ 
+.3 measurement of temperature; 
+ 
+.4 rates of supply of gases;
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+.2 measurement of gas concentration; 
+ 
+.3 measurement of temperature; 
+ 
+.4 rates of supply of gases; 
+ 
+.5 conditions for commencement, suspension, resuming and 
+termination of each operation; 
+ 
+.6 treatment of return gases; and 
+ 
+.7 discharge of gases. 
+Prevention of 
+dangerous 
+purging operation 
+(see 4.11) 
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016) 
+INTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK
+MSC 97/22/Add.1 
+Annex 18, page 5 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MSC 97-22-ADD.1 (E).docx 
+No. Special Requirement Related hazard 
+18 Only almost pure para-hydrogen (i.e. more than 95%) should be 
+loaded in order to avoid excessive heating by  ortho- to 
+para-hydrogen conversion. 
+General 
+(see 4.1) 
+19 Fire detectors for detecting hydrogen fire should be selected after 
+due deliberation, taking into account the features of hydrogen fire, 
+to the satisfaction of the Administration. 
+Features of 
+hydrogen fire 
+(see 4.7.4)
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+to the satisfaction of the Administration. 
+Features of 
+hydrogen fire 
+(see 4.7.4) 
+20 At the design stage, dispersion of hydrogen from vent outlets 
+should be analysed in order to minimize risk of ingress of 
+flammable gas into accommodation spaces, service spaces, 
+machinery spaces and control stations. Extension of h azardous 
+areas should be considered based on the results of the analysis. 
+Low density and 
+high diffusivity 
+(see 4.5) 
+21 Due consideration should be given to appropriate safety 
+measures to prevent formation of explosive mixture in the case of 
+a leakage of hydrogen, including: 
+ 
+.1 installation of hydrogen detectors in order to detect 
+a possible ground -level travel of low temperature 
+hydrogen gas, and at high points in spaces where warm 
+hydrogen gas can be trapped; and 
+ 
+.2 application of "best practice " for l and-based liquid 
+hydrogen storage taking into account appropriate 
+guidance such as "Cryogenics Safety Manual – Fourth 
+Edition (1998)"8).
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+hydrogen storage taking into account appropriate 
+guidance such as "Cryogenics Safety Manual – Fourth 
+Edition (1998)"8). 
+General 
+(see 4.1) 
+22 In the case that fusible elements are used as a means of fire 
+detection required by paragraph 18. 10.3.2 of the Code, flame 
+detectors suitable for hydrogen flames should be provided in 
+addition at the same locations. Appropriate means should be 
+adopted to prevent the activation of ESD system owing to false 
+alarm of flame detectors, e.g. avoiding activation of ESD system 
+by single sensor (voting method). 
+Fire hazard 
+(see 4.7.4) 
+23 Consideration should be given to enhance the ventilation capacity 
+of the enclosed spaces subject to liquefied hydrogen leakage, 
+taking into account the latent heat of vapourization, specific heat 
+and the volume of hydrogen gas in relation to temperature and 
+heat capacity of adjacent spaces. 
+Low density and 
+high diffusivity 
+(see 4.5) 
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016)
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+heat capacity of adjacent spaces. 
+Low density and 
+high diffusivity 
+(see 4.5) 
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016) 
+INTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK
+MSC 97/22/Add.1 
+Annex 18, page 6 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MSC 97-22-ADD.1 (E).docx 
+No. Special Requirement Related hazard 
+24 Liquid and gas hydrogen pipes should not pass through enclosed 
+spaces other than those referred to in paragraph 5.2.2.1.2 of the 
+Code, unless: 
+ 
+.1.1 the spaces are equipped with gas detection systems 
+which activate the alarm at not more than 30% LFL and 
+shut down the isolation valves, as appropriate, at not 
+more than 60% LFL (see sections 16.4.2 and 16.4.8 of 
+the Code); and 
+ 
+.1.2 the spaces are adequately ventilated; or 
+ 
+.2 the spaces are maintained in an inert condition. 
+ 
+This requirement is not applicable to spaces constituting a part of 
+a cargo containment system using vacuum insulation where
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+This requirement is not applicable to spaces constituting a part of 
+a cargo containment system using vacuum insulation where 
+the degree of vacuum is monitored. 
+Permeability 
+(see 4.4) 
+25 A risk assessment should be conducted to ensure that risks 
+arising from liquefied hydrogen cargo affecting persons on board, 
+the environment, the structural strength or the integrity of the ship 
+are addressed. Consideration should be given to the hazards 
+associated with properties of liquefied hydrogen and hydrogen 
+gas, physical layout, operation and maintenance, following any 
+reasonably foreseeable failure. For the risk assessment, 
+appropriate me thods, e.g. HAZID, HAZOP, FMEA/FMECA, 
+what-if analysis,  etc., should be adopted taking into account 
+IEC/ISO 31010:2009 "Risk management – Risk assessment 
+techniques"7) and SAE ARP 5580 -2001 "Recommended failure 
+modes and effects analysis (FMEA) practices for non-automobile 
+applications"9). 
+General 
+(see 4.1)
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+modes and effects analysis (FMEA) practices for non-automobile 
+applications"9). 
+General 
+(see 4.1) 
+26 Relief valve sizing should be undertaken for the most onerous 
+scenario. Whether this scenario is brought into existence due to 
+fire or by loss of vacuum from the overall insulation system should 
+be a ssessed and the resulting magnitude of the heat flux on 
+the containment system considered in each case. 
+High pressure 
+hazard 
+(see 4.8) 
+27 A filling limit exceeding 98% at reference temperature should not 
+be permitted. 
+High pressure 
+hazard 
+(see 4.8) 
+28 Bolted flange connections of hydrogen piping should be avoided 
+where welded connections are feasible. 
+Permeability 
+(see 4.4.2) 
+29 Due consideration should be given to the invisible nature of 
+hydrogen fire. 
+Fire hazard 
+(see 4.7.1) 
+ 
+3 E XPLANATION ON GENERAL REQUIREMENTS 
+ 
+3.1 Properties of liquefied hydrogen 
+ 
+The application of general requirements in the Code for liquefied hydrogen has been
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+3.1 Properties of liquefied hydrogen 
+ 
+The application of general requirements in the Code for liquefied hydrogen has been 
+considered based on a comparison study on the physical properties of liquefied hydrogen 
+and LNG. LNG and liquefied hydrogen are cryogenic liquids, non-toxic, and generate 
+flammable high pressure gas. For reference, table 3 shows the comparison of physical 
+properties of hydrogen and methane, the major component of LNG. 
+  
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016) 
+INTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK
+MSC 97/22/Add.1 
+Annex 18, page 7 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MSC 97-22-ADD.1 (E).docx 
+Table 3: Comparison of physical properties of Hydrogen and Methane 
+ 
+ Hydrogen Methane References 
+Boiling temperature (K)* 20.3 111.6 ISO1), Annex A, Table A.3 
+Liquid density (kg/m3)* 70.8 422.5 ISO1), Annex A, Table A.3 
+Gas density (kg/m3)** (Air: 1.198) 0.084 0.668 NIST RefProp10)
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+Liquid density (kg/m3)* 70.8 422.5 ISO1), Annex A, Table A.3 
+Gas density (kg/m3)** (Air: 1.198) 0.084 0.668 NIST RefProp10) 
+Viscosity (g/cm•s x 10-6) 
+Gas 
+Liquid 
+ 
+8.8 
+13.49 
+ 
+10.91 
+116.79 
+ 
+NIST RefProp10) 
+NIST RefProp10) 
+Flame temperature in air (°C) 2396 2230 Calculated using Cantera and GRI 3.0 mechanism 
+Maximum burning velocity (m/s) 3.15 0.385 Calculated using Cantera and GRI 3.0 mechanism 
+Heat of vapourization (J/g)* 448.7 510.4 ISO1), Annex A, Table A.3 
+Lower flammability limit 
+(% vol. fraction)*** 4.0 5.3 ISO1), Annex B, Table B.2 
+Upper flammability limit 
+(% vol. fraction)*** 75.0 17.0 ISO1), Annex B, Table B.2 
+Lower detonation limit 
+(%vol. fraction)*** 18.3 6.3 ISO1), Annex B, Table B.2 
+Upper detonation limit (% vol. 
+fraction) *** 59.0 13.5 ISO1), Annex B, Table B.2 
+Minimum ignition energy (mJ)*** 0.017 0.274 ISO1), Annex B, Table B.2 
+Auto-ignition temp. (°C)*** 585 537 ISO1), Annex B, Table B.2 
+Toxicity Non Non Orange book5)
+---
+SOURCE: MSC.420(97).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.420(97).pdf
+Auto-ignition temp. (°C)*** 585 537 ISO1), Annex B, Table B.2 
+Toxicity Non Non Orange book5) 
+Temperature at critical point (K) 33.19**** 190.55 
+Hydrogen: ISO1), Annex A, 
+Table A.1 
+Methane: The Japan 
+Society of Mechanical 
+Engineers, Data Book, 
+Thermophysical 
+Properties of Fluids (1983) 
+Pressure at critical point (kPaA) 1297**** 4595 
+Hydrogen: ISO1), Annex A, 
+Table A.1 
+Methane: The Japan 
+Society of Mechanical 
+Engineers, Data Book, 
+Thermophysical 
+Properties of Fluids (1983) 
+ 
+Remarks: * At their normal boiling points for comparison purpose. 
+** At normal temperature and pressure. 
+*** Ignition and combustion properties for air mixtures at 25°C 
+and 101.3 kPaA. 
+**** Normal Hydrogen. 
+ 
+  
+RESOLUTION MSC.420(97) 
+(adopted on 25 November 2016) 
+INTERIM RECOMMENDATIONS FOR CARRIAGE OF LIQUEFIED HYDROGEN IN BULK
+---
+
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR SAFE CONTAINERS (CSC), 1972
+ 
+ 
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013) 
+ 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR SAFE CONTAINERS (CSC), 1972 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+NOTING article X of the International Convention for Safe Containers, 1972 (hereinafter 
+referred to as "the Convention"), concerning the special procedure for amending the annexes 
+to the Convention, 
+ 
+HAVING CONSIDERED, at its ninety-second session, proposed amendments to the 
+Convention in accordance with the procedure set forth in paragraphs 1 and 2 of article X of 
+the Convention, 
+ 
+1. ADOPTS the amendments to the annexes of the Convention, the text of which is set 
+out in the annex to the present resolution;
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+1. ADOPTS the amendments to the annexes of the Convention, the text of which is set 
+out in the annex to the present resolution; 
+ 
+2. DETERMINES, in accordance with paragraph 3 of article X of the Convention, that 
+the said amendments shall enter into force on 1 July 2014 unless, prior to 1 January 2014, 
+five or more of the Contracting Parties notify the Secretary-General of their objection to the 
+amendments; 
+ 
+3. REQUESTS the Secretary-General, in conformity with paragraph 2 of article X of the 
+Convention, to communicate the certified copies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Parties for their acceptance; 
+ 
+4. ALSO REQUESTS the Secretary-General to inform all Contracting Parties and 
+Members of the Organization of any request and communication under article X of the 
+Convention and of the date on which the amendments enter into force. 
+ 
+ 
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013)
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+Convention and of the date on which the amendments enter into force. 
+ 
+ 
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR SAFE CONTAINERS (CSC), 1972
+- 2 - 
+ 
+ 
+ANNEX 
+ 
+AMENDMENTS TO  
+THE INTERNATIONAL CONVENTION FOR SAFE CONTAINERS (CSC), 1972 
+ 
+ANNEX I 
+REGULATIONS FOR THE TESTING, INSPECTION, APPROVAL 
+AND MAINTENANCE OF CONTAINERS 
+ 
+Chapter I 
+Regulations common to all systems of approval 
+ 
+ 
+1 After the heading of chapter I, the following text is inserted: 
+ 
+"General Provisions 
+ 
+The following definitions shall be applied for the purpose of this annex: 
+ 
+The letter g means the standard acceleration of gravity; g equals 9.8 m/s2. 
+ 
+The word load, when used to describe a physical quantity to which units may be 
+ascribed, signifies mass. 
+ 
+Maximum operating gross mass or Rating or R means the maximum allowable sum 
+of the mass of the container and its cargo.  The letter R is expressed in units of
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+of the mass of the container and its cargo.  The letter R is expressed in units of 
+mass.  Where the annexes are based on gravitational forces derived from this value, 
+that force, which is an inertial force, is indicated as Rg. 
+ 
+Maximum permissible payload or P  means the difference between maximum 
+operating gross mass or rating and tare.  The letter P is expressed in units of mass.  
+Where the annexes are based on the gravitational forces derived from this value, 
+that force, which is an inertial force, is indicated as Pg. 
+ 
+Tare means the mass of the empty container, including permanently affixed ancillary 
+equipment." 
+ 
+Regulation 1  Safety Approval Plate 
+ 
+2 Subparagraph 1(b) is amended as follows: 
+ 
+''(b) On each container, all maximum operating gross mass markings shall be 
+consistent with the maximum operating gross mass information on the 
+Safety Approval Plate.''; 
+ 
+3 Subparagraph 2(a) is amended as follows:
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+consistent with the maximum operating gross mass information on the 
+Safety Approval Plate.''; 
+ 
+3 Subparagraph 2(a) is amended as follows: 
+ 
+''(a) The plate shall contain the following information in at least the English or 
+French language: 
+ 
+''CSC SAFETY APPROVAL'' 
+Country of approval and approval reference 
+Date (month and year) of manufacture 
+Manufacturer's identification number of the container or, in the 
+case of existing containers for which that number is unknown, 
+the number allotted by the Administration 
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR SAFE CONTAINERS (CSC), 1972
+- 3 - 
+ 
+ 
+Maximum operating gross mass (kg and lbs) 
+Allowable stacking load for 1.8 g (kg and lbs) 
+Transverse racking test force (newtons)'' 
+ 
+4 At the end of paragraph 3, the symbol "." is deleted and a new text is added a s 
+follows: 
+ 
+", at or before their next scheduled examination or before any other date approved
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+follows: 
+ 
+", at or before their next scheduled examination or before any other date approved 
+by the Administration, provided this is not later than 1 July 2015." 
+ 
+5 After the existing paragraph 4, a new paragraph 5 is added as follows: 
+ 
+''5 A container, the construction of which was completed prior to 1 July 2014, 
+may retain the Safety Approval Plate as permitted by the Convention prior to that 
+date as long as no structural modifications occur to that container.'' 
+ 
+ 
+Chapter IV 
+Regulations for approval of existing containers 
+and new containers not approved at time of manufacture 
+ 
+Regulation 9  Approval of existing containers 
+ 
+6 Subparagraphs 1(c) and 1(e) are amended as follows: 
+ 
+''(c) maximum operating gross mass capability; '' 
+ 
+''(e) allowable stacking load for 1.8 g (kg and lbs); and '' 
+ 
+Regulation 10  Approval of new containers not approved at time of manufacture 
+ 
+7 Subparagraphs (c) and (e) are amended as follows:
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+Regulation 10  Approval of new containers not approved at time of manufacture 
+ 
+7 Subparagraphs (c) and (e) are amended as follows: 
+ 
+''(c) maximum operating gross mass capability; '' 
+ 
+''(e) allowable stacking load for 1.8 g (kg and lbs); and '' 
+ 
+ 
+Appendix 
+ 
+ 
+8 The fourth, fifth and sixth lines of the model of the Safety Approval Plate reproduced 
+in the appendix are amended as follows: 
+ 
+''MAXIMUM OPERATING GROSS MASS ........ kg ........ lbs 
+ALLOWABLE STACKING LOAD FOR 1.8 g ........ kg ........ lbs 
+TRANSVERSE RACKING TEST FORCE ........ newtons'' 
+ 
+9 Items 4 to 8 of the appendix are amended as follows: 
+ 
+''4 Maximum operating gross mass (kg and lbs). 
+ 
+5 Allowable stacking load for 1.8 g (kg and lbs). 
+ 
+6 Transverse racking test force (newtons). 
+ 
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR SAFE CONTAINERS (CSC), 1972
+- 4 - 
+ 
+ 
+7 End-wall strength to be indicated on plate only if end-walls are designed to
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+FOR SAFE CONTAINERS (CSC), 1972
+- 4 - 
+ 
+ 
+7 End-wall strength to be indicated on plate only if end-walls are designed to 
+withstand a force of less or greater than 0.4 times the gravitational force by 
+maximum permissible payload, i.e. 0.4Pg. 
+ 
+8 Side-wall strength to be indicated on plate only if the side-walls are 
+designed to withstand a force of less or greater than 0.6 times the 
+gravitational force by maximum permissible payload, i.e. 0.6Pg.'' 
+ 
+10 The existing paragraphs 10 and 11 are replaced as follows: 
+ 
+"10 One door off stacking strength to be indicated on plate only if the container 
+is approved for one door off operation. The marking shall show: ALLOWABLE 
+STACKING LOAD ONE DOOR OFF FOR 1.8 g (... kg ... lbs). This marking shall be 
+displayed immediately near the stacking test value (see line 5). 
+ 
+11 One door off racking strength to be indicated on plate only if the container is 
+approved for one door off operation.  The marking shall show: TRANSVERSE
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+approved for one door off operation.  The marking shall show: TRANSVERSE 
+RACKING TEST FORCE ONE DOOR OFF (... newtons).  This marking shall be 
+displayed immediately near the racking test value (see line 6)." 
+ 
+ 
+ANNEX II 
+ 
+STRUCTURAL SAFETY REQUIREMENTS AND TESTS 
+ 
+11 After the heading of annex II, the following text is inserted: 
+ 
+"General Provisions 
+ 
+The following definitions shall be applied for the purpose of this annex: 
+ 
+The letter g means the standard acceleration of gravity; g equals 9.8 m/s2. 
+ 
+The word load, when used to describe a physical quantity to which units may be 
+ascribed, signifies mass. 
+ 
+Maximum operating gross mass or Rating or R means the maximum allowable sum 
+of the mass of the container and its cargo.  The letter R is expressed in units of 
+mass.  Where the annexes are based on gravitational forces derived from this value, 
+that force, which is an inertial force, is indicated as Rg.
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+mass.  Where the annexes are based on gravitational forces derived from this value, 
+that force, which is an inertial force, is indicated as Rg. 
+ 
+Maximum permissible payload or P  means the difference between maximum 
+operating gross mass or rating and tare.  The letter P is expressed in units of mass.  
+Where the annexes are based on the gravitational forces derived from this value, 
+that force, which is an inertial force, is indicated as Pg. 
+ 
+Tare means the mass of the empty container, including permanently affixed ancillary 
+equipment." 
+ 
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR SAFE CONTAINERS (CSC), 1972
+- 5 - 
+ 
+ 
+12 The first sentence of the Introduction to annex II (Structural safety requirements and 
+tests) is amended as follows: 
+ 
+''In setting the requirements of this annex, it is implicit that, in all phases of the 
+operation of containers, the forces as a result of motion, location, stacking and
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+operation of containers, the forces as a result of motion, location, stacking and 
+gravitational effect of the loaded container and external forces will not exceed the 
+design strength of the container.'' 
+ 
+13 In section 1 (Lifting), subsection 1(A) (Lifting from corner fittings), the text concerning 
+test loadings and applied forces is amended as follows: 
+ 
+''TEST LOAD AND APPLIED FORCES 
+ 
+Internal load: 
+ 
+A uniformly distributed load such that the sum of the mass of container and test load 
+is equal to 2R.  In the case of a tank container, when the test load of the internal 
+load plus the tare is less than 2R, a supplementary load, distributed over the length 
+of the tank, is to be added to the container. 
+ 
+Externally applied forces: 
+ 
+Such as to lift the sum of a mass of 2R in the manner prescribed (under the heading 
+TEST PROCEDURES).'' 
+ 
+14 In section 1 (Lifting), subsection 1(B) (Lifting by any other additional methods) is 
+replaced with the following:
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+TEST PROCEDURES).'' 
+ 
+14 In section 1 (Lifting), subsection 1(B) (Lifting by any other additional methods) is 
+replaced with the following: 
+ 
+"TEST LOAD AND APPLIED FORCES TEST PROCEDURES 
+ 
+Internal load: 
+ 
+A uniformly distributed load such that the 
+sum of the mass of container and test load is 
+equal to 1.25R. 
+ 
+Externally applied forces: 
+ 
+Such as to lift the sum of a mass of 1.2 5R in 
+the manner prescribed (under the heading 
+TEST PROCEDURES). 
+(i) Lifting from fork-lift pockets: 
+ 
+The container shall be placed on bars which 
+are in the same horizontal plane, one bar 
+being centred within each fork -lift pocket 
+which is used for lifting  the loaded container.  
+The bars shall be of the same width as the 
+forks intended to be used in the handling, 
+and shall project into the fork pocket 75% of 
+the length of the fork pocket. 
+ 
+Internal load: 
+ 
+A uniformly distributed load such that the 
+sum of the mass of container and test load is
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+the length of the fork pocket. 
+ 
+Internal load: 
+ 
+A uniformly distributed load such that the 
+sum of the mass of container and test load is 
+equal to 1.25R.  In the case of a tank 
+container, when the test load of the internal 
+load plus the tare is less than 1.25R, 
+a supplementary load, distributed over the 
+length of the tank, is to be added to the 
+container. 
+ 
+ 
+ 
+ 
+ 
+(ii) Lifting from grappler-arm positions: 
+ 
+The container shall be placed on pads in the 
+same horizontal plane, one under each 
+grappler-arm position.  These pads shall be 
+of the same sizes as the lifting area of the 
+grappler arms intended to be used. 
+ 
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR SAFE CONTAINERS (CSC), 1972
+- 6 - 
+ 
+ 
+Externally applied forces: 
+ 
+Such as to lift the sum of a mass of 1.25R in 
+the manner prescribed (under the heading 
+TEST PROCEDURES). 
+ 
+ iii) Other methods: 
+ 
+Where containers are designed to be lifted in
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+the manner prescribed (under the heading 
+TEST PROCEDURES). 
+ 
+ iii) Other methods: 
+ 
+Where containers are designed to be lifted in 
+the loaded condition by any method not 
+mentioned in  (A) or (B)(i) and (ii) they shall 
+also be tested with the internal load and 
+externally applied forces representative of 
+the acceleration conditions appropriate to 
+that method." 
+ 
+ 
+15 Paragraphs 1 and 2 of section 2 (STACKING) are amended as follows: 
+ 
+''1 For conditions of international transport where the maximum vertical 
+acceleration varies significantly from 1.8 g and when the container is reliably and 
+effectively limited to such conditions of transport, the stacking load may be varied by 
+the appropriate ratio of acceleration. 
+ 
+2 On successful completion of this test, the container may be rated for the 
+allowable superimposed static stacking load, which should be indicated on the 
+Safety Approval Plate against the heading ALLOWABLE STACKING LOAD 
+FOR 1.8 g (kg and lbs).''
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+Safety Approval Plate against the heading ALLOWABLE STACKING LOAD 
+FOR 1.8 g (kg and lbs).'' 
+ 
+16 In section 2 (STACKING), the text concerning test loadings and applied forces is 
+amended as follows: 
+ 
+''TEST LOAD AND APPLIED FORCES 
+Internal load: 
+A uniformly distributed load such that the sum of the mass of container and test load 
+is equal to 1.8R.  Tank containers may be tested in the tare condition. 
+Externally applied forces: 
+Such as to subject each of the four top corner fittings to a vertical downward force 
+equal to 0.25 x 1.8 x the gravitational force of the allowable superimposed static 
+stacking load.'' 
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR SAFE CONTAINERS (CSC), 1972
+- 7 - 
+ 
+ 
+17 Section 3 (CONCENTRATED LOADS) is amended as follows: 
+ 
+''TEST LOAD AND APPLIED FORCES    TEST PROCEDURES 
+ 
+(a)  On roof 
+ 
+Internal load: 
+ 
+The externally applied forces shall be applied
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+''TEST LOAD AND APPLIED FORCES    TEST PROCEDURES 
+ 
+(a)  On roof 
+ 
+Internal load: 
+ 
+The externally applied forces shall be applied 
+vertically downwards to the outer surface of  
+the weakest area of the roof of the container. 
+ 
+None. 
+ 
+Externally applied forces: 
+ 
+A concentrated gravitational force of 300  kg 
+(660 lbs) uniformly distributed over an area   
+of 600 mm x 300 mm (24 in x 12 in). 
+ 
+ 
+(b)  On floor 
+ 
+ 
+Internal load: 
+ 
+The test should be made with the container 
+resting on four level supports under its four 
+bottom corners in such a manner that the 
+base structure of the container is free to 
+deflect. 
+ 
+A testing device loaded to a mass 
+of 5,460 kg (12,000  lbs), that is, 2,730  kg 
+(6,000 lbs) on each of two surfaces, having, 
+when loaded, a total contact area of 284  cm2 
+(44 sq in), that is, 142 cm2 (22 sq in) on each 
+surface, the surface width being 180  mm 
+(7 in) spaced 760 mm (30 in) apart, centre to 
+centre, should be manoeuvred over  the
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+surface, the surface width being 180  mm 
+(7 in) spaced 760 mm (30 in) apart, centre to 
+centre, should be manoeuvred over  the 
+entire floor area of the container. 
+ 
+Two concentrated loads each of 2,730  kg 
+(6,000 lbs) and each added to the container 
+floor within a contact area of 142  cm2 
+(22 sq in). 
+ 
+Externally applied forces: 
+ 
+None. 
+ 
+" 
+ 
+18 The heading and subheading of the text concerning test loadings and applied forces 
+in section 4 (TRANSVERSE RACKING) are replaced with the following respectively: 
+ 
+''TEST LOAD AND APPLIED FORCES'' and ''Internal load:''. 
+ 
+19 In section 5 (LONGITUDINAL RESTRAINT (STATIC TEST)), the text concerning 
+test loadings and applied forces is amended as follows: 
+ 
+''TEST LOAD AND APPLIED FORCES 
+Internal load: 
+ 
+A uniformly distributed load, such that the sum of the mass of a container and test 
+load is equal to the maximum operating gross mass or rating R.  In the case of
+---
+SOURCE: MSC.355(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.355(92).pdf
+load is equal to the maximum operating gross mass or rating R.  In the case of 
+a tank container, when the mass of the internal load plus the tare is less than the 
+maximum gross mass or rating, R, a supplementary load is to be added to the 
+container. 
+RESOLUTION MSC.355(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR SAFE CONTAINERS (CSC), 1972
+---
+
+SOURCE: MSC.211(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.211(81).pdf
+RESOLUTION MSC.211(81) 
+(adopted on 19 May 2006) 
+ARRANGEMENTS FOR THE TIMELY ESTABLISHMENT OF THE 
+LONG-RANGE IDENTIFICATION AND TRACKING SYSTEM
+MSC 81/25/Add.1 
+ 
+I:\MSC\81\25-Add-1.doc 
+ 
+ 
+ANNEX 14 
+ 
+RESOLUTION MSC.211(81) 
+(adopted on 19 May 2006) 
+ 
+ 
+ARRANGEMENTS FOR THE TIMELY ESTABLISHMENT OF THE  
+LONG-RANGE IDENTIFICATION AND TRACKING SYSTEM 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+HAVING adopted amendments to the Internati onal Convention for the Safety of Life at 
+Sea, 1974, as amended (the Convention) relating to  the long-range identifi cation and tracking of 
+ships (SOLAS regulation V/19-1) which, upon accep tance on 1 July 2007, will enter into force 
+on 1 January 2008, 
+ 
+HAVING ALSO adopted Performance standard s and functional requirements for the 
+long-range identification and tracking of ships (the Performance standards),
+---
+SOURCE: MSC.211(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.211(81).pdf
+long-range identification and tracking of ships (the Performance standards), 
+ 
+ALSO HAVING agreed with the establishment of ad hoc  Working Group on engineering 
+aspects of LRIT, 
+ 
+RECOGNIZING the need to put in place arrangements with a view to ensuring the 
+prompt establishment of the International LRIT Da ta Centre and of the International LRIT Data 
+Exchange as well as the need for testing and confirming the function of the LRIT system as 
+envisaged in the LRIT architecture, 
+ 
+1. INVITES Contracting Governments to the Convention (Contracting Governments) to 
+advise the Committee, at its eighty-second session, of their firm intentions in relation to the 
+establishment of National, Regional and Co-operative LRIT Data Centre(s); 
+ 
+2. INVITES ALSO Contracting Governments to submit proposals on the issues which need 
+to be addressed in relation to the establishment of the International LRIT Data Centre and of the
+---
+SOURCE: MSC.211(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.211(81).pdf
+to be addressed in relation to the establishment of the International LRIT Data Centre and of the 
+International LRIT Data Exchange or on any other issues relating to the establishment, operation, 
+performance review and audit of the LRIT syst em for consideration by the Committee at its 
+eighty-second session; 
+ 
+3. AGREES that, at its eighty-second sessi on, the Committee will make the necessary 
+decisions in order to initiate the process for cons ideration, at its eighty-third session, of the 
+proposals relating to the establishment of the International LRIT Data  Centre and of the 
+International LRIT Data Exchange; 
+ 
+4. ALSO AGREES that, at its eighty-s econd session, the Committee will make the 
+necessary decisions in relation to the assignmen t of the performance of  the functions of the 
+LRIT Co-ordinator; 
+RESOLUTION MSC.211(81) 
+(adopted on 19 May 2006) 
+ARRANGEMENTS FOR THE TIMELY ESTABLISHMENT OF THE 
+LONG-RANGE IDENTIFICATION AND TRACKING SYSTEM
+MSC 81/25/Add.1 
+ANNEX 14
+---
+SOURCE: MSC.211(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.211(81).pdf
+(adopted on 19 May 2006) 
+ARRANGEMENTS FOR THE TIMELY ESTABLISHMENT OF THE 
+LONG-RANGE IDENTIFICATION AND TRACKING SYSTEM
+MSC 81/25/Add.1 
+ANNEX 14 
+Page 2 
+ 
+I:\MSC\81\25-Add-1.doc 
+ 
+5. URGES Contracting Governments to promptly  put in place the necessary arrangements: 
+ 
+.1 so as to be able to submit to: 
+ 
+.1 the Organization, the information required by SOLAS regulation V/19-1 
+and those needed for the establishment of the LRIT Data Distribution Plan 
+not later than 1 January 2008; and 
+ 
+.2 the LRIT Data Centre they would be selecting, the information specified in 
+the Performance standards not later than 1 July 2008;   
+ 
+   and to update such information as and when changes occur; 
+ 
+.2 for the smooth integration of the ships entitled to fly their flag into the LRIT 
+system; 
+ 
+6. ALSO INVITES Contracting Government to urge ships entitled to fly their flag to 
+participate in trials and testing of the LRIT system;
+---
+SOURCE: MSC.211(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.211(81).pdf
+6. ALSO INVITES Contracting Government to urge ships entitled to fly their flag to 
+participate in trials and testing of the LRIT system;  
+ 
+7. AGREES ALSO that International LRIT Data  Centre and the International LRIT Data 
+Exchange should commence trials and testing of the LRIT system not later than the 1 July 2008; 
+ 
+8. AGREES FURTHER that LRIT Data Centres, other than the International LRIT Data 
+Centre, should be in a position to commence the in tegration of ships into the LRIT system as 
+soon as possible after 1 July 2008 and, preferably, not later than 1 October 2008; 
+ 
+9. REQUESTS the Secretariat to provide information for consideration by the Committee, at 
+its eighty-second session, on the arrangements fo r the establishment and maintenance of the 
+LRIT Data Distribution Plan so as to enable  Contracting Governments to commence populating 
+the plan with data as from 1 January 2008; 
+ 
+10. FURTHER RECOMMENDS that Contracting Governments to  take early appropriate
+---
+SOURCE: MSC.211(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.211(81).pdf
+the plan with data as from 1 January 2008; 
+ 
+10. FURTHER RECOMMENDS that Contracting Governments to  take early appropriate 
+actions to ensure that all necessary infrastructu res are in place, timely, for the establishment of 
+the LRIT system; 
+ 
+11. ALSO URGES Contracting Governments, in c onsultation with the in dustry, to seek, if 
+feasible, to implement the provisions of SOLAS regulation V/19-1 before the dates its provision 
+are envisaged to become effective;  
+ 
+12. DECIDES to review, in the li ght of the developments, the aforesaid arrangements and to 
+amend them as necessary.  
+ 
+ 
+*** 
+ 
+RESOLUTION MSC.211(81) 
+(adopted on 19 May 2006) 
+ARRANGEMENTS FOR THE TIMELY ESTABLISHMENT OF THE 
+LONG-RANGE IDENTIFICATION AND TRACKING SYSTEM
+RESOLUTION MSC.211(81) 
+(adopted on 19 May 2006) 
+ARRANGEMENTS FOR THE TIMELY ESTABLISHMENT OF THE 
+LONG-RANGE IDENTIFICATION AND TRACKING SYSTEM
+---
+
+SOURCE: MSC.258(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.258(84).pdf
+RESOLUTION MSC.258(84)  
+(adopted on 16 May 2008)  
+ADOPTION OF AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 
+ 
+ 
+RESOLUTION MSC.258(84) 
+(adopted on 16 May 2008) 
+ 
+ADOPTION OF AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO 
+THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+ RECALLING FURTHER article VI II(b) of the International Convention for the Safety of 
+Life at Sea (SOLAS), 1974 (hereina fter referred to as the Convention) and article VI of the 
+Protocol of 1988 relating to the Convention (her einafter referred to as the 1988 SOLAS 
+Protocol) concerning the procedure for amending the 1988 SOLAS Protocol, 
+ 
+ HAVING CONSIDERED, at its eighty-four th session, amendments to the 1988 SOLAS
+---
+SOURCE: MSC.258(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.258(84).pdf
+HAVING CONSIDERED, at its eighty-four th session, amendments to the 1988 SOLAS 
+Protocol proposed and circulated in accordance with article VIII(b)(i) of the Convention and 
+article VI of the 1988 SOLAS Protocol, 
+ 
+1. ADOPTS, in accordance with article VIII(b )(iv) of the Conventi on and article VI of 
+the 1988 SOLAS Protocol, amendments to the appendix to the An nex to the 1988 SOLAS 
+Protocol, the text of which is set out in the Annex to the present resolution; 
+ 
+2. DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention and 
+article VI of the 1988 SOLAS Protocol, that the said amendments shall be deemed to have been 
+accepted on 1 July 2009, unless, prior to that da te, more than one third of the Parties to 
+the 1988 SOLAS Protocol or Parties the combined merchant fleets of which constitute not less 
+than 50% of the gross tonnage of the worlds merchant fleet, have notified their objections to the 
+amendments;
+---
+SOURCE: MSC.258(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.258(84).pdf
+than 50% of the gross tonnage of the worlds merchant fleet, have notified their objections to the 
+amendments; 
+ 
+3. INVITES the Parties concerned to note that , in accordance with ar ticle VIII(b)(vii)(2) of 
+the Convention and article VI of the 1988 SOLAS Protocol, the amendments shall enter into 
+force on 1 January 2010, upon their acceptance in accordance with paragraph 2 above; 
+ 
+4. RECOMMENDS the Parties concerned to issue certificates complying with the annexed 
+amendments at the first renewal survey on or after 1 January 2010; 
+ 
+5. REQUESTS the Secretary-General, in c onformity with article VIII(b)(v) of the 
+Convention and article VI of the 1988 SOLAS Prot ocol, to transmit certified copies of the 
+present resolution and the text of the amendmen ts contained in the Annex to all Parties to 
+the 1988 SOLAS Protocol; 
+ 
+6. FURTHER REQUESTS the Secret ary-General to transmit copies of this resolution and
+---
+SOURCE: MSC.258(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.258(84).pdf
+the 1988 SOLAS Protocol; 
+ 
+6. FURTHER REQUESTS the Secret ary-General to transmit copies of this resolution and 
+its Annex to Members of the Organization, which are not Parties to the 1988 SOLAS Protocol. 
+ 
+RESOLUTION MSC.258(84)  
+(adopted on 16 May 2008)  
+ADOPTION OF AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 
+ - 2 - 
+ 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO THE 
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, 
+AS AMENDED 
+ 
+ 
+ANNEX 
+ 
+MODIFICATIONS AND ADDITIONS TO THE ANNEX TO THE INTERNATIONAL 
+CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 
+ 
+APPENDIX 
+ 
+MODIFICATIONS AND ADDITIONS TO THE APPENDIX TO THE ANNEX TO THE 
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 
+ 
+Record of Equipment for Passenger Ship Safety Certificate (Form P) 
+ 
+1 In the Record of Equipment for Passenger Ship  Safety Certificate (F orm P), in section 2,
+---
+SOURCE: MSC.258(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.258(84).pdf
+1 In the Record of Equipment for Passenger Ship  Safety Certificate (F orm P), in section 2, 
+the existing item 11.1 is replaced by the following: 
+ 
+11.1 Number of search and rescue locating devices 
+11.1.1 Radar search and rescue transponders (SART) 
+11.1.2 AIS search and rescue transmitters (AIS-SART), 
+ 
+and in section 3, the existing item 6 is replaced by the following: 
+ 
+6 Ships search and rescue locating device 
+6.1 Radar search and rescue transponder (SART) 
+6.2 AIS search and rescue transmitter (AIS-SART). 
+ 
+Record of Equipment for Cargo Ship Safety Equipment Certificate (Form E) 
+ 
+2 In the Record of Equipment for Cargo Sh ip Safety Equipment Certificate (Form E), 
+in section 2, the existing item 9.1 is replaced by the following: 
+ 
+9.1 Number of search and rescue locating devices 
+9.1.1 Radar search and rescue transponders (SART) 
+9.1.2 AIS search and rescue transmitters (AIS-SART). 
+ 
+Record of Equipment for Cargo Ship Radio Certificate (Form R)
+---
+SOURCE: MSC.258(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.258(84).pdf
+9.1.2 AIS search and rescue transmitters (AIS-SART). 
+ 
+Record of Equipment for Cargo Ship Radio Certificate (Form R) 
+ 
+3 In the Record of Equipment for Cargo Sh ip Safety Radio Certificate (Form R), in 
+section 2, the existing item 6 is replaced by the following: 
+ 
+6 Ships search and rescue locating device 
+6.1 Radar search and rescue transponder (SART) 
+6.2 AIS search and rescue transmitter (AIS-SART). 
+RESOLUTION MSC.258(84)  
+(adopted on 16 May 2008)  
+ADOPTION OF AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 
+ - 3 - 
+ 
+ 
+Record of Equipment for the Cargo Ship Safety Certificate (Form C) 
+ 
+4 In the Record of Equipment for Cargo Ship Safety Certificate (Form C), in section 2, 
+the existing item 9.1 is replaced by the following: 
+ 
+9.1 Number of search and rescue locating devices 
+9.1.1 Radar search and rescue transponders (SART) 
+9.1.2 AIS search and rescue transmitters (AIS-SART),
+---
+SOURCE: MSC.258(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.258(84).pdf
+9.1.1 Radar search and rescue transponders (SART) 
+9.1.2 AIS search and rescue transmitters (AIS-SART), 
+ 
+and in section 3, the existing item 6 is replaced by the following: 
+ 
+6 Ships search and rescue locating device 
+6.1 Radar search and rescue transponder (SART) 
+6.2 AIS search and rescue transmitter (AIS-SART). 
+ 
+ 
+RESOLUTION MSC.258(84)  
+(adopted on 16 May 2008)  
+ADOPTION OF AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 
+RESOLUTION MSC.258(84)  
+(adopted on 16 May 2008)  
+ADOPTION OF AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974
+---
+
+SOURCE: MSC.407(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.407(96).pdf
+RESOLUTION MSC.407(96) 
+(adopted on 19 May 2016) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF MOBILE OFFSHORE DRILLING UNITS, 2009 (2009 MODU CODE)
+MSC 96/25/Add.1 
+Annex 11, page 1 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MSC 96-25-ADD.1 (E).docx 
+ANNEX 11 
+ 
+RESOLUTION MSC.407(96) 
+(adopted on 19 May 2016) 
+ 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF MOBILE OFFSHORE DRILLING UNITS, 2009 (2009 MODU CODE) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO that the Assembly, when adopting resolution A.1023(26) on the Code for 
+the Construction and Equipment of Mobile Offshore Drilling Units, 2009 (2009 MODU Code), 
+authorized the Committee to amend the Code as appropriate, taking into consideration 
+development in the design and technologies, in consultation with appropriate organizations,
+---
+SOURCE: MSC.407(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.407(96).pdf
+development in the design and technologies, in consultation with appropriate organizations, 
+ 
+RECOGNIZING the need for harmonizing the requirements for helicopter facility foam firefighting 
+appliances, 
+ 
+HAVING CONSIDERED, at its ninety-sixth session, the recommendations made by 
+the Sub-Committee on Ship Systems and Equipment, at its second session, 
+ 
+1 ADOPTS amendments to the 2009 MODU Code, set out in the annex to the present 
+resolution; 
+ 
+2 INVITES all Governments concerned to take appropriate steps to give effect to 
+the annexed amendments to the 2009 MODU Code by 1 January 2020. 
+ 
+ 
+  
+RESOLUTION MSC.407(96) 
+(adopted on 19 May 2016) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF MOBILE OFFSHORE DRILLING UNITS, 2009 (2009 MODU CODE)
+MSC 96/25/Add.1 
+Annex 11, page 2 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MSC 96-25-ADD.1 (E).docx 
+ANNEX 
+ 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT
+---
+SOURCE: MSC.407(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.407(96).pdf
+https://edocs.imo.org/Final Documents/English/MSC 96-25-ADD.1 (E).docx 
+ANNEX 
+ 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF MOBILE OFFSHORE DRILLING UNITS, 2009 (2009 MODU CODE) 
+ 
+ 
+CHAPTER 9 
+FIRE SAFETY 
+ 
+Paragraph 9.16 – Provisions for helicopter facilities 
+ 
+The following new paragraph 9.16.4.6 is added after existing paragraph 9.16.4.5, and 
+the remaining paragraphs renumbered accordingly: 
+ 
+".6 in lieu of the provisions of paragraphs 9.16.4.3 to 9.16.4.5, on units 
+constructed on or after 1 January 2020, foam firefighting appliances complying with 
+the provisions of the FSS Code;" 
+ 
+ 
+***
+RESOLUTION MSC.407(96) 
+(adopted on 19 May 2016) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF MOBILE OFFSHORE DRILLING UNITS, 2009 (2009 MODU CODE)
+RESOLUTION MSC.407(96) 
+(adopted on 19 May 2016) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF MOBILE OFFSHORE DRILLING UNITS, 2009 (2009 MODU CODE)
+---
+
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+RESOLUTION MSC.386(94) (adopted on 21 November 2014) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+ 
+RESOLUTION MSC.386(94) 
+(adopted on 21 November 2014) 
+ 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO article VIII(b) of the International Convention for the Safety of Life at Sea 
+(SOLAS), 1974 ("the Convention"), concerning the amendment procedure applicable to the 
+annex to the Convention, other than to the provisions of chapter I, 
+ 
+RECOGNIZING the need to provide a mandatory framework for ships operating in polar waters 
+due to the additional demands on ships, their systems and operation, which go beyond the 
+existing requirements of the Convention, and other relevant binding IMO instruments,
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+existing requirements of the Convention, and other relevant binding IMO instruments, 
+ 
+NOTING resolution MSC.385(94), by which the Committee adopted the International Code for 
+Ships Operating in Polar Waters (Polar Code) with respect to its provisions for safety, 
+ 
+NOTING ALSO that the Marine Environment Protection Committee, at its sixty-seventh 
+session, approved with a view to adoption, at its sixty-eighth session, amendments to the 
+International Convention for the Prevention of Pollution from Ships, 1973, as modified by the 
+Protocol of 1978, and that it will also consider for adoption the environmental protection 
+provisions of the Polar Code, 
+ 
+NOTING FURTHER the proposed amendments to the Convention to make use of the safety 
+provisions of the Polar Code mandatory, 
+ 
+HAVING CONSIDERED, at its ninety-fourth session, amendments to the Convention, 
+proposed and circulated in accordance with article VIII(b)(i) thereof,
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+proposed and circulated in accordance with article VIII(b)(i) thereof, 
+ 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to the 
+Convention, the text of which is set out in the annex to the present resolution; 
+ 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that the 
+said amendments shall be deemed to have been accepted on 1 July 2016, unless, prior to that 
+date, more than one third of the Contracting Governments to the Convention or Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified to the Secretary-General of the 
+Organization their objections to the amendments; 
+ 
+3 INVITES SOLAS Contracting Governments to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2017 upon their acceptance in accordance with paragraph 2 above;
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+on 1 January 2017 upon their acceptance in accordance with paragraph 2 above; 
+ 
+4 REQUESTS the Secretary-General, for the purposes of article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Governments to the Convention; 
+ 
+5 ALSO REQUESTS the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the Organization which are not Contracting Governments to the Convention. 
+RESOLUTION MSC.386(94) (adopted on 21 November 2014) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974 
+ 
+ 
+A new chapter XIV is added after chapter XIII, as follows: 
+ 
+"CHAPTER XIV 
+SAFETY MEASURES FOR SHIPS OPERATING IN POLAR WATERS 
+ 
+ 
+Regulation 1 – Definitions 
+ 
+For the purpose of this chapter:
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+"CHAPTER XIV 
+SAFETY MEASURES FOR SHIPS OPERATING IN POLAR WATERS 
+ 
+ 
+Regulation 1 – Definitions 
+ 
+For the purpose of this chapter: 
+ 
+1 Polar Code  means the International Code for Ships Operating in Polar 
+Waters, consisting of an introduction and parts I-A and II-A and parts I-B and II-B, as 
+adopted by resolutions MSC.385(94) and of the Marine Environment Protection 
+Committee, as may be amended, provided that:  
+ 
+ .1 amendments to the safety-related provisions of the introduction and 
+part I-A of the Polar Code are adopted, brought into force and take 
+effect in accordance with the provisions of article VIII of 
+the present Convention concerning the amendment procedures 
+applicable to the annex other than chapter I; and 
+ 
+ .2 amendments to part I-B of the Polar Code are adopted by the Maritime 
+Safety Committee in accordance with its Rules of Procedure. 
+ 
+2 Antarctic area means the sea area south of latitude 60o S.
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+Safety Committee in accordance with its Rules of Procedure. 
+ 
+2 Antarctic area means the sea area south of latitude 60o S. 
+ 
+3 Arctic waters  means those waters which are located north of a line from  
+the latitude 58º00 ΄.0 N and longitude 042º00 ΄.0 W to latitude 64º37 ΄.0 N,  
+longitude 035º27 ΄.0 W and thence by a rhumb line to latitude 67º03 ΄.9 N, 
+longitude 026º33΄.4 W and thence by a rhumb line to the latitude 70º49΄.56 N and 
+longitude 008º59΄.61 W (Sørkapp, Jan Mayen) and by the southern shore of Jan 
+Mayen to 73º31'.6 N and 019º01'.0 E by the Island of Bjørnøya, and thence by a great 
+circle line to the latitude 68º38΄.29 N and longitude 043º23΄.08 E (Cap Kanin Nos) and 
+hence by the northern shore of the Asian Continent eastward to the Bering Strait and 
+thence from the Bering Strait westward to latitude 60º N as far as Il'pyrskiy and 
+following the 60th North parallel eastward as far as and including Etolin Strait and
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+following the 60th North parallel eastward as far as and including Etolin Strait and 
+thence by the northern shore of the North American continent as far south as latitude 
+60º N and thence eastward along parallel of latitude 60º N, to longitude 056º37΄.1 W 
+and thence to the latitude 58º00΄.0 N, longitude 042º00΄.0 W. 
+ 
+4 Polar waters means Arctic waters and/or the Antarctic area. 
+ 
+5 Ship constructed means a ship the keel of which is laid or which is at a similar 
+stage of construction. 
+ 
+6 At a similar stage of construction means the stage at which: 
+ 
+ .1 construction identifiable with a specific ship begins; and 
+ 
+ .2 assembly of that ship has commenced comprising at least 50 tonnes 
+or 1% of the estimated mass of all structural material, whichever is less. 
+RESOLUTION MSC.386(94) (adopted on 21 November 2014) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+- 3 - 
+ 
+Regulation 2 – Application
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+- 3 - 
+ 
+Regulation 2 – Application 
+ 
+1 Unless expressly provided otherwise, this chapter applies to ships operating 
+in polar waters, certified in accordance with chapter I. 
+ 
+2 Ships constructed before 1 January 2017 shall meet the relevant 
+requirements of the Polar Code by the first intermediate or renewal survey, whichever 
+occurs first, after 1 January 2018. 
+ 
+3 In applying part I-A of the Polar Code, consideration should be given to the 
+additional guidance in part I-B of the Polar Code. 
+ 
+4 This chapter shall not apply to ships owned or operated by a Contracting 
+Government and used, for the time being, only in Government non-commercial 
+service. However, ships owned or operated by a Contracting Government and used, 
+for the time being, only in Government non-commercial service are encouraged to act 
+in a manner consistent, so far as reasonable and practicable, with this chapter.
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+in a manner consistent, so far as reasonable and practicable, with this chapter. 
+ 
+5 Nothing in this chapter shall prejudice the rights or obligations of States under 
+international law. 
+ 
+Regulation 3 – Requirements for ships to which this chapter applies 
+ 
+1 Ships to which this chapter applies shall comply with the requirements of the 
+safety-related provision of the introduction and with  part I-A of the Polar Code and 
+shall, in addition to the requirements of regulations I/7, I/8, I/9, and I/10, as applicable, 
+be surveyed and certified, as provided for in that Code. 
+ 
+2 Ships to which this chapter applies holding a certificate issued pursuant to 
+the provisions of paragraph 1 shall be subject to the control established in 
+regulations I/19 and XI-1/4. For this purpose, such certificates shall be treated as a 
+certificate issued under regulation I/12 or I/13. 
+ 
+Regulation 4 – Alternative design and arrangement
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+certificate issued under regulation I/12 or I/13. 
+ 
+Regulation 4 – Alternative design and arrangement 
+ 
+1 The goal of this regulation is to provide a methodology for alternative design 
+and arrangements for structure, machinery, and electrical installations, fire safety and 
+life-saving appliances and arrangements. 
+ 
+2 Structural arrangements, machinery and electrical installation, fire safety 
+design and arrangement measures and as well as life-saving appliances and 
+arrangements may deviate from the prescriptive requirements set out in chapters 3, 6, 7 
+and 8 of the Polar Code, provided that the alternative design and arrangements meet 
+the intent of the goal and functional requirements concerned and provide an 
+equivalent level of safety to the requirements in those chapters. 
+ 
+3 When alternative designs or arrangements deviate from the prescriptive 
+requirements of chapters 3, 6, 7 and 8 of the Polar Code, an engineering analysis,
+---
+SOURCE: MSC.386(94).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.386(94).pdf
+requirements of chapters 3, 6, 7 and 8 of the Polar Code, an engineering analysis, 
+evaluation and approval of the design and arrangements shall be carried out based 
+on the guidelines approved by the Organization. 
+ 
+4 Any alternative designs or arrangement deviating from the prescriptive 
+requirements shall be recorded in the Polar Ship Certificate and the ship's Polar Water 
+Operational Manual, as required by the Polar Code, also defining the technical and 
+operational measures and conditions for the allowed deviation. 
+ 
+RESOLUTION MSC.386(94) (adopted on 21 November 2014) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+ 
+RESOLUTION MSC.386(94) (adopted on 21 November 2014) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+---
+
+SOURCE: MSC.280(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.280(85).pdf
+RESOLUTION MSC.280(85) 
+(adopted on 1 December 2008) 
+ADOPTION OF AMENDMENTS TO THE GENERAL PROVISIONS 
+ON SHIPS' ROUTEING 
+(RESOLUTION A.572(14), AS AMENDED)
+MSC 85/26/Add.1 
+ 
+ 
+I:\MSC\85\26-Add-1.doc 
+ANNEX 18 
+ 
+RESOLUTION MSC.280(85) 
+(adopted on 1 December 2008) 
+ 
+ 
+ADOPTION OF AMENDMENTS TO THE GENERAL PROVISIONS  
+ON SHIPS ROUTEING 
+(RESOLUTION A.572(14), AS AMENDED) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECOGNIZING the importance that the r outeing measures boundary symbology and 
+charting of archipelagic sea la nes used in the General Provisi ons on Ships Routeing should 
+correctly reflect those adopted by IHO, 
+ 
+TAKING INTO ACCOUNT the decision of th e Sub-Committee on Safety of Navigation 
+at its fifty-fourth session to align the rout eing measures boundary symbology and charting of
+---
+SOURCE: MSC.280(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.280(85).pdf
+at its fifty-fourth session to align the rout eing measures boundary symbology and charting of 
+archipelagic sea lanes in Annexes 1 and 2 of General Provisions on Ships Routeing, 
+ 
+HAVING CONSIDERED, at its eighty-fifth session, the text of proposed amendments to 
+Annexes 1 and 2 of the General Provisions on Ships Routeing (resolution A.572(14), as amended), 
+to align them with the specifications for routeing measures boundary symbology and charting of 
+archipelagic sea lanes adopted by IHO, 
+ 
+1. ADOPTS the amendments to the Gene ral Provisions on Ships Routeing  
+(resolution A.527(14), as amended), to align them with the specifications for routeing measures 
+boundary symbology and charting of archipelagic sea lanes adopted by IHO, the text of which is 
+set out in the Annex to the present resolution; 
+ 
+2. DETERMINES that amendments to the Gene ral Provisions on Ships Routeing including 
+amendments to the General Provisions for the adoption, designation and substitution of
+---
+SOURCE: MSC.280(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.280(85).pdf
+amendments to the General Provisions for the adoption, designation and substitution of 
+archipelagic sea lanes shall be adopted, brought into force and shall take  effect in accordance 
+with the provisions of resolution A.572(14), as amended; 
+ 
+3. INVITES Governments intending to submit pr oposals for the adoption of ships routeing 
+systems including, designation and substitution of archipelagic sea lanes to take account of the 
+annexed General Provisions; 
+ 
+4. REQUESTS  the Secretary-General to bring this resolution and its Annex to the attention 
+of all Contracting Governments to the SOLAS Convention and to Members of the Organization 
+which are not Contracting Governments to the Convention. 
+ 
+RESOLUTION MSC.280(85) 
+(adopted on 1 December 2008) 
+ADOPTION OF AMENDMENTS TO THE GENERAL PROVISIONS 
+ON SHIPS' ROUTEING 
+(RESOLUTION A.572(14), AS AMENDED)
+MSC 85/26/Add.1 
+ANNEX 18 
+Page 2 
+ 
+I:\MSC\85\26-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO THE GENERAL PROVISIONS ON SHIPS ROUTEING
+---
+SOURCE: MSC.280(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.280(85).pdf
+MSC 85/26/Add.1 
+ANNEX 18 
+Page 2 
+ 
+I:\MSC\85\26-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO THE GENERAL PROVISIONS ON SHIPS ROUTEING 
+(RESOLUTION A.572(14), AS AMENDED) 
+ 
+ 
+1 Annex 1  General Provisions on Ships Routeing 
+ 
+1.1 Amend section 9.4, as follows: 
+ 
+Section 9.4 Boundary symbols in detail 
+ 
+5 Inshore traffic zone (ends) 
+----------------------------------  
+Open sea or no symbol (limits undefined) 
+ 
+15 Two-way route 
+---------------------------------- Same rules as for deep-water route 
+All other areas 
+ 
+2 Annex 2  General Provisions for the Adoption, Designation and Substitution of Archipelagic 
+Sea Lanes. 
+ 
+2.1 Amend section 7.6 as follows: 
+ 
+7.6 Symbol for outer limits of archipelagic sea lanes 
+ 
+Unless otherwise specified, symbols are printed on charts in colour, usually magenta. 
+ 
+Description Symbol Note 
+ 
+1 Outer limit of archipelagic sea lane, 
+  1 
+ including where 10% rule applies 
+ 
+ 
+Note:
+---
+SOURCE: MSC.280(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.280(85).pdf
+Description Symbol Note 
+ 
+1 Outer limit of archipelagic sea lane, 
+  1 
+ including where 10% rule applies 
+ 
+ 
+Note: 
+ 
+1 The solid triangle indicator po ints into the archipelagic sea lane.  The full outer limit 
+of archipelagic sea lane may be charted where it is considered appropriate. 
+ 
+2.2 Amend section 7.7 as follows: 
+ 
+Replace the existing symbol for outer limit of ASL with the following symbol:  
+ 
+2 Outer limit 
+  
+ 
+ 
+***
+RESOLUTION MSC.280(85) 
+(adopted on 1 December 2008) 
+ADOPTION OF AMENDMENTS TO THE GENERAL PROVISIONS 
+ON SHIPS' ROUTEING 
+(RESOLUTION A.572(14), AS AMENDED)
+RESOLUTION MSC.280(85) 
+(adopted on 1 December 2008) 
+ADOPTION OF AMENDMENTS TO THE GENERAL PROVISIONS 
+ON SHIPS' ROUTEING 
+(RESOLUTION A.572(14), AS AMENDED)
+---
