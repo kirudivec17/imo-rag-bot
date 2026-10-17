@@ -1,2 +1,2 @@
-Total Unique PDFs: 1250
-Last Batch: 8
+Total Unique PDFs: 1256
+Last Batch: 6
