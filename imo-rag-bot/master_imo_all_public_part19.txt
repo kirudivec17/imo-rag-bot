@@ -1,0 +1,4022 @@
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+RESOLUTION MSC.499(105) 
+(adopted on 28 April 2022) 
+AM
+ENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE) 
+T
+HE MARITIME SAFETY COMMITTEE, 
+R
+ECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+N
+OTING resolution MSC.97(73), by which it adopted the International Code of Safety for 
+High-Speed Craft, 2000 ("the 2000 HSC Code"), which has become mandatory under 
+chapter X of the International Convention for the Safety of Life at Sea, 1974 ("the Convention"), 
+N
+OTING ALSO article VIII(b) and regulation X/1.2 of the Convention concerning the procedure 
+for amending the 2000 HSC Code, 
+H
+AVING CONSIDERED, at its 105th session, amendments to the 2000 HSC Code proposed
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+for amending the 2000 HSC Code, 
+H
+AVING CONSIDERED, at its 105th session, amendments to the 2000 HSC Code proposed 
+and circulated in accordance with article VIII(b)(i) of the Convention, 
+1 A
+DOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the 2000 HSC Code, the text of which is set out in the annex to the present resolution; 
+2  D
+ETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that the 
+said amendments shall be deemed to have been accepted on 1 July 2023, unless, prior to that 
+date, more than one third of the Contracting Governments to the Convention or Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet have notified their objections to the amendments; 
+3 I
+NVITES Contracting Governments to the Convention to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2024 upon their acceptance in accordance with paragraph 2 above; 
+4  R
+EQUESTS the Secretary -General, for the purposes of article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the t ext of the 
+amendments contained in the annex to all Contracting Governments to the Convention; 
+5  AL
+SO REQUESTS the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the Organization which are not Contracting Governments to the 
+Convention. 
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+- 2 -
+ANNEX 
+AM
+ENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE) 
+CHAP
+TER 8 
+LIFE-SAVING APPLIANCES AND ARRANGEMENTS 
+1
+ Paragraphs 8.2.1, 8.2.1.1 and 8.2.1.2 are replaced by the following: 
+"
+8.2.1 [Reserved]"
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+CHAP
+TER 8 
+LIFE-SAVING APPLIANCES AND ARRANGEMENTS 
+1
+ Paragraphs 8.2.1, 8.2.1.1 and 8.2.1.2 are replaced by the following: 
+"
+8.2.1 [Reserved]" 
+CHAP
+TER 14 
+RADIOCOMMUNICATIONS 
+2
+ The text of chapter 14 (Radiocommunications) is replaced by the following: 
+ʺ14.
+1 Application 
+14.
+1.1 Unless expressly provided otherwise, this chapter applies to all craft specified in 1.3.1 
+and 1.3.2. 
+14.
+1.2 This chapter does not apply to craft to which this Code would otherwise apply while 
+such craft are being navigated within the Great Lakes of North America and their connecting 
+and tributary waters as far east as the lower exit of the St. Lambert Lock at Montreal in the 
+Province of Quebec, Canada.  
+14.
+1.3  No provision in this chapter shall prevent the use by any craft, survival craft or person 
+in distress of any means at their disposal to attract attention, make known their position and 
+obtain help.  
+14.
+2  Terms and definitions 
+14.
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+in distress of any means at their disposal to attract attention, make known their position and 
+obtain help.  
+14.
+2  Terms and definitions 
+14.
+2.1  For the purpose of this chapter, the following terms shall have the meanings defined 
+below:  
+.1 A
+IS-SART means an automatic identification system search and rescue 
+transmitter capable of operating on frequencies dedicated for AIS 
+(161.975 MHz (AIS1) and 162.025 MHz (AIS2)).   
+.2
+ Bridge-to-bridge communications  means safety radiocommunications 
+between craft and ships from the position from which the craft is normally 
+navigated.  
+.3
+ Continuous radio watch means that the radio and listening watch concerned 
+shall not be interrupted other than for brief intervals when the craft's receiving 
+capability is impaire d or blocked by its own communications or when the 
+facilities are under periodical maintenance or checks.  
+.4
+ Digital selective calling (DSC) means a technique using digital codes which
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+facilities are under periodical maintenance or checks.  
+.4
+ Digital selective calling (DSC) means a technique using digital codes which 
+enables a radio station to establish contact with, and transfer information to, 
+another station or group of stations, and complying with the relevant 
+recommendations of the International Telecommunication Union 
+Radiocommunication Sector (ITU-R).  
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+- 3 -
+.5 Emergency position- indicating radio beacon (EPIRB) means a transmitter 
+operating in the frequency band 406.0- 406.1 MHz capable of transmitting a 
+distress alert via satellite to a rescue coordination centre and transmitting 
+signals for on-scene locating.  
+.6
+ General radiocommunications means communications other than distres s, 
+urgency and safety communications.  
+.7 G
+lobal Maritime Distress and Safety System (GMDSS) means a system that
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+urgency and safety communications.  
+.7 G
+lobal Maritime Distress and Safety System (GMDSS) means a system that 
+performs the functions set out in paragraph 14.5. 
+.8
+ GMDSS identities means information which may be transmitted to uniquely 
+identify the cr aft or its associated rescue boats and survival craft. These 
+identities are the craft's call sign, Maritime Mobile Service Identity (MMSI), 
+EPIRB hexadecimal identity, recognized mobile satellite service identities 
+and equipment serial numbers. 
+.9
+ Locating means the finding of ships, craft, aircraft, survival craft or persons 
+in distress.  
+.
+10 Maritime safety information (MSI)  means navigational and meteorological 
+warnings, meteorological forecasts and other urgent safety -related 
+messages broadcast to ships and craft.  
+.
+11 Radar SART means a search and rescue transponder operating on radar 
+frequencies in the frequency band 9.2-9.5 GHz. 
+.12
+ Radio Regulations  mean the Radio Regulations complementing the
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+frequencies in the frequency band 9.2-9.5 GHz. 
+.12
+ Radio Regulations  mean the Radio Regulations complementing the 
+Constitution and Convention of the International Telecommunication Union 
+which is in force at any given time.  
+.1
+3 Recognized mobile satellite service means any service which operates 
+through a satellite system and is recognized by the Organization, for use in 
+GMDSS. 
+.1
+4 Satellite service on 406 MHz means a service operating through a satellite 
+system having global availability designed to detect EPIRBs transmitting in 
+the frequency band 406.0-406.1 MHz.  
+.1
+5 Sea area A1 means an area within the radiotelephone coverage of at least 
+one very high frequency (VHF) coast station in which continuous DSC 
+alerting is available, as may be defined by a Contracting Government to the 
+Convention.  
+.
+16 Sea area A2 means an area, excluding sea area A1, within the 
+radiotelephone coverage of at least one medium frequency (MF) coast
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+Convention.  
+.
+16 Sea area A2 means an area, excluding sea area A1, within the 
+radiotelephone coverage of at least one medium frequency (MF) coast 
+station in which continuous DSC alerting is available, as may be defined by 
+a Contracting Government to the Convention.  
+.
+17 Sea area A 3 means an area, excluding sea areas A1 and A2, within the 
+coverage of a recognized mobile satellite service supported by the ship earth 
+station carried on board, in which continuous alerting is available.  
+.
+18 Sea area A4 means an area outside of sea areas A1, A2 and A3. 
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+- 4 -
+14.2.2 All other terms and abbreviations which are used in this chapter and which are defined 
+in the Radio Regulations and in the International Convention on Maritime Search and 
+Rescue, 1979, as it may be amended, shall have the meanings as defined in those Regulations
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+Rescue, 1979, as it may be amended, shall have the meanings as defined in those Regulations 
+and the SAR Convention.  
+14.
+3  Exemptions 
+14.
+3.1  It is considered highly desirable not to deviate from the requirements of this chapter; 
+nevertheless, the Administration, in conjunction with the base port State, may grant partial or 
+conditional exemptions to individual craft from the requirements of 14.7 to 14.11 provided:  
+.1
+ such craft comply with the functional requirements of 14.5; and 
+.2
+ the Administration has taken into account the effect such exemptions may 
+have upon the general efficiency of the service for the safety of all ships and 
+craft.  
+14.
+3.2 An exemption may be granted under 14.3.1 only: 
+.1
+ if the conditions affecting safety are such as to render the full application 
+of 14.7 to 14.11 unreasonable or unnecessary; or 
+.2
+ in exceptional circumstances, for a single voyage outside the sea area or sea 
+areas for which the craft is equipped.  
+14.
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+.2
+ in exceptional circumstances, for a single voyage outside the sea area or sea 
+areas for which the craft is equipped.  
+14.
+3.3 Each Administration shall report to the Organization on all exemptions granted 
+under 14.3.1 and 14.3.2 giving the reasons for granting such exemptions. 
+14.
+4 GMDSS Identities 
+14.
+4.1 This section applies to all craft on all voyages. 
+14.
+4.2 Each Administration undertakes to ensure that suitable arrangements are made for 
+registering GMDSS identities and for making information on these identities available to rescue 
+coordination centres on a 24- hour basis. Where appropriate, international organizations 
+maintaining a registry of these identities, such as the ITU Maritime Mobile Access and Retrieval 
+System (MARS), shall be notified by the Administration of these identity assignments.  
+14.
+5  Functional requirements  
+14.
+5.1  Every craft, while at sea, shall be capable of: 
+.1 per
+forming the GMDSS functions, which are as follows: 
+.1
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+5  Functional requirements  
+14.
+5.1  Every craft, while at sea, shall be capable of: 
+.1 per
+forming the GMDSS functions, which are as follows: 
+.1
+ transmitting ship- to-shore distress alerts by at least two separate 
+and independent means, each using a different radiocommunication 
+service;  
+.2
+ receiving shore-to-ship distress alert relays;  
+.3
+ transmitting and receiving ship-to-ship distress alerts; 
+.4
+ transmitting and receiving search and rescue coordinating 
+communications;  
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+- 5 -
+.5 transmitting and receiving on-scene communications; 
+.6 t
+ransmitting and receiving signals for locating; 
+.7
+ receiving MSI;  
+.8
+ transmitting and receiving urgency and safety 
+radiocommunications; and 
+.9
+  transmitting and receiving bridge-to-bridge communications; and 
+.2
+  transmitting and receiving general radiocommunications. 
+14.
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+.9
+  transmitting and receiving bridge-to-bridge communications; and 
+.2
+  transmitting and receiving general radiocommunications. 
+14.
+6  Radio installations  
+14.6.1  Every craft shall be provided with radio installations capable of complying with the 
+functional requirements prescribed by 14.5 throughout its intended voyage and, unless 
+exempted under 14.3, complying with the requirements of 14.7 and, as appropriate for the sea 
+area or areas through which it will pass during its intended voyage, the requirement s of 
+either 14.8, 14.9, 14.10 or 14.11.  
+14.
+6.2  Every radio installation shall be: 
+.1 located in such a way that no harmful interference of mechanical, electrical 
+or other origin affects its proper use, and that electromagnetic compatibility 
+is ensured and harmful interaction avoided with other equipment and 
+systems;  
+.2
+ so located as to ensure the greatest possible degree of safety and 
+operational availability;  
+.3
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+systems;  
+.2
+ so located as to ensure the greatest possible degree of safety and 
+operational availability;  
+.3
+ protected against harmful effects of water, extremes of temperature and 
+other adverse environmental conditions;  
+.4
+ provided with reliable, permanently arranged electrical lighting, independent 
+of the main source of electrical power, for the adequate illumination of the 
+radio controls for operating the radio installation; and  
+.5
+ clearly marked with the GMDSS identities, as applicable, for use by the radio 
+installation operator.  
+14.
+6.3  Control of the VHF radiotelephone channels, required for navigational safety, shall be 
+immediately available on the navigating bridge convenient to the conning position, and, where 
+necessary, facilities shall be available to permit radiocommunications from the wings of the 
+navigating bridge. Portable VHF equipment may be used to meet the latter provision.  
+14.
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+navigating bridge. Portable VHF equipment may be used to meet the latter provision.  
+14.
+6.4  In passenger craft, a distress panel shall be installed at the conning position, which 
+shall: 
+.1 contain either one single button which, when pressed, initiates a distress alert 
+using all radio installations required on board for that purpose or one button 
+for each individual installation;  
+.2 c
+learly and visually indicate whenever any button or buttons have been 
+pressed; and 
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+- 6 -
+.3 be provided with means to prevent inadvertent activation of the button or 
+buttons referred to in 14.6.4.1 and 14.6.4.2.   
+14.
+6.5 In passenger craft, if an EPIRB is used as the secondary means of distress alerting 
+and is not remotely activated from the distress panel, it shall be acceptable to have an
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+and is not remotely activated from the distress panel, it shall be acceptable to have an 
+additional EPIRB installed in the wheelhouse near the conning position.  
+14.
+6.6  In passenger craft, a distress alert panel shall be installed at the conning position, 
+which: 
+.1 s
+hall provide visual and aural indication of any distress alert or alerts received 
+on board;  
+.2 s
+hall indicate through which radiocommunication service the distress alerts 
+have been received; and 
+.3 m
+ay be combined with the distress panel referred to in 14.6.4. 
+14.
+7  Radio equipment: General  
+14.
+7.1  Every craft shall be provided with:  
+.1
+ a VHF radio installation capable of transmitting and receiving, for distress, 
+urgency and safety communications purposes:  
+.1 D
+SC on the frequency 156.525 MHz (channel 70). It shall be 
+possible to initiate the transmission of distress alerts on channel 70 
+from the position from which the craft is normally navigated; and  
+.2 r
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+possible to initiate the transmission of distress alerts on channel 70 
+from the position from which the craft is normally navigated; and  
+.2 r
+adiotelephony on the frequencies 156.300 MHz (channel  6), 
+156.650 MHz (channel 13) and 156.800 MHz (channel 16);  
+.2
+ a radio installation capable of maintaining a continuous DSC watch on VHF 
+channel 70 which may be separate from, or combined with, that required 
+by 14.7.1.1.1;  
+.3
+ a radar SART or an AIS-SART, which: 
+.1 s
+hall be so stowed that it can be easily utilized; and 
+.2 m
+ay be one of those required by 14.7.2.1 for a survival craft; 
+.4 a r
+eceiver or receivers capable of receiving MSI and search and rescue 
+related information throughout the entire voyage in which the craft is 
+engaged;  
+.5
+ an EPIRB which shall be: 
+.1 i
+nstalled in an easily accessible position; 
+.2 ready to be manually released and capable of being carried by one 
+person into a survival craft;
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+nstalled in an easily accessible position; 
+.2 ready to be manually released and capable of being carried by one 
+person into a survival craft;  
+.3 capable of floating free if the craft sinks and of being automatically 
+activated when afloat; and  
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+- 7 -
+ .4 capable of being activated manually; and 
+.6 a radio installation capable of transmitting and receiving general 
+radiocommunications operating on working frequencies in the band 
+between 156 MHz and 174 MHz. This requirement may be fulfilled by the 
+addition of this capability in the equipment required by 14.7.1.1.  
+14.
+7.2 Every passenger high- speed craft and every cargo high- speed craft of 500 gross 
+tonnage and upwards shall be provided with at least: 
+.1
+  one radar SART or AIS-SART on each side of the craft; and 
+.2
+  three two-way VHF radiotelephone apparatuses. 
+14.
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+.1
+  one radar SART or AIS-SART on each side of the craft; and 
+.2
+  three two-way VHF radiotelephone apparatuses. 
+14.
+7.3 The radar SARTs or AIS -SARTs required by 14.7.2.1 shall be stowed in such 
+locations that they can be rapidly placed in any one of the liferafts. Alternatively, one radar 
+SART or AIS-SART shall be stowed in each survival craft. 
+14.
+7.4 Every passenger craft shall be provided with means for two- way on- scene 
+radiocommunications for search and rescue purposes using the aeronautical 
+frequencies 121.5 MHz and 123.1 MHz from the position from which the craft is normally 
+navigated. These means may be portable. 
+14.8  Radio equipment: sea area A1 
+14.
+8.1  In addition to meeting the requirements of 14.7, every craft engaged on voyages in 
+sea area A1 shall be provided with a radio installation capable of initiating the transmission of 
+ship-to-shore distress alerts from the position from which the craft is normally navigated, 
+operating either:  
+1 t
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+ship-to-shore distress alerts from the position from which the craft is normally navigated, 
+operating either:  
+1 t
+hrough the satellite service on 406 MHz; or 
+2 i
+f the craft is on voyages within coverage of MF coast stations equipped with 
+DSC, on MF using DSC; or  
+3 on hi
+gh frequency (HF) using DSC; or 
+4 t
+hrough a recognized mobile satellite service ship earth station. 
+14.
+8.2 The requirement in 14.8.1.1 may be fulfilled by installing: 
+.1
+ the EPIRB required by 14.7.1.5 close to the position from which the craft is 
+normally navigated, but in a location whereby it can still float free of the craft 
+in an emergency; or  
+.2
+ the EPIRB required by 14.7.1.5 elsewhere on the craft, provided that this 
+EPIRB has a means of remote activation which is installed near the position 
+from which the craft is normally navigated; or  
+.3
+  a second EPIRB near the position from which the craft is normally navigated. 
+14.
+9  Radio equipment: sea area A2  
+14.
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+.3
+  a second EPIRB near the position from which the craft is normally navigated. 
+14.
+9  Radio equipment: sea area A2  
+14.
+9.1  In addition to meeting the requirements of 14.7, every craft engaged on voyages 
+within sea area A2 shall be provided with:  
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+- 8 -
+.1 an MF radio installation capable of transmitting and receiving, for distress, 
+urgency and safety communications purposes, on the frequencies:  
+.1 2 187.
+5 kHz using DSC; and  
+.2 2 182 
+kHz using radiotelephony; 
+.2
+ a radio installation capable of maintaining a continuous DSC watch on the 
+frequency 2 187.5 kHz which may be separate from, or combined with, that 
+required by 14.9.1.1; and  
+.3
+ a secondary means of initiating the transmission of ship- to-shore distress 
+alerts by a radio service other than MF, operating either: 
+.1
+ through the satellite service on 406 MHz; or
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+alerts by a radio service other than MF, operating either: 
+.1
+ through the satellite service on 406 MHz; or  
+.2 on H
+F using DSC; or  
+.3 t
+hrough recognized mobile satellite service ship earth station. 
+14.
+9.2  It shall be possible to initiate transmission of distress alerts by the radio installations 
+specified in 14.9.1.1 and 14.9.1.3 from the position from which the craft is normally navigated. 
+14.
+9.3 The requirement in 14.9.1.3.1 may be fulfilled by installing: 
+.1
+ the EPIRB required by 14.7.1.5 close to the position from which the craft is 
+normally navigated, but in a location whereby it can still float free of the craft 
+in an emergency; or  
+.2
+ the EPIRB required by 14.7.1.5 elsewhere on the craft, provided that this 
+EPIRB has a means of remote activation which is installed near the position 
+from which the craft is normally navigated; or  
+.3
+ a second EPIRB near the position from which the craft is normally navigated. 
+14.
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+from which the craft is normally navigated; or  
+.3
+ a second EPIRB near the position from which the craft is normally navigated. 
+14.
+9.4  The craft shall, in addition, be capable of transmitting and receiving general 
+radiocommunications by either:  
+.1
+ a radio installation operating on working frequencies in the bands 
+between 1 605 kHz and 4 000 kHz or between 4 000 kHz and 27 500 kHz. 
+This requirement may be fulfilled by the addition of this capability in the 
+equipment required by 14.9.1.1; or  
+.2
+  a recognized mobile satellite service ship earth station. 
+14.
+10  Radio equipment: sea area A3  
+14.
+10.1 In addition to meeting the requirements of 14.7, every craft engaged on voyages 
+within sea area A3 shall be provided with:  
+.1
+ a recognized mobile satellite service ship earth station capable of: 
+.1 t
+ransmitting and receiving distress, urgency and safety 
+communications; 
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+communications; 
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+- 9 -
+.2 initiating and receiving distress priority calls; and 
+.3 m
+aintaining watch for shore- to-ship distress alert relays, including 
+those directed to specifically defined geographical areas; 
+.2
+ an MF radio installation capable of transmitting and receiving, for distress, 
+urgency and safety communications purposes, on the frequencies:  
+.1 2 187.5 kHz using DSC; and  
+.2 2 182 kHz using radiotelephony; 
+.3
+ a radio installation capable of maintaining a continuous DSC watch on the 
+frequency 2 187.5 kHz which may be separate from, or combined with, that 
+required by 14.10.1.2; and  
+.4 a secondary means of initiating the transmission of ship- to-shore distress 
+alerts by a radio service operating either:  
+.1 through the satellite service on 406 MHz; or 
+.2 on HF using DSC; or
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+alerts by a radio service operating either:  
+.1 through the satellite service on 406 MHz; or 
+.2 on HF using DSC; or  
+.3 through any recognized mobile satellite service on an additional ship 
+earth station. 
+14.10.2 It shall be possible to initiate transmission of distress alerts by the radio installations 
+specified in 14.10.1.1, 14.10.1.2 and 14.10.1.4 from the position from which the craft is 
+normally navigated.  
+14.10.3 The requirement in 14.10.1.4.1 may be fulfilled by installing: 
+.1 the EPIRB required by 14.7.1.5 close to the position from which the craft is 
+normally navigated, but in a location whereby it can still float free of the craft 
+in an emergency; or  
+.2 the EPIRB required by 14.7.1.5 elsewhere on the craft, provided that this 
+EPIRB has a means of remote activation which is installed near the position 
+from which the craft is normally navigated; or  
+.3 a second EPIRB near the position from which the craft is normally navigated.
+---
+SOURCE: MSC.499(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.499(105).pdf
+from which the craft is normally navigated; or  
+.3 a second EPIRB near the position from which the craft is normally navigated. 
+14.10.4 The craft shall, in addition, be capable of transmitting and receiving general 
+radiocommunications by either:  
+.1 a recognized mobile satellite service ship earth station; or 
+.2 a radio installation operating on working frequencies in the bands 
+between 1 605 kHz and 4 000 kHz or between 4 000 kHz and 27 500 kHz. 
+14.10.5 The requirements in 14.10.4.1 and 14.10.4.2 may be fulfilled by the addition of this 
+capability in the equipment required by 14.10.1.1 or 14.10.1.2, respectively. 
+14.11  Radio equipment: sea area A4 
+14.11.1  In addition to meeting the requirements of 14.7, every craft engaged on voyages 
+within sea area A4 shall be provided with:  
+RESOLUTION MSC.499(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+---
+
+SOURCE: MSC.440(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.440(99).pdf
+RESOLUTION MSC.440(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS 
+CHEMICALS IN BULK (IBC CODE)
+ 
+RESOLUTION MSC.440(99) 
+(adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS 
+CHEMICALS IN BULK (IBC CODE) 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING ALSO resolution MSC.4(48), by which it adopted the International Code for the 
+Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk ("the IBC Code"), 
+which has become mandatory under chapter VII of the International Convention for the Safety 
+of Life at Sea, 1974 ("the Convention"), 
+RECALLING FURTHER article VIII(b) and regulation VII/8.1 of the Convention concerning 
+the procedure for amending the IBC Code,
+---
+SOURCE: MSC.440(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.440(99).pdf
+RECALLING FURTHER article VIII(b) and regulation VII/8.1 of the Convention concerning 
+the procedure for amending the IBC Code, 
+HAVING CONSIDERED, at its ninety-ninth session, amendments to the IBC Code, proposed 
+and circulated in accordance with article VIII(b)(i) of the Convention, 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the IBC Code, the text of which is set out in the annex to the present resolution; 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that the 
+said amendments shall be deemed to have been accepted on 1 July 2019, unless, prior to that 
+date, more than one third of the Contracting Governments to the Convention or Contracting 
+Governments, the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified the Secretary-General of their objections 
+to the amendments;
+---
+SOURCE: MSC.440(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.440(99).pdf
+tonnage of the world's merchant fleet, have notified the Secretary-General of their objections 
+to the amendments; 
+3 INVITES Contracting Governments to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2020 upon its acceptance in accordance with paragraph 2 above; 
+4 REQUESTS the Secretary-General, for the purposes of article VIII(b)(v) of 
+the Convention, to transmit certified copies of the present resolution and the text of 
+the amendments contained in the annex to all Contracting Governments to the Convention; 
+5 REQUESTS ALSO the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the Organization which are not Contracting Governments to 
+the Convention. 
+RESOLUTION MSC.440(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS 
+CHEMICALS IN BULK (IBC CODE)
+- 2 - 
+ 
+ 
+ANNEX
+---
+SOURCE: MSC.440(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.440(99).pdf
+EQUIPMENT OF SHIPS CARRYING DANGEROUS 
+CHEMICALS IN BULK (IBC CODE)
+- 2 - 
+ 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS 
+CHEMICALS IN BULK (IBC CODE) 
+ 
+ 
+In the appendix, the existing p aragraph 6 of the model form of International Certificate of 
+Fitness for the Carriage of Dangerous Chemicals in Bulk is replaced with the following: 
+ 
+"6 That the loading and stability information booklet required by paragraph 2.2.5 
+of the Code has been supplied to the ship in an approved form. 
+ 
+7 That the ship must be loaded: 
+ 
+.1* only in accordance with loading conditions verified compliant with intact 
+and damage stability requirements using the approved stability 
+instrument fitted in accordance with paragraph 2.2.6 of the Code; 
+ 
+.2* where a waiver permitted by paragraph 2.2.7 of the Code is granted 
+and the approved stability instrument required by paragraph 2.2.6
+---
+SOURCE: MSC.440(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.440(99).pdf
+.2* where a waiver permitted by paragraph 2.2.7 of the Code is granted 
+and the approved stability instrument required by paragraph 2.2.6 
+of the Code is not fitted, loading shall be made in accordance with 
+one or more of the following approved methods: 
+ 
+(i)* in accordance with the loading conditio ns provided in the 
+approved loading and stability information booklet referred 
+to in 6 above; or 
+ 
+(ii)* in accordance with loading conditions verified remotely 
+using an approved means…………………; or 
+ 
+(iii)* in accordance with a loading condition which lies within an 
+approved range of conditions defined in the approved loading 
+and stability information booklet referred to in 6 above; or 
+ 
+(iv)* in accordance with a loading condition verified using approved 
+critical KG/GM data defined in the approved loading and 
+stability information booklet referred to in 6 above; and 
+ 
+.3* in accordance with the loading limitations appended to this Certificate.
+---
+SOURCE: MSC.440(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.440(99).pdf
+stability information booklet referred to in 6 above; and 
+ 
+.3* in accordance with the loading limitations appended to this Certificate. 
+ 
+Where it is required to load the ship other than in accordance with the above 
+instruction, then the necessary calculations to justify the proposed loading 
+conditions shall be communicated to the certifying Administration who may 
+authorize in writing the adoption of the proposed loading condition.** 
+ 
+__________________ 
+* Delete as appropriate. 
+ 
+** Instead of being incorporated in the Certificate, this text may be appended to the Certificate, if 
+duly signed and stamped." 
+RESOLUTION MSC.440(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS 
+CHEMICALS IN BULK (IBC CODE)
+RESOLUTION MSC.440(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS 
+CHEMICALS IN BULK (IBC CODE)
+---
+
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 1 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+ANNEX 21 
+ 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO resolution A.886(21), by which the Assembly resolved that the function of 
+adopting performance standards and technical specifications, as well as amendments 
+thereto shall be performed by the Maritime Safety Committee and/or the Marine Environment 
+Protection Committee, as appropriate, on behalf of the Organization, 
+ 
+RECALLING FURTHER that, by resolution A.861(20), the Assembly, at its twentieth session,
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+RECALLING FURTHER that, by resolution A.861(20), the Assembly, at its twentieth session, 
+adopted Performance standards for shipborne voyage data recorders (VDRs) , which were 
+amended by resolution MSC.214(81), adopted by the Committee, at its eighty-first session, 
+ 
+RECOGNIZING the need to revise the performance standards for VDRs to assist in 
+investigations into casualties, 
+ 
+HAVING CONSIDERED the recommendation by the Sub-Committee on Safety of 
+Navigation, at its fifty-seventh session, 
+ 
+1. ADOPTS the Revised Recommendation on performance standards for voyage data 
+recorders (VDRs), set out in the annex to the present resolution; 
+ 
+2. RECOMMENDS Governments to ensure that VDRs: 
+ 
+.1 if installed on or after 1 July 2014, conform to performance standards not 
+inferior to those specified in the annex to the present resolution; and 
+ 
+.2 if installed before 1 July 2014, conform to performance standards not
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+inferior to those specified in the annex to the present resolution; and 
+ 
+.2 if installed before 1 July 2014, conform to performance standards not 
+inferior to those specified in the annex to resolution A.861(20), as amended 
+by resolution MSC.214(81). 
+ 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 2 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+ANNEX 
+ 
+RECOMMENDATION ON PERFORMANCE STANDARDS 
+FOR SHIPBORNE VOYAGE DATA RECORDERS (VDRs) 
+ 
+ 
+1 PURPOSE 
+ 
+The purpose of a voyage data recorder (VDR) is to maintain a store, in a secure and 
+retrievable form, of information concerning the position, movement, physical status, 
+command and control of a ship over the period leading up to and following an incident having 
+an impact thereon.  Information contained in a VDR should be made available to both the
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+an impact thereon.  Information contained in a VDR should be made available to both the 
+Administration and the shipowner.  This information is for use during any subsequent safety 
+investigation to identify the cause(s) of the incident. 
+ 
+2 APPLICATION 
+ 
+A VDR with capabilities not inferior to those defined in these performance standards is 
+required to be fitted to ships of classes defined in SOLAS chapter V, as amended. 
+ 
+3 REFERENCES 
+ 
+3.1 IMO resolutions: 
+ 
+- A.694(17) General requirements for shipborne radio equipment forming 
+part
+ of the GMDSS and for electronic navigational aids; 
+ 
+- A.810(19) Performance standards for float-free satellite emergency 
+position-indicating radio beacons (EPIRBs) operating 
+on 406 MHz; and 
+ 
+- A.1021(26) Code on Alerts and Indicators, 2009. 
+ 
+3.2 IMO circular: 
+ 
+- MSC/Circ.982 Guidelines on ergonomic criteria for bridge equipment and 
+layout. 
+ 
+4 DEFINITIONS
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+3.2 IMO circular: 
+ 
+- MSC/Circ.982 Guidelines on ergonomic criteria for bridge equipment and 
+layout. 
+ 
+4 DEFINITIONS  
+ 
+4.1 Voyage data recorder (VDR)  means a complete system, including any items 
+required to interface with the sources of input signals, their processing and encoding, the 
+final recording medium, the playback equipment, the power supply and dedicated reserve 
+power source. 
+ 
+4.2 Signal source means any sensor or device external to the VDR, to which the VDR is 
+connected and from which it obtains signals and data to be recorded. 
+ 
+4.3 Final recording medium means the items of hardware on which the data is recorded 
+such that access to any one of them would enable the data to be recovered and played back 
+by use of suitable equipment.  The combination of a fixed recording medium and float-free 
+recording medium and long-term recording medium, together, is recognized as the final 
+recording medium. 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012)
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+recording medium. 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 3 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+4.4 Fixed recording medium  means a part of the final recording medium which is 
+protected against fire, shock, penetration and a prolonged period on the ocean floor.  It is 
+expected to be recovered from the deck of the ship that has sunk.  It has a means of 
+indicating location. 
+ 
+4.5 Float-free recording  medium means a part of the final recording medium which 
+should float-free after a sinking. It has a means of indicating location. 
+ 
+4.6 Long-term recording medium  means a permanently installed part of the Final 
+Recording Medium.  It provides the longest record duration and has a readily accessible 
+interface for downloading the stored data. 
+ 
+4.7 Playback equipment  means any data medium with the playback software,
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+interface for downloading the stored data. 
+ 
+4.7 Playback equipment  means any data medium with the playback software,  
+the operational instructions and any special parts required for connecting a  
+commercial off-the-shelf laptop computer to the VDR. 
+ 
+4.8 Playback software means a copy of the software program to provide the capability to 
+download the stored data and play back the information.  The software should be compatible 
+with an operating system available with commercial off-the-shelf laptop computers and where 
+non-standard or proprietary formats are used for storing the data in the VDR, the software 
+should convert the stored data into open industry standard formats. 
+ 
+4.9 Dedicated reserve power source  means a battery, with suitable automatic charging 
+arrangements, dedicated solely to the VDR, of sufficient capacity to operate it as required 
+by 5.4.2. 
+ 
+4.10 Configuration data describes the vessel's equipment, its installation on the vessel
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+by 5.4.2. 
+ 
+4.10 Configuration data describes the vessel's equipment, its installation on the vessel 
+and its relation to the VDR.  The storage and playback software uses this data to store the 
+data record and to convert the data record into information that assists casualty investigation 
+during playback. 
+ 
+5 OPERATIONAL REQUIREMENTS  
+ 
+5.1 General  
+ 
+5.1.1 The VDR should continuously maintain sequential records of preselected data items 
+relating to the status and output of the ship's equipment, and command and control of the 
+ship, referred to in 5.5. 
+ 
+5.1.2 To permit subsequent analysis of factors surrounding an incident, the method of 
+recording should ensure that the various data items can be co-related in date and time during 
+playback on suitable equipment. 
+ 
+5.1.3 The system should include functions to perform a performance test at any time, 
+e.g. annually or following repair or maintenance work to the VDR or any signal source
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+e.g. annually or following repair or maintenance work to the VDR or any signal source 
+providing data to the VDR.  This test may be conducted using the playback equipment and 
+should ensure that all the required data items are being correctly recorded. 
+ 
+5.1.4 The design and construction, which should be in accordance with the requirements 
+of resolution A.694(17) and international standards acceptable to the Organization 1, should 
+take special account of the requirements for data security and continuity of operation as 
+detailed in 5.3 and 5.4. 
+ 
+                                                
+1  Refer to publication IEC 60945 – Maritime navigation and radiocommunication equipment and systems – 
+General requirements, methods of testing and required test results. 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 4 
+ 
+ 
+I:\MSC\90\28-Add-1.doc
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 4 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+5.2 Final recording medium  
+ 
+The final recording medium should consist of the following items: 
+ 
+.1 fixed recording medium; 
+ 
+.2 float-free recording medium; and 
+ 
+.3 l ong-term recording medium. 
+ 
+5.2.1 Fixed recording medium  
+ 
+The fixed recording medium should be installed in a fixed protective capsule which should 
+meet all of the following requirements: 
+ 
+.1 be capable of being accessed following an incident but secure against a 
+physical or electronically manipulated change or deletion of recorded data; 
+ 
+.2 maintain the recorded data for a period of at least two years following 
+termination of recording; 
+ 
+.3 maximize the probability of survival against fire, shock, penetration and 
+deep-sea-pressure and recovery of the final recorded data after any 
+incident;
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+deep-sea-pressure and recovery of the final recorded data after any 
+incident; 
+ 
+.4 be of a highly visible colour and marked with retro-reflective materials; and 
+ 
+.5 be fitted with an appropriate device to aid location under water. 
+ 
+5.2.2 Float-free recording medium  
+ 
+The float-free recording medium should be installed in a float-free capsule which should meet 
+all of the following requirements: 
+ 
+.1 be fitted with means to facilitate grappling and recovery; 
+ 
+.2 maintain the recorded data for a period of at least six months following 
+termination of recording; 
+ 
+.3 be so constructed as to comply with the requirements specified in 
+resolution A.810(19) and to minimize risk of damage during recovery 
+operations; 
+ 
+.4 be capable of transmitting an initial locating signal and further locating 
+homing signal for at least 48 hours over a period of not less than seven 
+days/168 hours; and 
+ 
+.5 be capable of being accessed following an incident but secure against a
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+days/168 hours; and 
+ 
+.5 be capable of being accessed following an incident but secure against a 
+physical or electronically manipulated change or deletion of recorded data. 
+ 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 5 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+5.2.3 Long-term recording medium 
+ 
+The long-term recording medium should: 
+ 
+.1 be capable of being accessed from an internal, easily accessible area of 
+the ship; and 
+ 
+.2 provide access to the data held on it but be secured against a physical or 
+electronically manipulated change or deletion of recorded data. 
+ 
+5.3 Data selection and security  
+ 
+5.3.1 The minimum amount of data items to be recorded by the VDR is specified in 5.5.  
+Optionally, additional items may be recorded provided that the requirements for the recording 
+and storage of the specified selections are not compromised.
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+and storage of the specified selections are not compromised. 
+ 
+5.3.2 The equipment should be so designed that, as far as is practical, it is not possible to 
+manipulate the amount of data being recorded by the VDR, the data itself nor the data which 
+has already been recorded.  Any attempt to interfere with the integrity of the data or the 
+recording should be recorded. 
+ 
+5.3.3 The recording method should be such that each item of the recorded data is 
+checked for integrity and an alarm given if a non-correctable error is detected. 
+ 
+5.4 Continuity of operation  
+ 
+5.4.1 The VDR should be capable of operating from the ship's main and emergency 
+source of electrical power. 
+ 
+5.4.2 If the ship's source of electrical power supply fails, the VDR should continue to 
+record Bridge Audio (see 5.5.5) from the dedicated reserve power source for a period  
+of 2 hours.  At the end of this 2 hour period all recording should cease automatically.
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+of 2 hours.  At the end of this 2 hour period all recording should cease automatically. 
+ 
+5.4.3 Recording should be continuous unless terminated in accordance with 5.4.2.  The 
+time for which all stored data items are retained should be at least 30 days/720 hours on the 
+long-term recording medium and at least 48 hours on the fixed and float-free recording 
+media.  Data items which are older than this may be overwritten with new data. 
+ 
+5.5 Data items to be recorded  
+ 
+5.5.1 Date and time  
+ 
+Date and time, referenced to UTC, should be obtained from a source external to the ship and 
+an internal clock should be synchronized with valid date and time data.  During times of a 
+loss of the external source, the internal clock should be used.  The recording should indicate 
+which source is in use.  The recording method should be such that the timing of all other 
+recorded data items can be derived on playback with a resolution and continuity sufficient to
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+recorded data items can be derived on playback with a resolution and continuity sufficient to 
+reconstruct the history of the incident in detail. 
+ 
+5.5.2 Ship's position  
+ 
+Latitude and longitude, and the datum used, should be derived from an electronic 
+position-fixing system (EPFS).  The recording should ensure that the identity and status of 
+the EPFS can always be determined on playback. 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 6 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+5.5.3 Speed  
+ 
+Speed through the water and speed over the ground, including an indication of which it is, 
+derived from the ship's speed and distance measuring equipment, as required by SOLAS 
+regulations. 
+ 
+5.5.4 Heading  
+ 
+Heading as indicated by the ship's heading source. 
+ 
+5.5.5 Bridge audio  
+ 
+Microphones should be positioned on the bridge covering all work stations as described in
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+5.5.5 Bridge audio  
+ 
+Microphones should be positioned on the bridge covering all work stations as described in 
+MSC/Circ.982 so that conversation is recorded.  The recording should be such that, on 
+playback, a normal speaking voice should provide adequate intelligibility while the ship is 
+performing its normal operations.  This performance should be maintained at all work 
+stations while there is a single audio alarm anywhere on the bridge or any noise, including 
+noise from faulty equipment or mounting, or wind. This should be achieved through the use 
+of at least two channels of audio recording. Microphones positioned outside on bridge wings, 
+should be recorded on at least one additional separate channel. 
+ 
+5.5.6 Communications audio  
+ 
+VHF communications relating to ship operations should be recorded on an additional 
+separate channel to those referred to in 5.5.5. 
+ 
+5.5.7 Radar
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+separate channel to those referred to in 5.5.5. 
+ 
+5.5.7 Radar  
+ 
+The electronic signals of the main displays of both ship's radar installations as required by 
+SOLAS regulations.  The recording method should be such that, on playback, it is possible to 
+present a faithful replica of the entire radar display that was on view at the time of recording, 
+albeit within the limitations of any bandwidth compression techniques that are essential to the 
+working of the VDR. 
+ 
+5.5.8 ECDIS  
+ 
+Where a vessel is fitted with an ECDIS installation, the VDR should record the electronic 
+signals of the ECDIS display in use at the time as the primary means of navigation.  
+The recording method should be such that, on playback, it is possible to present a faithful 
+replica of the entire ECDIS display that was on view at the time of recording, albeit within the 
+limitations of any bandwidth compression techniques that are essential to the working of the
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+limitations of any bandwidth compression techniques that are essential to the working of the 
+VDR and in addition the source of the chart data and the version used. 
+ 
+5.5.9 Echo sounder  
+ 
+The depth information.  This should include, where available, depth under keel, the depth 
+scale currently being displayed and other status information. 
+ 
+5.5.10 Main alarms  
+ 
+This should include the status of all mandatory alarms on the bridge 2 or as received from the 
+Bridge Alert Management System, if installed, recorded as individually identified alarms. 
+                                                
+2  Resolution A.1021(26), Code on Alerts and Indicators, 2009, table 10.1.1. 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 7 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+5.5.11 Rudder order and response
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 7 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+5.5.11 Rudder order and response  
+ 
+This should include status and settings of heading or track controller, if fitted and indicate the 
+control station, mode, and power unit(s) in use. 
+ 
+5.5.12 Engine and thruster order and response  
+ 
+This should include the positions of any engine telegraphs or direct engine/propeller controls 
+and feedback indications on the bridge, if fitted, including ahead/astern indicators and 
+indicate the control station in use.  This should also include any thrusters if fitted and indicate 
+the control station in use. 
+ 
+5.5.13 Hull openings status  
+ 
+This should include all mandatory status information required to be displayed on the bridge. 
+ 
+5.5.14 Watertight and fire door status  
+ 
+This should include all mandatory status information required to be displayed on the bridge. 
+ 
+5.5.15 Accelerations and hull stresses
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+This should include all mandatory status information required to be displayed on the bridge. 
+ 
+5.5.15 Accelerations and hull stresses  
+ 
+Where a ship is fitted with hull stress and response monitoring equipment, all the data items 
+that have been pre-selected within that equipment should be recorded. 
+ 
+5.5.16 Wind speed and direction 
+ 
+Where a ship is fitted with a suitable sensor, wind speed and direction should be recorded, 
+including its true or relative status. 
+ 
+5.5.17 AIS  
+ 
+All AIS data should be recorded. 
+ 
+5.5.18 Rolling motion  
+ 
+The VDR should be connected to an electronic inclinometer if installed.  The recording 
+method should be such that the rolling motion can be reconstructed during playback. 
+ 
+5.5.19 Configuration data  
+ 
+In addition to the data items specified in 5.5.1 to 5.5.18, a data block defining the 
+configuration of the VDR and the sensors to which it is connected should be written into the
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+configuration of the VDR and the sensors to which it is connected should be written into the 
+final recording medium during commissioning of the VDR.  The data block should be 
+maintained up to date with respect to the vessel installation.  It should include details on the 
+manufacturer, type and version number of a sensor, the identification and location of the 
+sensor and the interpretation of the sensor data.  This configuration data should be 
+permanently retained in the final recording media and protected from modification other than 
+by a duly authorized person following any change to the configuration. 
+ 
+5.5.20 Electronic logbook  
+ 
+Where a ship is fitted with an electronic logbook in accordance with the standards of the 
+Organization the information from this should be recorded. 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 8 
+ 
+ 
+I:\MSC\90\28-Add-1.doc
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+MSC 90/28/Add.1 
+Annex 21, page 8 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+6 OPERATION  
+ 
+The unit should be entirely automatic in normal operation. 
+ 
+7 DOCUMENTATION  
+ 
+Information describing the location of the long-term recording medium interface and 
+instructions describing the means of interfacing with it as referred to in 9 should be provided 
+in at least the English language.  The equipment documentation should include guidance for 
+the placement of the information and instructions at a prominent position as close to the 
+long-term recording medium interface as practicable. 
+ 
+8 INTERFACING  
+ 
+Interfacing to the various signal sources required should be in accordance with the relevant 
+international interface standard, where possible 3.  Any connection to any item of the ship's 
+equipment should be such that the operation of that equipment suffers no deterioration, even
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+equipment should be such that the operation of that equipment suffers no deterioration, even 
+if the VDR system develops faults. 
+ 
+9 DOWNLOAD AND PLAYBACK EQUIPMENT FOR INVESTIGATION AUTHORITIES 
+ 
+9.1 Data output interface  
+ 
+The VDR should provide an interface for downloading the stored data and play back the 
+information to an external computer.  The interface should be compatible with an 
+internationally recognized format, such as Ethernet, USB, FireWire, or equivalent.  It should 
+be possible to perform a download of the recorded data for a user-defined period of time. 
+ 
+9.2 Software for data downloading and play back  
+ 
+9.2.1 A copy of the software program providing the capability to download the stored data 
+and play back the information onto a connected external laptop computer and for the 
+playback of the data should be provided for each VDR installation. 
+ 
+9.2.2 The software should be compatible with an operating system available with
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+9.2.2 The software should be compatible with an operating system available with 
+commercial-off-the-shelf laptop computers and provided on a portable storage device such 
+as a CD-ROM, DVD, USB-memory stick, etc. 
+ 
+9.2.3 Instructions for executing the software and for connecting the external laptop 
+computer to the VDR should be provided. 
+ 
+9.2.4 The portable storage device containing the software, the instructions and any 
+special (not commercial off-the-shelf) parts necessary for the physical connection of the 
+external laptop computer, should be stored within the main unit of the VDR. 
+ 
+9.2.5 Where non-standard or proprietary formats are used for storing the data in the VDR, 
+the software for converting the stored data into open industry standard formats should be 
+provided on the portable storage device or resident in the VDR. 
+ 
+***
+---
+SOURCE: MSC.333(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.333(90).pdf
+provided on the portable storage device or resident in the VDR. 
+ 
+***
+                                                
+3  Refer to publication IEC 61162 – Maritime navigation and radiocommunication equipment and systems – 
+Digital interfaces. 
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+RESOLUTION MSC.333(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE VOYAGE DATA RECORDERS (VDRs)
+---
+
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+RESOLUTION MSC.350(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+RESOLUTION MSC.350(92) 
+(Adopted on 21 June 2013) 
+ 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO article VIII(b) of the International Convention for the Safety of Life at Sea 
+(SOLAS), 1974 (hereinafter referred to as "the Convention"), concerning the amendment 
+procedure applicable to the annex to the Convention, other than to the provisions of chapter I 
+thereof, 
+ 
+HAVING CONSIDERED, at its ninety-second session, amendments to the Convention, 
+proposed and circulated in accordance with article VIII(b)(i) thereof, 
+ 
+1. ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+1. ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the Convention, the text of which is set out in the annex to the present resolution; 
+ 
+2. DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that 
+the said amendments shall be deemed to have been accepted on 1 July 2014 , unless, prior 
+to that date, more than one third of the Contracting Governments to the Convention or 
+Contracting Governments the combined merchant fleets of which constitute not less 
+than 50% of the gross tonnage of the world's merchant fleet, have notified their objections to 
+the amendments; 
+ 
+3. INVITES SOLAS Contracting Governments to note that, in accordance 
+with article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2015 upon their acceptance in accordance with paragraph 2 above; 
+ 
+4. REQUESTS the Secretary-General, in conformity with article VIII(b)(v) of the
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+4. REQUESTS the Secretary-General, in conformity with article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Governments to the Convention; 
+ 
+5. ALSO REQUESTS the Secretary-General to transmit copies of this resolution 
+and its annex to Members of the Organization which are not Contracting Governments to 
+the Convention. 
+ 
+ 
+RESOLUTION MSC.350(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR 
+THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED 
+ 
+CHAPTER III 
+LIFE-SAVING APPLIANCES AND ARRANGEMENTS 
+ 
+Part B 
+Requirements for ships and life-saving appliances 
+ 
+Regulation 19 – Emergency training and drills 
+ 
+1 The existing text of paragraphs 2.2 and 2.3 is replaced with the following:
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+Regulation 19 – Emergency training and drills 
+ 
+1 The existing text of paragraphs 2.2 and 2.3 is replaced with the following: 
+ 
+"2.2 On a ship engaged on a voyage where passengers are sc heduled to be 
+on board for more than 24 h, musters of newly-embarked passengers shall take 
+place prior to or immediately upon departure.  Passengers shall be instructed in the 
+use of the lifejackets and the action to take in an emergency. 
+ 
+2.3 Whenever new passengers embark, a passenger safety briefing shall be 
+given immediately before departure, or immediately after departure. The briefing 
+shall include the instructions required by regulations 8.2 and 8.4, and shall be made 
+by means of an announcement, in one or more languages likely to be understood by 
+the passengers. The announcement shall be made on the ship's public address 
+system, or by other equivalent means likely to be heard at least by the passengers
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+system, or by other equivalent means likely to be heard at least by the passengers 
+who have not yet heard it during the voyage. The briefing may be included in the 
+muster required by paragraph 2.2. Information cards or posters or video 
+programmes displayed on ships video displays may be used to supplement the 
+briefing, but may not be used to replace the announcement." 
+ 
+2 After existing paragraph 3.2, a new paragraph 3.3 is inserted as follows: 
+ 
+"3.3 Crew members with enclosed space entry or rescue responsibilities shall 
+participate in an enclosed space entry and rescue drill to be held on board the ship 
+at least once every two months." 
+ 
+3 Existing sections 3.3 and 3.4 are renumbered as 3.4 and 3.5, respectively.  In the 
+renumbered paragraph 3.4.2, the reference "paragraph 3.3.1.5" is replaced by the reference 
+"paragraph 3.4.1.5"; and in the renumbered paragraph 3.4.3, the reference "paragraphs 3.3.4 
+and 3.3.5" is replaced by the reference "paragraphs 3.4.4 and 3.4.5".
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+and 3.3.5" is replaced by the reference "paragraphs 3.4.4 and 3.4.5". 
+ 
+4 After the renumbered section 3.5, the following new section is added: 
+ 
+"3.6 Enclosed space entry and rescue drills 
+ 
+3.6.1  Enclosed space entry and rescue drills should be planned and conducted in 
+a safe manner, taking into account, as appropriate, the guidance provided in the 
+recommendations developed by the Organization. 
+ 
+3.6.2  Each enclosed space entry and rescue drill shall include: 
+ 
+.1  checking and use of personal protective equipment required for 
+entry; 
+ 
+RESOLUTION MSC.350(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+- 3 - 
+ 
+.2  checking and use of communication equipment and procedures; 
+ 
+.3 checking and use of instruments for measuring the atmosphere in 
+enclosed spaces; 
+ 
+.4  checking and use of rescue equipment and procedures; and 
+ 
+.5  instructions in first aid and resuscitation techniques."
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+enclosed spaces; 
+ 
+.4  checking and use of rescue equipment and procedures; and 
+ 
+.5  instructions in first aid and resuscitation techniques." 
+ 
+5 In paragraph 4.2, at the end of subparagraph .3, the word "and" is deleted; at the end 
+of subparagraph .4, the period "." is replaced by the word "; and"; and after subparagraph .4, 
+the following new subparagraph is added: 
+ 
+".5  risks associated with enclosed spaces and onboard procedures for safe 
+entry into such spaces which should take into account, as appropriate, the 
+guidance provided in recommendations developed by the Organization." 
+ 
+6 In paragraph 5, after the words "fire drills,", the words "enclosed space entry and 
+rescue drills," are inserted. 
+ 
+CHAPTER V 
+SAFETY OF NAVIGATION 
+ 
+Regulation 19 – Carriage requirements for shipborne navigational systems and 
+equipment  
+ 
+7 In subparagraph 1.2.1, the words "1.2.2 and 1.2.3" are replaced with the 
+words "1.2.2, 1.2.3 and 1.2.4".
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+equipment  
+ 
+7 In subparagraph 1.2.1, the words "1.2.2 and 1.2.3" are replaced with the 
+words "1.2.2, 1.2.3 and 1.2.4". 
+ 
+8 In subparagraph 1.2.2, the word "and" at the end of the subparagraph is deleted and 
+in subparagraph 1.2.3, the full stop "." is replaced with the word "; and". 
+ 
+9 After the existing subparagraph 1.2.3, the following new subparagraph is added: 
+ 
+".4 be fitted with the system required in paragraph 2.2.3, as follows: 
+ 
+.1  passenger ships irrespective of size, not later than the first survey 
+after 1 January 2016;  
+ 
+.2  cargo ships of 3,000 gross tonnage and upwards, not later than 
+the first survey after 1 January 2016;  
+ 
+.3  cargo ships of 500 gross tonnage and upwards but less 
+than 3,000 gross tonnage, not later than the first survey 
+after 1 January 2017; and  
+ 
+.4  cargo ships of 150 gross tonnage and upwards but less 
+than 500 gross tonnage, not later than the first survey 
+after 1 January 2018.
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+.4  cargo ships of 150 gross tonnage and upwards but less 
+than 500 gross tonnage, not later than the first survey 
+after 1 January 2018.  
+ 
+The bridge navigational watch alarm system shall be in operation whenever 
+the ship is underway at sea. 
+ 
+RESOLUTION MSC.350(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+- 4 - 
+ 
+The provisions of paragraph 2.2.4 shall also apply to ships constructed 
+before 1 July 2002." 
+ 
+10 After the new subparagraph 1.2.4, the following new paragraph is added: 
+ 
+"1.3 Administrations may exempt ships from the application of the requirement of 
+paragraph 1.2.4 when such ships will be taken permanently out of service within two 
+years after the implementation date specified in subparagraphs 1.2.4.1 to 1.2.4.4." 
+ 
+ 
+CHAPTER XI-1 
+SPECIAL MEASURES TO ENHANCE MARITIME SAFETY 
+ 
+Regulation 1 – Authorization of recognized organizations
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+CHAPTER XI-1 
+SPECIAL MEASURES TO ENHANCE MARITIME SAFETY 
+ 
+Regulation 1 – Authorization of recognized organizations 
+ 
+11 The existing text of regulation 1 is replaced with the following: 
+ 
+"The Administration shall authorize organizations, referred to in regulation I/6, 
+including classification societies, in accordance with the provisions of the present 
+Convention and with the Code for Recognized Organizations (RO Code), consisting of 
+part 1 and part 2 (the provisions of which shall be treated as mandatory) and part 3 
+(the provisions of which shall be treated as recommendatory), as adopted by the 
+Organization by resolution MSC.349(92), as may be amended by the Organization, 
+provided that: 
+ 
+.1 amendments to part 1 and part 2 of the RO Code are adopted, brought into 
+force and take effect in accordance with the provisions of article VIII of the 
+present Convention;  
+ 
+.2 amendments to part 3 of the RO Code are adopted by the Maritime Safety
+---
+SOURCE: MSC.350(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.350(92).pdf
+present Convention;  
+ 
+.2 amendments to part 3 of the RO Code are adopted by the Maritime Safety 
+Committee in accordance with its Rules of Procedure; and 
+ 
+.3 any amendments adopted by the Maritime Safety Committee and the 
+Marine Environment Protection Committee are identical and come into 
+force or take effect at the same time, as appropriate." 
+ 
+ 
+RESOLUTION MSC.350(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+RESOLUTION MSC.350(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+---
+
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+ 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+NOTING resolution MSC.268(85) by which it adopted the International Maritime Solid Bulk 
+Cargoes Code (hereinafter referred to as "the IMSBC Code"), which has become mandatory 
+under chapters VI and VII of the International Convention for the Safety of Life at Sea 
+(SOLAS), 1974 (hereinafter referred to as "the Convention"), 
+ 
+NOTING ALSO article VIII(b) and regulation VI/1-1. 1 of the Convention concerning the 
+amendment procedure for amending the IMSBC Code, 
+ 
+HAVING CONSIDERED, at its ninety-second session, amendments to the IMSBC Code,
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+amendment procedure for amending the IMSBC Code, 
+ 
+HAVING CONSIDERED, at its ninety-second session, amendments to the IMSBC Code, 
+proposed and circulated in accordance with article VIII(b)(i) of the Convention, 
+ 
+1. ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the IMSBC Code, the text of which is set out in the annex to the present resolution; 
+ 
+2. DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that 
+the said amendments shall be deemed to have been accepted on 1 July 2014, unless, prior 
+to that date, more than one third of the Contracting Governments to the Convention or 
+Contracting Governments the combined merchant fleets of which constitute not less 
+than 50% of the gross tonnage of the world's merchant fleet, have notified their objections to 
+the amendments; 
+ 
+3. INVITES Contracting Governments to the Convention to note that, in accordance
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+the amendments; 
+ 
+3. INVITES Contracting Governments to the Convention to note that, in accordance 
+with article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2015 upon their acceptance in accordance with paragraph 2 above; 
+ 
+4. AGREES that Contracting Governments to the Convention may apply the 
+aforementioned amendments in whole or in part on a voluntary basis as from 1 January 2014; 
+ 
+5. REQUESTS the Secretary-General, in conformity with article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Governments to the Convention; 
+ 
+6. ALSO REQUESTS the Secretary-General to transmit copies of this resolution and 
+its annex to Members of the Organization which are not Contracting Governments to the 
+Convention. 
+ 
+ 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+Convention. 
+ 
+ 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE 
+ 
+ 
+Section 1 – General provisions  
+ 
+1.4  Application and implementation of this Code 
+ 
+1 Replace the last sentence of paragraph 1.4.2 with the following: 
+ 
+"The texts in the sections for "Description", "Characteristics (other than CLASS and 
+GROUP)", "Hazard" and "Emergency procedures" of individual schedules of solid 
+bulk cargoes in appendix 1." 
+ 
+1.7 Definitions 
+ 
+2 Insert the following new definitions in alphabetical order: 
+ 
+"GHS means the fourth revised edition of the Globally Harmonized System of 
+Classification and Labelling of Chemicals, published by the United Nations as 
+document ST/SG/AC.10/30/Rev.4." 
+ 
+"Manual of Tests and Criteria  means the fifth revised edition of the United Nations
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+document ST/SG/AC.10/30/Rev.4." 
+ 
+"Manual of Tests and Criteria  means the fifth revised edition of the United Nations 
+publication entitled "Recommendations on the Transport of Dangerous Goods , 
+Manual of Tests and Criteria" (ST/SG/AC.10/11/Rev.5/Amendment 1)." 
+ 
+"Potential sources of ignition  means, but is not limited to, open fires, machinery 
+exhausts, galley uptakes, electrical outlets and electrical equipment unless they are 
+of certified safe type." 
+ 
+"Sources of heat  means heated ship structures, where the surface temperature is 
+liable to exceed 55ºC.  Examples of such heated structures are steam pipes, 
+heating coils, top or side walls of heated fuel and cargo tanks, and bulkheads of 
+machinery spaces." 
+ 
+3 All numerical references to definitions are deleted, keeping them in alphabetical order 
+only. 
+ 
+4 Insert a new sentence at end of definition of Competent authority as follows: 
+ 
+"The competent authority shall operate independently from the shipper."
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+"The competent authority shall operate independently from the shipper." 
+ 
+Section 3 – Safety of personnel and ship 
+ 
+3.6 Cargo under in-transit fumigation 
+ 
+5 The existing text under 3.6 is renumbered as 3.6.1. 
+ 
+6 Insert new paragraphs 3.6.2 and 3.6.3 as follows: 
+ 
+"3.6.2 When a fumigant is used, such as phosphine gas, for fumigation-in -transit, 
+due consideration shall be given to the severe toxicity of fumigants, taking into 
+account that fumigants may enter into occupied spaces despite many precautions 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+- 3 - 
+ 
+taken. In particular, in the case that fumigant leaks from a cargo hold under 
+fumigation, the possibility should be kept in mind that it may enter the engine-room 
+via pipe tunnels, ducts, and piping of any kind, including wiring ducts on or below 
+deck, or dehumidifier systems that may be connected to parts of the cargo hold or
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+deck, or dehumidifier systems that may be connected to parts of the cargo hold or 
+compartments of the engine-room.  Attention shall be given to potential problem 
+areas such as bilge and cargo line systems and valves. In all cases, ventilation 
+procedures on board the ship during the voyage, should be scrutinized with regard 
+to the possibility of drawing in the fumigant gas such as by incorrect ventilation 
+procedures and settings, vacuum creation due to incorrect closing devices or flap 
+settings, air conditioning and closed loop ventilation of the accommodation. Prior to 
+commencement of fumigation procedures, it should be verified that ventilation flaps 
+and closing devices are set correctly and that means of closing and sealing of all the 
+bulkhead openings (such as doors and manholes) leading from the engine-room to 
+piping tunnels/duct keels and other spaces that in case of leaks could become 
+unsafe to enter during the fumigation are effective, confirmed closed and have
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+unsafe to enter during the fumigation are effective, confirmed closed and have 
+warning signs posted.  
+ 
+3.6.3 Gas concentration safety checks shall also be made at all appropriate 
+locations, which shall at least include: accommodation; engine -rooms; areas 
+designated for use in navigation of the ship; and frequently visited working areas 
+and stores, such as the forecastle head spaces, adjacent to cargo holds being 
+subject to fumigation in transit, shall be  continued throughout the voyage at least at 
+eight-hour intervals or more frequently if so advised by the fumigator -in-charge. 
+Special attention shall also be paid to potential problem areas such as bilge and 
+cargo line systems. These readings shall be recorded in the ship's logbook." 
+ 
+Section 4 – Assessment of acceptability of consignments for safe shipment  
+ 
+4.3  Certificates of test 
+ 
+7 Replace the first sentence of paragraph 4.3.2 with the following:
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+4.3  Certificates of test 
+ 
+7 Replace the first sentence of paragraph 4.3.2 with the following: 
+ 
+"When a concentrate or other cargo which may liquefy is carried, the shipper shall 
+provide the ship's master or his representative with a signed certificate of the TML, 
+and a signed certificate or declaration of the moisture content, each issued by an 
+entity recognized by the Competent Authority of the port of loading." 
+ 
+8 Insert new paragraph 4.3.3 as follows: 
+ 
+"4.3.3 When a concentrate or other cargo which may liquefy is carried, procedures 
+for sampling, testing and controlling moisture content to ensure the moisture content 
+is less than the TML when it is on board the ship shall be established by the shipper, 
+taking account of the provisions of this Code.  Such procedures shall be approved 
+and their implementation checked by the competent authority of the port of loading.  
+The document issued by the competent authority stating that the procedures have
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+The document issued by the competent authority stating that the procedures have 
+been approved shall be provided to the master or his representative." 
+ 
+9 Insert new paragraph 4.3.4 as follows: 
+ 
+"4.3.4 If the cargo is loaded on to the ship from barges, in developing the 
+procedures under 4.3.3 the shipper shall include procedures to protect the cargo on 
+the barges from any precipitation and water ingress." 
+ 
+and renumber the existing paragraphs 4.3.3 and 4.3.4 as 4.3.5 and 4.3.6, respectively. 
+ 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+- 4 - 
+ 
+10 A new sentence is inserted to the end of the renumbered paragraph 4.3.6 as 
+follows:  
+ 
+"However, it is important to ensure that the samples taken are representative of the 
+whole depth of the stockpile." 
+ 
+4.4  Sampling procedures 
+ 
+11 Insert new paragraph 4.4.3 as follows:
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+whole depth of the stockpile." 
+ 
+4.4  Sampling procedures 
+ 
+11 Insert new paragraph 4.4.3 as follows: 
+ 
+"4.4.3 For a concentrate or other cargo which may liquefy, the shipper shall 
+facilitate access to stockpiles for the purpose of inspection, sampling and 
+subsequent testing by the ship's nominated representative."   
+ 
+12 Renumber the existing paragraphs 4.4.3, 4.4.4, 4.4.5 and 4.4.6 as 4.4.4, 4.4.5, 4.4.6 
+and 4.4.7, respectively. 
+ 
+13 In the renumbered paragraph 4.4.6, replace the sentence "Samples shall be 
+immediately placed in suitable sealed containers which are properly marked" with the 
+sentence "Samples for moisture testing shall be immediately placed in suitable airtight, 
+non-absorbent containers with a minimum of free air space to minimize any change in 
+moisture content, such containers being properly marked". 
+ 
+14 Insert a new paragraph 4.4.8 as follows: 
+ 
+"4.4.8 For unprocessed mineral ores the sampling of stationary stockpiles shall be
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+14 Insert a new paragraph 4.4.8 as follows: 
+ 
+"4.4.8 For unprocessed mineral ores the sampling of stationary stockpiles shall be 
+carried out only when access to the full depth of the stockpile is available and 
+samples from the full depth of the stockpile can be extracted." 
+ 
+15 In subsection 4.7, the existing reference "ISO 3082:1998" is replaced with the following: 
+ 
+"ISO 3082:2009 – Iron ores – Sampling and sample preparation procedures. 
+(Note: Under this Standard the in situ sampling of ships and stockpiles is not 
+permitted)." 
+ 
+16 A new reference in subsection 4.7 is inserted after "ISO 3082:2009" as follows: 
+ 
+"IS1405:2010 – Iron Ores – Sampling & Sample Preparation – Manual Method. 
+ 
+(Note: This Indian Standard covers the in situ sampling of stockpiles up to a height 
+of 3 m)." 
+ 
+Section 7 – Cargoes that may liquefy 
+ 
+7.2 Conditions for hazards 
+ 
+17 The existing paragraph 7.2.2 is replaced with the following:
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+of 3 m)." 
+ 
+Section 7 – Cargoes that may liquefy 
+ 
+7.2 Conditions for hazards 
+ 
+17 The existing paragraph 7.2.2 is replaced with the following: 
+ 
+"7.2.2 Liquefaction does not occur when the cargo consists of large particles or 
+lumps and water passes through the spaces between the particles and there is no 
+increase in the water pressure." 
+ 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+- 5 - 
+ 
+Section 8 – Test procedures for cargoes that may liquefy  
+ 
+8.4  Complementary test procedure for determining the possibility of liquefaction 
+ 
+18 The existing paragraph under subsection 8.4 is numbered as 8.4.1. 
+ 
+19 Insert a new paragraph 8.4.2 as follows: 
+  
+"8.4.2 If samples remain dry following a can test, the moisture content of the 
+material may still exceed the Transportable Moisture Limit (TML)."   
+ 
+Section 9 – Materials possessing chemical hazards 
+ 
+9.2 Hazard classification
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+Section 9 – Materials possessing chemical hazards 
+ 
+9.2 Hazard classification 
+ 
+9.2.3 Materials hazardous only in bulk (MHB) 
+ 
+20 In paragraph 9.2.3, replace the existing text under the heading with the following: 
+ 
+"9.2.3.1 General 
+ 
+9.2.3.1.1 These are materials which possess chemical hazards when transported 
+in bulk other than materials classified as packaged dangerous goods in the 
+IMDG Code. These materials present a significant risk when carried in bulk and 
+require special precautions. 
+ 
+9.2.3.1.2 A material shall be classified as MHB if the material possesses one 
+or more of the chemical hazards as defined below.  When a test method is 
+prescribed, representative samples of the cargo to be carried shall be used for 
+testing.  Samples shall be taken 200 to 360 mm inward from the surface at 3 m 
+intervals over the length of a stockpile. 
+ 
+9.2.3.1.3 A material may also be classified as MHB by analogy with similar
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+intervals over the length of a stockpile. 
+ 
+9.2.3.1.3 A material may also be classified as MHB by analogy with similar 
+cargoes with known hazardous properties or by records of accidents. 
+ 
+9.2.3.2 Combustible solids 
+ 
+9.2.3.2.1 These are materials which are readily combustible or easily ignitable 
+when transported in bulk and do not meet the established criteria for inclusion in 
+class 4.1 (see 9.2.2.1 of the IMSBC Code). 
+ 
+9.2.3.2.2 Powdered, granular or pasty materials shall be classified as MHB when 
+the time of burning of one or more of the test runs, performed in accordance with the 
+preliminary screening test method described in the United Nations Manual of Tests 
+and Criteria, part III, 33.2.1.4.3.1, is less than 2 minutes.  Powders of metals or 
+metal alloys shall be classified as MHB when they can be ignited and the reaction 
+spreads over the whole length of the sample in 20 minutes or less. The test sample
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+spreads over the whole length of the sample in 20 minutes or less. The test sample 
+in the preliminary screening test is 200 mm in length. A summary of this approach is 
+presented in the table below: 
+ 
+Solid Cargo Hazard Class 4.1, PG III Burn time, Burn distance MHB Burn time, Burn distance 
+Powdered Metal more than 5 minutes but not more than 10 minutes, 250 mm ≤20 minutes, 200 mm 
+Solid Material <45 seconds, 100 mm ≤2 minutes, 200 mm 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+- 6 - 
+ 
+9.2.3.3 Self-heating solids 
+ 
+9.2.3.3.1 These are materials that self-heat when transported in bulk and do not 
+meet the established criteria for inclusion in class 4.2 (see 9.2.2.2). 
+ 
+9.2.3.3.2 A material shall be classified as MHB if, in the tests performed 
+in accordance with the test method given in the United Na tions Manual of Tests and
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+in accordance with the test method given in the United Na tions Manual of Tests and 
+Criteria, part III, 33.3.1.6, the temperature of the test sample rises by more 
+than 10°C when using a 100 mm cube sample at 140°C and at 100°C.  The flow 
+chart below illustrates the test procedure. 
+ 
+ 
+ 
+ 
+9.2.3.3.3 In addition, a material shall be classified as MHB if a temperature rise 
+of 10°C or more over ambient temperature is observed during any portion of the test 
+performed in accordance with the test method described in United Nations Manual 
+of Tests and Criteria, part III, 33 .4.1.4.3.5. When performing this test, the 
+temperature of the sample should be measured continuously over 48 hours. If, at 
+the end of the 48-hour period the temperature is increasing, the test period shall be 
+extended in accordance with the test method. 
+ 
+yes 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+- 7 -
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+yes 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+- 7 - 
+ 
+9.2.3.4 Solids that evolve into flammable gas when wet 
+ 
+9.2.3.4.1 These are materials that emit flammable gases when in contact with 
+water when transported in bulk and do not meet established criteria for inclusion in 
+class 4.3 (see 9.2.2.3). 
+ 
+9.2.3.4.2 A material shall be classified as MHB if, in tests performed in accordance 
+with the test method given in the United Nations Manual of Tests and Criteria, 
+part III, 33.4.1, the flammable gas evolution rate is greater than zero. When performing 
+this test, the rate of evolution of gas shall be calculated over 48 hours at one-hour 
+intervals.  If at the end of the 48-hour period the rate of evolution is increasing, the test 
+period shall be extended in accordance with the test method. 
+ 
+9.2.3.5 Solids that evolve toxic gas when wet
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+period shall be extended in accordance with the test method. 
+ 
+9.2.3.5 Solids that evolve toxic gas when wet 
+ 
+9.2.3.5.1 These are materials that emit toxic gases when in contact with water 
+when transported in bulk.  
+ 
+9.2.3.5.2 A material shall be classified as MHB if, in tests performed in 
+accordance with the test method given in the United Nations Manual of Tests and 
+Criteria, part III, 33.4.1, the toxic gas evolution rate is greater than zero.  Toxic gas 
+evolution shall be measured using the same test procedure for flammable gas 
+evolution as prescribed in the test method.  When performing this test, the rate of 
+evolution of gas shall be calculated over 48 hours at 1-hour intervals.  If at the end 
+of the 48-hour period the rate of evolution is increasing, the test period shall be 
+extended in accordance with the test method. 
+ 
+9.2.3.5.3 The gas shall be collected over the test period prescribed above. The
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+extended in accordance with the test method. 
+ 
+9.2.3.5.3 The gas shall be collected over the test period prescribed above. The 
+gas shall be chemically analysed and tested for toxicity if the gas is unknown and no 
+acute inhalation toxicity data is available. If the gas is known, inhalation toxicity shall 
+be assessed based on all information available, using testing as a last resort option 
+for concluding this hazard. Toxic gases in this respect are gases showing acute 
+inhalation toxicity (LC 50) of or below 20,000 ppmV or 20 mg/l by 4 hours' testing 
+(GHS Acute Toxicity Gases/Vapours Category 4). 
+ 
+9.2.3.6 Toxic solids 
+ 
+9.2.3.6.1 These are materials that have toxic hazards to humans if inhaled or with 
+contact with skin when loaded, unloaded, or transported in bulk and do not meet the 
+established criteria for inclusion in class 6.1 (see 9.2.2.5). 
+ 
+9.2.3.6.2 A material shall be classified as MHB in accordance with the criteria laid 
+down within part 3 of the GHS:
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+9.2.3.6.2 A material shall be classified as MHB in accordance with the criteria laid 
+down within part 3 of the GHS: 
+ 
+.1 cargoes developing cargo dust with an acute inhalation toxicity 
+(LC50) of 1-5 mg/l by 4 hours testing (GHS Acute Toxicity Dusts 
+Category 4);  
+ 
+.2 cargoes developing cargo dust exhibiting an inhalation toxicity 
+of equal to or less than 1 mg/litre/4h (GHS Specific Target Organ 
+Toxicity Single Exposure Inhalation Dust Category 1) or 
+below 0.02 mg/litre/6h/d (GHS Specific Target Organ Toxicity 
+Repeated Dose Inhalation Dust Category 1); 
+ 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+- 8 - 
+ 
+.3 cargoes exhibiting an acute dermal toxicity (LD 50) 
+of 1,000-2,000 mg/kg (GHS Acute Toxicity Dermal Category 4); 
+ 
+.4 cargoes exhibiting a dermal toxicity of or below 1000 mg 
+(GHS Specific Target Organ Toxicity Single Exposure Dermal
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+.4 cargoes exhibiting a dermal toxicity of or below 1000 mg 
+(GHS Specific Target Organ Toxicity Single Exposure Dermal 
+Category 1) or below 20 mg/kg bw/d by 90 days testing 
+(GHS Specific Target Organ Toxicity Repeated Dose Dermal 
+Category 1); 
+ 
+.5 cargoes exhibiting carcinogenicity (GHS Category 1A and 1B), 
+mutagenicity (GHS Category 1A and 1B) or reprotoxicity (GHS 
+Category 1A and 1B). 
+ 
+9.2.3.7 Corrosive solids 
+ 
+9.2.3.7.1 These are materials that are corrosive to skin, eye or to metal or 
+are respiratory sensitizers and do not meet the established criteria for inclusion 
+in class 8 (see 9.2.2.7). 
+ 
+9.2.3.7.2 A material shall be classified as MHB in accordance with the criteria laid 
+down within part 3 of the GHS: 
+ 
+.1 cargoes which are known to be a respiratory sensitizer 
+(GHS Respiratory Sensitization Category 1); 
+ 
+.2 cargoes exhibiting skin irritation with a mean value of or higher 
+than 2.3 for erythema/eschar or oedema (GHS Skin
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+.2 cargoes exhibiting skin irritation with a mean value of or higher 
+than 2.3 for erythema/eschar or oedema (GHS Skin 
+Corrosion/Irritation Category 2); 
+ 
+.3 cargoes exhibiting eye irritation with a mean value of or higher 
+than 1 for corneal opacity/irititis or 2 for conjunctival 
+redness/oedema (GHS Serious Eye Damage Category 1 or Eye 
+Irritation Category 2A). 
+ 
+9.2.3.7.3 A material shall be classified as MHB when the corrosion rate on either 
+steel or aluminium surfaces is between 4 mm and 6.25 mm a year at a test 
+temperature of 55°C when tested on both materials.  For the purposes of testing 
+steel, type S235JR+CR (1.0037 resp. St 37-2), S275J2G3+CR (1.0144 resp. St 44-3), 
+ISO 3574:199, Unified Numbering Systems (UNS) G10200 or SAE 1020, and for 
+testing aluminium, non-clad, types 7075-T6 or AZ5GU T6 shall be used. An 
+acceptable test is prescribed in the United Nations Manual of Tests and Criteria, part III,
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+acceptable test is prescribed in the United Nations Manual of Tests and Criteria, part III, 
+section 37.  When this test is performed the sample shall contain at least 
+10% moisture by mass.  If the representative sample of the cargo to be shipped 
+does not contain more than 10% moisture by mass, water shall be added to the 
+sample." 
+ 
+ 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+- 9 - 
+ 
+Appendix 1 – Individual schedules of solid bulk cargoes 
+ 
+ 
+AMMONIUM NITRATE UN 1942 
+with not more than 0.2% total combustible material, including any organic substance, 
+calculated as carbon to the exclusion of any other added substance 
+ 
+21 In the section for Stowage and Segregation replace the sentence "There shall be no 
+sources of heat or ignition in the cargo space." with the sentence "Separated from" sources 
+of heat or ignition (see also Loading)."
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+sources of heat or ignition in the cargo space." with the sentence "Separated from" sources 
+of heat or ignition (see also Loading)." 
+ 
+22 In the section for Loading, insert as the first sentence the following: 
+ 
+"This cargo shall not be loaded in cargo spaces adjacent to fuel oil tank(s), unless 
+heating arrangements for the tank(s) a re disconnected and remain disconnected 
+during the entire voyage." 
+ 
+AMMONIUM NITRATE-BASED FERTILIZER UN 2067 
+ 
+23 The following text, contained in the section for Description, is moved under the Bulk 
+Cargo Shipping Name: 
+ 
+"Ammonium nitrate-based fertilizers classified as UN  2067 are uniform mixtures 
+containing ammonium nitrate as the main ingredient within the following composition 
+limits: 
+ 
+.1 not less than 90% ammonium nitrate with not more than 0.2% total 
+combustible/organic material calculated as carbon and with added 
+matter, if any, which is inorganic and inert towards ammonium 
+nitrate; or
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+combustible/organic material calculated as carbon and with added 
+matter, if any, which is inorganic and inert towards ammonium 
+nitrate; or 
+ 
+.2 less than 90% but more than 70% ammonium nitrate with other 
+inorganic materials or more than 80% but less than 90% 
+ammonium nitrate mixed with calcium carbonate and/or dolomite 
+and/or mineral calcium sulphate and not more than 0.4% total 
+combustible/organic material calculated as carbon; or 
+ 
+.3 ammonium nitrate-based fertilizers containing mixtures 
+of ammonium nitrate and ammonium sulphate with more than 45% 
+but less than 70% ammonium nitrate and not more than 0.4% total 
+combustible organic material calculated as carbon such that the 
+sum of the percentage compositions of ammonium nitrate and 
+ammonium sulphate exceeds 70%." 
+ 
+24 In the section for Stowage and Segregation, the text "Not to be stowed immediately 
+adjacent to any tank, double bottom or pipe containing fuel oil heated to more than 50°C" is
+---
+SOURCE: MSC.354(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.354(92).pdf
+adjacent to any tank, double bottom or pipe containing fuel oil heated to more than 50°C" is 
+replaced with the following:  
+ 
+"Not to be stowed immediately adjacent to any tank, double bottom or pipe 
+containing heat ed fuel oil unless there are means to monitor and control the 
+temperature so that it does not exceed 50°C." 
+ 
+RESOLUTION MSC.354(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE
+---
+
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+MSC 105/20/Add.1 
+Annex 18, page 1 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+ANNEX 18 
+ 
+RESOLUTION MSC.511(105) 
+(adopted on 28 April 2022) 
+ 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO resolution A.803(19), by which the Assembly, at its nineteenth session, 
+adopted the Recommendation on Performance standards for shipborne VHF radio installations 
+capable of voice communication and digital selective calling , which was subsequently 
+amended by resolution MSC.68(68), annex 1, 
+ 
+RECALLING FURTHER resolution A.886(21), by which the Assembly resolved that the
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+amended by resolution MSC.68(68), annex 1, 
+ 
+RECALLING FURTHER resolution A.886(21), by which the Assembly resolved that the 
+functions of adopting performance standards for radio and navigational equipment, as well as 
+amendments thereto, shall be performed by the Maritime Safety Committee on behalf of the 
+Organization, 
+ 
+TAKING INTO ACCOUNT the amendments to the International Convention for the Safety of 
+Life at Sea, 1974 ("the Convention") adopted by resolution MSC.496(105), 
+ 
+NOTING, in particular, regulations IV/7.1.1, 7.1.2 and 8.2 of the Convention concerning 
+radiocommunications for the Global Maritime Distress and Safety System (GMDSS), which 
+require ships to be provided with a VHF radio installation capable of voice communication and 
+digital selective calling, 
+ 
+RECOGNIZING the need to revise the Performance standards for shipborne VHF radio 
+installations capable of voice communication and digital selective calling to be used in the
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+installations capable of voice communication and digital selective calling to be used in the 
+GMDSS in order to ensure the operational reliability of such equipment and to avoid, as far as 
+practicable, adverse interaction between such equipment and other communication and 
+navigation equipment on board ship, 
+ 
+HAVING CONSIDERED, at its 105th session, the recommen dation made by the  
+Sub-Committee on Navigation, Communications and Search and Rescue at its eighth session, 
+ 
+1 ADOPTS the revised Performance standards for shipborne VHF radio installations 
+capable of voice communication and digital selective calling, set out in the annex to the present 
+resolution; 
+ 
+2 RECOMMENDS Governments to ensure that shipborne VHF radio installations 
+capable of voice communication and digital selective calling which will form part of the GMDSS: 
+ 
+.1 if installed on or after 1 January 2024, conform to performance standards not
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+.1 if installed on or after 1 January 2024, conform to performance standards not 
+inferior to those specified in the annex to the present resolution;  
+ 
+.2 if installed on or after 23 November 1996 but before 1 January 2024, conform 
+to performance standards not inferior to those specified in the annex to 
+resolution A.803(19), as amended, or conform to performance standards not 
+inferior to those specified in the annex to this resolution; and 
+ 
+.3 if installed before 23 November 1996, conform to performance standards not 
+inferior to those specified in the annex to resolution A.609(15).  
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+MSC 105/20/Add.1 
+Annex 18, page 2 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+ANNEX 
+ 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+ANNEX 
+ 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING 
+ 
+ 
+PART A – GENERAL 
+ 
+1 INTRODUCTION 
+ 
+1.1 This equipment meets the requirement for VHF installations on ships as required by 
+SOLAS regulations IV/7.1.1, 7.1.2 and 8.2. 
+ 
+1.2 The VHF radio installation, in addition to meeting the requirements of the Radio 
+Regulations, the relevant I TU-R Recommendations and the general requirements set out in 
+resolutions A.694(17) and MSC.191(79), as amended, should comply with the following 
+performance standards. 
+ 
+2 GENERAL 
+ 
+2.1 The installation, which may consist of more than one piece of equipment,  should be 
+capable of operating on single-frequency channels or on single- and two-frequency channels. 
+ 
+2.2 The equipment should provide for the following categories of calls using both voice 
+and digital selective calling (DSC): 
+ 
+.1 distress, urgency and safety; 
+ 
+.2 ship operational requirements; and
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+and digital selective calling (DSC): 
+ 
+.1 distress, urgency and safety; 
+ 
+.2 ship operational requirements; and 
+ 
+.3 general radiocommunications. 
+ 
+2.3 The equipment should provide for the following categories of communications using 
+voice: 
+ 
+.1 distress, urgency and safety; 
+ 
+.2 ship operational requirements; and 
+ 
+.3 general radiocommunications. 
+ 
+2.4 The equipment should comprise at least: 
+ 
+.1  a transmitter/receiver including antenna; 
+ 
+.2  an integral control unit or one or more separate control units; 
+ 
+.3  a microphone with a press-to-transmit switch, which may be combined with 
+a telephone in a handset; 
+ 
+.4  an internal or external loudspeaker;  
+ 
+.5  an integral or separate digital selective calling facility; and  
+ 
+.6 a dedicated DSC watchkeeping facility to maintain a continuous watch on 
+channel 70. 
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+channel 70. 
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+MSC 105/20/Add.1 
+Annex 18, page 3 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+2.5 The installation may also include additional receivers. 
+ 
+2.6 A distress alert should be activated only by means of a dedicated distress button. 
+This button should not be any key of an ITU -T digital input panel or an ISO keyboard 
+associated with the equipment a nd should be physically separated from functional 
+buttons/keys used for normal operation. This button should be a single button for no other 
+purpose than to initiate a distress alert. 
+ 
+2.7 The dedicated distress button should: 
+ 
+.1 be clearly identified and be red in colour and marked "DISTRESS". Where a 
+non-transparent protective lid or cover is used, it should also be marked 
+"DISTRESS"; and
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+non-transparent protective lid or cover is used, it should also be marked 
+"DISTRESS"; and 
+ 
+.2 be protected against inadvertent operation. The required protection of the 
+distress button should c onsist of a spring -loaded lid or cover permanently 
+attached to the equipment by, for example, hinges. It should not be 
+necessary for the user to remove additional seals or to break the lid or cover 
+in order to operate the distress button. 
+ 
+The operation of the distress button should generate a visible and audible indication. 
+The distress button should initiate a distress alert when kept pressed for at least three 
+seconds. A flashing light and an intermittent acoustic signal should start immediately. 
+After t he three seconds, the transmission of the distress alert is initiated and the 
+indication should become steady and the acoustic signal should stop. If the distress 
+button is released before a distress alert is initiated, the light should go out and the
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+button is released before a distress alert is initiated, the light should go out and the 
+acoustic signal should stop. 
+ 
+2.8 The distress alert initiation should require at least two independent actions. The lifting 
+of the protective lid or cover is considered as the first action. Pressing the distress button as 
+specified above is considered as the second independent action. 
+ 
+2.9 The equipment should indicate the status of the distress alert transmission. 
+ 
+2.10 It should be possible to interrupt and initiate distress alerts at any time and to interrupt 
+repetitive transmissions of distress messages. S uch operation should not interrupt the 
+transmission of a distress alert or distress message in progress but should prevent repetitive 
+transmissions of a distress message. 
+ 
+3 POWER SUPPLY 
+ 
+The VHF radio installation should be powered from the ship's main source of electrical energy.
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+3 POWER SUPPLY 
+ 
+The VHF radio installation should be powered from the ship's main source of electrical energy. 
+In addition, it should be possible to operate the VHF installation from an alternative source of 
+electrical energy. 
+ 
+4 CONTROLS AND INDICATORS 
+ 
+4.1 Control of the equipment should be possible at the position from which the ship i s 
+normally navigated. Control from that position should have priority if additional control units are 
+provided. When there is more than one control unit, indication should be given to the other 
+units that the equipment is in operation. 
+ 
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+MSC 105/20/Add.1 
+Annex 18, page 4 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+4.2  The equipment should provide a standard interface to enable the selections of
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+Annex 18, page 4 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+4.2  The equipment should provide a standard interface to enable the selections of 
+channels and setting of Maritime Mobile Service Identity (MMSI) to be called from a remote 
+control unit (e.g. INS) by using standardized interfaces.1 
+ 
+4.3 DSC controls and indicators 
+ 
+4.3.1 It should be possible to initiate and make distress and safety calls from the position 
+from which the ship is normally navigated. The means for initiating a distress call should be as 
+prescribed in part A – General, paragraphs 2.6 to 2.8. 
+ 
+4.3.2 Initiation of DSC distress calls should supersede any other operation of the facility. 
+ 
+4.3.3 Self-identification data should be stored in the DSC unit. It should not be possible for 
+the user easily to change these data. 
+ 
+4.3.4 Means should be provided to enable routine testing of the DSC facilities without 
+radiation of signals. 
+ 
+4.3.5 Provision should be made for:
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+radiation of signals. 
+ 
+4.3.5 Provision should be made for:  
+ 
+.1 specific alerts to indicate receipt of a distress or urgency calls or a call having 
+distress category. 2 It should not be possi ble to disable this alarm and 
+indication. Provision should be made to ensure that they can be reset only 
+manually; and 
+ 
+.2 alerts for calls other than distress and urgency. 
+ 
+5 INTERFACES 
+ 
+5.1 Where the equipment is part of an integrated communication system (ICS), integrated 
+navigation system (INS), integrated bridge system (IBS) or connected to a navigation system, 
+this should not impair any of the GMDSS functions of the system or the equipment itself. 
+ 
+5.2 Equipment should provide a n interface for bridge alert management (BAM) in 
+accordance with resolution MSC.302(87) on Performance standards for bridge alert 
+management. 
+ 
+5.3 The equipment should provide an interface to report a ship identifier and location data
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+management. 
+ 
+5.3 The equipment should provide an interface to report a ship identifier and location data 
+from a received distress alert, maritime saf ety information (MSI) or search and rescue (SAR) 
+related information to navigation display system in order to enable a graphical display and 
+possible linking to available target information. 
+ 
+5.4 All interfaces provided for communication with other navigat ion and communication 
+equipment should comply with the relevant international standards.3  
+ 
+6  HUMAN-MACHINE INTERFACE  
+ 
+6.1  The human-machine interface (HMI) should provide all functions necessary to carry 
+out all communication procedures including those required by the GMDSS.  
+ 
+1 Refer to IEC 61162. 
+ 
+2 Recommendation ITU-R M.493. 
+ 
+3 Refer to IEC 61162. 
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+MSC 105/20/Add.1 
+Annex 18, page 5
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+MSC 105/20/Add.1 
+Annex 18, page 5 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+6.2  Visual indications and visual presentations of text and graphics of the system should 
+conform to resolution MSC.191(79), as amended. 
+ 
+PART B – TRANSMITTER 
+ 
+1 FREQUENCIES AND CLASSES OF EMISSION  
+ 
+1.1 The equipment should be designated for operation on channels selected from and in 
+accordance with appendix 18 to the Radio Regulations. 
+ 
+1.2 The radiotelephone facility should be capable of operating as follows: 
+ 
+.1  in the band 156.025 MHz to 157.425 MHz on single -frequency channels as 
+specified in appendix 18 to the Radio Regulations; and 
+ 
+.2  in the band 156.025 MHz to 157.325 MHz for transmitting and the b and 
+160.625 MHz to 161.925 MHz for receiving on two -frequency channels as 
+specified in appendix 18 to the Radio Regulations. 
+ 
+1.3 The digital selective calling facility should be capable of operating on channel 70.
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+specified in appendix 18 to the Radio Regulations. 
+ 
+1.3 The digital selective calling facility should be capable of operating on channel 70. 
+ 
+1.4 Class of emission should comply with chapter IX of the Radio Regulations. 
+ 
+2 FREQUENCY ACCURACY AND TOLERANCE 
+ 
+The frequency tolerance for ship station transmitters should not exceed 10 parts in 106. 
+ 
+3 OUTPUT POWER 
+ 
+3.1 The transmitter output power should be between 6 and 25 W. 
+ 
+3.2 Provision should be made for reducing the transmitter output power to a value of less 
+than 1 W. However, this reduction of the power is optional on channel 70. 
+ 
+4 PERMISSIBLE WARMING-UP PERIOD  
+ 
+The equipment should be operational within five seconds after switching on. 
+ 
+5  CONTINOUS OPERATION 
+ 
+A manual non-locking push-to-talk switch to operate the transmitter with a visual indication that 
+the transmitter is activated and facilities to limit the transmission time to a maximum of five 
+minutes should be provided.
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+the transmitter is activated and facilities to limit the transmission time to a maximum of five 
+minutes should be provided.  
+ 
+6 CONTROLS AND INDICATORS 
+ 
+6.1 Channel control and switching 
+ 
+6.1.1 Change of channel should be capable of being made as rapidly as possible, but in 
+any event within five seconds. 
+ 
+6.1.2 The time taken to switch from the transmit to the receive  condition, and vice versa, 
+should not exceed 0.3 seconds. 
+ 
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+MSC 105/20/Add.1 
+Annex 18, page 6 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+6.1.3 An on/off switch should be provided for the entire installation with a visual indication 
+that the installation is switched on. 
+ 
+6.1.4 A visual indication that the carrier is being transmitted should be provided.
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+that the installation is switched on. 
+ 
+6.1.4 A visual indication that the carrier is being transmitted should be provided. 
+ 
+6.1.5 The equipment should indicate the four -digit channel number, as given in the Radio 
+Regulations appendix 18, to which it is tuned. It should allow the determination of the channel 
+number under all conditions of external lighting. Where practicable, channels 16 and 70 should 
+be distinctively marked.  
+ 
+6.1.6 The equipment should not be able to transmit during a channel switching operation. 
+ 
+6.1.7 Operation of the transmit/receive control should not cause unwanted emissions. 
+ 
+6.2 Radiotelephone facility 
+ 
+6.2.1 Provision should be made for changing from transmission to reception by use of a 
+press-to-transmit switch. Additionally, facilities for operation on two -frequency channels 
+without manual control may be provided. 
+ 
+6.2.2 The receiver should be provided with a manual volume control by which the audio 
+output may be varied.
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+6.2.2 The receiver should be provided with a manual volume control by which the audio 
+output may be varied. 
+ 
+6.2.3 A squelch (mute) control should be provided on the exterior of the equipment. 
+ 
+6.3 Loudspeaker and telephone handset (radiotelephone facility) 
+ 
+6.3.1 The receiver output should be suit able for use with a loudspeaker and a telephone 
+handset. The audio output should be sufficient to be heard in the ambient noise level likely to 
+be encountered on board ships. 
+ 
+6.3.2 It should be possible to switch off the loudspeaker without affecting the audio output 
+of the telephone handset, if provided. 
+ 
+6.3.3 In the transmit condition during simplex operation, the output of the receiver should 
+be muted. 
+ 
+6.3.4 In the transmit condition during duplex operation, only the telephone handset should 
+be in circuit. Care should be taken to prevent any electrical or acoustic feedback, which could 
+cause singing. 
+ 
+7 SAFETY PRECAUTIONS
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+be in circuit. Care should be taken to prevent any electrical or acoustic feedback, which could 
+cause singing. 
+ 
+7 SAFETY PRECAUTIONS 
+ 
+7.1 The equipment, when operating, should not be damaged by the effects of 
+open-circuited or short-circuited antenna terminals.  
+ 
+7.2 In case the standing wave ratio (SWR) becomes too high the power of the transmitter 
+can be automatically reduced without stopping the transmission and an appropriate alert 
+should be initiated. 
+ 
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+MSC 105/20/Add.1 
+Annex 18, page 7 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+8 ANTENNA SYSTEM 
+ 
+The VHF antenna or antennae  should be vertically polarized and, as far as practicable, be 
+omnidirectional in the horizontal plane. The installation should be suitable for efficient radiation 
+and reception of signals at the operating frequencies.
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+and reception of signals at the operating frequencies. 
+ 
+PART C – RECEIVER  
+ 
+1 FREQUENCIES AND CLASSES OF EMISSION 
+ 
+See Part B 1. 
+ 
+2 FREQUENCY TOLERANCE AND ACCURACY 
+ 
+The frequency tolerance for ship station receivers should not exceed 10 parts in 106. 
+ 
+3 USABLE SENSITIVITY 
+ 
+3.1 Radiotelephone facility 
+ 
+The sensitivity of the receiver should be equal to or better than 2 μV e.m.f. for a signal-to-noise 
+and distortion (SINAD) ratio of 20 dB. 
+ 
+3.2 Digital selective calling facility 
+ 
+With a DSC modulated input signal having a level of 1 μV e.m.f. to its associated VHF receiver, 
+the DSC equipment should be capable of decoding the received message with a maximum 
+permissible output character error rate of 10-2. 
+ 
+4  RECEIVER OUTPUT 
+ 
+4.1 For the reception of voice signals, the receiver should be suitable for use with a 
+loudspeaker and a telephone handset and should be capable of providing power of at least 2 W 
+to loudspeaker and at least 1 mW to the handset.
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+loudspeaker and a telephone handset and should be capable of providing power of at least 2 W 
+to loudspeaker and at least 1 mW to the handset. 
+ 
+4.2 An output should be provided for DSC signals if the corresponding facility is not 
+integrated. 
+ 
+5  PERMISSIBLE WARMING-UP PERIOD 
+ 
+See Part A 4. 
+ 
+6  IMMUNITY TO INTERFERENCE 
+ 
+The immunity to interference of the receiver should be such that the wanted signal is not 
+seriously affected by unwanted signals. 
+ 
+7  CONTROLS 
+ 
+See Part B 6. 
+ 
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+MSC 105/20/Add.1 
+Annex 18, page 8 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+PART D – DIGITAL SELECTIVE CALLING FACILITY 
+ 
+1 DSC CAPABILITIES 
+ 
+1.1 The facility should conform to the provisions of the relevant ITU-R Recommendations 
+pertaining to the DSC system.4 
+ 
+1.2 The DSC facility should comprise:
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+pertaining to the DSC system.4 
+ 
+1.2 The DSC facility should comprise: 
+ 
+.1  means to decode and encode DSC messages; 
+ 
+.2  means necessary for composing the DSC message; 
+ 
+.3  means to verify the prepared message before it is transmitted; 
+ 
+.4 means to display the information contained in a received call in plain 
+language; 
+  
+.5 facilities to automatically update the ship's position and the time at which the 
+position was determined from a suitable electronic position -fixing aid which 
+may be an integral part of the equipment. For equipment which does not have 
+an integral position -fixing aid, such facilities should include a suitable 
+interface conforming to the appropriate international standards;5  
+ 
+.6  means for the manual entry of position information and the time at which the 
+position was determined; and 
+ 
+.7 means to activate an alert when no position data is received from the 
+electronic position-fixing aid or, in the case of manual input, the position
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+electronic position-fixing aid or, in the case of manual input, the position 
+information is over four hours old. Any position information not updated for 
+more than 23.5 hours should be erased. 
+ 
+2 DISTRESS MESSAGE STORAGE 
+ 
+2.1 If the received messages are not printed immediately, sufficient capacity should be 
+provided to enable at least 20 received distress messages to be stored in the DSC facility. 
+ 
+2.2 These messages should be stored until read-out and should be erased after 48 hours 
+after their reception. 
+ 
+ 
+*** 
+ 
+4 Class A DSC equipment conforming to Recommendation ITU -R M.493 should be used to meet this 
+requirement. 
+ 
+5 Refer to IEC 61162. 
+ 
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING  
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS
+---
+SOURCE: MSC.511(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.511(105).pdf
+RESOLUTION MSC.511(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SHIPBORNE VHF RADIO INSTALLATIONS 
+CAPABLE OF VOICE COMMUNICATION AND DIGITAL SELECTIVE CALLING
+---
+
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 1 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+ANNEX 14 
+RESOLUTION MSC.448(99) 
+(adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+HAVING CONSIDERED the general purposes of the Convention on Facilitation of International 
+Maritime Traffic, 1965, as amended (FAL Convention), and in particular article III thereof, 
+RECALLING the provisions of resolution A.1027(26) on Application and revision of the
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+RECALLING the provisions of resolution A.1027(26) on Application and revision of the 
+Guidelines on the allocation of responsibilities to seek the successful resolution of stowaway 
+cases (resolution A.871(20)), 
+RECALLING ALSO that the International Convention Relating to Stowaways, which attempted 
+to establish an internationally acceptable regime for dealing with stowaways, has not yet come 
+into force, 
+RECALLING FURTHER that, in accordance with article VII(2)(a) of the FAL Convention, the 
+Facilitation Committee, at its twenty-ninth session, adopted on 10 January 2002 resolution 
+FAL.7(29) on Amendments to the Convention on Facilitation of International Maritime Traffic, 1965, 
+as amended, which introduced a new section 4 on Stowaways in the annex to the FAL Convention, 
+prescribing Standards and Recommended Practices on matters relating to stowaways (the FAL 
+provisions on stowaways), which entered into force on 1 May 2003,
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+provisions on stowaways), which entered into force on 1 May 2003, 
+RECALLING IN ADDITION that, for the purpose of this resolution, a stowaway is defined as a 
+person who is secreted on a ship or in cargo which is subsequently loaded on the ship, without 
+the consent of the shipowner or the master or any other responsible person, and who is 
+detected on board the ship after it has departed from a port, or in the cargo while unloading it 
+in the port of arrival, and is reported as a stowaway by the master to the appropriate authorities, 
+NOTING with concern the number of incidents involving stowaways, the consequent potential 
+for disruption of maritime traffic, the impact such incidents may have on the safe and secure 
+operation of ships and the considerable risks faced by stowaways, including loss of life, 
+NOTING FURTHER that the Assembly, at its twentieth regular session, adopted, by 
+resolution A.871(20), Guidelines on the allocation of responsibilities to seek the successful
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+resolution A.871(20), Guidelines on the allocation of responsibilities to seek the successful 
+resolution of stowaway cases (the Guidelines), 
+RECALLING that resolution A.1027(26) expressed conviction of the need to align, to the extent 
+possible and desirable, the Guidelines with the FAL provisions on stowaways and to revise 
+them in a manner that reflects developments in efforts undertaken to prevent stowaways, as 
+well as to provide guidance and recommendations, taking into account the FAL provisions on 
+stowaways, on measures which can be implemented by vessels to prevent cases involving 
+stowaways, 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 2 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+RECOGNIZING that the revision of the Guidelines should be done in a manner that does not
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+Annex 14, page 2 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+RECOGNIZING that the revision of the Guidelines should be done in a manner that does not 
+duplicate the existing provisions of the Special measures to enhance maritime security 
+contained in chapter XI-2 of the International Convention for the Safety of Life at Sea, 1974, 
+as amended, and in the International Ship and Port Facility Security (ISPS) Code, but 
+augments and supplements them in the context of preventing cases involving stowaways, 
+ 
+RECALLING that one of the functional requirements of the ISPS Code is to prevent 
+unauthorized access of any kind to ships, port facilities and their restricted areas, and that ship 
+security assessments and port facility security assessments should consider all possible 
+threats, including the presence of stowaways, 
+ 
+TAKING INTO ACCOUNT that some stowaways may be asylum seekers and refugees, which
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+threats, including the presence of stowaways, 
+ 
+TAKING INTO ACCOUNT that some stowaways may be asylum seekers and refugees, which 
+should entitle them to such relevant procedures as those provided by international instruments 
+and national legislation, 
+ 
+BEING AWARE that considerable difficulties continue to be encountered by masters and 
+shipping companies, shipowners and ship operators when stowaways are to be disembarked 
+from ships into the care of the appropriate authorities, 
+ 
+AGREEING that the existence of the present guidance should in no way be regarded as 
+condoning or encouraging the practice of stowing away and other illegal migration, and should 
+not undermine efforts to combat the separate problems of alien smuggling or human trafficking, 
+ 
+NOTING that several Member States which are also Contracting Governments to the 
+FAL Convention: 
+ 
+  (a) have notified the Secretary-General, in accordance with article VIII(1) of the
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+FAL Convention: 
+ 
+  (a) have notified the Secretary-General, in accordance with article VIII(1) of the 
+FAL Convention (in relation to the Standards specified in section 4 of the 
+annex to the FAL Convention) either that they find it impracticable to comply 
+with the above-mentioned Standards or of differences between their own 
+practices and those Standards; or 
+ 
+ (b) have not yet notified the Secretary-General, in accordance with article VIII(3) 
+of the FAL Convention, that they have brought their formalities, documentary 
+requirements and procedures into accord in so far as practicable with the 
+Recommended Practices specified in section 4 of the annex to the 
+FAL Convention, 
+ 
+NOTING ALSO that the parallel existence of the Guidelines and the FAL provisions on 
+stowaways has raised questions in relation to the procedures to be followed for dealing with 
+stowaways by Member States which are also Contracting Governments to the
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+stowaways by Member States which are also Contracting Governments to the 
+FAL Convention, in particular those referred to above, 
+ 
+BELIEVING that, at present, stowaway cases can best be resolved through close cooperation 
+among all authorities and persons concerned, 
+ 
+BELIEVING FURTHER that, in normal circumstances, through such cooperation, stowaways 
+should, as soon as practicable, be removed from the ship concerned and returned to the 
+country of nationality/citizenship or to the port of embarkation, or to any other country which 
+would accept them, 
+ 
+RECOGNIZING that stowaway incidents should be dealt with humanely by all Parties involved, 
+giving due consideration to the operational safety of the ship and its crew, 
+ 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 3
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 3 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+WHILST URGING national authorities, port authorities, shipowners and masters to take all 
+reasonable precautions to prevent stowaways gaining access to vessels,  
+ 
+RECALLING ALSO resolution A.1027(26), adopted by the Assembly at its twenty-sixth regular 
+session, by which the Assembly, inter alia , authorized the Facilitation Committee and the 
+Maritime Safety Committee to adopt jointly the necessary amendments to the Guidelines and 
+to promulgate them by appropriate means, 
+ 
+NOTING that the Maritime Safety Committee, at its eighty-eighth session, adopted the Revised 
+guidelines on the prevention of access by stowaways and the allocation of responsibilities to 
+seek the successful resolution of stowaway cases (resolution MSC.312(88)), 
+ 
+RECALLING that the Facilitation Committee, at its fortieth session, adopted the amendments
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+RECALLING that the Facilitation Committee, at its fortieth session, adopted the amendments 
+to the annex to the FAL Convention (resolution FAL.12(40)), which included amendments to 
+section 4 (Stowaways, 
+ 
+AGREEING that these amendments should be reflected in the revised guidelines as adopted 
+by resolution MSC.312(88),  
+ 
+NOTING that the Facilitation Committee, at its forty-second session, is expected to adopt a 
+resolution on Revised guidelines on the prevention of access by stowaways and the allocation 
+of responsibilities to seek the successful resolution of stowaway cases , with identical 
+amendments to the Guidelines, 
+ 
+1 ADOPTS the Revised guidelines on the prevention of access by stowaways and the 
+allocation of responsibilities to seek the successful resolution of stowaway cases , set out in 
+the annex to the present resolution; 
+ 
+2 AGREES that the provisions of this resolution should, in accordance with
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+the annex to the present resolution; 
+ 
+2 AGREES that the provisions of this resolution should, in accordance with 
+resolution A.1027(26), be considered as being of relevance only with respect to:  
+ 
+ (a) Member States which are not Contracting Governments to the 
+FAL Convention; and 
+ 
+(b) Member States which are Contracting Governments to the FAL Convention 
+and which: 
+ 
+(i) have notified the Secretary-General, in accordance with 
+article VIII(1) of the FAL Convention (in relation to the Standards 
+specified in section 4 of the annex to the FAL Convention) either 
+that they find it impracticable to comply with the aforementioned 
+Standards or of differences between their own practices and those 
+Standards; or 
+ 
+(ii) have not yet notified the Secretary-General, in accordance with 
+article VIII(3) of the FAL Convention, that they have brought their 
+formalities, documentary requirements and procedures into accord 
+in so far as practicable with the Recommended Practices specified
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+formalities, documentary requirements and procedures into accord 
+in so far as practicable with the Recommended Practices specified 
+in section 4 of the annex to the FAL Convention; 
+ 
+3 URGES Governments to implement in their national policies and practices the amended 
+procedures recommended in the annexed Guidelines as from 1 July 2018; 
+ 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 4 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+4 URGES ALSO Governments to deal with stowaway cases in a spirit of cooperatio n 
+with other parties concerned, on the basis of the allocation of responsibilities set out in the 
+annexed Guidelines; 
+ 
+5 INVITES shipping companies, shipowners, ship operators and other stakeholders to 
+take on the relevant responsibilities set out in the annexed Guidelines and to guide their
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+take on the relevant responsibilities set out in the annexed Guidelines and to guide their 
+masters and crews as to their respective responsibilities in stowaway cases; 
+ 
+6 INVITES Governments to develop, in cooperation with the industry, comprehensive 
+strategies to improve access control and prevent intending stowaways from gaining access to 
+ships; 
+ 
+7 AGREES that the Maritime Safety Committee should continue to monitor the 
+effectiveness of the annexed Guidelines on the basis of information provided by Governments 
+and the industry, to keep them under review and to take further action;  
+ 
+8 SUPERSEDES resolution MSC.312(88) on Revised guidelines on the prevention of 
+access by stowaways and the allocation of responsibilities to seek the successful resolution of 
+stowaway cases;  
+ 
+9 REQUESTS the Assembly to endorse the action taken by the Maritime Safety 
+Committee and the Facilitation Committee. 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018)
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+Committee and the Facilitation Committee. 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 5 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+ANNEX 
+ 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES 
+ 
+ 
+1 Introduction 
+ 
+1.1 Masters, shipowners, public authorities, port authorities and other stakeholders, 
+including those providing security services ashore, have a responsibility to cooperate to the 
+fullest extent possible in order: 
+ 
+.1 to prevent stowaway incidents; and 
+ 
+.2 to resolve stowaway cases expeditiously and secure that an early return or 
+repatriation of the stowaway will take place. All appropriate measures should 
+be taken in order to avoid situations where stowaways must stay on board
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+be taken in order to avoid situations where stowaways must stay on board 
+ships for an unreasonable amount of time. 
+ 
+1.2 However, no matter how effective port and ship security measures are, it is recognized 
+that there will still be occasions when stowaways gain access to vessels, either secreted in the 
+cargo or by surreptitious boarding. 
+ 
+1.3 The resolution of stowaway cases is difficult because of different national legislation 
+in each of the several potentially involved States: the State of embarkation, the State of 
+disembarkation, the flag State of the ship, the State of apparent, claimed or actual nationality/ 
+citizenship or right of residence of the stowaway, and States of transit during repatriation. 
+ 
+2 Definitions 
+ 
+For the purpose of these Guidelines the following meanings shall be attributed to the terms 
+listed: 
+ 
+.1 Attempted stowaway. A person who is secreted on a ship, or in cargo which
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+listed: 
+ 
+.1 Attempted stowaway. A person who is secreted on a ship, or in cargo which 
+is subsequently loaded on the ship, without the consent of the shipowner or 
+the master or any other responsible person, and who is detected on board 
+the ship before it has departed from the port. 
+ 
+.2 Port. Any port, terminal, offshore terminal, ship and repair yard or roadstead 
+which is normally used for the loading, unloading, repair and anchoring of 
+ships, or any other place at which a ship can call. 
+ 
+.3 Public authorities. The agencies or officials in a State responsible for the 
+application and enforcement of the laws and regulations of that State which 
+relate to any aspect of the present Guidelines. 
+ 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 6 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 6 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+.4 Security measures. Measures developed and implemented in accordance 
+with international agreements to improve security on board ships, in port 
+areas, facilities and of goods moving in the international supply chain to 
+detect and prevent unlawful acts.8 
+ 
+.5 Shipowner. One who owns or operates a ship, whether a person, a 
+corporation or other legal entity, and any person acting on behalf of the owner 
+or operator. 
+ 
+.6 Stowaway. A person who is secreted on a ship, or in cargo which is 
+subsequently loaded on the ship, without the consent of the shipowner or the 
+master or any other responsible person and who is detected on board the 
+ship after it has departed from a port, or in the cargo while unloading it in the 
+port of arrival, and is reported as a stowaway by the master to the appropriate 
+authorities. 
+ 
+3 Basic principles
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+port of arrival, and is reported as a stowaway by the master to the appropriate 
+authorities. 
+ 
+3 Basic principles 
+ 
+On the basis of the experience thus far, the application of the following basic principles have 
+been useful in preventing stowaway incidents and have been helpful in the speedy resolution 
+of stowaway cases: 
+ 
+.1 Stowaway incidents should be dealt with in a manner consistent with 
+humanitarian principles. Due consideration must always be given to the 
+operational safety and security of the ship and to the safety and well-being 
+of the stowaway. 
+ 
+.2 Public authorities, port authorities, shipowners and masters should 
+cooperate to the fullest extent possible in order to prevent stowaway 
+incidents. 
+ 
+.3 Shipowners, masters, port authorities and public authorities should have 
+adequate security arrangements in place which, as far as practicable, will 
+prevent intending stowaways from getting aboard a ship or, if this fails, will
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+prevent intending stowaways from getting aboard a ship or, if this fails, will 
+detect them before the ship leaves port or, at the latest, before it arrives at 
+the next port of call. 
+ 
+.4 Adequate, frequent and well-timed searches minimize the risk of having to 
+deal with a stowaway case and may also save the life of a stowaway who 
+may, for example, be hiding in a place which is subsequently sealed and/or 
+chemically treated. 
+ 
+.5 Public authorities, port authorities, shipowners and masters should 
+cooperate to the fullest extent possible in order to resolve stowaway cases 
+expeditiously and secure that an early return or repatriation of the stowaway 
+will take place. All appropriate measures should be taken in order to avoid 
+situations where stowaways must stay on board ships for an unreasonable 
+amount of time. 
+ 
+                                                
+8 Reference is made to chapter XI-2 of the International Convention for the Safety of Life at Sea, 1974,
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+8 Reference is made to chapter XI-2 of the International Convention for the Safety of Life at Sea, 1974,  
+as amended (1974 SOLAS Convention) and the International Ship and Port Facility Security Code,  
+as amended (the ISPS Code); and to the Convention for the Suppression of Unlawful Acts against the Safety 
+of Maritime Navigation, 1988 (1988 SUA Convention) and its 2005 Protocol (2005 SUA Protocol). 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 7 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+.6 Stowaways arriving at or entering a State without the required documents 
+are, in general, illegal entrants. Decisions on dealing with such situations are 
+the prerogative of the States where such arrival or entry occurs. 
+ 
+.7 Stowaway asylum-seekers should be treated in accordance with
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+the prerogative of the States where such arrival or entry occurs. 
+ 
+.7 Stowaway asylum-seekers should be treated in accordance with 
+international protection principles as set out in international instruments, 
+such as the provisions of the United Nations Convention relating to the Status 
+of Refugees of 28 July 1951 and of the United Nations Protocol relating to 
+the Status of Refugees of 31 January 1967 and relevant national legislation.9 
+ 
+.8 Every effort should be made to avoid situations where a stowaway has to be 
+detained on board a ship indefinitely. In this regard States should cooperate 
+with the shipowner in arranging the disembarkation of a stowaway to an 
+appropriate State. 
+ 
+.9 States should accept the return of stowaways who have full nationality/ 
+citizenship status in that State, or have a right of residence in that State. 
+ 
+.10 Where the nationality or citizenship or right of residence cannot be
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+.10 Where the nationality or citizenship or right of residence cannot be 
+established, the State of the original port of embarkation of a stowaway 
+should accept the return of such a stowaway for examination pending final 
+case disposition. 
+ 
+4 Preventive measures 
+ 
+4.1 Port/terminal authorities 
+ 
+4.1.1 States and port and terminal owners, operators and authorities should ensure that the 
+necessary infrastructure, and operational and security arrangements for the purpose of 
+preventing persons attempting to stowaway on board ships from gaining access to port 
+installations and to ships, are established in all their ports, taking into consideration when 
+developing these arrangements the size of the port, and what type of cargo is shipped from 
+the port. This should be done in close cooperation with relevant public authorities, shipowners 
+and shore-side entities, with the aim of preventing stowaway occurrences in the individual port.
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+and shore-side entities, with the aim of preventing stowaway occurrences in the individual port. 
+ 
+4.1.2 Operational arrangements and/or port facility security plans should at least be 
+equivalent to those contained in the relevant text of section B/16 of the ISPS Code.10 
+ 
+4.2 Shipowner/Master 
+ 
+4.2.1 Shipowners and masters should ensure that adequate security arrangements are in 
+place which, as far as practicable, will prevent intending stowaways from getting aboard the 
+ship and, if this fails, as far as practicable, will detect them before the ship leaves port or, at 
+the latest, before it arrives at the next port of call. 
+ 
+4.2.2 When calling at ports and during stay in ports, where there is risk of stowaway 
+embarkation, operational arrangements and/or ship security plans should at least be 
+equivalent to those contained in the relevant text of paragraph B/9 of the ISPS Code.11
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+equivalent to those contained in the relevant text of paragraph B/9 of the ISPS Code.11 
+                                                
+9 In addition, public authorities may wish to consider the non-binding conclusion of the UNHCR Executive 
+Committee on Stowaway Asylum-Seekers (1988, No. 53 (XXXIX)). 
+ 
+10 Recommended Practice 4.3.1.2 of the FAL Convention. 
+ 
+11  Recommended Practice 4.3.2.2 of the FAL Convention. 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 8 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+4.2.3 When departing from a port, where there is risk of stowaway embarkation, a ship 
+should undergo a thorough search in accordance with a specific plan or schedule, and with 
+priorities given to places where stowaways might hide taking into account the specific ship type
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+priorities given to places where stowaways might hide taking into account the specific ship type 
+and its operations. Search methods which are likely to harm secreted stowaways should not 
+be used. 
+ 
+4.2.4 Fumigation or sealing should not be carried out until a thorough search of the areas 
+to be fumigated or sealed has taken place in order to ensure that no stowaways are present in 
+those areas. 
+ 
+5 Responsibilities in relation to the resolution of stowaway cases 
+ 
+5.1 Questioning and notification by the master 
+ 
+It is the responsibility of the master of the ship which finds any stowaways on board: 
+ 
+.1 to make every effort to determine immediately the port of embarkation of the 
+stowaway; 
+ 
+.2 to take practical steps to establish the identity, including the nationality/ 
+citizenship and the right of residence of the stowaway; 
+ 
+.3 to prepare a statement containing all available information relevant to the
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+citizenship and the right of residence of the stowaway; 
+ 
+.3 to prepare a statement containing all available information relevant to the 
+stowaway for presentation to the appropriate authorities (for example, the 
+public authorities at the port of embarkation, the flag State and, if necessary, 
+subsequent ports of call) and the shipowner. In this respect the reporting 
+form provided in the appendix should be used and completed as far as 
+practicable; 
+ 
+.4 to notify the existence of a stowaway and any relevant details to the 
+shipowner and appropriate authorities at the port of embarkation, the next 
+port of call and the flag State, with the understanding that when a stowaway 
+declares himself/herself to be a refugee, this information should be treated 
+as confidential to the extent necessary for the security of the stowaway; 
+ 
+.5 not to depart from the planned voyage to seek the disembarkation of a 
+stowaway discovered on board the ship after it has left the territorial waters
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+stowaway discovered on board the ship after it has left the territorial waters 
+of the State where the stowaway embarked unless permission to disembark 
+the stowaway has been granted by the public authorities of the State to 
+whose port the ship deviates, or repatriation has been arranged elsewhere 
+with sufficient documentation and permission given for disembarkation, or 
+unless there are extenuating safety, security, health or compassionate 
+reasons, or attempts to disembark in other ports on the planned voyage have 
+failed and deviation is necessary in order to avoid that the stowaway remain 
+on board for a significant period of time; 
+ 
+.6 to ensure that the stowaway is presented to the appropriate authorities at the 
+next port of call in accordance with their requirements; 
+ 
+.7 to take appropriate measures to ensure the security, general health, welfare 
+and safety of the stowaway until disembarkation, including providing him/her
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+and safety of the stowaway until disembarkation, including providing him/her 
+with adequate provisioning, accommodation, proper medical attention and 
+sanitary facilities; 
+ 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+MSC 99/22/Add.1 
+Annex 14, page 9 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+.8 to ensure that stowaways are not permitted to work on board the ship, except 
+in emergency situations or in relation to the stowaways' accommodation and 
+provisioning on board; and 
+.9 to ensure that stowaways are treated humanely, consistent with the basic 
+principles. 
+ 
+5.2 The shipowner 
+ 
+It is the responsibility of the shipowner of the ship on which stowaways are found: 
+ 
+.1 to ensure that the existence of, and any relevant information on, the 
+stowaway has been notified to the appropriate authorities at the port of
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+.1 to ensure that the existence of, and any relevant information on, the 
+stowaway has been notified to the appropriate authorities at the port of 
+embarkation, the next port of call and the flag State; 
+ 
+.2 to comply with any removal directions made by the competent national 
+authorities at the port of disembarkation; and 
+ 
+.3 to cover any applicable costs relating to the removal, detention, care and 
+disembarkation of the stowaway in accordance with the legislation of the 
+States which may be involved. 
+ 
+5.3 The State of the first port of call according to the voyage plan 
+ 
+It is the responsibility of the State of first port of call according to the voyage plan after the 
+discovery of the stowaway: 
+ 
+.1 to accept the stowaway for examination in accordance with the national laws 
+of that State and, where the competent national authority considers that it 
+would facilitate matters, to allow the shipowner and the competent or
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+of that State and, where the competent national authority considers that it 
+would facilitate matters, to allow the shipowner and the competent or 
+appointed P&I Club correspondent to have access to the stowaway; 
+ 
+.2 to favourably consider allowing disembarkation and provide, as necessary 
+and in accordance with national law, secure accommodation which may be 
+at the expense of the shipowner, where: 
+ 
+.1 a case is unresolved at the time of sailing of the ship; or 
+ 
+.2 the stowaway is in possession of valid documents for return and the 
+public authorities are satisfied that timely arrangements have been 
+or will be made for repatriation and all the requisites for transit 
+fulfilled; or 
+ 
+.3  other factors make it impractical for the stowaway to remain on the 
+ship; such factors may include but are not limited to cases where a 
+stowaway's presence on board would endanger the safe and secure 
+operation of the ship, the health of the crew or the stowaway;
+---
+SOURCE: MSC.448(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.448(99).pdf
+stowaway's presence on board would endanger the safe and secure 
+operation of the ship, the health of the crew or the stowaway; 
+ 
+.3 to make every effort to cooperate in the identification of the stowaway and 
+the establishment of his/her nationality/citizenship or right of residence; 
+ 
+.4 to make every effort to cooperate in establishing the validity and authenticity 
+of a stowaway's documents and, when a stowaway has inadequate 
+documents, to whenever practicable and to an extent compatible with 
+national legislation and security requirements, issue a covering letter with a 
+RESOLUTION MSC.448(99)  (adopted on 24 May 2018) 
+REVISED GUIDELINES ON THE PREVENTION OF ACCESS BY STOWAWAYS AND THE 
+ALLOCATION OF RESPONSIBILITIES TO SEEK THE SUCCESSFUL RESOLUTION OF 
+STOWAWAY CASES
+---
+
+SOURCE: MSC.446(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.446(99).pdf
+RESOLUTION MSC.446(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+MSC 99/22/Add.1 
+Annex 11, page 1 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+ANNEX 11 
+RESOLUTION MSC.446(99) 
+(adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE) 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING ALSO resolution A.212(VII) by which the Assembly, at its seventh session, 
+adopted the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals 
+in Bulk (BCH Code), which provides safety requirements for chemical tankers supplementary 
+to the provisions of the International Convention for the Safety of Life at Sea (SOLAS), 1974, as 
+amended,
+---
+SOURCE: MSC.446(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.446(99).pdf
+to the provisions of the International Convention for the Safety of Life at Sea (SOLAS), 1974, as 
+amended, 
+RECALLING FURTHER resolution MEPC.20(22), by which the Marine Environment Protection 
+Committee (MEPC) adopted the BCH Code to make it mandatory under MARPOL, 
+NOTING resolution MSC.29(61), by which, at its sixty-first session, it adopted the revised 
+BCH Code, 
+NOTING ALSO resolutions MSC.440(99) and MEPC.302(72), respectively, by which it, and 
+MEPC, adopted corresponding amendments to the Certificate of Fitness under the 
+International Code for the Construction and Equipment of Ships Carrying Dangerous 
+Chemicals in Bulk (IBC Code), 
+NOTING FURTHER resolution MEPC.303(72) by which MEPC, at its seventy-second session, 
+adopted amendments to the Certificate of Fitness under the BCH Code, 
+CONSIDERING that it is highly desirable for the provisions of the BCH Code, which are mandatory 
+under MARPOL and recommendatory from a safety standpoint, to remain identical when
+---
+SOURCE: MSC.446(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.446(99).pdf
+under MARPOL and recommendatory from a safety standpoint, to remain identical when 
+adopted by the Marine Environment Protection Committee and the Maritime Safety Committee, 
+HAVING CONSIDERED, at its ninety-ninth session, amendments to the Certificate of Fitness 
+under the BCH Code prepared by the Secretariat and, subsequently, approved by the Committee 
+at its ninety-eighth session, 
+RECOGNIZING the need to bring the approved amendments to the BCH Code into force on 
+the date on which corresponding amendment to the IBC Code enter into force, 
+1 ADOPTS amendments to the Certificate of Fitness under the Code for the 
+Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (BCH Code), as 
+amended, the text of which is set out in the annex to the present resolution; 
+2 DETERMINES that said amendments shall become effective on 1 January 2020 upon 
+acceptance and entry into force of the corresponding amendment to the Certificate of Fitness
+---
+SOURCE: MSC.446(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.446(99).pdf
+acceptance and entry into force of the corresponding amendment to the Certificate of Fitness 
+under the IBC Code, adopted by resolution MSC.440(99). 
+RESOLUTION MSC.446(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+MSC 99/22/Add.1 
+Annex 11, page 2 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+ANNEX 
+ 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS 
+CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE) 
+ 
+ 
+In the appendix, the existing p aragraph 6 of the model form of Certificate of Fitness for 
+the Carriage of Dangerous Chemicals in Bulk is replaced with the following: 
+ 
+"6 That the loading and stability manuals required by paragraph 2.2.1.1 of 
+the Code have been supplied to the ship in an approved form. 
+ 
+7 That the ship must be loaded: 
+ 
+.1* only in accordance with loading conditions verified compliant with intact
+---
+SOURCE: MSC.446(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.446(99).pdf
+7 That the ship must be loaded: 
+ 
+.1* only in accordance with loading conditions verified compliant with intact 
+and damage stability requirements using the approved stability 
+instrument fitted in accordance with paragraph 2.2.1.2 of the Code; 
+ 
+.2* where a waiver permitted by paragraph 2.2.1.3 of the Code is granted 
+and the approved stability instrument required by paragraph 2.2.1.2 
+of the Code is not fitted, loading should be made in accordance with 
+one or more of the following approved methods: 
+ 
+(i)* in accordance with the loading conditions provided in the 
+approved loading and stability manuals referred to in 6 
+above; or 
+ 
+(ii)* in accordance with loading conditions verified remotely 
+using an approved means ………..………………; or 
+ 
+(iii)* in accordance with a loading condition which lies within an 
+approved range of conditions defined in the approved 
+loading and stability manuals referred to in 6 above; or 
+ 
+(iv)* in accordance with a loading condition verified using
+---
+SOURCE: MSC.446(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.446(99).pdf
+loading and stability manuals referred to in 6 above; or 
+ 
+(iv)* in accordance with a loading condition verified using 
+approved critical KG/GM data defined in the approved 
+loading and stability manuals referred to in 6 above; 
+ 
+.3* in accordance with the loading limitations appended to this Certificate. 
+ 
+Where it is required to load the ship other than in accordance with the above 
+instruction, then the necessary calculations to justify the proposed loading 
+conditions should be communicated to the certifying Administration who may 
+authorize in writing the adoption of the proposed loading condition.** 
+________________ 
+* Delete as appropriate. 
+ 
+** Instead of being in corporated in the Certificate, this text may be appended to the Certificate, if 
+duly signed and stamped." 
+ 
+ 
+***
+RESOLUTION MSC.446(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+---
+SOURCE: MSC.446(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.446(99).pdf
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+RESOLUTION MSC.446(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+---
+
+SOURCE: MSC.510(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.510(105).pdf
+RESOLUTION MSC.510(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SEARCH AND RESCUE RADAR TRANSPONDERS 
+ 
+MSC 105/20/Add.1 
+Annex 17, page 1 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+ANNEX 17 
+ 
+RESOLUTION MSC.510(105) 
+(adopted on 28 April 2022) 
+ 
+PERFORMANCE STANDARDS FOR SEARCH AND RESCUE RADAR TRANSPONDERS 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO resolution A.530(13), by which the Assembly, at its thirteenth session, 
+adopted the Recommendation on the signal characteristic of radar transponders to assist in 
+search and rescue operations, 
+ 
+RECALLING FURTHER resolution A.802(19), by whic h the Assembly, at its nineteenth 
+session, adopted the Recommendation on Performance standards for survival craft radar 
+transponders for use in search and rescue operations , which was subsequently amended by 
+resolution MSC.247(83),
+---
+SOURCE: MSC.510(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.510(105).pdf
+transponders for use in search and rescue operations , which was subsequently amended by 
+resolution MSC.247(83), 
+ 
+RECALLING resolution A. 886(21), by which the Assembly resolved that the functions of 
+adopting performance standards for radio and navigational equipment, as well as amendments 
+thereto, shall be performed by the Maritime Safety Committee on behalf of the Organization, 
+ 
+TAKING INTO ACCOUNT the amendments to the International Convention for the Safety of 
+Life at Sea, 1974 ("the Convention") adopted by resolution MSC.496(105), 
+ 
+NOTING, in particular, regulations IV/7.2.1 and 7.3.1 of the Convention concerning 
+radiocommunications for the Global Maritime Distress and Safety System (GMDSS), which 
+require ships to be provided with search and rescue radar transponder(s) (radar SART(s)), 
+ 
+RECOGNIZING the need to revise the Performance standards for survival craft rad ar 
+transponders for use in search and rescue operations to be used in the Global Maritime
+---
+SOURCE: MSC.510(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.510(105).pdf
+transponders for use in search and rescue operations to be used in the Global Maritime 
+Distress and Safety System (GMDSS) in order to ensure the operational reliability of such 
+equipment and to avoid, as far as practicable, adverse interaction between s uch equipment 
+and other communication and navigation equipment aboard ship, 
+ 
+NOTING that the International Telecommunication Union Radiocommunication Sector (ITU-R) 
+has developed a Recommendation for the 9 GHz SAR transponders, and that the IEC has 
+published a related technical standard for 9 GHz SAR transponders,  
+ 
+HAVING CONSIDERED, at its 105th session, the recommendation made by the  
+Sub-Committee on Navigation, Communications and Search and Rescue at its eighth session, 
+ 
+1 ADOPTS the Performance standards for search and rescue radar transponders , set 
+out in the annex to the present resolution; 
+ 
+2 RECOMMENDS Governments to ensure that radar SARTs that will form part of the
+---
+SOURCE: MSC.510(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.510(105).pdf
+out in the annex to the present resolution; 
+ 
+2 RECOMMENDS Governments to ensure that radar SARTs that will form part of the 
+GMDSS, conform to performance standards not inferior to those specified in the annex to this 
+resolution; 
+ 
+3 DETERMINES that this resolution supersedes resolutions A.530(13) and A.802(19), 
+as amended, as from 1 January 2024; 
+ 
+4 INVITES the Assembly to endorse the action taken by the Maritime Safety Committee.   
+RESOLUTION MSC.510(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SEARCH AND RESCUE RADAR TRANSPONDERS 
+ 
+MSC 105/20/Add.1 
+Annex 17, page 2 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+ANNEX 
+ 
+PERFORMANCE STANDARDS FOR SEARCH AND RESCUE RADAR TRANSPONDERS  
+ 
+ 
+1 INTRODUCTION  
+ 
+The search and rescue radar transponder (radar SART) carried on ships to meet the 
+requirements of SOLAS regulations IV/7.2.1 or 7.3.1, in addition to meeting the requirements 
+of the relevant ITU -R Recommendations and the general requirements set out in
+---
+SOURCE: MSC.510(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.510(105).pdf
+of the relevant ITU -R Recommendations and the general requirements set out in 
+resolution A.694(17), should comply with the following performance standards. 
+ 
+2 GENERAL 
+ 
+2.1 The radar SART should be capable of indicating the location of a unit in distress on 
+the assisting units' radars by means of a series of 12 equally spaced dots. 
+ 
+2.2 The radar SART should: 
+ 
+.1 be capable of being easily activated by unskilled personnel; 
+ 
+.2 be fitted with means to prevent inadvertent activation; 
+ 
+.3 be equipped with a m eans which is either visual or audible, or both visual 
+and audible, to indicate correct operation and to alert survivors to the fact 
+that a radar has triggered the radar SART; 
+ 
+.4 be capable of manual activation and deactivation; provision for automatic 
+activation may be included;* 
+ 
+.5 be provided with an indication of the standby condition; 
+ 
+.6 be capable of withstanding without damage drops from a height of 20 m into 
+water;
+---
+SOURCE: MSC.510(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.510(105).pdf
+.6 be capable of withstanding without damage drops from a height of 20 m into 
+water; 
+ 
+.7 be watertight at a depth of 10 m for at least 5 min; 
+ 
+.8 maintain watertightness when subjected to a thermal shock of 45 C under 
+specified conditions of immersion; 
+ 
+.9 be capable of floating if it is not an integral part of the survival craft; 
+ 
+.10 be equipped with a buoyant lanyard, suitable for use as a tether, if it i s 
+capable of floating; 
+ 
+.11 not be unduly affected by seawater or oil; 
+ 
+.12 be resistant to deterioration in prolonged exposure to sunlight; 
+ 
+ 
+* If an onboard test is performed using a shipborne 9 GHz radar, activation of  the radar SART should be 
+limited to a few seconds to avoid harmful interference with other shipborne radars and excessive 
+consumption of battery energy. 
+ 
+RESOLUTION MSC.510(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SEARCH AND RESCUE RADAR TRANSPONDERS 
+ 
+MSC 105/20/Add.1 
+Annex 17, page 3
+---
+SOURCE: MSC.510(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.510(105).pdf
+PERFORMANCE STANDARDS FOR SEARCH AND RESCUE RADAR TRANSPONDERS 
+ 
+MSC 105/20/Add.1 
+Annex 17, page 3 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+.13 be of a highly visible yellow/orange colour on all surfaces where this will 
+assist detection; 
+ 
+.14 have a smoo th external construction to avoid damaging the survival craft; 
+and 
+ 
+.15 be provided with a pole or other arrangement compatible with the antenna 
+pocket in a survival craft in order to comply with paragraph 2.5, together with 
+illustrated instructions. 
+ 
+2.3 The radar SART should have sufficient battery capacity to operate in the standby 
+condition for 96 h and, in addition, following the standby period, to provide transponder 
+transmissions for 8 h when being continuously interrogated with a pulse repetition fr equency 
+of 1 kHz. 
+ 
+2.4 The radar SART should be so designed as to be able to operate under ambient 
+temperatures of -20C to +55 C. It should not be damaged in stowage throughout the
+---
+SOURCE: MSC.510(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.510(105).pdf
+temperatures of -20C to +55 C. It should not be damaged in stowage throughout the 
+temperature range of -30C to +65C. 
+ 
+2.5 The height of the installed radar SART antenna should be at least 1 m above sea level. 
+ 
+2.6 The vertical polar diagram of the antenna and hydrodynamic characteristics of the 
+device should permit the radar SART to respond to search radars under heavy swell 
+conditions. The po lar diagram of the antenna should be substantially omnidirectional in the 
+horizontal plane. Horizontal polarization or circular polarization should be used for transmission 
+and reception. 
+ 
+2.7 The radar SART should operate correctly when interrogated at a distance of up to at 
+least five nautical miles by a navigational radar using unmodulated pulses and complying with 
+resolutions MSC.192(79), A.477(XII) and A.222(VII), with an antenna height of 15 m  above 
+sea level. It should also operate correctly when interrogated at a distance of up to 30 nautical
+---
+SOURCE: MSC.510(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.510(105).pdf
+sea level. It should also operate correctly when interrogated at a distance of up to 30 nautical 
+miles by an airborne radar with at least 10 kW peak output power at a height of 3,000 ft above 
+sea level. 
+ 
+3 TECHNICAL CHARACTERISTICS 
+ 
+Technical characteristics of the radar SART should be in accordance with Re commendation 
+ITU-R M.628. 
+ 
+4 LABELLING 
+ 
+In addition to the items specified in resolution A.694(17) on general requirements, the following 
+should be clearly indicated on the exterior of the equipment: 
+ 
+.1 brief operating instructions; and 
+ 
+.2 expiry date for the primary battery used. 
+ 
+ 
+*** 
+RESOLUTION MSC.510(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SEARCH AND RESCUE RADAR TRANSPONDERS 
+ 
+RESOLUTION MSC.510(105) (adopted on 28 April 2022) 
+PERFORMANCE STANDARDS FOR SEARCH AND RESCUE RADAR TRANSPONDERS
+---
