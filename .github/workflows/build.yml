@@ -1,9 +1,8 @@
-name: Build 100-100 Continuous IMO
+name: Build 1000+ ALL IMO
 permissions:
   contents: write
 on:
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,113 +10,138 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-      - run: pip install pypdf langchain-text-splitters requests
+        with: {python-version: '3.11'}
+      - run: pip install pypdf langchain-text-splitters requests beautifulsoup4 lxml
 
       - run: |
           python << 'PY'
           from pypdf import PdfReader
           from langchain_text_splitters import RecursiveCharacterTextSplitter
-          import requests, io, glob, time
+          import requests, io, glob, re, time
+          from bs4 import BeautifulSoup
 
           splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=250)
           sess = requests.Session()
           sess.headers.update({'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'})
 
-          # 1. LOAD OLD PDFs - REPEAT IGNORE LIST
-          existing_sources = set()
-          existing_chunks = []
+          # LOAD OLD - REPEAT IGNORE
+          existing_sources=set()
+          existing_chunks=[]
           for f in glob.glob("master_imo_all_public_part*.txt"):
               try:
-                  txt = open(f, 'r', encoding='utf-8', errors='ignore').read()
+                  txt=open(f,'r',encoding='utf-8',errors='ignore').read()
                   if not txt: continue
-                  parts = txt.split("\n\n---CHUNK---\n\n")
-                  existing_chunks.extend(parts)
-                  for p in parts:
+                  existing_chunks.extend(txt.split("\n\n---CHUNK---\n\n"))
+                  for p in txt.split("\n\n---CHUNK---\n\n"):
                       if p.startswith("SOURCE:"):
-                          src = p.split("\n")[0].replace("SOURCE:","").strip()
-                          existing_sources.add(src)
+                          existing_sources.add(p.split("\n")[0].replace("SOURCE:","").strip())
               except: pass
+          print(f"OLD: {len(existing_sources)} PDFs, {len(existing_chunks)} chunks")
 
-          print(f"OLD DATA: {len(existing_sources)} PDFs already done, {len(existing_chunks)} chunks")
-          print(f"OLD PDFs: {list(existing_sources)[:5]}")
+          all_urls=set()
 
-          # 2. MAKE 2000 URLs LIST
-          all_urls = []
-          # Important HKC list
-          all_urls += [
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.196(62).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.197(62).pdf",
+          # STEP 1: SCRAPE IMO INDEX PAGES - 500+ LINKS YAHI SE AYENGE
+          index_pages = [
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MEPC.aspx",
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MSC.aspx",
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Assembly.aspx",
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/LEG.aspx",
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/FAL.aspx",
+            "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-the-Hong-Kong-Convention.aspx",
+            "https://www.imo.org/en/OurWork/Security/Pages/ISPSCode.aspx",
+            "https://www.imo.org/en/OurWork/Environment/Pages/Ship-Recycling.aspx",
+          ]
+          for page in index_pages:
+              try:
+                  print(f"SCRAPE {page}")
+                  r=sess.get(page,timeout=60)
+                  for m in re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf',r.text):
+                      all_urls.add(m.split('?')[0])
+                  soup=BeautifulSoup(r.text,'lxml')
+                  for a in soup.find_all('a',href=True):
+                      h=a['href']
+                      if '.pdf' in h.lower():
+                          if h.startswith('/'): h='https://www.imo.org'+h
+                          if 'imo.org' in h: all_urls.add(h.split('?')[0])
+              except Exception as e: print(f"Fail {page} {e}")
+
+          # STEP 2: BRUTE FORCE ALL IMO FOLDERS - 1 SE 500 TAK
+          # MEPC, MSC, Assembly, LEG, FAL - YE 5 FOLDERS ME 1000+ FILES HAI
+          folders = [
+            "MEPCDocuments/MEPC.{}",
+            "MEPCResolutions/MEPC.{}",
+            "MSCResolutions/MSC.{}",
+            "AssemblyDocuments/A.{}",
+            "LEGResolutions/LEG.{}",
+            "FALResolutions/FAL.{}",
+            "MEPCDocuments/MEPC.{}-Annex",
+          ]
+          suffixes = ["({})","({})","({})","({})"]
+          years = [62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,30,31,32,33]
+
+          for i in range(1,401): # 1 to 400
+              for folder in folders:
+                  for y in years:
+                      try:
+                          fname = folder.format(f"{i}({y})") + ".pdf"
+                          all_urls.add(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/{fname}")
+                      except: pass
+
+          # STEP 3: IMPORTANT HKC + ISPS DIRECT LINKS
+          direct = [
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.196(80).pdf",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.134(76).pdf",
             "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.269(68).pdf",
             "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.379(80).pdf",
+            "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Recycling%20of%20Ships.pdf",
           ]
-          for i in range(1, 501):
-              for fmt in [f"{i}(62)", f"{i}(63)", f"{i}(68)", f"{i}(80)", f"{i}(76)", f"{i}(83)", f"{i}(32)", f"{i}(33)"]:
-                  all_urls.append(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.{fmt}.pdf")
-                  all_urls.append(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.{fmt}.pdf")
-                  all_urls.append(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.{fmt}.pdf")
+          for u in direct: all_urls.add(u)
 
-          all_urls = list(dict.fromkeys(all_urls))
-          print(f"TOTAL URLs LIST: {len(all_urls)}")
+          all_urls=list(all_urls)
+          print(f"TOTAL UNIQUE URLs TO TRY: {len(all_urls)}")
 
-          # 3. 100-100 SEARCH WITH REPEAT IGNORE
-          total_ok = 0
-          BATCH_SIZE = 100
-
-          for start in range(0, len(all_urls), BATCH_SIZE):
-              batch_urls = all_urls[start:start+BATCH_SIZE]
-              print(f"\n--- SEARCHING BATCH {start//BATCH_SIZE + 1} : {start} to {start+BATCH_SIZE-1} ---")
-              batch_new = 0
-
-              for url in batch_urls:
-                  fname = url.split('/')[-1]
-                  if fname in existing_sources:
-                      # print(f"SKIP REPEAT {fname}")
-                      continue # REPEAT IGNORE
-
+          # STEP 4: 100-100 DOWNLOAD WITH REPEAT IGNORE
+          total_new=0
+          for start in range(0,len(all_urls),100):
+              batch=all_urls[start:start+100]
+              print(f"\n--- BATCH {start//100+1} [{start}-{start+100}] ---")
+              batch_new=0
+              for url in batch:
+                  fname=url.split('/')[-1]
+                  if not fname.lower().endswith('.pdf'): continue
+                  if fname in existing_sources: continue
                   try:
-                      r = sess.get(url, timeout=25)
-                      if r.status_code!= 200 or len(r.content) < 12000:
-                          continue
-                      reader = PdfReader(io.BytesIO(r.content))
-                      text = "".join([p.extract_text() or "" for p in reader.pages])
-                      if len(text) < 500:
-                          continue
-
-                      # SUCCESS - NEW PDF
-                      total_ok += 1
-                      batch_new += 1
+                      r=sess.get(url,timeout=25)
+                      if r.status_code!=200 or len(r.content)<8000: continue
+                      if b'%PDF' not in r.content[:20]: continue
+                      reader=PdfReader(io.BytesIO(r.content))
+                      text="".join([(p.extract_text() or "") for p in reader.pages])
+                      if len(text)<500: continue
                       existing_sources.add(fname)
+                      total_new+=1
+                      batch_new+=1
                       for c in splitter.split_text(text):
                           existing_chunks.append(f"SOURCE: {fname}\n{c}")
-                      print(f"[NEW] {total_ok} {fname} - Total chunks {len(existing_chunks)}")
-
-                  except Exception as e:
-                      continue
-
-              # SAVE AFTER EVERY 100
+                      print(f"[NEW {len(existing_sources)}] {fname}")
+                  except: continue
+              print(f"Batch done new {batch_new} total PDFs {len(existing_sources)} chunks {len(existing_chunks)}")
+              # SAVE AFTER EACH 100
               if existing_chunks:
-                  per = len(existing_chunks)//10 + 1
+                  per=len(existing_chunks)//10+1
                   for p in range(10):
-                      part = existing_chunks[p*per:(p+1)*per]
-                      if not part: continue
-                      open(f"master_imo_all_public_part{p+1}.txt",'w',encoding='utf-8').write('\n\n---CHUNK---\n\n'.join(part))
+                      part=existing_chunks[p*per:(p+1)*per]
+                      if part:
+                          open(f"master_imo_all_public_part{p+1}.txt",'w',encoding='utf-8').write('\n\n---CHUNK---\n\n'.join(part))
+                  open('imo_public_summary.txt','w').write(f"Till {start+100}\nTotal PDFs: {len(existing_sources)}\nTotal Chunks: {len(existing_chunks)}\nNew in this run: {total_new}\n")
+              time.sleep(0.5)
+              if len(existing_chunks)>60000: break
 
-                  open('imo_public_summary.txt','w').write(f"Processed till {start+BATCH_SIZE}\nTotal Unique PDFs: {len(existing_sources)}\nTotal Chunks: {len(existing_chunks)}\nLast Batch New: {batch_new}\n")
-                  print(f"SAVED till {start+BATCH_SIZE} - Total PDFs {len(existing_sources)}")
-
-              time.sleep(1) # IMO block se bachne ke liye
-              if len(existing_chunks) > 40000:
-                  print("Limit 40k reached, stopping")
-                  break
-
-          print(f"FINAL DONE: {len(existing_sources)} PDFs, {len(existing_chunks)} chunks")
+          print(f"FINAL DONE: {len(existing_sources)} PDFs, {len(existing_chunks)} chunks, New Added: {total_new}")
           PY
 
       - run: |
-          git config user.name "imo-continuous-bot"
+          git config user.name "imo-1000-all-bot"
           git config user.email "bot@imo.com"
           git add master_imo_all_public_part*.txt imo_public_summary.txt
-          git commit -m "continuous 100-100 search with repeat ignore" || true
+          git commit -m "1000+ all IMO sources one shot" || true
           git push
