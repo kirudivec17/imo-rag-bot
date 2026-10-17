@@ -1,2 +1,5 @@
-Total Unique PDFs: 1293
-Last Batch: 0
+Total Unique PDFs: 1091
+Total Chunks: 11026
+Total Parts: 67
+Avg chunks/PDF: 10
+Status: MSC+MEPC+Assembly COMPLETE (1293 is MAX public resolutions)
