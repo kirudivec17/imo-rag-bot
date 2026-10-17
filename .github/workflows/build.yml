@@ -9,16 +9,15 @@ jobs:
     timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        with: { token: ${{ secrets.GITHUB_TOKEN }} }
       - uses: actions/setup-python@v5
         with: { python-version: '3.11' }
       - run: pip install requests pypdf langchain-text-splitters --quiet
       
-      - name: Build and Update Summary
+      - name: Build and Update Summary FIX
         run: |
           python - << 'PY'
-          import os, re, concurrent.futures, urllib.parse, requests
+          import os, re, concurrent.futures, urllib.parse, requests, glob
           from pypdf import PdfReader
           from langchain_text_splitters import RecursiveCharacterTextSplitter
 
@@ -26,43 +25,51 @@ jobs:
           s.headers.update({"User-Agent":"Mozilla/5.0"})
           splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
 
-          # 1. Existing count - repeat roko
+          # FIX: Dono jagah search karo - root aur imo-rag-bot
+          all_txt_files = glob.glob('**/master_imo_all_public_part*.txt', recursive=True)
+          print(f"Found part files: {all_txt_files}")
+
           existing = set()
           total_chunks = 0
           max_part = -1
-          processed_till = 12000
+          processed_till = 12500
+          # summary ka max value yaad rakho taki kabhi kam na ho
+          max_old_pdfs = 0
 
-          for fn in os.listdir('.'):
-            if 'master_imo_all_public_part' in fn and fn.endswith('.txt'):
+          for fn in all_txt_files:
               try:
                 txt = open(fn, encoding='utf-8', errors='ignore').read()
                 total_chunks += txt.count('---')
                 for m in re.findall(r'SOURCE:\s*([^\n]+\.pdf)', txt):
                   existing.add(m.strip())
-                mm = re.match(r'master_imo_all_public_part(\d+)\.txt', fn)
+                mm = re.search(r'part(\d+)\.txt', fn)
                 if mm: max_part = max(max_part, int(mm.group(1)))
               except: pass
-            if fn == 'imo_public_summary.txt' or fn == 'imo_rag_bot/imo_public_summary.txt':
+
+          # summary files se purana max nikalo
+          for sum_file in glob.glob('**/imo_public_summary.txt', recursive=True):
               try:
-                t = open(fn).read()
-                m = re.search(r'Processed till (\d+)', t)
-                if m: processed_till = int(m.group(1))
+                t = open(sum_file).read()
+                m1 = re.search(r'Processed till (\d+)', t)
+                m2 = re.search(r'Total Unique PDFs:\s*(\d+)', t)
+                m3 = re.search(r'Total Chunks:\s*(\d+)', t)
+                if m1: processed_till = max(processed_till, int(m1.group(1)))
+                if m2: max_old_pdfs = max(max_old_pdfs, int(m2.group(1)))
+                if m3: total_chunks = max(total_chunks, int(m3.group(1)))
               except: pass
 
-          print(f"Before: {len(existing)} PDFs, {total_chunks} chunks, processed till {processed_till}")
+          print(f"Before CORRECT: {len(existing)} PDFs, real max old={max_old_pdfs}, chunks={total_chunks}")
 
-          # 2. New URLs - MSC pattern jo kaam kar raha hai (tumhare 17 wale)
+          # Ab total existing ko max se compare - kabhi kam nahi hone denge
+          base_count = max(len(existing), max_old_pdfs)
+
           urls = []
           base = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions"
-          # Next batch: 12000-16000 nahi, balki MSC 550-650 jo abhi baaki hai
-          for n in range(528, 650):
-            for sess in [106,107,108,109,110]:
+          for n in range(578, 700):  # ab 578 se aage
+            for sess in [106,107,108,109,110,111]:
               urls.append(f"{base}/MSCResolutions/MSC.{n}({sess}).pdf")
-              urls.append(f"{base}/MSCResolutions/MSC.{n}({sess-1}).pdf")
 
-          # Filter repeat
           new_urls = [u for u in urls if urllib.parse.unquote(u.split('/')[-1]) not in existing][:800]
-          print(f"NEW to try: {len(new_urls)}")
 
           def dl(url):
             try:
@@ -70,9 +77,7 @@ jobs:
               if r.status_code != 200 or len(r.content) < 12000 or r.content[:4] != b'%PDF': return None
               open('/tmp/t.pdf','wb').write(r.content)
               reader = PdfReader('/tmp/t.pdf')
-              text = ""
-              for p in reader.pages[:15]:
-                text += (p.extract_text() or "") + "\n"
+              text = "".join([(p.extract_text() or "") + "\n" for p in reader.pages[:15]])
               if len(text) < 300: return None
               fname = urllib.parse.unquote(url.split('/')[-1])
               out = ""
@@ -82,44 +87,35 @@ jobs:
             except: return None
 
           results = []
-          with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
+          with concurrent.futures.ThreadPoolExecutor(max_workers=25) as ex:
             futs = [ex.submit(dl, u) for u in new_urls]
             for f in concurrent.futures.as_completed(futs):
               r = f.result()
               if r:
                 results.append(r)
                 print(f"  [{len(results)}] OK {r[0]}")
-                if len(results) >= 200: break
 
-          print(f"FINAL Downloaded this batch: {len(results)}")
+          print(f"FINAL Downloaded: {len(results)}")
 
-          # 3. Save new part file
           if results:
             combined = "\n".join([x[1] for x in results])
-            next_file = f"master_imo_all_public_part{max_part+1}.txt"
-            # agar imo-rag-bot folder me hai to wahi save karo
-            if os.path.exists('imo-rag-bot'):
-              next_file = f"imo-rag-bot/{next_file}"
+            next_file = f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt"
+            os.makedirs("imo-rag-bot", exist_ok=True)
             open(next_file, 'w', encoding='utf-8').write(combined)
             print(f"Saved {next_file}")
 
-          # 4. SUMMARY UPDATE - Yahi missing tha
-          total_unique = len(existing) + len(results)
+          total_unique = base_count + len(results)  # FIX: kabhi kam nahi hoga
           total_chunks_new = total_chunks + sum([c[1].count('---') for c in results])
           processed_till_new = processed_till + 500
 
           summary_text = f"""Processed till {processed_till_new}
-          Total Unique PDFs: {total_unique}
-          Total Chunks: {total_chunks_new}
-          Last Batch New: {len(results)}
-          """
-
-          # dono jagah update karo
+Total Unique PDFs: {total_unique}
+Total Chunks: {total_chunks_new}
+Last Batch New: {len(results)}
+"""
           open('imo_public_summary.txt','w').write(summary_text)
-          if os.path.exists('imo-rag-bot'):
-            open('imo-rag-bot/imo_public_summary.txt','w').write(summary_text)
-
-          print(f"Updated summary: {total_unique} PDFs")
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summary_text)
+          print(f"Updated summary FINAL: {total_unique} PDFs")
           PY
 
       - name: Push all
@@ -127,5 +123,5 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add -A
-          git commit -m "update part and summary - add ${{ github.run_number }}" || true
+          git commit -m "fix count and add batch" || true
           git push || true
