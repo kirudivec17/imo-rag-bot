@@ -1,0 +1,2038 @@
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+RESOLUTION MSC.115(73) 
+(adopted on 1 December 2000) 
+ADOPTION OF THE REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE COMBINED GPS/GLONASS RECEIVER EQUIPMENTMSC 73/21/Add.3 
+ 
+ 
+ 
+I:\MSC\73\21a3.doc 
+ 
+ 
+ANNEX 28 
+ 
+RESOLUTION MSC.115(73) 
+(adopted on 1 December 2000) 
+ 
+ADOPTION OF THE REVISED PERFORMANCE STANDARDS FOR SHIPBORNE 
+COMBINED GPS/GLONASS RECEIVER EQUIPMENT 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article (28(b) of the Convention on the International Maritime 
+Organization concerning the functions of the Committee, 
+ 
+ RECALLING ALSO resolution A.886(21), by which the Assembly resolved that the 
+function of adopting performance standards and technic al specifications, as well as amendments 
+thereto shall be performed by the Maritime Safety Committee and/or the Marine Environment 
+Protection Committee, as appropriate, on behalf of the Organization, 
+ 
+ RECALLING FURTHER that, in accordance with resolution A.815(19) by which the
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+RECALLING FURTHER that, in accordance with resolution A.815(19) by which the 
+Assembly adopted the IMO policy for the recognition and acceptance of suitable radionavigation 
+systems intended for international use to provide ships with navigational position -fixing 
+throughout their voyages, the Global Positioning System (GPS) and the Global Navigation 
+Satellite System (GLONASS) have been recognized as possible components of the world -wide 
+radionavigation system, 
+ 
+ NOTING that shipborne combined receiving equipment for the world -wide 
+radionavigation system offer improved availability, integrity, accuracy and resistance to 
+interference, 
+ 
+ RECOGNIZING the need to improve the previously adopted, by resolution MSC.74(69), 
+Annex 1, performance standards for shipborne combined GPS/GLONASS receiver equipment in 
+order to en sure the operational reliability of such equipment and taking into account the 
+technological progress and experience gained,
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+order to en sure the operational reliability of such equipment and taking into account the 
+technological progress and experience gained, 
+ 
+ HAVING CONSIDERED the recommendation on the revision of resolution MSC.74(69), 
+Annex 1 made by the Sub-Committee on Safety of Navigation at its forty-sixth session, 
+ 
+1. ADOPTS the Revised Recommendation on Performance Standards for Shipborne 
+Combined Receiver Equipment, set out in the Annex to the present resolution; 
+ 
+2. RECOMMENDS Governments to ensure that combined GPS/GLONASS receiver 
+equipment: 
+ 
+ (a) if installed on or after 1 July 2003, conform to performance standards not inferior 
+to those specified in the Annex to the present resolution;  and 
+ 
+(b) if installed before 1 July 2003, conform to performance standards not inferior t o 
+those specified in Annex 1 to resolution MSC.74(69). 
+RESOLUTION MSC.115(73) 
+(adopted on 1 December 2000) 
+ADOPTION OF THE REVISED PERFORMANCE STANDARDS FOR
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+RESOLUTION MSC.115(73) 
+(adopted on 1 December 2000) 
+ADOPTION OF THE REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE COMBINED GPS/GLONASS RECEIVER EQUIPMENTMSC 73/21/Add.3 
+ANNEX 28 
+Page 2 
+ 
+I:\MSC\73\21a3.doc 
+ANNEX 
+ 
+REVISED RECOMMENDATION ON PERFORMANCE STANDARDS FOR 
+SHIPBORNE COMBINED GPS/GLONASS RECEIVER EQUIPMENT 
+ 
+1 INTRODUCTION 
+ 
+1.1 The Global Positioning System (GPS) and Global Navigation Satellite Sy stem 
+(GLONASS) are space- based positioning, velocity and time systems.  The GPS space segment 
+will normally be composed of 24 satellites in six orbits.  The spacing of satellites in orbit will be 
+arranged so that a minimum of four satellites will be in view to users world -wide, with a position 
+dilution of precision (PDOP) < 6.  The GLONASS space segment will normally be composed of 
+24 satellites placed in 3  orbital planes with 8 satellites in each plane.  The spacing of satellites in
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+24 satellites placed in 3  orbital planes with 8 satellites in each plane.  The spacing of satellites in 
+orbit will be arranged so that a minimum of four satellites will be in view to users world -wide, 
+with a PDOP < 6. 
+ 
+1.2 A combined receiver, when compared to either the GPS or GLONASS receiver, offers 
+improved availability, integrity, accuracy and resistance to interference; increased ease of 
+installation, and the ability to operate in the differential GPS mode (DGPS), differential 
+GLONASS mode (DGLONASS) and combined DGPS and DGLONASS mode, when available. 
+ 
+1.3 Receiver equipment capable of combining individual satellite measurem ents from GPS 
+and GLONASS constellations to form a single solution is intended for navigational purposes on 
+ships with maximum speeds not exceeding 70 knots.  Such equipment should, in addition to the 
+general requirements contained in resolution A.694(17) ∗, comply with the following minimum 
+performance requirements.
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+general requirements contained in resolution A.694(17) ∗, comply with the following minimum 
+performance requirements. 
+ 
+1.4 These standards cover the basic requirements of position -fixing for navigation purposes 
+only and do not cover other computational facilities which may be in the equipment. 
+ 
+2 COMBINED GPS/GLONASS RECEIVER EQUIPMENT 
+ 
+2.1 The words "combined GPS/GLONASS receiver equipment" as used in these performance 
+standards include all the components and units necessary for the system to properly perform its 
+intended functions.  The equipment should include the following minimum facilities: 
+ 
+.1 antenna capable of receiving both GPS and GLONASS signals; 
+ 
+.2 combined GPS/GLONASS receiver and processor; 
+ 
+.3 means of accessing the computed latitude/longitude position; 
+ 
+.4 data control and interface; and 
+ 
+.5 position display. 
+ 
+2.2 The antenna design should be suitable for fitting at a position on the ship which ensures a
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+.5 position display. 
+ 
+2.2 The antenna design should be suitable for fitting at a position on the ship which ensures a 
+clear view of the satellite constellations. 
+ 
+                                                 
+∗ Refer to Publication IEC 60945. 
+RESOLUTION MSC.115(73) 
+(adopted on 1 December 2000) 
+ADOPTION OF THE REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE COMBINED GPS/GLONASS RECEIVER EQUIPMENTMSC 73/21/Add.3 
+ANNEX 28 
+Page 3 
+ 
+I:\MSC\73\21a3.doc 
+3 PERFORMANCE STANDARDS FOR COMBINED GPS/GLONASS RECEIVER 
+EQUIPMENT 
+ 
+3.1 The combined GPS/GLONASS receiver equipment should: 
+ 
+.1.1 be capable of receiving and processing the Standard Positioning Service (SPS) 
+signals of the GPS as modified by Selective Availability (SA) and range code 
+signals in GLONASS and provide position information in latitude and l ongitude 
+World Geodetic System (WGS) 84 co- ordinates in degrees, minutes and 
+thousandths of minutes.  Means may be provided to transform the computed
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+World Geodetic System (WGS) 84 co- ordinates in degrees, minutes and 
+thousandths of minutes.  Means may be provided to transform the computed 
+position into data compatible with the datum of the navigational chart in use.  
+Where this facility exists, the display and any data output should indicate that the 
+co-ordinate conversation is being performed and should identify the co- ordinate 
+system in which the position is expressed; 
+ 
+.1.2 operate on the L1 frequency signal and C/A code in GPS and L1 freque ncy signal 
+and range code in GLONASS; 
+ 
+.1.3 be provided with at least one output from which position information can be 
+supplied to other equipment.  The output of position information should be in 
+accordance with the relevant international standards;* 
+ 
+.1.4 have static accuracy such that the position of the antenna is determined to within 
+35 m (95%) in non -differential mode and 10 m (95%) in differential mode with
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+35 m (95%) in non -differential mode and 10 m (95%) in differential mode with 
+horizontal dilution of precision (HDOP) < 4 or position dilution of precision 
+(PDOP) < 6; 
+ 
+.1.5 have dynamic accuracy such that the position of the ship is determined to within 
+35 m (95%) in non -differential mode and 10 m (95%) in differential mode with 
+HDOP < 4 or PDOP < 6 under the conditions of sea states and ship's motion likely 
+to be experienced in ships**; 
+ 
+.1.6 be capable of selecting automatically the appropriate satellite transmitted signals 
+for determination of the ship's position with the required accuracy and update rate; 
+ 
+.1.7 be capable of acquiring satellite signals with input signal s having carrier levels in 
+the range of -130 dBm to -120 dBm.  Once the satellite signals have been acquired 
+the equipment should continue to operate satisfactorily with satellite signals 
+having carrier levels down to -133 dBm;
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+the equipment should continue to operate satisfactorily with satellite signals 
+having carrier levels down to -133 dBm; 
+ 
+.1.8 be capable of acquiring position to the required accuracy, within 30 min, when 
+there is no valid almanac data; 
+ 
+ .1.9 be capable of acquiring position to the required accuracy, within 5 min, when 
+there is valid almanac data; 
+ 
+                                                 
+* Publication IEC 61162. 
+** Resolution A.694(17); Publications IEC 6721-3-6, IEC 60945 and IEC 61108-3. 
+ 
+ 
+RESOLUTION MSC.115(73) 
+(adopted on 1 December 2000) 
+ADOPTION OF THE REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE COMBINED GPS/GLONASS RECEIVER EQUIPMENTMSC 73/21/Add.3 
+ANNEX 28 
+Page 4 
+ 
+I:\MSC\73\21a3.doc 
+.1.10 be capable of re- acquiring position to the required accuracy, within 5 min, when 
+all GPS and GLONASS signals are interrupted for a period of at least 24 h, but 
+there is no loss of power;
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+all GPS and GLONASS signals are interrupted for a period of at least 24 h, but 
+there is no loss of power; 
+ 
+.1.11 be capable of re- acquiring position to the required accuracy, within 2 min, when 
+subjected to a power interruption of 60 s; 
+ 
+.1.12 be capable of re- acquiring an individual satellite signal and utilizing it in the 
+position solution within 10 s after being blocked for 30 s; 
+ 
+.1.13 generate and output to a display and digital interface * a new position solution at 
+least once every 1 s; 
+ 
+.1.14 have a minimum resolution of position, i.e. latitude and longitude of 
+0.001 minutes; 
+ 
+ .1.15 generate output to the digital interface* course over the ground (COG), speed over 
+the ground (SOG) and universal time co- ordinated (UTC). Such outputs should 
+have a validity mark aligned with that on the position output.  The accuracy 
+requirement for COG and SOG should not be inferior to the relevant Performance 
+Standards for Heading∗∗  and SDME;∗∗∗
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+requirement for COG and SOG should not be inferior to the relevant Performance 
+Standards for Heading∗∗  and SDME;∗∗∗  
+ 
+.1.16 have the facilities to process DGPS and DGLONASS data fed to it, in accordance 
+with Recommendation ITU-R M.823 and the appropriate RTCM standard; and 
+ 
+.1.17 be capable of operating satisfactorily in typical interference conditions. 
+ 
+4 PROTECTION 
+ 
+Precautions should be taken to ensure tha t no permanent damage can result from an 
+accidental short circuit or grounding of the antenna or any of its input or output connections or 
+any of the combined GPS/GLONASS receiver equipment inputs or outputs for a duration of 
+5 min. 
+ 
+5 FAILURE WARNINGS AND STATUS INDICATIONS 
+ 
+5.1 The equipment should provide an indication if the position calculated is likely to be 
+outside of the requirements of these performance standards. 
+ 
+5.2 The combined GPS/GLONASS receiver equipment should provide as a minimum: 
+ 
+.1 an indication within 5 s if either:
+---
+SOURCE: MSC.115(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.115(73).pdf
+5.2 The combined GPS/GLONASS receiver equipment should provide as a minimum: 
+ 
+.1 an indication within 5 s if either: 
+ 
+.1.1 the specified HDOP has been exceeded; or 
+ 
+                                                 
+* Conforming to Publication IEC 61162 series. 
+∗∗    Resolution A.424(XI). 
+∗∗∗   Resolution A.824(19). 
+ 
+ 
+RESOLUTION MSC.115(73) 
+(adopted on 1 December 2000) 
+ADOPTION OF THE REVISED PERFORMANCE STANDARDS FOR 
+SHIPBORNE COMBINED GPS/GLONASS RECEIVER EQUIPMENT
+---
+
+SOURCE: MSC.234(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.234(82).pdf
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
+ 
+I:\MSC\82\24-Add-2.doc 
+ 
+ 
+ANNEX 28 
+ 
+RESOLUTION MSC.234(82) 
+ 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF  
+OPEN-TOP CONTAINERSHIPS 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+ RECALLING FURTHER the relevant provis ions of the Intern ational Convention on 
+Tonnage Measurement of Ships, 1969, 
+ 
+RECALLING ALSO circular TM.5/Circ.4 on Pr ovisional formula to calculate a reduced 
+gross tonnage of open-top containerships, wher eby the Committee, being concerned with the 
+economic disadvantages caused by the use of greater gross tonna ge in comparison with gross 
+tonnage of conventional containe rships for the assessment of  fees, agreed to recommend a 
+reduced gross tonnage for open-top containerships based on a provisional formula,
+---
+SOURCE: MSC.234(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.234(82).pdf
+reduced gross tonnage for open-top containerships based on a provisional formula, 
+ 
+RECALLING ALSO circular TM .5/Circ.5 on Interpretations of the provisions of the 
+International Convention on Tonnage Measuremen t of Ships, 1969, in particular section 3 
+entitled Open-top containerships, 
+ 
+NOTING that, by the aforementioned circular TM.5/Circ.4, Governments were invited to 
+submit to the Organization information on open- top containerships in operation and under 
+consideration which would enable  the assessment of the final coefficients in the formula, 
+including principal dimensions, gross tonn age underdeck and ondeck carrying capacities of 
+containers, deadweight etc., 
+ 
+HAVING RECOGNIZED that based on the provisions included in circular 
+MSC/Circ.608/Rev.1, open-top containerships are designed and constructed to a high safety level 
+in particular.  This applies to improved protection and securing of containers,
+---
+SOURCE: MSC.234(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.234(82).pdf
+in particular.  This applies to improved protection and securing of containers,  
+ 
+ NOTING that, in view of the explicit amendment procedure of the 1969 Tonnage 
+Measurement Convention, it may require a significant period of time for any amendment to 
+become effective, 
+ 
+ REALIZING the need for the establishment of the principles for the treatment and unified 
+application of tonnage measurement of open-top containerships, 
+ 
+ HAVING CONSIDERED, at its eighty-second  session, the recommendation made by the 
+Sub-Committee on Stability and Load Lines and on Fishing Vessels Safety, at its forty-ninth 
+session, 
+ 
+1. ADOPTS the Recommendations concerni ng tonnage measurement of open-top 
+containerships, the text of which is set out in the Annex to the present resolution; 
+ 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
+ANNEX 28 
+Page 2 
+ 
+I:\MSC\82\24-Add-2.doc
+---
+SOURCE: MSC.234(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.234(82).pdf
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
+ANNEX 28 
+Page 2 
+ 
+I:\MSC\82\24-Add-2.doc 
+2. AGREES that Governments which are Cont racting Governments to the 1969 Tonnage 
+Measurement Convention should use these Reco mmendations when applying the provisions of 
+the Convention; 
+ 
+3. INVITES Governments to advise the ports  and harbours authorities to apply the 
+Recommendations when assessing fees ba sed on reduced gross tonnage for open-top 
+containerships; 
+ 
+4. REVOKES circular TM.5/Circ.4 and section 3 entitled O pen-top containerships of 
+circular TM.5/Circ.5. 
+ 
+ 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
+ANNEX 28 
+Page 3 
+ 
+ 
+I:\MSC\82\24-Add-2.doc 
+ 
+ANNEX 
+ 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF  
+OPEN-TOP CONTAINERSHIPS 
+ 
+ 
+1 In order to use a unified base for the a pplication of tonnage measurement of open-top
+---
+SOURCE: MSC.234(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.234(82).pdf
+OPEN-TOP CONTAINERSHIPS 
+ 
+ 
+1 In order to use a unified base for the a pplication of tonnage measurement of open-top 
+containerships, the Administrations are recommended to accept the following. 
+ 
+Definition of open-top containership 
+ 
+2 An open-top containership , for the purpose of application of the 1969 Tonnage 
+Measurement Convention, means a ship which is designed for the carriage of containers and 
+which is constructed like an open U, with not less than 66.7% of the total cargo hatchway clear 
+opening area in an open-top configuration, with a double bottom and above this, high-sided 
+erections without hatch covers  on the upper deck and without  a complete deck above the 
+moulded draught (refer to the figur e), and needs to be regarded as  a ship of a novel type as 
+referred to in regulation 1(3) of the Convention. 
+ 
+Interpretations of the provisions of the 1969 Tonnage Measurement Convention
+---
+SOURCE: MSC.234(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.234(82).pdf
+referred to in regulation 1(3) of the Convention. 
+ 
+Interpretations of the provisions of the 1969 Tonnage Measurement Convention 
+ 
+3 The provisions of the 1969 Tonnage Measurem ent Convention for treatment of enclosed 
+spaces should be applied to open-top cont ainerships subject to the following unified 
+interpretations: 
+ 
+.1 Upper deck (regulation 2(1)) 
+ 
+In a ship which is exempted by the Admi nistration from the requirements to fit 
+weathertight hatch covers .on the uppermost deck exposed to weather and sea, as 
+in an open-top containership, the upper d eck should be taken as that deck which 
+would have been determined by regulation 2( 1) as if such hatch covers had been 
+fitted. 
+ 
+.2 Enclosed spaces (regulation 2(4)) 
+ 
+In open-top containerships, an opening in a deck such as the absence of hatch 
+covers should not preclude a space from being included in the enclosed 
+space. 
+ 
+.3 Shelter above container stacks
+---
+SOURCE: MSC.234(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.234(82).pdf
+covers should not preclude a space from being included in the enclosed 
+space. 
+ 
+.3 Shelter above container stacks 
+ 
+In the case of open-top containerships  having movable non-load-bearing covers 
+(shelter) of light construction resting on the container-guides, the space above the 
+hatch coamings up to the covers does not qualify as an  excluded space according 
+to regulation 2(5).  For this particular design, howe ver, an exception can be made 
+in accordance with regulation l(3).  The sp ace can be excluded provided that this 
+type of ship meets the requirements of an open-top containership without such 
+covers. 
+ 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPSMSC 82/24/Add.2 
+ANNEX 28 
+Page 4 
+ 
+I:\MSC\82\24-Add-2.doc 
+Reduced gross tonnage of open-top containerships 
+ 
+4 To reduce the disadvantages caused by the use of a greater gross tonnage in  comparison
+---
+SOURCE: MSC.234(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.234(82).pdf
+Reduced gross tonnage of open-top containerships 
+ 
+4 To reduce the disadvantages caused by the use of a greater gross tonnage in  comparison 
+with a gross tonnage of conventional containers hips for assessing fees, a reduced gross tonnage 
+for open-top containerships, without limitation in size, based on a simplified formula is 
+recommended as follows: 
+ 
+GTR = 0.9 x GT 
+ 
+ where:  
+ 
+GTR = the reduced gross tonnage 
+ 
+GT = the gross tonnage calculated in accordance with the 1969 Tonnage 
+Measurement Convention 
+ 
+Entry into the International Tonnage Certificate (1969) 
+ 
+5 In the International Tonnage Certificate (1969), under Remarks, an entry should be 
+made for the tonnage of the open-top containership as follows: 
+ 
+In accordance with resolution MSC.234(82), th e reduced gross tonnage which should be 
+used  for the calculation of tonnage-based fees is 
+ 
+ 
+Figure referred to in paragraph 2 
+ 
+ 
+ 
+ 
+ 
+Upper deck
+---
+SOURCE: MSC.234(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.234(82).pdf
+used  for the calculation of tonnage-based fees is 
+ 
+ 
+Figure referred to in paragraph 2 
+ 
+ 
+ 
+ 
+ 
+Upper deck 
+ 
+ 
+ 
+ 
+ 
+     Moulded draught (regulation 4(2)) 
+Open from above 
+ 
+ 
+ 
+ 
+ CC=V c 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enclosed spaces 
+ 
+ 
+ 
+*** 
+CC 
+RESOLUTION MSC.234(82) 
+RECOMMENDATIONS CONCERNING TONNAGE MEASUREMENT OF 
+OPEN-TOP CONTAINERSHIPS
+---
+
+SOURCE: MSC.274(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.274(85).pdf
+RESOLUTION MSC.274(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE REVISED RECOMMENDATION ON 
+TESTING OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))MSC 85/26/Add.1 
+ 
+ 
+I:\MSC\85\26-Add-1.doc 
+ANNEX 9 
+ 
+RESOLUTION MSC.274(85) 
+(adopted on 4 December 2008) 
+ 
+ 
+ADOPTION OF AMENDMENTS TO THE REVISED RECOMMENDATION ON 
+TESTING OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70)) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+ RECALLING ALSO resolution A.689(17) on Testing of life-saving appliances, by which 
+the Assembly, at its seventeenth session, adopted recommendations for test requirements for 
+life-saving appliances, 
+ 
+ RECALLING FURTHER that the Assembly, when adopting resolution A.689(17), 
+authorized the Committee to keep the Recommendation on testing of life-saving appliances under
+---
+SOURCE: MSC.274(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.274(85).pdf
+authorized the Committee to keep the Recommendation on testing of life-saving appliances under 
+review and to adopt, when appropriate, amendments thereto, 
+ 
+ NOTING resolution MSC.81(70), by which, at its seventieth session, it adopted the 
+Revised recommendation on testing of life-saving appliances, recognizing the need to introduce 
+more precise provisions for the testing of life-saving appliances based on the requirements of the 
+International Life-Saving Appliances (LSA) Code, 
+ 
+ BEING DESIROUS to address increases in  the size of mariners by increasing the 
+assumed weight of persons in lifeboats and re scue boats, and to addr ess potential injury by 
+flexing of hulls and canopies of free-fall lifeboats during launch, 
+ 
+ HAVING CONSIDERED, at its eighty-fifth session, amendments to the Revised 
+recommendation on testing of life-saving applia nces, proposed by the Sub-Committee on Ship 
+Design and Equipment at its fifty-first session,
+---
+SOURCE: MSC.274(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.274(85).pdf
+recommendation on testing of life-saving applia nces, proposed by the Sub-Committee on Ship 
+Design and Equipment at its fifty-first session, 
+ 
+1. ADOPTS amendments to the Revised recommendation on testing of life-saving 
+appliances (resolution MSC.81(70)),  the text of which is set ou t in the Annex to the present 
+resolution; 
+ 
+2. RECOMMENDS Governments to apply th e annexed amendments when testing 
+life-saving appliances. 
+ 
+RESOLUTION MSC.274(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE REVISED RECOMMENDATION ON 
+TESTING OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))MSC 85/26/Add.1 
+ANNEX 9 
+Page 2 
+ 
+I:\MSC\85\26-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO 
+THE REVISED RECOMMENDATION ON TESTING OF LIFE-SAVING APPLIANCES 
+(RESOLUTION MSC.81(70)) 
+ 
+ 
+PART 1 
+PROTOTYPE TESTS FOR LIFE-SAVING APPLIANCES 
+ 
+ 
+6.1 Definitions and general conditions  
+ 
+1 The existing paragraph 6.1.1 is replaced by the following:
+---
+SOURCE: MSC.274(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.274(85).pdf
+6.1 Definitions and general conditions  
+ 
+1 The existing paragraph 6.1.1 is replaced by the following: 
+ 
+6.1.1 Except as specified otherwise, the ma ss of an average person as used herein 
+should be taken to be 75 kg for a lifeboat in tended for a passenger ship or 82.5 kg for a 
+lifeboat intended for a cargo ship. 
+ 
+6.3 Lifeboat overload test 
+ 
+2 In the first sentence of paragraph 6.3.2, afte r the word persons, the words for the type 
+of ship are inserted. 
+ 
+3 The existing paragraph 6.3.9 is replaced by the following: 
+ 
+6.3.9 This test should be considered successf ul if the lifeboat passes the operational test 
+to the satisfaction of the Administration; no da mage has been sustained that would affect 
+the lifeboats efficient functioning; and any deflections of th e hull or canopy as measured 
+during the test would not cause injury to lifeboat occupants. 
+ 
+6.7 Lifeboat seating space test
+---
+SOURCE: MSC.274(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.274(85).pdf
+during the test would not cause injury to lifeboat occupants. 
+ 
+6.7 Lifeboat seating space test  
+ 
+4 In the second sentence of paragraph 6.7.1, af ter the words 75 kg, the words for a lifeboat 
+intended for a passenger ship or 82.5 kg for a lifeboat intended for a cargo ship, are inserted. 
+ 
+7.1 Rigid rescue boats 
+ 
+5 In the second senten ce of paragraph 7.1.3, the word s 75 kg are re placed by the 
+words 82.5 kg. 
+ 
+6 In the first sentence of paragraph 7.1.4, after the word persons, the words , each 
+weighing 82.5 kg, are inserted. 
+ 
+7.2 Inflated rescue boats 
+ 
+7 In subparagraph .3 of paragraph 7.2.4, the words 75 kg are replaced by the 
+words 82.5 kg. 
+ 
+8 In the first sentence of paragraph 7.2.11, after the word persons, the words , each 
+weighing 82.5 kg, are inserted. 
+RESOLUTION MSC.274(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE REVISED RECOMMENDATION ON 
+TESTING OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))MSC 85/26/Add.1
+---
+SOURCE: MSC.274(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.274(85).pdf
+ADOPTION OF AMENDMENTS TO THE REVISED RECOMMENDATION ON 
+TESTING OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))MSC 85/26/Add.1 
+ANNEX 9 
+Page 3 
+ 
+I:\MSC\85\26-Add-1.doc 
+PART 2 
+PRODUCTION AND INSTALLATION TESTS 
+ 
+ 
+5.2 Davit-launched liferaft and inflated rescue boat test 
+ 
+9 In subparagraph .4 of paragraph 5.2, after the words 75 kg per person, the words  
+for the liferaft and 82.5 kg per person for the rescue boat are inserted. 
+ 
+6.1 Launching appliances using falls and winches 
+ 
+10 In the first sentence of paragraph 6.1.2, af ter the words 75 kg, the words or 82.5 kg,  
+as applicable are inserted. 
+ 
+11 In the first sentence of paragraph 6.1.5, af ter the words 75 kg, the words or 82.5 kg,  
+as applicable are inserted. 
+ 
+ 
+***
+RESOLUTION MSC.274(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE REVISED RECOMMENDATION ON 
+TESTING OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))RESOLUTION MSC.274(85) 
+(adopted on 4 December 2008)
+---
+SOURCE: MSC.274(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.274(85).pdf
+TESTING OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))RESOLUTION MSC.274(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE REVISED RECOMMENDATION ON 
+TESTING OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))
+---
+
+SOURCE: MSC.329(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.329(90).pdf
+RESOLUTION MSC.329(90) 
+(adopted on 24 May 2012) 
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO 
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966, AS AMENDED 
+ 
+RESOLUTION MSC.329(90) 
+(adopted on 24 May 2012) 
+ 
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO  
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966, AS AMENDED 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING FURTHER article VI of the Protocol of 1988 relating to the International 
+Convention on Load Lines, 1966 (hereinafter referred to as the "1988 Load Lines Protocol" ) 
+concerning amendment procedures, 
+ 
+HAVING CONSIDERED, at its ninetieth session, amendments to the 1988 Load Lines 
+Protocol proposed and circulated in accordance with paragraph 2(a) of article VI thereof, 
+ 
+1. ADOPTS, in accordance with paragraph 2(d) of article VI of the 1988 Load Lines
+---
+SOURCE: MSC.329(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.329(90).pdf
+1. ADOPTS, in accordance with paragraph 2(d) of article VI of the 1988 Load Lines 
+Protocol, amendments to the 1988 Load Lines Protocol, the text of which is set out in the 
+annex to the present resolution; 
+ 
+2. DETERMINES, in accordance with paragraph 2(f)(ii)(bb) of article VI of 
+the 1988 Load Lines Protocol, that the said amendments shall be deemed to have been 
+accepted on 1 July 2013, unless, prior to that date, more than one third of the Parties to 
+the 1988 Load Lines Protocol or Parties the combined merchant fleets of which constitute 
+not less than 50 per cent of the gross tonnage of the world's merchant fleet, have notified 
+their objections to the amendments; 
+ 
+3. INVITES the Parties concerned to note that, in accordance with paragraph 2(g)(ii) of 
+article VI of the 1988 Load Lines Protocol, the amendments shall enter into force 
+on 1 January 2014 upon their acceptance in accordance with paragraph 2 above;
+---
+SOURCE: MSC.329(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.329(90).pdf
+on 1 January 2014 upon their acceptance in accordance with paragraph 2 above; 
+ 
+4. REQUESTS the Secretary-General, in conformity with paragraph 2(e) of article VI 
+of the 1988 Load Lines Protocol, to transmit certified copies of the present resolution and the 
+text of the amendments contained in the annex to all Parties to the 1988 Load Lines 
+Protocol; 
+ 
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution 
+and its annex to Members of the Organization, which are not Parties to the 1988 Load Lines 
+Protocol. 
+ 
+ 
+RESOLUTION MSC.329(90) 
+(adopted on 24 May 2012) 
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO 
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966, AS AMENDED- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO THE INTERNATIONAL 
+CONVENTION ON LOAD LINES, 1966, AS AMENDED 
+ 
+ANNEX B 
+ANNEXES TO THE CONVENTION AS MODIFIED BY THE PROTOCOL 
+OF 1988 RELATING THERETO 
+ 
+ANNEX II 
+Zones, areas and seasonal periods
+---
+SOURCE: MSC.329(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.329(90).pdf
+ANNEX B 
+ANNEXES TO THE CONVENTION AS MODIFIED BY THE PROTOCOL 
+OF 1988 RELATING THERETO 
+ 
+ANNEX II 
+Zones, areas and seasonal periods 
+ 
+ 
+Regulation 47 – Southern Winter Seasonal Zone 
+ 
+The existing text of regulation 47 is replaced by the following: 
+ 
+"The northern boundary of the Southern Winter Seasonal Zone is: 
+ 
+the rhumb line from the east coast of the American continent at Cape 
+Tres Puntas to the point latitude 34º S, longitude 50º W, thence the parallel 
+of latitude 34º S to longitude 16º E, thence the rhumb line to the point 
+latitude 36º S, longitude 20º E, thence the rhumb line to the point 
+latitude 34º S, longitude 30º E, thence along the rhumb line to the point 
+latitude 35º30´ S, longitude 118º E, and thence the rhumb line to Cape Grim 
+on the north-west coast of Tasmania; thence along the north and east coasts 
+of Tasmania to the southernmost point of Bruny Island, thence the rhumb
+---
+SOURCE: MSC.329(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.329(90).pdf
+on the north-west coast of Tasmania; thence along the north and east coasts 
+of Tasmania to the southernmost point of Bruny Island, thence the rhumb 
+line to Black Rock Point on Stewart Island, thence the rhumb line to the point 
+latitude 47º S, longitude 170º E, thence along the rhumb line to the point 
+latitude 33º S, longitude 170º W, and thence the parallel of latitude 33º S to 
+the point latitude 33º S, longitude 79º W, thence the rhumb line to the point 
+latitude 41º S, longitude 75º W, thence the rhumb line to Punta Corona 
+lighthouse on Chiloe Island, latitude 41º 47´ S, longitude 73º53´ W, thence 
+along the north, east and south coasts of Chiloe Island to the point 
+latitude 43º20´ S, longitude 74º 20´ W, and thence the meridian of 
+longitude 74º20´ W to the parallel of latitude 45º 45´ S, including the inner 
+zone of Chiloe channels from the meridian 74º20´ W to the east. 
+ 
+Seasonal periods: 
+ 
+WINTER: 16 April to 15 October 
+SUMMER: 16 October to 15 April"
+---
+SOURCE: MSC.329(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.329(90).pdf
+Seasonal periods: 
+ 
+WINTER: 16 April to 15 October 
+SUMMER: 16 October to 15 April" 
+ 
+ 
+RESOLUTION MSC.329(90) 
+(adopted on 24 May 2012) 
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO 
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966, AS AMENDEDRESOLUTION MSC.329(90) 
+(adopted on 24 May 2012) 
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO 
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966, AS AMENDED
+---
+
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+RESOLUTION MSC.202(81) (adopted on 19 May 2006) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDEDRESOLUTION MSC.202(81) 
+(adopted on 19 May 2006) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING FURTHER article VJII(b) of the International Convention for the Safety of 
+Life at Sea (SOLAS), 1974 (hereinafter referred to as "the Convention"), concerning the 
+amendment procedure applicable to the Annex to the Convention, other than the provisions of 
+chapter I thereof, 
+HAVING CONSIDERED, at its eighty-first session, amendments to the Convention, 
+proposed and circulated in accordance with article VJII(b lei) thereof, 
+I. ADOPTS, in accordance with article VJII(b )(iv) of the Convention, amendments to the
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+I. ADOPTS, in accordance with article VJII(b )(iv) of the Convention, amendments to the 
+Convention, the text of which is set out in the Annex to the present resolution; 
+2. DETERMINES, in accordance with article VIII(b)( vi)(2)(bb) of the Convention, that the 
+said amendments shall be deemed to have been accepted on I July 2007, unless, prior to that 
+date, more than one third of the Contracting Governments to the Convention or Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified their objections to the amendments; 
+3. INVITES SOLAS Contracting Governments to note that, in accordance with 
+article VIII(b)( vii)(2) of the Convention, the amendments shall enter into force 
+on I January 2008 upon their acceptance in accordance with paragraph 2 above; 
+4. REQUESTS the Secretary-General, in conformity with article VIII(b lev) of the
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+4. REQUESTS the Secretary-General, in conformity with article VIII(b lev) of the 
+Convention, to transmit certified copies of the present resolution and the text of the amendments 
+contained in the Annex to all Contracting Governments to the Convention; 
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and 
+its Annex to Members of the Organization, which are not Contracting Governments to the 
+Convention. 
+RESOLUTION MSC.202(81) (adopted on 19 May 2006) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+RESOLUTION MSC.202(81) 
+(adopted on 19 May 2006) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING FURTHER article VJII(b) of the International Convention for the Safety of
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+concerning the functions of the Committee, 
+RECALLING FURTHER article VJII(b) of the International Convention for the Safety of 
+Life at Sea (SOLAS), 1974 (hereinafter referred to as "the Convention"), concerning the 
+amendment procedure applicable to the Annex to the Convention, other than the provisions of 
+chapter I thereof, 
+HAVING CONSIDERED, at its eighty-first session, amendments to the Convention, 
+proposed and circulated in accordance with article VIII(b lei) thereof, 
+I. ADOPTS, in accordance with article VIII(b )(iv) of the Convention, amendments to the 
+Convention, the text of which is set out in the Annex to the present resolution; 
+2. DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that the 
+said amendments shall be deemed to have been accepted on I July 2007, unless, prior to that 
+date, more than one third of the Contracting Governments to the Convention or Contracting
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+date, more than one third of the Contracting Governments to the Convention or Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified their objections to the amendments; 
+3. INVITES SOLAS Contracting Governments to note that, in accordance with 
+article VIII(b)( vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2008 upon their acceptance in accordance with paragraph 2 above; 
+4. REQUESTS the Secretary-General, in conformity with article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the amendments 
+contained in the Annex to all Contracting Governments to the Convention; 
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and 
+its Annex to Members of the Organization, which are not Contracting Governments to the 
+Convention. - 2 -
+ANNEX 
+AMENDMENTS TO THE
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+its Annex to Members of the Organization, which are not Contracting Governments to the 
+Convention. - 2 -
+ANNEX 
+AMENDMENTS TO THE 
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, 
+AS AMENDED 
+Regulation 2 - Definitions 
+CHAPTER V 
+SAFETY OF NAVIGATION 
+The following text is inserted after the existing paragraph 5: 
+"6 High-speed craft means a craft as defined in regulation XII .3. 
+7 Mobile offihore drilling unit means a mobile offshore drilling unit as defined in 
+regulation XI-2/J.J.5." 
+2 The following new regulation 19-I is inserted after the existing regulation 19: 
+"Regulation 19-1 
+Long-range identification and tracking of ships 
+1 Nothing in this regulation or the provisions of performance standards and 
+functional ' requirements adopted by the Organization in relation to the long-range 
+identification and tracking of ships shall prejudice the rights, jurisdiction or obligations of
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+identification and tracking of ships shall prejudice the rights, jurisdiction or obligations of 
+States under international law, in particular , the legal regimes of the high seas, the 
+exclusive economic zone, the contiguous zone, the territorial seas or the straits used for 
+international navigation and archipelagic sea lanes. 
+2.1 Subject to the provisions of paragraphs 4.1 and 4.2, this regulation shall apply to 
+the following types of ships engaged on international voyages: 
+.1 passenger ships, including high-speed passenger craft; 
+.2 cargo ships, including high-speed craft, of 300 gross tonnage and upwards; 
+and 
+.3 mobile offshore drilling units. 
+2.2 The term "ship", when used in paragraphs 3 to 11.2, includes the passenger and 
+cargo ships, the high-speed craft and the mobile offshore drilling units which are subject 
+to the provisions of this regulation. 
+3 This regulation establishes prOVISIOns to enable Contracting Governments to
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+to the provisions of this regulation. 
+3 This regulation establishes prOVISIOns to enable Contracting Governments to 
+undertake the long-range identification and tracking of ships. 
+4. I Ships shall be fitted with a system to automatically transmit the information 
+specified in paragraph 5 as follows: 
+RESOLUTION MSC.202(81) (adopted on 19 May 2006) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+- 2 -
+ANNEX 
+AMENDMENTS TO THE 
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, 
+AS AMENDED 
+Regulation 2 - Definitions 
+CHAPTER V 
+SAFETY OF NAVIGATION 
+The following text is inserted after the existing paragraph 5: 
+"6 High-speed craji means a craft as defined in regulation XlI.3 . 
+7 Mobile offihore drilling unit means a mobile offshore drilling unit as defined in 
+regulation XI-2/1.l.5." 
+2 The following new regulation 19-1 is inserted after the existing regulation 19: 
+"Regulation 19-1
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+regulation XI-2/1.l.5." 
+2 The following new regulation 19-1 is inserted after the existing regulation 19: 
+"Regulation 19-1 
+Long-range identification and tracking of ships 
+1 Nothing in this regulation or the provisions of performance standards and 
+functional -requirements adopted by the Organization in relation to the long-range 
+identification and tracking of ships shall prejudice the rights, jurisdiction or obligations of 
+States under international law, in particular, the legal regimes of the high seas, the 
+exclusive economic zone, the contiguous zone, the territorial seas or the straits used for 
+international navigation and archipelagic sea lanes. 
+2.1 Subject to the provisions of paragraphs 4.1 and 4.2, this regulation shall apply to 
+the following types of ships engaged on international voyages: 
+.1 passenger ships, including high-speed passenger craft; 
+.2 cargo ships, including high-speed craft, of 300 gross tonnage and upwards; 
+and 
+.3 mobile offshore drilling units.
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+.2 cargo ships, including high-speed craft, of 300 gross tonnage and upwards; 
+and 
+.3 mobile offshore drilling units. 
+2.2 The term "ship", when used in paragraphs 3 to 11.2, includes the passenger and 
+cargo ships, the high-speed craft and the mobile offshore drilling units which are subject 
+to the provisions ofthis regulation. 
+3 This regulation establishes prOVISIOns to enable Contracting Governments to 
+undertake the long-range identification and tracking of ships. 
+4.1 Ships shall be fitted with a system to automatically transmit the information 
+specified in paragraph 5 as follows: - 3 -
+.1 ships constructed on or after 31 December Z008; 
+.2 ships constructed before 31 December Z008 and certified for operations: 
+.1 in sea areas A I and AZ, as defined in regulations IV /Z.UZ 
+and IV/Z.U3 ; or 
+.Z in sea areas AI, AZ and A3, as defined in regulations IV/Z.l.IZ , 
+IV/Z.U3 and IV/Z.U4; 
+not later than the first survey of the radio installation after 
+31 December Z008;
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+IV/Z.U3 and IV/Z.U4; 
+not later than the first survey of the radio installation after 
+31 December Z008; 
+.3 ships constructed before 31 December Z008 and certified for operations in 
+sea areas AI, AZ, A3 and A4, as defined in regulations IV/Z.UZ, 
+IV/Z.U3, IV/Z.1.14 and IV/Z.1.15, not later than the first survey of the 
+radio installation after I July Z009. However, these ships shall comply 
+with the provisions of subparagraph .2 above whilst they operate within 
+sea areas AI , AZ and A3. 
+4.Z Ships, irrespective of the date of construction, fitted with an automatic 
+identification system CAIS), as defined in regulation 19.2.4, and operated exclusively 
+within sea area AI, as defined in regulation IV/Z.l.1Z, shall not be required to comply 
+with the provisions of this regulation. 
+5 Subject to the provisions of paragraph 4.1, ships shall automatically transmit the 
+following long-range identification and tracking information: 
+.1 the identity ofthe ship;
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+following long-range identification and tracking information: 
+.1 the identity ofthe ship; 
+.2 the position of the ship (latitude and longitude); and 
+.3 the date and time of the position provided. 
+6 Systems and equipment used to meet the requirements of this regulation shall 
+conform to performance standards and functional requirements not inferior to those 
+adopted by the Organization. Any shipboard equipment shall be of a type approved by 
+the Administration. 
+7 Systems and equipment used to meet the requirements of this regulation shall be 
+capable of being switched off on board or be capable of ceasing the distribution of 
+long-range identification and tracking information: 
+.1 where international agreements, rules or standards provide for the 
+protection of navigational information; or 
+.2 in exceptional circumstances and for the shortest duration possible where 
+the operation is considered by the master to compromise the safety or
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+.2 in exceptional circumstances and for the shortest duration possible where 
+the operation is considered by the master to compromise the safety or 
+security of the ship. In such a case, the master shall inform the 
+Administration without undue delay and make an entry in the record of 
+navigational activities and incidents maintained in accordance with 
+RESOLUTION MSC.202(81) (adopted on 19 May 2006) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+- 3 -
+.1 ships constructed on or after 31 December 2008; 
+.2 ships constructed before 31 December 2008 and certified for operations: 
+.1 in sea areas A I and A2, as defined in regulations IV /2.1.12 
+and IV/2.U3; or 
+.2 in sea areas AI, A2 and A3, as defined in regulations TV/2.1.12, 
+TV/2.U3 and IV/2.U4; 
+not later than the first survey of the radio installation after 
+31 December 2008; 
+.3 ships constructed before 31 December 2008 and certified for operations in
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+31 December 2008; 
+.3 ships constructed before 31 December 2008 and certified for operations in 
+sea areas AI, A2, A3 and A4, as defined in regulations IV/2.U2, 
+IV/2.U3, IV/2.1.14 and IV/2.1.15, not later than the first survey of the 
+radio installation after I July 2009. However, these ships shall comply 
+with the provisions of subparagraph .2 above whilst they operate within 
+sea areas AI, A2 and A3. 
+4.2 Ships, irrespective of the date of construction, fitted with an automatic 
+identification system CAIS), as defined in regulation 19.2.4, and operated exclusively 
+within sea area AI, as defined in regulation IV/2.1.12, shall not be required to comply 
+with the provisions of this regulation. 
+5 Subject to the provisions of paragraph 4.1, ships shall automatically transmit the 
+following long-range identification and tracking information: 
+.1 the identity ofthe ship; 
+.2 the position of the ship (latitude and longitude); and 
+.3 the date and time of the position provided.
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+.1 the identity ofthe ship; 
+.2 the position of the ship (latitude and longitude); and 
+.3 the date and time of the position provided. 
+6 Systems and equipment used to meet the requirements of this regulation shall 
+conform to performance standards and functional requirements not inferior to those 
+adopted by the Organization. Any shipboard equipment shall be of a type approved by 
+the Administration. 
+7 Systems and equipment used to meet the requirements of this regulation shall be 
+capable of being switched off on board or be capable of ceasing the distribution of 
+long-range identification and tracking information: 
+.1 where international agreements, rules or standards provide for the 
+protection of navigational information; or 
+.2 in exceptional circumstances and for the shortest duration possible where 
+the operation is considered by the master to compromise the safety or 
+security of the ship. In such a case, the master shall inform the
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+the operation is considered by the master to compromise the safety or 
+security of the ship. In such a case, the master shall inform the 
+Administration without undue delay and make an entry in the record of 
+navigational activities and incidents maintained in accordance with -4-
+regulation 28 setting out the reasons for the decision and indicating the 
+period during which the system or equipment was switched off. 
+8.1 Subject to the provisions of paragraphs 8.2 to 11.2, Contracting Governments shall 
+be able to receive long-range identification and tracking information about ships, for 
+security and other purposes as agreed by the Organization, as follows: 
+.1 the Administration shall be entitled to receive such information about ships 
+entitled to fly its flag irrespective of where such ships may be located; 
+.2 a Contracting Government shall be entitled to receive such information 
+about ships which have indicated their intention to enter a port facility, as
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+about ships which have indicated their intention to enter a port facility, as 
+defined in regulation XI-211.1.9, or a place under the jurisdiction of that 
+Contracting Government, irrespective of where such ships may be located 
+provided they are not located within the waters landward of the baselines, 
+established in accordance with international law, of another Contracting 
+Government; and 
+.3 a Contracting Government shall be entitled to receive such information 
+about ships entitled to fly the flag of other Contracting Governments, not 
+intending to enter a port facility or a place under the jurisdiction of that 
+Contracting Government, navigating within a distance not exceeding 
+1,000 nautical miles of its coast provided such ships are not located within 
+the waters landward of the baselines, established in accordance with 
+international law, of another Contracting Government; and 
+.4 a Contracting Government shall not be entitled to receive, pursuant to
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+international law, of another Contracting Government; and 
+.4 a Contracting Government shall not be entitled to receive, pursuant to 
+subparagraph .3, such information about a ship located within the 
+territorial sea of the Contracting Government whose flag the ship is 
+entitled to fly. 
+8.2 Contracting Governments shall specify and communicate to the Organization 
+relevant details, taking into account the performance standards and functional 
+requirements adopted by the Organization, to enable long-range identification and 
+tracking information to be made available pursuant to the provisions of paragraph 8.1. 
+The Contracting Government concerned may, at any time thereafter, amend or withdraw 
+such communication. The Organization shall inform all Contracting Governments upon 
+receipt of such communication together with the particulars thereof. 
+9.1 Notwithstanding the provisions of paragraph 8.1.3, the Administration shall be
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+9.1 Notwithstanding the provisions of paragraph 8.1.3, the Administration shall be 
+entitled, in order to meet security or other concerns, at any time, to decide that long-range 
+identification and tracking information about ships entitled to fly its flag shall not be 
+provided pursuant to the provisions of paragraph 8.1.3 to Contracting Governments. The 
+Administration concerned may, at any time thereafter, amend, suspend or annul such 
+decisions. 
+9.2 The Administration concerned shall communicate, pursuant to paragraph 9.1, such 
+decisions to the Organization. The Organization shall inform all Contracting 
+Governments upon receipt of such communication together with the particulars thereof. 
+RESOLUTION MSC.202(81) (adopted on 19 May 2006) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+-4-
+regulation 28 setting out the reasons for the decision and indicating the 
+period during which the system or equipment was switched off.
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+-4-
+regulation 28 setting out the reasons for the decision and indicating the 
+period during which the system or equipment was switched off. 
+8.1 Subject to the provisions of paragraphs 8.2 to 11.2, Contracting Governments shall 
+be able to receive long-range identification and tracking information about ships, for 
+security and other purposes as agreed by the Organization, as follows: 
+.1 the Administration shall be entitled to receive such information about ships 
+entitled to fly its flag irrespective of where such ships may be located; 
+.2 a Contracting Government shall be entitled to receive such information 
+about ships which have indicated their intention to enter a port facility, as 
+defined in regulation XI-2/1.1.9, or a place under the jurisdiction of that 
+Contracting Government, irrespective of where such ships may be located 
+provided they are not located within the waters landward of the baselines, 
+established in accordance with international law, of another Contracting
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+provided they are not located within the waters landward of the baselines, 
+established in accordance with international law, of another Contracting 
+Government ; and 
+.3 a Contracting Government shall be entitled to receive such information 
+about ships entitled to fly the flag of other Contracting Governments , not 
+intending to enter a port facility or a place under the jurisdiction of that 
+Contracting Government, navigating within a distance not exceeding 
+1,000 nautical miles of its coast provided such ships are not located within 
+the waters landward of the baselines, established in accordance with 
+international law, of another Contracting Government; and 
+.4 a Contracting Government shall not be entitled to receive, pursuant to 
+subparagraph .3, such information about a ship located within the 
+territorial sea of the Contracting Government whose flag the ship is 
+entitled to fly. 
+8.2 Contracting Governments shall specify and communicate to the Organization
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+entitled to fly. 
+8.2 Contracting Governments shall specify and communicate to the Organization 
+relevant details, taking into account the performance standards and functional 
+requirements adopted by the Organization , to enable long-range identification and 
+tracking information to be made available pursuant to the provisions of paragraph 8.1. 
+The Contracting Government concerned may, at any time thereafter, amend or withdraw 
+such communication. The Organization shall inform all Contracting Governments upon 
+receipt of such communication together with the particulars thereof. 
+9.1 Notwithstanding the provisions of paragraph 8.1.3, the Administration shall be 
+entitled, in order to meet security or other concerns , at any time, to decide that long-range 
+identification and tracking information about ships entitled to fly its flag shall not be 
+provided pursuant to the provisions of paragraph 8.1.3 to Contracting Governments. The
+---
+SOURCE: MSC.202(81).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.202(81).pdf
+provided pursuant to the provisions of paragraph 8.1.3 to Contracting Governments. The 
+Administration concerned may, at any time thereafter, amend, suspend or annul such 
+decisions. 
+9.2 The Administration concerned shall communicate, pursuant to paragraph 9.1, such 
+decisions to the Organization . The Organization shall inform all Contracting 
+Governments upon receipt of such communication together with the particulars thereof.
+---
+
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+RESOLUTION MSC.509(105) (adopted on 28 April 2022) 
+PROVISION OF RADIO SERVICES FOR THE  
+GLOBAL MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) MSC 105/20/Add.1 
+Annex 16, page 1 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+ANNEX 16 
+ 
+RESOLUTION MSC.509(105) 
+(adopted on 28 April 2022) 
+ 
+PROVISION OF RADIO SERVICES FOR THE  
+GLOBAL MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS)  
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO that the Assembly, at its nineteenth session, adopted resolution A.801(19) 
+on Provision of radio services for the Global Maritime Distress and Safety System (GMDSS) , 
+authorizing the Maritime Safety Committee to keep the resolution under revi ew and to adopt 
+amendments thereto, as necessary, 
+ 
+RECALLING FURTHER resolution MSC.199(80), by which it adopted, at its eightieth session,
+---
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+amendments thereto, as necessary, 
+ 
+RECALLING FURTHER resolution MSC.199(80), by which it adopted, at its eightieth session, 
+amendments to annex 4 to resolution A.801(19) concerning criteria for use when providing a 
+NAVTEX service,   
+ 
+TAKING INTO ACCOUNT the amendments to chapter IV of the International Convention for 
+the Safety of Life at Sea, 1974 ("the Convention"), adopted by resolutions MSC.436(99) and 
+MSC.496(105), 
+ 
+NOTING, in particular, regulation IV/5 of the Convention concerning provision of 
+radiocommunication services,  
+ 
+HAVING CONSIDERED, at its 105th session, the recommendation made by the 
+Sub-Committee on Navigation, Communications and Search and Rescue at its eighth session, 
+ 
+1 ADOPTS the revised Recommendation on provision of radio services for the GMDSS, 
+the Criteria for use when providing shore-based digital selective calling (DSC) facilities for use 
+in the GMDSS, the Criteria for establishing GMDSS sea are as and the Criteria for use when
+---
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+in the GMDSS, the Criteria for establishing GMDSS sea are as and the Criteria for use when 
+providing a NAVTEX service, set out in annexes 1 to 4, respectively, to the present resolution; 
+ 
+2 RECOMMENDS Governments to ensure that provision of radio services for the 
+GMDSS established on or after 1 January 2024 conforms to criteria not inferior to that set out 
+in the annexes to the present resolution; 
+ 
+3 INVITES Governments to: 
+ 
+.1 provide, either individually or in cooperation with other Governments, the 
+radio services deemed practicable and necessary for the proper operation of 
+the GMDSS; and 
+ 
+.2 inform the Secretary -General of shore -based facilities to be provided in 
+support of the GMDSS in response to this resolution through the 
+Organization's Global Integrated Shipping Information System (GISIS); 
+ 
+4 DETERMINES that this resolution supersedes resolution A.801(19), as amended, as 
+from 1 January 2024;
+---
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+4 DETERMINES that this resolution supersedes resolution A.801(19), as amended, as 
+from 1 January 2024; 
+ 
+5 INVITES the Assembly to endorse the action taken by the Maritime Safety Committee.  
+RESOLUTION MSC.509(105) (adopted on 28 April 2022) 
+PROVISION OF RADIO SERVICES FOR THE  
+GLOBAL MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) MSC 105/20/Add.1 
+Annex 16, page 2 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+ANNEX 1 
+ 
+RECOMMENDATION ON PROVISION OF RADIO SERVICES FOR THE GMDSS 
+ 
+ 
+1 Governments should establish such coast stations, individually or in cooperation with 
+other Governments, as are needed to designate a sea area or areas A1 or A2, or both, off their 
+coasts. Each sea area should be established in accordance with the Criteria for establishing 
+GMDSS sea areas recommended in annex 3. 
+ 
+2 Governments that do not define sea areas A1 or A2 should establish such coast 
+stations, individually or in cooperation with other Governments, as are needed to designate a
+---
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+stations, individually or in cooperation with other Governments, as are needed to designate a 
+sea area (or areas) A3 or A4 in accordance with SOLAS regulations IV/2.1.17 and 2.1.18. 
+Each sea area should be established in accordance with the Criteria for establishing GMDSS 
+sea areas recommended in annex 3. 
+ 
+3 Each Government should submit to the Organization information on the sea area or 
+sea areas (A1, A2, A3 and/or A4) designated, radiocommunication services it has established 
+for the GMDSS, and when there are changes to the sea area or areas it has so defined. 
+ 
+4 Governments should make provision for radioc ommunication services in each sea 
+area they have defined, so that a ship, while at sea, can receive shore -to-ship 
+radiocommunication and that coast stations can receive ship-to-shore radiocommunication in 
+accordance with the functional requirements set out in SOLAS regulation IV/4.1. 
+ 
+ 
+  
+RESOLUTION MSC.509(105) (adopted on 28 April 2022)
+---
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+accordance with the functional requirements set out in SOLAS regulation IV/4.1. 
+ 
+ 
+  
+RESOLUTION MSC.509(105) (adopted on 28 April 2022) 
+PROVISION OF RADIO SERVICES FOR THE  
+GLOBAL MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) MSC 105/20/Add.1 
+Annex 16, page 3 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+ANNEX 2 
+ 
+CRITERIA FOR USE WHEN PROVIDING SHORE-BASED 
+DIGITAL SELECTIVE CALLING (DSC) FACILITIES FOR USE IN THE GMDSS 
+ 
+ 
+1 Governments, individually or in cooperation with other Governments, desiring to 
+provide a high frequen cy (HF) DSC coast station for use in the GMDSS should notify the 
+Organization so it can maintain in the GMDSS Master Plan details of HF coast stations 
+providing HF  DSC distress watch. Governments should ensure that such HF  DSC coast 
+stations are provided in accordance with appendix 1. 
+ 
+2 Governments, individually or in cooperation with other Governments, desiring to 
+provide a medium frequency (MF)  DSC coast station serving, either wholly or in part, a
+---
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+provide a medium frequency (MF)  DSC coast station serving, either wholly or in part, a 
+particular sea area A2, should notify the Organization as to the extent of continuous coverage 
+and the extent of coverage from shore. This information should be determined by Governments 
+in accordance with the criteria recommended in annex  3. Governments should ensure that 
+MF DSC coast stations are provided in accordance with appendix 2. 
+ 
+3 Governments, individually or in cooperation with other Governments desiring to 
+provide a very high frequency (VHF)  DSC coast station serving, either wholly or in part, a 
+particular sea area A1, should notify the Organization as to the extent of continuous coverage 
+and the extent of coverage from shore. This information should be determined by Governments 
+in accordance with the criteria recommended in annex  3. Governments should ensure that 
+VHF DSC coast stations are provided in accordance with appendix 3.
+---
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+VHF DSC coast stations are provided in accordance with appendix 3. 
+ 
+4 In addition, Report ITU -R M.2027 provides engineering guidance to upgrade 
+shore-based facilities to operate the GMDSS in sea areas A1, A2, A3 and A4. 
+ 
+  
+RESOLUTION MSC.509(105) (adopted on 28 April 2022) 
+PROVISION OF RADIO SERVICES FOR THE  
+GLOBAL MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) MSC 105/20/Add.1 
+Annex 16, page 4 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+APPENDIX 1 
+ 
+1 BASIC PRINCIPLES FOR ESTABLISHING HF DSC COAST STATIONS FOR 
+SEA AREAS A3 AND A4 
+ 
+The location of HF  DSC coast stations for sea areas  A3 and  A4 should be based where 
+practicable on the following principles: 
+ 
+.1 each area should have a minimum of two  stations to provide the required 
+coverage; 
+ 
+.2 stations should be selected to provide redundant coverage; and 
+ 
+.3 in areas of high traffic density, more than two stations should be provided.
+---
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+.3 in areas of high traffic density, more than two stations should be provided. 
+ 
+Governments are encouraged to cooperate in order to achieve the above basic principles for 
+establishing HF DSC coast stations and a complete global coverage. 
+ 
+2 CRITERIA FOR THE PROVISION OF HF DSC COAST STATIONS 
+ 
+Stations participating in HF DSC watchkeeping in the GMDSS should: 
+ 
+.1 be affiliated to an RCC and have reliable communications between them; 
+ 
+.2 monitor all HF DSC distress frequencies; 
+ 
+.3 provide as complete a coverage of their area as possible; 
+ 
+.4 be in continuous operation; and 
+ 
+.5 be able to relay distress alerts and communications under an international 
+common procedure as agreed by the Organization.1 
+ 
+3 AVAILABILITY AND COVERAGE OF HF DSC COAST STATIONS 
+ 
+The minimum number of HF  DSC coast stations indicated in paragraph 1 may need to be 
+adjusted in future in order to: 
+ 
+.1 ensure coast stations can provide a mutual backup in the event of operational
+---
+SOURCE: MSC.509(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.509(105).pdf
+adjusted in future in order to: 
+ 
+.1 ensure coast stations can provide a mutual backup in the event of operational 
+failure; and 
+ 
+.2 provide a methodology for predicting coverage to include in the GMDSS 
+Master Plan.  
+ 
+1 Refer to IAMSAR Manual, Volume II, section 3.6 "Designation of the RCC or RSC responsible for initiating 
+SAR action". 
+ 
+RESOLUTION MSC.509(105) (adopted on 28 April 2022) 
+PROVISION OF RADIO SERVICES FOR THE  
+GLOBAL MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS)
+---
+
+SOURCE: MSC.122(75).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.122(75).pdf
+RESOLUTION MSC.122(75) 
+(adopted on 24 May 2002) 
+ADOPTION OF THE INTERNATIONAL MARITIME 
+DANGEROUS GOODS (IMDG) CODEMSC 75/24/Add.1 
+ 
+ 
+I:\MSC\75\24-ADD.1.DOC 
+ 
+ANNEX 12 
+ 
+RESOLUTION MSC.122(75) 
+(adopted on 24 May 2002) 
+ 
+ADOPTION OF THE INTERNATIONAL MARITIME  
+DANGEROUS GOODS (IMDG) CODE  
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+NOTING the adoption by the Assembly of resolution A.716(17) on the International 
+Maritime Dangerous Goods (IMDG) Code, 
+ 
+RECOGNIZING the need to provide a mandatory application of the agreed international 
+standards for the carriage of dangerous goods by sea, 
+ 
+NOTING ALSO resolution MSC.123(75) by which it adopted amendments to chapter VII of 
+the International Convention for the Safety of Life at Sea (SOLAS) 1974, as amended (hereinafter
+---
+SOURCE: MSC.122(75).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.122(75).pdf
+the International Convention for the Safety of Life at Sea (SOLAS) 1974, as amended (hereinafter 
+referred to as the Convention), to make the provisions of the IMDG Code mandatory under the 
+Convention,  
+ 
+HAVING CONSIDERED, at its seventy-fifth session, the text of the proposed IMDG Code, 
+ 
+1. ADOPTS the International Maritime Dangerous Goods (IMDG) Code, the text of which is set 
+out in the Annex to the present resolution; 
+ 
+2. NOTES that, under the aforementioned amendments to chapter VII of the Convention, future 
+amendments to the IMDG Code shall be adopted, brought into force and shall take effect in 
+accordance with the provisions of article VIII of the Convention concerning the amendment 
+procedures applicable to the Annex to the Convention other than chapter I thereof; 
+ 
+3. INVITES Contracting Governments to the Convention to note that the IMDG Code will take 
+effect on 1 January 2004 upon entry into force of the amendments to chapter VII of the Convention;
+---
+SOURCE: MSC.122(75).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.122(75).pdf
+effect on 1 January 2004 upon entry into force of the amendments to chapter VII of the Convention; 
+ 
+4. AGREES that Contracting Governments to the Convention may apply the IMDG Code in 
+whole or in part on a voluntary basis as from 1 January 2003; 
+ 
+5. REQUESTS the Secretary-General to transmit certified copies of this resolution and its 
+Annex to all Contracting Governments to the Convention; 
+ 
+6. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and its 
+Annex to all Members of the Organization which are not Contracting Governments to the 
+Convention; 
+ 
+7. NOTES that the annexed IMDG Code supersedes the existing Code adopted by 
+resolution A.716(17). 
+ 
+ 
+ 
+RESOLUTION MSC.122(75) 
+(adopted on 24 May 2002) 
+ADOPTION OF THE INTERNATIONAL MARITIME 
+DANGEROUS GOODS (IMDG) CODEMSC 75/24/Add.1 
+ANNEX 12 
+Page 2 
+ 
+I:\MSC\75\24-ADD.1.DOC 
+ 
+ANNEX 
+ 
+ 
+INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE
+---
+SOURCE: MSC.122(75).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.122(75).pdf
+ANNEX 12 
+Page 2 
+ 
+I:\MSC\75\24-ADD.1.DOC 
+ 
+ANNEX 
+ 
+ 
+INTERNATIONAL MARITIME DANGEROUS GOODS (IMDG) CODE  
+ 
+ 
+(For reasons of economy, the complete text of the IMDG Code, as given in document  
+DSC 6/15/Add.1, has not been reproduced here.) 
+ 
+ 
+ 
+*** 
+ 
+RESOLUTION MSC.122(75) 
+(adopted on 24 May 2002) 
+ADOPTION OF THE INTERNATIONAL MARITIME 
+DANGEROUS GOODS (IMDG) CODERESOLUTION MSC.122(75) 
+(adopted on 24 May 2002) 
+ADOPTION OF THE INTERNATIONAL MARITIME 
+DANGEROUS GOODS (IMDG) CODE
+---
+
+SOURCE: MSC.59(67).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.59(67).pdf
+RESOLUTION MSC.59(67) 
+(adopted on 5 December 1996) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE 
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (IGC CODE)RESOLUTION MSC.59(67) 
+(adopted on 5 December 1996) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE 
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (IGC CODE) 
+TIlE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING ALSO resolution MSC.5(48) by which it adopted the International Code for the 
+Construction and Equipment of Ships Canying Liquefied Gases in Bulk (IGC Code), 
+RECALLING FURTHER article VIII(b) and regulation VIIII1.1 of the International Convention 
+for1he Safety ofllie at Sea (SOLAS), 1974, as amended, concerning the procedure for amending the IGC 
+Code, 
+BEING DESIROUS of keeping the IGC Code up to date,
+---
+SOURCE: MSC.59(67).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.59(67).pdf
+Code, 
+BEING DESIROUS of keeping the IGC Code up to date, 
+HAVING CONSIDERED , at its sixty-seventh session, amendments to the Code proposed and 
+circulated in accordance with article Vlll(b)(i) oftbe SOLAS Convention , 
+I. ADOPTS, in accordance with article VIII(b)(iv) of the SOLAS Convention, amendments to the 
+Code the text of which is set out in the Annex to the present resolution; 
+2, DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that the 
+amendments shall be deemed to have been accepted on 1 January 1998, unless, priorto that date, more 
+than one third of the Contracting Governments to the SOLAS Convention or Contracting Governments the 
+combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's 
+merchant fleet, have notified their objections to the amendments ; 
+3. INVITES Contracting Governments to note that, in accordance with article VlII(b)(vii)(2) of the
+---
+SOURCE: MSC.59(67).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.59(67).pdf
+3. INVITES Contracting Governments to note that, in accordance with article VlII(b)(vii)(2) of the 
+SOLAS Convention, the amendments shall enter into force on 1 July 1998 upon their acceptance in 
+accordance with paragraph 2 above; 
+4. REQUESTS the Secretaly~General, in confonnity with article VIII(b)(v) of the SOLAS Convention, 
+to transmit certified copies of the present resolution and the text of the amendments contained in the Annex 
+to all Contracting Governments to the SOLAS Convention; 
+5, FURlHER REQUESTS the Secretary-General to transmit copies of this resolution and its Annex 
+to Members of the Organization, which are not Contracting Governments to the SOLAS Convention. 
+RESOLUTION MSC.59(67) 
+(adopted on 5 December 1996) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE 
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (IGC CODE)- 2 -
+ANNEX 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE 
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING
+---
+SOURCE: MSC.59(67).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.59(67).pdf
+GASES IN BULK (IGC CODE)- 2 -
+ANNEX 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE 
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING 
+LIQUEFIED GASES IN BULK (IGC CODE) 
+CHAPTER 1 - GENERAL 
+The roIlowing new paragraph 1.3.30,3, is added after existing paragraph 1.3.30.2: 
+"1.3.30.3 Recognized standards are applicable international or national standards acceptable to 
+the Administration or standards laid dO\\Tl and maintained by an organization which complies with 
+the standards adopted by the Organization and which is recognized by the Administration." 
+CHAPTER 2 - SHIP SURVIVAL CAPABILITY AND LOCATION OF CARGO TANKS 
+2 In paragraph 2.3.3, the words "should be of a type acceptable to the Administration and" are 
+deleted and the words "and should comply with recognized standards" are added at the and of the 
+paragraph. 
+CHAPTER 3 - SHIP ARRANGEMENTS 
+3 In paragraph 3.8.1, the words "to the approval of the Administration and" are deleted . 
+CHAPTER 4 - CARGO CONTAINMENT
+---
+SOURCE: MSC.59(67).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.59(67).pdf
+3 In paragraph 3.8.1, the words "to the approval of the Administration and" are deleted . 
+CHAPTER 4 - CARGO CONTAINMENT 
+4 In paragraph 4.2.4.2, in the first sentence, the words "Recognized Standards* " are replaced by the 
+words "recognized standards" and the related footnote is deleted. 
+5 In par3.!,'rfaph 42.4 .3, in the second sentence, the words "(gravity tests)" are replaced by the words 
+"(gravity tanks)" . 
+6 In paragraph 4.2.4.4, the expression "55 N/mm2 for ferriticlmartensitic steel" is replaced by the 
+expression "55 N/mm2 for fenitic-perlitic , martensitic and austenitic steels". 
+7 In the introductory phrase ofparagraph4 .11.2, the words "with the approval of the Administration 
+and" are deleted. 
+CHAPTER 5 - PROCESS PRESSURE VESSELS AND LIQUID, 
+VAPOUR AND PRESSURE PIPING SYSTEMS 
+8 In paragraph 5.2.2.1, in the defmition of the efficiency factor "e", the exisitng text of the last 
+sentence is replaced by the following;
+---
+SOURCE: MSC.59(67).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.59(67).pdf
+8 In paragraph 5.2.2.1, in the defmition of the efficiency factor "e", the exisitng text of the last 
+sentence is replaced by the following; 
+"In other cases an efficiency factor of less than 1.0, in accordance with recognized standards, may 
+be required depending on the manufacturing process." 
+RESOLUTION MSC.59(67) 
+(adopted on 5 December 1996) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE 
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (IGC CODE)- 3 -
+9 In the paragraph 5.2.4.4, in the first sentence, the words "be to a standard acceptable to the 
+Administration " are replaced by the words "should comply with recognized standards" and at the end of 
+the second sentence , the words "by the Administration" are deleted, 
+10 In paragraph 5.4.1, the existing text of the second sentence is replaced by the following: 
+"Relaxations from these requirements may be accepted , in accordance with recognized standards ,
+---
+SOURCE: MSC.59(67).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.59(67).pdf
+"Relaxations from these requirements may be accepted , in accordance with recognized standards , 
+for piping inside cargo tanks and open~ended piping," 
+11 In paragraph 5.4.2,2, the words "satisfactory to the Administration" are replaced by the words" in 
+accordance with recognized standards". 
+12 In paragraph 5.4.2.3 , the words "acceptable to the Administration" are replaced by the words 
+"complying with recognized standards" . 
+}3 In paragraph 5.4.3.2, in the first sentence , the words "standards acceptable to the Administration" 
+are replaced by the words "recognized standards". 
+14 In paragraph 5.6.4, in the sixth sentence , the words "with 30 s of actuation" are replaced by the 
+words "within 30 s of actuation". 
+CHAPTER 8 - CARGO TANK VENT SYSTEMS 
+15 In paragraph 8.2.2, the words "to the satisfaction of the Administration" are replaced by the words 
+"complying with recognized standards". 
+CHAPTER II - FIRE PROTECTION AND FIRE EXTINCTION
+---
+SOURCE: MSC.59(67).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.59(67).pdf
+"complying with recognized standards". 
+CHAPTER II - FIRE PROTECTION AND FIRE EXTINCTION 
+16 In paragraph 11.2.4, in the second sentence , the words "All pipes , valves nozzles" are replaced by 
+the words "All pipes, valves, nozzles". 
+CHAPTER 13 - INSTRUMENTATION (GAUGING, GAS DETECTION) 
+17 In paragraph 13.3.1, in the last sentence, the word" Administration" is deleted and the words "port 
+Administration" are replaced by the words "port State authority". 
+18 In paragraph 13.6.9 , the expression "column hOI is replaced by the expression "colulIUl i". 
+CHAPTER 14 - PERSONNEL PROTECTION 
+19 In paragraph 14.4.1, the expression "colwnn h" is replaced by the expression "colulIUl i". 
+CHAPTER 16 - USE OF CARGO AS FUEL 
+20 In paragraph 16.5.6, in the second sentence , the words "and these arrangements should be 10 the 
+satisfaction of the Administration" are deleted . 
+RESOLUTION MSC.59(67) 
+(adopted on 5 December 1996) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE
+---
+SOURCE: MSC.59(67).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.59(67).pdf
+RESOLUTION MSC.59(67) 
+(adopted on 5 December 1996) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE 
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (IGC CODE)- 4 -
+CHAPTER 17 - SPECIAL REQUIREMENTS 
+2] In paragraph 17.20.3.1, in the first sentence, the words "or other material acceptable to the 
+Administration" are replaced by the words "in accordance with recognized standards, ~ and the second 
+sentence is deleted. 
+22 In paragraph 17.20.14, in the first sentence , the words "filling limits" are replaced by the words 
+"loading limits", 
+CHAPTER 19 - SUMMARY OF MINIMUM REQUIREMENTS 
+23 In column f of the table, for the product "Butadiene", the enb)' "F" is replaced by the entry "F+T". 
+RESOLUTION MSC.59(67) 
+(adopted on 5 December 1996) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE 
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (IGC CODE)
+---
+
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+RESOLUTION MSC.215(82) 
+(adopted on 8 December 2006) 
+PERFORMANCE STANDARD FOR PROTECTIVE COATINGS 
+FOR DEDICATED SEAWATER BALLAST TANKS IN ALL TYPES OF SHIPS 
+AND DOUBLE-SIDE SKIN SPACES OF BULK CARRIERSRESOLUTION MSC.215(82) 
+(adopted on 8 December 2006) 
+PERFORMANCE STANDARD FOR PROTECTIVE COATINGS 
+FOR DEDICATED SEAWATER BALLAST TANKS IN ALL TYPES OF SHIPS 
+AND DOUBLE-SIDE SKIN SPACES OF BULK CARRIERS 
+THE MARlT1ME SAFETY COMMITTEE , 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+NOTING the amendments to regulation s 11-1/3-2 and XJJl6 of the International 
+Convention for the Safety of Life at Sea (SOLAS), 1974, as amended (hereinafter referred to as 
+"the Convention "), adopted by resolution MSC.216(82), concerning protective coatings of 
+dedicated seawater ballast tanks and double-side skin spaces, 
+NOTING ALSO that the aforementioned regulation 11-113-2 provides that the protective
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+dedicated seawater ballast tanks and double-side skin spaces, 
+NOTING ALSO that the aforementioned regulation 11-113-2 provides that the protective 
+coatings referred to therein shall comply with the requirements of the Performance standard for 
+protective coatings for dedicated seawater ballast tanks in all types of ships and double-side skin 
+spaces of bulk carriers (hereinafter referred to as "the Performance standard for protective 
+coatings"), 
+RECOGNIZING that the Performance standard for protective coatings referred to above 
+is not intended to inhibit the development of new or novel technologies which provide for 
+alternative systems, 
+HAVING CONSIDERED, at its eighty-second session, the text of the proposed 
+Performance standard for protective coatings , 
+I. ADOPTS the Perfornlance standard for protectiv e coatings for dedicated seawater ballast 
+tanks in all types of ships and double-side skin spaces of bulk carriers, the text of which is set out
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+tanks in all types of ships and double-side skin spaces of bulk carriers, the text of which is set out 
+in the Annex to the present resolution; 
+2. INVITES Contracting Governments to th e Convention to note tbat the Performance 
+standard for protective coatings will take effect on I July 2008 upon entry into force of the 
+amendments to regulations J1-113-2 and XJJl6 of the Convention ; 
+3. REQUESTS the Secretary-General to transmit certified copies of this resolution and the 
+text of the Performance standard for protective coatings contained in the Annex to all Contracting 
+Governments to the Convention; 
+4. FURTHER REQU ESTS the Secretary-General to transmit copies of this resolution and 
+the Annex to all Member s of the Organization which are not Contracting Governments to the 
+Convention ; 
+5. INVITES Governments to encourage the development of novel technologi es aimed at 
+providing for alternative systems and to keep the Organization advised of any positive results.
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+providing for alternative systems and to keep the Organization advised of any positive results. 
+RESOLUTION MSC.215(82) 
+(adopted on 8 December 2006) 
+PERFORMANCE STANDARD FOR PROTECTIVE COATINGS 
+FOR DEDICATED SEAWATER BALLAST TANKS IN ALL TYPES OF SHIPS 
+AND DOUBLE-SIDE SKIN SPACES OF BULK CARRIERS- 2 -
+ANNEX 
+PERFORMANCE STANDARD FOR PROTECTIVE COATINGS FOR 
+DEDICATED SEAWATER BALLAST TANKS IN ALL TYPES OF SHIPS 
+AND DOUBLE-SIDE SKIN SPACES OF BULK CARRIERS 
+1 PURPOSE 
+This Standard provides technical requirements for protective coatings in dedicated seawater 
+ballast tanks of all type of ships of not less than 500 gross tonnage and double-side skin spaces 
+arranged in bulk carriers of 150 m in length and upwards for which the building contract is 
+placed, tbe keels of which are laid or which are delivered on or after the dates referred to in 
+SOLAS regulation 11-1/3-2 as adopted by resolution MSC.216(82). 
+2 DEFINITIONS
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+SOLAS regulation 11-1/3-2 as adopted by resolution MSC.216(82). 
+2 DEFINITIONS 
+For the purpose of this Standard, the following definitions apply. 
+2.1 Ballast tanks are those as defined in the Guidelines for the selection, application 
+and maintenance of corrosion prevention systems of dedicated seawater ballast tanks 
+(resolution A.798(19)) and the Guidelines on the enhanced programme of inspections during 
+surveys of bulk carriers and oil tankers (resolution A. 744( 18), as amended) . 
+2.2 Dew point is the temperature at which air is saturated with moisture . 
+2.3 DFT is dry film thickness . 
+2.4 Dust is loose particle matter present on a surface prepared for painting, arising from 
+blast-cleaning or other surface preparation processes, or resulting from the action of the 
+environment. 
+2.5 Edge grinding is the treatment of edges, beforc secondary surface preparation . 
+2.6 "GOOD" condition is the condition with minor spot rusting as defined III 
+resolution A. 744(18).
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+2.6 "GOOD" condition is the condition with minor spot rusting as defined III 
+resolution A. 744(18). 
+2.7 Hard coating is a coating that chemically converts during its curing process or a 
+non-convertible air drying coating which may be nsed for maintenance purposes. It can be either 
+inorganic or organic. 
+2.8 NDFT is nominal dry film thickness. A 90110 practice means that 90% of all 
+thickness measurements shall be greater than, or equal to, NDFT and none of the 
+remaining 10% measurements shall be below 0.9 x NDFT. 
+2.9 Primer coat is the first coat of the coating system applied III the shipyard after 
+shop-primer application. 
+2.10 Shop-primer is the prefabrication primer coating applied to steel plates, often in automatic 
+plants (and before the first coat of a coating system). 
+2.11 Stripe coating is painting of edges, welds, hard to reach areas, etc., to ensure good paint 
+adhesion and proper paint thickness in critical areas. 
+RESOLUTION MSC.215(82)
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+adhesion and proper paint thickness in critical areas. 
+RESOLUTION MSC.215(82) 
+(adopted on 8 December 2006) 
+PERFORMANCE STANDARD FOR PROTECTIVE COATINGS 
+FOR DEDICATED SEAWATER BALLAST TANKS IN ALL TYPES OF SHIPS 
+AND DOUBLE-SIDE SKIN SPACES OF BULK CARRIERS- 3 -
+2.12 Target useful life is the target value, in years , of the durability for which the coating 
+system is designed . 
+2.13 Technical Data Sheet is paint manufacturers' Product Data Sheet which contains detailed 
+technical instruction and information relevant to the coating and its application. 
+3 GENERAL PRINCIPLES 
+3.1 The ability of the coating system to reach its target useful life depends on the type of 
+coating system, steel preparation , application and coating inspection and maintenance. All these 
+aspects contribute to the good perform ance of the coating system. 
+3.2 Inspection of surface preparation and coating processes shall be agreed upon between the
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+3.2 Inspection of surface preparation and coating processes shall be agreed upon between the 
+shipowner , the shipyard and the coating manufacturer and presented to the Administration for 
+review . The Administration may, if it so requires, participate in the agreement process. 
+Clear evidence of these inspection s shall be reported and be included in the Coating Technical 
+File (CTF) (see paragraph 3.4). 
+3.3 When considering the Standard provided in section 4, the following is to be taken into 
+account : 
+.1 it is essential that specification s, procedur es and the various different steps in the 
+coating application process (including , but not limited to, surface preparation) are 
+strictly applied by the shipbuilder in order to prevent premature decay andlor 
+deterioration of the coating system; 
+.2 the coating performance can be improved by adopting measures at the ship design 
+stage such as reducing scallops, using rolled profiles, avoiding complex geometric
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+stage such as reducing scallops, using rolled profiles, avoiding complex geometric 
+configurations and ensuring that the structural configuration permits easy access 
+for tools and to facilitate cleaning , drainage and drying of the space to be coated; 
+and 
+.3 the coating performance standard provided in this document is based on 
+experience from manufa cturers , shipyards and ship operators; it is not intended to 
+exclude suitable alternative coating systems, providing a performance at least 
+equivalent to that specified in this Standard is demonstrated . Acceptance criteria 
+for alternative systems are provided in section 8. 
+3.4 Coating Technical File 
+3.4.1 Specification of the c oating system applied to the dedicated seawater ballast tanks 
+and double-s ide skin spaces, record of the shipyard 's and shipowner 's coating work, 
+detailed criteria for coating selection, job specifications , inspection, maintenance and repair shall
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+detailed criteria for coating selection, job specifications , inspection, maintenance and repair shall 
+be documented in the Coating Technical File, and the Coating Technical File shall be reviewed 
+by the Administration. 
+3.4.2 New cOllstruction stage 
+The Coating Technical File shall contain at least the following items relating to this Standard and 
+shall he delivered by the shipyard at new ship construction stage: 
+.1 copy of the Statement of Compliance or Type Approval Certificate; 
+RESOLUTION MSC.215(82) 
+(adopted on 8 December 2006) 
+PERFORMANCE STANDARD FOR PROTECTIVE COATINGS 
+FOR DEDICATED SEAWATER BALLAST TANKS IN ALL TYPES OF SHIPS 
+AND DOUBLE-SIDE SKIN SPACES OF BULK CARRIERS- 4 -
+.2 copy of the Technical Data Sheet, including: 
+.2.1 product name and identification mark andlor number; 
+.2.2 materials, components and composition of the coating system, colours; 
+.2.3 minimum and maximum dry film thickness; 
+.2.4 application methods, tools andlor machines;
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+.2.3 minimum and maximum dry film thickness; 
+.2.4 application methods, tools andlor machines; 
+.2.5 condition of surface to be coateu (de-rusting grade, cleanliness, profile, 
+etc.); and 
+.2.6 environmental limitations (temperature and humidity); 
+.3 shipyard work records of coating application, including: 
+.3.1 applied actual space and area (in square metres) of each compartment; 
+.3.2 applied coating system; 
+.3.3 time of coating, thickness, number of layers, etc.; 
+.3.4 ambient condition during coating; and 
+.3.5 method of surface preparation; 
+.4 proccdures for inspection and repair of the coating system during ship 
+construction; 
+.5 coating log issued by the coating inspector, stating that the coating was applied in 
+accordance with the specifications to the satisfaction of the coating supplier 
+representative and specifying deviations from the specifications (example of daily 
+log and non-conformity report see a1111ex 2); 
+.6 shipyard's verified inspection report, including:
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+log and non-conformity report see a1111ex 2); 
+.6 shipyard's verified inspection report, including: 
+.6.1 completion date of inspection; 
+.6.2 result of inspection; 
+.6.3 remarks (if given); and 
+.6.4 inspector signature; and 
+.7 procedures for in-service maintenance and repair of the coating system. 
+3.4.3 Tn-service mailltenance, repair and partial re-coating 
+In-service maintenance, repair and partial re-coating activities shall be recorded in the Coating 
+Technical File, in accordance with the Guidelines for coating maintenance and repair. 
+3.4.4 Re-coating 
+If a full re-coating is carried out, the items specified in paragraph 3.4.2 shall be recorded in the 
+Coating Technical File. 
+3.4.5 The Coating Technical File shall be kept on board and maintained throughout the life of 
+the ship. 
+3.5 Health and safety 
+The shipyard is responsible for the implementation of national regulations to ensure the health 
+and safety of individuals and to minimize the risk of fire and explosion.
+---
+SOURCE: MSC.215(82).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.215(82).pdf
+and safety of individuals and to minimize the risk of fire and explosion. 
+RESOLUTION MSC.215(82) 
+(adopted on 8 December 2006) 
+PERFORMANCE STANDARD FOR PROTECTIVE COATINGS 
+FOR DEDICATED SEAWATER BALLAST TANKS IN ALL TYPES OF SHIPS 
+AND DOUBLE-SIDE SKIN SPACES OF BULK CARRIERS
+---
