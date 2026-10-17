@@ -1,0 +1,3461 @@
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+RESOLUTION MSC.332(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF AMENDMENTS TO THE EXISTING MANDATORY SHIP REPORTING 
+SYSTEM "IN THE STOREBÆLT (GREAT BELT) TRAFFIC AREA (BELTREP)"MSC 90/28/Add.1 
+Annex 20, page 1 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+ANNEX 20 
+  
+RESOLUTION MSC.332(90) 
+(adopted on 22 May 2012) 
+ 
+ADOPTION OF AMENDMENTS TO THE EXISTING MANDATORY SHIP REPORTING 
+SYSTEM "IN THE STOREBÆLT (GREAT BELT) TRAFFIC AREA (BELTREP)" 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING article 28 (b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO regulation V/11 of the International Convention for the Safety of Life at 
+Sea, 1974 (SOLAS Convention), in relation to the adoption of mandatory ship reporting 
+systems by the Organization, 
+ 
+RECALLING FURTHER resolution A.858(20) resolving that the function of adopting ship 
+reporting systems shall be performed by the Committee on behalf of the Organization,
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+reporting systems shall be performed by the Committee on behalf of the Organization, 
+ 
+TAKING INTO ACCOUNT the guidelines and criteria for ship reporting systems adopted by 
+resolution MSC.43(64), as amended by resolutions MSC.111(73) and MSC.189(79), 
+ 
+HAVING CONSIDERED the recommendations of the Sub-Committee on Safety of 
+Navigation, at its fifty-seventh session, 
+ 
+1. ADOPTS, in accordance with SOLAS regulation V/11, the amendments to the existing 
+mandatory ship reporting system "In the Storebælt (Great Belt) traffic area (BELTREP)"; 
+ 
+2. DECIDES that the said amended mandatory ship reporting system "In the Storebælt 
+(Great Belt) traffic area (BELTREP)" will enter into force at 0000 hours UTC on 1 July 2013; 
+ 
+3. REQUESTS the Secretary-General to bring this resolution and its annex to the attention 
+of the Member Governments and Contracting Governments to the 1974 SOLAS Convention. 
+RESOLUTION MSC.332(90) 
+(adopted on 22 May 2012)
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+of the Member Governments and Contracting Governments to the 1974 SOLAS Convention. 
+RESOLUTION MSC.332(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF AMENDMENTS TO THE EXISTING MANDATORY SHIP REPORTING 
+SYSTEM "IN THE STOREBÆLT (GREAT BELT) TRAFFIC AREA (BELTREP)"MSC 90/28/Add.1 
+Annex 20, page 2 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+ANNEX 
+ 
+MANDATORY SHIP REPORTING SYSTEM 
+"IN THE STOREBÆLT (GREAT BELT) TRAFFIC AREA (BELTREP)" 
+ 
+ 
+1 Categories of ships required to participate in the system 
+ 
+1.1 Ships passing through or proceeding to and from ports and anchorages in the 
+BELTREP area are required to participate in the ship reporting system as follows: 
+ 
+1.1.1 ships with a gross tonnage of 50 and above; 
+ 
+1.1.2 all ships with an air draught of 15 m or more; and 
+ 
+1.1.3 pleasure craft with a length less than 15 m or with a gross tonnage less 
+than 50 are exempted from participation. 
+ 
+2 Geographical coverage of the system and the number and edition of the
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+than 50 are exempted from participation. 
+ 
+2 Geographical coverage of the system and the number and edition of the 
+reference chart used for delineation of the system 
+ 
+2.1 The mandatory ship reporting system BELTREP is operated by Great Belt VTS.  
+The call sign is "Belt Traffic". 
+ 
+2.2 The operational area of BELTREP covers the central and northern part of the 
+Storebælt (Great Belt) and the Hatter Barn area north of Storebælt (Great Belt) at the 
+entrance to the Baltic Sea, as shown below and on the chartlet given in appendix 1-A.  
+The area includes the routeing systems at Hatter Barn, in the Storebælt (Great Belt) area 
+and Langelandsbælt, all adopted by the Organization.  The BELTREP area also includes the 
+central part of route Tango. Datum; World Geodetic System 1984 (WGS 84): 
+ 
+ 2.2.1 Report- and borderline West (RW) 
+ 
+ Fyn: 1) 55° 36 ′.00 N, 010° 38′.00 E (Korshavn) 
+ Samsø: 2) 55° 47 ′.00 N, 010° 38′.00 E (East coast of Samsø)
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+Fyn: 1) 55° 36 ′.00 N, 010° 38′.00 E (Korshavn) 
+ Samsø: 2) 55° 47 ′.00 N, 010° 38′.00 E (East coast of Samsø) 
+ 
+ 2.2.2 Report- and borderline North (RN) 
+ 
+ Samsø: 2) 55° 47 ′.00 N, 010° 38′.00 E (East coast of Samsø) 
+  3) 56° 00 ′.00 N, 010° 56′.00 E (At sea near Marthe Flak) 
+ Sjælland: 4) 56° 00 ′.00 N, 011° 17′.00 E (Sjællands Odde) 
+  
+ 2.2.3 Report- and borderline South (RS) 
+ 
+ Stigsnæs: 5) 55° 12 ′.00 N, 011° 15′.40 E (Gulfhavn) 
+ Omø: 6) 55° 08 ′.40 N, 011° 09′.00 E (Ørespids, Omø) 
+ 7) 55° 05 ′.00 N, 011° 09′.00 E (At sea south of Ørespids) 
+ Langeland E: 8) 55° 05 ′.00 N, 010° 56′.10 E (Snøde Øre) 
+ 
+ 2.2.4 Report- and borderline Southwest (RSW) 
+ 
+ Langeland W: 9) 55° 00 ′.00 N, 010° 48′.70 E (South of Korsebølle Rev) 
+ Thurø Rev:   10) 55° 01 ′.20 N, 010° 44′.00 E (Thurø Rev Light buoy) 
+ 
+RESOLUTION MSC.332(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF AMENDMENTS TO THE EXISTING MANDATORY SHIP REPORTING
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+RESOLUTION MSC.332(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF AMENDMENTS TO THE EXISTING MANDATORY SHIP REPORTING 
+SYSTEM "IN THE STOREBÆLT (GREAT BELT) TRAFFIC AREA (BELTREP)"MSC 90/28/Add.1 
+Annex 20, page 3 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+ 2.2.5 Sector division 
+ 
+ The BELTREP area is divided into two sectors at latitude 11) 55°35 ′.00 N; sector 1 
+northerly and sector 2 southerly.  Each sector has an assigned VHF channel as 
+shown in appendix 2. 
+ 
+2.3 The reference charts (Datum: World Geodetic System 1984, WGS 84), which 
+include the operational area of BELTREP, are Danish charts nos. 112 (15th edition 2010), 
+128 (10th edition 2009), 141 (21st edition 2010), 142 (18th edition 2010), 143 (19th edition 2009) 
+and 160 (7th edition 2007). 
+ 
+3 Format, content of reports, times and geographical positions for submitting 
+reports, authority by whom reports should be sent and available services 
+ 
+3.1 Procedures of reporting
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+reports, authority by whom reports should be sent and available services 
+ 
+3.1 Procedures of reporting  
+ 
+3.1.1 All BELTREP reports must be made to Great Belt VTS using VHF voice 
+transmissions.  However, ships are encouraged to fulfil certain reporting 
+requirements of the reporting system by the use of correct and updated  
+AIS information (Automatic Identification System) class A as approved by the 
+Organization and by non-verbal means as e-mail or similar, prior to entering the ship 
+reporting area.  Details are given in appendix 3. 
+ 
+3.1.2 The use of correct and updated AIS information can accomplish the 
+reporting requirements for designators A, B, C, E, F, G and I, O and W.  Details are 
+given in appendix 3. 
+ 
+3.1.3 To minimize the time reporting on the VHF radio channels and to avoid 
+interference with essential navigational duties, ships are encouraged to forward the 
+reporting requirements for designators L, P, T and X by e-mail or similar prior to
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+reporting requirements for designators L, P, T and X by e-mail or similar prior to 
+entering the ship reporting area.  Such non-verbal partial reports must also state 
+designators A and H. Reporting designators L, P, T and X prior to entry using mobile 
+phone is also accepted as a means of communication.  Details are given in 
+subparagraph 3.5 and appendix 3. 
+ 
+3.1.4 A ship which fulfils the reporting requirements of the BELTREP mandatory 
+ship reporting system by the use of correct and updated AIS information and prior 
+non-verbal means must, as a minimum, carry out a VHF voice transmission to 
+communicate the name of the ship (part of designator A), air draught and 
+deadweight tonnage (designator U) and the report line of entry to the Great Belt VTS 
+when actually entering the area.  The same procedure must be followed before 
+departing a port or leaving an anchorage in the BELTREP area.  Details are given in 
+appendix 3.
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+departing a port or leaving an anchorage in the BELTREP area.  Details are given in 
+appendix 3. 
+ 
+3.1.5 Designator Q or R, if applicable, shall at all times be given using VHF voice 
+transmission to Great Belt VTS.  Details are given in appendix 3. 
+ 
+3.2 Verbal reporting is not required when a ship passes the BELTREP sector line at 
+latitude 55° 35′.00 N.  However, sector change of VHF frequency is required according to 
+appendix 2. 
+ 
+RESOLUTION MSC.332(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF AMENDMENTS TO THE EXISTING MANDATORY SHIP REPORTING 
+SYSTEM "IN THE STOREBÆLT (GREAT BELT) TRAFFIC AREA (BELTREP)"MSC 90/28/Add.1 
+Annex 20, page 4 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+3.3 Format 
+ 
+ 3.3.1 The mandatory ship report shall be drafted in accordance with the  
+format shown in appendix 3.  The information requested from ships is derived  
+from the Standard Reporting Format shown in paragraph 2 of the appendix to 
+resolution A.851(20). 
+ 
+3.4 Content
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+from the Standard Reporting Format shown in paragraph 2 of the appendix to 
+resolution A.851(20). 
+ 
+3.4 Content 
+ 
+ 3.4.1 A report from a ship to BELTREP by AIS, non-verbal means or by voice 
+transmission or combinations thereof must contain the following information; details 
+are given in appendix 3: 
+ 
+ A name of the ship, call sign, MMSI no. and, if available, IMO identification 
+number; 
+ B date and time; 
+ C position expressed in latitude and longitude; 
+ E true course; 
+ F speed; 
+ G and I last port of call, destination and ETA; 
+ H date, time (UTC) and report line of entry into the BELTREP area; 
+ L route information on the intended route through the BELTREP area; 
+ O maximum present draught; 
+ P cargo and, if dangerous goods present on board, quantity and IMO class. 
+Dangerous goods information must be summarized in total tonnes per 
+IMO class; 
+ Q or R defects, deficiencies, limitations – pollution or dangerous goods lost 
+overboard;
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+IMO class; 
+ Q or R defects, deficiencies, limitations – pollution or dangerous goods lost 
+overboard; 
+ T address for the communication of cargo information; 
+ U air draught, deadweight tonnage; 
+ W total number of persons on board; and 
+ X type and estimated quantity of bunker fuel, for ships of 1,000 GT and 
+above.  Must be summarized in total tonnes per type. 
+ 
+ Note: 
+ a) The master of the ship must forthwith inform the Great Belt VTS concerned 
+of any change in navigational status or in previous information notified, 
+particularly in relation to designator Q or R. 
+ 
+3.5 Geographical position for submitting reports 
+ 
+ 3.5.1 Ships entering the BELTREP operational area shall submit a report when 
+crossing the report line or on departure from a port or anchorage within the 
+operational area. 
+ 
+ 3.5.2 Previously forwarded reports can be submitted at any time after entering 
+the Danish Exclusive Economic Zone (EEZ) and until in reach of VHF range of
+---
+SOURCE: MSC.332(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.332(90).pdf
+the Danish Exclusive Economic Zone (EEZ) and until in reach of VHF range of 
+Great Belt VTS at an approximate distance of 20 NM from the BELTREP area.  
+As the Great Belt VTS must be able to timely handle incoming prior reporting, it will 
+not be possible to undertake pre-entry reports within the 20 NM VHF range.  
+The reporting option is then verbal reporting by VHF when crossing the report line of 
+entry.  Details of areas are shown on the chartlet in appendix 1-B.  The Danish EEZ 
+border lines are shown in nautical charts. 
+ 
+RESOLUTION MSC.332(90) 
+(adopted on 22 May 2012) 
+ADOPTION OF AMENDMENTS TO THE EXISTING MANDATORY SHIP REPORTING 
+SYSTEM "IN THE STOREBÆLT (GREAT BELT) TRAFFIC AREA (BELTREP)"
+---
+
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+RESOLUTION MSC.24(60) 
+(adopted on 10 April 1992) 
+ADOPTION OF AMENDMENTS TO CHAPTER II-2 OF THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974  FIRE SAFETY MEASURES FOR EXISTING PASSENGER SHIPS RESOLUTION MSC . 24(60) 
+(adopted on 10 April 1992) 
+ADOPTION OF AMENDMENTS TO CHAPTER 11-2 OF THE INTERNATIONAL 
+CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 
+FIRE SAFETY MEASURES FOR EXISTING PASSENGER SHIPS 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Arti cle 28(b) of the Convention on the Inte~national Ma~itime 
+Organization concerning the functions of the Committee, 
+RECALLING FURTHER article VIII(b) of the International Convention for 
+the Safety of Lif e at Sea, 1974, hereinafter referred to as "the Convention", 
+concerning the procedures for amending the Annex to the Convention, othe~ than 
+the provisions of chapter I , 
+BEING CONCERNED about recent serious fire casualties resulting in the 
+loss of human life,
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+the provisions of chapter I , 
+BEING CONCERNED about recent serious fire casualties resulting in the 
+loss of human life, 
+RECOGNIZING that there is a compelling and urgent need to improve the 
+fire safety measur es for existing passenger ships, 
+HAVING CONSIDERED at its sixtieth session amendments to the Convention 
+proposed and ci~ culated in accordan ce with article VIII(b)(i) thereof, 
+1. ADOPTS, in accordance with article Vllt(b)(iv) of the Convention, the 
+amendments to the Convention. the text of which i s set out in the Annex to 
+the present resolution; 
+2. DETERMINES, in accordance with article VIlI(b)(vi)(2)(bb) of the 
+Convention, that the amendments shall be deemed to have been ac ce pted on 
+1 April 1994 unless, prior to that date , more than one third of the 
+Contracting Governments to the Convention, or Contracting Governments the 
+combined merchant fleets of which constitute not less than 50 per cent of the
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+combined merchant fleets of which constitute not less than 50 per cent of the 
+gross tonnage of the world's merchant fleet, have not ified their objections 
+t o the amendments; 
+3. INVITES Contracting Governments to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into 
+force on 1 October 1994 upon their acceptance in accordance with paragraph 2 
+above; 
+4. REQUESTS the Secretary-General, in conformity with article Vlll(b)(v) 
+of the Convention, to transmit certified copies of the present resolution 
+and the text of the amendments contained in the Annex to all Contracting 
+Governments to the Conventionj 
+5. FURTHER REQUESTS the Secretary-G eneral to transmit copies of the 
+resolution t o Members of the Organization whi ch are not Contracting 
+Governments to the Convention. 
+RESOLUTION MSC.24(60) 
+(adopted on 10 April 1992) 
+ADOPTION OF AMENDMENTS TO CHAPTER II-2 OF THE INTERNATIONAL CONVENTION FOR THE
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+RESOLUTION MSC.24(60) 
+(adopted on 10 April 1992) 
+ADOPTION OF AMENDMENTS TO CHAPTER II-2 OF THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974  FIRE SAFETY MEASURES FOR EXISTING PASSENGER SHIPS - 2 -
+ANNEX 
+AMENDMENTS TO CHAPTER 11-2 OF THE INTERNATIONAL CONVENTION 
+FOR THE SAFETY OF LIFE AT SEA, 1974 
+Regulation 1 - Application 
+1 Existing paragraph 3 is renumbered 8S paragraph 3.1 and the following 
+new paragraph 3.2 is in.erted after paragraph 3.1: 
+"3.2 Notwithstanding the provisions of paragraph 3.1, passenger ships 
+carrying more than 36 passengers when undergoing repairs, alterations. 
+modifications and outfitting related thereto shall comply with the 
+£ollowing~ 
+.1 all materials introduced to these ships shall comply with the 
+requirements with regard to material applicable to ships 
+constructed on or after 1 October 1994; and 
+.2 all repairs , alterations, modifications and outfitting related
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+constructed on or after 1 October 1994; and 
+.2 all repairs , alterations, modifications and outfitting related 
+thereto involving the replac ement of material of 50 tonnes or above, 
+other than that required by regulation 41-1, ahall comply with the 
+requirements appli cable to such ships constructed on or after 
+I October 1994." 
+Regulation 3 - Definitions 
+2 The following new paragraphs 22-1 and 22-2 are inserted after existing 
+paragraph 22 ~ 
+"22-1 "Central control station" is a control station in which the 
+following control and indicator functions are centralized: 
+.1 fixed fire detection and alarm s ystem; 
+.2 automatic sprinklers, fire detection and alarm system ; 
+.3 fire door indicator panel; 
+.4 fire door closure; 
+.5 watertight door indicator panel; 
+.6 watertight door opening and closing; 
+.7 ventilation fans; 
+.8 general/fire slarm; 
+.9 communication systems including telephones; and 
+.10 microphone to public address system.
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+.7 ventilation fans; 
+.8 general/fire slarm; 
+.9 communication systems including telephones; and 
+.10 microphone to public address system. 
+22-2 "Continuously manned central control station" is a central control 
+station which is continUOUSly manned by a responsible member of the crew." 
+Regulation 17 - Fireman's outfit 
+3 The fOllowing sentence is added at the end of existing paragraph 1.2.2: 
+"In passenger ships carrying more than 36 passengers, at least two spare 
+charges for each breathing apparatus shall be provided, and all air 
+cylinders for bresthing apparatus shall be interchangeable". 
+RESOLUTION MSC.24(60) 
+(adopted on 10 April 1992) 
+ADOPTION OF AMENDMENTS TO CHAPTER II-2 OF THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974  FIRE SAFETY MEASURES FOR EXISTING PASSENGER SHIPS - 3 -
+4 The following sentence is added at the end of existing paragraph 3.1.1: 
+"In passenger ships carrying more than 36 passengers. two additional
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+4 The following sentence is added at the end of existing paragraph 3.1.1: 
+"In passenger ships carrying more than 36 passengers. two additional 
+fireman's outfit shall be provided for each main vertical zone". 
+5 The following sentence is added at the end of existing paragraph ~: 
+"At least two fireman's outfits shall be stored in each main vertical 
+zone", 
+6 The following new regulations 41-1 and 41-2 are inserted after existing 
+regulation 41: 
+"Regulation 41-1 
+Upgrading of passenger ships carrying more than 36 passengers 
+constructed before 1 October 1994 
+1 This regulation shall apply to passenger ships carrying more than 
+36 passengers constructed before 1 October 1994. 
+2 Passenger ships which do not comply with all the requirements of 
+chapter 11-2 applicable to ships constructed on or after 25 May 1980 
+(requirements of chapter 11-2 of the International Convention for the Safety 
+of Life at Sea, 1974, as adopted by the International Conference on Safety of
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+of Life at Sea, 1974, as adopted by the International Conference on Safety of 
+Life at Sea. 1974, applicable to new passenger ships) shall comply with the 
+following: 
+.1 paragraph 1 of regulation 41-2 not later than 1 October 1994; and 
+.2 paragraphs 2, 3. 4 and 5 of regulation 41-2. not later than 
+1 October 1997; and 
+.3 paragraph 6 of regulation 41-2 not later than 1 October 2000; and 
+.4 all the requirements of chapter 11-2 applicable to ships construc t ed 
+on or after 25 May 1980 (requirements of chapter 11-2 of the 
+International Convention for the Safety of Life at Sea, 1974, as 
+adopted by the International Conference on Safety of Life at Sea, 
+1974, applicable to new passenger ships), not later than 
+1 October 2010. 
+3 Passenger ships which comply with all the requirements applicable to 
+ships constructed on or after 25 Hay 1980 (applicable requirements of 
+chapter 11-2 of the International Convention for the Safety of Life at Sea,
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+ships constructed on or after 25 Hay 1980 (applicable requirements of 
+chapter 11-2 of the International Convention for the Safety of Life at Sea, 
+1974, as amended by resolutions HSC.l(XLV), MSC.6(48), HSC.ll(55), MSC.12(56) , 
+MSC.13(57) and HSC.22(S9» shall comply with the following: 
+.1 paragraph 1 of regulation 41-2 not later than 1 October 1994; and 
+.2 paragraphs 2 and 4 of regulation 41-2 not later than 
+1 October 1997; and 
+.3 paragraph 6 pf regulation 41-2 not la ter than October 2000; and 
+.4 paragraph S of regulation 41-2 not later than 1 October 2005 or 
+IS years after the date of construction of the ships, whichever is 
+lat er. 
+RESOLUTION MSC.24(60) 
+(adopted on 10 April 1992) 
+ADOPTION OF AMENDMENTS TO CHAPTER II-2 OF THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974  FIRE SAFETY MEASURES FOR EXISTING PASSENGER SHIPS - 4 -
+4 For the purpose of this regulation, passenger ships complying in their
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+4 For the purpose of this regulation, passenger ships complying in their 
+entirety with all the requirements of part H of chapter 11 contained in 
+amendments to the International Convention for the Safety of Life at Sea, 
+1960, adopted by the Assembly of the Organization by resolution A. 122(V). may 
+be regarded 8S passenger ships complying with the requirements applicable to 
+passenger ships constructed on or after 25 Hay 1980 (requirements of 
+chapter 11-2 of the International Convention for the the Safety of Life 
+at Sea. 1974, 8a adopted by the International Conference on Safety of Life 
+at Sea, 1974, applicable to new passenger ships). 
+Regulation 41-2 
+Requirements for passenger ships carrying more than 36 passengers 
+constructed before 1 October 1994 
+1. 1 Plans and booklets required by regulation 20 ahall provide the 
+information regarding fire protection, fire detection and fire extinction 
+based on the guidelines developed by the Organization.
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+information regarding fire protection, fire detection and fire extinction 
+based on the guidelines developed by the Organization. 
+1.2 Each member of the fire patrol shall be provided with a two-way portable 
+radiotelephone apparatus. 
+1.3 Water fog applicators shall be provided as required in regulations 7.6, 
+17.3 . 2 and 37.1 . 5.1. 
+1.4 Portable foam applicators shall be provided as required in regulations 
+7.1.2, 7.2 . 2 and 37.1.5.2. 
+1.5 All hose nozzles provided shall be of an approved dual-purpose type 
+(i.e . spray/jet type) incorporating a shutoff . 
+2 All accommodation and service spaces, stairway enclosures and corridors 
+shall be equipped with a smoke detection and alarm system of an approved type 
+and complying with the requirements of regulation 13. Such system need not be 
+fitted in private bathrooms, and spa ces having little or no fire risk such as 
+voids and similar spaces. Detectors operated by heat instead of smoke shall 
+be installed in galleys.
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+voids and similar spaces. Detectors operated by heat instead of smoke shall 
+be installed in galleys. 
+3 Smoke detectors connected to the smoke detection and alarm system shall 
+also be fitte d above ceilings in stairways and corridors in the areas where 
+ceilings are of combustible construction. 
+4.1 Hinged fire doors in stairway enclosures, main vertical zone bulkheads 
+and galley boundaries which are normally kept open shall be self-closing and 
+be capable of release from a central control station and from a pos ition at 
+the door. 
+4.2 A panel shall be placed in a continuously manned central control station 
+to indi cate whether the fire doors on stairway enclosures, main vertical zone 
+bulkheads and galley boundaries are clo sed. 
+4.3 Exhaust ducts from galley ranges where grease or fat is likely to 
+accumulate and which pass through accommodation spaces or spaces containing 
+combus t i ble mat erials shall be constructed of "A" class divisions . Each
+---
+SOURCE: MSC.24(60).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.24(60).pdf
+combus t i ble mat erials shall be constructed of "A" class divisions . Each 
+galley range exhaust duct ahall be fitted with: 
+RESOLUTION MSC.24(60) 
+(adopted on 10 April 1992) 
+ADOPTION OF AMENDMENTS TO CHAPTER II-2 OF THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974  FIRE SAFETY MEASURES FOR EXISTING PASSENGER SHIPS
+---
+
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+RESOLUTION MSC.54(66) 
+(adopted on 30 May 1996) 
+ADOPTION OF AMENDMENTS TO THE RECOMMENDATION 
+ON TESTING OF LIFE-SAVING APPLIANCES  
+(RESOLUTION A.689(17)) MSC 66/24/Add.2 
+ 
+ 
+I:\MSC\66\24-A2  
+ 
+ 
+ 
+ANNEX 15 
+ 
+RESOLUTION MSC.54(66)  
+(adopted on 30 May 1996)  
+ 
+  
+ADOPTION OF AMENDMENTS TO THE RECOMMENDATION ON TESTING  
+OF LIFE-SAVING APPLIANCES (RESOLUTION A.689(17)) 
+ 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee,  
+ 
+RECALLING ALSO that the Assembly, when adopting resolution A.689(17) on Testing of 
+life-saving appliances, authorized the Committee to keep the Recommendation on testing of life-saving 
+appliances under review and to adopt, when appropriate, amendment thereto, 
+ 
+RECOGNIZING the need to introduce more precise testing requirements in the testing of 
+life-saving appliances,
+---
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+RECOGNIZING the need to introduce more precise testing requirements in the testing of 
+life-saving appliances, 
+ 
+HAVING CONSIDERED the recommendations made by the Sub-Committee on Life-Saving, 
+Search and Rescue, at its twenty-sixth session, and the Sub-Committee on Ship Design and Equipment, at 
+its thirty-ninth session, upon revew of the Recommendation, 
+ 
+1. ADOPTS amendments to the Recommendation on Testing of Life-Saving Appliances (annex to 
+resolution A.689(17)) set out in the Annex to the present resolution; 
+ 
+2. RECOMMENDS Governments to ensure that life-saving appliances are subjected to: 
+ 
+.1 the tests recommended in the Annex to resolution A.689(17) as amended by the present 
+resolution;  or 
+ 
+.2 such tests as the Administration is satisfied are substantially equivalent to those 
+recommended by the above resolution. 
+RESOLUTION MSC.54(66) 
+(adopted on 30 May 1996) 
+ADOPTION OF AMENDMENTS TO THE RECOMMENDATION 
+ON TESTING OF LIFE-SAVING APPLIANCES
+---
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+RESOLUTION MSC.54(66) 
+(adopted on 30 May 1996) 
+ADOPTION OF AMENDMENTS TO THE RECOMMENDATION 
+ON TESTING OF LIFE-SAVING APPLIANCES  
+(RESOLUTION A.689(17))MSC 66/24/Add.2 
+ANNEX 15 
+Page 2 
+ 
+ 
+ 
+ 
+ 
+I:\MSC\66\24-A2  
+ 
+ ANNEX  
+ 
+ 
+ AMENDMENTS TO THE RECOMMENDATION ON  
+ TESTING OF LIFE-SAVING APPLIANCES 
+ (RESOLUTION A.689(17), ANNEX)  
+ 
+ 
+ 
+Part 1 - Prototype testing for life-saving appliances 
+ 
+1 Replace the present text of subparagraph 2.8.2 by the following: 
+ 
+"2.8.2 These tests should be carried out with at least six able-bodied persons of the following 
+heights and weights: 
+ 
+Height   Weight 
+ 
+1.40 m - 1.60 m 1 person under 60 kg 
+1 person over 60 kg 
+ 
+1.60 m - 1.80 m 1 person under 70 kg 
+1 person over 70 kg 
+ 
+over 1.80 m  1 person under 80 kg 
+1 person over 80 kg 
+ 
+.1  at least one and not more than two of the persons should be females with not more than 
+one female in the same height range;
+---
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+.1  at least one and not more than two of the persons should be females with not more than 
+one female in the same height range; 
+ 
+.2 for the approval of the lifejackets, the test results obtained from each of the participating 
+subjects should be acceptable except as provided otherwise." 
+ 
+2 Replace the present text of subparagraph 2.9.2 by the following: 
+ 
+"2.9.2 These tests should be carried out with at least six persons as described in 2.8.2.  Only 
+good swimmers should be used, since the ability to relax in the water is rarely otherwise 
+obtained." 
+ 
+3 Insert "or anti-exposure suit" after "immersion suit" in subparagraphs 3.1.2 to 3.1.5, 3.1.7 to 
+3.1.13, 3.1.15 to 3.1.18. 
+ 
+4 Change the heading of paragraph 3 to read as follows: 
+ 
+"IMMERSION SUITS, ANTI-EXPOSURE SUITS AND THERMAL PROTECTIVE AIDS" 
+ 
+5 Add "and anti-exposure suits" to the heading of subparagraph 3.1. 
+RESOLUTION MSC.54(66) 
+(adopted on 30 May 1996) 
+ADOPTION OF AMENDMENTS TO THE RECOMMENDATION
+---
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+RESOLUTION MSC.54(66) 
+(adopted on 30 May 1996) 
+ADOPTION OF AMENDMENTS TO THE RECOMMENDATION 
+ON TESTING OF LIFE-SAVING APPLIANCES  
+(RESOLUTION A.689(17)) MSC 66/24/Add.2 
+ ANNEX 15 
+ Page 3 
+ 
+ 
+ 
+ 
+ 
+I:\MSC\66\24-A2  
+ 
+6 Replace the present text of subparagraph 3.1.1 by the following: 
+ 
+"3.1.1 These tests should be carried out with at least six persons as described in 2.8.2." 
+ 
+7 Add at the end of the subparagraph 3.1.5 the following sentence: 
+ 
+"The diameter of the pencil shall be 8-10 mm." 
+ 
+8 Replace the present text of subparagraph 3.1.7 by the following: 
+ 
+"3.1.7 When wearing the immersion suit, or anti-exposure suit, in conjunction with a life-jacket 
+if required, the test subjects should float face-up with their mouths clear of the water by at least 
+120 mm and be stable in that position.  The freeboard should be measured from the water surface 
+to the nose and mouth with the test subject at rest.  The freeboard of the anti-exposure suit without
+---
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+to the nose and mouth with the test subject at rest.  The freeboard of the anti-exposure suit without 
+a life-jacket should be at least 50 mm." 
+ 
+9 Add at the end of subparagraph 3.1.10 the following sentence: 
+ 
+"It should be established by questioning the test subjects that the suit does not injure the wearer as 
+a result of this test." 
+ 
+10 Replace the present text of subparagraph 3.1.11 by the following: 
+ 
+.1 The ingress of water into the pre-wetted suit should not ex ceed a mass of 200 g following: 
+ 
+.1 a period of flotation in calm water for 1 h; or 
+ 
+.2 swimming for 20 min for a distance of at least 200 m;  
+ 
+.2 The mass of water ingress should be measured by weighing the test subject and the suit in 
+accordance with the method prescribed in subparagraph 3.1.9." 
+ 
+11 Replace the present text of subparagraph 3.1.18 by the following: 
+ 
+"3.1.18   The immersion suit or AES should be subjected to the body strength tests prescribed
+---
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+"3.1.18   The immersion suit or AES should be subjected to the body strength tests prescribed 
+in 2.6.1, except the load applied should be 1350 N.  The immersion suit or anti-exposure suit may 
+be cut if necessary to accommodate the test device." 
+ 
+12 Replace the present text of paragraphs 3.2 and 3.3 by the following: 
+ 
+"3.2 Thermal protective tests 
+ 
+3.2.1 General 
+ 
+3.2.1.1  These tests should be performed as described below.  The thermal protective qualities 
+may be measured using a thermal manikin, when such a method is required by an Administration 
+RESOLUTION MSC.54(66) 
+(adopted on 30 May 1996) 
+ADOPTION OF AMENDMENTS TO THE RECOMMENDATION 
+ON TESTING OF LIFE-SAVING APPLIANCES  
+(RESOLUTION A.689(17))MSC 66/24/Add.2 
+ANNEX 15 
+Page 4 
+ 
+ 
+ 
+ 
+ 
+I:\MSC\66\24-A2  
+ 
+and has been demonstrated to provide test results which correlate satisfactorily in all aspects to 
+test results using human subjects.
+---
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+and has been demonstrated to provide test results which correlate satisfactorily in all aspects to 
+test results using human subjects. 
+ 
+3.2.1.2  If the test should be performed by human subjects, they should be medically examined 
+before being accepted for participation in the tests.  Each design of immersion suit or 
+anti-exposure suit is to be tested by the test subjects specified in subparagraph 3.1.1. 
+ 
+3.2.1.3  Where human subjects are used, the tests should always be conducted under the 
+supervision of a physician.  Emergency resuscitation equipment should be available during all 
+tests. For safety reasons, ECG should be monitored during every test.  Testing should be stopped 
+at the wish of the test subjects, if the falling rate of the core temperature is more than 1.5°C per 
+hour after the first half hour, if the skin temperature of the hand, foot or lumbar region should fall 
+below 10°C, or if the attending physician considers it advisable.
+---
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+below 10°C, or if the attending physician considers it advisable. 
+ 
+3.2.1.4  When testing with human subjects, continuous body core temperature (rectal 
+temperature) and skin temperatures of lumbar region, both hands, calves, feet (foot instep) and 
+heels, should be measured.  The accuracy of the measuring system should be ±0.2°C.  Appropriate 
+corresponding measurements should be taken if a manikin is used in lieu of human subjects. 
+ 
+3.2.1.5  Prior to the tests, the same amount of water resulting from the jump test in 
+paragraph 3.1.9 should be poured into the dry immersion suit or anti-exposure suit worn over the 
+dry test clothing specified in 3.2.2 by the test subject lying down. 
+ 
+Test clothing 
+ 
+3.2.2 The test subjects should wear a standard range of clothing consisting of: 
+ 
+.1 underwear (short sleeved, short legged); 
+ 
+.2 shirt (long sleeved); 
+ 
+.3 trousers (not woollen); and 
+ 
+.4 woollen socks.
+---
+SOURCE: MSC.54(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.54(66).pdf
+.1 underwear (short sleeved, short legged); 
+ 
+.2 shirt (long sleeved); 
+ 
+.3 trousers (not woollen); and 
+ 
+.4 woollen socks. 
+ 
+3.2.3 If the immersion suit or AES is to be worn in conjunction with a lifejacket, the lifejacket 
+should be worn during the thermal protective tests. 
+ 
+Specific tests for non-insulated immersion suits 
+ 
+3.2.4 In addition to the clothing specified in paragraphs 3.2.2 and 3.2.3, the test subject should 
+wear two woollen pullovers. 
+ 
+3.2.5 Each test subject should wear an immersion suit previously subjected to the jump test in 
+paragraph 3.1.10.  Following a 1 h period of immersion, with the hands gloved, in circulating 
+calm water at +5 °C, each test subject's body core temperature should not fall more than 2 °C 
+below the normal level of the subject's temperature.  
+RESOLUTION MSC.54(66) 
+(adopted on 30 May 1996) 
+ADOPTION OF AMENDMENTS TO THE RECOMMENDATION 
+ON TESTING OF LIFE-SAVING APPLIANCES  
+(RESOLUTION A.689(17))
+---
+
+SOURCE: MSC.109(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.109(73).pdf
+RESOLUTION MSC.109(73) 
+(adopted on 6 December 2000) 
+CARRIAGE OF VOYAGE DATA RECORDERS (VDRs) 
+ON EXISTING CARGO SHIPSMSC 73/21/Add.2 
+ 
+ 
+I:\MSC\73\21A2.DOC    
+ANNEX 17 
+ 
+RESOLUTION MSC.109(73) 
+(adopted on 6 December 2000) 
+ 
+CARRIAGE OF VOYAGE DATA RECORDERS (VDRs)  
+ON EXISTING CARGO SHIPS 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article 28(a) of the Conven tion of the International Maritime Organization 
+concerning the functions of the Maritime Safety Committee, 
+ 
+ HAVING ADOPTED, by resolution MSC.99(73), amendments to chapter V of the 
+International Convention for the Safety of Life at Sea, 1974 (hereinafter referred to as the 
+“Convention”), in particular, regulation V/20 c oncerning the carriage requirements of voyage data 
+recorders (VDRs), 
+ 
+ NOTING that the aforementioned amendments to the Convention do not include requirements 
+for existing cargo ships to carry VDRs,
+---
+SOURCE: MSC.109(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.109(73).pdf
+NOTING that the aforementioned amendments to the Convention do not include requirements 
+for existing cargo ships to carry VDRs, 
+ 
+1. DECIDES that a study should be carried out,  as a matter of urgency, to assess the feasibility 
+of installing VDRs on existing cargo ships; 
+ 
+2. INVITES Member States concerned to: 
+ 
+ .1 submit data to enable the NAV Sub-Committee to conduct a feasibility study of 
+mandatory carriage of VDRs on existing cargo ships of sizes to be recommended; and 
+ 
+ .2 encourage shipowners to install VDRs on existing cargo ships on a voluntary basis, so 
+that wide experience may be gained from their use. 
+ 
+3. INSTRUCTS the NAV Sub-Committee, in co -operation with other sub-committees as 
+appropriate: 
+ 
+.1 to carry out the feasibility study, taking into account such factors as: 
+ 
+ .1 practicability; 
+ 
+ .2 technical problems relating to the retrofitting of VDRs; 
+ 
+ .3 adequacy of existing performance standards , including the possible
+---
+SOURCE: MSC.109(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.109(73).pdf
+.2 technical problems relating to the retrofitting of VDRs; 
+ 
+ .3 adequacy of existing performance standards , including the possible 
+development of simplified standards; 
+ 
+ .4 experience in the use of VDRs on ships already fitted with them , including 
+data that could not have been obtained without VDR; and 
+ 
+ .5 relevant financial implications, including a cost benefit analysis. 
+ 
+RESOLUTION MSC.109(73) 
+(adopted on 6 December 2000) 
+CARRIAGE OF VOYAGE DATA RECORDERS (VDRs) 
+ON EXISTING CARGO SHIPSMSC 73/21/Add.2 
+ANNEX 17 
+Page 2 
+ 
+ 
+I:\MSC\73\21a2.DOC  
+.2 if the study clearly demonstrates the compelling need for mandatory carriage of 
+VDRs on existing cargo ships, to prepare appropriate draft amendments to chapter V 
+of the Convention and associated perform ance standards , for consideration by the 
+Committee and action as appropriate; and 
+ 
+.3 finalize the study not later than 1 January 2004. 
+ 
+ 
+_________________ 
+ 
+ 
+ 
+ 
+RESOLUTION MSC.109(73)
+---
+SOURCE: MSC.109(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.109(73).pdf
+.3 finalize the study not later than 1 January 2004. 
+ 
+ 
+_________________ 
+ 
+ 
+ 
+ 
+RESOLUTION MSC.109(73) 
+(adopted on 6 December 2000) 
+CARRIAGE OF VOYAGE DATA RECORDERS (VDRs) 
+ON EXISTING CARGO SHIPSRESOLUTION MSC.109(73) 
+(adopted on 6 December 2000) 
+CARRIAGE OF VOYAGE DATA RECORDERS (VDRs) 
+ON EXISTING CARGO SHIPS
+---
+
+SOURCE: MSC.485(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.485(103).pdf
+RESOLUTION MSC.485(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE INTERNATIONAL LIFE-SAVING APPLIANCE CODE (LSA CODE)RESOLUTION MSC.485(103) 
+(adopted on 13 May 2021) 
+AMENDMENTS TO THE INTERNATIONAL LIFE-SAVING APPLIANCE CODE 
+(LSA CODE) 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING ALSO resolution MSC.48(66), by which it adopted the International Life -Saving 
+Appliance (LSA) Code ( "the LSA Code "), which has become mandatory under chapter III of 
+the International Convention for the Safety of Life at Sea, 1974 ("the Convention"), 
+RECALLING FURTHER article VIII(b) and regulation III/3.10 of the Convention concerning the 
+procedure for amending the LSA Code, 
+HAVING CONSIDERED, at its 103rd  session, amendments to the LSA Code proposed and 
+circulated in accordance with article VIII(b)(i) of the Convention,
+---
+SOURCE: MSC.485(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.485(103).pdf
+circulated in accordance with article VIII(b)(i) of the Convention, 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to the 
+LSA Code, the text of which is set out in the annex to the present resolution; 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(aa) of the Convention, that the 
+amendments shall be deemed to have been accepted on 1 July 2023 unless, prior to that date, 
+more than one third of the Contracting Governments to the Convention, or Contracting  
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified their objections to the amendments; 
+3 INVITES Contracting Governments to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2024 upon their acceptance in accordance with paragraph 2 above; 
+4 REQUESTS the Secretary -General, in conformity with article VIII(b)(v) of the
+---
+SOURCE: MSC.485(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.485(103).pdf
+4 REQUESTS the Secretary -General, in conformity with article VIII(b)(v) of the 
+Convention, to transmit  certified copies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Governments to the Convention; 
+5 REQUESTS ALSO the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the  Organization which are not Contracting Governments to the 
+Convention. 
+RESOLUTION MSC.485(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE INTERNATIONAL LIFE-SAVING APPLIANCE CODE (LSA CODE)-2-
+ANNEX 
+AMENDMENTS TO THE INTERNATIONAL LIFE-SAVING APPLIANCES CODE 
+(LSA CODE) 
+CHAPTER IV 
+SURVIVAL CRAFT 
+4.4 General requirements for lifeboats 
+1 Paragraph 4.4.1.3.2 is replaced by the following: 
+".2 except for free-fall lifeboats, be capable of being launched and towed when 
+the ship is making headway at speeds up to 5 knots in calm water." 
+___________ 
+RESOLUTION MSC.485(103) (adopted on 13 May 2021)
+---
+SOURCE: MSC.485(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.485(103).pdf
+the ship is making headway at speeds up to 5 knots in calm water." 
+___________ 
+RESOLUTION MSC.485(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE INTERNATIONAL LIFE-SAVING APPLIANCE CODE (LSA CODE)RESOLUTION MSC.485(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE INTERNATIONAL LIFE-SAVING APPLIANCE CODE (LSA CODE)
+---
+
+SOURCE: MSC.107(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.107(73).pdf
+RESOLUTION MSC.107(73) 
+(adopted on 5 December 2000) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)MSC 73/21/Add.2 
+ 
+ 
+I:\MSC\73\21A2.DOC    
+ANNEX 15 
+ 
+RESOLUTION MSC.107(73) 
+(adopted on 5 December 2000) 
+ 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING LIQUEFIED GASES IN BULK (GC CODE) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+ RECALLING ALSO resolutio n A.328(IX), by which the Assembly, at its ninth session, 
+adopted the Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk 
+(GC Code) and authorized the Committee to amend the GC Code as may be necessary, 
+ 
+ NOTING resolution MSC.103(73), by which it adopted amendments to the International
+---
+SOURCE: MSC.107(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.107(73).pdf
+NOTING resolution MSC.103(73), by which it adopted amendments to the International 
+Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk (IGC Code), 
+ 
+ HAVING CONSIDERED, at its seventy-third session, amendments to the GC Code proposed 
+by the Sub-Committee on Bulk Liquids and Gases at its fourth session and approved by the 
+Committee at its seventy-second session, 
+ 
+ RECOGNIZING the need to bring the approved amendments to the  GC Code into force on 
+the date on which the corresponding amendments to the IGC Code enter into force, 
+ 
+1. ADOPTS amendments to the GC Code, the text of which is set out in the Annex to the 
+present resolution; 
+ 
+2. DETERMINES that the said amendments should become effective on 1 July 2002 upon 
+acceptance and entry into force of the cor responding amendments to the IGC Code adopted by 
+resolution MSC.103(73). 
+RESOLUTION MSC.107(73) 
+(adopted on 5 December 2000) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE
+---
+SOURCE: MSC.107(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.107(73).pdf
+resolution MSC.103(73). 
+RESOLUTION MSC.107(73) 
+(adopted on 5 December 2000) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)MSC 73/21/Add.2 
+ANNEX 15 
+Page 2 
+ 
+ 
+I:\MSC\73\21a2.DOC  
+ANNEX 
+ 
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT 
+OF SHIPS CARRYING LIQUEFIED GASES IN BULK (GC CODE) 
+ 
+CHAPTER V 
+PROCESS PRESSURE VESSELS AND LIQUID, VAPOUR AND 
+PRESSURE PIPING SYSTEMS 
+ 
+ 
+ 5.4 Ship's cargo hoses 
+ 
+1 The existing paragraph 5.4.3 is replaced by the following: 
+ 
+"5.4.3 For cargo hoses installed on board ships on or after 1 July 2002, each new type of 
+cargo hose, complete with end-fittings, should be prototype -tested at a normal ambient 
+temperature with 200 pressure cycles from zero to at least twice the specified maximum 
+working pressure.  After this cycle pressure test has been carried out, the prototype test should
+---
+SOURCE: MSC.107(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.107(73).pdf
+working pressure.  After this cycle pressure test has been carried out, the prototype test should 
+demonstrate a bursting pressure of at least 5 times its specified maximum working pressure at 
+the extreme service temperature.  Hoses used for prototype testing should not be used for 
+cargo service.  Thereafter, before being placed in service, each new length of cargo hose 
+produced should be hydros tatically tested at ambient temperature to a pressure not less than 
+1.5 times its specified maximum working pressure, but not more than two -fifths of its 
+bursting pressure.  The hose should be stencilled or otherwise marked with the date of testing, 
+its sp ecified maximum working pressure and, if used in services other than the ambient 
+temperature services, its maximum and minimum service temperature, as applicable.  The 
+specified maximum working pressure should not be less than 10 bar gauge." 
+ 
+ 
+CHAPTER XIV 
+PERSONNEL PROTECTION
+---
+SOURCE: MSC.107(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.107(73).pdf
+specified maximum working pressure should not be less than 10 bar gauge." 
+ 
+ 
+CHAPTER XIV 
+PERSONNEL PROTECTION 
+ 
+2 The existing paragraph 14.9 is replaced by the following: 
+ 
+"14.9 The ship should have on board medical first-aid equipment, including oxygen 
+resuscitation equipment and antidotes for cargoes to be carried, based on the guidelines 
+developed by the Organization*. 
+ 
+__________ 
+* Reference is made to the Medical First Aid Guide for Use in Accidents Involving 
+Dangerous Goods (MFAG), which provides advice on the treatment of casualties in 
+accordance with the symptoms exhibited as well as eq uipment and antidotes that may 
+be appropriate for treating the casualty." 
+ 
+ 
+ 
+RESOLUTION MSC.107(73) 
+(adopted on 5 December 2000) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)MSC 73/21/Add.2 
+ANNEX 15 
+Page 3 
+ 
+ 
+I:\MSC\73\21a2.DOC  
+Chapter XVIII 
+ 
+Operating requirements
+---
+SOURCE: MSC.107(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.107(73).pdf
+GASES IN BULK (GC CODE)MSC 73/21/Add.2 
+ANNEX 15 
+Page 3 
+ 
+ 
+I:\MSC\73\21a2.DOC  
+Chapter XVIII 
+ 
+Operating requirements 
+ 
+3 The existing paragraph 18.3.3 is replaced by the following: 
+ 
+"18.3.3 Officers should be trained in emergency procedures to deal with conditions of 
+leakage, spillage or fire involving the cargo, based on the guidelines developed by the 
+Organization*, and a sufficient number of them should be instructed and trained in essential 
+first aid for cargoes carried. 
+ 
+__________ 
+ 
+* Refer to the Medical First Aid Guide for Use in Accidents Involving Dangerous 
+Goods (MFAG), which provides advice on the treatment of casualties in 
+accordance with the symptoms exhibited as well as equipment and antidotes that 
+may be appropriate for treating the casualty, an d to the relevant provisions of the 
+STCW Code, parts A and B." 
+ 
+ 
+***
+RESOLUTION MSC.107(73) 
+(adopted on 5 December 2000) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE
+---
+SOURCE: MSC.107(73).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.107(73).pdf
+STCW Code, parts A and B." 
+ 
+ 
+***
+RESOLUTION MSC.107(73) 
+(adopted on 5 December 2000) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)RESOLUTION MSC.107(73) 
+(adopted on 5 December 2000) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING LIQUEFIED 
+GASES IN BULK (GC CODE)
+---
+
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+RESOLUTION MSC.469(101) (adopted on 14 June 2019)  
+AMENDMENTS TO WORLD-WIDE NAVIGATIONAL WARNING SERVICE 
+(RESOLUTION A.706(17), AS AMENDED)MSC 101/24/Add.1 
+Annex 21, page 1 
+ 
+I:\MSC\101\MSC 101-24-Add.1.docx 
+ANNEX 21 
+ 
+RESOLUTION MSC.469(101) 
+(adopted on 14 June 2019) 
+ 
+AMENDMENTS TO WORLD-WIDE NAVIGATIONAL WARNING SERVICE 
+(RESOLUTION A.706(17), AS AMENDED) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO that, by resolution A.706(17), the Assembly adopted the IMO/IHO 
+World-Wide Navigational Warning Service – Guidance Document, 
+ 
+RECALLING FURTHER that the Committee, at its eighty -fifth and ninety -second sessions, 
+approved MSC.1/Circ.1288 and MSC.1/Circ.1288 /Rev.1, respectively, on Amendments to 
+resolution A.706(17) – World-Wide Navigational Warning Service,
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+resolution A.706(17) – World-Wide Navigational Warning Service, 
+  
+NOTING that the Assembly, at its seventeenth session, recommended that Member States 
+implement the world -wide navigational warning service and authorized the Committee to 
+amend the world-wide navigational warning service, as might be necessary, 
+ 
+HAVING CONSIDERED the recommendation made by the Sub -Committee on Navigation, 
+Communications and Search and Rescue, at its sixth session, 
+ 
+1 ADOPTS the Revised IMO/IHO World -Wide Navigational Warning Service – 
+Guidance Document, set out in the annex to the present resolution, which revises in its entirety 
+the existing text of annex 1, annex 2 and  the appendix to resolution A.706(17), as amended 
+by MSC.1/Circ.1288 and MSC.1/Circ.1288/Rev.1; 
+ 
+2 RECOMMENDS that Member States continue implementing the World -Wide 
+Navigational Warning Service, taking into account the Revised Guidance Document set out in 
+the annex to the present resolution;
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+Navigational Warning Service, taking into account the Revised Guidance Document set out in 
+the annex to the present resolution; 
+ 
+3 DETERMINES that the Revised IMO/IHO World-Wide Navigational Warning Service 
+– Guidance Document should become effective on 1 January 2020. 
+  
+RESOLUTION MSC.469(101) (adopted on 14 June 2019)  
+AMENDMENTS TO WORLD-WIDE NAVIGATIONAL WARNING SERVICE 
+(RESOLUTION A.706(17), AS AMENDED)MSC 101/24/Add.1 
+Annex 21, page 2 
+ 
+I:\MSC\101\MSC 101-24-Add.1.docx 
+ANNEX 
+ 
+REVISED IMO/IHO WORLD-WIDE NAVIGATIONAL WARNING SERVICE GUIDANCE 
+ 
+ 
+1 INTRODUCTION 
+ 
+1.1 The World-Wide Navigational Warning Service (WWNWS) is the internationally and 
+nationally coordinated service for the promulgation of navigational warnings. 
+ 
+1.2 The purpose of this Guidance is to provide specific guidance for the promulgation of 
+internationally coordinated NAVAREA and coastal warnings. Its guidance does not apply to
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+internationally coordinated NAVAREA and coastal warnings. Its guidance does not apply to 
+purely national warning services which supplement these internationally coordinated services. 
+ 
+1.3 The original resolution of the tenth International Hydrographic Conference in 1972 
+recommended the formation of an ad hoc  joint IMO/IHO Commission to study the 
+"establishment of a coordinated, eff icient global radio navigational warning service ". 
+Subsequently, this became a purely IHO commission known as the Commission on 
+Promulgation of Radio Navigational Warnings, which in January 2009 became the IHO 
+World-Wide Navigational Warning Service Sub -Committee (WWNWS-SC) but nevertheless 
+consults continuously with IMO. In its report to the eleventh International Hydrographic 
+Conference in  1977, the Commission submitted the Draft Plan for the Establishment of a 
+World-Wide Navigational Warning System, also referred to as Plan for the Establishment of a
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+World-Wide Navigational Warning System, also referred to as Plan for the Establishment of a 
+coordinated Radio Navigational Warning Service. The title World -Wide Navigational Warning 
+Service or WWNWS used for this revised edition of the document reflects the evolution of the 
+system from a proposed ac tion to an effective and fully operational coordinated service. 
+This revised edition reflects the evolution of the WWNWS since the advent of the Global 
+Maritime Distress and Safety System (GMDSS), as adopted by the Conference of Contracting 
+Governments to the International Convention for the Safety of Life at Sea, 1974, on the Global 
+Maritime Distress and Safety System in November 1988, effective on 1 February 1992. 
+ 
+1.4 Future amendments to this Guidance will be considered formally and approved by 
+both IHO and IMO in accordance with the procedures set out in section 7. Proposed 
+amendments should be evaluated by the IHO WWNWS -SC, which includes an ex-officio
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+amendments should be evaluated by the IHO WWNWS -SC, which includes an ex-officio 
+representative of the IMO Secretariat, prior to any extensive IHO or IMO consideration. 
+ 
+2 DEFINITIONS 
+ 
+For the purposes of the WWNWS, the following definitions apply: 
+ 
+.1 Coastal warning means a navigational warning or in -force bulletin 
+promulgated as part of a numbered series by a National Coor dinator. 
+Broadcast should be made by the International NAVTEX service to defined 
+NAVTEX service areas and/or by an International Enhanced Group Call 
+service to the coastal warning area ( in addition, Administrations may issue 
+coastal warnings by other means). 
+ 
+.2 Coastal warning area means a unique and precisely defined sea area within 
+a NAVAREA/METAREA or Sub-area established by a coastal State for the 
+purpose of coordinating the broadcast of coastal Maritime Safety Information 
+through the Enhanced Group Call service. 
+ 
+RESOLUTION MSC.469(101) (adopted on 14 June 2019)
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+through the Enhanced Group Call service. 
+ 
+RESOLUTION MSC.469(101) (adopted on 14 June 2019)  
+AMENDMENTS TO WORLD-WIDE NAVIGATIONAL WARNING SERVICE 
+(RESOLUTION A.706(17), AS AMENDED)MSC 101/24/Add.1 
+Annex 21, page 3 
+ 
+I:\MSC\101\MSC 101-24-Add.1.docx 
+.3 Enhanced Group Call (EGC)  means the broadcast of coordinated Maritime 
+Safety Information and Search and Rescue related information, to a defined 
+geographical area using a recognized mobile satellite service. 
+ 
+.4 Global Maritime Distress and Safety System (GMDSS) means a system that 
+performs the functions set out in SOLAS regulation IV/4, as amended.  
+ 
+.5 HF NBDP means High Frequency narrow -band direct-printing, using radio 
+telegraphy as defined in Recommendation ITU-R M.688. 
+ 
+.6 In-force bulletin means a list of serial numbers of those NAVAREA, Sub-area 
+or coastal warnings in force issued and broadcast by the NAVAREA 
+Coordinator, Sub-area Coordinator or National Coordinator.
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+or coastal warnings in force issued and broadcast by the NAVAREA 
+Coordinator, Sub-area Coordinator or National Coordinator. 
+ 
+.7 International Iridium service means the coordinated broadcast and automatic 
+reception of Maritime Safety Information and Search and Rescue related 
+information via Enhanced Group Call, using the English language.  
+ 
+.8 International Enhanced Group Call service means the coordinated broadcast 
+and automatic reception of Maritime Safety Information and Search and 
+Rescue related information via Enhanced Group Call, using the English 
+language. 
+ 
+.9 International NAVTEX service  means the coordinated broadcast and 
+automatic reception on 518 kHz of Maritime Safety Information by means of 
+narrow-band direct-printing telegraphy using the English language.1 
+ 
+.10 International SafetyNET service  means the coordinated broadcast and 
+automatic reception of Maritime Safety Information and Search and Rescue
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+.10 International SafetyNET service  means the coordinated broadcast and 
+automatic reception of Maritime Safety Information and Search and Rescue 
+related information via Enhanced Group Call, using the English language. 
+ 
+.11 Local warning means a navigational warning which covers inshore waters, 
+often within the limits of jurisdiction of a harbour or port authority. 
+ 
+.12 Maritime Safety Information (MSI) 2 means navigational and meteorological 
+warnings, meteorological forecasts and other urgent safety -related 
+messages broadcast to ships. 
+ 
+.13 Maritime Safety Information service means the internationally and nationally 
+coordinated network of broadcasts contai ning information, which is 
+necessary for safe navigation. 
+ 
+.14 METAREA means a geographical sea area3 established for the purpose of 
+coordinating the broadcast of marine meteorological information. The term 
+METAREA followed by a roman numeral may be used to identify a particular
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+coordinating the broadcast of marine meteorological information. The term 
+METAREA followed by a roman numeral may be used to identify a particular 
+sea area. The delimitation of such areas is not related to and should not 
+prejudice the delimitation of any boundaries between States. 
+ 
+ 
+1 As set out in the IMO NAVTEX Manual. 
+ 
+2 As defined in regulation SOLAS regulation IV/2. 
+ 
+3 Which may include inland seas, lakes and waterways navigable by seagoing ships. 
+RESOLUTION MSC.469(101) (adopted on 14 June 2019)  
+AMENDMENTS TO WORLD-WIDE NAVIGATIONAL WARNING SERVICE 
+(RESOLUTION A.706(17), AS AMENDED)MSC 101/24/Add.1 
+Annex 21, page 4 
+ 
+I:\MSC\101\MSC 101-24-Add.1.docx 
+.15 National Coordinator means the national authority charged with collating and 
+issuing coastal warnings within a national area of responsibility. 
+ 
+.16 National NAVTEX service means the broadcast and automatic reception of 
+Maritime Safety Information by means of narrow-band direct-printing telegraphy
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+Maritime Safety Information by means of narrow-band direct-printing telegraphy 
+using frequencies other than 518 kHz and language s as decided by the 
+Administration concerned. 
+ 
+.17 National Enhanced Group Call service means the broadcast and automatic 
+reception of Maritime Safety Information via the EGC system, using 
+languages as decided by the Administration concerned. 
+ 
+.18 NAVAREA means a geographical sea area 3 established for the purpose of 
+coordinating the broadcast of navigational warnings. The term NAVAREA 
+followed by a roman numeral may be used to identify a particular sea area.  
+The delimitation of such areas is not related to and should not prejudice the 
+delimitation of any boundaries between States. 
+ 
+.19 NAVAREA Coordinator means the authority charged with coordinating, 
+collating and issuing NAVAREA warnings for a designated NAVAREA. 
+ 
+.20 NAVAREA warning means a  navigational warning or in -force bulletin
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+collating and issuing NAVAREA warnings for a designated NAVAREA. 
+ 
+.20 NAVAREA warning means a  navigational warning or in -force bulletin 
+promulgated as part of a numbered series by a NAVAREA Coordinator. 
+ 
+.21 Navigational warning means a message containing urgent information relevant 
+to safe navigation broadcast to ships in accordance with the provisions of the 
+International Convention for the Safety of Life at Sea, 1974, as amended. 
+ 
+.22 NAVTEX means the system for the broadcast and automatic reception of 
+Maritime Safety Information by means of narrow -band direct -printing 
+telegraphy. 
+ 
+.23 NAVTEX Coordinator  means the authority charged with operating and 
+managing one or more NAVTEX stations broad casting Maritime Safety 
+Information as part of the International NAVTEX service. 
+ 
+.24 NAVTEX coverage area means an area defined by an arc of a circle having 
+a radius from the transmitter calculated according to the method and criteria
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+a radius from the transmitter calculated according to the method and criteria 
+given in resolution A.801(19), as amended. 
+ 
+.25 NAVTEX service area  means a unique and precisely defined sea area, 
+wholly contained within the NAVTEX coverage area, for which Maritime 
+Safety Information is provided from a particular NAVTEX transmitter. It is 
+normally defined by a line that takes full account of local propagation 
+conditions and the character and volume of information and maritime traffic 
+patterns in the region, as given in resolution A.801(19), as amended. 
+ 
+.26 Other urgent safety -related information means Maritime Safety Information 
+broadcast to ships that is not defined as a navigational warning or 
+meteorological information. This may include, but is not limited to, significant 
+malfunctions or changes to maritime communications systems, and new or 
+amended mandatory ship reporting systems or maritime regulations affecting 
+ships at sea.
+---
+SOURCE: MSC.469(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.469(101).pdf
+amended mandatory ship reporting systems or maritime regulations affecting 
+ships at sea. 
+ 
+RESOLUTION MSC.469(101) (adopted on 14 June 2019)  
+AMENDMENTS TO WORLD-WIDE NAVIGATIONAL WARNING SERVICE 
+(RESOLUTION A.706(17), AS AMENDED)
+---
+
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+RESOLUTION MSC.311 (88) 
+(adopted on 3 December 2010) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)RESOLUTION MSC.311 (88) 
+(adopted on 3 December 2010) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE) 
+THE MARITIME SAFETY COMMITTEE , 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee , 
+NOTING resolution MSC.98(73) by which it adopted the International Code for Fire Safety 
+Systems (hereinafter referred to as "the FSS Code"), which has become mandatory under 
+chapter 11-2 of the International Convention for the Safety of Life at Sea, 1974 (hereinafter 
+referred to as "the Convention") , 
+NOTING ALSO article VIII(b) and regulation 11-2/3.22 of the Convention concerning the 
+procedure for amending the FSS Code, 
+HAVING CONSIDERED , at its eighty-eighth session, amendments to the FSS Code,
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+procedure for amending the FSS Code, 
+HAVING CONSIDERED , at its eighty-eighth session, amendments to the FSS Code, 
+proposed and circulated in accordance with article VIII(b)(i) of the Convention, 
+1. ADOPTS , in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the International Code for Fire Safety Systems, the text of which is set out in the Annex to the 
+present resolution; 
+2. DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention , that 
+the amendments shall be deemed to have been accepted on 1 January 2012, unless, prior to 
+that date, more than one third of the Contracting Governments to the Convention or 
+Contracting Governments the combined merchant fleets of which constitute not less 
+than 50% of the gross tonnage of the world's merchant fleet, have notified their objections to 
+the amendments; 
+3. INVITES SOLAS Contracting Governments to note that, in accordance with
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+the amendments; 
+3. INVITES SOLAS Contracting Governments to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention the amendments shall enter into force on 1 July 2012 
+upon their acceptance in accordance with paragraph 2 above; 
+4. REQUESTS the Secretary-General, in conformity with article VIII(b)(v) of the 
+Convention , to transmit certified copies of the present resolution and the text of the 
+amendments contained in the Annex to all Contracting Governments to the Convention ; 
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution 
+and its Annex to Members of the Organization, which are not Contracting Governments to 
+the Convention. 
+RESOLUTION MSC.311 (88) 
+(adopted on 3 December 2010) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)- 2 -
+ANNEX 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE) 
+The existing chapter 9 is replaced by the following: 
+"Chapter 9
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+ANNEX 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE) 
+The existing chapter 9 is replaced by the following: 
+"Chapter 9 
+Fixed fire detection and fire alarm systems 
+1 Application 
+1.1 This chapter details the specification of fixed fire detection and fire alarm 
+systems as required by chapter 11-2 of the Convention. Unless expressly provided 
+otherwise, the requirements of this chapter shall apply to ships constructed on or 
+after 1 July 2012. 
+1.2 Definitions 
+1.2.1 Section means a group offire detectors and manually operated call points 
+as reported in the indicating unit(s). 
+1.2.2 Section identification capability means a system with the capability of 
+identifying the section in which a detector or manually operated call point has activated. 
+1.2.3 Individually identifiable means a system with the capability to identify the 
+exact location and type of detector or manually activated call point which has
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+exact location and type of detector or manually activated call point which has 
+activated, and which can differentiate the signal of that device from all others. 
+2 Engineering specifications 
+2. 1 General requirements 
+2.1.1 Any required fixed fire detection and fire alarm system with manually 
+operated call points shall be capable of immediate operation at all times (this does 
+not require a backup control panel). Notwithstanding this, particular spaces may be 
+disconnected, for example, workshops during hot work and ro-ro spaces during on 
+and off-loading. The means for disconnecting the detectors shall be designed to 
+automatically restore the system to normal surveillance after a predetermined time 
+that is appropriate for the operation in question. The space shall be manned or 
+provided with a fire patrol when detectors required by regulation are disconnected. 
+Detectors in all other spaces shall remain operational. 
+2.1.2 The fire detection system shall be designed to:
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+Detectors in all other spaces shall remain operational. 
+2.1.2 The fire detection system shall be designed to: 
+.1 control and monitor input signals from all connected fire and 
+smoke detectors and manual call points; 
+.2 provide output signals to the navigation bridge, continuously 
+manned central control station or onboard safety centre to notify 
+the crew of fire and fault conditions; 
+.3 monitor power supplies and circuits necessary for the operation of 
+the system for loss of power and fault conditions; and 
+RESOLUTION MSC.311 (88) 
+(adopted on 3 December 2010) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)- 3 -
+.4 the system may be arranged with output signals to other fire safety 
+systems including: 
+.1 paging systems, fire alarm or public address systems; 
+.2 fan stops; 
+.3 fire doors; 
+.4 fire dampers; 
+.5 sprinkler systems; 
+.6 smoke extraction systems; 
+.7 low-location lighting systems; 
+.8 fixed local application fire-extinguishing systems;
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+.5 sprinkler systems; 
+.6 smoke extraction systems; 
+.7 low-location lighting systems; 
+.8 fixed local application fire-extinguishing systems; 
+.9 closed circuit television (CCTV) systems; and 
+.10 other fire safety systems. 
+2.1.3 The fire detection system may be connected to a decision management 
+system provided that: 
+.1 the decision management system is proven to be compatible with 
+the fire detection system; 
+.2 the decision management system can be disconnected without 
+losing any of the functions required by this chapter for the fire 
+detection system; and 
+.3 any malfunction of the interfaced and connected equipment should 
+not propagate under any circumstance to the fire detection system. 
+2.1.4 Detectors and manual call points shall be connected to dedicated sections 
+of the fire detection system. Other fire safety functions, such as alarm signals from 
+the sprinkler valves, may be permitted if in separate sections.
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+the sprinkler valves, may be permitted if in separate sections. 
+2.1.5 The system and equipment shall be suitably designed to withstand supply 
+voltage variation and transients , ambient temperature changes, vibration , humidity, 
+shock, impact and corrosion normally encountered in ships. All electrical and 
+electronic equipment on the bridge or in the vicinity of the bridge shall be tested for 
+electromagnetic compatibility , taking into account the recommendations developed 
+by the Organization . 
+2.1.6 Fixed fire detection and fire alarm systems with individually identifiable fire 
+detectors shall be so arranged that: 
+.1 means are provided to ensure that any fault (e.g., power break, 
+short circuit, earth, etc.) occurring in the section will not prevent the 
+continued individual identification of the remainder of the 
+connected detectors in the section; 
+RESOLUTION MSC.311 (88) 
+(adopted on 3 December 2010) 
+AMENDMENTS TO THE INTERNATIONAL CODE
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+connected detectors in the section; 
+RESOLUTION MSC.311 (88) 
+(adopted on 3 December 2010) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)-4-
+.2 all arrangements are made to enable the initial configuration of the 
+system to be restored in the event of failure (e.g., electrical, 
+electronic, informatics, etc.); 
+.3 the first initiated fire alarm will not prevent any other detector from 
+initiating further fire alarms; and 
+.4 no section will pass through a space twice. When this is not 
+practical (e.g., for large public spaces), the part of the section 
+which by necessity passes through the space for a second time 
+shall be installed at the maximum possible distance from the other 
+parts of the section. 
+2.1.7 In passenger ships, the fixed fire detection and fire alarm system shall be 
+capable of remotely and individually identifying each detector and manually 
+operated call point. Fire detectors fitted in passenger ship cabins, when activated ,
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+operated call point. Fire detectors fitted in passenger ship cabins, when activated , 
+shall also be capable of emitting, or cause to be emitted, an audible alarm within the 
+space where they are located. In cargo ships and on passenger ship cabin 
+balconies the fixed fire detection and fire alarm system shall , as a minimum, have 
+section identification capability. 
+2.2 Sources of power supply 
+2.2.1 There shall be not less than two sources of power supply for the electrical 
+equipment used in the operation of the fixed fire detection and fire alarm system, 
+one of which shall be an emergency source of power. The supply shall be provided 
+by separate feeders reserved solely for that purpose. Such feeders shall run to an 
+automatic change-over switch situated in or adjacent to the control panel for the fire 
+detection system. The main (respective emergency) feeder shall run from the main 
+(respective emergency) switchboard to the change-over switch without passing
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+(respective emergency) switchboard to the change-over switch without passing 
+through any other distributing switchboard. 
+2.2.2 There shall be sufficient power to permit the continued operation of the 
+system with all detectors activated, but not more than 100 if the total exceeds this 
+figure. 
+2.2.3 The emergency source of power specified in paragraph 2.2.1 above shall 
+be sufficient to maintain the operation of the fire detection and fire alarm system for 
+the periods required under regulations 11-1/42 and 43 of the Convention, and at the 
+end of that period, shall be capable of operating all connected visual and audible fire 
+alarm signals for a period of at least 30 min. 
+2.3 Component requirements 
+2.3.1 Detectors 
+2.3.1.1 Detectors shall be operated by heat, smoke or other products of 
+combustion, flame, or any combination of these factors. Detectors operated by 
+other factors indicative of incipient fires may be considered by the Administration
+---
+SOURCE: MSC.311(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.311(88).pdf
+other factors indicative of incipient fires may be considered by the Administration 
+provided that they are no less sensitive than such detectors. 
+RESOLUTION MSC.311 (88) 
+(adopted on 3 December 2010) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)
+---
+
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+RESOLUTION MSC.29(61) 
+adopted on 11 December 1992 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS  
+CHEMICALS IN BULK (BCH CODE) ANNEX 5 
+RESOLUTION MSC.29(61) 
+adopted on 11 December 1992 
+MSC 61121!Add.l 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS 
+IN BULK (BCH CODE) 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime 
+Organization concerning the functions of the Committee, 
+RECALLING ALSO resolution A.212(VII), by which the Assembly, at its 
+seventh session, adopted the Code for the Construction and Equipment of 
+Ships Carrying Dangerous Chemicals in Bulk (BCH Code), which provides safety 
+requirements for chemical tankers supplementary to the provisions of the 
+International Convention for the Safety of Life at Sea, 1974 (1974 SOLAS 
+Convention), as amended,
+---
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+International Convention for the Safety of Life at Sea, 1974 (1974 SOLAS 
+Convention), as amended, 
+RECALLING FURTHER resolution MSC.9(53), by which the Committee, at its 
+fifty-third session, adopted the revised BCH Code, 
+NOTING resolution MEPC.56(33), by which the Marine Environment Protection 
+Co®nittee adopted, on 30 October 1992, amendments to the BCH Code in 
+accordance with article 16(2)(d) of the International Convention for the 
+Prevention of Pollution from Ships, as modified by the 1978 Protocol related 
+thereto (MARPOL 73/78), 
+NOTING FURTHER resolution MSC.28(61), by which the Committee adopted 
+amendments to the International Code for the Construction and Equipment of 
+Ships Carrying Dangerous Chemicals in Bulk (IBC Code), 
+RECOGNIZING the need to bring the corresponding amendments to the 
+BCH Code in force on the date on which the amendments to the IBC Code enter 
+into force, 
+HAVING CONSIDERED, at its sixty-first session, amendments to the BCH Code
+---
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+into force, 
+HAVING CONSIDERED, at its sixty-first session, amendments to the BCH Code 
+proposed by the Sub-Committee on Bulk Chemicals, 
+1. ADOPTS amendments to the BCH Code, the text of which is given in the 
+annex to the present resolution; 
+2. DETERMINES that the amendments shall become effective on 1 July 1994 upon 
+their acceptance and entry into force of the corresponding amendments to the 
+IBC Code adopted by resolution MSC.28(61). 
+W/1800N/EWP 
+RESOLUTION MSC.29(61) 
+adopted on 11 December 1992 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS  
+CHEMICALS IN BULK (BCH CODE) MSC 61/ 21/ Add.1 
+ANNEX 5 
+Page 2 
+ANNEX 
+AMENDMENTS TO THE BCH CODE 
+Th e existing text of the last sentence o f 1.1 i s ame nded by additi o n o f the 
+following words : 
+of chapter 17 of the lBC Code. 
+The last two sentences o f the existing t e xt of 1.2.1 is amen d ed to rea d a s 
+follows:
+---
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+following words : 
+of chapter 17 of the lBC Code. 
+The last two sentences o f the existing t e xt of 1.2.1 is amen d ed to rea d a s 
+follows: 
+The Code is at present limited to the liquids shown in the summary of 
+minimum requirements in chapter 17 of the lBC Code. Products that 
+have been reviewed and determined not to present safety and pollution 
+hazards to such an extent as to warrant application of the Code are found 
+in chapter 18 of the IBC Code. 
+The e x isting text of 1.4.161\ is replaced by the foll owi ng : 
+Noxious l i quid substance means any substance referred to in Appendix II 
+of Annex II of the International Convention for the Prevention of 
+Pollution from Ships, 1973, as modified by the Protocol of 1978 relating 
+thereto (MARPOL 73/78) or provisionally assessed under the provisions of 
+regulation 3(4) of that Annex as falling into category A, B, C or D. 
+The following new 1 . 4.16C is added after the existing 1.4 . 1 6B:
+---
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+regulation 3(4) of that Annex as falling into category A, B, C or D. 
+The following new 1 . 4.16C is added after the existing 1.4 . 1 6B: 
+The lBC Code means the International Code for the Construction and 
+Equipment of Ships Carrying Dangerous Chemicals in Bulk adopted by the 
+Maritime Safety Committee and the Marine Environment Protection Committee 
+of the Organization by resolutions MSC.4(48) and MEPC.19(22) 
+respectively, as amended. 
+The existing te x t of 3 . 16 . 10( a) is replaced by the f ollow i ng : 
+filter type respiratory protection is unacceptable: 
+The f o llowin g wo rds are i nserted after the third sent e nce of the existing text 
+of 4.7.21: 
+Remote manual operation should be arranged such that remote starting 
+of pumps supplying the water spray system and remote operation of any 
+normally closed valves in the system can be carried out from a suitable 
+location outside the cargo area, adjacent to the accommodation spaces
+---
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+normally closed valves in the system can be carried out from a suitable 
+location outside the cargo area, adjacent to the accommodation spaces 
+and readily accessible and operable in the event of fire in the areas 
+protected. 
+W/ 1800N/EWP 
+RESOLUTION MSC.29(61) 
+adopted on 11 December 1992 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS  
+CHEMICALS IN BULK (BCH CODE) The existing text o f 4.1 0 is amended a s f o llows : 
+4.10 Cargoes protected by additives 
+MSC 6l/2l/Add.1 
+ANNEX 5 
+Page 3 
+4.10.1 Certain cargoes with a reference in column 'm' in the table of 
+chapter VI, by the nature of their chemical make-up, tend under certain 
+conditions of temperature, exposure to air or contact with a catalyst, to 
+undergo polymerization, decomposition, oxidation or other chemical 
+changes. Mitigation of this tendency is carried out by introducing small 
+amounts of chemical additives into the liquid cargo or by controlling the
+---
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+changes. Mitigation of this tendency is carried out by introducing small 
+amounts of chemical additives into the liquid cargo or by controlling the 
+cargo tank environment. 
+4.10.2 No change. 
+4.10.3 Care should be taken to ensure that these cargoes are 
+sufficiently protected to prevent deleterious chemical change at all 
+times during the voyage. Ships carrying such cargoes should be provided 
+with a certificate of protection from the manufacturer and kept during 
+the voyage specifying: 
+.1 the name and amount of additive present; 
+.2 whether the additive is oxygen dependent; 
+.3 date additive was put in the product and duration of 
+effectiveness; 
+. 4 any temperature limitations qualifying the additives' 
+effective lifetime; and 
+.5 the action to be taken should the length of voyage exceed 
+the effective lifetime of the additives. 
+4.10.4 Ships using the exclusion of air as the method of preventing 
+oxidation of the cargo should comply with 2.19.3.
+---
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+4.10.4 Ships using the exclusion of air as the method of preventing 
+oxidation of the cargo should comply with 2.19.3. 
+4.10.5 A product containing an oxygen dependent additive should be 
+carried without inertion. 
+4.10.6 As existing 4.10 ~ 5. 
+4 . 10.7 As existing 4.10.6. 
+New 4.23 is added as foll owG: 
+4.23 Temperature sensors 
+Temperature sensors should be used to monitor the cargo pump 
+temperature to detect overheating due to pump failures. 
+W/1800N/EWP 
+RESOLUTION MSC.29(61) 
+adopted on 11 December 1992 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS  
+CHEMICALS IN BULK (BCH CODE) MSC 611211Add.1 
+ANNEX 5 
+Page 4 
+Chapter VI 
+The ex i s t i ng text. of Chap ter VI is r epl aced by t he f911owing: 
+I BC 
+Ship 
+Tank 
+Tank 
+CHAPTER VI - SUMMARY OF MINIMUM REQUIREMENTS 
+The ~ummary of minimum requirements of the products covered by the 
+Code is set out in chapter 17 of the IBC Code.
+---
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+The ~ummary of minimum requirements of the products covered by the 
+Code is set out in chapter 17 of the IBC Code. 
+For the purpose of application of the minimwm requirements under 
+this Code, the cross references in the IBC Code shown in the left hand 
+column of the following table should be taken to mean references to the 
+BCH Code shown in the right hand column. Where a reference is made in 
+the BCH Code to column "m" in the table of chapter VI it should be taken 
+to mean any of the columns "m", "n" and "0" in the table of chapter 17 of 
+the IBC Code. 
+IBC/BCH CODES CROSS REFERENCES TO THE REQUIREMENTS 
+Code chapter 17 ite ms IBC Code reference BCH Code reference 
+type (column e) 
+1 = ship type 1 (2.1.2) (2.2.4(a» 
+2 = ship type 2 (2.1.2) (2.2.4(b» 
+3 = ship type 3 (2.1.2) (2.2.4(c» 
+type (column f) 
+1 = independent tank (4.1.1) (2.3.2) 
+2 = integral tank (4.1.2) (2.3.1) 
+G = gravity tank (4.1.3) (2.4) 
+P = pressure tank (4.1.4) 
+environmental control 
+(column h)
+---
+SOURCE: MSC.29(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.29(61).pdf
+2 = integral tank (4.1.2) (2.3.1) 
+G = gravity tank (4.1.3) (2.4) 
+P = pressure tank (4.1.4) 
+environmental control 
+(column h) 
+Inert: inerting (9.1.2.1) (2.19.2(a» 
+Pad: liquid or gas (9.1.2.2) (2.19.2(b» 
+Dry: drying (9.1.2.3) (2.19.2(c» 
+Vent: natural or forced (9.1.2.4) (2.19.2(d» 
+W/1800N/EWP 
+RESOLUTION MSC.29(61) 
+adopted on 11 December 1992 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS  
+CHEMICALS IN BULK (BCH CODE)
+---
+
+SOURCE: MSC.331(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.331(90).pdf
+RESOLUTION MSC.331(90) 
+(adopted on 25 May 2012) 
+ADOPTION OF AMENDMENTS TO RESOLUTION MSC.298(87) ON 
+ESTABLISHMENT OF A DISTRIBUTION FACILITYMSC 90/28/Add.1 
+Annex 12, page 1 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+ANNEX 12 
+ 
+RESOLUTION MSC.331(90) 
+(adopted on 25 May 2012) 
+ 
+ADOPTION OF AMENDMENTS TO RESOLUTION MSC.298(87) ON 
+ESTABLISHMENT OF A DISTRIBUTION FACILITY 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO that, at its eighty-seventh session, it had approved 
+resolution MSC.298(87) on Establishment of a distribution facility for the provision of 
+LRIT information to security forces operating in waters of the Gulf of Aden and the western 
+Indian Ocean to aid their work in the repression of piracy and armed robbery against ships 
+(the distribution facility),
+---
+SOURCE: MSC.331(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.331(90).pdf
+Indian Ocean to aid their work in the repression of piracy and armed robbery against ships 
+(the distribution facility), 
+ 
+NOTING that the Secretariat had established a distribution facility at IMO Headquarters and 
+that a number of naval forces engaged in operations against the perpetrators in waters of the 
+Gulf of Aden and the western Indian Ocean (the area) had advised that the use of the 
+distribution facility had proven to be efficient and was providing security forces with a holistic 
+picture of the ships operating in the area, enabling them to more effectively and efficiently 
+deploy the limited available naval and military assets and enhancing the protection they 
+offered to shipping and mariners transiting the area, 
+ 
+NOTING ALSO that, at its eighty-ninth session, it had agreed that the addition of polling 
+functionalities to the distribution facility should be implemented as an " opt-in" arrangement in
+---
+SOURCE: MSC.331(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.331(90).pdf
+functionalities to the distribution facility should be implemented as an " opt-in" arrangement in 
+the LRIT system where each flag State would have the ability to determine which security 
+force, if any, would be entitled to transmit polling request messages to any of their own ships, 
+ 
+HAVING CONSIDERED, at its ninetieth session, a technical solution for adding polling 
+functionalities to the distribution facility, 
+ 
+1.  AGREES that the addition of polling functionalities to the distribution facility will allow 
+security forces to more accurately identify the current position of ships approaching areas of 
+high risk of piracy attack; 
+ 
+2.  AGREES ALSO to the implementation of the above polling functionality as an 
+"opt-in" arrangement where the participation of flag States will be completely voluntary and 
+each flag State will have the ability to determine which security force, if any, will be
+---
+SOURCE: MSC.331(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.331(90).pdf
+each flag State will have the ability to determine which security force, if any, will be 
+authorized to poll the position of any of their own ships that might be approaching areas of 
+high risk of piracy attack; 
+ 
+3. ADOPTS amendments to resolution MSC.298(87) on Establishment of a distribution 
+facility, the contents of which are set out in the annex to the present resolution; 
+ 
+4.  INSTRUCTS the Secretariat to implement and test the above functionalities in the 
+distribution facility, taking into account the relevant decisions of the Committee, and to 
+amend the Web interface of the LRIT Data Distribution Plan so as to allow SOLAS 
+Contracting Governments to decide which security force(s), if any, would be authorized to 
+transmit polling request messages to any of their own ships; 
+RESOLUTION MSC.331(90) 
+(adopted on 25 May 2012) 
+ADOPTION OF AMENDMENTS TO RESOLUTION MSC.298(87) ON 
+ESTABLISHMENT OF A DISTRIBUTION FACILITYMSC 90/28/Add.1 
+Annex 12, page 2
+---
+SOURCE: MSC.331(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.331(90).pdf
+ADOPTION OF AMENDMENTS TO RESOLUTION MSC.298(87) ON 
+ESTABLISHMENT OF A DISTRIBUTION FACILITYMSC 90/28/Add.1 
+Annex 12, page 2 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+5. ENCOURAGES SOLAS Contracting Governments to consider, in case they have 
+not done so, providing flag State LRIT information to security forces operating in the area 
+and allowing them to transmit polling request messages to ships flying their flag when 
+approaching areas of high risk of piracy attack; 
+ 
+6. INVITES the Secretary-General to issue a circular letter advising all SOLAS 
+Contracting Governments on the availability of the above functionality within the distribution 
+facility and describing the "opt-in" process. 
+ 
+ 
+RESOLUTION MSC.331(90) 
+(adopted on 25 May 2012) 
+ADOPTION OF AMENDMENTS TO RESOLUTION MSC.298(87) ON 
+ESTABLISHMENT OF A DISTRIBUTION FACILITYMSC 90/28/Add.1 
+Annex 12, page 3 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO RESOLUTION MSC.298(87) ON ESTABLISHMENT 
+OF A DISTRIBUTION FACILITY
+---
+SOURCE: MSC.331(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.331(90).pdf
+Annex 12, page 3 
+ 
+ 
+I:\MSC\90\28-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO RESOLUTION MSC.298(87) ON ESTABLISHMENT 
+OF A DISTRIBUTION FACILITY 
+ 
+ 
+1 The existing text of paragraph 5 is replaced by the following: 
+ 
+"5 The distribution facility will not have the capability to present the flag State 
+LRIT information in a graphical manner." 
+ 
+2 The following three new paragraphs and heading are added after existing 
+paragraph 9: 
+ 
+"Polling the current location of a specific ship 
+ 
+10 Security forces wishing to poll the current position of a specific ship that 
+may be approaching an area of high risk of attack should indicate the IMO ship 
+identification number and the LRIT ID of the Administration whose flag the ship is 
+flying (the Data User Provider). 
+ 
+11 Polling position request messages will be transmitted by the distribution 
+facility to the LRIT Data Centre associated with the Administration of the ship, 
+through the IDE, only if the SOLAS Contracting Government concerned has
+---
+SOURCE: MSC.331(90).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.331(90).pdf
+through the IDE, only if the SOLAS Contracting Government concerned has 
+authorized the security force in question to poll the current position of their own flag 
+ships. 
+ 
+12 The provision of flag State LRIT information in response to a polling request 
+message received from a security force is completely voluntary. SOLAS Contracting 
+Governments have the right to decide, at any moment, and instruct their LRIT Data 
+Centres whether polling request messages transmitted by security forces should be 
+processed and responded." 
+ 
+3 The existing paragraphs 10 to 16 are renumbered as paragraphs 13 to 19, 
+respectively. 
+ 
+ 
+***
+RESOLUTION MSC.331(90) 
+(adopted on 25 May 2012) 
+ADOPTION OF AMENDMENTS TO RESOLUTION MSC.298(87) ON 
+ESTABLISHMENT OF A DISTRIBUTION FACILITYRESOLUTION MSC.331(90) 
+(adopted on 25 May 2012) 
+ADOPTION OF AMENDMENTS TO RESOLUTION MSC.298(87) ON 
+ESTABLISHMENT OF A DISTRIBUTION FACILITY
+---
+
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+RESOLUTION MSC.442(99) (adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODERESOLUTION MSC.442(99) 
+(adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING ALSO resolution MSC.122(75), by which it adopted the International Maritime 
+Dangerous Goods Code ("the IMDG Code"), which has become mandatory under chapter VII 
+of the International Convention for the Safety of Life at Sea, 1974 ("the Convention"), 
+RECALLING FURTHER article VIII(b) and regulation VII/1.1 of the Convention concerning 
+amendment procedure for amending the IMDG Code, 
+HAVING CONSIDERED, at its ninety-ninth session, amendments to the IMDG Code, proposed 
+and circulated in accordance with article VIII(b)(i) of the Convention,
+---
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+and circulated in accordance with article VIII(b)(i) of the Convention, 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the IMDG Code, the text of which is set out in the annexes to the present resolution; 
+2  DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that the 
+said amendments shall be deemed to have been accepted on 1 July 2019, unless prior to that 
+date, more than one third of the Contracting Governments to the Convention or Contracting 
+Governments, the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified their objections to the amendments; 
+3 INVITES Contracting Governments to the Convention to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2020 upon their acceptance in accordance with paragraph 2 above;
+---
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+on 1 January 2020 upon their acceptance in accordance with paragraph 2 above; 
+4 AGREES that Contracting Governments to the Convention may apply the 
+aforementioned amendments in whole or in part on a voluntary basis from 1 January 2019; 
+5 REQUESTS the Secretary-General, for the purposes of article VIII(b)(v) of 
+the Convention, to transmit certified copies of the present resolution and the text of 
+the amendments contained in the annex to all Contracting Governments to the Convention; 
+6 REQUESTS ALSO the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the Organization which are not Contracting Governments to 
+the Convention. 
+RESOLUTION MSC.442(99) (adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE- 2 - 
+ 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL MARITIME  
+DANGEROUS GOODS (IMDG) CODE 
+(AMENDMENT 39-18) 
+ 
+Table of Contents
+---
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL MARITIME  
+DANGEROUS GOODS (IMDG) CODE 
+(AMENDMENT 39-18) 
+ 
+Table of Contents 
+ 
+ 
+Insert a new line for "2.0.6 Classification of articles as articles containing dangerous goods 
+N.O.S." 
+ 
+Amend the contents for chapter 2.8 to read as follows: 
+ 
+ "2.8.1 Definition, general provisions and properties 
+ 2.8.2 General classification provisions 
+ 2.8.3 Packing group assignment for substances and mixtures 
+ 2.8.4  Alternative packing group assignment methods for mixtures: stepwise 
+approach 
+ 2.8.5  Substances not accepted for transport" 
+ 
+Amend the subtitle of 4.2.6 to read "Additional provisions for the use of road tank vehicles and 
+road gas elements vehicles".  
+ 
+Amend the title of chapter 5.3 to read "Placarding and marking of cargo transport units and 
+bulk containers". 
+ 
+Amend the subtitle of chapter 5.3.2 to read "Marking". 
+ 
+In the title of chapter 6.1, delete "(other than for class 6.2 substances)".
+---
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+Amend the subtitle of chapter 5.3.2 to read "Marking". 
+ 
+In the title of chapter 6.1, delete "(other than for class 6.2 substances)". 
+ 
+Amend the title of chapter 6.8 to read "Provisions for road tank vehicles and road gas elements 
+vehicles" 
+ 
+ 
+PART 1  
+GENERAL PROVISIONS, DEFINITIONS AND TRAINING 
+ 
+Chapter 1.1 
+General provisions 
+ 
+1.1.2  Conventions 
+ 
+1.1.2.2  International Convention for the Prevention of Pollution from Ships (MARPOL)
+  
+Annex III 
+ 
+Regulations for the prevention of pollution by harmful substances carried by 
+sea in packaged form 
+ 
+Under the existing heading, a new chapter title "Chapter 1 – General" is added 
+before the existing Regulation 1.   
+ 
+A new Regulation 1 is added as follows: 
+ 
+RESOLUTION MSC.442(99) (adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE- 3 - 
+ 
+ 
+"Regulation 1 
+Definitions 
+ 
+For the purposes of this Annex:
+---
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE- 3 - 
+ 
+ 
+"Regulation 1 
+Definitions 
+ 
+For the purposes of this Annex: 
+ 
+1  Harmful substances are those substances which are identified as marine 
+pollutants in the International Maritime Dangerous Goods Code (IMDG Code) or 
+which meet the criteria in the appendix of this Annex. 
+ 
+2  Packaged form is defined as the forms of containment specified for harmful 
+substances in the IMDG Code. 
+ 
+3  Audit means a systematic, independent and documented process for 
+obtaining audit evidence and evaluating it objectively to determine the extent to which 
+audit criteria are fulfilled. 
+ 
+4  Audit Scheme means the IMO Member State Audit Scheme established by 
+the Organization and taking into account the guidelines developed by the 
+Organization. 
+ 
+5  Code for Implementation means the IMO Instruments Implementation Code 
+(III Code) adopted by the Organization by resolution A.1070(28).
+---
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+5  Code for Implementation means the IMO Instruments Implementation Code 
+(III Code) adopted by the Organization by resolution A.1070(28). 
+ 
+6  Audit Standard means the Code for Implementation. 
+ 
+The subsequent regulations are renumbered in this subsection accordingly.  
+ 
+In the renumbered Regulation 2, "Application", existing paragraph 1 with 
+sub-paragraphs 1.1 and 1.2 are deleted. The existing paragraphs 2, 3, 4 and 5 are 
+renumbered accordingly.  
+ 
+The existing Regulations 2 to 8 are renumbered as Regulations 3 to 9.  
+ 
+Before the appendix to Annex III (Criteria for the identification of harmful substances 
+in packaged form) a new chapter 2 is added as follows:  
+ 
+"Chapter 2 – Verification of compliance with the provisions of this Annex 
+ 
+Regulation 10 
+Application  
+ 
+Parties shall use the provisions of the Code for Implementation in the execution of 
+their obligations and responsibilities contained in this Annex. 
+ 
+Regulation 11  
+Verification of compliance
+---
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+their obligations and responsibilities contained in this Annex. 
+ 
+Regulation 11  
+Verification of compliance  
+ 
+1  Every Party shall be subject to periodic audits by the Organization in 
+accordance with the audit standard to verify compliance with and implementation of 
+this Annex. 
+ 
+2  The Secretary-General of the Organization shall have responsibility for 
+administering the Audit Scheme, based on the guidelines developed by the 
+Organization.  
+ 
+RESOLUTION MSC.442(99) (adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE- 4 - 
+ 
+ 
+3  Every Party shall have responsibility for facilitating the conduct of the audit 
+and implementation of a programme of actions to address the findings, based on the 
+guidelines developed by the Organization.  
+ 
+4  Audit of all Parties shall be:  
+ 
+.1  based on an overall schedule developed by the Secretary-General 
+of the Organization, taking into account the guidelines developed by 
+the Organization; and
+---
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+of the Organization, taking into account the guidelines developed by 
+the Organization; and  
+ 
+.2  conducted at periodic intervals, taking into account the guidelines 
+developed by the Organization. 
+ 
+Appendix to Annex III 
+Criteria for the identification of harmful substances in packaged form 
+ 
+The chapeau of the appendix is replaced as follows with the corresponding footnotes:  
+ 
+"For the purpose of this Annex, substances, other than radioactive materials, 
+identified by any one of the following criteria are harmful substances: 
+ 
+Chapter 1.2 
+Definitions, units of measurement and abbreviations 
+ 
+1.2.1 Definitions 
+ 
+Amend the following definitions as indicated below: 
+ 
+Animal material: replace "or animal foodstuffs" with "foodstuffs or feedstuffs derived from 
+animals". 
+ 
+GHS: replace "sixth" with "seventh" and replace "ST/SG/AC.10/30/Rev.6" with 
+"ST/SG/AC.10/30/Rev.7". 
+ 
+Liquids: in the footnote, replace " ECE/TRANS/225 (Sales No. E.14.VIII.1) " with
+---
+SOURCE: MSC.442(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.442(99).pdf
+"ST/SG/AC.10/30/Rev.7". 
+ 
+Liquids: in the footnote, replace " ECE/TRANS/225 (Sales No. E.14.VIII.1) " with 
+"ECE/TRANS/257 (Sales No. E.16.VIII.1)". 
+ 
+Manual of Tests and Criteria: after "ST/SG/AC.10/11/Rev.6", insert "and Amend.1".  
+ 
+Add the following new definition: 
+ 
+"IMO type 9 tank means a road gas elements vehicle for the transport of compressed 
+gases of class 2 with elements linked to each other by a manifold, permanently 
+attached to a chassis, which is fitted with items of service equipment and structural 
+equipment necessary for the transport of gases. Elements are cylinders, tubes and 
+bundles of cylinders, intended for the transport of gases as defined in 2.2.1.1." 
+ 
+1.2.3 List of abbreviations 
+ 
+In the definition of EmS, add the word "Revised" before the word "Emergency". 
+ 
+RESOLUTION MSC.442(99) (adopted on 24 May 2018) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE
+---
+
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+RESOLUTION MSC.501(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE 
+ 
+RESOLUTION MSC.501(105) 
+(adopted on 28 April 2022) 
+ 
+AMENDMENTS TO THE INTERNATIONAL  
+MARITIME DANGEROUS GOODS (IMDG) CODE 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+NOTING resolution MSC.122(75) by which it adopted the International Maritime Dangerous 
+Goods Code (hereinafter referred to as "the IMDG Code"), which has become mandatory 
+under chapter VII of the International Convention for the Safety of Life at Sea (SOLAS), 1974, 
+as amended (hereinafter referred to as "the Convention"), 
+ 
+NOTING ALSO article VIII(b) and regulation VII/1.1 of the Convention concerning the 
+procedure for amending the IMDG Code, 
+ 
+HAVING CONSIDERED, at its 105th session, amendments to the IMDG Code, proposed and
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+procedure for amending the IMDG Code, 
+ 
+HAVING CONSIDERED, at its 105th session, amendments to the IMDG Code, proposed and 
+circulated in accordance with article VIII(b)(i) of the Convention, 
+ 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to the 
+IMDG Code, the text of which is set out in the annex to the present resolution; 
+ 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that the 
+said amendments shall be deemed to have been accepted on 1 July 2023 unless, prior to that 
+date, more than one third of the Contracting Governments to the Convention or Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet have notified their objections to the amendments; 
+ 
+3 INVITES Contracting Governments to the Convention to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2024 upon their acceptance in accordance with paragraph 2 above; 
+ 
+4 AGREES that Contracting Governments to the Convention may apply the 
+aforementioned amendments in whole or in part on a voluntary basis from 1 January 2023; 
+ 
+5 REQUESTS the Secretary -General, for the purposes of article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Governments to the Convention;  
+ 
+6 ALSO REQUESTS the Secretary-General to transmit copies of this resolution and its 
+annex t o Members of the Organization which are not Contracting Governments to the 
+Convention. 
+ 
+RESOLUTION MSC.501(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL MARITIME  
+DANGEROUS GOODS (IMDG) CODE  
+ 
+Contents
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+MARITIME DANGEROUS GOODS (IMDG) CODE- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL MARITIME  
+DANGEROUS GOODS (IMDG) CODE  
+ 
+Contents 
+ 
+Insert a new chapter 6.10 as follows: 
+ 
+ "Chapter 6.10  Provisions for the design, construction, inspection and testing 
+of portable tanks with shells made of fibre -reinforced plastics 
+(FRP) materials 
+ 
+  6.10.1  Application and general requirements 
+ 
+ 6.10.2  Provisions for the design, construction, inspection and testing 
+  of FRP portable tanks". 
+ 
+PART 1 
+GENERAL PROVISIONS, DEFINITIONS AND TRAINING 
+ 
+Chapter 1.2 
+Definitions, units of measurement and abbreviations 
+ 
+1.2.1  Definitions 
+ 
+In the definition for "Bundles of cylinders", replace the words "assemblies of cylinders" with the 
+words "pressure receptacles comprising an assembly of cylinders or cylinder shells". 
+ 
+Add the following new note under the definition for "Closure": 
+ 
+"Note: For pressure receptacles, closures are, for example, valves, pressure relief
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+"Note: For pressure receptacles, closures are, for example, valves, pressure relief 
+devices, pressure gauges or level indicators." 
+ 
+Replace the definition for "Cryogenic receptacles" to read as follows: 
+  
+"Closed cryogenic receptacles are thermally insulated pressure receptacles for 
+refrigerated liquefied gases of a water capacity of not more than 1,000 L." 
+ 
+In the definition for "Cylinders", delete the word "transportable". 
+ 
+In the definition for " GHS", replace the word "eighth" by the word "ninth" and replace 
+"ST/SG/AC.10/30/Rev.8" with "ST/SG/AC.10/30/Rev.9". 
+ 
+In the definition for " Manual of Tests and C riteria", after "ST/SG/AC.10/11/Rev.7", insert the 
+words "and Amend.1". 
+ 
+In the definition for " Metal hydride storage system ", replace the word "receptacle" with the 
+words "pressure receptacle shell". 
+ 
+In the definition for "Pressure drums", delete the word "transportable".
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+words "pressure receptacle shell". 
+ 
+In the definition for "Pressure drums", delete the word "transportable". 
+In the definition for " Pressure receptacles", after the words " Pressure receptacles", add the 
+words "are transportable receptacles intended for holding substances under pressure including 
+its closure(s) and other service equipment and it". 
+ 
+RESOLUTION MSC.501(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE- 3 - 
+ 
+In the definition for "Recycled plastics material", at the end of the note, add the following new 
+sentence:  
+ 
+"These guidelines have been developed based on the experience of the 
+manufacturing of drums and jerricans from recycled plastics material and as such may 
+need to be adapted for other types of packagings, IBCs and large packagings made 
+of recycled plastics material." 
+ 
+In the definition for "Tube", delete the word "transportable".
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+of recycled plastics material." 
+ 
+In the definition for "Tube", delete the word "transportable". 
+ 
+Replace the definition for "Working pressure" to read as follows: 
+ 
+"Working pressure: 
+  
+.1  for a compressed gas, means the settled pressure at a reference 
+temperature of 15°C in a full pressure receptacle; 
+  
+.2  for UN 1001 acetylene, dissolved, means the calculated settled pressure at 
+a uniform reference temperature of 15°C in an acetylene cylinder containing 
+the specified solvent content and the maximum acetylene content; and 
+ 
+.3  for UN 3374 acetylene, solvent free, means the working pressure which was 
+calculated for the equivalent cylinder for UN 1001 acetylene, dissolved." 
+ 
+Insert the following new definitions, in alphabetical order: 
+ 
+"IAEA Regulations for the Safe Transport of Radioactive Material means one of the editions of 
+those Regulations, as follows: 
+ 
+.1 for the 1985, 1985 (as amended 1990) editions: IAEA Safety Series No. 6;
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+those Regulations, as follows: 
+ 
+.1 for the 1985, 1985 (as amended 1990) editions: IAEA Safety Series No. 6; 
+ 
+.2 for the 1996 edition: IAEA Safety Series No. ST-1; 
+ 
+.3 for the 1996 (revised) edition: IAEA S afety Series No. TS -R-1 (ST -1, 
+Revised); 
+ 
+.4  for the 1996 (as amended 2003), 2005, 2009 editions: IAEA Safety 
+Standards Series No. TS-R-1; 
+ 
+.5  for the 2012 edition: IAEA Safety Standards Series No. SSR-6; and 
+ 
+.6 for the 2018 edition: IAEA Safety Standards Series No. SSR-6 (Rev.1)." 
+ 
+"Inner vessel, for a closed cryogenic receptacle, means the pressure vessel intended to 
+contain the refrigerated liquefied gas." 
+ 
+"Pressure receptacle shell means a cylinder, a tube, a pressure drum or a salvage pressu re 
+receptacle without its closures or other service equipment, but including any permanently 
+attached device(s) (e.g. neck ring, foot ring, etc.). 
+ 
+Note: The terms "cylinder shell", "pressure drum shell" and "tube shell" are also 
+used."
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+attached device(s) (e.g. neck ring, foot ring, etc.). 
+ 
+Note: The terms "cylinder shell", "pressure drum shell" and "tube shell" are also 
+used." 
+ 
+"Service equipment of a pressure receptacle means closure(s), manifold(s), piping, porous, 
+absorbent or adsorbent material and any structural devices, e.g. for handling." 
+ 
+RESOLUTION MSC.501(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE- 4 - 
+ 
+ 
+1.2.2  Units of measurement 
+ 
+1.2.2.1  In the table, after the entry for "Power", add the following new entry: 
+ 
+Electrical resistance  
+ 
+     Ω (ohm)            –      1 Ω = 1 kg ⋅ m2 ⋅ s−3 ⋅ A−2  
+ 
+Chapter 1.4 
+Security provisions 
+ 
+1.4.3  Provisions for high consequence dangerous goods 
+ 
+1.4.3.2  Specific security provisions for high consequence dangerous goods 
+ 
+1.4.3.2.3 After "Convention on Physical Protection of Nuclear Material", add 
+"(INFCIRC/274/Rev.1, IAEA, Vienna (1980))". After " Nuclear Security Recommendations on
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+"(INFCIRC/274/Rev.1, IAEA, Vienna (1980))". After " Nuclear Security Recommendations on 
+Physical Protection of Nuclear Material and Nuclear Facilities ", add "(INFC IRC/225/Rev.5, 
+IAEA, Vienna (2011))". 
+ 
+Chapter 1.5 
+General provisions concerning radioactive material 
+ 
+1.5.1  Scope and application 
+ 
+1.5.1.1  Replace the second sentence to read "These provisions are based on the 2018 
+edition of the IAEA Regulations for the Safe Transport of Radioactive Material". 
+ 
+PART 2 
+CLASSIFICATION 
+ 
+Chapter 2.4 
+Class 4 – Flammable solids; substances liable to spontaneous combustion; 
+substances which, in contact with water, emit flammable gases 
+ 
+2.4.2  Class 4.1 – Flammable solids, self -reactive substances, solid desensitized 
+explosives and polymerizing substances 
+ 
+2.4.2.3  Class 4.1 Self-reactive substances 
+ 
+2.4.2.3.2 Classification of self-reactive substances 
+ 
+2.4.2.3.2.3 In the last sentence, after the words "The formulations" add the words "not listed
+---
+SOURCE: MSC.501(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.501(105).pdf
+2.4.2.3.2.3 In the last sentence, after the words "The formulations" add the words "not listed 
+in this provision but". 
+ 
+In the table, add the following new entry in proper order:  
+ 
+3230 (7-METHOXY-5-
+METHYL-
+BENZOTHIOPHEN-2-
+YL) BORONIC ACID  
+ 
+88-100  OP7   (11) 
+ 
+Under the table, add the following new table note: 
+"(11)  The technical compound with the specified concentration limits may contain up to 12% 
+water and up to 1% organic impurities." 
+ 
+RESOLUTION MSC.501(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL 
+MARITIME DANGEROUS GOODS (IMDG) CODE
+---
+
+SOURCE: MSC.51(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.51(66).pdf
+RESOLUTION MSC.51(66) 
+(adopted on 4 June 1966) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING 
+DANGEROUS CHEMICALS IN BULK (BCH CODE) MSC 66/24/Add.1 
+ 
+ 
+L:\CD\DOCS\REPORTS\MSC 66-24-A1.DOC  
+ 
+ 
+ 
+ANNEX 6 
+ 
+RESOLUTION MSC.51(66)  
+(adopted on 4 June 1966)  
+  
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE CONSTRUCTION  
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS  
+IN BULK (BCH CODE) 
+ 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO resolution A.212(VII), by which the Assembly, at its seventh session, 
+adopted the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk 
+(BCH Code), which provides safety requirements for chemical tankers supplementary to the provisions of 
+the International Convention for the Safety of Life at Sea (SOLAS), 1974, as amended,
+---
+SOURCE: MSC.51(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.51(66).pdf
+the International Convention for the Safety of Life at Sea (SOLAS), 1974, as amended, 
+ 
+RECALLING FURTHER resolution MSC.29(61), by which the Committee, at its sixty-first 
+session, adopted the revised BCH Code, 
+ 
+NOTING resolution MSC.50(66), by which the Committee adopted amendments to the 
+International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk 
+(IBC Code), 
+ 
+RECOGNIZING the need to bring the corresponding amendments to the BCH Code in force on 
+the date on which the corresponding amendments to the IBC Code enter into force, 
+ 
+1. ADOPTS amendments to the BCH Code the text of which is given in the Annex to the present 
+resolution; 
+ 
+2. DETERMINES that the amendments shall become effective on 1 July 1998 upon acceptance and 
+entry into force of the corresponding amendments to the IBC Code adopted by resolution MSC.50(66). 
+ 
+ 
+RESOLUTION MSC.51(66) 
+(adopted on 4 June 1966) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE
+---
+SOURCE: MSC.51(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.51(66).pdf
+RESOLUTION MSC.51(66) 
+(adopted on 4 June 1966) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING 
+DANGEROUS CHEMICALS IN BULK (BCH CODE)MSC 66/24/Add.1 
+ANNEX 6 
+Page 2 
+ 
+ 
+ 
+ 
+ 
+L:\CD\DOCS\REPORTS\MSC 66-24-A1.DOC  
+ 
+ ANNEX 
+ 
+ AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND 
+ EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS 
+ IN BULK (BCH CODE) 
+ 
+ 
+ 
+Chapter IV - Special requirements 
+ 
+1 New paragraph 4.18.4 is added to chapter IV as follows: 
+ 
+"4.18.4     In order to avoid elevated temperatures, this cargo should not be carried in deck tanks." 
+ 
+ 
+Chapter VI - Summary of minimum requirements 
+ 
+2 The cross-reference between 16.6 of the IBC Code and 4.18 of the BCH Code is replaced by the 
+following: 
+ 
+IBC Code reference  BCH Code reference 
+ 
+          16.6.1              4.18.1 
+          16.6.2              4.18.2 
+          16.6.3              4.18.3 
+          16.6.4              4.18.4 
+ 
+ 
+ 
+ 
+ 
+ *** 
+RESOLUTION MSC.51(66)
+---
+SOURCE: MSC.51(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.51(66).pdf
+16.6.3              4.18.3 
+          16.6.4              4.18.4 
+ 
+ 
+ 
+ 
+ 
+ *** 
+RESOLUTION MSC.51(66) 
+(adopted on 4 June 1966) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING 
+DANGEROUS CHEMICALS IN BULK (BCH CODE)RESOLUTION MSC.51(66) 
+(adopted on 4 June 1966) 
+ADOPTION OF AMENDMENTS TO THE CODE FOR THE  
+CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING 
+DANGEROUS CHEMICALS IN BULK (BCH CODE)
+---
+
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+RESOLUTION MSC.273(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL MANAGEMENT CODE FOR THE SAFE OPERATION OF SHIPS AND FOR POLLUTION PREVENTION (INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE) 
+ 
+ 
+RESOLUTION MSC.273(85) 
+(adopted on 4 December 2008) 
+ 
+ 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL MANAGEMENT CODE 
+FOR THE SAFE OPERATION OF SHIPS AND FOR POLLUTION PREVENTION 
+(INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+NOTING resolution A.741(18), by which the Assembly adopted the International 
+Management Code for the Safe Operation of Ships and for Pollution Prevention (International 
+Safety Management (ISM) Code) (hereinafter referred to as “the ISM Code”), which has become 
+mandatory under chapter IX of th e International Conve ntion for the Safety of Life at Sea
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+mandatory under chapter IX of th e International Conve ntion for the Safety of Life at Sea 
+(SOLAS), 1974 (hereinafter referred to as “the Convention”), 
+ 
+ NOTING ALSO article VIII(b) and regulation IX/1.1 of the Convention concerning the 
+procedure for amending the ISM Code, 
+ 
+HAVING CONSIDERED, at its eighty-fifth session, amendm ents to the ISM Code 
+proposed and circulated in accordance with article VIII(b)(i) of the Convention, 
+ 
+1. ADOPTS, in accordance with article VIII(b )(iv) of the Convention, amendments to 
+the ISM Code, the text of which is set out in the Annex to the present resolution; 
+ 
+2. DETERMINES, in accordance with article VII I(b)(vi)(2)(bb) of th e Convention, that the 
+amendments shall be deemed to have been accepted on 1 January 2010 unless, prior to that date, 
+more than one third of the Contracting Go vernments to the Convention or Contracting 
+Governments, the combined merchant fleets of wh ich constitute not less than 50% of the gross
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+Governments, the combined merchant fleets of wh ich constitute not less than 50% of the gross 
+tonnage of the world’s merchant fleet, have notified their objections to the amendments; 
+ 
+3. INVITES Contracting Governments to note th at, in accordance with article VIII(b)(vii)(2) 
+of the Convention, the amendments shall enter into force on 1 July 2010 upon their acceptance in 
+accordance with paragraph 2 above; 
+ 
+4. REQUESTS the Secretary-General, in confor mity with article VIII(b)(v) of the Convention, 
+to transmit certified copies of the present resolu tion and the text of the amendments contained in 
+the Annex to all Contracting Governments to the Convention; 
+ 
+5. FURTHER REQUESTS the Secret ary-General to transmit copies  of this resolution and 
+its Annex to Members of the Organization, which are not Contracting Governments to 
+the Convention. 
+ 
+RESOLUTION MSC.273(85) 
+(adopted on 4 December 2008)
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+the Convention. 
+ 
+RESOLUTION MSC.273(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL MANAGEMENT CODE FOR THE SAFE OPERATION OF SHIPS AND FOR POLLUTION PREVENTION (INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE)- 2 - 
+ 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL MANAGEMENT CODE FOR 
+THE SAFE OPERATION OF SHIPS AND FOR POLLUTION PREVENTION 
+(INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE) 
+ 
+ 
+1 GENERAL 
+ 
+Section 1.1 Definitions 
+ 
+1 In paragraph 1.1.10, the words “and include s” are replaced by the word “or”. 
+ 
+Section 1.2 Objectives 
+ 
+2 The existing subparagraph .2 of paragraph 1.2.2 is replaced by the following:  
+ 
+“.2 assess all identified risks to its ships, personnel and the environment and establish 
+appropriate safeguards; and”. 
+ 
+5 MASTER’S RESPONSIBILITY AND AUTHORITY 
+ 
+3 The word “periodically” is added at the beginning of paragraph 5.1.5. 
+ 
+ 7 DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+3 The word “periodically” is added at the beginning of paragraph 5.1.5. 
+ 
+ 7 DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS 
+ 
+4 The existing section 7 is  replaced by the following: 
+ 
+“7 SHIPBOARD OPERATIONS 
+ 
+The Company should establish procedures, pl ans and instructions, including checklists 
+as appropriate, for key shipboard operations concerning the safety of the personnel, ship 
+and protection of the environment. The vari ous tasks should be defined and assigned to 
+qualified personnel.” 
+ 
+ 8 EMERGENCY PREPAREDNESS 
+ 
+5 The existing paragraph 8.1 is replaced by the following: 
+ 
+“8.1 The Company should identify potential emergency shipboard situations, and 
+establish procedures to respond to them.” 
+ 
+9 REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS 
+AND HAZARDOUS OCCURRENCES 
+ 
+6 The existing paragraph 9.2 is replaced by the following: 
+ 
+ “9.2 The Company should establish procedures for the implemen tation of corrective
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+6 The existing paragraph 9.2 is replaced by the following: 
+ 
+ “9.2 The Company should establish procedures for the implemen tation of corrective 
+action, including measures intended to prevent recurrence.” 
+RESOLUTION MSC.273(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL MANAGEMENT CODE FOR THE SAFE OPERATION OF SHIPS AND FOR POLLUTION PREVENTION (INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE)- 3 - 
+ 
+ 
+10 MAINTENANCE OF TH E SHIP AND EQUIPMENT 
+ 
+7 In paragraph 10.3, the words “establish procedures in its safety management system to” 
+are deleted. 
+ 
+12 COMPANY VERIFICATION, REVIEW AND EVALUATION 
+ 
+8 Paragraph 12.1 is replaced by the following: 
+ 
+“12.1 The Company should carry out internal  safety audits on board and ashore at 
+intervals not exceeding twelve months to ve rify whether safety and pollution-prevention 
+activities comply with the safety management system.  In exceptional circumstances, this
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+activities comply with the safety management system.  In exceptional circumstances, this 
+interval may be exceeded by not more than three months.” 
+ 
+9 In paragraph 12.2, the words “efficiency of and, when needed, review” are replaced by 
+the words “effectiveness of”. 
+ 
+13 CERTIFICATION AND PE RIODICAL VERIFICATION 
+ 
+10 The following new paragraphs 13.12, 13.13 and 13.14 are added after the existing 
+paragraph 13.11: 
+ 
+“13.12 When the renewal verification is comple ted after the expiry date of the existing 
+Safety Management Certificate, the new Safe ty Management Certificate should be valid 
+from the date of completion of the renewal verification to a date not exceeding five years 
+from the date of expiry of the existing Safety Management Certificate. 
+ 
+13.13 If a renewal verification has been completed and a new Safety Management 
+Certificate cannot be issued or  placed on board the ship befo re the expiry date of the
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+Certificate cannot be issued or  placed on board the ship befo re the expiry date of the 
+existing certificate, the Admini stration or organization reco gnized by the Administration 
+may endorse the existing certifi cate and such a certificate should be accepted as valid for 
+a further period which should not exceed five months from the expiry date. 
+ 
+13.14 If a ship at the time when a Safety Management Certificate expires is not in a port 
+in which it is to be verified, the Administration may extend the period of validity of the 
+Safety Management Certificate, but this extension should be granted only for the purpose of 
+allowing the ship to complete its voyage to the port in which it is to be verified, and then 
+only in cases where it appears proper and reasonable to do so.  No Safety Management 
+Certificate should be extended for a period of longer than three months, and the ship to 
+which an extension is granted should not, on its arrival in th e port in which it is to be
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+which an extension is granted should not, on its arrival in th e port in which it is to be 
+verified, be entitled by virtue of such exte nsion to leave that port without having a new 
+Safety Management Certificate.  When th e renewal verification is completed, the new 
+Safety Management Certificate should be valid to a date no t exceeding five years from  
+the expiry date of the existing Safety Management Certificate before the extension was 
+granted.” 
+ 
+14 INTERIM CERTIFICATION 
+ 
+11 In paragraph 14.4.3, the word “internal” is inserted after the words “planned the”. 
+ 
+RESOLUTION MSC.273(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL MANAGEMENT CODE FOR THE SAFE OPERATION OF SHIPS AND FOR POLLUTION PREVENTION (INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE)- 4 - 
+ 
+ 
+APPENDIX 
+ 
+Forms of the Document of Compliance, the Safety Management Certificate, 
+the Interim Document of Compliance and the Interim Safety Management Certificate
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+the Interim Document of Compliance and the Interim Safety Management Certificate 
+ 
+SAFETY MANAGEMENT CERTIFICATE 
+ 
+12 The following new form is added afte r existing form of “ENDORSEMENT FOR 
+INTERMEDIATE VERIFICATION AND ADDITIONAL VERIFICATION (IF REQUIRED)”: 
+ 
+“Certificate No. 
+ 
+ENDORSEMENT WHERE THE RENEWAL VERIFICATION 
+HAS BEEN COMPLETED AND PART B 13.13 OF 
+THE ISM CODE APPLIES 
+ 
+The ship complies with the relevant provisi ons of part B of the ISM Code, and the 
+Certificate should, in accordance with part B 13.13 of the ISM Code, be accepted as valid 
+until ……………………. 
+ 
+Signed ............................................... 
+(Signature of authorized official) 
+Place .................................................. 
+Date ................................................... 
+ 
+ 
+(Seal or stamp of the authority, as appropriate) 
+ 
+ 
+ 
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE 
+CERTIFICATE UNTIL REACHING THE PORT OF 
+VERIFICATION WHERE PART B 13.12 OF THE ISM CODE APPLIES
+---
+SOURCE: MSC.273(85).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.273(85).pdf
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE 
+CERTIFICATE UNTIL REACHING THE PORT OF 
+VERIFICATION WHERE PART B 13.12 OF THE ISM CODE APPLIES 
+OR FOR A PERIOD OF GRACE WHERE PART B 13.14 OF 
+THE ISM CODE APPLIES 
+ 
+This Certificate should, in accordance with part B 13.12 or part B 13.14 of the ISM Code, 
+be accepted as valid until ………………… 
+ 
+Signed ............................................... 
+(Signature of authorized official) 
+Place .................................................. 
+Date ................................................... 
+ 
+ 
+(Seal or stamp of the authority, as appropriate)” 
+ 
+ 
+RESOLUTION MSC.273(85) 
+(adopted on 4 December 2008) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL MANAGEMENT CODE FOR THE SAFE OPERATION OF SHIPS AND FOR POLLUTION PREVENTION (INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE)
+---
+
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+RESOLUTION MSC.163(78) 
+(adopted on 17 May 2004) 
+PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs)MSC 78/26/Add.2 
+ 
+ 
+I:\MSC\78\26-Add.2.doc 
+ 
+ 
+ANNEX 26 
+ 
+ 
+RESOLUTION MSC.163(78) 
+(adopted on 17 May 2004) 
+ 
+PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+ RECALLING ALSO resolution A.886(21), by wh ich the Assembly resolved that the 
+functions of adopting performance standards for radio and navigational equipment, as well as 
+amendments thereto, shall be performed by th e Maritime Safety Committee on behalf of the 
+Organization, 
+ 
+ NOTING that the provisions of regulation V/20 of the International Convention for the 
+Safety of Life at Sea, 1974, as amended, do not apply to the existing cargo ships with respect to
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+Safety of Life at Sea, 1974, as amended, do not apply to the existing cargo ships with respect to 
+the carriage requirements of voyage data recorders (VDRs), 
+ 
+ RECALLING FURTHER resolution MSC.109( 73), by which the Committee decided that 
+a study should be carried out, as a matter of urge ncy, to assess the feasib ility for existing cargo 
+ships to carry VDRs and instructed the Sub-Committee on Safety of Navigation accordingly, 
+ 
+ NOTING ALSO that the report on the feas ibility study clearly demonstrates the 
+compelling need for mandatory carriage of a simplified version of VDRs on existing cargo ships, 
+ 
+ HAVING CONSIDERED the recommendation made by the Sub-Committee on Safety of 
+Navigation at its forty-ninth session, 
+ 
+1. ADOPTS the Recommendation on Performa nce Standards for Shipborne Simplified 
+Voyage Data Recorders (S-VDRs); 
+ 
+2. INVITES Governments to encourage shipow ners and operators of the existing cargo
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+Voyage Data Recorders (S-VDRs); 
+ 
+2. INVITES Governments to encourage shipow ners and operators of the existing cargo 
+ships entitled to fly their flag to install S-VDR s on such ships, as soon as possible, especially 
+considering that the carriage of S-VDRs may soon be mandatory under the SOLAS Convention; 
+ 
+3. RECOMMENDS Governments to ensure th at S-VDRs installed on board the existing 
+cargo ships flying their flag confor m to performance standards not in ferior to those specified in 
+the Annex to this resolution. 
+ 
+ 
+RESOLUTION MSC.163(78) 
+(adopted on 17 May 2004) 
+PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs)MSC 78/26/Add.2 
+ANNEX 26 
+Page 2 
+ 
+ 
+I:\MSC\78\26-Add.2.doc 
+ANNEX 
+ 
+RECOMMENDATION ON PERFORMANCE STANDARDS FOR 
+SHIPBORNE SIMPLIFIED VOYAGE DATA RECORDERS (S-VDRs) 
+ 
+ 
+1 PURPOSE  
+ 
+1.1 The purpose of a simplified voyage data reco rder (S-VDR) is to maintain a store, in a
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+1 PURPOSE  
+ 
+1.1 The purpose of a simplified voyage data reco rder (S-VDR) is to maintain a store, in a 
+secure and retrievable form, of information c oncerning the position, mo vement, physical status, 
+command and control of a vessel over the period leading up to and following an incident having 
+an impact thereon.  Information contained in  a S-VDR should be made available to both the 
+Administration and the shipowner.  This in formation is for use during any subsequent 
+investigation to identify the cause(s) of the incident. 
+ 
+2 APPLICATION  
+ 
+2.1 A S-VDR with capabilities not inferior to those defined in these performance standards is 
+required to be fitted to ships of classes defined in SOLAS chapter V, as amended. 
+ 
+3 REFERENCES  
+ 
+3.1 SOLAS: 
+ 
+- 1995 SOLAS Conference, resolution 12. 
+ 
+3.2 IMO resolutions: 
+ 
+- A.662(16) Performance Standards fo r Float-free Release and Activation 
+Arrangements for Emergency Radio Equipment
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+3.2 IMO resolutions: 
+ 
+- A.662(16) Performance Standards fo r Float-free Release and Activation 
+Arrangements for Emergency Radio Equipment 
+ 
+- A.694(17) General Requirements for Shipborne Radio Equipment Forming 
+Part of the GMDSS and for Electronic Navigational Aids 
+ 
+- A.802(19) Performance Standards for Su rvival Craft Radar Transponders for 
+use in Search and Rescue Operations 
+ 
+- A.810(19) Performance Standards for Float-free Satellite Emergency Position-
+Indicating Radio Beacons Operating on 406 MHz 
+ 
+- A.812(19) Performance standards for fl oat-free satellite emergency position 
+indicating radio beacons operatin g through the geostationary 
+Inmarsat satellite system on 1.6 GHz 
+ 
+- A.824(19) Performance Standards for De vices to Indicate Speed and Distance 
+ 
+- A.830(19) Code on Alarms and Indicators, 1995 
+ 
+- A.861(20) Performance Standards for Shipborne Voyage Data Recorders 
+(VDRs) 
+RESOLUTION MSC.163(78) 
+(adopted on 17 May 2004)
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+- A.861(20) Performance Standards for Shipborne Voyage Data Recorders 
+(VDRs) 
+RESOLUTION MSC.163(78) 
+(adopted on 17 May 2004) 
+PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs)MSC 78/26/Add.2 
+ANNEX 26 
+Page 3 
+ 
+ 
+I:\MSC\78\26-Add.2.doc 
+ 
+- MSC.64(67), Performance Standard for Heading Control Systems 
+annex 3 
+ 
+- MSC.64(67), Performance Standards for Navigational Radar Equipment, 
+annex 4 as amended. 
+ 
+4 DEFINITIONS  
+ 
+4.1 Simplified Voyage data recorder (S-VDR) means a complete system, including any items 
+required to interface with the s ources of input data, for proce ssing and encoding the data, the 
+final recording medium, the power supply and dedicated reserve power source. 
+ 
+4.2 Sensor means any unit external to the S-VDR, to which the S-VDR is connected and from 
+which it obtains data to be recorded. 
+ 
+4.3 Final recording medium means the item of hardware on wh ich the data is recorded such
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+which it obtains data to be recorded. 
+ 
+4.3 Final recording medium means the item of hardware on wh ich the data is recorded such 
+that access to it would enable the data to be recovered and played back by use of suitable 
+equipment. 
+ 
+4.4 Playback equipment means the equipment, compatible with the recording medium and the 
+format used during recording, employed for recove ring the data.  It include s also the display or 
+presentation hardware and software that is appropriate to the original data source equipment.1 
+ 
+4.5 Dedicated reserve power source  means a secondary battery,  with suitable automatic 
+charging arrangements, dedicated so lely to the S-VDR, of sufficient capacity to operate it as 
+required by 5.3.2. 
+ 
+5 OPERATIONAL REQUIREMENTS  
+ 
+5.1 General  
+ 
+5.1.1 The S-VDR should continuously maintain se quential records of pr eselected data items 
+relating to the status and output of the ship’s equipment, and command and control of the ship, 
+referred to in 5.4.
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+relating to the status and output of the ship’s equipment, and command and control of the ship, 
+referred to in 5.4. 
+ 
+5.1.2 To permit subsequent analys is of factors surrounding an incident, the method of recording 
+should ensure that the various data items can be co-related in date and time during playback on 
+suitable equipment. 
+ 
+5.1.3 Final recording medium 
+ 
+5.1.3.1 The final recording medium should be installed in a protective capsule of either a fixed or 
+float-free type, which should meet all of the following requirements: 
+ 
+ .1 be capable of being accessed following an  incident but secure against tampering; 
+ 
+                                                 
+1 Playback equipment is not normally in stalled on a ship and is not regarded as part of a S-VDR for the purposes 
+of these performance standards. 
+RESOLUTION MSC.163(78) 
+(adopted on 17 May 2004) 
+PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs)MSC 78/26/Add.2 
+ANNEX 26 
+Page 4
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+(adopted on 17 May 2004) 
+PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs)MSC 78/26/Add.2 
+ANNEX 26 
+Page 4 
+ 
+ 
+I:\MSC\78\26-Add.2.doc 
+.2 maintain the recorded data for a period of at least 2 years following termination of 
+recording; 
+ 
+ .3 be of a highly visible colour and mark ed with retro-reflective materials;  and 
+ 
+ .4 be fitted with an appropriate device to aid location. 
+ 
+5.1.3.2 The fixed type protective capsule s hould comply with the re quirements set out in 
+resolution A.861(20) with the exception of th e resulting requirement s for withstanding 
+penetration. 
+ 
+5.1.3.3 The float-free type  protective capsule should: 
+ 
+.1 be fitted with means to facilitate grappling and recovery; 
+ 
+.2 be so constructed as to comply with the requirements specified in 
+resolutions A.810(19) or A.812(19) and to minimize risk of damage during 
+recovery operations;  and
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+resolutions A.810(19) or A.812(19) and to minimize risk of damage during 
+recovery operations;  and 
+ 
+.3 the device should be capable of transm itting an initial locating signal and further 
+locating homing signal for at least 48 hours over a period of not less than 
+7 days/168 hours. 
+ 
+5.1.4 The design and construction, which shoul d be in accordance with the requirements of 
+resolution A.694(17) and international st andards acceptable to the Organization 2, should take 
+special account of the requirements for data security and continuity of operation as detailed in 5.2 
+and 5.3. 
+ 
+5.2 Data selection and security  
+ 
+5.2.1 The minimum selections of data items to be recorded by the S-VDR are specified in 5.4.  
+Optionally, additional items may be recorded provided that the requirements for the recording 
+and storage of the specified selections are not compromised. 
+ 
+5.2.2 The equipment should be so designed that, as far as is practical, it is not possible to
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+5.2.2 The equipment should be so designed that, as far as is practical, it is not possible to 
+tamper with the selection of data being input to the equipment, the data itself nor that which has 
+already been recorded.  Any attempt to interfere with the integrity of the data or the recording 
+should be recorded. 
+ 
+5.2.3 The recording method should be such that e ach item of the recorded  data is checked for 
+integrity and an alarm given if a non-correctable error is detected. 
+ 
+5.3 Continuity of operation  
+ 
+5.3.1 To ensure that the S-VDR continues to r ecord events during an incident, it should be 
+capable of operating from the ship’s emergency source of electrical power. 
+ 
+                                                 
+2 Refer to publication IEC 60945 - Maritime naviga tion and radiocommunication equipment and systems - 
+General requirements, methods of testing and required test results. 
+RESOLUTION MSC.163(78) 
+(adopted on 17 May 2004)
+---
+SOURCE: MSC.163(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.163(78).pdf
+General requirements, methods of testing and required test results. 
+RESOLUTION MSC.163(78) 
+(adopted on 17 May 2004) 
+PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs)
+---
+
+SOURCE: MSC.445(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.445(99).pdf
+RESOLUTION MSC.445(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE OF SAFETY FOR SPECIAL PURPOSE SHIPS, 2008 
+(2008 SPS CODE)MSC 99/22/Add.1 
+Annex 10, page 1 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+ANNEX 10 
+RESOLUTION MSC.445(99) 
+(adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE OF SAFETY FOR SPECIAL PURPOSE SHIPS, 2008 
+(2008 SPS CODE) 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING ALSO resolution MSC.266(84), by which it adopted the Code of Safety for 
+Special Purpose Ships, 2008 (2008 SPS Code), 
+NOTING the need to amend respective provisions of the Code, 
+NOTING ALSO that, by resolution MSC.436(99), it adopted amendments to SOLAS chapter IV 
+and the appendix (Certificates) regarding the use of the term "recognized mobile satellite 
+service", 
+HAVING CONSIDERED, at its ninety-ninth session, the consequential amendments to
+---
+SOURCE: MSC.445(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.445(99).pdf
+service", 
+HAVING CONSIDERED, at its ninety-ninth session, the consequential amendments to 
+the Record of Equipment for Compliance with the  2008 SPS Code, proposed for adoption in 
+conjunction with the adoption of amendments to SOLAS chapter IV and the appendix 
+(Certificates), 
+1 ADOPTS amendments to the 2008 SPS Code, the text of which is set out in the annex 
+to the present resolution; 
+2 DETERMINES that said amendments should become effective on 1 January 2020. 
+RESOLUTION MSC.445(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE OF SAFETY FOR SPECIAL PURPOSE SHIPS, 2008 
+(2008 SPS CODE)MSC 99/22/Add.1 
+Annex 10, page 2 
+ 
+ 
+I:\MSC\99\MSC 99-22-Add.1.docx 
+ANNEX 
+ 
+AMENDMENTS TO THE CODE OF SAFETY FOR SPECIAL PURPOSE SHIPS, 2008 
+(2008 SPS CODE) 
+ 
+ANNEX 
+ 
+FORM OF SAFETY CERTIFICATE FOR SPECIAL PURPOSE SHIPS 
+ 
+APPENDIX 
+ 
+Record of Equipment for the Special Purpose Ship Safety Certificate 
+(Form SPS) 
+ 
+RECORD OF EQUIPMENT FOR COMPLIANCE WITH THE CODE OF SAFETY
+---
+SOURCE: MSC.445(99).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.445(99).pdf
+Record of Equipment for the Special Purpose Ship Safety Certificate 
+(Form SPS) 
+ 
+RECORD OF EQUIPMENT FOR COMPLIANCE WITH THE CODE OF SAFETY 
+FOR SPECIAL PURPOSE SHIPS 
+ 
+3 Details of radio facilities 
+ 
+In section 1, the existing description of item 1.4 is amended to read as follows: 
+ 
+"Recognized mobile satellite service ship earth station". 
+ 
+ 
+***
+RESOLUTION MSC.445(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE OF SAFETY FOR SPECIAL PURPOSE SHIPS, 2008 
+(2008 SPS CODE)RESOLUTION MSC.445(99)  (adopted on 24 May 2018) 
+AMENDMENTS TO THE CODE OF SAFETY FOR SPECIAL PURPOSE SHIPS, 2008 
+(2008 SPS CODE)
+---
