@@ -1,0 +1,1002 @@
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+RESOLUTION MSC.480(102) (adopted on 11 November 2020) 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+JAPANESE QUASI-ZENITH SATELLITE SYSTEM (QZSS) RECEIVER EQUIPMENTMSC 102/24/Add.1 
+Annex 10, page 1 
+ 
+ 
+MSC 102-24-Add.1.docx 
+ANNEX 10 
+ 
+RESOLUTION MSC.480(102) 
+(adopted on 11 November 2020) 
+ 
+PERFORMANCE STANDARDS FOR SHIPBORNE  
+JAPANESE QUASI-ZENITH SATELLITE SYSTEM (QZSS) RECEIVER EQUIPMENT 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO resolution A.886(21), by which the Assembly resolved that the function of 
+adopting performance standards and technical specifications, as well as amendments thereto, 
+shall be performed by the Maritime Safety Committe e and/or the Marine Environment 
+Protection Committee, as appropriate, on behalf of the Organization, 
+ 
+RECALLING FURTHER that, in accordance with resolution A.1046(27), containing the
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+RECALLING FURTHER that, in accordance with resolution A.1046(27), containing the 
+"Revised Report on the Study of a  Worldwide Radionavigation System", adopted as the IMO 
+policy for the recognition and acceptance of suitable radionavigation systems intended for 
+international use, the Japanese Quasi-Zenith Satellite System (QZSS) may be recognized as 
+a possible component of the worldwide radionavigation system, 
+ 
+NOTING that shipborne receiving equipment for the worldwide radionavigation system should 
+be designed to satisfy the detailed requirements of the particular system concerned, 
+ 
+RECOGNIZING the need to develop performance standards for shipborne Japanese QZSS 
+receiver equipment in order to ensure the operational reliability of such equipment and taking 
+into account the technological progress and experience gained, 
+ 
+HAVING CONSIDERED, at its 102nd session, the recommendation made by the 
+Sub-Committee on Nav igation, Communications and Search and Rescue, at its
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+HAVING CONSIDERED, at its 102nd session, the recommendation made by the 
+Sub-Committee on Nav igation, Communications and Search and Rescue, at its 
+seventh session, 
+ 
+1 ADOPTS the Performance standards for shipborne Japanese Quasi-Zenith Satellite 
+System (QZSS) receiver equipment, set out in the annex to the present resolution; 
+ 
+2 RECOMMENDS Governments to ensure that shipborne Japanese QZSS receiver 
+equipment installed on or after 1 January 2024 conforms to performance standards not inferior 
+to those specified in the annex to the present resolution. 
+ 
+  
+RESOLUTION MSC.480(102) (adopted on 11 November 2020) 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+JAPANESE QUASI-ZENITH SATELLITE SYSTEM (QZSS) RECEIVER EQUIPMENTMSC 102/24/Add.1 
+Annex 10, page 2 
+ 
+ 
+MSC 102-24-Add.1.docx 
+ANNEX 
+ 
+PERFORMANCE STANDARDS FOR SHIPBORNE  
+JAPANESE QUASI-ZENITH SATELLITE SYSTEM (QZSS) RECEIVER EQUIPMENT 
+ 
+1 Introduction
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+ANNEX 
+ 
+PERFORMANCE STANDARDS FOR SHIPBORNE  
+JAPANESE QUASI-ZENITH SATELLITE SYSTEM (QZSS) RECEIVER EQUIPMENT 
+ 
+1 Introduction 
+ 
+1.1 QZSS is a regional navigation satellite system compatible and interoperable with other 
+navigation satellite systems worldwide. QZSS is a system independent ly developed and 
+operated by Japan and is comprised of three major components: space constellation, ground 
+control segment and user terminals. At the time of QZSS 4 -satellite constellation, there are 
+three quasi-zenith orbit (QZO) satellites and one geostationary orbit (GEO) satellite. QZO is the 
+inclined geosynchronous orbit (IGSO) with a slight eccentricity. QZO satellite s have different 
+orbital planes from one another that are inclined at about 40° and elliptical. The centre of 
+longitude at three QZO orbit is around 139° E. Three QZO satellites have an orbital plane phase 
+that has been adjusted so that they have almost the same ground track and the orbital period of
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+that has been adjusted so that they have almost the same ground track and the orbital period of 
+QZO is the same as GEO. GEO satellite is positioned at 127° E. At the time of QZSS 7-satellite 
+constellation, two QZO satellites and one GEO satellite will be added in 4-satellite constellation. 
+Each satellite transmits standard positioning service signal on "L1" and "L5" bands with carrier 
+frequencies as 1 575.42 MHz and 1 176.45 MHz, respecti vely. Standard positioning signals 
+include ranging codes which are defined in the GPS IS documents, i.e. using the same code 
+sequences as GPS pseudo random noise (PRN) codes and can provide the open service. 
+A navigation data message is superimposed on these codes. QZSS satellites are identified by 
+PRN codes. QZSS can be used in combination with GPS. 
+ 
+1.2 QZSS provides positioning, navigation and timing (PNT) service, free of direct user 
+charges. QZSS receiver equipment should be capable of receiving and processing the
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+charges. QZSS receiver equipment should be capable of receiving and processing the 
+standard service signal. 
+ 
+1.3 QZSS receiver equipment intended for navigation purposes on ships with a speed not 
+exceeding 70 knots, in addition to the general requirements specified in resolution A.694(17),1 
+should comply with the minimum performance requirements set out below. 
+ 
+1.4 The standards cover the basic requirements of position fixing, determination of course 
+over ground (COG), speed over ground (SOG) and timing, either for navigation purposes or 
+as input to other functions. The standards do not cover other computational facilities which 
+may be in the equipment nor do they cover the requirements for other systems that may take 
+input from the QZSS receiver. 
+ 
+1.5 It should be noted that this is the regional navigation satellite system being recognized 
+as a future component of the Worldwide Radionavigation System (WWRNS) and the service 
+is limited to the following coverage area:
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+as a future component of the Worldwide Radionavigation System (WWRNS) and the service 
+is limited to the following coverage area: 
+ 
+Coverage area: Asia-Oceania region area, as enclosed by the following coordinates: 
+ 
+A  56°45'.28 N,  143°43'.24 E 
+B  13°22'.78 N,  173°23'.09 E 
+C  04°18'.48 S,  173°23'.09 E 
+D  59°59'.28 S,  139°47'.72 E 
+E  44°46'.28 S,  095°06'.47 E 
+F  03°21'.83 S,  082°32'.05 E 
+G  31°03'.91 N,  093°58'.10 E 
+ 
+ 
+1  Refer to publication IEC 60945. 
+RESOLUTION MSC.480(102) (adopted on 11 November 2020) 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+JAPANESE QUASI-ZENITH SATELLITE SYSTEM (QZSS) RECEIVER EQUIPMENTMSC 102/24/Add.1 
+Annex 10, page 3 
+ 
+MSC 102-24-Add.1.docx 
+1.6 Figure 1 shows the coverage area of QZSS PNT service. 
+Figure 1: Coverage area of QZSS PNT Service 
+ 
+2 QZSS receiver equipment 
+ 
+2.1 The term "QZSS receiver equipment", as used in the performance standards, includes
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+2 QZSS receiver equipment 
+ 
+2.1 The term "QZSS receiver equipment", as used in the performance standards, includes 
+all the components and units necessary for the system to properly perform its intended 
+functions. QZSS receiver equipment should include the following minimum facilities: 
+ 
+.1 antenna capable of receiving QZSS signals; 
+ 
+.2 QZSS receiver and processor; 
+ 
+.3 means of accessing the computed latitude/longitude position; 
+ 
+.4 data control and interface; and 
+ 
+.5 position display and, if required, other forms of output. 
+ 
+2.2 The antenna design should be suitable for fitting at a position on the ship which 
+ensures a clear view of the satellite constellation, taking into consideration any obstructions 
+that might exist on the ship. 
+ 
+3 Performance standards for QZSS receiver equipment 
+ 
+QZSS receiver equipment should: 
+ 
+.1 be capable of receiving and processing the QZSS navigation signals, and 
+use the ionospheric model;
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+QZSS receiver equipment should: 
+ 
+.1 be capable of receiving and processing the QZSS navigation signals, and 
+use the ionospheric model; 
+ 
+.2 provide position information based upon ITRF or WGS -84 coordinates and 
+should be in accordance with international standards;2 
+ 
+ 
+2  Publication IEC 61162. 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+RESOLUTION MSC.480(102) (adopted on 11 November 2020) 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+JAPANESE QUASI-ZENITH SATELLITE SYSTEM (QZSS) RECEIVER EQUIPMENTMSC 102/24/Add.1 
+Annex 10, page 4 
+ 
+ 
+MSC 102-24-Add.1.docx 
+.3 provide time referenced to Universal Time Coordinated (UTC); 
+ 
+.4 be provided with at least one output from which position information, UTC, 
+COG, SOG and alarms can be supplied to other equipment. The output of 
+UTC, COG, SOG and alarms should be consistent with the requirements of 
+paragraph 3.15; 
+ 
+.5 have static accuracy such that, for the service area in figure  1 where a
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+paragraph 3.15; 
+ 
+.5 have static accuracy such that, for the service area in figure  1 where a 
+horizontal dilution of precision (HDOP) is equal to or less than  6.7, the 
+position of the antenna is determined to be within 50.4 m horizontal (95%); 
+ 
+.6 have dynamic accuracy under the conditions of sea states and ships' motion 
+likely to be experienced in ships, 3 such that for the service area in figure  1 
+where a HDOP is equal to or less than 6.7, the position of the antenna is 
+determined to within 50.4 m horizontal (95%); 
+ 
+.7 have position information in latitude and longitude in degrees, minutes and 
+thousandths of minutes with a position resolution equal to or better 
+than 0.001 min of latitude and longitude; 
+ 
+.8 be capable of selecting automatically the appropriate satellite -transmitted 
+signals to determine the ship's position and velocity, and time with the 
+required accuracy and update rate;
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+signals to determine the ship's position and velocity, and time with the 
+required accuracy and update rate; 
+ 
+.9 be capable of acquiring satellite signals with input signals having carrier 
+levels in the range of -134 dBm to -124 dBm. Once the satellite signals have 
+been acquired, the equipment should continue to operate satisfactori ly with 
+satellite signals having carrier levels down to -137 dBm; 
+ 
+.10 be capable of operating satisfactorily under normal interference conditions 
+consistent with the requirements of resolution A.694(17); 
+ 
+.11 be capable of acquiring position to the requir ed accuracy, within 30  min, 
+when there is no valid almanac data; 
+ 
+.12 be capable of acquiring position to the required accuracy, within 5 min, when 
+there is valid almanac data; 
+ 
+.13 be capable of re -acquiring position to the required accuracy, within 2  min, 
+when subjected to a power interruption of up to 60 s;
+---
+SOURCE: MSC.480(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.480(102).pdf
+.13 be capable of re -acquiring position to the required accuracy, within 2  min, 
+when subjected to a power interruption of up to 60 s; 
+ 
+.14 generate and output to a display and digital interface4 a new position solution 
+at least once every 1 s for conventional craft and be recommended at least 
+once every 0.5 s for high-speed craft; 
+ 
+.15 provide the COG, SOG and UTC outputs with a validity mark aligned with 
+that on the position output. The accuracy requirements for COG and SOG 
+should not be inferior to the relevant performance standards for heading5 and 
+ 
+ 
+ 
+3  Refer to resolution A.694(17) and publications IEC 6721-3-6 and IEC 60945. 
+ 
+4  Conforming to the IEC 61162 series. 
+5  Refer to resolution A.424(XI) for conventional craft and resolution A.821(19) for high-speed craft. 
+ 
+RESOLUTION MSC.480(102) (adopted on 11 November 2020) 
+PERFORMANCE STANDARDS FOR SHIPBORNE 
+JAPANESE QUASI-ZENITH SATELLITE SYSTEM (QZSS) RECEIVER EQUIPMENT
+---
+
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+RESOLUTION MSC.454(100) (adopted on 7 December 2018)  
+REVISED GUIDELINES FOR VERIFICATION OF CONFORMITY WITH GOAL-BASED SHIP CONSTRUCTION STANDARDS 
+FOR BUK CARRIERS AND OIL TANKERSMSC 100/20/Add.1 
+Annex 3, page 1 
+ 
+ 
+I:\MSC\100\MSC 100-20-Add.1.docx 
+ANNEX 3 
+ 
+RESOLUTION MSC.454(100) 
+(adopted on 7 December 2018) 
+ 
+REVISED GUIDELINES FOR VERIFICATION OF CONFORMITY WITH GOAL-BASED 
+SHIP CONSTRUCTION STANDARDS FOR BULK CARRIERS AND OIL TANKERS 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+HAVING ADOPTED, by resolution MSC.287(87), the International Goal-Based Ship 
+Construction Standards for Bulk Carriers and Oil Tankers (hereinafter referred to as 
+"the Standards") and, by resolution MSC.290(87), SOLAS regulations II-1/2. 28 and II-1/3-10 
+to make the Standards mandatory,
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+"the Standards") and, by resolution MSC.290(87), SOLAS regulations II-1/2. 28 and II-1/3-10 
+to make the Standards mandatory, 
+ 
+NOTING that section 6 of the Standards requires that the rules for the design and construction 
+of bulk carriers and oil tankers of an organization which is recognized by an Administration in 
+accordance with the provisions of SOLAS regulation XI-1/1, or national rules of an 
+Administration used as an equivalent to the rules of a recognized organization according to 
+SOLAS regulation II-1/3-1, shall be verified as conforming to the goals and functional 
+requirements of the Standards, based on the guidelines developed by the Organization, 
+ 
+RECOGNIZING the need for revision of the Guidelines for verification of conformity with 
+goal-based ship construction standards for bulk carriers and oil tankers, adopted by resolution 
+MSC.296(87), in light of the experience gained with their application and the recommendations
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+MSC.296(87), in light of the experience gained with their application and the recommendations 
+made by the GBS Audit teams and to support their implementation, 
+ 
+HAVING CONSIDERED, at its 100th session, the proposed Revised guidelines for verification 
+of conformity with goal-based ship construction standards for bulk carriers and oil tankers, 
+ 
+1. ADOPTS the Revised guidelines for verification of conformity with goal-based ship 
+construction standards for bulk carriers and oil tankers, the text of which is set out in the annex 
+to the present resolution; 
+ 
+2. REQUESTS Administrations and organizations recognized by Administrations in 
+accordance with the provisions of SOLAS regulation XI-1/1 to utilize the Revised guidelines 
+when applying for verification that their design and construction rules for bulk carriers and oil 
+tankers conform to the Standards; 
+ 
+3. INVITES Contracting Governments to note that these Revised guidelines should take
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+tankers conform to the Standards; 
+ 
+3. INVITES Contracting Governments to note that these Revised guidelines should take 
+effect on documentation submitted for initial verification and on rule and/or documentation 
+changes undergoing the maintenance of verification process on or after 1 January 2020; 
+ 
+4. RESOLVES to review these Revised guidelines, as necessary, in view of experience 
+gained with their application; 
+ 
+5. REVOKES resolution MSC.296(87) on 1 January 2020. 
+RESOLUTION MSC.454(100) (adopted on 7 December 2018)  
+REVISED GUIDELINES FOR VERIFICATION OF CONFORMITY WITH GOAL-BASED SHIP CONSTRUCTION STANDARDS 
+FOR BUK CARRIERS AND OIL TANKERSMSC 100/20/Add.1 
+Annex 3, page 2 
+ 
+I:\MSC\100\MSC 100-20-Add.1.docx 
+ANNEX 
+ 
+REVISED GUIDELINES FOR VERIFICATION OF CONFORMITY WITH THE 
+INTERNATIONAL GOAL-BASED SHIP CONSTRUCTION STANDARDS 
+FOR BULK CARRIERS AND OIL TANKERS 
+ 
+INTRODUCTION 
+ 
+ 
+1 The Organization adopted, by resolution MSC.287(87), the International goal-based
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+FOR BULK CARRIERS AND OIL TANKERS 
+ 
+INTRODUCTION 
+ 
+ 
+1 The Organization adopted, by resolution MSC.287(87), the International goal-based 
+ship construction standards for bulk carriers and oil tankers  (hereinafter referred to as "the 
+Standards"), specifying goals, functional requirements and verification of conformity to ensure 
+that ships are constructed in such a manner that, when properly operated and maintained, they 
+can remain safe for their design life, and that all parts of a ship can be easily accessed to 
+permit proper inspection and ease of maintenance. 
+ 
+2 These Revised guidelines for verification of conformity with goal-based ship 
+construction standards for bulk carriers and oil tankers (hereinafter referred to as 
+"the Guidelines") provide the procedures necessary for demonstrating and verifying that the 
+ship design and construction rules for bulk carriers and oil tankers of an Administration or its
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+ship design and construction rules for bulk carriers and oil tankers of an Administration or its 
+recognized organization conform to the Standards, including both the method and criteria to 
+be applied during the verification process. 
+ 
+3 The Guidelines are composed of two parts: 
+ 
+.1 P art A establishes the procedures to be followed in order to verify that ship 
+design and construction rules conform to the Standards. It includes sections 
+on initial verification and maintenance of verification of the rules. 
+ 
+.2 Part B provides detailed documentation requirements and evaluation criteria 
+that should be used to verify that the rules conform to the Standards. 
+ 
+4 Those rules having been verified as conforming to the Standards, according to 
+previous version of the Guidelines (resolution MSC.296(87)), should not be re-verified based 
+on an updated version of the Guidelines. 
+ 
+Definitions 
+ 
+5 For the purpose of the Guidelines, the following definitions apply:
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+on an updated version of the Guidelines. 
+ 
+Definitions 
+ 
+5 For the purpose of the Guidelines, the following definitions apply: 
+ 
+.1 Conformity means fulfilment of Tier I goal(s) and Tier II functional requirement(s) 
+of the Standards. 
+ 
+.2 Corrective action: action intended to eliminate the cause(s) of a 
+non-conformity. 
+ 
+.3 Improvement action: action intended to address an observation. 
+ 
+.4 Finding means an observation or a non-conformity. 
+ 
+.5 Non-conformity means non-fulfilment of a Tier I goal(s) and Tier II functional 
+requirement(s) of the Standards or lack of information or documentation 
+requirements that prevent the evaluation criteria from being applied when 
+conducting the audit. 
+RESOLUTION MSC.454(100) (adopted on 7 December 2018)  
+REVISED GUIDELINES FOR VERIFICATION OF CONFORMITY WITH GOAL-BASED SHIP CONSTRUCTION STANDARDS 
+FOR BUK CARRIERS AND OIL TANKERSMSC 100/20/Add.1 
+Annex 3, page 3 
+ 
+ 
+I:\MSC\100\MSC 100-20-Add.1.docx
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+FOR BUK CARRIERS AND OIL TANKERSMSC 100/20/Add.1 
+Annex 3, page 3 
+ 
+ 
+I:\MSC\100\MSC 100-20-Add.1.docx 
+.6 Objective evidence means quantitative or qualitative information, records or 
+statement of fact which are based on observation, measurement or historical 
+service data and which can be verified. 
+ 
+.7 Observation means statements of facts or proposals made during an audit 
+which are based on objective evidence but are not a non-conformity, and that 
+may provide the basis for improvement. 
+ 
+.8 Organization means the International Maritime Organization. 
+ 
+.9 Rules or rule set means requirements for hull design and construction of bulk 
+carriers and/or oil tankers operating in unrestricted worldwide service. Within 
+the verification audit process, any information and/or documentation, either 
+supporting or included in the rule development process, which may include 
+guidelines, interpretations and internal procedures considered necessary to
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+guidelines, interpretations and internal procedures considered necessary to 
+assess the conformity of the rules may be interpreted as a part of the rule set. 
+ 
+.10 Secretary-General means the Secretary-General of the International 
+Maritime Organization. 
+ 
+.11 Self-assessment means the Submitter assesses its rules for the design and 
+construction of bulk carriers and/or oil tankers for conformity with the goals and 
+functional requirements as set out in the Standards.  
+ 
+.12 SOLAS means the International Convention for the Safety of Life at Sea, 1974, 
+as amended. 
+ 
+.13 Standards means the International goal-based ship construction standards 
+for bulk carriers and oil tankers , adopted by the Organization by 
+resolution MSC.287(87). 
+ 
+.14 Submitter means any Administration or recognized organization that 
+requests the Organization to verify that its ship design and construction rules 
+for bulk carriers and/or oil tankers conform to the Standards.
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+requests the Organization to verify that its ship design and construction rules 
+for bulk carriers and/or oil tankers conform to the Standards. 
+ 
+.15  Third party means a party that is neither the Organization nor the Submitter. 
+ 
+.16 Verification (and any variation of the word verify) means the rules for the design 
+and construction of bulk carriers and oil tankers have been compared to 
+the Standards and have been found to be in conformity or are consistent with 
+the goals and functional requirements as set out in the Standards. 
+ 
+.17 Verification audit or audit means the process of evaluating the Submitter' s 
+rules, self-assessment and supporting documentation to ascertain the 
+validity and reliability of information. The purpose of the audit is to assess the 
+conformity of the submitted rules with the Standards based on work done on 
+a sampling basis. 
+ 
+.18 Validation means the act of examining methodologies, assessments,
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+a sampling basis. 
+ 
+.18 Validation means the act of examining methodologies, assessments, 
+procedures, hypothesis or criteria used in requirements or calculations in 
+order to make them acceptable. 
+RESOLUTION MSC.454(100) (adopted on 7 December 2018)  
+REVISED GUIDELINES FOR VERIFICATION OF CONFORMITY WITH GOAL-BASED SHIP CONSTRUCTION STANDARDS 
+FOR BUK CARRIERS AND OIL TANKERSMSC 100/20/Add.1 
+Annex 3, page 4 
+ 
+I:\MSC\100\MSC 100-20-Add.1.docx 
+.19 Benchmarking means the act of measuring the performance of 
+methodologies, assessments, criteria and requirements by using indicators 
+that can be compared with an accepted standard or with experimental and/or 
+service history data, performance levels or outcomes known to be reliable. 
+  
+.20 Rule change means any text change to an existing rule or rule set already 
+  verified as conforming to the Standards. 
+ 
+ .21 Categorization of rule changes means assigning a new rule or rule change
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+verified as conforming to the Standards. 
+ 
+ .21 Categorization of rule changes means assigning a new rule or rule change 
+to one of the following categories for the purpose of maintenance of 
+verification: 
+ 
+Category Designation Explanation 
+1 
+Corrigenda and 
+follow-up 
+change 
+ 
+Editorial corrigenda; 
+or rule changes reflecting amendments to IMO 
+mandatory instruments 
+ 
+2 Minor change 
+ 
+Change or deletion of a rule requirement or 
+addition of new requirements not belonging to 
+categories 1 or 3  
+ 
+3 Major change 
+ 
+Change of basic methodology or technology or 
+basic assumptions, e.g. changing the basis for 
+load determination; introduction of new 
+technologies which will require change of 
+permissible values (acceptance criteria), etc. 
+ 
+    
+PART A 
+VERIFICATION PROCESS 
+ 
+Scope of verification 
+ 
+6 This part establishes the procedures to be followed in order to verify that rules for the
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+PART A 
+VERIFICATION PROCESS 
+ 
+Scope of verification 
+ 
+6 This part establishes the procedures to be followed in order to verify that rules for the 
+design and construction of bulk carriers and/or oil tankers conform to the Standards. The 
+verification process consists of two main elements: self-assessment of the rules by the 
+Submitter and an audit of the rules, the self-assessment and the supporting documentation by 
+the Organization. 
+ 
+Initial verification 
+ 
+Initiation 
+ 
+7 Any Administration or recognized organization wishing to have its rules verified as 
+conforming to the Standards should initiate the process with a letter to the Secretary-General, 
+requesting a verification audit of their rules. The letter should be accompanied by a complete 
+technical documentation package (see paragraph 10) and a supporting letter from an 
+Administration that has recognized the Submitter, if applicable.
+---
+SOURCE: MSC.454(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.454(100).pdf
+Administration that has recognized the Submitter, if applicable. 
+ 
+8 The Secretary-General notifies the Submitter of his decision to accept or reject the 
+request and, if accepted, advises the expected date for establishment of the GBS audit team 
+RESOLUTION MSC.454(100) (adopted on 7 December 2018)  
+REVISED GUIDELINES FOR VERIFICATION OF CONFORMITY WITH GOAL-BASED SHIP CONSTRUCTION STANDARDS 
+FOR BUK CARRIERS AND OIL TANKERS
+---
+
+SOURCE: MSC.82(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.82(70).pdf
+RESOLUTION MSC.82(70) 
+(adopted on 11 December 1998) 
+AMENDMENTS TO RESOLUTION A.760(18) ON SYMBOLS  
+RELATED TO LIFE-SAVING APPLIANCES AND ARRANGEMENTSMSC 70/23/Add.1
+I:\MSC\70\23A1.WPD
+ANNEX 7
+RESOLUTION MSC.82(70)
+(adopted on 11 December 1998)
+AMENDMENTS TO RESOLUTION A.760(18) ON SYMBOLS RELATED TO 
+LIFE-SAVING APPLIANCES AND ARRANGEMENTS
+THE MARITIME SAFETY COMMITTEE,
+RECALLING Article 28(b) of the Convention on the International Maritime Organization
+concerning the functions of the Committee,
+NOTING resolution A.760(18) on Symbols related to life-saving appliances and arrangements,
+where the Assembly requests the Committee to keep the resolution under review and amend it as necessary,
+RECOGNIZING that as new types of life-saving appliances, in particular marine evacuation
+systems, are developed it is desirable to identify them by means of an agreed symbol, to be displayed on
+the ship at the appropriate location in order to facilitate recognition of the appliance by passengers and
+---
+SOURCE: MSC.82(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.82(70).pdf
+the ship at the appropriate location in order to facilitate recognition of the appliance by passengers and
+crew,
+HAVING CONSIDERED the recommendation made by the Sub-Committee on Ship Design and
+Equipment at its forty-first session,
+1. ADOPTS the Amendments to resolution A.760(18) on Symbols related to life-saving appliances
+and arrangements, as set out in the Annex to the present resolution;
+2. URGES Governments to ensure that, when applying resolution A.760(18) in compliance with
+SOLAS regulation III/9, the symbol for an evacuation chute reproduced in the Annex is also taken into
+account, as appropriate.
+RESOLUTION MSC.82(70) 
+(adopted on 11 December 1998) 
+AMENDMENTS TO RESOLUTION A.760(18) ON SYMBOLS  
+RELATED TO LIFE-SAVING APPLIANCES AND ARRANGEMENTSMSC 70/23/Add.1
+ANNEX 7
+Page 2
+I:\MSC\70\23A1.WPD
+ANNEX
+AMENDMENTS TO RESOLUTION A.760(18) ON SYMBOLS RELATED TO 
+LIFE-SAVING APPLIANCES AND ARRANGEMENTS
+---
+SOURCE: MSC.82(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.82(70).pdf
+ANNEX 7
+Page 2
+I:\MSC\70\23A1.WPD
+ANNEX
+AMENDMENTS TO RESOLUTION A.760(18) ON SYMBOLS RELATED TO 
+LIFE-SAVING APPLIANCES AND ARRANGEMENTS
+The following row is inserted in the Table "Recommended symbols indicating the location of
+emergency equipment and muster and embarkation stations" in Annex 2 to resolution A.760(18), after
+existing row number (reference) 6:
+6 bis EVACUATION
+CHUTE
+________
+RESOLUTION MSC.82(70) 
+(adopted on 11 December 1998) 
+AMENDMENTS TO RESOLUTION A.760(18) ON SYMBOLS  
+RELATED TO LIFE-SAVING APPLIANCES AND ARRANGEMENTSRESOLUTION MSC.82(70) 
+(adopted on 11 December 1998) 
+AMENDMENTS TO RESOLUTION A.760(18) ON SYMBOLS  
+RELATED TO LIFE-SAVING APPLIANCES AND ARRANGEMENTS
+---
+
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+RESOLUTION MSC.28(61) 
+(adopted on 11 December 1992) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE) RESOLUTION MSC.28(6 1) 
+( ad op ted on 11 December 1992) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR 
+THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING 
+DANGEROUS CHEMICALS IN SULK (IHC CODE) 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Arti cle 28(b) of th e Conventio n on the Inter nati ona l Maritime 
+Organiza tion conce r ning the fu nc t ions of the Committe e, 
+RECALLING ALSO r es olution M SC . 4(~8), by whi ch the Committ ee ad opt ed the 
+International Code for th e Construction a nd Equipment of Sh ips Carryi ng 
+Dang e r ous Chemicals in Bulk (ISe Code), 
+RECALLING FURTHER article VI II( b) and regulation VI I /8 .1 of 
+the In t e rnat ional Conven tion for t he Sa f ety of Life a t Sea, 19 1~ 
+(SOLAS Conve ntio n), as amended, con cern ing the pro ced ure for amending
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+(SOLAS Conve ntio n), as amended, con cern ing the pro ced ure for amending 
+t he IBC Code, 
+BEING DESIROUS of keeping the IBC Code up t o date, 
+HAVING CONSIDERED, at its s i xty-f irst session, amendments to t he Code 
+prop osed and c ir cula t ed in accor da nce with ar t icle VIII(b }(i) of the SOLAS 
+Conventi on, 
+CONSIDERING t ha t i t is hi ghl y desirable for the prov i s i ons o f the 
+lB C Code, which are mand at ory under both the In ternational Convention for the 
+Prevention of Pollutio n from Shi ps, 1913 , as modified by t he Prot ocol of 1978 
+related thereto (MARPOL 73/78) and the 1974 SOLAS Conventi on, to remai n 
+identical, 
+1. ADOPTS, in accorda nce with article VIII(b)(iv) of the SOLAS Conventio n , 
+amendments to the Code, t he text of wh i ch is set out i n the an nex to t he 
+pre sent r eso l utio n ; 
+2. DETERMINES, in accordance with article VIII(b)(vi}(2}(bb) of the 
+Conventi on, th at the amendments shal l be deemed t o have bee n accepted on
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+2. DETERMINES, in accordance with article VIII(b)(vi}(2}(bb) of the 
+Conventi on, th at the amendments shal l be deemed t o have bee n accepted on 
+1 January 1994 unle ss , prior to that date, more than one third of the 
+Contracting Governments to the SOLAS Convention or Cont ract ing Gove rnments the 
+comb ined merchant fleets of which con stitut e not l ess than f if ty per ce nt of 
+the gross t onn age of t he world's mer chan t fleet, have notified their 
+objection s to th e amendments; 
+3. I NVITES Contracting Governments to no t e t hat, in ac co rdance with 
+ar ti c le VllI( b) (v i i)(2) of the SOLAS Conventio n , the ame ndments s hall enter 
+into force on 1 July 1994 upon their acceptance in accordance with pa rag raph 2 
+above; 
+RESOLUTION MSC.28(61) 
+(adopted on 11 December 1992) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE) - 2 -
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE) - 2 -
+4 . REQUESTS the Secretary-General. in co nformity with article VIIl(b)(v) of 
+the SOLAS Convention, to transmit cer tified copies of the present resolution 
+and the text of the amendments contained in the annex to all Contracting 
+Governments to t he SOLAS Conve ntion; 
+5. FURTHER REQUESTS the Secretary-General to tran smit copies of the 
+resolution and its annex t o Members of the Organization which a re not 
+Contracting Gover nments to th e SOLAS Co nve nt ion. 
+RESOLUTION MSC.28(61) 
+(adopted on 11 December 1992) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE) - 3 -
+ANNEX 
+AMENDMENTS TO THE 1Be CODE 
+The last senten ce of 1.1.1 is replaced by the foll owing: 
+Products that hav e been reviewed and determined not to present safety and
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+The last senten ce of 1.1.1 is replaced by the foll owing: 
+Products that hav e been reviewed and determined not to present safety and 
+pollution hazards to such an exte nt as to warrant the app lication of th e 
+Code are f ound in chapter 18. 
+The fol l owing sentence is added to the existing text of 1.1.3: 
+For the evaluation of the pollution hazard of such a product and 
+assignment of its po llution category, the procedure specified in 
+r egul ation 3(4) of Annex II of HARPOL 73/78 must be fol l owed . 
+The existing text of chap ter 8 is replaced by the f ollowing: 
+CHAPTER 8 - CARGO TANK VENTING AND GAS- FREEING ARRANGEMENTS 
+8.1 Applicat i o n 
+8.1.1 This chapter applies t o ships constructed on or after 1 January 1994. 
+8.1.2 Sh i ps constructed before 1 January 1994 should comply with the 
+requirements of cha pt er 8 of this Code which were in force prior to the said 
+dat e. 
+8.1.3 For the purpose of this regulation, the term "ship cons tru c ted" is as
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+dat e. 
+8.1.3 For the purpose of this regulation, the term "ship cons tru c ted" is as 
+defined i n regulation 11-1/1 . 3.1 of the 1974 SOLAS Convention as amended. 
+8.1.4 Shi ps constructed on or aft er I July 1986 but before 1 J anuary 1994 
+which fully comply with the requireme nt s of th e Code appl i cable at t hat time 
+may be regarded as complying wit h the requirements of regulation 11 - 2/59 of 
+the 1974 SOLAS Convention. 
+8.1. 5 For ships to which the Code applies, the requirement8 of this 
+chapter should apply in lieu of re gu lati on 11-2/59.1 snd 59 .2 of the 
+1974 SOLAS Conv ent ion, as amended. 
+8.2 Car go tank venting 
+8 . 2.1 All cargo tanks should be provided with a venting system appropriate to 
+the cargo bei ng carr ied and these systems should be independent of the air 
+pipes and venting systems of all other compartments of the s hi p . Tank ventin g 
+syst ems should be designed so as to minimiz e the pos sibility of cargo vapour
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+syst ems should be designed so as to minimiz e the pos sibility of cargo vapour 
+ac cumulating ab out the decks, entering accommodation, service and machinery 
+spaces and contro l stations and, in the case of flammable vapours, entering or 
+collecting in spaces or areas containi ng so ur ces of ignition. Tank venting 
+systems shou ld be arranged to prevent entrance of water int o the ca rgo tanks 
+and at the same time, vent outlets should direct the vapour discharge upward~ 
+in the form of unimpeded jet s. 
+RESOLUTION MSC.28(61) 
+(adopted on 11 December 1992) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE) - 4 -
+8.2.2 The venting systems should be connected to the top of each cargo tank 
+and as far as practicable the cargo vent lines should be self-draining back to 
+the cargo tanks under all normal operational conditions of list and trim.
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+the cargo tanks under all normal operational conditions of list and trim. 
+Where it is necessary to drain venting systems above the leve l of any 
+pressure/vacuum valve, capped or plugged drain cocks should be provided. 
+8.2 . 3 Provision should be made to ensure that the liquid head in any tank 
+does not exceed the design head of the tank. Suitable high-level alarms, 
+overflow contro l systems or spill valves, together with gauging and tank 
+filling pro ced ures may be accepted for this purpose. Where the means of 
+limiti ng cargo tank overpressure includes an automatic c lo sing valve, the 
+valve should comply with the app ropr i ate provisions of 15.19. 
+8.2.4 Tank venting systems should be designed and operated 80 as to ensure 
+that neither pressure nor vacuum created in the ca rgo tanks during loading or 
+unloading exceeds tank design parameters. The ma i n factors to be considered 
+in the sizing of a tank venting system are as follows: 
+. 1 design loading and unloading r ate;
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+in the sizing of a tank venting system are as follows: 
+. 1 design loading and unloading r ate; 
+. 2 gas evolution during loading: this should be taken accoun t of by 
+multiplyi ng the maxi mum loadi ng rate by a factor of at least 1 .25; 
+.3 de nsit y of the cargo vapour mixture; 
+.4 pressure loss in vent piping and across valves and fittings; 
+.5 pressure/vacuum sett i ngs of relief devices. 
+8.2.5 Tank vent piping co nne cte d to cargo tanks of corrosion resistant 
+mat erial, or to tanks which are lined or coated to handle special cargo es as 
+required by the Code, should be similarly lined or coated or constructed of 
+corrosion-resistant mater ial. 
+8.2.6 The master should be provided with the maximum permissible loading and 
+unloading rates for each tank or group of tanks consistent with design of the 
+venting systems. 
+8.3 Types of tank venting systems 
+8.3.1 An open tank venting system is a system which offers no restriction
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+venting systems. 
+8.3 Types of tank venting systems 
+8.3.1 An open tank venting system is a system which offers no restriction 
+except for friction losses to the free flow of cargo vapours to and fro m the 
+cargo tan ks during normal operations. An open venting system may consist of 
+in dividual vents fr om each tank, or such individual vents may be combined into 
+a common header or headers, with due regard to cargo segregation. In no case 
+should sh ut off valves be fitted either to the individual vents or to the 
+header. 
+8.3.2 A controlled tank venting system is a system in which pressure and 
+vacuum relief valves or pressure/vacuum valves are fitted to each tank to 
+limit the pressure or vacuum i n the tank. A contro ll ed venting system may 
+consist of individual vents from each tank or such individual vents on the 
+pressure side only as may be combined into a common header or headers with 
+due regard to cargo segregation. In no case should shutoff valves be fitted
+---
+SOURCE: MSC.28(61).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.28(61).pdf
+due regard to cargo segregation. In no case should shutoff valves be fitted 
+RESOLUTION MSC.28(61) 
+(adopted on 11 December 1992) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION 
+AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)
+---
+
+SOURCE: MSC.156(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.156(78).pdf
+RESOLUTION MSC.156(78) (adopted on 20 May 2004) 
+AMENDMENTS TO THE SEAFARERS' TRAINING, 
+CERTIFICATION AND WATCHKEEPING (STCW) CODERESOLUTION MSC.156(78) 
+(adopted on 20 May 2004) 
+AMENDMENTS TO THE SEAFARERS' TRAINING, 
+CERTIFICATION AND WATCHKEEPING (STCW) CODE 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING FURTHER article XII and regulation I11.2.3 of the International Convention 
+on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978, hereinafter 
+referred to as "the Convention", concerning the procedures for amending Part A of the Seafarers' 
+Training, Certification and Watchkeeping (STCW) Code, 
+HAVING CONSIDERED, at its seventy-eighth session, amendments to Part A of the STCW 
+Code, proposed and circulated in accordance with article XlI(l)(a)(i) of the Convention,
+---
+SOURCE: MSC.156(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.156(78).pdf
+Code, proposed and circulated in accordance with article XlI(l)(a)(i) of the Convention, 
+I. ADOPTS, in accordance with article XII(l )(a)(iv) of the Convention, amendments to the 
+STCW Code, the text of which is set out in the Annex to the present resolution ; 
+2. DETERMINES, in accordance with article XII(l)(a)(vii)(2) of the Convention, that the said 
+amendments to the STCW Code shall be deemed to have been accepted on I January 2006, unless, 
+prior to that date, more than one third of Parties or Parties the combined merchant fleets of which 
+constitute not less than 50% of the gross tonnage of the world.s merchant shipping of ships of 100 
+gross tonnage or more, have notified their objections to the amendments; 
+3. INVITES Parties to the Convention to note that, in accordance with article XII( I )(a)(ix) of 
+the Convention , the annexed amendments to the STCW Code shall enter into force on I July 2006 
+upon their acceptance in accordance with paragraph 2 above;
+---
+SOURCE: MSC.156(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.156(78).pdf
+upon their acceptance in accordance with paragraph 2 above; 
+4. REQUESTS the Secretary-General, in conformity with article XII(l)(a)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the amendments 
+contained in the Annex to all Parties to the Convention; 
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and its 
+Annex to Members of the Organization, which are not Parties to the Convention. 
+RESOLUTION MSC.156(78) (adopted on 20 May 2004) 
+AMENDMENTS TO THE SEAFARERS' TRAINING, 
+CERTIFICATION AND WATCHKEEPING (STCW) CODE
+RESOLUTION MSC.156(78) 
+(adopted on 20 May 2004) 
+AMENDMENTS TO THE SEAFARERS' TRAINING, 
+CERTIFICATION AND WATCHKEEPING (STCW) CODE 
+THE MARITIME SAFETY COMMITIEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING FURTHER article XII and regulation I11.2.3 of the International Convention
+---
+SOURCE: MSC.156(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.156(78).pdf
+concerning the functions of the Committee, 
+RECALLING FURTHER article XII and regulation I11.2.3 of the International Convention 
+on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978, hereinafter 
+referred to as "the Convention", concerning the procedures for amending Part A of the Seafarers' 
+Training, Certification and Watchkeeping (STCW) Code, 
+HAVING CONSIDERED, at its seventy-eighth session, amendments to Part A of the STCW 
+Code, proposed and circulated in accordance with article XII(I)(a)(i) of the Convention, 
+I. ADOPTS, in accordance with article XJI(I )(a)(iv) of the Convention, amendments to the 
+STCW Code, the text of which is set out in the Annex to the present resolution ; 
+2. DETERMINES , in accordance with article XII(I )(a)(vii)(2) of the Convention, that the said 
+amendments to the STCW Code shall be deemed to have been accepted on I January 2006, unless,
+---
+SOURCE: MSC.156(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.156(78).pdf
+amendments to the STCW Code shall be deemed to have been accepted on I January 2006, unless, 
+prior to th at date, more than one third of Parties or Parties the combined merchant fleets of which 
+constitute not less than 50% of the gross tonnage of the world.s merchant shipping of ships of 100 
+gross tOlUlage or more, have notified their objections to the amendments; 
+3. INVITES Parties to the Convention to note that, in accordance with article XII(1 )(a)(ix) of 
+the Convention, the annexed amendments to the STCW Code shall enter into force on I July 2006 
+upon their acceptance in accordance with paragraph 2 above; 
+4. REQUESTS the Secretary-General, in confomlity with article XII(1)(a)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the amendments 
+contained in the Annex to all Parties to the Convention; 
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and its
+---
+SOURCE: MSC.156(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.156(78).pdf
+contained in the Annex to all Parties to the Convention; 
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and its 
+Annex to Members of the Organization, which are not Parties to the Convention. - 2 -
+ANNEX 
+AMENDMENTS TO THE SEAFARERS' TRAINING, CERTIFICATION AND 
+WATCH KEEPING (STCW) CODE 
+PART A 
+MANDATORY STANDARDS REGARDING PROVISIONS 
+OF THE ANNEX TO THE STCW CONVENTION 
+Chapter I 
+Standards regarding general provisions 
+Section A-I/2 - Certificates and endorsements 
+In paragraph I, the phrase "in 1995" in the heading of the certificate is deleted. 
+2 In paragraph 2, the phrase "in 1995" in the heading of the endorsement is deleted. 
+3 In paragraph 3, the phrase.in " 1995" in the heading of the endorsement is deleted. 
+RESOLUTION MSC.156(78) (adopted on 20 May 2004) 
+AMENDMENTS TO THE SEAFARERS' TRAINING, 
+CERTIFICATION AND WATCHKEEPING (STCW) CODE
+- 2 -
+ANNEX 
+AMENDMENTS TO THE SEAFARERS' TRAINING, CERTIFICATION AND 
+WATCHKEEPING (STCW) CODE
+---
+SOURCE: MSC.156(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.156(78).pdf
+CERTIFICATION AND WATCHKEEPING (STCW) CODE
+- 2 -
+ANNEX 
+AMENDMENTS TO THE SEAFARERS' TRAINING, CERTIFICATION AND 
+WATCHKEEPING (STCW) CODE 
+PART A 
+MANDATORY STANDARDS REGARDING PROVISIONS 
+OF THE ANNEX TO THE STCW CONVENTION 
+Chapter I 
+Standards regarding general provisions 
+Section A-1/2 - Certificates and endorsements 
+[n paragraph 1, the phrase " in 1995" in the heading of the certificate is deleted. 
+2 In paragraph 2, the phrase "in 1995" in the heading of the endorsement is deleted. 
+3 [n paragraph 3, the phrase.in "1995" in the heading of the endorsement is deleted. RESOLUTION MSC.156(78) (adopted on 20 May 2004) 
+AMENDMENTS TO THE SEAFARERS' TRAINING, 
+CERTIFICATION AND WATCHKEEPING (STCW) CODE
+---
