@@ -1,0 +1,1318 @@
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+RESOLUTION MSC.496(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974RES
+OLUTION MSC.496(105) 
+(adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING ALSO article VIII(b) of the International Convention for the Safety of Life at 
+Sea, 1974 ("the Convention"), concerning the amendment procedure applicable to the annex 
+to the Convention, other than to the provisions of chapter I, 
+HAVING CONSIDERED, at its 105th  session, amendments to the Convention proposed and 
+circulated in accordance with article VIII(b)(i) of the Convention, 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the Convention, the text of which is set out in the annex to the present resolution;
+---
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+the Convention, the text of which is set out in the annex to the present resolution; 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that 
+the said amendments shall be deemed to have been accepted on 1 July 2023, unless, prior to 
+that date, more than one third of the Contracting Governments to the Convention or 
+Contracting Governments the combined merchant fleets of which constitute not less than 50% 
+of the gross tonnage of the world's merchant fleet have notified the Secretary-General of their 
+objections to the amendments; 
+3 INVITES Contracting Governments to the Convention to note that, in accordance 
+with article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2024 upon their acceptance in accordance with paragraph 2 above; 
+4 REQUESTS the Secretary -General, for the purposes of article VIII(b)(v) of 
+the Convention, to transmit certified copies of the present resolution and the text of
+---
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+the Convention, to transmit certified copies of the present resolution and the text of 
+the amendments contained in the annex to all Contracting Governments to the Convention; 
+5 ALSO REQUESTS the Secretary -General to transmit copies of this resolution and 
+its annex to Members of the Organization which are not Contracting Governments to 
+the Convention. 
+RESOLUTION MSC.496(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974- 2 -
+ANNEX 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974 
+CHAPTER II-1 
+CONSTRUCTION – STRUCTURE, SUBDIVISION AND STABILITY, 
+MACHINERY AND ELECTRICAL INSTALLATIONS 
+Part D 
+Electrical installations 
+Regulation 42 – Emergency source of electrical power in passenger ships 
+1 Paragraph 2.2.2.3 is replaced by the following:  
+".3 the MF/HF radio installation required by regulations IV/11.1.1 and IV/11.1.2."
+---
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+1 Paragraph 2.2.2.3 is replaced by the following:  
+".3 the MF/HF radio installation required by regulations IV/11.1.1 and IV/11.1.2." 
+Regulation 43 – Emergency source of electrical power in cargo ships 
+2 Paragraph 2.3.2.3 is replaced by the following:  
+".3 the MF/HF radio installation required by regulations IV/11.1.1 and IV/11.1.2." 
+CHAPTER III 
+LIFE-SAVING APPLIANCES AND ARRANGEMENTS 
+Part B 
+Requirements for ships and life-saving appliances 
+Regulation 6 – Communications 
+3 Paragraphs 1, 2, 2.1, 2.1.1, 2.1.2 and 2.2 are replaced by the following: 
+"1 [Reserved] 
+2 [Reserved*] 
+_________________ 
+" 
+RESOLUTION MSC.496(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974- 3 -
+CHAPTER IV 
+RADIOCOMMUNICATIONS 
+4  The text of chapter IV is replaced by the following: 
+ʺPart A 
+General 
+Regulation 1 – Application 
+1 Unless expressly provided otherwise, this chapter applies to all ships to which the
+---
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+ʺPart A 
+General 
+Regulation 1 – Application 
+1 Unless expressly provided otherwise, this chapter applies to all ships to which the 
+present regulations apply and to cargo ships of 300 gross tonnage and upwards. 
+2 This chapter does not apply to ships to which the present regulations would otherwise 
+apply while such ships are being navigated within the Great Lakes of North America and their 
+connecting and tributary waters as far east as the lower exit of the St Lambert Lock at Montreal 
+in the Province of Quebec, Canada. 
+3 No provision in this chapter shall prevent the use by any ship, survival craft or person 
+in distress, of any means at their disposal to attract attention, make known their position and 
+obtain help. 
+Regulation 2 – Terms and definitions 
+1 For the purpose of this chapter, the following terms shall have the meanings defined 
+below: 
+.1 AIS-SART means an a utomatic identification system search and rescue
+---
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+below: 
+.1 AIS-SART means an a utomatic identification system search and rescue 
+transmitter capable of operating on frequencies dedicated for AIS 
+(161.975 MHz (AIS1) and 162.025 MHz (AIS2)). 
+.2 Bridge-to-bridge communications  means safety radiocommunications 
+between ships from the position from which the ships are normally navigated. 
+.3 Continuous radio watch means that the radio and listening watch concerned 
+shall not be interrupted other than for brief intervals when the ship's receiving 
+capability is impaired or blocked by its own communications or when the 
+facilities are under periodical maintenance or checks. 
+.4 Digital selective calling (DSC) means a technique using digital codes which 
+enables a radio station to establish contact with, and transfer information to, 
+another station or group of stations, and complying with the relevant 
+recommendations of the International Telecommunication Union 
+Radiocommunication Sector (ITU-R).
+---
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+recommendations of the International Telecommunication Union 
+Radiocommunication Sector (ITU-R). 
+.5  Emergency position- indicating radio beacon (EPIRB) means a transmitter 
+operating in the frequency band 406.0- 406.1 MHz capable of transmitting a 
+distress alert via satellite to a rescue c oordination centre and transmitting 
+signals for on-scene locating. 
+.6 General radiocommunications means communications other than distress, 
+urgency and safety communications. 
+.7  Global Maritime Distress and Safety System (GMDSS) means a system that 
+performs the functions set out in regulation 4.1.1. 
+RESOLUTION MSC.496(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974- 4 -
+.8 GMDSS identities means information which may be transmitted to uniquely 
+identify the ship or its associated rescue boats and survival craft. 
+These identities are the ship's call sign, Maritime Mobile Service Identity
+---
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+identify the ship or its associated rescue boats and survival craft. 
+These identities are the ship's call sign, Maritime Mobile Service Identity 
+(MMSI), EPIRB hexadecimal identity, recognized mobile satellite service 
+identities and equipment serial numbers. 
+.9 Locating means the finding of ships, aircraft, survival craft  or persons in 
+distress. 
+.10 Maritime safety information (MSI) means navigational and meteorological 
+warnings, meteorological forecasts and other urgent safety -related 
+messages broadcast to ships. 
+.11 Radar SART means a search and rescue transponder operating on radar 
+frequencies in the frequency band 9.2-9.5 GHz. 
+.12 Radio Regulations  means the Radio Regulations complementing the 
+Constitution and Convention of the International Telecommunication Union  
+which is in force at any given time. 
+.13 Recognized mobile satellite service  means any service which operates 
+through a satellite system and is recognized by the Organization, for use in 
+GMDSS.
+---
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+through a satellite system and is recognized by the Organization, for use in 
+GMDSS. 
+.14 Satellite service on 406 MHz means a service operating through a satellite 
+system having global availability designed to detect EPIRBs transmitting in 
+the frequency band 406.0-406.1 MHz. 
+.15 Sea area A1 means an area within the radiotelephone coverage of at least 
+one very high frequency ( VHF) coast station in which continuous DSC 
+alerting is available, as may be defined by a Contracting Government. 
+.16 Sea area A2 means an area, excluding sea area A1, within the 
+radiotelephone coverage of at least one medium frequency ( MF) coast 
+station in which continuous DSC alerting is available, as may be defined by 
+a Contracting Government. 
+.17 Sea area A3 means an area, excluding sea areas A1 and A2, within the 
+coverage of a recognized mobile satellite service supported by the ship earth 
+station carried on board, in which continuous alerting is available.
+---
+SOURCE: MSC.496(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf
+coverage of a recognized mobile satellite service supported by the ship earth 
+station carried on board, in which continuous alerting is available. 
+.18 Sea area A4 means an area outside of sea areas A1, A2 and A3. 
+2 All other terms and abbreviations which are used in this chapter and which are defined 
+in the Radio Regulations and in the International Convention on Maritime Search and 
+Rescue, 1979, as may be amended, shall have the meanings as defined in those Regulations 
+and the SAR Convention. 
+Regulation 3 – Exemptions 
+1 The Contracting Governments consider it highly desirable not to deviate from the 
+requirements of this chapter; nevertheless, the Administration may grant partial or conditional 
+exemptions to individual ships from the requirements of regulations 7 to 11 provided: 
+RESOLUTION MSC.496(105) (adopted on 28 April 2022) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE 
+SAFETY OF LIFE AT SEA, 1974
+---
+
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+RESOLUTION MSC.474(102) (adopted on 11 November 2020) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974 
+ 
+RESOLUTION MSC.474(102) 
+(adopted on 11 November 2020) 
+ 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY  
+OF LIFE AT SEA, 1974 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO article VIII(b) of the International Convention for the Safety of Life at 
+Sea, 1974 ("the Convention"), concerning the amendment procedure applicable to the anne x 
+to the Convention other than to the provisions of chapter I, 
+ 
+HAVING CONSIDERED, at its 102nd session, amendments to the Convention proposed and 
+circulated in accordance with article VIII(b)(i) of the Convention, 
+ 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the Convention the text of which is set out in the annex to the present resolution; 
+ 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that 
+the said amendments shall be deemed to have been accepted on 1 July 2023, unless, prior to 
+that date, more than one third of the Contracting Governments to the Convention or 
+Contracting Governments the combined merchant fleets of which constitute not less than 50% 
+of the gross tonnage of the world's merchant fleet have notified the Secretary-General of their 
+objections to the amendments; 
+ 
+3 INVITES Contracting Governments to the Convention to note that, in accordance 
+with article VIII(b)(vii)(2) of the Convention, the amendments shall enter  into force 
+on 1 January 2024 upon their acceptance in accordance with paragraph 2 above; 
+ 
+4 REQUESTS the Secretary -General, for the purposes of article VIII(b)(v) of
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+4 REQUESTS the Secretary -General, for the purposes of article VIII(b)(v) of 
+the Convention, to transmit certified copies of the present resolution and the text of 
+the amendments contained in the annex to all Contracting Governments to the Convention; 
+ 
+5 REQUESTS ALSO the Secretary -General to transmit copies of this resolution and 
+its annex to Members of the Organization which are not Contracting Governments to 
+the Convention. 
+ 
+  
+RESOLUTION MSC.474(102) (adopted on 11 November 2020) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR 
+THE SAFETY OF LIFE AT SEA, 1974 
+ 
+CHAPTER II-1 
+CONSTRUCTION – STRUCTURE, SUBDIVISION AND STABILITY, MACHINERY  
+AND ELECTRICAL INSTALLATIONS 
+ 
+Part A 
+General 
+ 
+Regulation 1 – Application 
+ 
+1 The existing paragraph 1.3 is replaced by the following: 
+ 
+"1.3 For the purpose of this chapter:
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+General 
+ 
+Regulation 1 – Application 
+ 
+1 The existing paragraph 1.3 is replaced by the following: 
+ 
+"1.3 For the purpose of this chapter: 
+ 
+.1 the expression ships constructed means ships the keels of which 
+are laid or which are at a similar stage of construction; 
+ 
+.2 the expression ships constructed on or after 1 January 2024 means 
+ships: 
+ 
+.1 for which the building contract is placed on or after 
+1 January 2024; or 
+ 
+.2 in the absence of a building contract, the keel of which is 
+laid or which are at a similar stage of construction on or 
+after 1 July 2024; or 
+ 
+.3 the delivery of which is on or after 1 January 2028. 
+ 
+.3 the expression all ships  means ships constructed before, on or 
+after 1 January 2009; 
+ 
+.4 a cargo ship, whenever built, which is converted to a passenger ship 
+shall be treated as a passenger ship constructed on the date on 
+which such a conversion commences." 
+ 
+Part A-1 
+Structure of ships 
+ 
+Regulation II-1/3-8 – Towing and mooring equipment
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+which such a conversion commences." 
+ 
+Part A-1 
+Structure of ships 
+ 
+Regulation II-1/3-8 – Towing and mooring equipment  
+ 
+2 Regulation 3-8 is replaced by the following: 
+ 
+"1 Paragraphs 4 to 6 of this regulation apply to ships constructed on or 
+after 1 January 2007. 
+ 
+2 Paragraphs 7 and 8 of this regulation only apply to ships: 
+ 
+.1 for which the building contract is placed on or after 1 January 2024; 
+or 
+ 
+- 2 -
+RESOLUTION MSC.474(102) (adopted on 11 November 2020) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974.2 in the absence of a building contract, the keel of which is laid or 
+which is at a similar stage of construction on or after 1 July 2024; or 
+ 
+.3 the delivery of which is on or after 1 January 2027. 
+ 
+3 This regulation does not apply to towing arrangements provided in 
+accordance with regulation 3-4. 
+ 
+4 Ships shall be provided with arrangements, equipment and fittings of
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+accordance with regulation 3-4. 
+ 
+4 Ships shall be provided with arrangements, equipment and fittings of 
+sufficient safe working load to enable the safe conduct of all towing and mooring 
+operations associated with the normal operation of the ship. 
+ 
+5 Arrangements, equipment and fittings provided in accordance with 
+paragraph 4 above shall meet the appropriate requirements of the Administration or 
+an organization recognized by the Administration under regulation I/6. 
+ 
+6 Each fitting or item of equipment provided under this regulation shall be 
+clearly marked with any limitations associated with its safe operation, taking into 
+account the strength of the supporting ship's structure and its attachment to it. 
+ 
+7 For ships of 3,000 gross tonnage and above, the mooring arrangement shall 
+be designed, and the mooring equipment including lines shall be selected, in order to 
+ensure occupational safety and safe mooring of the ship, based on the guide lines
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+ensure occupational safety and safe mooring of the ship, based on the guide lines 
+developed by the Organization. Ship -specific information shall be provided and kept 
+on board. 
+ 
+8 Ships of less than 3,000 gross tonnage should comply with the requirement 
+in paragraph 7 above as far as reasonably practicable, or with applicable natio nal 
+standards of the Administration. 
+ 
+9 For all ships, mooring equipment, including lines, shall be inspected and 
+maintained in a suitable condition for their intended purposes. 
+ 
+Part B-1 
+Stability 
+ 
+Regulation 7-2 – Calculation of the factor si 
+ 
+3 Paragraphs 5.2, 5.3 and 5.5 are replaced by the following: 
+ 
+"5.2 The factor si is to be taken as zero in those cases where the final waterline, 
+taking into account sinkage, heel and trim, immerses: 
+ 
+.1 for cargo ships, the lower edge of openings through which 
+progressive flooding may take place and such flooding is not 
+accounted for  in the calculation of factor si. Such openings shall
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+progressive flooding may take place and such flooding is not 
+accounted for  in the calculation of factor si. Such openings shall 
+include air pipes, ventilators and openings which are closed by 
+means of weathertight doors or hatch covers;  
+ 
+.2 any part of the bulkhead deck in passenger ships considered a 
+horizontal evacuation route for compliance with chapter II-2; and 
+ 
+.3 for passenger ships  subject to the provisions of regulation 1.1.1.1 
+and constructed before 1 January 2024, the lower edge of openings 
+through which progressive flooding may take place and such 
+flooding is not acc ounted for in the calculation of factor  si. Such 
+- 3 -
+RESOLUTION MSC.474(102) (adopted on 11 November 2020) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974openings shall include air pipes, ventilators and openings which are 
+closed by means of weathertight doors or hatch covers.
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+closed by means of weathertight doors or hatch covers. 
+ 
+5.3 The factor si is to be taken as zero if, taking into account sinkage, heel and  
+trim, any of the following occur in any intermediate stage or in the final stage of 
+flooding: 
+ 
+.1 immersion of any vertical escape hatch in the bulkhead deck of 
+passenger ships and the freeboard deck of cargo ships intended for 
+compliance with chapter II-2; 
+ 
+.2 any controls intended for the operation of watertight doors, 
+equalization devices, valves on piping or on ventilation ducts 
+intended to maintain the integrity of watertight bulkheads from 
+above the bulkhead deck of passenger ships and the freeboard 
+deck of cargo ships become inaccessible or inoperable; 
+ 
+.3 immersion of any part of piping or ventilation ducts located within 
+the assumed extent of damage and carried through a watertight 
+boundary if this can lead to the progressive flooding  of 
+compartments not assumed as flooded; and
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+boundary if this can lead to the progressive flooding  of 
+compartments not assumed as flooded; and 
+ 
+.4 for passenger ships  constructed on or after 1 January 2024 , 
+immersion of the lower edge of openings through which progressive 
+flooding may take place and such flooding is not accounted for in 
+the calculation  of factor si. Such openings shall include air pipes, 
+ventilators and openings which are closed by means of weathertight 
+doors or hatch covers. 
+ 
+ 5.5 Except as provided in paragraph 5.3.1, openings closed by means of 
+watertight manhole covers and flush scu ttles, remotely operated sliding watertight 
+doors, side scuttles of the non -opening type as well as watertight access doors and 
+watertight hatch covers required to be kept closed during navigation in accordance 
+with regulations 22 to 24 need not be considered." 
+ 
+Part B-2 
+Subdivision, watertight and weathertight integrity 
+ 
+Regulation 12 – Peak and machinery space bulkheads, shaft tunnels, etc.
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+Part B-2 
+Subdivision, watertight and weathertight integrity 
+ 
+Regulation 12 – Peak and machinery space bulkheads, shaft tunnels, etc. 
+ 
+4 At the beginning of paragraph 6.1, the text "For ships subject to the provisions of 
+regulation 1.1.1.1 and constructed before  1 January 2024," is added; the word "Except" is 
+replaced by "except"; and the reference to ʺparagraph 6.2ʺ is replaced by ʺparagraph 6.3ʺ. 
+ 
+5 A new paragraph 6.2 is inserted after existing paragraph 6.1 and the subsequent 
+paragraph is renumbered accordingly: 
+ 
+  "6.2 For ships constructed on or after 1 January 2024, except as provided in 
+paragraph 6.3, the collision bulkhead may be pierced below the bulkhead deck of 
+passenger ships and the freeboard deck of cargo ships by not more than one pipe for 
+dealing with fluid in the forepeak tank, provided that the pipe is fitted with a remotely 
+controlled valve capable of being operated from above the bulkhead deck of
+---
+SOURCE: MSC.474(102).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.474(102).pdf
+controlled valve capable of being operated from above the bulkhead deck of 
+passenger ships and the freeboard deck of cargo ships. The valve shall be normally 
+closed. If the remote control system should fail during operation of the valve, the valve 
+shall close automatically or be capable of being closed manually from a position above 
+the bulkhead deck of passenger ships and the freeboard deck of cargo ships. The 
+valve shall be located at t he collision bulkhead on either the forward or aft side, 
+- 4 -
+RESOLUTION MSC.474(102) (adopted on 11 November 2020) 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974
+---
+
+SOURCE: MSC.48(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.48(66).pdf
+RESOLUTION MSC.48(66) 
+(adopted on 4 June 1996) 
+ADOPTION OF THE INTERNATIONAL LIFE-SAVING APPLIANCE (LSA) CODERESOLUTION MSC.48(66) 
+(adopted on 4 June 1996) 
+ADOPTION OF THE INTERNATIONAL LIFE -SAVING APPLIANCE (LSA) CODE 
+THE MARITIME SAFETY COMMITTEE . 
+RECALLI NG Article 28(b) of the Conventio n on the International Man tlme OrgalllzallOn 
+concernmg the functions of the Committee, 
+RECOGN IZING the need to pronde mterna tlOnal standards [or life-saving appliances reqUIred 
+by chapter III of the InternatIOnal Convention for the SafelY of Lire at Sea (SOLAS), 1974, as amended , 
+NOTING resolutio n MSC 47(66) hy which It adopted. Infer alta. amendme nts to chapLer III of 
+the SOLAS Convention to make the provISions of the International Llfc-Sanng Appliance (lSA) Code 
+manda tory under that Convenhon on or after I July 1998. 
+HAVING CONS IDERED. at its sr"ty-srxth sess ion. the le:.:t of the propo sed LSA Cod~ .
+---
+SOURCE: MSC.48(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.48(66).pdf
+manda tory under that Convenhon on or after I July 1998. 
+HAVING CONS IDERED. at its sr"ty-srxth sess ion. the le:.:t of the propo sed LSA Cod~ . 
+ADOPTS the International Llfe-Sa\ mg Appliance (LSA) Code the text of " hich IS sel oul m the 
+Annex to the presen t reso lution. 
+2. NOTES that under Ihe amendments to chap ter III of the 1974 SOLAS ConventIOn, amendmE-nts 
+to the LSA Code shaH be adopte d, brou ght mto force and shall take effect in accord ance With the 
+provIsions of anicle VIII of that Comenhon concerning the amendments procedure applicable to the 
+Annex to the Convention other than chapter I. 
+3 REQUESTS the Secre tary-Ge neral to transm it cert ified COpies of the present reso lutIOn and the 
+text of the LSA Code contame d In the Annex 10 all Contracting Gove rnments 10 the Com'enllOn; 
+4 FURTHER REQUESTS the Secrelacy-Generalto transmit copies of Ihis resolutIOn and lis Annex 
+to Membe rs of the Orgamzation , which are not Contractmg Governments to the Conven tion
+---
+SOURCE: MSC.48(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.48(66).pdf
+to Membe rs of the Orgamzation , which are not Contractmg Governments to the Conven tion 
+RESOLUTION MSC.48(66) 
+(adopted on 4 June 1996) 
+ADOPTION OF THE INTERNATIONAL LIFE-SAVING APPLIANCE (LSA) CODE- 2 -
+ANNEX 
+INTE RNA T10 NAL LIFE-SAVING APPLIANCE (LSA) CODE 
+Con ten ts 
+Preamble 
+CHAPTER I - GENERAL 
+1.1 DefimtlOns 
+I 2 Genera l reqUlremenis for hfe-savmg appl iances 
+CHAPTER II - PERSONAL LIFE-SAV ING APPLIANCES 
+2 I LIfebuoys 
+2.2 Llfejacket s 
+2 3 ImmerSIOn SUits 
+2.4 Anli-c:\.posure suilS 
+2 S Thermal protective aids 
+CHAPTER 1II - VISUAL SIGNAL S 
+3 1 Rocket parachute fl ares 
+3.2 Hand flares 
+3.3 Buoyant smoke signals 
+CHAPTER IV - SURVIV AL CRAFT 
+4 1 Gene ral requi reme nts for liferafis 
+4 2 Inflatable hferafts 
+4 3 Rigid hferafis 
+44 General requirements for hfeboa ts 
+4 5 Panlally enclosed lifeboats 
+4.6 Totally enclosed lIfeboats 
+4.7 Free-fall lifeboats 
+4 8 Lifeboat s with a self-contamed air support system 
+4 9 FIre-protected hfehoats 
+CHAPTER V - RESCUE BOATS
+---
+SOURCE: MSC.48(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.48(66).pdf
+4.7 Free-fall lifeboats 
+4 8 Lifeboat s with a self-contamed air support system 
+4 9 FIre-protected hfehoats 
+CHAPTER V - RESCUE BOATS 
+5 I Rescue boats 
+CHAPTER VI - LAUNCHING AND EMBARKATION APPLIANCES 
+6. I Launching and emba rkatIOn appliances 
+6.2 Man ne evacuation S)'siems 
+CHAPT ER VII - OTHER LIFE-SAVING APPLIANCES 
+7.1 Lme-throwing apphances 
+7.2 General alarm and pubhc address system 
+RESOLUTION MSC.48(66) 
+(adopted on 4 June 1996) 
+ADOPTION OF THE INTERNATIONAL LIFE-SAVING APPLIANCE (LSA) CODE- 3 -
+THE INTERNATIONAL LIFE-SAVI NG APPLIA NCE CO DE 
+PREAMBLE 
+The purpose of this Code is to provide mternational stan dards for life-saving applian ces reqUIred 
+by chapter III of the International Convention for the Safety of Life at Sea (SOL AS), 1974 
+2 On and after 1 July 1998, the requirements of Ihls Code WIll be mandatory under the 
+Intemauonal Convention for t he Safety of Li fe at Sea (SO LAS), 1974, as amended . Any fulure
+---
+SOURCE: MSC.48(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.48(66).pdf
+Intemauonal Convention for t he Safety of Li fe at Sea (SO LAS), 1974, as amended . Any fulure 
+amendment to lhe Code Wi ll be adopted and brought mto force 10 accordance with the procedure laid 
+down in article VIII or that Convention 
+RESOLUTION MSC.48(66) 
+(adopted on 4 June 1996) 
+ADOPTION OF THE INTERNATIONAL LIFE-SAVING APPLIANCE (LSA) CODE- 4 -
+CHAPTE RI-GENER~ L 
+1.1 Definition s 
+1 1 I ConvenrlOn means the InternatIOnal ConventIOn for the Safety of Life at Sea, 1974, as amended 
+1 1.2 Ef/IJcltve cleating ufthe ship IS the ability of the free-fall lifeboat 10 move away from the ship 
+after free-falila unchmg without using Its engme 
+1.1.3 Free-fall at.:ceferallOn IS the rale of ch ang~ of Yeloclty expenenced by the occupants during 
+iaWlchmg of a free-fall lifeboat. 
+I 1 A Free-fall cerll/icallon heighl IS the great est launchmg height for which the lifeboat IS to be 
+appro, "ed, measured from the still waler surface 10 the lowest point on the lifeboat when the lifeboat IS
+---
+SOURCE: MSC.48(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.48(66).pdf
+appro, "ed, measured from the still waler surface 10 the lowest point on the lifeboat when the lifeboat IS 
+In the launch configuration. 
+I I 5 l. aunc:hln~ ramp angle IS the angle between the har.zo nlal and the launch rall of the lifeboat In 
+liS launchmg pasHian Wi th the ship on even keel 
+I I 6 /Llum.:lung ramp leng lh IS the distance between the stem of the lifeboat and the lower end of the 
+launchmg ramp 
+1.1 7 Regula/JOn means a regulation contamed in the Annex to the Conn:nllon 
+1 1.8 ReqUJred/ree :(aJi helghf IS the greatest distance measured from tne sull water surface to the 
+lowest point on the i1feboa t when the lifeboat IS III the laur.ch configurallon and t h~ ship i3 III Its lightest 
+seagoing condillOIl 
+1 I 9 Relro -reJle"'uve mal enal IS a matena i which reflects III the oppos J\e dlrec Li on a bea m of IighL 
+directed on IL 
+I 1 10 Wafer -entry angle IS Ihe angle between the hOfll.Ontai and the launch rail of the lifeboat when 
+It first enters Ihe waler
+---
+SOURCE: MSC.48(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.48(66).pdf
+directed on IL 
+I 1 10 Wafer -entry angle IS Ihe angle between the hOfll.Ontai and the launch rail of the lifeboat when 
+It first enters Ihe waler 
+1. 1 II The terms used III thiS Code have the same meamng as those defined III regulation 111/3. 
+1.2 General req uir"cmen ls for life-sav ing appliances 
+1.2 I Paragraph I 2.2.7 applies to IIfe-savlIlg apphances on aJl ships 
+I 22 Unless e.xpressly provided otherWise or unless. m the opinion of the Admmistratlon having regard 
+to the parllcu lar voyages on which the ship is constantly engaged . other reqUIrements are appropriate, 
+all life-savmg appliances prescnbed in thiS part shall 
+.1 be constructed WIth proper workmanship and matena]s, 
+2 not be damaged III stowage througho ut the air temperature range -30"C Lo +65 °C; 
+3 If they are hkely La be Immersed m seawater during their use, operate throughout the 
+seawater temperature range -l ~C to + 3OCC; 
+RESOLUTION MSC.48(66) 
+(adopted on 4 June 1996)
+---
+SOURCE: MSC.48(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.48(66).pdf
+seawater temperature range -l ~C to + 3OCC; 
+RESOLUTION MSC.48(66) 
+(adopted on 4 June 1996) 
+ADOPTION OF THE INTERNATIONAL LIFE-SAVING APPLIANCE (LSA) CODE
+---
+
+SOURCE: MSC.507(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.507(105).pdf
+RESOLUTION MSC.507(105) (adopted on 28 April 2022) 
+SYSTEM PERFORMANCE STANDARD FOR THE PROMULGATION AND  
+COORDINATION OF MARITIME SAFETY INFORMATION USING HIGH-FREQUENCY 
+NARROW-BAND DIRECT-PRINTING MSC 105/20/Add.1 
+Annex 14, page 1 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+ANNEX 14 
+ 
+RESOLUTION MSC.507(105) 
+(adopted on 28 April 2022) 
+ 
+SYSTEM PERFORMANCE STANDARD FOR THE PROMULGATION AND  
+COORDINATION OF MARITIME SAFETY INFORMATION USING HIGH-FREQUENCY 
+NARROW-BAND DIRECT-PRINTING 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO resolution A.699(17), by which the Assembly, at its seventeenth session, 
+adopted the System performance standard for the promulgation and coordination of maritime 
+safety information using high-frequency narrow-band direct-printing, 
+ 
+RECALLING FURTHER resolution A.886(21), by which the Assembly resolved that the
+---
+SOURCE: MSC.507(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.507(105).pdf
+RECALLING FURTHER resolution A.886(21), by which the Assembly resolved that the 
+functions of adopting performance standards for radio and navigational equipment, as well as 
+amendments thereto, should be performed by the Maritime Safety Committee on behalf of the 
+Organization, 
+ 
+TAKING INTO ACCOUNT the amendments to the International Convention for the Safety of 
+Life at Sea, 1974 ("the Convention"), adopted by resolution MSC.496(105), 
+ 
+NOTING, in particular, regulation V/5 of the Convention, which establishes the requirement for 
+promulgating information on direct dangers to navigation, as well as regulation IV/7.1.4, which 
+states that ʺevery ship shall be provided with receiver(s) capable of receiving maritime safety 
+information and search and rescue related information throughout the entire voyage in which 
+the ship is engagedʺ, 
+ 
+BEARING IN MIND resolution MSC. 508(105), which establishes standards on the reception
+---
+SOURCE: MSC.507(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.507(105).pdf
+the ship is engagedʺ, 
+ 
+BEARING IN MIND resolution MSC. 508(105), which establishes standards on the reception 
+of maritime safety information using a variety of radio teleprinting techniques, including 
+high-frequency (HF) narrow-band direct-printing (NBDP), 
+ 
+NOTING that provision No.33.48 of the ITU Radio Regulation s identifies frequencies in the 
+HF bands for the transmission of maritime safety information using NBDP and that the global 
+coordinated plan for the use of these channels is published in the Master plan of shore-based 
+facilities for the Global Maritime Distress and Safety System (GMDSS) through the Global 
+Integrated Shipping Information System (GISIS), 
+ 
+RECOGNIZING the need to revise the System performance standard for the promulgation and 
+coordination of maritime safety information using high-frequency narrow-band direct-printing, 
+ 
+HAVING CONSIDERED, at its 105th session, the recommendation made by the
+---
+SOURCE: MSC.507(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.507(105).pdf
+HAVING CONSIDERED, at its 105th session, the recommendation made by the 
+Sub-Committee on Navigation, Communications and Search and Rescue at its eighth session, 
+ 
+1 ADOPTS the revised System performance standard for the promulgation and 
+coordination of maritime safety information using high -frequency narrow-band direct-printing, 
+set out in the annex to the present resolution, whic h should become effective on 
+1 January 2024, in conjunction with the entry into force of amendments to the Convention 
+adopted by resolution MSC.496(105); 
+RESOLUTION MSC.507(105) (adopted on 28 April 2022) 
+SYSTEM PERFORMANCE STANDARD FOR THE PROMULGATION AND  
+COORDINATION OF MARITIME SAFETY INFORMATION USING HIGH-FREQUENCY 
+NARROW-BAND DIRECT-PRINTING MSC 105/20/Add.1 
+Annex 14, page 2 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+2 DECIDES that broadcasts of maritime safety information using HF NBDP techniques, 
+intended to meet th e requirements of regulation IV/7.1.4 of the Convention, should be in
+---
+SOURCE: MSC.507(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.507(105).pdf
+intended to meet th e requirements of regulation IV/7.1.4 of the Convention, should be in 
+accordance with the recommendation set out in the annex to the present resolution; 
+ 
+3 URGES Governments to cooperate by ensuring that maritime safety information using 
+HF NBDP techniques is provided in accordance with this system; 
+ 
+4 REQUESTS the Secretary-General to convey this system performance standard to 
+the executive heads of the International Telecommunication Union (ITU), the World 
+Meteorological Organization (WMO) and the International Hydrographic Organization (IHO); 
+ 
+5 DETERMINES that this resolution supersedes resolution A.699(17), as 
+from 1 January 2024; 
+ 
+6 INVITES the Assembly to endorse the action taken by the Maritime Safety Committee. 
+ 
+ 
+  
+RESOLUTION MSC.507(105) (adopted on 28 April 2022) 
+SYSTEM PERFORMANCE STANDARD FOR THE PROMULGATION AND  
+COORDINATION OF MARITIME SAFETY INFORMATION USING HIGH-FREQUENCY 
+NARROW-BAND DIRECT-PRINTING MSC 105/20/Add.1
+---
+SOURCE: MSC.507(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.507(105).pdf
+COORDINATION OF MARITIME SAFETY INFORMATION USING HIGH-FREQUENCY 
+NARROW-BAND DIRECT-PRINTING MSC 105/20/Add.1 
+Annex 14, page 3 
+ 
+I:\MSC\105\MSC 105-20-Add.1.docx  
+ANNEX 
+ 
+SYSTEM PERFORMANCE STANDARD FOR THE PROMULGATION 
+AND COORDINATION OF MARITIME SAFETY INFORMATION USING 
+HIGH-FREQUENCY NARROW-BAND DIRECT-PRINTING 
+ 
+ 
+1 Administrations desiring to broadcast maritime safety information using HF 
+narrow-band direct-printing, in accordance with the provisions of regulation IV/7.1.4 of the 1974 
+SOLAS Convention, should notify their intentions to the IMO Sub -Committee on Navigation, 
+Communications and Search and Rescue (NCSR). The NCSR Sub-Committee will coordinate 
+proposals with other Ad ministrations, and will make recommendations on frequencies, 
+schedules, transmit power, broadcast duration and broadcast content, as well as on other 
+pertinent characteristics. The NCSR Sub-Committee may authorize a correspondence panel
+---
+SOURCE: MSC.507(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.507(105).pdf
+pertinent characteristics. The NCSR Sub-Committee may authorize a correspondence panel 
+to perform this coo rdination function between sessions if, in the Sub -Committee's view, this 
+becomes necessary. Administrations may notify their intentions to the correspondence panel. 
+ 
+2 The NCSR Sub-Committee may periodically recommend revision and adjustments to 
+the broadcast schedule, including shifting existing broadcasts to other schedules, in order to 
+meet the needs of Administrations. 
+ 
+3 Broadcasts should be made simultaneously on groups of frequencies in accordance 
+with Recommendation ITU-R M.688 and provision No.33.48 of the Radio Regulations. 
+ 
+4 Following approval of these broadcasts by the NCSR Sub -Committee, 
+Administrations should notify the ITU Radiocommunication Bureau (BR) in accordance with 
+the requirements of the Radio Regulations. 
+ 
+5 IMO will coordinate broa dcasts with WMO and IHO and will periodically issue 
+schedules of broadcasts.*
+---
+SOURCE: MSC.507(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.507(105).pdf
+5 IMO will coordinate broa dcasts with WMO and IHO and will periodically issue 
+schedules of broadcasts.* 
+ 
+6 Administrations providing an HF narrow -band direct -printing maritime safety 
+information service should make provisions to alert vessels with respect to unscheduled 
+broadcasts by digital selective calling. The system should be capable of automatic reception. 
+ 
+ 
+*** 
+ 
+* Refer to the "Master plan of shore-based facilities for the GMDSS" module of the Global Integrated Shipping 
+Information System (GISIS). 
+RESOLUTION MSC.507(105) (adopted on 28 April 2022) 
+SYSTEM PERFORMANCE STANDARD FOR THE PROMULGATION AND  
+COORDINATION OF MARITIME SAFETY INFORMATION USING HIGH-FREQUENCY 
+NARROW-BAND DIRECT-PRINTING RESOLUTION MSC.507(105) (adopted on 28 April 2022) 
+SYSTEM PERFORMANCE STANDARD FOR THE PROMULGATION AND  
+COORDINATION OF MARITIME SAFETY INFORMATION USING HIGH-FREQUENCY 
+NARROW-BAND DIRECT-PRINTING
+---
+
+SOURCE: MSC.86(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.86(70).pdf
+RESOLUTION MSC.86(70) 
+(adopted on 8 December 1998) 
+ADOPTION OF NEW AND AMENDED PERFORMANCE 
+STANDARDS FOR NAVIGATIONAL EQUIPMENTMSC 70/23/Add.2
+I:\MSC\70\23A2.WPD
+ANNEX 17
+RESOLUTION MSC.86(70)
+(adopted on 8 December 1998) 
+ADOPTION OF NEW AND AMENDED PERFORMANCE STANDARDS
+FOR NAVIGATIONAL EQUIPMENT
+THE MARITIME SAFETY COMMITTEE,
+RECALLING Article 28(b) of the Convention on the International Maritime Organization
+concerning the functions of the Committee,
+RECALLING ALSO resolution A.825(19), by which the Assembly resolved that the functions of
+adopting performance standards for radio and navigational equipment, as well as amendments thereto, shall
+be performed by the Maritime Safety Committee on behalf of the Organization,
+HAVING CONSIDERED new performance standards and amendments to existing performance
+standards  adopted by the Assembly and prepared by the forty-fourth session of the Sub-Committee on
+Safety of Navigation,
+---
+SOURCE: MSC.86(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.86(70).pdf
+standards  adopted by the Assembly and prepared by the forty-fourth session of the Sub-Committee on
+Safety of Navigation, 
+1. ADOPTS the following new recommended performance standards, set out in Annexes 1 to 3 to
+the present resolution:
+.1 Recommendation on Performance Standards for Sound Reception Systems (Annex 1);
+.2 Recommendation on Performance Standards for Marine Transmitting Magnetic Heading
+Devices (TMHDs) (Annex 2);  and
+.3 Recommendation on Performance Standards for an Integrated Navigation System
+(Annex 3);
+2. ADOPTS ALSO the amendments to the Recommendation on Performance Standards for Electronic
+Chart Display and Information Systems (ECDISs) (resolution A.817(19)) set out in Annex 4 to the present
+resolution;
+3. RECOMMENDS Member Governments to ensure that:
+.1 sound reception systems, marine transmitting heading devices and integrated navigation
+systems installed on or after 1 January 2000 conform to performance standards not inferior
+---
+SOURCE: MSC.86(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.86(70).pdf
+systems installed on or after 1 January 2000 conform to performance standards not inferior
+to those set out in Annexes 1 to 3 to the present resolution;
+.2 ECDIS installed on or after 1 January 2000 conform, respectively, to performance
+standards not inferior to those set out in resolution A.817(19), as amended, and Annex 4
+to the present resolution;
+.3 ECDIS installed on 1 January 1999 and before 1 January 2000 conform at least to the
+performance standards set out in resolution A.817(19), as amended by resolution
+MSC.64(67), Annex 5; and
+.4 ECDIS installed before 1 January 1999 conform at least to performance standards set out
+in resolution A.817(19).
+RESOLUTION MSC.86(70) 
+(adopted on 8 December 1998) 
+ADOPTION OF NEW AND AMENDED PERFORMANCE 
+STANDARDS FOR NAVIGATIONAL EQUIPMENTMSC 70/23/Add.2
+ANNEX 17
+Page 2
+This may be accomplished by means of at least four microphones and separate reception channels.*
+I:\MSC\70\23A2.WPD
+ANNEX 1
+RECOMMENDATION ON PERFORMANCE STANDARDS
+---
+SOURCE: MSC.86(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.86(70).pdf
+I:\MSC\70\23A2.WPD
+ANNEX 1
+RECOMMENDATION ON PERFORMANCE STANDARDS 
+FOR SOUND RECEPTION SYSTEMS
+1 INTRODUCTION
+1.1 Sound  reception systems are acoustical electronic navigational aids to enable the officer on the
+watch to hear outside sound signals inside a totally enclosed bridge in order to perform the look-out
+function as required in the International Regulations for Preventing Collisions at Sea, 1972.
+1.2 Sound reception systems should, in addition to the general requirements contained in
+resolution A.694(17), comply with the following minimum requirements.
+2 FUNCTIONAL REQUIREMENTS
+2.1 Sound reception systems should be capable of:
+.1 receiving sound signals from all directions in the audio band 70 Hz - 820 Hz;
+.2 reproducing incoming sound signals acoustically inside the bridge;
+.3 indicating the approximate direction of incoming sound signals to determine at least
+whether the sound signal being detected is forward or abaft of the beam and from which
+---
+SOURCE: MSC.86(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.86(70).pdf
+whether the sound signal being detected is forward or abaft of the beam and from which
+side of the ship it is being detected;   and*
+.4 suppressing unwanted background noise and allowing reception of meaningful sounds.
+3 METHOD OF PRESENTATION
+3.1 Incoming sound signals should be reproduced inside the bridge by means of at least one
+loudspeaker.
+3.2 The volume should be adjusted by means of one volume control only.  The volume control should
+be capable of being set so that the sound pressure level of an incoming signal only is at least 10 dB(A)
+above the bridge noise level.
+3.3 There should be a display which gives a visual indication for at least 3 s of the incoming signals and
+their approximate direction.
+RESOLUTION MSC.86(70) 
+(adopted on 8 December 1998) 
+ADOPTION OF NEW AND AMENDED PERFORMANCE 
+STANDARDS FOR NAVIGATIONAL EQUIPMENTMSC 70/23/Add.2
+ANNEX 17
+Page 3
+I:\MSC\70\23A2.WPD
+4 INSTALLATION
+---
+SOURCE: MSC.86(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.86(70).pdf
+ADOPTION OF NEW AND AMENDED PERFORMANCE 
+STANDARDS FOR NAVIGATIONAL EQUIPMENTMSC 70/23/Add.2
+ANNEX 17
+Page 3
+I:\MSC\70\23A2.WPD
+4 INSTALLATION
+4.1 The microphones should be installed in such a way that they are as far from noise sources in the
+ship as is reasonably practicable and wind induced noise and mechanical vibrations are reasonably reduced.
+4.2 The display should be installed so that it is visible at least from the conning position.
+4.3 The loudspeaker(s) should be installed so that incoming sound signals are audible at all positions
+inside the bridge.
+RESOLUTION MSC.86(70) 
+(adopted on 8 December 1998) 
+ADOPTION OF NEW AND AMENDED PERFORMANCE 
+STANDARDS FOR NAVIGATIONAL EQUIPMENTMSC 70/23/Add.2
+ANNEX 17
+Page 4
+See also IEC Publication 60945*
+I:\MSC\70\23A2.WPD
+ANNEX 2
+RECOMMENDATION ON PERFORMANCE STANDARDS FOR MARINE 
+TRANSMITTING MAGNETIC HEADING DEVICES (TMHDs)
+1 SCOPE
+1.1 A TMHD is an electronic device which uses the geomagnetic field to obtain and transmit
+---
+SOURCE: MSC.86(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.86(70).pdf
+TRANSMITTING MAGNETIC HEADING DEVICES (TMHDs)
+1 SCOPE
+1.1 A TMHD is an electronic device which uses the geomagnetic field to obtain and transmit
+information about the ship’s heading.
+1.2 In addition to the general requirements contained in resolution A.694(17)  all marine TMHD*
+equipment should comply with the following minimum requirements.
+2 APPLICATION
+2.1 A TMHD complying with the requirements contained in this recommendation, can be used to meet
+the carriage requirements for a suitable device providing heading information contained in Chapter V of
+the SOLAS Convention.
+2.2 In addition such THMD can meet the dynamic requirements contained in the HSC Code chapter 13
+for the carriage of a suitable device providing heading information.
+3 COMPOSITION
+3.1 Transmitting magnetic heading devices (TMHDs) may comprise of:
+.1 a standard magnetic compass equipped with a magnetic sensor and electronics for
+generating  a suitable output signal for other devices.  The compass used should be the
+---
+SOURCE: MSC.86(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.86(70).pdf
+generating  a suitable output signal for other devices.  The compass used should be the
+standard magnetic compass provided under SOLAS chapter V;  or
+.2 an electromagnetic compass consisting of the sensor part and electronics for generating a
+suitable output signal for other devices;  or
+.3 any type as defined under .1 and .2 additionally equipped with a rate gyro to improve
+dynamic performance.
+4 CONSTRUCTION
+4.1 Fore-and-aft mark
+4.1.1 A fore-and-aft mark should be inscribed on the magnetic sensor housing, which should be installed
+in parallel to the ship’s fore-and-aft line. 
+RESOLUTION MSC.86(70) 
+(adopted on 8 December 1998) 
+ADOPTION OF NEW AND AMENDED PERFORMANCE 
+STANDARDS FOR NAVIGATIONAL EQUIPMENT
+---
+
+SOURCE: MSC.117(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.117(74).pdf
+RESOLUTION MSC.117(74) 
+(adopted on 6 June 2001) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED 
+ 
+ 
+ 
+ 
+RESOLUTION MSC.117(74)  
+(adopted on 6 June 2001) 
+ 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION  
+FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING FURTHER article VIII(b) of the International Convention for the Safety of 
+Life at Sea (SOLAS), 1974, hereinafter referred to as "the Convention", concerning the 
+procedures for amen ding the Annex to the Convention, other than the provisions of chapter I 
+thereof, 
+ 
+ NOTING that amendment 30 to the International Maritime Dangerous Goods (IMDG) 
+Code (disseminated by means of MSC/Circ.961), incorporates, inter alia, a new transport 
+schedule 14 into that Code,
+---
+SOURCE: MSC.117(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.117(74).pdf
+Code (disseminated by means of MSC/Circ.961), incorporates, inter alia, a new transport 
+schedule 14 into that Code,  
+ 
+ RECOGNIZING the need to amend the relevant SOLAS chapter VII requirements to 
+align them with the aforementioned IMDG Code amendment 30, 
+ 
+HAVING CONSIDERED, at its seventy -fourth session, amendments to the Convention 
+proposed and circulated in accordance with article VIII(b)(i) thereof, 
+ 
+1. ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to the 
+Convention, the text of which is set out in the Annex to the present resolution; 
+ 
+2. DETERMINES, in accordance w ith article VIII(b)(vi)(2)(bb) of the Convention, that the 
+amendments shall be deemed to have been accepted on 1 July 2002 unless, prior to that date, 
+more than one third of the Contracting Governments to the Convention or Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross
+---
+SOURCE: MSC.117(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.117(74).pdf
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified their objections to the amendments; 
+ 
+3. INVITES Contracting Governments to note that, in accordance with article VIII(b)(vii)(2) 
+of the Convention, the amendments shall enter into force on 1 January 2003 upon their 
+acceptance in accordance with paragraph 2 above; 
+ 
+4. REQUESTS the Secretary -General, in conformity with article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the amendments 
+contained in the Annex to all Contracting Governments to the Convention; 
+ 
+5. FURTHER REQUESTS the Secretary -General to transmit copies of this resolution and 
+its Annex to Members of the Organization, w hich are not Contracting Governments to the 
+Convention. 
+ 
+ 
+ 
+RESOLUTION MSC.117(74) 
+(adopted on 6 June 2001)
+---
+SOURCE: MSC.117(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.117(74).pdf
+Convention. 
+ 
+ 
+ 
+RESOLUTION MSC.117(74) 
+(adopted on 6 June 2001) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED- 2 - 
+ 
+ 
+ 
+ANNEX  
+ 
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE  
+SAFETY OF LIFE AT SEA, 1974, AS AMENDED 
+ 
+ 
+CHAPTER VII 
+CARRIAGE OF DANGEROUS GOODS 
+ 
+PART D 
+SPECIAL REQUIREMENTS FOR THE CARRIAGE OF PACKAGED IRRADIATED 
+NUCLEAR FUEL, PLUTONIUM AND HIGH-LEVEL RADIOACTIVE WASTES ON 
+BOARD SHIPS  
+ 
+ 
+ 
+Regulation 14 – Definitions 
+ 
+ In paragraph 2 of the regulation, the words “schedule 10, 11, 12 or 13” are replaced by the 
+words “transport schedule 10, 11, 12, 13 or 14”. 
+ 
+RESOLUTION MSC.117(74) 
+(adopted on 6 June 2001) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDEDRESOLUTION MSC.117(74) 
+(adopted on 6 June 2001) 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, AS AMENDED
+---
+
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+RESOLUTION MSC.402(96)  (adopted on 19 May 2016) 
+REQUIREMENTS FOR MAINTENANCE, THOROUGH EXAMINATION, OPERATIONAL 
+TESTING, OVERHAUL AND REPAIR OF LIFEBOATS AND RESCUE BOATS,  
+LAUNCHING APPLIANCES AND RELEASE GEARRESOLUTION MSC.402(96) 
+(adopted on 19 May 2016) 
+REQUIREMENTS FOR MAINTENANCE, THOROUGH EXAMINATION, OPERATIONAL 
+TESTING, OVERHAUL AND REPAIR OF LIFEBOATS AND RESCUE BOATS, 
+LAUNCHING APPLIANCES AND RELEASE GEAR 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+RECALLING ALSO the Measures to prevent accidents with lifeboats (MSC.1/Circ.1206/Rev.1) 
+and the Interim recommendation on conditions for authorization of service providers for lifeboats, 
+launching appliances and on-load release gear (MSC.1/Circ.1277) approved by it, 
+RECOGNIZING the need to establish a uniform, safe and documented standard for
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+RECOGNIZING the need to establish a uniform, safe and documented standard for 
+maintenance, thorough examination, operational testing, overhaul and repair of lifeboats 
+(including free-fall lifeboats) and rescue boats (including fast rescue boats), launching 
+appliances and release gear, 
+NOTING that, by resolution MSC.404(96), it adopted amendments to regulations III/3 and III/20 
+of the International Convention for the Safety of Life at Sea, 1974 ("the Convention"), 
+concerning maintenance, thorough examination, operational testing, overhaul and repair of 
+lifeboats and rescue boats, launching appliances and release gear, 
+NOTING ALSO that the aforementioned regulation III/20 of the Convention provides that 
+the maintenance , thorough examination, operational testing, overhaul and repair shall be 
+carried out in accordance with the Requirements for maintenance, thorough examination, 
+operational testing, overhaul and repair of lifeboats and rescue boats, launching appliances
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+operational testing, overhaul and repair of lifeboats and rescue boats, launching appliances 
+and release gear ("the Requirements"), 
+HAVING CONSIDERED, at its ninety-sixth session, the recommendation made by 
+the Sub-Committee on Ship Systems and Equipment, at its third session, 
+1 ADOPTS the Requirements for maintenance, thorough examination, operational 
+testing, overhaul and repair of lifeboats and rescue boats, launching appliances and release 
+gear, the text of which is set out in the annex to the present resolution; 
+2 INVITES Contracting Governments to the Convention to note that the Requirements 
+will take effect on 1 January 2020 upon entry into force of the associated amendments to 
+regulations III/3 and III/20 of the Convention; 
+3 ALSO INVITES Contracting Governments to the Convention to take measures they 
+consider appropriate to ensure that national manufacturers of equipment certified under
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+consider appropriate to ensure that national manufacturers of equipment certified under 
+chapter III of the Convention for installation and use on board ships undertake to ensure that 
+equipment, instructions, specialized tools, spare parts, training and accessories, as required, 
+are available to independent service providers in a timely and cost-effective manner; 
+4 REQUESTS the Secretary-General to transmit certified copies of this resolution and 
+the text of the Requirements contained in the annex to all Contracting Governments to 
+the Convention; 
+RESOLUTION MSC.402(96)  (adopted on 19 May 2016) 
+REQUIREMENTS FOR MAINTENANCE, THOROUGH EXAMINATION, OPERATIONAL 
+TESTING, OVERHAUL AND REPAIR OF LIFEBOATS AND RESCUE BOATS,  
+LAUNCHING APPLIANCES AND RELEASE GEAR- 4 - 
+ 
+5 REQUESTS ALSO the Secretary-General to transmit copies of this resolution and 
+the annex to all Members of the Organization which are not Contracting Governments to 
+the Convention. 
+ 
+ 
+***
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+the annex to all Members of the Organization which are not Contracting Governments to 
+the Convention. 
+ 
+ 
+*** 
+  
+RESOLUTION MSC.402(96)  (adopted on 19 May 2016) 
+REQUIREMENTS FOR MAINTENANCE, THOROUGH EXAMINATION, OPERATIONAL 
+TESTING, OVERHAUL AND REPAIR OF LIFEBOATS AND RESCUE BOATS,  
+LAUNCHING APPLIANCES AND RELEASE GEAR- 5 - 
+ 
+ANNEX 
+ 
+REQUIREMENTS FOR MAINTENANCE, THOROUGH EXAMINATION, OPERATIONAL 
+TESTING, OVERHAUL AND REPAIR OF LIFEBOATS AND RESCUE BOATS, 
+LAUNCHING APPLIANCES AND RELEASE GEAR 
+ 
+ 
+1 GENERAL 
+ 
+1.1 The objective of these Requirements for maintenance, thorough examination, 
+operational testing, overhaul and repair of lifeboats and rescue boats, launching appliances 
+and release gear (the Requirements) is to establish a uniform, safe and documented standard 
+for maintenance, thorough examination, operational testing, overhaul and repair of the equipment 
+specified in paragraph 2.1.
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+for maintenance, thorough examination, operational testing, overhaul and repair of the equipment 
+specified in paragraph 2.1. 
+ 
+1.2 The detailed procedures covered by these Requirements are provided in section 6. 
+ 
+1.3 These Requirements relate to the following regulations: 
+ 
+.1 SOLAS regulation III/20 – Operational readiness, maintenance and 
+inspections; and 
+ 
+.2 SOLAS regulation III/36 – Instructions for on-board maintenance. 
+ 
+1.4 The Company shall ensure that maintenance , thorough examination, operational 
+testing, overhaul and repair  on board its ships is conducted in accordance with these 
+Requirements and SOLAS regulation III/20. The Company shall establish and implement 
+health, safety and environment (HSE) procedures covering all activities set out in these 
+Requirements. 
+ 
+1.5 The personnel carrying out maintenance , thorough examination, operational testing 
+overhaul and repair as described in paragraphs 4.2 and 4.3 shall be certified by an authorized
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+overhaul and repair as described in paragraphs 4.2 and 4.3 shall be certified by an authorized 
+service provider in accordance with the requirements specified in section 8. When performing 
+such activities on board ships they shall comply with instructions and procedures established 
+by the Company. 
+ 
+2 APPLICATION 
+ 
+2.1 These Requirements shall apply to the maintenance, thorough examination, 
+operational testing, overhaul and repair of: 
+ 
+.1 lifeboats (including free-fall lifeboats), rescue boats and fast rescue boats; and 
+ 
+.2 launching appliances and on-load and off-load release gear for lifeboats 
+(including primary and secondary means of launching appliances for free-fall 
+lifeboats), rescue boats, fast rescue boats and davit-launched liferafts. 
+ 
+2.2 For the purpose of these Requirements: 
+ 
+.1 Authorized service provider means an entity authorized by the Administration 
+in accordance with section 3 and section 7.
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+.1 Authorized service provider means an entity authorized by the Administration 
+in accordance with section 3 and section 7. 
+ 
+.2 Equipment means the aforementioned equipment to which the Requirements 
+apply. 
+ 
+RESOLUTION MSC.402(96)  (adopted on 19 May 2016) 
+REQUIREMENTS FOR MAINTENANCE, THOROUGH EXAMINATION, OPERATIONAL 
+TESTING, OVERHAUL AND REPAIR OF LIFEBOATS AND RESCUE BOATS,  
+LAUNCHING APPLIANCES AND RELEASE GEAR- 6 - 
+ 
+.3 Manufacturer means the original equipment manufacturer or any entity which 
+has taken legal and legitimate responsibilities for equipment when the original 
+equipment manufacturer no longer exists or supports the equipment. 
+ 
+.4 Off-load release mechanism  means a release mechanism which releases 
+the survival craft/rescue boat/fast rescue boat when it is waterborne or when 
+there is no load on the hooks. 
+ 
+.5 On-load release mechanism  means a release mechanism which releases 
+the survival craft/rescue boat/fast rescue boat with load on the hooks.
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+.5 On-load release mechanism  means a release mechanism which releases 
+the survival craft/rescue boat/fast rescue boat with load on the hooks. 
+ 
+.6 Repair means any activities requiring disassembly of equipment, or any other 
+activities outside the scope of the instructions for on-board maintenance and 
+for emergency repair of life-saving appliances prepared in accordance 
+with SOLAS regulations III/36.2 and III/35.3.18, respectively. 
+ 
+.7 Overhaul means a periodical activity defined by the manufacturer that proves 
+continued fitness for purpose for a defined period subject to correct 
+maintenance. 
+ 
+3 AUTHORIZATION 
+ 
+3.1 Administrations shall ensure that the thorough examination, operational testing, repair 
+and overhaul of equipment (see paragraphs 4.2 and 4.3) shall be carried out in accordance 
+with SOLAS regulation III/20 by service providers authorized in accordance with section 7. 
+ 
+3.2 The requirements in section 7 shall equally apply to manufacturers when they are
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+3.2 The requirements in section 7 shall equally apply to manufacturers when they are 
+acting as authorized service providers. 
+ 
+4 QUALIFICATION LEVELS AND CERTIFICATION 
+ 
+4.1 Weekly and monthly inspections and routine maintenance as specified in the equipment 
+maintenance manual(s), shall be conducted by authorized service providers, or by shipboard 
+personnel under the direction of a senior ship's officer in accordance with the maintenance 
+manual(s). 
+ 
+4.2 Annual thorough examinations and operational tests, as described in section 6.2, shall 
+be conducted by certified personnel of either the manufacturer or an authorized service 
+provider in accordance with section 7 and section 8. The service provider may be the ship 
+operator provided that it is authorized in accordance with section 3 and section 7. 
+ 
+4.3 Five-year thorough examination, any overhaul, overload operational tests, as 
+described in section 6.3, and repair shall be conducted by certified personnel of either
+---
+SOURCE: MSC.402(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.402(96).pdf
+described in section 6.3, and repair shall be conducted by certified personnel of either 
+the manufacturer or an authorized service provider in accordance with section 7 and section 8. 
+ 
+5 REPORTS AND RECORDS 
+ 
+5.1 All reports and checklists shall be completed and signed by the person who carries 
+out the inspection and maintenance work and countersigned by the Company's representative 
+or the ship's master. 
+ 
+5.2 Records of maintenance, thorough examination, operational testing, overhaul and 
+repair shall be updated and filed on board the ship for the service life of the equipment. 
+ 
+RESOLUTION MSC.402(96)  (adopted on 19 May 2016) 
+REQUIREMENTS FOR MAINTENANCE, THOROUGH EXAMINATION, OPERATIONAL 
+TESTING, OVERHAUL AND REPAIR OF LIFEBOATS AND RESCUE BOATS,  
+LAUNCHING APPLIANCES AND RELEASE GEAR
+---
