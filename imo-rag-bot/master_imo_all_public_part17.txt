@@ -1,0 +1,1937 @@
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+RESOLUTION MSC.403(96)  (adopted on 19 May 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)
+RESOLUTION MSC.403(96) 
+(adopted on 19 May 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE) 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+NOTING resolution MSC.98(73), by which it adopted the International Code for Fire Safety 
+Systems ("the FSS Code"), which has become mandatory under chapter II-2 of the International 
+Convention for the Safety of Life at Sea, 1974 ("the Convention"), 
+NOTING ALSO article VIII(b) and regulation II-2/3.22 of the Convention concerning the procedure 
+for amending the FSS Code, 
+HAVING CONSIDERED, at its ninety-sixth session, amendments to the FSS Code proposed 
+and circulated in accordance with article VIII(b)(i) of the Convention,
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+and circulated in accordance with article VIII(b)(i) of the Convention, 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the FSS Code the text of which is set out in the annex to the present resolution; 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that 
+the said amendments shall be deemed to have been accepted on 1 July 2019 unless, prior to 
+that date, more than one third of the Contracting Governments to the Convention, 
+or Contracting Governments the combined merchant fleets of which constitute not less 
+than 50% of the gross tonnage of the world's merchant fleet, have notified 
+the Secretary-General of their objections to the amendments; 
+3 INVITES Contracting Governments to the Convention to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2020 upon their acceptance in accordance with paragraph 2 above;
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+on 1 January 2020 upon their acceptance in accordance with paragraph 2 above; 
+4 REQUESTS the Secretary-General, for the purposes of article VIII(b)(v) of the Convention, 
+to transmit certified copies of the present resolution and the text of the amendments contained 
+in the annex to all Contracting Governments to the Convention; 
+5 REQUESTS ALSO the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the Organization, which are not Contracting Governments to the Convention. 
+*** 
+RESOLUTION MSC.403(96)  (adopted on 19 May 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)
+- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE) 
+ 
+CHAPTER 8 
+AUTOMATIC SPRINKLER, FIRE DETECTION AND FIRE ALARM SYSTEMS 
+ 
+ 
+1 The text in existing paragraph 2.4.1 is replaced with the following: 
+ 
+"2.4.1 General  
+ 
+2.4.1.1 Any parts of the system which may be subjected to freezing temperatures in
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+"2.4.1 General  
+ 
+2.4.1.1 Any parts of the system which may be subjected to freezing temperatures in 
+service shall be suitably protected against freezing. 
+ 
+2.4.1.2 Special attention shall be paid to the specification of water quality provided 
+by the system manufacturer to prevent internal corrosion of sprinklers and clogging 
+or blockage arising from products of corrosion or scale-forming minerals." 
+ 
+2 A new chapter 17 is added after existing chapter 16 as follows: 
+ 
+"CHAPTER 17 
+HELICOPTER FACILITY FOAM FIREFIGHTING APPLIANCES 
+ 
+1 Application 
+ 
+This chapter details the specifications for foam firefighting appliances for the protection 
+of helidecks and helicopter landing areas as required by chapter II-2 of the Convention. 
+ 
+2 Definitions 
+ 
+2.1 D-value means the largest dimension of the helicopter used for assessment 
+of the helideck when its rotors are turning. It establishes the required area of foam 
+application.
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+of the helideck when its rotors are turning. It establishes the required area of foam 
+application. 
+ 
+2.2 Deck integrated foam nozzles  are foam nozzles recessed into or edge 
+mounted on the helideck. 
+ 
+2.3 Foam-making branch pipes  are air-aspirating nozzles in tube shape for 
+producing and discharging foam, usually in straight stream only. 
+ 
+2.4 Helicopter landing area is as defined in SOLAS regulation II-2/3.57. 
+ 
+2.5 Helideck is as defined in SOLAS II-2/3.26. 
+ 
+2.6 Hose reel foam station is a hose reel fitted with a foam-making branch pipe 
+and non-collapsible hose, together with fixed foam proportioner and fixed foam 
+concentrate tank, mounted on a common frame. 
+ 
+2.7 Monitor foam station is a foam monitor, either self-inducing or together with 
+separate fixed foam proportioner, and fixed foam concentrate tank, mounted on 
+a common frame. 
+ 
+ 
+RESOLUTION MSC.403(96)  (adopted on 19 May 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)
+- 3 -
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+RESOLUTION MSC.403(96)  (adopted on 19 May 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)
+- 3 - 
+ 
+2.8 Obstacle free sector  is the take-off and approach sector which totally 
+encompasses the safe landing area and extends over a sector of at least 210º, within 
+which only specified obstacles are permitted. 
+ 
+2.9 Limited obstacle sector is a 150º sector outside the take-off and approach sector 
+that extends outward from a helideck where objects of limited height are permitted. 
+ 
+3 Engineering specifications for helidecks and helicopter landing areas 
+ 
+3.1 The system shall be capable of manual release, and may be arranged for 
+automatic release. 
+ 
+3.2 For helidecks the foam system shall contain at least two fixed foam monitors 
+or deck integrated foam nozzles. In addition, at least two hose reels fitted with 
+a foam-making branch pipe and non-collapsible hose sufficient to reach any part of
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+a foam-making branch pipe and non-collapsible hose sufficient to reach any part of 
+the helideck shall be provided. The minimum foam system discharge rate shall be 
+determined by multiplying the D-value area by 6 l/min/m2. The minimum foam system 
+discharge rate for deck integrated foam nozzle systems shall be determined by 
+multiplying the overall helideck area by 6 l/min/m2. Each monitor shall be capable of 
+supplying at least 50% of the minimum foam system discharge rate, but not less 
+than 500 l/min. The minimum discharge rate of each hose reel shall be at least 400 l/min. 
+The quantity of foam concentrate shall be adequate to allow operation of all connected 
+discharge devices for at least 5 min. 
+ 
+3.3 Where foam monitors are installed, the distance from the monitor to the farthest 
+extremity of the protected area shall be not more than 75% of the monitor throw in still 
+air conditions. 
+ 
+3.4 For helicopter landing areas, at least two portable foam applicators or two
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+air conditions. 
+ 
+3.4 For helicopter landing areas, at least two portable foam applicators or two 
+hose reel foam stations shall be provided, each capable of discharging a minimum 
+foam solution discharge rate, in accordance with the following table. 
+ 
+Category Helicopter overall length (D-value) Minimum foam 
+solution discharge 
+rate (l/min) 
+H1 up to but not including 15 m 250 
+H2 from 15 m up to but not including 24 m 500 
+H3 from 24 m up to but not including 35 m 800 
+ 
+The quantity of foam concentrate shall be adequate to allow operation of all connected 
+discharge devices for at least 10 min. For tankers fitted with a deck foam system, 
+the Administration may consider an alternative arrangement, taking into account 
+the type of foam concentrate to be used. 
+ 
+3.5 Manual release stations capable of starting necessary pumps and opening 
+required valves, including the fire main system, if used for water supply, shall be
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+required valves, including the fire main system, if used for water supply, shall be 
+located at each monitor and hose reel. In addition, a central manual release station 
+shall be provided at a protected location. The foam system shall be designed to 
+discharge foam with nominal flow and at design pressure from any connected 
+discharge devices within 30 s of activation. 
+ 
+3.6 Activation of any manual release station shall initiate the flow of foam solution 
+to all connected hose reels, monitors, and deck integrated foam nozzles. 
+ 
+ 
+RESOLUTION MSC.403(96)  (adopted on 19 May 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)
+- 4 - 
+ 
+3.7 The system and its components shall be designed to withstand ambient 
+temperature changes, vibration, humidity, shock impact and corrosion normally 
+encountered on the open deck, and shall be manufactured and tested to the satisfaction 
+of the Administration.
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+encountered on the open deck, and shall be manufactured and tested to the satisfaction 
+of the Administration. 
+ 
+3.8 A minimum nozzle throw of at least 15 m shall be provided with all hose reels 
+and monitors discharging foam simultaneously. The discharge pressure, flow rate and 
+discharge pattern of deck integrated foam nozzles shall be to the satisfaction of 
+the Administration, based on tests that demonstrate the nozzle's capability to 
+extinguish fires involving the largest size helicopter for which the helideck is designed. 
+ 
+3.9 Monitors, foam-making branch pipes, deck integrated foam nozzles and 
+couplings shall be constructed of brass, bronze or stainless steel. Piping, fittings and 
+related components, except gaskets, shall be designed to withstand exposure to 
+temperatures up to 925ºC. 
+ 
+3.10 The foam concentrate shall be demonstrated effective for extinguishing 
+aviation fuel spill fires and shall conform to performance standards not inferior to those
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+aviation fuel spill fires and shall conform to performance standards not inferior to those 
+acceptable to the Organization. Where the foam storage tank is on the exposed deck, 
+freeze protected foam concentrates shall be used, if appropriate, for the area of 
+operation. 
+ 
+3.11 Any foam system equipment installed within the take-off and approach 
+obstacle-free sector shall not exceed a height of 0.25 m. Any foam system equipment 
+installed in the limited obstacle sector shall not exceed the height permitted for objects 
+in this area. 
+ 
+3.12 All manual release stations, monitor foam stations, hose reel foam stations, 
+hose reels and monitors shall be provided with a means of access that does not 
+require travel across the helideck or helicopter landing area. 
+ 
+3.13 Oscillating monitors, if used, shall be pre-set to discharge foam in a spray 
+pattern and have a means of disengaging the oscillating mechanism to allow rapid 
+conversion to manual operation.
+---
+SOURCE: MSC.403(96).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.403(96).pdf
+pattern and have a means of disengaging the oscillating mechanism to allow rapid 
+conversion to manual operation. 
+ 
+3.14 If a foam monitor with flow rate up to 1,000 l/min is installed, it shall be 
+equipped with an air-aspirating nozzle. If a deck integrated nozzle system is installed, 
+then the additionally installed hose reel shall be equipped with an air-aspirating 
+handline nozzle (foam branch pipes). Use of non-air-aspirating foam nozzles (on both 
+monitors and the additional hose reel) is permitted only where foam monitors with 
+a flow rate above 1,000 l/min are installed. If only portable foam applicators or hose 
+reel stations are provided, these shall be equipped with an air-aspirating handline 
+nozzle (foam branch pipes). 
+ 
+RESOLUTION MSC.403(96)  (adopted on 19 May 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)
+RESOLUTION MSC.403(96)  (adopted on 19 May 2016) 
+AMENDMENTS TO THE INTERNATIONAL CODE 
+FOR FIRE SAFETY SYSTEMS (FSS CODE)
+---
+
+SOURCE: MSC.313(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.313(88).pdf
+RESOLUTION MSC.313(88) 
+(adopted on 26 November 2010) 
+AMENDMENTS TO THE GUIDELINES FOR THE APPLICATION OF PLASTIC PIPES ON 
+SHIPS (RESOLUTION A.753(18))
+MSC 88/26/Add.1 
+Annex 10, page 1 
+ 
+ 
+I:\MSC\88\26-Add-1.doc 
+ANNEX 10 
+ 
+RESOLUTION MSC.313(88) 
+(adopted on 26 November 2010) 
+ 
+AMENDMENTS TO THE GUIDELINES FOR THE APPLICATION OF PLASTIC PIPES ON 
+SHIPS (RESOLUTION A.753(18)) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO  resolution MSC.61(67), by which it adopted the International Code for 
+Application of Fire Test Procedures (FTP Code) for the testing of new marine materials which 
+are increasingly being introduced into the design and construction of ships and craft engaged 
+in international maritime transport, 
+ 
+RECALLING FURTHER resolution A.753(18), by which the Assembly, at its eighteenth
+---
+SOURCE: MSC.313(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.313(88).pdf
+in international maritime transport, 
+ 
+RECALLING FURTHER resolution A.753(18), by which the Assembly, at its eighteenth 
+session, adopted Guidelines for the application of plastic pipes on ships, to assist maritime 
+Administrations to determine, in a rational and uniform manner, the permitted applications of 
+such materials, 
+ 
+NOTING that part 2 of the FTP Code makes reference to resolution A.753(18) for the testing 
+of materials for smoke and toxic hazards, 
+ 
+RECOGNIZING that the continual development of plastic materials for use on ships and 
+improvement of marine safety standards since the adoption of resolution A.753(18) 
+necessitated the revision of the provisions of the Guidelines for the application of plastic 
+pipes on ships in order to take into account technological developments and maintain the 
+highest practical level of safety, 
+ 
+NOTING FURTHER that the Assembly requested the Committee to keep the Guidelines 
+under review and amend them as necessary,
+---
+SOURCE: MSC.313(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.313(88).pdf
+NOTING FURTHER that the Assembly requested the Committee to keep the Guidelines 
+under review and amend them as necessary, 
+ 
+HAVING CONSIDERED, at its eighty-eighth se ssion, amendments to the Guidelines for the 
+application of plastic pipes on ships, proposed by the Sub-Committee on Fire Protection at its 
+fifty-fourth session, 
+ 
+1. ADOPTS amendments to the Guidelines for the application of plastic pipes on ships 
+(resolution A.753(18)), the text of which is set out in the Annex to the present resolution; 
+ 
+2. INVITES Governments to apply the annexed amendments when considering the 
+use of plastic piping on board ships flying the flag of their State. 
+ 
+RESOLUTION MSC.313(88) 
+(adopted on 26 November 2010) 
+AMENDMENTS TO THE GUIDELINES FOR THE APPLICATION OF PLASTIC PIPES ON 
+SHIPS (RESOLUTION A.753(18))
+MSC 88/26/Add.1 
+Annex 10, page 2 
+ 
+ 
+I:\MSC\88\26-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO THE GUIDELINES FOR THE APPLICATION 
+OF PLASTIC PIPES ON SHIPS (RESOLUTION A.753(18))
+---
+SOURCE: MSC.313(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.313(88).pdf
+I:\MSC\88\26-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO THE GUIDELINES FOR THE APPLICATION 
+OF PLASTIC PIPES ON SHIPS (RESOLUTION A.753(18)) 
+ 
+ 
+1 The existing paragraph 1.2.3 is replaced by the following: 
+ 
+"These Guidelines are applicable to piping systems made predominantly of other 
+material than metal.  The use of mechanical and flexible couplings which are 
+accepted for use in metallic piping systems is not addressed." 
+ 
+2 In paragraph 1.4.1, the following sentence is added at the end: 
+ 
+"Plastic includes synthetic rubber and ma terials of similar thermo/mechanical 
+properties." 
+ 
+3 In paragraph 2.2.1.2.1, the following text is added at the end: 
+ 
+"Level 1W – Piping systems similar to level 1 systems except these systems do not 
+carry flammable fluid or any gas and a maximum 5% flow loss in the system after 
+exposure is acceptable*." 
+ 
+4 In paragraph 2.2.1.2.2, the following text is added at the end:
+---
+SOURCE: MSC.313(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.313(88).pdf
+exposure is acceptable*." 
+ 
+4 In paragraph 2.2.1.2.2, the following text is added at the end: 
+ 
+"Level 2W – Piping systems similar to level 2 systems except a maximum 5% flow 
+loss in the system after exposure is acceptable*." 
+ 
+5 In paragraph 4.1.1 after the words "pipe dimension" add the words ", length of the 
+piping". 
+ 
+6 In appendix 1, note 2 to paragraph 1, the words "as set out in paragraph 3.1.3 of the 
+annex to Assembly resolution A.517(13)" are replaced by the words "as set out in 
+paragraphs 7.1, 7.2 and 7.3 of the annex to Assembly resolution A.754(18)". 
+ 
+7 In appendix 1, paragraph 6, the words "without leakage" at the end of the second 
+sentence are deleted and the following new text is inserted after the second 
+sentence: 
+ 
+"Pipes without leakage qualify as level 1 or 2 depending on the test duration.  Pipes 
+with negligible leakage, i.e. not exceeding 5% flow loss, qualify as level 1W or 
+level 2W depending on the test duration."
+---
+SOURCE: MSC.313(88).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.313(88).pdf
+with negligible leakage, i.e. not exceeding 5% flow loss, qualify as level 1W or 
+level 2W depending on the test duration." 
+ 
+8 In appendix 4, in the Fire Endurance Requirements Matrix, "L1" is replaced by 
+"L1W" in rows 14, 15 and 23 and "L2" is replaced by "L2W" in rows 16, 17 and 31. 
+ 
+ 
+*** 
+ 
+                                                 
+*  The flow loss must be taken into account when dimensioning the system. 
+RESOLUTION MSC.313(88) 
+(adopted on 26 November 2010) 
+AMENDMENTS TO THE GUIDELINES FOR THE APPLICATION OF PLASTIC PIPES ON 
+SHIPS (RESOLUTION A.753(18))
+RESOLUTION MSC.313(88) 
+(adopted on 26 November 2010) 
+AMENDMENTS TO THE GUIDELINES FOR THE APPLICATION OF PLASTIC PIPES ON 
+SHIPS (RESOLUTION A.753(18))
+---
+
+SOURCE: MSC.455(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.455(100).pdf
+RESOLUTION MSC.455(100) (adopted on 6 December 2018) 
+AMENDMENTS TO PART B OF THE STCW CODE
+MSC 100/20/Add.1 
+Annex 9, page 1 
+ 
+I:\MSC\100\MSC 100-20-Add.1.docx 
+ANNEX 9 
+ 
+RESOLUTION MSC.455(100) 
+(adopted on 6 December 2018) 
+ 
+AMENDMENTS TO PART B OF THE STCW CODE  
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO regulation I/1.2.4 of the International Convention of Standards of Training, 
+Certification and Watchkeeping for Seafarers, 1978 (the Convention), regarding the procedure 
+for amendments to part B (recommendatory part) of the Seafarers' Training, Certification and 
+Watchkeeping Code (STCW Code), 
+ 
+RECALLING FURTHER that it, by resolutions MSC.416(97) and MSC.417(97), adopted 
+amendments to the Convention and to part A of the STCW Code, respectively, consequential
+---
+SOURCE: MSC.455(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.455(100).pdf
+amendments to the Convention and to part A of the STCW Code, respectively, consequential 
+to the adoption of the International Code for Ships Operating in Polar Waters (Polar Code) by 
+resolutions MSC.385(94) and MEPC.264(68), 
+ 
+HAVING CONSIDERED, at its 100th session, amendments to part B of the STCW Code 
+proposed by the Sub-Committee on Human Element, Training and Watchkeeping, at its fifth 
+session, 
+ 
+1 ADOPTS amendments to part B of the STCW Code, the text of which is set out in the 
+annex to the present resolution; 
+ 
+2 RECOMMENDS that Parties use the amendments to part B of the STCW Code as 
+recommended guidance for the implementation, application and enforcement of measures to 
+give the Convention full and complete effect in a uniform manner; and 
+ 
+3 DETERMINES that said amendments should become effective on 1 January 2019. 
+ 
+  
+RESOLUTION MSC.455(100) (adopted on 6 December 2018) 
+AMENDMENTS TO PART B OF THE STCW CODE
+MSC 100/20/Add.1 
+Annex 9, page 2
+---
+SOURCE: MSC.455(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.455(100).pdf
+RESOLUTION MSC.455(100) (adopted on 6 December 2018) 
+AMENDMENTS TO PART B OF THE STCW CODE
+MSC 100/20/Add.1 
+Annex 9, page 2 
+ 
+I:\MSC\100\MSC 100-20-Add.1.docx 
+ANNEX  
+ 
+AMENDMENTS TO PART B OF THE SEAFARERS' TRAINING, 
+CERTIFICATION AND WATCHKEEPING (STCW) CODE 
+ 
+ 
+CHAPTER V – Guidance regarding special training requirements for personnel on 
+certain types of ships  
+ 
+1 "Section B-V/g" is renamed as "section B-V/4" and moved after existing section B-V/3. 
+ 
+2 The reference to "B-V/g" in the footnotes under sections B-V/a, B-V/b, B-V/c, B-V/d, 
+B-V/e and B-V/f is deleted. 
+ 
+3 The footnote "Note there are no corresponding regulations in the Convention or 
+sections in part A of the Code for sections B-V/a, B-V/b, B-V/c, B-V/d, B-V/e, B-V/f and B-V/g." 
+under renamed section B-V/4 is deleted. 
+ 
+ 
+***
+RESOLUTION MSC.455(100) (adopted on 6 December 2018) 
+AMENDMENTS TO PART B OF THE STCW CODE
+RESOLUTION MSC.455(100) (adopted on 6 December 2018)
+---
+SOURCE: MSC.455(100).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.455(100).pdf
+***
+RESOLUTION MSC.455(100) (adopted on 6 December 2018) 
+AMENDMENTS TO PART B OF THE STCW CODE
+RESOLUTION MSC.455(100) (adopted on 6 December 2018) 
+AMENDMENTS TO PART B OF THE STCW CODE
+---
+
+SOURCE: MSC.423(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.423(98).pdf
+RESOLUTION MSC.423(98)  (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 1994 (1994 HSC CODE)
+RESOLUTION MSC.423(98) 
+(adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 1994 (1994 HSC CODE) 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+NOTING resolution MSC.36(63), by which it adopted the International Code of Safety for 
+High-Speed Craft ("1994 HSC Code"), which has become mandatory under chapter X of the 
+International Convention for the Safety of Life at Sea, 1974 ("the Convention"), 
+NOTING ALSO article VIII(b) and regulation X/1.1 of the Convention concerning the procedure 
+for amending the 1994 HSC Code, 
+HAVING CONSIDERED, at its ninety-eighth session, amendments to the 1994 HSC Code 
+proposed and circulated in accordance with article VIII(b)(i) of the Convention,
+---
+SOURCE: MSC.423(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.423(98).pdf
+proposed and circulated in accordance with article VIII(b)(i) of the Convention, 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the 1994 HSC Code, the text of which is set out in the annex to the present resolution; 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that 
+said amendments shall be deemed to have been accepted on 1 July 2019 unless, prior to that 
+date, more than one third of the Contracting Governments to the Convention or Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified their objections to the amendments; 
+3 INVITES Contracting Governments to the Convention to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2020 upon their acceptance in accordance with paragraph 2 above;
+---
+SOURCE: MSC.423(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.423(98).pdf
+on 1 January 2020 upon their acceptance in accordance with paragraph 2 above; 
+4 REQUESTS the Secretary-General, for the purposes of Article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Governments to the Convention; 
+5 REQUESTS ALSO the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the Organization which are not Contracting Governments to the 
+Convention. 
+RESOLUTION MSC.423(98)  (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 1994 (1994 HSC CODE)
+- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 1994 (1994 HSC CODE) 
+ 
+Chapter 8 
+Life-saving appliances and arrangements 
+ 
+ 
+8.10 Survival craft and rescue boats 
+ 
+1 Paragraphs 8.10.1.5 and 8.10.1.6 are replaced with the following:
+---
+SOURCE: MSC.423(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.423(98).pdf
+8.10 Survival craft and rescue boats 
+ 
+1 Paragraphs 8.10.1.5 and 8.10.1.6 are replaced with the following: 
+ 
+".5 notwithstanding the provision of .4 above, craft should carry sufficient rescue 
+boats to ensure that, in providing for abandonment by the total number of 
+persons the craft is certified to carry: 
+ 
+.5.1 not more than nine of the liferafts provided in accordance with 8.10.1.1 are 
+marshalled by each rescue boat; or 
+ 
+.5.2 if the Administration is satisfied that the rescue boats are capable of towing a 
+pair of such liferafts simultaneously, not more than 12 of the liferafts provided 
+in accordance with 8.10.1.1 are marshalled by each rescue boat; and 
+ 
+.5.3 the craft can be evacuated within the time specified in 4.8. 
+ 
+.6 craft of less than 20 m in length may be exempted from carrying a rescue boat, 
+provided the craft meets all of the following requirements: 
+ 
+.6.1 the craft is arranged to allow a helpless person to be recovered from the water
+---
+SOURCE: MSC.423(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.423(98).pdf
+provided the craft meets all of the following requirements: 
+ 
+.6.1 the craft is arranged to allow a helpless person to be recovered from the water 
+in a horizontal or near-horizontal body position; 
+ 
+.6.2 recovery of the helpless person can be observed from the navigating bridge; 
+and 
+ 
+.6.3 the craft is sufficiently manoeuvrable to close in and recover persons in the 
+worst intended conditions." 
+ 
+ 
+RESOLUTION MSC.423(98)  (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 1994 (1994 HSC CODE)
+RESOLUTION MSC.423(98)  (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 1994 (1994 HSC CODE)
+---
+
+SOURCE: MSC.488(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.488(103).pdf
+RESOLUTION MSC.488(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE REVISED RECOMMENDATION ON TESTING OF 
+LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))
+MSC 103/21/Add.1 
+Annex 7, page 1 
+ 
+I:\MSC\103\MSC 103/21/Add.1 
+ANNEX 7 
+ 
+RESOLUTION MSC.488(103) 
+(adopted on 13 May 2021) 
+  
+AMENDMENTS TO THE REVISED RECOMMENDATION ON  
+TESTING OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))  
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO that the Assembly, when adopting resolution A.689(17) on Testing of 
+life-saving appliances, authorized the Committee to keep the annexed Recommendation on 
+testing of life-saving appliances under review and to adopt, when appr opriate, amendments 
+thereto, 
+ 
+RECALLING FURTHER that, since the adoption of resolution A.689(17), the Committee has
+---
+SOURCE: MSC.488(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.488(103).pdf
+thereto, 
+ 
+RECALLING FURTHER that, since the adoption of resolution A.689(17), the Committee has 
+amended the Recommendation annexed thereto by resolutions MSC.54(66) and MSC.81(70), 
+and by circulars MSC/Circ.596, MSC/Circ.615 and MSC/Circ.809, 
+ 
+RECOGNIZING the need to ensure that the references in the Revised recommendation on 
+testing of life-saving appliances (resolution MSC.81(70)) are kept up to date, 
+ 
+1  ADOPTS the Amendments to the Revised recommendation on testing of life -saving 
+appliances (resolution MSC.81(70)), set out in the annex to the present resolution; 
+ 
+2  INVITES Contracting Governments to the SOLAS Convention to bring the above 
+amendments to the attention of all parties concerned. 
+ 
+ 
+ 
+RESOLUTION MSC.488(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE REVISED RECOMMENDATION ON TESTING OF 
+LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))
+MSC 103/21/Add.1 
+Annex 7, page 2 
+ 
+I:\MSC\103\MSC 103/21/Add.1 
+ANNEX
+---
+SOURCE: MSC.488(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.488(103).pdf
+LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))
+MSC 103/21/Add.1 
+Annex 7, page 2 
+ 
+I:\MSC\103\MSC 103/21/Add.1 
+ANNEX 
+ 
+AMENDMENTS TO THE REVISED RECOMMENDATION ON TESTING 
+OF LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70)) 
+ 
+PART 1– PROTOTYPE TESTS FOR LIFE-SAVING APPLIANCES 
+ 
+5  LIFERAFTS – RIGID AND INFLATABLE 
+ 
+5.17  Additional tests applicable to inflatable liferafts only 
+ 
+Material tests 
+ 
+1 Paragraph 5.17.13.2.2.7.1 is replaced by the following:  
+ 
+  ".1  Test for porosity  
+  
+A specimen of the fabric should be prepared and tested in accordance with  
+ISO 15372:2000, paragraph 6.2.9.2."  
+  
+2 Amend paragraph 5.17.13.2.2.8, as follows:  
+".2.2.8 Oil resistance  
+   
+.1  When tested by the method prescribed below, after exposing the 
+outer surface to oil IRM 901, for 2 h at 20± 2°C, there should be no 
+separation of coating from textile and no residual tackiness when 
+two exposed faces are pressed together. The coating should not
+---
+SOURCE: MSC.488(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.488(103).pdf
+separation of coating from textile and no residual tackiness when 
+two exposed faces are pressed together. The coating should not 
+smear when rubbed with a single pass of the finger.    
+   
+.2  The test should be carried out not less than 16 h after vulcanization 
+or curing.    
+ 
+.3 The apparatus, preparation of specimens and test procedure 
+should be in accordance with ISO 15372:2000/Amd 1:2021, 
+paragraph 6.2.5. Each coated face should be tested."  
+ 
+11 HYDROSTATIC RELEASE UNITS 
+11.2  Technical tests  
+3 Paragraph 11.2.5.5.3 is replaced by the following:  
+  
+ ".5.3  Test for surface resistance to oil  
+   
+ Number of specimens   2 membranes  
+   Temperature    +18°C to +20°C  
+Type of oil        A mineral oil meeting the following 
+           requirements:  
+           Aniline point: 120 ± 5°C  
+           Flashpoint: minimum 240°C  
+      Viscosity: 10–25 cSt at 99.0°C   
+RESOLUTION MSC.488(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE REVISED RECOMMENDATION ON TESTING OF
+---
+SOURCE: MSC.488(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.488(103).pdf
+Viscosity: 10–25 cSt at 99.0°C   
+RESOLUTION MSC.488(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE REVISED RECOMMENDATION ON TESTING OF 
+LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))
+MSC 103/21/Add.1 
+Annex 7, page 3 
+ 
+I:\MSC\103\MSC 103/21/Add.1 
+      
+ The following oils may be used:   
+ 
+ 
+ 
+ Testing period:  3 h on each side 
+ Requirements:   The material should show no 
+deterioration."  
+    
+PART 2 – PRODUCTION AND INSTALLATION TESTS 
+ 
+5 SURVIVAL CRAFT 
+ 
+5.4 Launch test 
+ 
+4 Paragraph 5.4 is replaced by the following: 
+ 
+"Except in the case of a free -fall lifeboat, it should be demonstrated that the fully 
+equipped lifeboat on cargo ships of 20,000 gross tonnage and upwards and rescue 
+boat can be launched from a ship proceeding ahead at a speed of not less than  
+5 knots in calm water and on an even keel. There should be no damage to the lifeboat 
+or the rescue boat or their equipment as a result of this test." 
+ 
+ 
+*** 
+ 
+IRM 901 
+IRM 905 
+ISO Oil No. 1
+---
+SOURCE: MSC.488(103).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.488(103).pdf
+or the rescue boat or their equipment as a result of this test." 
+ 
+ 
+*** 
+ 
+IRM 901 
+IRM 905 
+ISO Oil No. 1 
+RESOLUTION MSC.488(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE REVISED RECOMMENDATION ON TESTING OF 
+LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))
+RESOLUTION MSC.488(103) (adopted on 13 May 2021) 
+AMENDMENTS TO THE REVISED RECOMMENDATION ON TESTING OF 
+LIFE-SAVING APPLIANCES (RESOLUTION MSC.81(70))
+---
+
+SOURCE: MSC.284(86).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.284(86).pdf
+RESOLUTION MSC.284(86) 
+AMENDMENTS TO THE REVISED GUIDELINES FOR APPROVAL OF SPRINKLER 
+ SYSTEMS EQUIVALENT TO THAT REFERRED TO IN 
+SOLAS REGULATION II-2/12 (RESOLUTION A.800(19))
+MSC 86/26/Add.1 
+ 
+ 
+I:\MSC\86\26-Add-1.doc 
+ANNEX 8 
+ 
+RESOLUTION MSC.284(86) 
+ 
+ 
+AMENDMENTS TO THE REVISED GUIDELINES FOR APPROVAL OF 
+SPRINKLER SYSTEMS EQUIVALENT TO THAT REFERRED TO IN 
+SOLAS REGULATION II-2/12 (RESOLUTION A.800(19)) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+ RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+ NOTING the significance of the performance and reliability of the sprinkler systems 
+approved under provisions of regula tion II-2/12 of the International Convention for the Safety of 
+Life at Sea (SOLAS), 1974, 
+ 
+ DESIROUS of clarifying the application of the amended Revised Guidelines for  
+approval of sprinkler systems equivalent to th at referred to in SOLAS regulation II-2/12
+---
+SOURCE: MSC.284(86).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.284(86).pdf
+approval of sprinkler systems equivalent to th at referred to in SOLAS regulation II-2/12 
+(resolution A.800(19)), adopted by resolution MSC.265(84), 
+ 
+HAVING CONSIDERED, at its eighty-sixth session, the text of the proposed amendments 
+to the Revised Guidelines for approval of sprinkl er systems equivalent to that referred to in 
+SOLAS regulation II-2/12 (resolution A.800(19)), 
+ 
+1. ADOPTS the amendments to the Revised Guid elines for approval of sprinkler systems 
+equivalent to that referred to in SOLAS regulation II-2/12 (resolution A.800(19)), the text of 
+which is set out in the Annex to the present resolution; 
+ 
+2. INVITES Governments to apply the amendments when approving equivalent sprinkler 
+systems according to paragraph 1-1 (Application) of the Annex. 
+ 
+RESOLUTION MSC.284(86) 
+AMENDMENTS TO THE REVISED GUIDELINES FOR APPROVAL OF SPRINKLER 
+ SYSTEMS EQUIVALENT TO THAT REFERRED TO IN 
+SOLAS REGULATION II-2/12 (RESOLUTION A.800(19))
+MSC 86/26/Add.1 
+ANNEX 8 
+Page 2
+---
+SOURCE: MSC.284(86).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.284(86).pdf
+SYSTEMS EQUIVALENT TO THAT REFERRED TO IN 
+SOLAS REGULATION II-2/12 (RESOLUTION A.800(19))
+MSC 86/26/Add.1 
+ANNEX 8 
+Page 2 
+ 
+I:\MSC\86\26-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO THE REVISED GUIDELINES FOR APPROVAL OF 
+SPRINKLER SYSTEMS EQUIVALENT TO THAT REFERRED TO IN 
+SOLAS REGULATION II-2/12∗ (RESOLUTION A.800(19)) 
+ 
+ 
+1 The existing section 1-1 is replaced by the following: 
+ 
+1-1 APPLICATION 
+ 
+1-1.1 The present Guidelines apply to equivalent sprinkler systems, referred to in SOLAS 
+regulation II-2/10.6 and chapter 8 of the FSS  Code, tested on or after 9 May 2008.  
+Equivalent sprinkler systems undergoing te sting and approval in  accordance with 
+resolution A.800(19), may be approved by the Administration until 1 July 2009. 
+ 
+1-1.2 All type approvals issued  to confirm compliance of equivalent sprinkler systems 
+with the Revised Guidelines, adopted by re solution A.800(19), remain valid and may be 
+renewed to remain valid until 1 July 2015.
+---
+SOURCE: MSC.284(86).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.284(86).pdf
+with the Revised Guidelines, adopted by re solution A.800(19), remain valid and may be 
+renewed to remain valid until 1 July 2015. 
+ 
+1-1.3 Existing equivalent sprinkler syst ems, approved and installed based on  
+resolution A.800(19), should be permitted to re main in service as long as they are 
+serviceable. 
+ 
+ 
+*** 
+                                                 
+∗ Refer to SOLAS chapter II-2 in force before 1 Januar y 2002.  The equivalent regulation in the amended  
+chapter II-2 is regulation II-2/10.6.4, and chapter 8 of the FSS Code. 
+RESOLUTION MSC.284(86) 
+AMENDMENTS TO THE REVISED GUIDELINES FOR APPROVAL OF SPRINKLER 
+ SYSTEMS EQUIVALENT TO THAT REFERRED TO IN 
+SOLAS REGULATION II-2/12 (RESOLUTION A.800(19))
+RESOLUTION MSC.284(86) 
+AMENDMENTS TO THE REVISED GUIDELINES FOR APPROVAL OF SPRINKLER 
+ SYSTEMS EQUIVALENT TO THAT REFERRED TO IN 
+SOLAS REGULATION II-2/12 (RESOLUTION A.800(19))
+---
+
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+RESOLUTION MSC.426(98) 
+(adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE 
+THE MARITIME SAFETY COMMITTEE, 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+NOTING resolution MSC.268(85) by which it adopted the International Maritime Solid Bulk 
+Cargoes Code ("the IMSBC Code"), which has become mandatory under chapter VI of the 
+International Convention for the Safety of Life at Sea, 1974, as amended ("the Convention"), 
+NOTING ALSO article VIII(b) and regulation VI/1-1.1 of the Convention concerning the 
+procedure for amending the IMSBC Code, 
+HAVING CONSIDERED, at its ninety-eighth session, amendments to the IMSBC Code, 
+proposed and circulated in accordance with article VIII(b)(i) of the Convention,
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+proposed and circulated in accordance with article VIII(b)(i) of the Convention, 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to 
+the IMSBC Code, the text of which is set out in the annex to the present resolution; 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that 
+said amendments shall be deemed to have been accepted on 1 July 2018 unless, prior to that 
+date, more than one third of the Contracting Governments to the Convention or Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified the Secretary-General of their objections 
+to the amendments; 
+3 INVITES Contracting Governments to the Convention to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force on 1 January 2019 
+upon their acceptance in accordance with paragraph 2 above;
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+upon their acceptance in accordance with paragraph 2 above; 
+4 AGREES that Contracting Governments to the Convention may apply the 
+aforementioned amendments in whole or in part on a voluntary basis as from 1 January 2018; 
+5 REQUESTS the Secretary-General, for the purpose of article VIII(b)(v) of the Convention, 
+to transmit certified copies of the present resolution and the text of the amendments contained 
+in the annex to all Contracting Governments to the Convention; and 
+6 FURTHER REQUESTS the Secretary-General to transmit copies of this resolution 
+and its annex to Members of the Organization which are not Contracting Governments to 
+the Convention. 
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL MARITIME 
+SOLID BULK CARGOES (IMSBC) CODE 
+ 
+ 
+Section 1 
+General provisions 
+ 
+1.4 Application and implementation of this Code
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+SOLID BULK CARGOES (IMSBC) CODE 
+ 
+ 
+Section 1 
+General provisions 
+ 
+1.4 Application and implementation of this Code 
+ 
+1 In paragraph 1.4.2, the words "Characteristics (other than CLASS and GROUP)" are 
+replaced with the words "Characteristics (other than CLASS, SUBSIDIARY RISK and GROUP)". 
+The words "Paragraph 4.2.2.2;" and "Section 14 Prevention of pollution by cargo residues from 
+ships;" are deleted. 
+ 
+1.7 Definitions 
+ 
+2 In the definition for " Bulk Cargo Shipping Name (BCSN) ", the third sentence is 
+replaced with the following: 
+ 
+"When a cargo is dangerous goods as defined in the IMDG Code, as defined in 
+regulation VII/1.1 of the SOLAS Convention, refer to 4.1.1." 
+ 
+Section 4 
+Assessment of acceptability of consignments for safe shipment 
+ 
+4.1 Identification and classification 
+ 
+3 The existing paragraph "4.1.1" is replaced with the following: 
+ 
+"4.1.1 Bulk Cargo Shipping Name 
+ 
+4.1.1.1 Each solid bulk cargo in this Code has been assigned a Bulk Cargo
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+"4.1.1 Bulk Cargo Shipping Name 
+ 
+4.1.1.1 Each solid bulk cargo in this Code has been assigned a Bulk Cargo 
+Shipping Name (BCSN). When a solid bulk cargo is carried by sea it shall be 
+identified in the transport documentation by the BCSN. 
+ 
+4.1.1.2 Where the cargo is dangerous goods and not identified with a 
+generic Proper Shipping Name, or not otherwise specified (N.O.S) in the 
+IMDG Code, the BCSN shall consist of the Proper Shipping Name followed 
+by the UN number. 
+ 
+4.1.1.3 Except for RADIOACTIVE MATERIAL, LOW SPECIFIC ACTIVITY 
+(LSA-I), non-fissile or fissile – excepted UN 2912 and RADIOACTIVE 
+MATERIAL, SURFACE CONTAMINATED OBJECTS (SCO-I), non-fissile or 
+fissile – excepted UN 2913, where the cargo is dangerous goods identified 
+with a generic Proper Shipping Name and/or not otherwise specified (N.O.S) 
+in the IMDG Code, the BCSN shall consist of, in the following order: 
+ 
+.1 a chemical or technical name of the material;
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+in the IMDG Code, the BCSN shall consist of, in the following order: 
+ 
+.1 a chemical or technical name of the material; 
+ 
+.2 a specific description to identify the properties of the 
+material; and 
+ 
+.3 the UN number." 
+ 
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+- 3 - 
+ 
+4.2 Provision of information 
+ 
+4 The existing paragraph 4.2.2.1 is renumbered as "4.2.2".  
+ 
+5 In the renumbered paragraph 4.2.2, in sub-paragraph .15, the word "and" is deleted.  
+ 
+6 In the renumbered paragraph 4.2.2, a new sub-paragraph .16 is inserted as follows:  
+ 
+ ".16 whether or not the cargo is classified as harmful to the marine environment 
+in accordance with Annex V of the International Convention for the 
+Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 
+relating thereto, as amended; and" 
+ 
+7 In the renumbered paragraph 4.2.2, the existing sub-paragraph .16 is renumbered as
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+relating thereto, as amended; and" 
+ 
+7 In the renumbered paragraph 4.2.2, the existing sub-paragraph .16 is renumbered as 
+sub-paragraph .17. 
+ 
+8 Paragraph 4.2.2.2 "The cargo information should include whether or not the cargo is 
+harmful to the marine environment*." is deleted. 
+ 
+4.5 Interval between sampling/testing and loading for TML and moisture content 
+determination 
+ 
+9 Replace the existing paragraphs 4.5.1 and 4.5.2 with the following:  
+ 
+"4.5.1  The shipper shall be responsible for ensuring that a test to determine the 
+TML of a solid bulk cargo is conducted within six months to the date of loading the 
+cargo. Notwithstanding this provision, where the composition or characteristics of the 
+cargo are variable for any reason, the shipper shall be responsible for ensuring that a 
+test to determine the TML is conducted again after it is reasonably assumed that such 
+variation has taken place.
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+test to determine the TML is conducted again after it is reasonably assumed that such 
+variation has taken place. 
+ 
+4.5.2  The shipper shall be responsible for ensuring that sampling and testing for 
+moisture content is conducted as near as practicable to the date of commencement 
+of loading. The interval between sampling/testing and the date of commencement of 
+loading shall never be more than seven days. If the cargo has been exposed to 
+significant rain or snow between the time of testing and the date of completion of 
+loading, the shipper shall be responsible for ensuring that the moisture content of the 
+cargo is still less than its TML, and evidence of this is provided to the master as soon 
+as practicable." 
+ 
+Section 9 
+Materials possessing chemical hazards 
+ 
+9.3.3 Segregation between bulk materials possessing chemical hazards and 
+dangerous goods in packaged form 
+ 
+10 In the segregation table as contained in paragraph 9.3.3, in the row of "Substances
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+dangerous goods in packaged form 
+ 
+10 In the segregation table as contained in paragraph 9.3.3, in the row of "Substances 
+which, in contact with water, emit flammable gases", under the column "2.1", replace the 
+number "1" with "2". 
+ 
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+- 4 - 
+ 
+Section 13 
+References to related information and recommendations 
+ 
+13.2 Reference list 
+ 
+11 In section 13.2.7 "Minimum information/documentation", new rows are added at the 
+end of section as follows:  
+  
+4.2 MARPOL Annex V, 
+regulation 4.3 
+Discharge of garbage outside special areas 
+ 
+4.2 MARPOL Annex V, 
+regulation 6.1.2.2 
+Discharge of garbage within special areas 
+ 
+ 
+13.2.10 Segregation 
+ 
+12 Delete row "9.3.3". 
+ 
+13.2.11 Transport of solid wastes in bulk 
+ 
+13 In row "10.6", under the column "Reference to the relevant IMO instruments or
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+13.2.11 Transport of solid wastes in bulk 
+ 
+13 In row "10.6", under the column "Reference to the relevant IMO instruments or 
+standard (2)", replace the term "chapter 7.8.4" with "sub-section 2.0.5.4". 
+ 
+Section 14 
+Prevention of pollution by cargo residues from ships 
+ 
+14 Section 14 is deleted.  
+ 
+APPENDIX 1 
+ 
+Individual schedules of solid bulk cargoes 
+ 
+Amendments to existing individual schedules 
+ 
+ALUMINA 
+ 
+15 In the individual schedule for "ALUMINA", under the section for "Loading", replace the 
+words "of the Code" with the words "of this Code". 
+ 
+ALUMINA, CALCINED 
+ 
+16 In the individual schedule for "ALUMINA, CALCINED", under the section for 
+"Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+ALUMINA HYDRATE 
+ 
+17 In the individual schedule for "ALUMINA HYDRATE", under the section for "Hazard", 
+in the first sentence, add the word "a" before "moisture content"; in the second sentence,
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+in the first sentence, add the word "a" before "moisture content"; in the second sentence, 
+replace the words "of the Code" with the words "of this Code" and under the section for 
+"Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+ALUMINA SILICA 
+ 
+18 In the individual schedule for "ALUMINA SILICA", under the section for "Loading", 
+replace the words "of the Code" with the words "of this Code". 
+ 
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+- 5 - 
+ 
+ALUMINA SILICA, pellets 
+ 
+19 In the individual schedule for "ALUMINA SILICA, pellets", under the section for 
+"Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+ALUMINIUM FERROSILICON POWDER UN 1395 
+ 
+20 In the individual schedule for "ALUMINIUM FERROSILICON POWDER UN 1395", 
+under the section for "Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+ALUMINIUM FLUORIDE
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+under the section for "Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+ALUMINIUM FLUORIDE 
+ 
+21 In the individual schedule for "ALUMINIUM FLUORIDE", under the section for 
+"Weather precautions", the words "less than its TML during voyage" are replaced with the 
+words "less than its TML during loading operations and the voyage". 
+ 
+ALUMINIUM NITRATE UN 1438 
+ 
+22 In the individual schedule for "ALUMINIUM NITRATE UN 1438 ", under the section 
+for "Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+ALUMINIUM SILICON POWDER, UNCOATED UN 1398 
+ 
+23 In the individual schedule for "ALUMINIUM SILICON POWDER, UNCOATED UN 1398", 
+under the section for "Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+ALUMINIUM SMELTING BY-PRODUCTS or 
+ALUMINIUM REMELTING BY-PRODUCTS UN 3170 
+ 
+24 In the individual schedule for "ALUMINIUM SMELTING BY-PRODUCTS or
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+ALUMINIUM SMELTING BY-PRODUCTS or 
+ALUMINIUM REMELTING BY-PRODUCTS UN 3170 
+ 
+24 In the individual schedule for "ALUMINIUM SMELTING BY-PRODUCTS or 
+ALUMINIUM REMELTING BY-PRODUCTS UN 3170", under the section for "Loading", 
+replace the words "of the Code" with the words "of this Code". 
+ 
+ALUMINIUM SMELTING/REMELTING BY-PRODUCTS, PROCESSED 
+ 
+25 In the individual schedule for "ALUMINIUM SMELTING/REMELTING 
+BY-PRODUCTS, PROCESSED", under the section for "Hazard", in the second sentence, add 
+the word "a" before "moisture content"; in the third sentence, replace the words "of the Code" 
+with the words "of this Code". Under the section for "Loading", replace the words "of the Code" 
+with the words "of this Code". Under the section for "Clean-up", in the third sentence, replace 
+the word "should" with "shall". 
+ 
+AMMONIUM NITRATE UN 1942 
+ 
+26 In the individual schedule for "AMMONIUM NITRATE UN 1942", under the section for
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+the word "should" with "shall". 
+ 
+AMMONIUM NITRATE UN 1942 
+ 
+26 In the individual schedule for "AMMONIUM NITRATE UN 1942", under the section for 
+"Loading", in the second sentence, replace the words "under sections 4, 5 and 6 of the Code" 
+with the words "under sections 4 and 5 of this Code". 
+ 
+AMMONIUM NITRATE BASED FERTILIZER UN 2067 
+ 
+27 In the individual schedule for "AMMONIUM NITRATE BASED FERTILIZER 
+UN 2067", under the section for "Loading", in the first sentence, replace the words "under 
+sections 4, 5 and 6 of the Code" with the words "under sections 4 and 5 of this Code". 
+ 
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+- 6 - 
+ 
+AMMONIUM NITRATE BASED FERTILIZER UN 2071 
+ 
+28 In the individual schedule for "AMMONIUM NITRATE BASED FERTILIZER 
+UN 2071", under the section for "Loading", in the first sentence, replace the words "under
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+UN 2071", under the section for "Loading", in the first sentence, replace the words "under 
+sections 4, 5 and 6 of the Code" with the words "under sections 4 and 5 of this Code". 
+ 
+AMMONIUM NITRATE BASED FERTILIZER (non-hazardous) 
+ 
+29 In the individual schedule for "AMMONIUM NITRATE BASED FERTILIZER 
+(non-hazardous)", under the section for "Stowage and segregation", in the first sentence, 
+replace the word "should" with "shall". Under the section for "Loading", in the first sentence, 
+replace the words "under sections 4, 5 and 6 of the Code" with the words "under sections 4 
+and 5 of this Code". 
+ 
+AMMONIUM SULPHATE 
+ 
+30 In the individual schedule for "AMMONIUM SULPHATE", under the section for 
+"Loading", in the third sentence, replace the words "under sections 4, 5 and 6 of the Code" 
+with the words "under sections 4 and 5 of this Code". 
+ 
+ANTIMONY ORE AND RESIDUE 
+ 
+31 In the individual schedule for "ANTIMONY ORE AND RESIDUE", under the section for
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+ANTIMONY ORE AND RESIDUE 
+ 
+31 In the individual schedule for "ANTIMONY ORE AND RESIDUE", under the section for 
+"Loading", in the first sentence, replace the words "of the Code" with the words "of this Code". 
+ 
+BARIUM NITRATE UN 1446 
+ 
+32 In the individual schedule for "BARIUM NITRATE UN 1446", under the section for 
+"Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+BARYTES 
+ 
+33 In the individual schedule for "BARYTES", under the section for "Loading", in the first 
+sentence, replace the words "of the Code" with the words "of this Code". 
+ 
+BAUXITE 
+ 
+34 In the individual schedule for "BAUXITE", under the section for "Loading", replace the 
+words "of the Code" with the words "of this Code". 
+ 
+BIOSLUDGE 
+ 
+35 In the individual schedule for "BIOSLUDGE", under the section for "Loading", replace 
+the words "of the Code" with the words "of this Code". 
+ 
+BORAX (PENTAHYDRATE CRUDE)
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+the words "of the Code" with the words "of this Code". 
+ 
+BORAX (PENTAHYDRATE CRUDE) 
+ 
+36 In the individual schedule for "BORAX (PENTAHYDRATE CRUDE)", under the 
+section for "Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+- 7 - 
+ 
+BORAX, ANHYDROUS (crude or refined) 
+ 
+37 In the individual schedule for "BORAX, ANHYDROUS (crude or refined)", under the 
+section for "Loading", replace the words "under sections 4, 5 and 6 of the Code" with the words 
+"under sections 4 and 5 of this Code". 
+ 
+CALCIUM NITRATE UN 1454 
+ 
+38 In the individual schedule for "CALCIUM NITRATE UN 1454", under the section for 
+"Loading", in the second sentence, replace the words "of the Code" with the words "of this Code". 
+ 
+CALCIUM NITRATE FERTILIZER 
+ 
+39 In the individual schedule for "CALCIUM NITRATE FERTILIZER", under the section
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+CALCIUM NITRATE FERTILIZER 
+ 
+39 In the individual schedule for "CALCIUM NITRATE FERTILIZER", under the section 
+for "Loading", replace the words "under sections 4, 5 and 6 of the Code" with the words "under 
+sections 4 and 5 of this Code". 
+ 
+CARBORUNDUM 
+ 
+40 In the individual schedule for "CARBORUNDUM", under the section for "Loading", 
+replace the words "of the Code" with the words "of this Code" and add the following text: 
+ 
+"As the density of the cargo is extremely high, the tank top may be overstressed 
+unless the cargo is evenly spread across the tank top to equalize the weight 
+distribution. Due consideration shall be paid to ensure that the tank top is not 
+overstressed during voyage and during loading by a pile of the cargo."; 
+ 
+and under the section for "Precautions", replace the word "should" with the word "shall". 
+ 
+CASTOR BEANS or CASTOR MEAL or CASTOR POMACE or CASTOR FLAKE UN 2969 
+ 
+41 In the individual schedule for "CASTOR BEANS or CASTOR MEAL or CASTOR
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+CASTOR BEANS or CASTOR MEAL or CASTOR POMACE or CASTOR FLAKE UN 2969 
+ 
+41 In the individual schedule for "CASTOR BEANS or CASTOR MEAL or CASTOR 
+POMACE or CASTOR FLAKE UN 2969", under the section for "Loading", replace the words 
+"of the Code" with the words "of this Code". 
+ 
+CEMENT CLINKERS 
+ 
+42 In the individual schedule for "CEMENT CLINKERS", under the section for "Loading", 
+replace the words "of the Code" with the words "of this Code". 
+ 
+CHAMOTTE 
+ 
+43 In the individual schedule for "CHAMOTTE", under the section for "Loading", replace 
+the words "of the Code" with the words "of this Code". 
+ 
+CHARCOAL 
+ 
+44 In the individual schedule for "CHARCOAL", under the section for "Loading", in the 
+first sentence, replace the words "of the Code" with the words "of this Code". 
+ 
+CHOPPED RUBBER AND PLASTIC INSULATION 
+ 
+45 In the individual schedule for "CHOPPED RUBBER AND PLASTIC INSULATION",
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+CHOPPED RUBBER AND PLASTIC INSULATION 
+ 
+45 In the individual schedule for "CHOPPED RUBBER AND PLASTIC INSULATION", 
+under the section for "Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+ 
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+- 8 - 
+ 
+CHROME PELLETS 
+ 
+46 In the individual schedule for "CHROME PELLETS", under the section for "Loading", 
+replace the words "of the Code" with the words "of this Code". 
+ 
+CHROMITE ORE 
+ 
+47 In the individual schedule for "CHROMITE ORE ", under the section for "Loading", in 
+the first sentence, replace the words "of the Code" with the words "of this Code". 
+ 
+CLAY 
+ 
+48 In the individual schedule for "CLAY", under the section for "Loading", replace the 
+words "of the Code" with the words "of this Code". 
+ 
+CLINKER ASH 
+ 
+49 In the existing individual schedule for "CLINKER ASH", under the section for
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+words "of the Code" with the words "of this Code". 
+ 
+CLINKER ASH 
+ 
+49 In the existing individual schedule for "CLINKER ASH", under the section for 
+"Description", in the fourth sentence, the words "taken out" are replaced with "discharged" 
+twice. Under the section for "Hazard", in the second sentence, replace the words "of the Code" 
+with the words "of this Code". Under the section for "Loading", replace the words "of the Code" 
+with the words "of this Code". 
+ 
+COAL 
+ 
+50 In the individual schedule for "COAL", under the BCSN, add the following sentences 
+and the corresponding footnote:  
+ 
+"Coal shall be classified as Group A and B unless classified as Group B only by a test 
+determined by the appropriate authority or where it has the following particle size 
+distribution: 
+ 
+.1 not more than 10% by weight of particles less than 1 mm  
+(D10 > 1mm); and 
+ 
+.2 not more than 50% by weight of particles less than 10 mm 
+(D50 > 10 mm).
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+(D10 > 1mm); and 
+ 
+.2 not more than 50% by weight of particles less than 10 mm 
+(D50 > 10 mm). 
+ 
+Notwithstanding the above, a blend of two or more coals shall be classified as 
+Group A and B unless all original coals in the blend are Group B only. 
+ 
+51 Under the section for "Hazard", delete the sentence "Can liquefy if predominantly 
+fine 75% less than 5 mm coal." and add the sentence "This cargo may liquefy if shipped at a 
+moisture content in excess of its transportable moisture limit (TML). See sections 7 and 8 of 
+this Code." at the end of the section. 
+ 
+52 Under the section for "Weather precautions", replace paragraphs .1 and .4 with the 
+following sentences, respectively: 
+ 
+".1 the moisture content of the cargo shall be kept less than its TML during 
+loading operations and the voyage;"  
+ 
+and 
+ 
+".4 the cargo may be handled during precipitation under the conditions stated in 
+the procedures required in paragraph 4.3.3 of this Code; and";
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+".4 the cargo may be handled during precipitation under the conditions stated in 
+the procedures required in paragraph 4.3.3 of this Code; and";  
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+- 9 - 
+ 
+ 
+and under the section for "Loading", in the first sentence, replace the words "of the Code" with 
+the words "of this Code". and add the sentence "Due consideration shall be given to moisture 
+migration and formation of dangerous wet base when blended coals are loaded." at the end of 
+the section. 
+ 
+COAL SLURRY 
+ 
+53 In the individual schedule for "COAL SLURRY", under the section for "Hazard", 
+replace the first sentence with: 
+ 
+"This cargo may liquefy if shipped at a moisture content in excess of its transportable 
+moisture limit (TML). See sections 7 and 8 of this Code."; 
+ 
+under the section for "Weather precautions", replace paragraphs .1 and .4 with the following 
+sentences, respectively:
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+under the section for "Weather precautions", replace paragraphs .1 and .4 with the following 
+sentences, respectively: 
+ 
+".1 the moisture content of the cargo shall be kept less than its TML during 
+loading operations and the voyage;"  
+ 
+and 
+ 
+".4 the cargo may be handled during precipitation under the conditions stated in 
+the procedures required in paragraph 4.3.3 of this Code; and";  
+ 
+and under the section for "Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+COAL TAR PITCH 
+ 
+54 In the individual schedule for "COAL TAR PITCH", under the section for "Loading", 
+replace the words "of the Code" with the words "of this Code". 
+ 
+COARSE CHOPPED TYRES 
+ 
+55 In the individual schedule for "COARSE CHOPPED TYRES", under the section for 
+"Loading", replace the words "of the Code" with the words "of this Code". 
+ 
+COARSE IRON AND STEEL SLAG AND ITS MIXTURE 
+ 
+56 In the individual schedule for "COARSE IRON AND STEEL SLAG AND ITS
+---
+SOURCE: MSC.426(98).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.426(98).pdf
+COARSE IRON AND STEEL SLAG AND ITS MIXTURE 
+ 
+56 In the individual schedule for "COARSE IRON AND STEEL SLAG AND ITS 
+MIXTURE", under the section for "Loading", in the first sentence, replace the words "of the 
+Code" with the words "of this Code". 
+ 
+COKE 
+ 
+57 In the individual schedule for "COKE", under the section for "Loading", replace the 
+words "of the Code" with the words "of this Code". 
+ 
+COKE BREEZE 
+ 
+58 In the individual schedule for "COKE BREEZE", under the section for "Hazard", 
+replace the first sentence with: 
+ 
+"This cargo may liquefy if shipped at a moisture content in excess of its transportable 
+moisture limit (TML). See sections 7 and 8 of this Code."; 
+ 
+RESOLUTION MSC.426(98) (adopted on 15 June 2017) 
+AMENDMENTS TO THE INTERNATIONAL MARITIME SOLID BULK CARGOES (IMSBC) CODE
+---
+
+SOURCE: MSC.260(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.260(84).pdf
+RESOLUTION MSC.260(84)  
+(adopted on 16 May 2008)  
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE) 
+ 
+ 
+ 
+RESOLUTION MSC.260(84) 
+(adopted on 16 May 2008) 
+ 
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY 
+FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+NOTING resolution MSC.97(73), by which it a dopted the International Code of Safety 
+for High-Speed Craft, 2000 (hereinafter referred to as the 2000 HSC Code), which has become 
+mandatory under chapter X of the International Convention for the Safety of Life at Sea 
+(SOLAS), 1974, (hereinafter referred to as the Convention), 
+ 
+NOTING ALSO article VIII(b) and regulation X/1.2 of the Convention concerning the 
+procedure for amending the 2000 HSC Code,
+---
+SOURCE: MSC.260(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.260(84).pdf
+NOTING ALSO article VIII(b) and regulation X/1.2 of the Convention concerning the 
+procedure for amending the 2000 HSC Code, 
+ 
+HAVING CONSIDERED, at its eighty-f ourth session, amendments to  
+the 2000 HSC Code proposed and circulated in accordance with article VIII(b)(i) of 
+the Convention, 
+ 
+1. ADOPTS, in accordance with article VIII(b )(iv) of the Convention, amendments to 
+the 2000 HSC Code, the text of which is set out in the Annex to the present resolution; 
+ 
+2. DETERMINES, in accordance with article VII I(b)(vi)(2)(bb) of the Convention, that the 
+amendments shall be deemed to have been acc epted on 1 July 2009 unless, prior to that date, 
+more than one third of the Contracting Go vernments to the Convention or Contracting 
+Governments the combined merchant fleets of  which constitute not less than 50% of the 
+gross tonnage of the worlds merchant fleet, have notified their objections to the amendments;
+---
+SOURCE: MSC.260(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.260(84).pdf
+gross tonnage of the worlds merchant fleet, have notified their objections to the amendments; 
+ 
+3. INVITES Contracting Governments to note that , in accordance with article VIII(b)(vii)(2) 
+of the Convention, the amendments shall en ter into force on 1 January 2010 upon their 
+acceptance in accordance with paragraph 2 above; 
+ 
+4. REQUESTS the Secretary-General, in c onformity with article VIII(b)(v) of the 
+Convention, to transmit certified copies of the present resolution and the text of the amendments 
+contained in the Annex to all Contracting Governments to the Convention; 
+ 
+5. FURTHER REQUESTS the Secret ary-General to transmit copies of this resolution and 
+its Annex to Members of the Organization, which are not Contracting Governments to 
+the Convention. 
+ 
+ 
+RESOLUTION MSC.260(84)  
+(adopted on 16 May 2008)  
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE) 
+ - 2 - 
+ 
+ 
+ANNEX
+---
+SOURCE: MSC.260(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.260(84).pdf
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE) 
+ - 2 - 
+ 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR 
+HIGH-SPEED CRAFT, 2000 (2000 HSC CODE) 
+ 
+ 
+CHAPTER 8 
+LIFE-SAVING APPLIANCES AND ARRANGEMENTS 
+ 
+8.2 Communications  
+ 
+1 In paragraph 8.2.1, subparagraph .2 is replaced by the following: 
+ 
+.2 at least one search and rescue locati ng device shall be carried on each side of 
+every passenger high-speed craft and every cargo high -speed craft of 500 gross 
+tonnage and upwards.  Such search and rescue locating devi ce shall conform to 
+the applicable performance standards not inferior to those adopted by the 
+Organization.  The search and rescue lo cating device shall be stowed in such 
+locations that they can be rapidly placed in  any one of the liferafts.  Alternatively, 
+one search and rescue locating device shall be stowed in each survival craft. 
+ 
+ 
+CHAPTER 14 
+RADIOCOMMUNICATIONS
+---
+SOURCE: MSC.260(84).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.260(84).pdf
+one search and rescue locating device shall be stowed in each survival craft. 
+ 
+ 
+CHAPTER 14 
+RADIOCOMMUNICATIONS 
+ 
+ 
+14.7 Radio equipment: General 
+ 
+2 In paragraph 14.7.1, subparagraph .3 is replaced by the following: 
+ 
+.3 a search and rescue locating device which:. 
+ 
+ 
+ 
+RESOLUTION MSC.260(84)  
+(adopted on 16 May 2008)  
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE) 
+RESOLUTION MSC.260(84)  
+(adopted on 16 May 2008)  
+ADOPTION OF AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR HIGH-SPEED CRAFT, 2000 (2000 HSC CODE)
+---
+
+SOURCE: MSC.360(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.360(92).pdf
+RESOLUTION MSC.360(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE CODE OF SAFETY FOR DYNAMICALLY 
+SUPPORTED CRAFT (DSC CODE)
+MSC 92/26/Add.1 
+Annex 12, page 1 
+ 
+ 
+I:\MSC\92\26-Add-1.doc 
+ANNEX 12 
+ 
+RESOLUTION MSC.360(92) 
+(Adopted on 21 June 2013) 
+ 
+AMENDMENTS TO THE CODE OF SAFETY FOR DYNAMICALLY  
+SUPPORTED CRAFT (DSC CODE) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO that the Assembly, when adopting resolution A.373(X) on the Code of 
+Safety for Dynamically Supported Craft (DSC Code), authorized the Committee to amend the 
+Code as may be necessary, 
+ 
+RECOGNIZING the need for introduction into this Code of provisions for enclosed space 
+entry and rescue drills, 
+ 
+HAVING CONSIDERED, at its ninety-second session, the recommendations made by the 
+Sub-Committee on Dangerous Goods, Solid Cargoes and Containers, at its seventeenth 
+session,
+---
+SOURCE: MSC.360(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.360(92).pdf
+Sub-Committee on Dangerous Goods, Solid Cargoes and Containers, at its seventeenth 
+session, 
+ 
+1. ADOPTS amendments to the DSC Code, set out in the annex to the present 
+resolution; 
+ 
+2. INVITES all Governments concerned to take appropriate steps to give effect to the 
+annexed amendments to the Code by 1 January 2015. 
+ 
+ 
+* * * 
+ 
+RESOLUTION MSC.360(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE CODE OF SAFETY FOR DYNAMICALLY 
+SUPPORTED CRAFT (DSC CODE)
+MSC 92/26/Add.1 
+Annex 12, page 2 
+ 
+ 
+I:\MSC\92\26-Add-1.doc 
+ANNEX 
+ 
+AMENDMENTS TO THE CODE OF SAFETY FOR DYNAMICALLY 
+SUPPORTED CRAFT (DSC CODE) 
+ 
+ 
+Insert a new paragraph in chapter 17 "Operational requirements" as follows: 
+ 
+"17.5.4 Personnel with enclosed space entry or rescue responsibilities should 
+participate in an enclosed space entry and rescue drill, to be held on board the craft, 
+at least once every two months. Enclosed space entry and rescue drills should be
+---
+SOURCE: MSC.360(92).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.360(92).pdf
+at least once every two months. Enclosed space entry and rescue drills should be 
+planned and conducted in a safe manner, taking into account, as appropriate, the 
+guidance provided in the recommendations developed by the Organization*. 
+______________ 
+* Refer to the Revised recommendations for entering enclosed spaces aboard ships  
+(resolution A.1050(27))." 
+ 
+ 
+***
+RESOLUTION MSC.360(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE CODE OF SAFETY FOR DYNAMICALLY 
+SUPPORTED CRAFT (DSC CODE)
+RESOLUTION MSC.360(92) 
+(Adopted on 21 June 2013) 
+AMENDMENTS TO THE CODE OF SAFETY FOR DYNAMICALLY 
+SUPPORTED CRAFT (DSC CODE)
+---
+
+SOURCE: MSC.491(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.491(104).pdf
+RESOLUTION MSC.491(104) (adopted on 8 October 2021)  
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO  
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966 (1988 LOAD LINES PROTOCOL) 
+ 
+ 
+RESOLUTION MSC.491(104) 
+(adopted on 8 October 2021) 
+ 
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO  
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966 
+(1988 LOAD LINES PROTOCOL) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+RECALLING ALSO article VI of the Protocol of 1988 relating to the International Convention 
+on Load Lines, 1966 (1988 Load Lines Protocol) concerning amendment procedures, 
+ 
+HAVING CONSIDERED, at its 104th session, amendments to the 1988 Load Lines Protocol 
+proposed and circulated in accordance with article VI(2)(a) thereof, 
+ 
+1 ADOPTS, in accordance with article VI(2)(d) of the 1988 Load Lines Protocol,
+---
+SOURCE: MSC.491(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.491(104).pdf
+1 ADOPTS, in accordance with article VI(2)(d) of the 1988 Load Lines Protocol, 
+amendments to the 1988 Load Lines Protocol, the text of which is set out i n the annex to the 
+present resolution; 
+ 
+2 DETERMINES, in accordance with article VI(2)(f)(ii)(bb) of the  1988 Load Lines 
+Protocol, that the said amendments shall be deemed to have been accepted on 1  July 2023, 
+unless, prior to that date, more than one third of the Parties to the  1988 Load Lines Protocol, 
+or Parties the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of all the merchant fleets of all Parties, have notified their objections to the 
+amendments; 
+ 
+3 INVITES the Parties concerned to note that, in accordance with article VI(2)(g)(ii) of 
+the 1988 Load Lines Protocol, the amendments shall enter into force on 1 January 2024 upon 
+their acceptance in accordance with paragraph 2 above; 
+ 
+4 REQUESTS the Secretary -General, in conformity with article VI(2)(e)
+---
+SOURCE: MSC.491(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.491(104).pdf
+their acceptance in accordance with paragraph 2 above; 
+ 
+4 REQUESTS the Secretary -General, in conformity with article VI(2)(e) 
+of the 1988 Load Lines Protocol, to transmit certified copies of the present resolution and the 
+text of the amendments contained in the annex to all Parties to the 1988 Load Lines Protocol; 
+ 
+5 REQUESTS ALSO the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the Organization which are not Parties to the 1988 Load Lines Protocol. 
+ 
+ 
+RESOLUTION MSC.491(104) (adopted on 8 October 2021)  
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO  
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966 (1988 LOAD LINES PROTOCOL) 
+− 2 − 
+ 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO THE INTERNATIONAL 
+CONVENTION ON LOAD LINES, 1966 
+(1988 LOAD LINES PROTOCOL) 
+ 
+ 
+Annex B 
+ANNEXES TO THE CONVENTION AS MODIFIED BY  
+THE PROTOCOL OF 1988 RELATING THERETO  
+ 
+Annex I 
+Regulations for determining load lines 
+ 
+Chapter II
+---
+SOURCE: MSC.491(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.491(104).pdf
+ANNEXES TO THE CONVENTION AS MODIFIED BY  
+THE PROTOCOL OF 1988 RELATING THERETO  
+ 
+Annex I 
+Regulations for determining load lines 
+ 
+Chapter II 
+Conditions of assignment of freeboard 
+ 
+ 
+Regulation 22  
+Scuppers, inlets and discharges 
+ 
+1 Regulation 22(1)(g) is replaced with the following: 
+ 
+"(g) Table 22.1 provides the acceptable arrangements of scuppers and 
+ discharges." 
+ 
+ 
+Chapter III 
+Freeboards 
+ 
+Regulation 27  
+Types of ships 
+ 
+2 Regulation 27(13)(a) is replaced with the following: 
+ 
+"(13) The condition of equilibrium after flooding shall be regarded as satisfactory provided: 
+ 
+(a) The final waterline after flooding, taking into account sinkage, heel and 
+trim, is below the lower edge of any opening through which progressive 
+downflooding may take place. Such openings shall include air pipes, 
+ventilators (even if they comply with regulation 19(4)) and openings 
+which are closed by means of weathertight doors (even if they comply
+---
+SOURCE: MSC.491(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.491(104).pdf
+ventilators (even if they comply with regulation 19(4)) and openings 
+which are closed by means of weathertight doors (even if they comply 
+with regulation  12) or hatch covers (even if they comply with 
+regulation 16(1) through (5)), and may exclude those openings closed 
+by means of manhole covers and flush scuttles (which comply with 
+regulation 18), car go hatch covers of the type described in 
+regulation 27(2), remotely operated sliding watertight doors, hinged 
+watertight access doors with open/closed indication locally and at the 
+navigation bridge, of the quick -acting or single-action type that are 
+normally closed at sea, hinged watertight doors that are permanently 
+closed at sea, and sidescuttles of the non-opening type (which comply 
+with regulation 23). In the case of doors separating a main machinery 
+space from a steering gear compartment, watertight doors may be of a 
+hinged, quick-acting type kept closed at sea whilst not in use, provided
+---
+SOURCE: MSC.491(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.491(104).pdf
+space from a steering gear compartment, watertight doors may be of a 
+hinged, quick-acting type kept closed at sea whilst not in use, provided 
+also that the lower sill of such doors is above the summer load waterline." 
+ 
+ 
+___________ 
+RESOLUTION MSC.491(104) (adopted on 8 October 2021)  
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO  
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966 (1988 LOAD LINES PROTOCOL) 
+RESOLUTION MSC.491(104) (adopted on 8 October 2021)  
+AMENDMENTS TO THE PROTOCOL OF 1988 RELATING TO  
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966 (1988 LOAD LINES PROTOCOL)
+---
