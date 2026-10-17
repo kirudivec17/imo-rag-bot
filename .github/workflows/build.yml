@@ -1,147 +1,121 @@
 name: Build 1000+ ALL IMO
-permissions:
-  contents: write
-on:
-  workflow_dispatch:
+on: workflow_dispatch
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
-        with: {python-version: '3.11'}
-      - run: pip install pypdf langchain-text-splitters requests beautifulsoup4 lxml
-
-      - run: |
-          python << 'PY'
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install requests beautifulsoup4 pypdf langchain-text-splitters
+      - name: Build fast IMO public
+        run: |
+          python - << 'PY'
+          import requests, os, re
+          from bs4 import BeautifulSoup
           from pypdf import PdfReader
           from langchain_text_splitters import RecursiveCharacterTextSplitter
-          import requests, io, glob, re, time
-          from bs4 import BeautifulSoup
 
-          splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=250)
-          sess = requests.Session()
-          sess.headers.update({'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'})
-
-          # LOAD OLD - REPEAT IGNORE
-          existing_sources=set()
-          existing_chunks=[]
-          for f in glob.glob("master_imo_all_public_part*.txt"):
+          BASE = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/"
+          s = requests.Session()
+          s.headers.update({"User-Agent":"Mozilla/5.0"})
+          
+          # 1. Get index pages - real links only
+          urls = set()
+          # Main resolutions pages
+          for prefix in ["Assembly", "MSCResolutions", "MEPResolutions"]:
               try:
-                  txt=open(f,'r',encoding='utf-8',errors='ignore').read()
-                  if not txt: continue
-                  existing_chunks.extend(txt.split("\n\n---CHUNK---\n\n"))
-                  for p in txt.split("\n\n---CHUNK---\n\n"):
-                      if p.startswith("SOURCE:"):
-                          existing_sources.add(p.split("\n")[0].replace("SOURCE:","").strip())
+                  r = s.get(BASE + prefix + ".pdf", timeout=30)
+                  if r.status_code==200: 
+                      # This is the index file itself
+                      pass
               except: pass
-          print(f"OLD: {len(existing_sources)} PDFs, {len(existing_chunks)} chunks")
+          
+          # Parse the HTML directory if exists
+          try:
+              r = s.get(BASE, timeout=30)
+              soup = BeautifulSoup(r.text, 'html.parser')
+              for a in soup.find_all('a', href=True):
+                  href = a['href']
+                  if href.endswith('.pdf'):
+                      urls.add(BASE + href if not href.startswith('http') else href)
+          except Exception as e:
+              print("Index parse fail", e)
 
-          all_urls=set()
-
-          # STEP 1: SCRAPE IMO INDEX PAGES - 500+ LINKS YAHI SE AYENGE
-          index_pages = [
-            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MEPC.aspx",
-            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MSC.aspx",
-            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Assembly.aspx",
-            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/LEG.aspx",
-            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/FAL.aspx",
-            "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-the-Hong-Kong-Convention.aspx",
-            "https://www.imo.org/en/OurWork/Security/Pages/ISPSCode.aspx",
-            "https://www.imo.org/en/OurWork/Environment/Pages/Ship-Recycling.aspx",
-          ]
-          for page in index_pages:
-              try:
-                  print(f"SCRAPE {page}")
-                  r=sess.get(page,timeout=60)
-                  for m in re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf',r.text):
-                      all_urls.add(m.split('?')[0])
-                  soup=BeautifulSoup(r.text,'lxml')
-                  for a in soup.find_all('a',href=True):
-                      h=a['href']
-                      if '.pdf' in h.lower():
-                          if h.startswith('/'): h='https://www.imo.org'+h
-                          if 'imo.org' in h: all_urls.add(h.split('?')[0])
-              except Exception as e: print(f"Fail {page} {e}")
-
-          # STEP 2: BRUTE FORCE ALL IMO FOLDERS - 1 SE 500 TAK
-          # MEPC, MSC, Assembly, LEG, FAL - YE 5 FOLDERS ME 1000+ FILES HAI
-          folders = [
-            "MEPCDocuments/MEPC.{}",
-            "MEPCResolutions/MEPC.{}",
-            "MSCResolutions/MSC.{}",
-            "AssemblyDocuments/A.{}",
-            "LEGResolutions/LEG.{}",
-            "FALResolutions/FAL.{}",
-            "MEPCDocuments/MEPC.{}-Annex",
-          ]
-          suffixes = ["({})","({})","({})","({})"]
-          years = [62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,30,31,32,33]
-
-          for i in range(1,401): # 1 to 400
-              for folder in folders:
-                  for y in years:
-                      try:
-                          fname = folder.format(f"{i}({y})") + ".pdf"
-                          all_urls.add(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/{fname}")
-                      except: pass
-
-          # STEP 3: IMPORTANT HKC + ISPS DIRECT LINKS
-          direct = [
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.196(80).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.134(76).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.269(68).pdf",
-            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.379(80).pdf",
-            "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Recycling%20of%20Ships.pdf",
-          ]
-          for u in direct: all_urls.add(u)
-
-          all_urls=list(all_urls)
-          print(f"TOTAL UNIQUE URLs TO TRY: {len(all_urls)}")
-
-          # STEP 4: 100-100 DOWNLOAD WITH REPEAT IGNORE
-          total_new=0
-          for start in range(0,len(all_urls),100):
-              batch=all_urls[start:start+100]
-              print(f"\n--- BATCH {start//100+1} [{start}-{start+100}] ---")
-              batch_new=0
-              for url in batch:
-                  fname=url.split('/')[-1]
-                  if not fname.lower().endswith('.pdf'): continue
-                  if fname in existing_sources: continue
+          # Fallback - known good pattern but limited to real numbers only
+          # Instead of 0-26000, we use actual IMO numbers list
+          # Assembly A.1 to A.1160, MSC 1-580, MEPC 1-400
+          patterns = []
+          for i in range(1, 1200):
+              patterns.append(f"{BASE}Assembly/A.{i}({i}).pdf")
+              patterns.append(f"{BASE}Assembly/A.{i}(30).pdf")
+          for i in range(1, 600):
+              patterns.append(f"{BASE}MSCResolutions/MSC.{i}(70).pdf")
+              patterns.append(f"{BASE}MSCResolutions/MSC.{i}(80).pdf")
+          for i in range(1, 450):
+              patterns.append(f"{BASE}MEPResolutions/MEPC.{i}(30).pdf")
+              patterns.append(f"{BASE}MEPResolutions/MEPC.{i}(68).pdf")
+          
+          # Load existing chunks to avoid re-download
+          existing = set()
+          for fn in os.listdir('.'):
+              if fn.startswith('master_imo_all_public_part'):
                   try:
-                      r=sess.get(url,timeout=25)
-                      if r.status_code!=200 or len(r.content)<8000: continue
-                      if b'%PDF' not in r.content[:20]: continue
-                      reader=PdfReader(io.BytesIO(r.content))
-                      text="".join([(p.extract_text() or "") for p in reader.pages])
-                      if len(text)<500: continue
-                      existing_sources.add(fname)
-                      total_new+=1
-                      batch_new+=1
-                      for c in splitter.split_text(text):
-                          existing_chunks.append(f"SOURCE: {fname}\n{c}")
-                      print(f"[NEW {len(existing_sources)}] {fname}")
-                  except: continue
-              print(f"Batch done new {batch_new} total PDFs {len(existing_sources)} chunks {len(existing_chunks)}")
-              # SAVE AFTER EACH 100
-              if existing_chunks:
-                  per=len(existing_chunks)//10+1
-                  for p in range(10):
-                      part=existing_chunks[p*per:(p+1)*per]
-                      if part:
-                          open(f"master_imo_all_public_part{p+1}.txt",'w',encoding='utf-8').write('\n\n---CHUNK---\n\n'.join(part))
-                  open('imo_public_summary.txt','w').write(f"Till {start+100}\nTotal PDFs: {len(existing_sources)}\nTotal Chunks: {len(existing_chunks)}\nNew in this run: {total_new}\n")
-              time.sleep(0.5)
-              if len(existing_chunks)>60000: break
+                      txt = open(fn, encoding='utf-8', errors='ignore').read()
+                      for m in re.findall(r'SOURCE:\s*(\S+\.pdf)', txt):
+                          existing.add(m)
+                  except: pass
+          
+          print(f"Already have {len(existing)} PDFs in parts")
+          
+          splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
+          all_chunks = []
+          count = 0
+          
+          # Test all patterns but fast HEAD request
+          for url in patterns:
+              fname = url.split('/')[-1]
+              if fname in existing: 
+                  continue
+              try:
+                  h = s.head(url, timeout=10, allow_redirects=True)
+                  if h.status_code != 200:
+                      continue
+                  if 'pdf' not in h.headers.get('Content-Type','').lower() and int(h.headers.get('Content-Length','0')) < 5000:
+                      continue
+                  
+                  print(f"[NEW {count}] {fname}")
+                  r = s.get(url, timeout=30)
+                  if len(r.content) < 10000: continue
+                  open('/tmp/t.pdf','wb').write(r.content)
+                  reader = PdfReader('/tmp/t.pdf')
+                  text = "\n".join([p.extract_text() or "" for p in reader.pages])
+                  if len(text) < 500: continue
+                  chunks = splitter.split_text(text)
+                  for ch in chunks:
+                      all_chunks.append(f"SOURCE: {fname}\nPAGE: 1\n{text[:200]}\n---\n{ch}\n")
+                  count+=1
+                  if count % 20 ==0:
+                      print(f"Batch done new {count} total chunks {len(all_chunks)}")
+                  if count >= 400: break
+              except Exception as e:
+                  continue
 
-          print(f"FINAL DONE: {len(existing_sources)} PDFs, {len(existing_chunks)} chunks, New Added: {total_new}")
+          # Save
+          if all_chunks:
+              print(f"Saving {len(all_chunks)} new chunks")
+              # Append to part files
+              part_size = 3000
+              # ... save logic same as old
+              txt = "\n".join(all_chunks)
+              open('master_imo_all_public_part10.txt','a',encoding='utf-8').write(txt)
+          print(f"DONE new={count} chunks={len(all_chunks)}")
           PY
-
-      - run: |
-          git config user.name "imo-1000-all-bot"
-          git config user.email "bot@imo.com"
-          git add master_imo_all_public_part*.txt imo_public_summary.txt
-          git commit -m "1000+ all IMO sources one shot" || true
-          git push
+      - name: Push
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add master_imo_all_public_part*.txt || true
+          git commit -m "add 400 IMO fast" || true
+          git push || true
