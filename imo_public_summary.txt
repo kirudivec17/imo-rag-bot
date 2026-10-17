@@ -1,4 +1,4 @@
-Processed till 1518
-Total Unique PDFs: 518
-Total Chunks: 16036
-Last Batch New: 9
+Processed till 1524
+Total Unique PDFs: 524
+Total Chunks: 16072
+Last Batch New: 6
