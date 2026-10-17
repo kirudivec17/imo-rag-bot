@@ -1,0 +1,3415 @@
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+RESOLUTION MEPC.250(66) 
+(Adopted on 4 April 2014) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)RESOLUTION MEPC.250(66) 
+ 
+(Adopted on 4 April 2014) 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK 
+(IBC CODE) 
+ 
+(General, Ship survival capability and location of cargo tanks, Cargo tank venting 
+and gas-freeing arrangements, Environmental control, Fire protection and 
+fire extinction, Special requirements, Summary of minimum requirements, 
+and Form of Certificate of Fitness) 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine 
+pollution from ships,
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+conferred upon it by international conventions for the prevention and control of marine 
+pollution from ships, 
+ 
+RECALLING ALSO resolution MEPC.19(22) by which the Committee adopted the 
+International Code for the Construction and Equipment of Ships Carrying Dangerous 
+Chemicals in Bulk (IBC Code), 
+ 
+NOTING article 16 of the International Convention for the Prevention of Pollution from 
+Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol 
+of 1978 relating to the International Convention for the Prevention of Pollution from 
+Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the 
+amendment procedure of the 1978 Protocol and confer upon the appropriate body of the 
+Organization the function of considering and adopting amendments to the 1973 Convention, 
+as modified by the 1978 Protocol (MARPOL), 
+ 
+CONSIDERING that it is highly desirable for the provisions of the IBC Code, which are
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+as modified by the 1978 Protocol (MARPOL), 
+ 
+CONSIDERING that it is highly desirable for the provisions of the IBC Code, which are 
+mandatory under both MARPOL and the 1974 SOLAS Convention, to remain identical, 
+ 
+HAVING CONSIDERED proposed amendments to the IBC Code, 
+ 
+1 ADOPTS, in accordance with article 16(2)(b), (c) and (d) of the 1973 Convention, 
+the amendments to the IBC Code, the text of which is set out in the annex to the present 
+resolution; 
+ 
+2 DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that 
+the amendments to the IBC Code shall be deemed to have been accepted on 1 July 2015 
+unless, prior to that date, not less than one third of the Parties or Parties, the combined 
+merchant fleets of which constitute not less than 50% of the gross tonnage of the world's 
+merchant fleet, have communicated to the Organization their objection to the amendments; 
+ 
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of 
+the 1973 Convention, the amendments to the IBC Code shall enter into force on 
+1 January 2016 upon their acceptance in accordance with paragraph 2 above; 
+ 
+RESOLUTION MEPC.250(66) 
+(Adopted on 4 April 2014) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)- 2 - 
+ 
+4 REQUESTS the Secretary-General, in conformity with article 16(2)(e) of 
+the 1973 Convention, to transmit to all Parties to MARPOL, certified copies of the present 
+resolution and the text of the amendments to the IBC Code contained in the annex; and 
+ 
+5 REQUESTS FURTHER the Secretary-General to transmit copies of the present 
+resolution and its annex to the Members of the Organization which are not Parties to 
+MARPOL. 
+ 
+ 
+RESOLUTION MEPC.250(66) 
+(Adopted on 4 April 2014) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+MARPOL. 
+ 
+ 
+RESOLUTION MEPC.250(66) 
+(Adopted on 4 April 2014) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)- 3 - 
+ 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK 
+(IBC CODE) 
+ 
+ 
+Chapter 1 – General 
+ 
+1 New paragraphs 1.3.37 and 1.3.38 are added as follows: 
+ 
+"1.3.37 Purging means the introduction of inert gas into a tank which is already in 
+an inert condition with the object of further reducing the oxygen content; and/or 
+reducing the existing hydrocarbon or other flammable vapours content to a level 
+below which combustion cannot be supported if air is subsequently introduced into 
+the tank. 
+ 
+1.3.38 Gas-freeing means the process where a portable or fixed ventilation system 
+is used to introduce fresh air into a tank in order to reduce the concentration of
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+is used to introduce fresh air into a tank in order to reduce the concentration of 
+hazardous gases or vapours to a level safe for tank entry." 
+ 
+Chapter 2 – Ship survival capability and location of cargo tanks 
+ 
+2.2 – Freeboard and intact stability 
+ 
+2 The title of section 2.2 is amended to read: 
+ 
+ "Freeboard and stability" 
+ 
+3 A new subparagraph 2.2.6 is added as follows: 
+ 
+"2.2.6 All ships, subject to the Code, shall be fitted with a stability instrument, 
+capable of verifying compliance with intact and damage stability requirements, 
+approved by the Administration having regard to the performance standards 
+recommended by the Organization: 
+ 
+.1 ships constructed before 1 January 2016 shall comply with this 
+requirement at the first scheduled renewal survey of the ship on or 
+after 1 January 2016 but not later than 1 January 2021;  
+ 
+.2 notwithstanding the requirements of 2.2.6.1, a stability instrument 
+fitted on a ship constructed before 1 January 2016  need not be
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+.2 notwithstanding the requirements of 2.2.6.1, a stability instrument 
+fitted on a ship constructed before 1 January 2016  need not be 
+replaced provided it is capable of verifying compliance with intact 
+and damage stability, to the satisfaction of the Administration; and 
+ 
+.3 for the purposes of control under regulation 16 of 
+MARPOL Annex II, the Administration shall issue a document of 
+approval for the stability instrument.  
+ 
+ 
+RESOLUTION MEPC.250(66) 
+(Adopted on 4 April 2014) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)- 4 - 
+ 
+4 A new subparagraph 2.2.7 is added as follows: 
+ 
+"2.2.7 The Administration may waive the requirements of paragraph 2.2.6 for the 
+following ships provided the procedures employed for intact and damage stability 
+verification maintain the same degree of safety, as being loaded in accordance with
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+verification maintain the same degree of safety, as being loaded in accordance with 
+the approved condition s. Any such waiver shall be duly noted on the International 
+Certificate of Fitness referred to in paragraph 1.5.4: 
+ 
+.1 ships which are on a dedicated service, with a limited number of 
+permutations of loading such that all anticipated conditions have 
+been approved in the stability information provided to the master in 
+accordance with the requirements of paragraph 2.2.5; 
+ 
+.2 ships where stability verification is made remotely by a means 
+approved by the Administration; 
+ 
+.3 ships which are loaded within an approved ran ge of loading 
+conditions; or 
+ 
+.4 ships constructed before 1 January 2016 provided with approved 
+limiting KG/GM curves covering all applicable intact and damage 
+stability requirements.  
+ 
+Chapter 8 – Cargo tank venting and gas-freeing arrangements 
+ 
+5 In paragraph 8.1.5, the references to "SOLAS regulations II-2/4.5.3 and 4.5.6" are
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+Chapter 8 – Cargo tank venting and gas-freeing arrangements 
+ 
+5 In paragraph 8.1.5, the references to "SOLAS regulations II-2/4.5.3 and 4.5.6" are 
+replaced by references to "SOLAS regulations II-2/4.5.3, 4.5.6 and 16.3.2". 
+ 
+6 A new paragraph 8.5 is inserted as follows: 
+ 
+ "8.5  Cargo tank purging 
+ 
+When the application of inert gas is required by 11.1.1, before gas-freeing, the cargo 
+tanks shall be purged with inert gas through outlet pipes with cross-sectional area 
+such that an exit velocity of at least 20 m/s can be maintained when any three tanks 
+are being simultaneously supplied with inert gas. The outlets shall extend not less 
+than 2 m above the deck level. Purging shall continue until the concentration of 
+hydrocarbon or other flammable vapours in the cargo tanks has been reduced to 
+less than 2% by volume." 
+ 
+7 The existing paragraph 8.5 and subparagraphs 8.5.1, 8.5.2 and 8.5.3 are
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+less than 2% by volume." 
+ 
+7 The existing paragraph 8.5 and subparagraphs 8.5.1, 8.5.2 and 8.5.3 are 
+renumbered as paragraph 8.6 and subparagraphs 8.6.1, 8.6.2 and 8.6.3, respectively, and, 
+in the renumbered paragraphs 8.6.2 and 8.6.3 the referenced paragraph numbers "8.5.1", 
+"8.5.1.2" and "8.5.1.3" are replaced with "8.6.1", "8.6.1.2" and "8.6.1.3", respectively. 
+ 
+Chapter 9 – Environmental control 
+ 
+8 The chapeau of paragraph 9.1.3 is replaced by the following: 
+ 
+ "9.1.3 Where inerting or padding of cargo tanks is required by this Code in 
+column "h" of chapter 17:" 
+ 
+Chapter 11 – Fire protection and fire extinction* 
+ 
+9 Subparagraph 11.1.1.1 is replaced by the following:   
+ 
+"11.1.1.1 Regulations 10.8 and 10.9 shall not apply;" 
+RESOLUTION MEPC.250(66) 
+(Adopted on 4 April 2014) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)- 5 - 
+ 
+ 
+Chapter 15 – Special requirements
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)- 5 - 
+ 
+ 
+Chapter 15 – Special requirements 
+ 
+10 Paragraph 15.13.5 is replaced by the following:  
+ 
+ "15.13.5 When a product containing an oxygen- dependent inhibitor is to be carried:  
+ 
+.1 in a ship for which inerting is required under SOLAS 
+regulation II-2/4.5.5, as amended, the application of inert gas shall 
+not take place before loading or during the voyage, but shall be 
+applied before commencement of unloading;  
+  
+.2 in a ship to which SOLAS regulation II -2/4.5.5, as amended, does 
+not apply, the product may be carried without inertion (in tanks of a 
+size not greater than 3,000 m3).  If inertion is to be applied on such 
+a ship, then the application of inert gas shall not take place before 
+loading or during the voyage, but shall be applied before 
+commencement of unloading.   
+ 
+Chapter 17 – Summary of minimum requirements
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+loading or during the voyage, but shall be applied before 
+commencement of unloading.   
+ 
+Chapter 17 – Summary of minimum requirements  
+ 
+11 The explanatory notes for "Tank environment control (column h)" are replaced by 
+the following: 
+ 
+"Tank environmental Inert: inerting (9.1.2.1) 
+control Pad: liquid or gas padding (9.1.2.2) 
+(column h) Dry: drying (9.1.2.3) 
+ Vent: natural or forced ventilation (9.1.2.4) 
+ No: no special requirements under this Code 
+  (inerting may be required under SOLAS)" 
+ 
+Certificate of Fitness 
+ 
+12 Paragraph 6 is replaced with the following: 
+ 
+"6 That the ship must be loaded:  
+ 
+.1* only in accordance with loading conditions verified compliant wi th 
+intact and damage stability requirements using the approved stability 
+instrument fitted in accordance with paragraph 2.2.6 of the Code; 
+ 
+.2* where a waiver permitted by paragraph 2.2.7 of the Code is 
+granted and the approved stability instrument require d by
+---
+SOURCE: MEPC.250(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.250(66).pdf
+.2* where a waiver permitted by paragraph 2.2.7 of the Code is 
+granted and the approved stability instrument require d by 
+paragraph 2.2.6 of the Code is not fitted, loading shall be made in 
+accordance with one or more of the following approved methods: 
+ 
+(i) in accordance with the loading conditions provided in the 
+approved loading manual, stamped and dated .................. 
+and signed by a responsible officer of the Administration, 
+or of an organization recognized by the Administration; or 
+ 
+(ii) in accordance with loading conditions verified remotely 
+using an approved means …………………; or 
+ 
+RESOLUTION MEPC.250(66) 
+(Adopted on 4 April 2014) 
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND 
+EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)
+---
+
+SOURCE: A.985(24).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.985(24).pdf
+Resolution A.985(24)  Adopted on 1 December 2005  
+(Agenda item 13)  
+REVISION OF THE GUIDELINES FOR THE PREVENTION AND SUPPRESSION OF THE SMUGGLING OF DRUGS, 
+PSYCHOTROPIC SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS (RESOLUTION A.872(20))I:\ASSEMBLY\24
+\RES\985.doc 
+For reasons of economy, this document is pr inted in a limited number.  Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+INTERNATIONAL MARITIME ORGANIZATION 
+IMO
+ 
+E
+ASSEMBL
+Y 
+24th session  
+Agenda item 13 
+A 24/Res.985
+6 February 2006
+ Original:  ENGLISH
+Resolution A.985(24) 
+Adopted on 1 December 2005 
+(Agenda item 13) 
+REVISION OF THE GUIDELI
+NES FOR THE PREVENTION AND SUPPRESSION OF 
+THE SMUGGLING OF DRUGS, PSYCHOTROPIC SUBSTANCES AND PRECURSOR 
+CHEMICALS ON SHIPS (RESOLUTION A.872(20)) 
+THE ASSEMBLY, 
+HAVING CONSI
+DERED the general purpose of the Convention on Facilitation of 
+International Maritime Traffic, 1965, as amended, in particular article III thereof,
+---
+SOURCE: A.985(24).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.985(24).pdf
+DERED the general purpose of the Convention on Facilitation of 
+International Maritime Traffic, 1965, as amended, in particular article III thereof, 
+RECALLING that the Conference of Contr acting Governments to the International 
+Convention for the Safety of Life at Sea,  1974, which was held in London between 9 
+and 13 December 2002 (the 2002 SOLAS Conference), adopted, inter alia , the Special 
+measures to enhance maritime security contained in chapter XI-2 of the International 
+Convention for the Safety of Life at Sea, 1974, as amended (SOLAS chapter XI-2) and the 
+International Ship and Port Facility Security (ISPS) Code, 
+RECALLING ALSO that the 2002 SOLAS Conference adopted resolution 3 on 
+Further work by the International Maritime Organization pertaining to the enhancement of 
+maritime security, which, in operative paragra ph 1(h), invited the Organization to review 
+resolution A.872(20) on Guidelines for the pr evention and suppression of the smuggling of
+---
+SOURCE: A.985(24).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.985(24).pdf
+resolution A.872(20) on Guidelines for the pr evention and suppression of the smuggling of 
+drugs, psychotropic substances and precursor chemicals on ships engaged in international traffic 
+and, if necessary, to develop appropriate amendments thereto, 
+RECALLING FURTHER that the 2002 SOLAS Conference adopted al so resolution 8 on 
+Enhancement of security in co-operation with the International Labour Organization (ILO) and 
+resolution 9 on Enhancement of s ecurity in co-operation with the World Customs Organization 
+(WCO) and that, in response, the ILO and the Organization have developed the ILO/IMO Code 
+of practice on security in ports and the WCO has developed the Framework of standards to 
+secure and facilitate trade, 
+MINDFUL that United Nations Security Council resolutions 1373 (2001) and 1456 (2003) 
+have, inter alia , noted with concern the close connection between international terrorism and
+---
+SOURCE: A.985(24).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.985(24).pdf
+have, inter alia , noted with concern the close connection between international terrorism and 
+transnational organized crime, illicit drugs, mone y laundering and illegal arms trafficking; and 
+have emphasized the need to enhance co-ordinati on of efforts on national, subregional, regional 
+Resolution A.985(24)  Adopted on 1 December 2005  
+(Agenda item 13)  
+REVISION OF THE GUIDELINES FOR THE PREVENTION AND SUPPRESSION OF THE SMUGGLING OF DRUGS, 
+PSYCHOTROPIC SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS (RESOLUTION A.872(20))A 24/Res.985 - 2 - 
+ 
+ 
+I:\ASSEMBLY\24\RES\985.doc 
+and international levels in order to strengthe n a global response to th ese serious threats to 
+international security, 
+ 
+MINDFUL ALSO of the work conducted by other United Nations agencies and 
+international organizations, such as the United Nations International Narcotics Control Board, the 
+United Nations Office on Drugs and Crime, the Un ited Nations Interregional Criminal Justice
+---
+SOURCE: A.985(24).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.985(24).pdf
+United Nations Office on Drugs and Crime, the Un ited Nations Interregional Criminal Justice 
+Research Institute, Interpol and the World Cust oms Organization, to assist States to combat 
+international terrorism and transnational orga nized crime, illicit drugs, money-laundering and 
+illegal arms-trafficking through provision of guidance and capacity-building activities, 
+ 
+NOTING, in particular, that the Facilitation Committee at its th irty-first and thirty-second 
+sessions discussed the revision of the Guidelines for the pr evention and suppression of the 
+smuggling of drugs, psychotropic substances a nd precursor chemicals on ships engaged in 
+international traffic (the Guidelines) an d that, during the thirty-second session of the 
+Facilitation Committee, the delegation of Colomb ia made specific propos als on the revision of 
+the Guidelines which have been highly appreciated, 
+ 
+CONVINCED of the need to align the Guidelines with the provisions of
+---
+SOURCE: A.985(24).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.985(24).pdf
+the Guidelines which have been highly appreciated, 
+ 
+CONVINCED of the need to align the Guidelines with the provisions of 
+SOLAS chapter XI-2 and the ISPS Code and to revise them in a manner that reflects the 
+developments in the efforts undertaken to prevent and combat the smuggling of drugs, 
+psychotropic substances and precursor chemicals, 
+ 
+RECOGNIZING that the revision of the Guidelin es should be done in such a manner that 
+the end result does not duplicate the existing pr ovisions of the ISPS Code but augments and 
+supplements them, in the context of preventi ng illicit drug trafficki ng and controlling the 
+diversion of precursor chemicals, where necessary, 
+ 
+ALSO RECOGNIZING that a comprehensive revi sion of the Guidelines may entail their 
+complete replacement and the need eventually to revoke resolution A.872(20), 
+ 
+HAVING CONSIDERED the recommendation ma de by the Facilitation Committee at its 
+thirty-second session:
+---
+SOURCE: A.985(24).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.985(24).pdf
+HAVING CONSIDERED the recommendation ma de by the Facilitation Committee at its 
+thirty-second session: 
+ 
+1. AGREES that there is a need to revise the Gu idelines as a matter of priority and, to that 
+end, requests the Facilitation Committee and the Ma ritime Safety Committee to work jointly and 
+expeditiously on the revision of the Guidelines; 
+ 
+2. AUTHORIZES the Facilitation Committee and the Maritime Safety Committee to adopt 
+jointly the necessary amendments to the Guide lines and to promulgate them by appropriate 
+means; 
+ 
+3. DECIDES that, as from the date of the joint adoption by the Facilitation Committee and 
+the Maritime Safety Committee of the amendm ents to the Guidelin es, resolution A.872(20) 
+should be deemed as revoked; 
+ 
+4. REQUESTS the Facilitation Committee and th e Maritime Safety Committee to report on 
+action taken in accordance with this resolution to the twenty-fifth regular session of the 
+Assembly;
+---
+SOURCE: A.985(24).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.985(24).pdf
+action taken in accordance with this resolution to the twenty-fifth regular session of the 
+Assembly; 
+ 
+5. INVITES Member Governments and in tergovernmental organizations and 
+non-governmental organizations in consultative status to participate actively in the revision of the 
+Guidelines. 
+___________ 
+Resolution A.985(24)  Adopted on 1 December 2005  
+(Agenda item 13)  
+REVISION OF THE GUIDELINES FOR THE PREVENTION AND SUPPRESSION OF THE SMUGGLING OF DRUGS, 
+PSYCHOTROPIC SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS (RESOLUTION A.872(20))Resolution A.985(24)  Adopted on 1 December 2005  
+(Agenda item 13)  
+REVISION OF THE GUIDELINES FOR THE PREVENTION AND SUPPRESSION OF THE SMUGGLING OF DRUGS, 
+PSYCHOTROPIC SUBSTANCES AND PRECURSOR CHEMICALS ON SHIPS (RESOLUTION A.872(20))
+---
+
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+RESOLUTION MEPC.320(74) (adopted 17 May 2019)  
+2019 GUIDELINES FOR CONSISTENT IMPLEMENTATION OF THE 0.50% SULPHUR LIMIT UNDER MARPOL ANNEX VIMEPC 74/18/Add.1 
+Annex 14, page 1 
+I:\MEPC\74\MEPC 74-18-Add.1.docx 
+ANNEX 14 
+RESOLUTION MEPC.320(74) 
+(adopted 17 May 2019) 
+2019 GUIDELINES FOR CONSISTENT IMPLEMENTATION OF 
+THE 0.50% SULPHUR LIMIT UNDER MARPOL ANNEX VI 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the f unctions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution 
+from ships,  
+RECALLING ALSO that, at its fifty -eighth session, the Committee adopted,  by 
+resolution MEPC.176(58), a revised MARPOL Annex VI which significantly strengthens th e 
+emission limits for sulphur oxides (SOX), 
+RECALLING FURTHER that, at its seventieth session, the Committee adopted,
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+emission limits for sulphur oxides (SOX), 
+RECALLING FURTHER that, at its seventieth session, the Committee adopted, 
+resolution MEPC.280(70), Effective date of implementation of the fuel oil standard in 
+regulation 14.1.3 of MARPOL Annex VI, confirming "1 January 2020" as the effective date of 
+implementation for ships to comply with global 0.50% m/m sulphur content of fuel oil 
+requirement, 
+NOTING ALSO that, at its seventy -third session, the Committee approved circular 
+MEPC.1/Circ.878 on the Guidance on the development of a ship implementation plan f or the 
+consistent implementation of the 0.50% sulphur limit under MARPOL Annex VI, 
+HAVING CONSIDERED, at its seventy -fourth session, draft 2019 Guidelines for consistent 
+implementation of the 0.50% sulphur limi t under MARPOL Annex VI , prepared by the 
+Sub-Committee on Pollution Prevention and Response, at its sixth session, 
+1 ADOPTS the 2019 Guidelines for consistent implementation of the 0.50% sulphur limit
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+1 ADOPTS the 2019 Guidelines for consistent implementation of the 0.50% sulphur limit 
+under MARPOL Annex VI, as set out in the annex to the present resolution; 
+2 REQUESTS Parties to MARPOL Annex VI and other Member Governments to bring 
+these Guidelines to the attention of shipowners, ship operators, fuel oil suppliers and any other 
+interested groups;  
+3 AGREES to keep these Guidelines under review in the light of experience gained with 
+their application. 
+RESOLUTION MEPC.320(74) (adopted 17 May 2019)  
+2019 GUIDELINES FOR CONSISTENT IMPLEMENTATION OF THE 0.50% SULPHUR LIMIT UNDER MARPOL ANNEX VIMEPC 74/18/Add.1 
+Annex 14, page 2 
+ 
+I:\MEPC\74\MEPC 74-18-Add.1.docx 
+ANNEX 
+ 
+2019 GUIDELINES FOR CONSISTENT IMPLEMENTATION OF THE  
+0.50% SULPHUR LIMIT UNDER MARPOL ANNEX VI 
+ 
+1 Introduction 
+ 
+1.1 Objective 
+ 
+1.1.1 The purpose of these Guidelines is to ensure consistent implementation of the 0.50% 
+sulphur limit under MARPOL Annex VI. These Guidelines are intended for use by
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+sulphur limit under MARPOL Annex VI. These Guidelines are intended for use by 
+Administrations, port States, shipowners, shipbuilders and fuel oil suppliers, as appropriate. 
+ 
+1.2 Definitions 
+ 
+1.2.1 For the purpose of these Guidelines, the definitions in MARPOL Annex VI apply. 
+ 
+1.2.2 The following definitions of fuel oils are used, as applicable: 
+ 
+.1 Distillate marine fuels (DM) are as specified in ISO 8217:2017 1 (e.g. DMA, 
+DMB, DMX, DMZ); 
+ 
+.2 Residual marine fuels (RM) are a s specified in ISO 8217:2017 1 
+(e.g. RMD 80, RMG 380); 
+ 
+.3 Ultra-low sulphur fuel oil (ULSFO) are as specified in ISO 8217:2017 1 
+(e.g. maximum 0.10% S ULSFO-DM, maximum 0.10% S ULSFO-RM); 
+ 
+.4 Very low sulphur fuel oil (VLSFO) (e.g. maximum 0.50% S VLSFO-DM, 
+maximum 0.50% S VLSFO-RM); and 
+ 
+.5 High sulphur heavy fuel oil (HSHFO) exceeding 0.50% S. 
+ 
+2 Ship implementation planning for 2020 
+ 
+2.1 MEPC 70 agreed to "1 January 2020" as the effective date of implementation for ships
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+2 Ship implementation planning for 2020 
+ 
+2.1 MEPC 70 agreed to "1 January 2020" as the effective date of implementation for ships 
+to comply with the 0.50% m/m fuel oil sulphur content limit requirement and adopted 
+resolution MEPC.280(70) on the Effective date of implementation of the fuel oil standard in 
+regulation 14.1.3 of MARPOL Annex VI2. 
+ 
+2.2 In this context, MEPC 73 agreed that Administrations should e ncourage ships flying 
+their flag to develop implementation plans, outlining how the ship may prepare in order to 
+comply with the required sulphur content limit of 0.50% by 1 January 2020. The plan should 
+be complemented with a record of actions taken by th e ships in order to be compliant by the 
+applicable date. 
+ 
+2.3 MEPC 73, recognizing the need for guidance to support the consistent 
+implementation of the 0.50% sulphur limit under MARPOL Annex VI, approved 
+MEPC.1/Circ.878 on the Guidance on the development of a ship implementation plan for the
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+MEPC.1/Circ.878 on the Guidance on the development of a ship implementation plan for the 
+consistent implementation of the 0.50% sulphur limit under MARPOL Annex VI. 
+ 
+1 The latest edition of the ISO standard is recommended. 
+ 
+2 Regulation 14.1.3 of MARPOL Annex VI, was amended by resolution MEPC.305(73). 
+RESOLUTION MEPC.320(74) (adopted 17 May 2019)  
+2019 GUIDELINES FOR CONSISTENT IMPLEMENTATION OF THE 0.50% SULPHUR LIMIT UNDER MARPOL ANNEX VIMEPC 74/18/Add.1 
+Annex 14, page 3 
+ 
+ 
+I:\MEPC\74\MEPC 74-18-Add.1.docx 
+3 Impact on fuel and machinery systems 
+ 
+3.0.1 The experiences and lessons learned from the transition to the 0.10% m/m SOX-ECA 
+limit indicated that cur rent ship machinery operations should be sufficiently capable of 
+addressing the concerns regarding combustion of the new 0.50% m/m limit fuel oils.  
+ 
+3.0.2 Currently most of the marine diesel engines and boilers on ships operat ing outside
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+3.0.2 Currently most of the marine diesel engines and boilers on ships operat ing outside 
+Emission Control Areas (ECAs) are optimized to operate on heavy fuel oil. From 2020 ships 
+are required to use fuel oils with a sulphur content of 0.50% m/m or lower, unless fitted with an 
+approved equivalent means of compliance. 
+ 
+3.1 Distillate fuels 
+ 
+3.1.1 A major challen ge with distillate fuels is low viscosity. Low viscosity may cause 
+internal leakages in diesel engines, boilers and pumps. Internal leakages in fuel injection 
+system may result in reduced fuel pressure to the engine, which may have consequences for 
+the engine performance (e.g. starting of the engine). Equipment makers recommendations 
+should be taken into account, and adequate testing, maintenance and possible installation of 
+coolers, etc. may be performed. 
+ 
+3.1.2 Cold Filter Plugging Points (CFPP) and Cloud Points (CP) as well as the Pour Point
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+coolers, etc. may be performed. 
+ 
+3.1.2 Cold Filter Plugging Points (CFPP) and Cloud Points (CP) as well as the Pour Point 
+(PP) for distillate fuels need to be considered in light of the ship's intended operating area and 
+ambient temperatures. 
+ 
+3.1.3 These issues are critical concerns as they can res ult in the formation and 
+accumulation of wax sediment, which can cause costly and avoidable maintenance. In the 
+worst-case scenario, sediment can cause engine fuel starvation and power loss. 
+ 
+3.1.4 ISO 8217:2017 3 limits the cold flow properties of a fuel t hrough setting a limit 
+on the PP. However, given that wax crystals form at temperatures above the PP, fuels that 
+meet the specification in terms of PP can still be challenging to operations in colder operating 
+regions, as the wax particles can rapidly bloc k filters, potentially plugging them co mpletely. 
+For cold weather, additional cold flow properties, CFPP and CP, should be reported by the
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+For cold weather, additional cold flow properties, CFPP and CP, should be reported by the 
+supplier when the receiving ship has ordered distillate fuel for cold weather operations, a 
+requirement that is specified in ISO 8217:20173. 
+ 
+3.1.5 Since th e residual fuels are usually heated and distillate fuels are not heated, 
+particular attention needs to be given to the cold flow properties of distillates. Cold flow property 
+challenges can be managed by heating the fuel. CIMAC has issued "01 2015 CIMAC Guideline 
+Cold flow properties of marine fuel oils"4. 
+ 
+3.1.6 Fuel temperature should be kept approximately 10°C above the PP in order to avoid 
+any risk of solidification, however this may not reduce the risk of filter blocking in case of high 
+CFPP and CP. 
+ 
+3.1.7 It is good practice to review the possibilities of heating arrangements for distillate fuels 
+on board. This is usually very limited, as it is not standard practice to have heating
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+on board. This is usually very limited, as it is not standard practice to have heating 
+arrangements in distillate stora ge, settling or service tanks. Transfer  arrangements may be 
+adapted to pass through a residual fuel oil heat exchanger should the need arise. 
+ 
+3 The latest edition of the ISO standard is recommended. 
+ 
+4  https://www.cimac.com/cms/upload/workinggroups/WG7/CIMAC_WG7_2015_01_Guideline_Cold__ 
+Flow_Properties_Marine_Fuel_Oils_final.pdf  
+RESOLUTION MEPC.320(74) (adopted 17 May 2019)  
+2019 GUIDELINES FOR CONSISTENT IMPLEMENTATION OF THE 0.50% SULPHUR LIMIT UNDER MARPOL ANNEX VIMEPC 74/18/Add.1 
+Annex 14, page 4 
+ 
+I:\MEPC\74\MEPC 74-18-Add.1.docx 
+3.1.8 Knowing the fuel properties before bunkering will assist in taking the necessary 
+precautions where and when necessary. If the ship is heading towards colder climates and the 
+cold flow properties are inferior, the fuel may be: 
+ 
+.1 either used before entering cold regions, or
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+cold flow properties are inferior, the fuel may be: 
+ 
+.1 either used before entering cold regions, or 
+ 
+.2 used with suitable heating arrangement, as mentioned above. 
+ 
+3.1.9 If the approach of applying heat is being followed it should be ensured that the fuel is 
+not overheated resulting in the viscosity dropping below the minimum recommendation of 2 cSt 
+at any point in the fuel system, including the engine inlet. In order to reduce this risk, h eating 
+should be limited to max 40°C. 
+ 
+3.2 Distillate fuel with FAME content 
+ 
+3.2.1 Increased demand for Distillate fuels may result in more land-based products making 
+their way into the marine supply pool, some of these fuels (e.g. biodiesel) may contain Fatty 
+Acid Methyl Ester (FAME). 
+ 
+3.2.2 There are various technical challenges associated with use of fuel having FAME 
+content, e.g. potential oxidation  of biodiesel, its biodegradable nature , etc. with adverse
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+content, e.g. potential oxidation  of biodiesel, its biodegradable nature , etc. with adverse 
+implications, limitations in storage life, etc. It also needs to be tested for stability. 
+ 
+3.2.3 The ISO 8217:20173 standard includes a maximum FAME content of 7.0% by volume 
+for DFA/DFZ/DFB fuel oil grades since some ports may offer automotive diesel fuel as the only 
+fuel available, which contains FAME and could violate the fuel flashpoin t requirements 
+addressed in SOLAS chapter II -2. The maximum 7.0% (v/v) has been chosen as this aligns 
+with the concentrations allowed in some of the countries applying environmental regulations. 
+ 
+3.2.4 Manufacturers of engines and equipment like oily water  separators, overboard 
+discharge monitors, filters, coalescers , etc. need to be consulted to confirm the ability  of 
+engines and equipment to handle biodiesel blends of up to B7 (i.e. 7.0% v/v). 
+ 
+3.2.5 It is recommended to avoid using such biodiesel blend f uels for lifeboat engines,
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+3.2.5 It is recommended to avoid using such biodiesel blend f uels for lifeboat engines, 
+emergency generators, fire pumps, etc. where it is stored in isolated individual unit  fuel tanks 
+and subjected to conditions for accelerated degradation. 
+ 
+3.2.6 CIMAC has provided a Guideline for Shipowners and Operators on Manag ing 
+Distillate Fuels up to 7.0% v/v Fame (Biodiesel).5 
+ 
+3.3 Residual fuels 
+ 
+3.3.1 Stability and compatibility 
+ 
+3.3.1.1 It is essential to distinguish between "Fuel stability" within a single batch of fuel and 
+"Fuel compatibility" between different fuel batches. 
+ 
+3.3.1.2 Regarding stability: the fuel shall be stable and homogeneous at delivery and it is the 
+responsibility of the fuel oil blenders and suppliers to ensure this. 
+ 
+ 
+5 https://www.cimac.com/cms/upload/workinggroups/WG7/CIMAC_WG7_Guideline_for_Ship_Owners_ 
+and_Operators_on_Managing_Distillate_Fuels_May_2013.pdf   
+RESOLUTION MEPC.320(74) (adopted 17 May 2019)
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+and_Operators_on_Managing_Distillate_Fuels_May_2013.pdf   
+RESOLUTION MEPC.320(74) (adopted 17 May 2019)  
+2019 GUIDELINES FOR CONSISTENT IMPLEMENTATION OF THE 0.50% SULPHUR LIMIT UNDER MARPOL ANNEX VIMEPC 74/18/Add.1 
+Annex 14, page 5 
+ 
+ 
+I:\MEPC\74\MEPC 74-18-Add.1.docx 
+3.3.1.3 A wide range of blends of refined products will be used to make the new 0. 50% 
+sulphur fuels, and the stability and compatibility of the blends will be an important concern for 
+shipowners/operators. Unstable fuels can separate on their own and incompatible ones can 
+do so when mixed in a single bunker tank, forming sludge that can block filters and ultimately 
+cause engine failures. 
+ 
+3.3.1.4 It is recommended that ships have a commingling pr ocedure. The procedure should 
+primarily aim to ensure new bunkers are loaded into empty tanks to the extent possible. In the 
+event that a ship finds itself possibly having to commingle a new bunker with bunkers already
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+event that a ship finds itself possibly having to commingle a new bunker with bunkers already 
+on board, then it is important that t he ship determines the compatibility between the two said 
+bunkers before comingling. 
+ 
+3.3.1.5 The reference test method shall be the total poten tial sediment test in accordance 
+with ISO 10307-2:2009. 
+ 
+3.3.2 Catalytic fines (cat fines) 
+ 
+3.3.2.1 Cat fines are a by-product of refining and consist of small particles of metal that are 
+deliberately introduced as catalysts to "crack" the fuel oil. Unless  reduced by purification, cat 
+fines will become embedded in engine parts and cause serious and rapid eng ine damage. 
+Reference should be made to engine manufacturer's guidance with respect to managing cat 
+fines. 
+ 
+3.4 Key technical considerations for shipowners and operators 
+ 
+3.4.1 Ship tank configuration and fuel system – the viscosity of most of these blende d
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+3.4.1 Ship tank configuration and fuel system – the viscosity of most of these blende d 
+residual fuels is such that they cannot be used in distillate fuel -only systems and machinery, 
+as they require heating for cleaning and combustion. A fully segregated fuel system for both 
+distillate fuels and these new fuels is recommended. 
+ 
+3.4.2 Tank cleaning is recommended when using a residual fuel tank for storing these new 
+fuels. This is to prevent sludge that has built up in these tanks from ente ring the fuel system. 
+Further information on tank cleaning is set out in appendix 3 of MEPC.1/Circ.878 on Guidance 
+on the development of a ship implementation plan for the consistent implementation of 
+the 0.50% sulphur limit under MARPOL Annex VI. 
+ 
+3.4.3 Heating requirements – due to the cold flow properties of most of these new fuels, 
+permanent heating of the fuel may be necessary to minimize the risk of wax formation, also in
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+permanent heating of the fuel may be necessary to minimize the risk of wax formation, also in 
+storage. This is especially important in colder regions. 
+ 
+3.4.4 Fuel treatment s ystem – Some of these new fuels may contain cat fines and/or 
+sediments and therefore need onboard cleani ng. Separator temperature and settings should 
+be adjusted to the fuels' viscosity and density. Please refer to recommendations from OEM 
+and fuel supplier. 
+ 
+3.4.5 Considering that many of these new fuels have lower viscosities compared to 
+conventional residual fuels, care should be taken to ensure no overheating occurs. 
+ 
+3.5 ISO Standard for residual fuels 
+ 
+3.5.1 The bunker market uses ISO 8217:20176 specifications to ensure that the properties 
+of the fuels it delivers conform to a standard that mean they comply with MARPOL Annex VI.  
+ 
+6 The latest edition of the ISO standard is recommended. 
+RESOLUTION MEPC.320(74) (adopted 17 May 2019)
+---
+SOURCE: MEPC.320(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.320(74).pdf
+6 The latest edition of the ISO standard is recommended. 
+RESOLUTION MEPC.320(74) (adopted 17 May 2019)  
+2019 GUIDELINES FOR CONSISTENT IMPLEMENTATION OF THE 0.50% SULPHUR LIMIT UNDER MARPOL ANNEX VI
+---
+
+SOURCE: A.1171(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1171(32).pdf
+Resolution A.1171(32) Adopted on 14 December 2021  
+REVISION OF THE ORGANIZATION’S FINANCIAL REGULATIONS 
+(effective 1 January 2022) 
+I:\ASSEMBLY\32\RES\A 32-RES.1171.docx 
+ 
+ 
+E 
+  
+ASSEMBLY 
+32nd session  
+Agenda item 18(c)/1 
+ 
+A 32/Res.1171 
+14 December 2021 
+Original: ENGLISH 
+ 
+Resolution A.1171(32) 
+ 
+Adopted on 14 December 2021 
+(Agenda item 18(c)/1) 
+ 
+REVISION OF THE ORGANIZATION'S FINANCIAL REGULATIONS 
+(effective 1 January 2022) 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING that the Organization 's Financial Regulations provide a framework for the 
+financial control and reporting of the Organization's financial resources, 
+ 
+MINDFUL OF the provision of article XIV of the Organization 's Financial Regulations, which 
+requires that amendments to the said Regulations should be approved by the Assembly, 
+ 
+HAVING CONSIDERED the amendments to the Rules of Procedure of the Council, to be 
+effective from 1 January 2022,
+---
+SOURCE: A.1171(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1171(32).pdf
+HAVING CONSIDERED the amendments to the Rules of Procedure of the Council, to be 
+effective from 1 January 2022,  
+ 
+RECOGNIZING that amendments to the Financial Regulations are required to align 
+terminology with the revised Rules of Procedure of the Council, 
+ 
+1. APPROVES the revised financial regulations 3.4 and 3.5 set out in the annex to this 
+resolution;  
+ 
+2. RESOLVES that they shall take effect as from 1 January 2022; 
+ 
+3. REQUESTS the Secretary -General to ensure the effective implementation and 
+application of the Organization's Financial Regulations, as revised. 
+  
+Resolution A.1171(32) Adopted on 14 December 2021  
+REVISION OF THE ORGANIZATION’S FINANCIAL REGULATIONS 
+(effective 1 January 2022)A 32/Res.1171 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-RES.1171.docx 
+ANNEX 
+ 
+PROPOSED AMENDMENTS TO THE ORGANIZATION'S 
+FINANCIAL REGULATIONS AND FINANCIAL RULES 
+ 
+Article III 
+ 
+THE BUDGET
+---
+SOURCE: A.1171(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1171(32).pdf
+ANNEX 
+ 
+PROPOSED AMENDMENTS TO THE ORGANIZATION'S 
+FINANCIAL REGULATIONS AND FINANCIAL RULES 
+ 
+Article III 
+ 
+THE BUDGET 
+ 
+ 
+REGULATION 3.4 The Secretary-General shall submit to the first regular session of the 
+Council in the second year of the biennium an outline of the budgetary implications of the 
+projected "List of outputs", to be annexed to the Strategic Plan for the following biennium. 
+ 
+REGULATION 3.5 The Secretary -General shall transmit the proposed budget for the 
+following biennium to all Member States, not later than one month prior to the opening of the 
+regular session of the Assembly in accordance with the Rules of Procedure of the Assembly. 
+The proposed budget shall be submitted to the Assembly by the Council, together with the 
+comments and recommendations of the Council thereon, following its regular session prior to 
+the regular session of the Assembly. 
+ 
+ 
+___________ 
+Resolution A.1171(32) Adopted on 14 December 2021
+---
+SOURCE: A.1171(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1171(32).pdf
+the regular session of the Assembly. 
+ 
+ 
+___________ 
+Resolution A.1171(32) Adopted on 14 December 2021  
+REVISION OF THE ORGANIZATION’S FINANCIAL REGULATIONS 
+(effective 1 January 2022)Resolution A.1171(32) Adopted on 14 December 2021  
+REVISION OF THE ORGANIZATION’S FINANCIAL REGULATIONS 
+(effective 1 January 2022)
+---
+
+SOURCE: A.955(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.955(23).pdf
+Resolution A.955(23)  Adopted on 5 December 2003  
+AMENDMENTS TO THE PRINCIPLES OF SAFE MANNING (RESOLUTION A.890(21)) I:\
+ASSEMBLY\23\RES\955.DOC 
+For reasons of economy, this document is printed in a limited number.  Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+INTERNATIONAL MARITIME ORGANIZATION
+IMO
+E
+ASSEMBLY 
+23rd session  
+Agenda item 17 
+A 23/Res.955
+26 February 2004
+ Original:  ENGLISH
+Resolution A.955(23) 
+Adopted on 5 December 2003 
+(Agenda item 17) 
+AMENDMENTS TO THE PRINCIPLES OF SAFE MANNING 
+(RESOLUTION A.890(21)) 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritim
+e Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships, 
+RECALLING ALSO resolution A.890(21) by wh ich it adopted principles of safe
+---
+SOURCE: A.955(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.955(23).pdf
+RECALLING ALSO resolution A.890(21) by wh ich it adopted principles of safe 
+manning to provide for, inter alia , the issue of an appropriate safe manning document or 
+equivalent, as evidence of minimum safe manning pursuant to the provisions of regulation V/14* 
+of the International Convention for the Safety of Life at Sea (SOLAS), 1974, as amended; 
+NOTING that safe manning is a function of  the number of qualified and experienced 
+seafarers necessary for the safety and security  of the ship, crew, passengers, cargo and property 
+and for the protection of the marine environment, 
+RECOGNIZING the importance of the requirement s of the pertinent IMO instruments as 
+well as those adopted by ILO, ITU and WHO releva nt to maritime safety, security and protection 
+of the marine environment, 
+MINDFUL of the provisions of SOLAS chapter XI-2 and the International Ship and Port 
+Facility Security (ISPS) Code relating to the security of ships and port facilities,
+---
+SOURCE: A.955(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.955(23).pdf
+Facility Security (ISPS) Code relating to the security of ships and port facilities,   
+BELIEVING that international acceptance of  broad principles as a framework for 
+administrations to determine the safe manning of ships would materially enhance maritime 
+safety, security and protection of the marine environment, 
+* Resolution A.890(21) was adopted on 25 November 1999 and,  at that time, regulation V/13 was the relevant
+regulation in the 1974 SOLAS Conven tion. Subsequently, on 5 December 2000, the Maritime Safety Committee
+adopted, through resolution MSC.99(73), amendments to  the 1974 SOLAS Convention which replaced the then
+existing chapter V. These amendments entered into force on 1 July 2002. As a consequence the relevant
+regulation is now regulation V/14.
+Resolution A.955(23)  Adopted on 5 December 2003  
+AMENDMENTS TO THE PRINCIPLES OF SAFE MANNING (RESOLUTION A.890(21)) A 23/Res.955 - 2 - 
+ 
+ 
+I:\ASSEMBLY\23\RES\955.DOC
+---
+SOURCE: A.955(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.955(23).pdf
+AMENDMENTS TO THE PRINCIPLES OF SAFE MANNING (RESOLUTION A.890(21)) A 23/Res.955 - 2 - 
+ 
+ 
+I:\ASSEMBLY\23\RES\955.DOC 
+HAVING CONSIDERED the recommendation ma de by the Maritime Safety Committee 
+at its seventy-seventh session, 
+ 
+1. ADOPTS the amendments to annexes 1 and 2 to resolution A.890(21), concerning 
+principles of safe manning, set out in the annex to the present resolution; 
+ 
+2. RECOMMENDS that Governments, in estab lishing the minimum safe manning levels for 
+ships flying their countries’ flag, also take into account the annexed amendments; 
+ 
+3. REQUESTS the Maritime Safety Committee to keep this resolution under review. 
+ 
+ 
+Resolution A.955(23)  Adopted on 5 December 2003  
+AMENDMENTS TO THE PRINCIPLES OF SAFE MANNING (RESOLUTION A.890(21))  - 3 - A 23/Res.955 
+ 
+ 
+I:\ASSEMBLY\23\RES\955.DOC 
+ 
+ANNEX 
+ 
+AMENDMENTS TO ANNEXES 1 AND 2 TO RESOLUTION A.890(21) 
+ 
+ 
+ANNEX 1 
+ 
+PRINCIPLES OF SAFE MANNING
+---
+SOURCE: A.955(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.955(23).pdf
+I:\ASSEMBLY\23\RES\955.DOC 
+ 
+ANNEX 
+ 
+AMENDMENTS TO ANNEXES 1 AND 2 TO RESOLUTION A.890(21) 
+ 
+ 
+ANNEX 1 
+ 
+PRINCIPLES OF SAFE MANNING 
+ 
+1 In paragraph 1, the word and at the end of subparagraph .1.7 is deleted and the 
+following new subparagraph .1.9 is inserted after the existing subparagraph .1.8: 
+ 
+.1.9 operate in accordance with the approved Ships Security Plan; and 
+ 
+ 
+ANNEX 2 
+ 
+GUIDELINES FOR THE APPLICATION OF 
+PRINCIPLES OF SAFE MANNING 
+ 
+ 
+2 The existing text of paragraph 1.1 is replaced by the following: 
+ 
+1.1 These guidelines should be used in appl ying the principles of safe manning set out 
+in Annex 1 to this resolution to ensure the safe operation of, and the prevention of 
+pollution from, ships to which article III of the 1978 STCW Convention, as amended, 
+applies and to ensure the security of ships to which chapter XI-2 of 1974 SOLAS 
+Convention, as amended, applies. 
+ 
+3 The existing text of paragraph 3.1 is replaced by the following:
+---
+SOURCE: A.955(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.955(23).pdf
+Convention, as amended, applies. 
+ 
+3 The existing text of paragraph 3.1 is replaced by the following: 
+ 
+3.1 The purpose of determining the minimum safe manning level of a ship is to ensure 
+that its complement includes the grades/capacities and number of persons required for the 
+safe operation and the security of the sh ip and for the protection of the marine 
+environment. 
+ 
+4 The word and at the end of paragraph 3.2.8 is deleted.  
+ 
+5 The full stop at the end of paragraph 3.2.9 is deleted and the following text is inserted: 
+; and. 
+ 
+6 In paragraph 3.2, the following new subpa ragraph .10 is added after the existing 
+paragraph .9: 
+ 
+.10 the provisions of the approved Ships Security Plan. 
+ 
+7 The existing text of subparagraph .6 of paragraph 3.3.3 is replaced by the following: 
+ 
+.6 undertake administrative tasks required for the safe operation and the security of 
+the ship; 
+ 
+Resolution A.955(23)  Adopted on 5 December 2003
+---
+SOURCE: A.955(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.955(23).pdf
+the ship; 
+ 
+Resolution A.955(23)  Adopted on 5 December 2003  
+AMENDMENTS TO THE PRINCIPLES OF SAFE MANNING (RESOLUTION A.890(21)) A 23/Res.955 - 4 - 
+ 
+ 
+I:\ASSEMBLY\23\RES\955.DOC 
+8 The existing text of subparagraph .2 of paragraph 3.5 is replaced by the following: 
+ 
+ .2 the capability of the master and the ship ’s complement to co-ordinate the activities 
+necessary for the safe operation and for the security of the ship and for the 
+protection of the marine environment. 
+ 
+9 The existing texts of subparagraphs .1 to .3 of paragraph 4.2 are replaced by the 
+following: 
+ 
+ .1 make an assessment of the tasks,  duties and responsibilities of the ships 
+complement required for its safe operation, for its security, for protection of the 
+marine environment, and for dealing with emergency situations; 
+ 
+.2 make an assessment of numbers and grad es/capacities in the ships complement 
+required for its safe operation, for its security, for protection of the marine
+---
+SOURCE: A.955(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.955(23).pdf
+required for its safe operation, for its security, for protection of the marine 
+environment, and for dealing with emergency situations; 
+ 
+.3 prepare and submit to the Administra tion a proposal for the minimum safe 
+manning level based upon the assessment of the numbers and grades/capacities in 
+the ships complement required for its safe operation, for its security and for 
+protection of the marine environment, justifying the proposal by explaining how 
+the proposed ships complement will deal  with emergency situations, including 
+the evacuation of passengers, where necessary; 
+ 
+10 The existing text of subparagraph .1 of paragraph 5.1 is replaced by the following: 
+ 
+.1 the proposed ships complement cont ains the number and grades/capacities of 
+personnel to fulfil the tasks, duties a nd responsibilities required for the safe 
+operation of the ship, for its security, for protection of the marine environment and 
+for dealing with emergency situations; and 
+---
+SOURCE: A.955(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.955(23).pdf
+operation of the ship, for its security, for protection of the marine environment and 
+for dealing with emergency situations; and  
+ 
+11 The existing text of paragraph 5.3 is replaced by the following: 
+ 
+5.3 The Administration should only appr ove a proposal for the minimum safe 
+manning level of a ship and issue accordingly a minimum safe manning document if it is 
+fully satisfied that the proposed ships comple ment is established in accordance with the 
+principles, recommendations and guidelines cont ained in this resolution, and is adequate 
+in all respects for the safe operation and the s ecurity of the ship and for the protection of 
+the marine environment. 
+ 
+ 
+__________ 
+ 
+Resolution A.955(23)  Adopted on 5 December 2003  
+AMENDMENTS TO THE PRINCIPLES OF SAFE MANNING (RESOLUTION A.890(21)) Resolution A.955(23)  Adopted on 5 December 2003  
+AMENDMENTS TO THE PRINCIPLES OF SAFE MANNING (RESOLUTION A.890(21))
+---
+
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+RESOLUTION A.702(17)  adopted on 6 November 1991 
+RADIO MAINTENANCE GUIDELINES FOR THE GLOBAL 
+MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) 
+RELATED TO SEA AREAS A3 AND A4INTERNATIONAL MARITIME 
+ORGA NIZATION 
+A 17/Res.702 
+25 November 1991 
+Original: ENGLISH 
+IMO 
+~SSEMBLY - 17th session 
+Agenda item 10 
+RESOLUTION A.702(17) 
+adopted on 6 November 1991 
+RADIO MAINTENANCE GUIDELINES FOR THE GLOBAL 
+MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) 
+RELATED TO SEA AREAS A3 AND A4 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International 
+Maritime Organization concerning the functions of the Assembly in relation 
+to regulations and guidelines concerning maritime safety, 
+NOTING regulation IV/15, Maintenance requirements, of the International 
+Convention for the Safety of Life at Sea, 1974 (SOLAS), as amended by the 
+1988 GMDSS Conference, and in particular regulation IV/15.7 concerning the 
+methods of ensuring the availability of the functional requirements specified
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+methods of ensuring the availability of the functional requirements specified 
+in regulation IV/4, for distress and safety purposes on ships engaged on 
+voyages in sea areas A3 and A4, 
+NOTING ALSO resolution 5 of the 1988 GMDSS Conference which requests the 
+Maritime Safety Committee to periodically review the requirements of 
+regulation IV/15.7 in the light of experience gained, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety 
+Committee at its fifty-ninth session, 
+1. ADOPTS the Guidelines for Ensuring the Availability of Radio Equipment 
+for Ships Engaged on Voyages in Sea Areas A3 and A4 Required by 
+Regulation IV/15.7 of the 1974 SOLAS Convention, as Amended in 1988, set out 
+in the annex to the present resolution: 
+2. RECOMMENDS that Governments, in applying regulation IV/15.7 to ships, 
+take account of the annexed Guidelines; 
+3. REQUESTS the Maritime Safety Committee, when periodically reviewing the
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+take account of the annexed Guidelines; 
+3. REQUESTS the Maritime Safety Committee, when periodically reviewing the 
+requirements of regulation IV/15.7, also to review and update the Guidelines 
+as appropriate and to report as necessary to the Assembly. 
+W/3989x/EWP 
+For reasons of economy, this document is printed in a limited number. Delegates 
+are kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.702(17)  adopted on 6 November 1991 
+RADIO MAINTENANCE GUIDELINES FOR THE GLOBAL 
+MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) 
+RELATED TO SEA AREAS A3 AND A4A 17/Res.702 - 2 - 
+ANNEX 
+GUIDELINES FOR ENSURING THE AVAILABILITY OF RADIO EQUIPMENT 
+FOR SHIPS ENGAGED ON VOYAGES IN SEA AREAS A3 AND A4 
+REQUIRED BY REGULATION IV/15.7 OF THE 1974 SOLAS 
+CONVENTION, AS AMENDED IN 1988 
+1 Basic reguirement for ensuring availability 
+1.1 Irrespective of the methods used to ensure the availability of the
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+1 Basic reguirement for ensuring availability 
+1.1 Irrespective of the methods used to ensure the availability of the 
+functional requirements specified in regulation IV/4, and as specified in 
+regulation IV/15.8, a ship should not depart from any port unless and until 
+the ship is capable of performing all distress and safety functions, as set 
+out in regulation IV/4. 
+1.2 Irrespective of the methods used by the ship, all manufacturers' 
+instruction manuals and maintenance manuals for each piece of equipment 
+required and installed should be available on board. Adequate tools, spare 
+parts and test equipment appropriate to the methods used by the ship, as 
+specified by the Administration, should be provided. The manuals, tools, 
+spare parts and test equipment, as applicable, should be readily accessible. 
+2 Duplication of eguipment for ensuring availability 
+2.1 If availability is ensured by using a combination of methods which
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+2 Duplication of eguipment for ensuring availability 
+2.1 If availability is ensured by using a combination of methods which 
+includes duplication of equipment, in addition to the radio installations 
+required by regulations IV/7, IV/10 and IV/11, as appropriate, the following 
+radio installations complying with regulation IV/14 should be available on 
+board ships engaged on voyages in: 
+.1 sea area A3 - a VHF radio installation complying with 
+the requirements of regulation IV/7.1.1 and either an MF/HF radio 
+installation complying with the requirements of regulation IV/10.2.1 
+and being able to comply fully with the watch requirements of 
+IV/12.1.3 or an INMARSAT SES complying with the requirements of 
+regulation IV/10.1.1. The MF/HF installation or INMARSAT SES 
+installed for duplication should also comply with 
+regulation IV/10.3; 
+.2 sea areas A3 and A4 - a VHF radio installation complying with the 
+requirements of regulation IV/7.1.1 and an MF/HF radio installation
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+.2 sea areas A3 and A4 - a VHF radio installation complying with the 
+requirements of regulation IV/7.1.1 and an MF/HF radio installation 
+complying with the requirements of regulation IV/10.2.1 and being 
+able to comply fully with the watch requirements of IV/12.1.3. 
+Ships operating in sea area A4 only occasionally and having 
+originally installed an MF/HF radio installation, may, instead of 
+the additional MF/HF radio installation, install an INMARSAT SES 
+complying with the requirements of regulation IV/10.1.1. The 
+MF/HF radio installation or INMARSAT SES installed for duplication 
+should also comply with regulation V/10.3. 
+2.2 The additional radio installations specified in 2.1.1 and 2.1.2 of these 
+Guidelines should each be connected to a separate antenna and be installed and 
+ready for immediate operation. 
+W/3989x/EWP 
+RESOLUTION A.702(17)  adopted on 6 November 1991 
+RADIO MAINTENANCE GUIDELINES FOR THE GLOBAL 
+MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS)
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+RESOLUTION A.702(17)  adopted on 6 November 1991 
+RADIO MAINTENANCE GUIDELINES FOR THE GLOBAL 
+MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) 
+RELATED TO SEA AREAS A3 AND A4- 3 - A 17 / Res • 7 0 2 
+2.3 It should be possible to connect the additional radio installations 
+specified in 2.1.1 and 2.1.2 {hereinafter referred to as "duplicated 
+equipment") to the reserve source or sources of energy required 
+by regulation IV/13.2, in addition to the appropriate radio equipment 
+specified in that regulation {hereinafter referred to as "basic equipment"). 
+The capacity of the reserve source or sources of energy should be sufficient 
+to operate the particular installation {i.e. the "basic equipment" or the 
+"duplicated equipment'') with the highest power consumption, for the 
+appropriate period specified in regulation IV/13.2.1 to IV/13.2.3. However, 
+the arrangement for the reserve source or sources of energy should be such
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+the arrangement for the reserve source or sources of energy should be such 
+that a single fault in this arrangement should not be able to affect both 
+the basic and the duplicated equipment. 
+3 Shore-based maintenance for ensuring availability 
+3.1 If availability is ensured by using a combination of methods which 
+includes shore-based maintenance, an arrangement acceptable to the 
+Administration should be established to ensure adequate support of the ship 
+for the maintenance and repair of its radio installations. For example, the 
+following arrangements, among others, may be suitable: 
+.1 an agreement with a company known to cover the trading area 
+of the ship to provide maintenance and repair facilities on 
+a call-out basis; 
+.2 provision of facilities at the main base of ships engaged on a 
+regular trading pattern. Records of Equipment (Form P, R or C) 
+should include an indication of the types of arrangements for 
+shore-based maintenance.
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+should include an indication of the types of arrangements for 
+shore-based maintenance. 
+3.2 It should be recognized that, despite the use of other methods, some 
+reliance on shore-based maintenance to ensure the availability of the 
+functional requirements of the GMDSS will always be necessary. 
+4 At-sea electronic maintenance capability for ensuring availability 
+4.1 If availability is ensured by using a combination of methods which 
+includes at-sea electronic maintenance capability, adequate additional 
+technical documentation, tools, test equipment and spare parts must be carried 
+on board in order to enable the maintainer to perform tests and localize and 
+repair faults in the radio equipment. The extent of this additional technical 
+documentation, tools, measuring equipment and spare parts to be carried on 
+board should be consistent with the equipment installed and should be approved 
+by the Administration. An indication of such approval should be entered in
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+by the Administration. An indication of such approval should be entered in 
+the Records of Equipment (Form P, R or C). 
+4.2 The person designated to perform functions for at-sea electronic 
+maintenance should either hold an appropriate certificate as specified by the 
+Radio Regulations, as required, or have equivalent at-sea electronic 
+maintenance qualifications, as may be approved by the Administration, taking 
+into account the recommendations* of the Organization on the training of 
+such personnel. 
+* Reference is made to Assembly resolution A.703(17), Training of radio 
+personnel in the global maritime distress and safety system (GMDSS). 
+W/3989x/EWP 
+RESOLUTION A.702(17)  adopted on 6 November 1991 
+RADIO MAINTENANCE GUIDELINES FOR THE GLOBAL 
+MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) 
+RELATED TO SEA AREAS A3 AND A4RESOLUTION A.702(17)  adopted on 6 November 1991 
+RADIO MAINTENANCE GUIDELINES FOR THE GLOBAL 
+MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS)
+---
+SOURCE: A.702(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.702(17).pdf
+RADIO MAINTENANCE GUIDELINES FOR THE GLOBAL 
+MARITIME DISTRESS AND SAFETY SYSTEM (GMDSS) 
+RELATED TO SEA AREAS A3 AND A4
+---
+
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+RESOLUTION A.713(17)  adopted on 6 November 1991 
+SAFETY OF SHIPS CARRYING SOLID BULK CARGOESINTERNATIONAL MARITIME 
+ORGANIZATION 
+A 17/Res.713 
+20 November 1991 
+Original: ENGLISH 
+ASSEMBLY - 17th session 
+Agenda item 10 
+IMO 
+RESOLUTION A.713(17) 
+adopted on 6 November 1991 
+SAFETY OF SHIPS CARRYING SOLID BULK CARGOES 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime 
+Organization concerning the functions of the Assembly in relation to 
+regulations and guidelines concerning maritime safety, 
+RECALLING FURTHER that by resolution A.434(XI), the Assembly adopted the 
+Code of Safe Practice for Solid Bulk Cargoes (BC Code) to ensure the safe 
+carriage of solid bulk cargoes, 
+NOTING that, by resolution MSC.33(59), the Maritime Safety Committee at 
+its fifty-ninth session adopted amendments to the 1974 SOLAS Convention to 
+include a revised chapter VI dealing with solid bulk cargoes and referring to 
+the BC Code,
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+include a revised chapter VI dealing with solid bulk cargoes and referring to 
+the BC Code, 
+BEING CONCERNED at the continued loss of ships carrying solid bulk 
+cargoes, sometimes without trace, and the heavy loss of life incurred, 
+RECOGNIZING that the nature of cargo and ballast operations can subject 
+the structure of ships which carry solid bulk cargoes to more severe patterns 
+of bending and shear forces and to significant wear, 
+TAKING INTO ACCOUNT that the speed and methods of loading and the 
+equipment employed in unloading operations at solid bulk cargo terminals may 
+contribute towards structural overstressing and damage, 
+BEING AWARE of the dangers posed by some solid bulk cargoes through their 
+high density and propensity to shift, 
+CONSCIOUS of the need for continued and effective maintenance of ships 
+for safety purposes, 
+BEING INFORMED of decisions made by the Maritime Safety Committee at its 
+fifty-ninth session, in particular its decision to carry out a feasibility
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+BEING INFORMED of decisions made by the Maritime Safety Committee at its 
+fifty-ninth session, in particular its decision to carry out a feasibility 
+study on voyage data recorders with high priority, 
+BEING ALSO AWARE of work undertaken by Governments, classification 
+societies and other segments of the private sector in this regard, 
+W/3 902x/EWP 
+For reasons of economy, this document is printed in a limited number. Delegates 
+are kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.713(17)  adopted on 6 November 1991 
+SAFETY OF SHIPS CARRYING SOLID BULK CARGOESA 17/Res.713 - 2 - 
+1. REQUESTS the Maritime Safety Committee to carry out its work with high 
+priority on the safety of ships carrying solid bulk cargoes and to develop as 
+soon as possible the requirements for the design, construction, operation, 
+maintenance and survey of such ships and specify precautionary measures with 
+respect to type of cargoes;
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+maintenance and survey of such ships and specify precautionary measures with 
+respect to type of cargoes; 
+2. REQUESTS the International Association of Classification Societies to 
+develop survey and maintenance requirements for ships carrying solid bulk 
+cargoes as soon as possible and submit them to the Maritime Safety Committee 
+for incorporation in the requirements mentioned above; 
+3. URGES Governments, classification societies, shipowners and shipmasters, 
+pending the development of the above-mentioned requirements, to take immediate 
+measures along the lines specified in the annex to the present resolution on 
+an interim basis; 
+4. INVITES Governments to thoroughly investigate accidents occurring to 
+ships carrying solid bulk cargoes entitled to fly their flag and submit to the 
+Organization the conclusions arrived at and recommendations made so as to 
+assist in the adoption of appropriate remedial measures;
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+Organization the conclusions arrived at and recommendations made so as to 
+assist in the adoption of appropriate remedial measures; 
+5. REQUESTS ALSO classification societies, which are not already doing so, 
+to submit to the Organization, as a matter of urgency, any information on 
+structural problems or other problems found, which might assist in identifying 
+the underlying cause of such accidents; 
+6. INVITES FURTHER Governments in whose territories solid bulk cargo loading 
+or unloading terminals are situated to advise the Organization of any studies 
+on cargo handling practices at such terminals for information purposes; 
+7. AUTHORIZES the Maritime Safety Committee to circulate the requirements 
+developed in accordance with paragraph 1 above, which will supersede the 
+provisions set out in the annex to the present resolution, to Governments, 
+classification societies and others concerned, recommending their 
+implementation;
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+classification societies and others concerned, recommending their 
+implementation; 
+8. REQUESTS the Maritime Safety Committee to keep this subject under 
+continuous review and amend or extend the measures set out in the annex, as 
+~ecessary. 
+W/3902x/EWP 
+RESOLUTION A.713(17)  adopted on 6 November 1991 
+SAFETY OF SHIPS CARRYING SOLID BULK CARGOES- 3 - A 17/Res.713 
+ANNEX 
+INTERIM MEASURES TO BE TAKEN TO IMPROVE THE SAFETY 
+OF SHIPS CARRYING SOLID BULK CARGOES 
+1 Governments, classification societies and shipowners should conduct a 
+close-up survey of the welded attachment of the side shell frames in selected 
+cargo holds including the forward and after cargo holds in way of transition 
+areas in solid bulk carriers at their earliest availability and: 
+.1 ensure that the utmost care is taken during surveys and routine 
+inspections by the personnel of ships which are to carry solid bulk 
+cargoes and that close attention is paid to their structural
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+inspections by the personnel of ships which are to carry solid bulk 
+cargoes and that close attention is paid to their structural 
+integrity overall, particularly in way of forward cargo holds and 
+ballast tanks as well as to the condition of protective coatings and 
+the extent and effects of any corrosion; 
+.2 require at each special classification survey and at each 
+intermediate survey following special classification survey number 
+one, a close-up examination of the entire framing system of the 
+number one cargo hold, plus an internal examination of all remaining 
+cargo holds including a close-up examination of a minimum of 
+twenty-five per cent of the framing system in each cargo hold; 
+.3 if special classification survey number two indicates severe 
+deterioration of the hull structure, require the same close-up 
+examination as a part of subsequent annual classification surveys of 
+the hull; 
+.4 re-evaluate existing gauging requirements with a view to increasing
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+the hull; 
+.4 re-evaluate existing gauging requirements with a view to increasing 
+the number of required gaugings for cargo hold framing; 
+.5 require that gaugings of shell plating, associated framing and end 
+connections be mandatory at each special classification survey and 
+intermediate survey; 
+.6 require access to the full height of the side shell frame to allow 
+close-up examination during classification surveys; 
+.7 require that operation and loading manuals include permissible shear 
+forces and bending moments during loading and unloading operations 
+in port as well as the transit conditions; 
+.8 require that the annual classification survey of the hull may be 
+credited only if the above or alternative measures of equivalent 
+effectiveness are accomplished, or, where a continuous hull survey 
+scheme is applied, if no part of it is overdue. 
+2 Governments, shipowners, shipmasters and loading terminal operators 
+should take all necessary measures to ensure that:
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+2 Governments, shipowners, shipmasters and loading terminal operators 
+should take all necessary measures to ensure that: 
+.1 cargo operations are conducted in a manner such as not to overstress 
+or damage the structure of the ship; 
+W/3902x/EWP 
+RESOLUTION A.713(17)  adopted on 6 November 1991 
+SAFETY OF SHIPS CARRYING SOLID BULK CARGOESA 17/Res.713 - 4 - 
+.2 all recommendations of the Code of Safe Practice for Solid Bulk 
+Cargoes are fully complied with, especially those concerning the 
+moisture limits and trimming of solid bulk cargoes. 
+3 Governments should exercise control under regulation I/19 of SOLAS 1974 
+to pay particular attention to the structural integrity and seaworthiness of 
+ships which are to load solid bulk cargoes. 
+4 Owners of ships which are to carry solid bulk cargoes should: 
+.1 consider fitting them voluntarily with equipment capable of 
+continuously informing ships' personnel of the stresses being
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+.1 consider fitting them voluntarily with equipment capable of 
+continuously informing ships' personnel of the stresses being 
+imposed on key parts of the ship's structure during loading and 
+unloading and on voyage; 
+.2 fit them at the earliest possible time with elements of the 
+equipment required for the global maritime distress and safety 
+system under the provisions of chapter IV of SOLAS 74 as amended in 
+1988, especially the satellite EPIRB and the necessary equipment, 
+i.e. NAVTEX and INMARSAT Enhanced Group Call SafetyNET receivers, 
+for the reception of maritime safety information. 
+5 Owners of ships which are to carry solid bulk cargoes should ensure that 
+all such ships participate in the Automatic Mutual-Assistance Vessel Rescue 
+System (AMVER) and other reporting systems applicable to the area where such 
+ships are to navigate. 
+W/3902x/EWP 
+RESOLUTION A.713(17)  adopted on 6 November 1991
+---
+SOURCE: A.713(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.713(17).pdf
+ships are to navigate. 
+W/3902x/EWP 
+RESOLUTION A.713(17)  adopted on 6 November 1991 
+SAFETY OF SHIPS CARRYING SOLID BULK CARGOESRESOLUTION A.713(17)  adopted on 6 November 1991 
+SAFETY OF SHIPS CARRYING SOLID BULK CARGOES
+---
+
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+Resolution A.1062(28) 
+Adopted on 29 November 2013   (Agenda item 8) 
+GUIDELINES ON THE APPLICATION OF THE STRATEGIC PLAN AND 
+THE HIGH-LEVEL ACTION PLAN OF THE ORGANIZATION 
+I:\ASSEMBLY\28\RES\1062.doc 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY 
+28th session  
+Agenda item 8 
+ 
+A 28/Res.1062 
+27 January 2014 
+ Original:  ENGLISH 
+ 
+Resolution A.1062(28) 
+ 
+Adopted on 29 November 2013
+(Agenda item 8) 
+ 
+GUIDELINES ON THE APPLICATION OF THE STRATEGIC PLAN AND 
+THE HIGH-LEVEL ACTION PLAN OF THE ORGANIZATION 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING the directives contained in resolutions A.500(XII) and A.900(21) concerning 
+coordination of the work of the committees by the Council to ensure consistency with the 
+overall goals of the Organization, taking into account the views of the committees on 
+priorities and their responsibilities for substantive technical and legal matters, 
+ 
+RECALLING ALSO the Assembly's commitment, in resolution A.777(18), to improving the
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+RECALLING ALSO the Assembly's commitment, in resolution A.777(18), to improving the 
+work methods and organization of work of the Organization, 
+ 
+RECALLING FURTHER resolutions A. 1060(28) and A. 1061(28), by which it approved, 
+respectively, the Strategic Plan for the Organization for the six-year period 2014 to 2019 and 
+the High-level Action Plan of the Organization and priorities for the 2014-2015 biennium, 
+ 
+RECALLING IN PARTICULAR its adoption of resolution A.1013(26) on Guidelines on the 
+Application of the Strategic Plan and the High-level Action Plan of the Organization  and its 
+request to the Council to keep those guidelines under review, 
+ 
+REAFFIRMING: 
+ 
+- that the Organization's Strategic Plan contains key strategic directions 
+enabling IMO to achieve its mission objectives; and 
+ 
+- that the High-level Action Plan has been developed to enable the Organization 
+to effectively address those strategic directions by identifying high-level
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+to effectively address those strategic directions by identifying high-level 
+actions that are necessary for the achievement of IMO's objectives and the 
+priorities over a biennium resulting from those identified actions, thereby 
+providing the linkage between the Organization's strategy, the work of the 
+various IMO organs and the biennial budget, 
+ 
+RECOGNIZING the need for a uniform basis for the application of the Strategic Plan and the 
+High-level Action Plan throughout the Organization, and for the strengthening of existing 
+working practices through the provision of enhanced planning and management procedures 
+that are flexible, manageable, proportional, transparent and balanced, 
+ 
+Resolution A.1062(28) 
+Adopted on 29 November 2013   (Agenda item 8) 
+GUIDELINES ON THE APPLICATION OF THE STRATEGIC PLAN AND 
+THE HIGH-LEVEL ACTION PLAN OF THE ORGANIZATIONA 28/Res.1062 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\28\RES\1062.doc
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+THE HIGH-LEVEL ACTION PLAN OF THE ORGANIZATIONA 28/Res.1062 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\28\RES\1062.doc 
+HAVING CONSIDERED the recommendations of the Council, at its twenty-seventh 
+extraordinary session, for the adoption of revised guidelines on the application of the 
+Strategic Plan and the High-level Action Plan, 
+ 
+1 APPROVES the Guidelines on the application of the Strategic Plan and the 
+High-level Action Plan of the Organization, as set out in the annex to the present resolution; 
+ 
+2 REQUESTS the Council and the committees to review and revise, during 
+the 2014-2015 biennium, the guidelines for the organization and method of their work, taking 
+account of the Guidelines on the application of the Strategic Plan and the High-level Action 
+Plan of the Organization, as appropriate; 
+ 
+3 REQUESTS the Secretary-General to review and adjust present processes and 
+work methods within the Secretariat in the light of the Guidelines on the application of the
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+work methods within the Secretariat in the light of the Guidelines on the application of the 
+Strategic Plan and the High-level Action Plan of the Organization ; and to develop practical 
+means with the aim of facilitating and supporting the implementation of the Guidelines 
+throughout the Organization; 
+ 
+4 DIRECTS the Council to keep the annexed Guidelines under review; 
+ 
+5 REVOKES resolution A.1013(26). 
+Resolution A.1062(28) 
+Adopted on 29 November 2013   (Agenda item 8) 
+GUIDELINES ON THE APPLICATION OF THE STRATEGIC PLAN AND 
+THE HIGH-LEVEL ACTION PLAN OF THE ORGANIZATIONA 28/Res.1062 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\28\RES\1062.doc 
+Annex 
+ 
+GUIDELINES ON THE APPLICATION OF THE STRATEGIC PLAN  
+AND THE HIGH-LEVEL ACTION PLANOF THE ORGANIZATION 
+ 
+ 
+1 INTRODUCTION 
+ 
+1.1 The Strategic Plan for the Organization, as revised and adopted by the Assembly, 
+sets out: 
+ 
+.1 the mission statement of IMO; 
+ 
+.2 the trends, developments and challenges, in the shipping and maritime
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+sets out: 
+ 
+.1 the mission statement of IMO; 
+ 
+.2 the trends, developments and challenges, in the shipping and maritime 
+world, which the Organization faces in fulfilling its mission; 
+ 
+.3 the broad strategic directions towards which IMO will work in addressing 
+the identified trends, developments and challenges; and 
+ 
+.4 performance indicators for measuring the Organization's performance 
+against the strategic directions. 
+ 
+The Strategic Plan covers a six-year period and is an expression of the Member States' 
+commitment to ensuring the fulfilment of the Organization's aims and objectives in a uniform 
+manner on a global basis, and to setting clear priorities for the purpose of achieving them. 
+ 
+1.2 The High-level Action Plan of the Organization, as revised and adopted by the 
+Assembly, sets out: 
+ 
+.1 the high-level actions necessary to achieve the strategic directions included 
+in the Strategic Plan; and
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+Assembly, sets out: 
+ 
+.1 the high-level actions necessary to achieve the strategic directions included 
+in the Strategic Plan; and 
+ 
+.2 the priority outputs that are planned to be delivered by the Organization 
+over a two-year period, as a result of undertaking the high-level actions. 
+ 
+1.3 The High-level Action Plan provides the linkage between the Organization's strategy 
+and its day- to-day work and, therefore, constitutes the work programme of the Assembly, 
+Council, committees and their subsidiary bodies for a biennium and the basis of the 
+Organization's biennial results-based budget, including the Secretariat's Business Plan. 
+ 
+2 DEFINITIONS 
+ 
+2.1 For the purposes of the Guidelines, the following definitions will apply: 
+ 
+.1 "IMO organs": the organs of the Organization as defined in Article 11 of the 
+IMO Convention; 
+ 
+.2 "Planned output": a product planned in the High-level Action Plan to be 
+delivered by the Organization during a biennium;
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+IMO Convention; 
+ 
+.2 "Planned output": a product planned in the High-level Action Plan to be 
+delivered by the Organization during a biennium; 
+ 
+.3 "Unplanned output": a product that may be agreed by IMO organs to be 
+delivered during a biennium after the adoption of that biennium's High-level 
+Action Plan; 
+ 
+Resolution A.1062(28) 
+Adopted on 29 November 2013   (Agenda item 8) 
+GUIDELINES ON THE APPLICATION OF THE STRATEGIC PLAN AND 
+THE HIGH-LEVEL ACTION PLAN OF THE ORGANIZATIONA 28/Res.1062 
+Page 4 
+ 
+ 
+I:\ASSEMBLY\28\RES\1062.doc 
+.4 "Agenda": a list of planned outputs for discussion at a particular meeting; 
+ 
+.5 "Biennial agenda": a list of planned outputs to be delivered during a 
+biennium by an individual IMO organ; and 
+ 
+.6 "Post-biennial agenda": a list of accepted outputs to be delivered or initiated 
+beyond a current biennium. 
+ 
+3 PURPOSE, AIM AND OBJECTIVES 
+ 
+3.1 The purpose of the Guidelines is to provide a uniform basis for the application of the
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+3 PURPOSE, AIM AND OBJECTIVES 
+ 
+3.1 The purpose of the Guidelines is to provide a uniform basis for the application of the 
+Strategic Plan and the High-level Action Plan throughout the Organization. 
+ 
+3.2 The aim is to strengthen existing working practices through the provision of 
+enhanced planning and management procedures that are flexible, manageable, proportional, 
+transparent and balanced. 
+ 
+3.3 The Guidelines are therefore formulated to achieve the following objectives: 
+ 
+.1 to align and strengthen the planning and reporting processes by linking 
+agenda setting and reporting more clearly to the Strategic Plan and 
+High-level Action Plan; 
+ 
+.2 to strengthen the linkage between planned outputs and the resources 
+required to deliver the outputs; 
+ 
+.3 to facilitate the efforts of the Council and the committees in controlling and 
+monitoring the Organization's work; 
+ 
+.4 to promote greater understanding and assimilation of the interconnections
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+monitoring the Organization's work; 
+ 
+.4 to promote greater understanding and assimilation of the interconnections 
+between the Strategic Plan and High-level Action Plan and planned 
+outputs; 
+ 
+.5 to promote discipline in adherence to the planning procedures and 
+guidelines; 
+ 
+.6 to promote objectivity, clarity and realistic time frames in the establishment 
+of biennial agendas by the IMO organs and their subsidiary bodies; 
+ 
+.7 to ensure maximum possible participation by all Member States and by 
+organizations with observer status in all of the Organization's work; and 
+ 
+.8 to establish responsibilities and promote involvement in the planning and 
+reporting processes. 
+ 
+3.4 Nothing in these Guidelines should prohibit the Organization from taking immediate 
+action on urgent matters if the risk of not acting will adversely affect the Organization's ability 
+to meet its objectives.1
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+to meet its objectives.1 
+ 
+                                                 
+1  Refer to the IMO Risk Management Framework (C 110/3/5, annex 1 ). 
+Resolution A.1062(28) 
+Adopted on 29 November 2013   (Agenda item 8) 
+GUIDELINES ON THE APPLICATION OF THE STRATEGIC PLAN AND 
+THE HIGH-LEVEL ACTION PLAN OF THE ORGANIZATIONA 28/Res.1062 
+Page 5 
+ 
+ 
+I:\ASSEMBLY\28\RES\1062.doc 
+4 APPLICATION 
+ 
+4.1 The Guidelines shall be strictly applied by all IMO organs. 
+ 
+4.2 The Guidelines will be kept under review by the Council and will be updated as 
+necessary in the light of experience gained in their application. 
+ 
+4.3 The Council and the committees shall review, align and revise their own guidelines 
+for the organization and method of work, taking account of these Guidelines. 
+ 
+5 STRATEGIC PLANNING PROCESSES: HIGH-LEVEL ACTION PLAN  
+ 
+5.1 The Organization's Strategic Plan includes a number of key strategic directions to
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+5 STRATEGIC PLANNING PROCESSES: HIGH-LEVEL ACTION PLAN  
+ 
+5.1 The Organization's Strategic Plan includes a number of key strategic directions to 
+enable IMO to achieve its mission objectives. In order for the Organization to effectively 
+address those strategic objectives, the High-level Action Plan has been developed, which 
+identifies the actions required and provides the linkage between the Organization's strategy 
+and the work of the various IMO organs. 
+ 
+5.2 The High-level Action Plan thus identifies the high-level actions necessary to 
+achieve the strategic objectives in the Strategic Plan, as well as the priorities for a biennium 
+in response to those identified actions. 
+ 
+5.3 All IMO organs should at all times be conscious of the status and purpose of the 
+Strategic Plan and the High-level Action Plan as well as of the strict linkages between the 
+High-level Action Plan and the budget for the corresponding biennium.
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+High-level Action Plan and the budget for the corresponding biennium. 
+ 
+5.4 The Council and the committees should identify, in a timely manner, the products to 
+be included as planned outputs in the High-level Action Plan for the coming biennium, and 
+the Secretariat should develop its Business Plan, as such identification provides a basis for 
+making an estimate of the budget required for that biennium. 
+ 
+5.5 In the process of constructing the High-level Action Plan, due account should be 
+taken, inter alia, of: (a) planned outputs the delivery of which has been postponed from a 
+prior biennium; (b) final outputs that may need to be produced following the delivery of 
+related interim outputs in a prior biennium; (c) any specific requirement to review the 
+effectiveness of planned outputs delivered in a prior biennium; (d) accepted outputs on the 
+post-biennial agendas; and (e) new planned outputs.
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+effectiveness of planned outputs delivered in a prior biennium; (d) accepted outputs on the 
+post-biennial agendas; and (e) new planned outputs. 
+ 
+5.6 Decisions on the inclusion of planned outputs in the High-level Action Plan for the 
+coming biennium should be guided by the strategic directions and high-level actions 
+established in the Strategic Plan and the High-level Action Plan and should take due account 
+of: 
+ 
+.1 the anticipated workload of the IMO organs delivering the output; 
+ 
+.2 the demonstrated urgency to deliver the output; 
+ 
+.3 the personnel and budgetary resources available; and 
+ 
+.4 the potential adverse impact that a decision on whether or not to include an 
+output may have on the ability of the Organization to meet its objectives. 2 
+ 
+                                                 
+2 Refer to the IMO Risk Management Framework (C 110/3/5, annex 1).  
+Resolution A.1062(28) 
+Adopted on 29 November 2013   (Agenda item 8)
+---
+SOURCE: A.1062(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1062(28).pdf
+2 Refer to the IMO Risk Management Framework (C 110/3/5, annex 1).  
+Resolution A.1062(28) 
+Adopted on 29 November 2013   (Agenda item 8) 
+GUIDELINES ON THE APPLICATION OF THE STRATEGIC PLAN AND 
+THE HIGH-LEVEL ACTION PLAN OF THE ORGANIZATION
+---
+
+SOURCE: A.764(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.764(18).pdf
+RESOLUTION A.764(18) adopted on 4 November 1993   
+ESTABLISHMENT, UPDATING AND RETRIEVAL OF THE INFORMATION CONTAINED 
+IN THE REGISTRATION DATABASES OF SATELLITE EPIRBsINTERNATIONAL MARITIME 
+ORGANIZATION 
+A 18/Res.764 
+17 November 1993 
+Oriyinal: ENGLISH 
+ASSEMBLY - 18th session 
+Agenda item 11 
+RESOLUTION A.764(18) 
+adopted on 4 November 1993 
+ESTABLISHMENT, UPDATING AND RETRIEVAL OF THE 
+INFORMATION CONTAINED IN THE REGISTRATION 
+DATABASES OF SATELLITE EPIRBs 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime 
+Organization concerning the functions of the Assembly in relation to 
+regulations and guidelines concerning maritime safety, 
+RECALLING ALSO resolutions A.661(16) and A.763(18) by which it 
+established the performance standards for satellite EPIRBs, 
+RECOGNIZING the need to establish and continuously update the information 
+contained in the registration databases of satellite EPIRBs,
+---
+SOURCE: A.764(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.764(18).pdf
+RECOGNIZING the need to establish and continuously update the information 
+contained in the registration databases of satellite EPIRBs, 
+RECOGNIZING also that the information in such registration databases is 
+essential for search and rescue purposes, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety 
+Committee at its sixty-second session, 
+1. .ADOPTS the Recommendation on the Establishment, Updating and Retrieval of 
+the Information Contained in the Registration Databases of Satellite EPIRBs, 
+set out in the Annex to the present resolution; 
+2. RECOMMENDS Governments to ensure that the information contained in the 
+registration d atabases of satellite EPIRBs and their continuous updating is 
+in accordance with the Recommendation given in the .Annex to the present 
+resolution. 
+W/0255a 
+For reasons of economy, this document is printed in a limited number. Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies.
+---
+SOURCE: A.764(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.764(18).pdf
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.764(18) adopted on 4 November 1993 
+ESTABLISHMENT, UPDATING AND RETRIEVAL OF THE INFORMATION CONTAINED 
+IN THE REGISTRATION DATABASES OF SATELLITE EPIRBsA 18/Res.764 - 2 - 
+ANNEX 
+RECOMMENDATION ON ESTABLISHMENT, UPDATING AND RETRIEVAL OF 
+THE INFORMATION CONTAINED IN THE REGISTRATION 
+DATABASES OF SATELLITE EPIRBs 
+1 All 406 MHz and L -band EPIRBs should be registered. Every State 
+requiring or allowing the use o f 4 06 MHz or L-band E PIRBs should make 
+suitable a rrangements for registration of these EPIRBs and appropriately 
+enforce E PIRB registration, possibly as part o f a wider communication 
+facilities registration. There should not be more than one database per 
+State. Each Government is encouraged to register all its 406 MHz EPIRBs 
+in the same database. 
+2 The country of registration coded in a satellite EPIRB memory should
+---
+SOURCE: A.764(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.764(18).pdf
+in the same database. 
+2 The country of registration coded in a satellite EPIRB memory should 
+make suitable a rrangements t o always enable ready availability of pertinent 
+registration data to SAR forces. All L-band EPIRBs should be registered with 
+INMARSAT. For 406 MHz EPIRBs the country of registration identity should be 
+coded in accordance with one of the following principles: 
+.1 if the registration database is maintained by the ship's flag State, 
+use the country code* of the flag State; 
+.2 if the registration database is not maintained by the ship's flag 
+State use 
+.1 the country code* of the flag State, and IMO shall be 
+informed of the unique database where all its 406 MHz EPIRBs 
+are registered; or 
+.2 serialized protocol with the country code* o f t he c ountry 
+which is maintaining the database. 
+3 Each registration database should include at least the follow1ng 
+emergency SAR information: 
+.1 EPIRB identification code; 
+.2 name of the ship and its call-sign/MMSI;
+---
+SOURCE: A.764(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.764(18).pdf
+emergency SAR information: 
+.1 EPIRB identification code; 
+.2 name of the ship and its call-sign/MMSI; 
+.3 name, address and p hone number of emergency contact person ashore; 
+.4 alternative 24-hour emergency phone number; 
+.5 brief ship description (type, GRT); 
+.6 capacity for persons on board (passenger s and crew); and 
+.7 ships r adio installation (INMARSAT, HF, MF, etc.). 
+* Note: The country code is a 3-digit decimal number allocated to each 
+country/territory by the International Telecommunication Union (ITU) and 
+listed as Maritime Identification Digits (MIDs) in appendix 43 of the ITU 
+Radio Regulations. 
+W/0255a 
+RESOLUTION A.764(18) adopted on 4 November 1993   
+ESTABLISHMENT, UPDATING AND RETRIEVAL OF THE INFORMATION CONTAINED 
+IN THE REGISTRATION DATABASES OF SATELLITE EPIRBs- 3 - A 18/Res.764 
+4 Means should be provided for the EPIRB licensee, owner or the ship's 
+master to easily and expediently update emergency information in the 
+registration database.
+---
+SOURCE: A.764(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.764(18).pdf
+master to easily and expediently update emergency information in the 
+registration database. 
+5 Database maintainers should contact the EPIRB licensee or owner or both 
+at least every two years to confirm that the database information is accurate. 
+6 Authorities maintaining or using databases should ensure that information 
+supplied for E PIRB registration is used only by appropriate recognized SAR 
+authorities. 
+7 Every State should either: 
+.1 maintain a suitable n ational r egistration database; or 
+.2 co-ordinate with other States t o maintain a joint database; or 
+.3 e nsure that satellite EPIRBs are registered in a global database. 
+8 States should also: 
+.1 b ecome well informed on the unique capabilities of the various 
+406 MHz and L-band EPIRBs, and select those for use which best 
+support their national system for aeronautical and/or maritime SAR, 
+including service to non-SOLAS ships; 
+.2 promulgate clear and timely guidance to manufacturers and users on
+---
+SOURCE: A.764(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.764(18).pdf
+including service to non-SOLAS ships; 
+.2 promulgate clear and timely guidance to manufacturers and users on 
+coding and registration procedures; 
+.3 e nsure that reliable means is provided for continuous access to 
+database information for SAR authorities; 
+.4 co-operate closely with other States, manufacturers, owners and 
+organizations to help resolve any registration or information 
+retrieval problems that may arise; 
+.5 disseminate procedures via IMO, COSPAS-SARSAT, INMARSAT and other 
+service providers, on how EPIRB registration database information 
+for their ships can be obtained by SAR authorities; 
+.6 formalize co-operative arrangements between the parties concerned 
+for the maintenance of a joint database; 
+.7 encourage manufacturers and distributors to advise customers, upon 
+purchase of properly coded EPIRBs, about registration requirements, 
+and refer unresolved coding and registration issues to proper 
+national authorities for resolution; and
+---
+SOURCE: A.764(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.764(18).pdf
+and refer unresolved coding and registration issues to proper 
+national authorities for resolution; and 
+.8 encourage manufacturers and distributors to educate users about 
+maintenance of EPIRBs. 
+W/0255a 
+RESOLUTION A.764(18) adopted on 4 November 1993   
+ESTABLISHMENT, UPDATING AND RETRIEVAL OF THE INFORMATION CONTAINED 
+IN THE REGISTRATION DATABASES OF SATELLITE EPIRBsRESOLUTION A.764(18) adopted on 4 November 1993   
+ESTABLISHMENT, UPDATING AND RETRIEVAL OF THE INFORMATION CONTAINED 
+IN THE REGISTRATION DATABASES OF SATELLITE EPIRBs
+---
+
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+RESOLUTION A.821(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR GYRO-COMPASSES 
+FOR HIGH-SPEED CRAFTINTERNATIONAL f·JIARITIME 
+ORGANIZATION 
+A 19/Res. 821 
+15 December 199 5 
+Original: ENGLISH 
+ASSEMBLY 
+19th session 
+Agenda item I 0 
+NOT TO BE REMOVED 
+FROM 
+THE IMO ue"ARV 
+RESOLUTION A.821(19) 
+adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR GYRO-COMPASSES 
+FOR HIGH-SPEED CRAFT 
+THE ASSEMBLY, 
+RECALLING Article 15G) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning maritime 
+safety, 
+RECALLING ALSO resolution MSC.36(63), by which the Maritime Safety Committee, on 
+20 May 1994, adopted the International Code of Safety for High-Speed Craft (HSC Code), 
+RECALLING FURTHER resolution 1 of the Conference of Contracting Governments to the 
+International Convention for the Safety of Life at Sea (SOLAS), 1974, by which the Conference, on
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+International Convention for the Safety of Life at Sea (SOLAS), 1974, by which the Conference, on 
+24 May 1994, adopted amendments to the 197 4 SOLAS Convention, including a new chapter X on safety 
+measures for high speed craft, which makes the provisions of the HSC Code mandatory under that 
+Convention for all such craft constructed on or after 1 January 1996, 
+BEARING IN MIND section 13.13 of the HSC Code, which requires that all navigational 
+equipment to which chapter 13 applies should conform to performance standards not inferior to those 
+adopted by the Organization, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee at its 
+sixty-fourth session, 
+1. ADOPTS the Recommendation on Performance Standards for Gyro-Compasses for High-Speed 
+Craft set out in the Annex to the present resolution; 
+2. RECOMMENDS Governments to ensure that gyro-compasses required to be carried on high
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+Craft set out in the Annex to the present resolution; 
+2. RECOMMENDS Governments to ensure that gyro-compasses required to be carried on high 
+speed craft conform to performance standards not inferior to those set out in the Annex to the present 
+resolution; 
+3. REQUESTS the Maritime Safety Committee to keep these Performance Standards under review 
+and to adopt amendments thereto, as necessary. 
+I:\ASSEMB L Y\l 9\RES\821 
+For reasons of economy, this document is printed in a limited number. Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.821(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR GYRO-COMPASSES 
+FOR HIGH-SPEED CRAFTA 19/Res.821 -2 - 
+ANNEX 
+RECOMMENDATION ON PERFORMANCE STANDARDS FOR 
+GYRO-COMPASSES FOR HIGH-SPEED CRAFT 
+1 INTRODUCTION 
+1.1 The gyro-compass should determine the direction of the head of the high-speed craft (HSC) in 
+relation to geographic (true) north.
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+1.1 The gyro-compass should determine the direction of the head of the high-speed craft (HSC) in 
+relation to geographic (true) north. 
+1.2 In addition to the general requirements contained in resolution A.694(17), the gyro-compass 
+equipment installed in craft operating under the following conditions: 
+.1 speed exceeding 30 knots and up to 70 knots; 
+.2 maximum rate of tum 20°/s; and 
+.3 normal range of operation between 70°N and 70°S should, as required by chapter 13 of 
+the HSC Code, comply with the minimum performance requirements specified in these 
+standards. 
+1.3 The gyro-compass, within a speed range ofup to 30 knots, should comply with the requirements 
+of resolution A.424(XI), and within a speed range of 30 knots to 70 knots should comply with the 
+requirements of this resolution. 
+1.4 A qualitative description of the effects of gyro-compass errors due to high speed, accelerations,
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+requirements of this resolution. 
+1.4 A qualitative description of the effects of gyro-compass errors due to high speed, accelerations, 
+course changes, sea state, etc., and a qualitative description of corresponding errors in other navigational 
+aids, should be provided to the user. 
+2 DEFINITIONS 
+For the purpose of these performance standards, the following definitions apply: 
+2.1 · Gyro-compass means both the gyro-compass as heading sensor and the associated heading 
+transmission system. 
+2.2 True heading means the horizontal angle between the vertical plane passing through the true 
+meridian and the vertical plane passing through the craft's fore and aft datum line. It is measured 
+from true north (000°) clockwise through 360°. 
+2.3 Th e compass is said to be settled if any three readings taken at intervals of 30 min, when the 
+compass is on a level and stationary base, are within a band of O. 7 °.
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+compass is on a level and stationary base, are within a band of O. 7 °. 
+2.4 Settle point heading means the mean value of ten readings taken at 20-minute intervals after the 
+gyro-compass has settled as defined in 2. 3. 
+2.5 Settle point error means the difference between settle point heading and true heading. 
+2.6 Other errors to which the gyro-compass is subject are defined as the difference between the 
+observed value and the settle point heading. 
+I:\ASSEMBL Y\l 9\RES\821 
+RESOLUTION A.821(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR GYRO-COMPASSES 
+FOR HIGH-SPEED CRAFT- 3 - A 19/Res.821 
+3 METHOD OF PRESENTATION 
+Gyro-compass equipment should include the provision of a compass card or analogue repeater 
+for steering purposes and equipment for the purpose of taking visual bearing. It should be graduated at 
+equal intervals of one degree or a decimal fraction thereof. A numerical indication should be provided
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+equal intervals of one degree or a decimal fraction thereof. A numerical indication should be provided 
+at every 10° starting from 000° clockwise through 360°. Additionally, a digital display may be provided. 
+When a digital display is provided, the course should be displayed as three digits plus, optionally, a fourth 
+digit indicating tenths of a degree. When a gyro-compass with digital display is used it should 
+incorporate a turning indicator. 
+4 ACCURACY 
+4.1 Performance under static conditions - (Settling of equipment) 
+4.1.1 When run-up in accordance with the manufacturer's instructions, the gyro-compass should settle 
+within 6 h in latitudes of up to 7 0 °. 
+4.1.2 The settle point error as defined in 2.5 at any heading and at any latitude up to 70° should not 
+exceed j, 0. 75 ° x secant latitude where heading indications of the gyro-compass should be taken as the 
+mean of 10 readings at 20-minute intervals, and the root mean square value of the differences between
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+mean of 10 readings at 20-minute intervals, and the root mean square value of the differences between 
+individual heading indications and the mean should be less than j; 0.25 ° x secant latitude. 
+4.1.3 The repeatability of settle point error from one run-up to another should be within 0.25 ° x secant 
+latitude. 
+4.2 Performance under operational (dynamic) conditions 
+4.2.1 When run-up in accordance with the manufacturer's instructions, the gyro-compass should settle 
+within 6 h in latitudes of up to 70° when rolling and pitching with simple harmonic motion of any period 
+between 6 s and 15 s, a maximum angle of 5 °, and a maximum horizontal acceleration of 0.22 rn/s2. 
+4.2.2 The repeatability of the settle point error of the master gyro-compass should be within+ 1 ° x 
+secant latitude, including variations in magnetic fields and changes in temperature as required by 
+resolution A.694(17), etc., likely to be experienced in the craft in which it is installed.
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+resolution A.694(17), etc., likely to be experienced in the craft in which it is installed. 
+4.2.3 In latitudes of up to 70° Nor Sin craft operating within a latitude band of 10°: 
+.1 the residual steady state error, after correction for speed and course influences at a speed 
+of 70 knots, should not exceed+ 0.25 ° x secant latitude; 
+.2 the maximum error due to a rapid alteration of speed of 70 knots should be kept to a 
+minimum, and should not exceed ± 2 °; 
+. 3 the error due to a rapid alteration of course of 180 ° at a maximum rate of tum of 20 ° /s 
+in any azimuth direction at a speed of 70 knots should not exceed+ 3 °; and 
+.4 the transient and steady state errors due to the craft rolling, pitching and yawing, with 
+simple harmonic motion of any period between 6 s and 15 s, maximum angle of 20 °, 10 ° 
+and 5 ° respectively, and maximum horizontal acceleration not exceeding 1 m/s2, and at 
+any course, especially at 45 °, 90 ° and 315 ° should not exceed ± 1 ° x secant latitude.
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+any course, especially at 45 °, 90 ° and 315 ° should not exceed ± 1 ° x secant latitude. 
+I:\ASSEMBLY\19\RES\821 
+RESOLUTION A.821(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR GYRO-COMPASSES 
+FOR HIGH-SPEED CRAFTA 19/Res.821 -4 - 
+4.2.4 When subject to the environmental conditions referred to in resolution A.694(17)*, the error 
+should not exceed ± 1 °. 
+4.2.5 The maximum divergence in reading between the master compass and the steering and visual 
+bearing equipment under all operational conditions should not exceed+ 0.5 °. 
+4.2.6 The follow up rate of the transmission system should be at least 20° per s. 
+5 POWER SUPPLY 
+The gyro-compass should be provided with an uninterruptable power supply. 
+6 CONSTRUCTION AND INSTALLATION 
+6.1 The master gyro-compass should be installed in a craft with the fore and aft datum lines parallel 
+to the craft's fore and aft datum line to within+ 0.5 °. The lubber line should be in the same vertical plane
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+to the craft's fore and aft datum line to within+ 0.5 °. The lubber line should be in the same vertical plane 
+as the centre of the card of the compass and should be aligned accurately. 
+6.2 Means should be provided for correcting the errors induced by speed and latitude. An approved 
+accurate speed source should be used for automatic speed corrections. 
+6.3 A status signal should be provided to indicate that the gyro-compass is ready for use. 
+6.4 An alarm signal should be provided to indicate that the gyro-compass has suffered an external 
+power supply failure or an internal system functional failure which would invalidate the heading 
+information. 
+6. 5 The system should be designed to enable heading information to be provided to other 
+navigational aids such as radar, ARP A, radio direction-finder and automatic pilot. The accuracy of the 
+other navigational aids must not be degraded, and should continue to comply with the standards specified 
+for such aids. 
+7 INTERFACE
+---
+SOURCE: A.821(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.821(19).pdf
+other navigational aids must not be degraded, and should continue to comply with the standards specified 
+for such aids. 
+7 INTERFACE 
+The gyro-compass equipment should provide an output of heading information with an accuracy 
+as defined in 4 when interfaced by other equipment. 
+"Methods of testing are contained in Publications IEC 945 and ISO 8728. 
+l:\ASSEMBL Y\l 9\RES\821 
+RESOLUTION A.821(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR GYRO-COMPASSES 
+FOR HIGH-SPEED CRAFTRESOLUTION A.821(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR GYRO-COMPASSES 
+FOR HIGH-SPEED CRAFT
+---
+
+SOURCE: MEPC.224(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.224(64).pdf
+RESOLUTION MEPC.224(64) 
+Adopted on 5 October 2012 
+AMENDMENTS TO THE 2012 GUIDELINES ON THE METHOD OF CALCULATION OF THE 
+ATTAINED ENERGY EFFICIENCY DESIGN INDEX (EEDI) FOR NEW SHIPSMEPC 64/23 
+Annex 8, page 1 
+ 
+ 
+I:\MEPC\64\23.doc 
+ANNEX 8 
+ 
+RESOLUTION MEPC.224(64) 
+ 
+Adopted on 5 October 2012 
+ 
+AMENDMENTS TO THE 2012 GUIDELINES ON THE METHOD OF CALCULATION OF 
+THE ATTAINED ENERGY EFFICIENCY DESIGN INDEX (EEDI) FOR NEW SHIPS 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine 
+pollution, 
+ 
+RECALLING ALSO that, at its sixty-second session, the Committee adopted, by resolution 
+MEPC.203(62), amendments to the annex of the Protocol of 1997 to amend the International
+---
+SOURCE: MEPC.224(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.224(64).pdf
+MEPC.203(62), amendments to the annex of the Protocol of 1997 to amend the International 
+Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol 
+of 1978 relating thereto (inclusion of regulations on energy efficiency for ships in MARPOL 
+Annex VI), 
+ 
+NOTING the amendments to MARPOL Annex VI adopted at its sixty-second session by 
+inclusion of a new chapter 4 for regulations on energy efficiency for ships, will enter into force 
+on 1 January 2013, 
+ 
+NOTING ALSO that regulation 20 (Attained EEDI) of MARPOL Annex VI, as amended, 
+requires that the Energy efficiency Design Index shall be calculated taking into account the 
+guidelines developed by the Organization, 
+ 
+NOTING FURTHER that the 2012 Guidelines on the method of calculation of the attained 
+Energy efficiency Design Index (EEDI) for new ships were adopted at its sixty-third session, 
+ 
+RECOGNIZING that the amendments to MARPOL Annex VI requires the adoption of
+---
+SOURCE: MEPC.224(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.224(64).pdf
+RECOGNIZING that the amendments to MARPOL Annex VI requires the adoption of 
+relevant guidelines for smooth and uniform implementation of the regulations and to provide 
+sufficient lead time for industry to prepare, 
+ 
+HAVING CONSIDERED, at its sixty-fo urth session, amendments to the 20 12 Guidelines on 
+the method of calculation of the attained Energy efficiency Design Index (EEDI) for new 
+ships,  
+ 
+1. ADOPTS the amendments to the 2012 Guidelines on the method of calculation of  
+the attained Energy efficiency Design Index (EEDI) for new shi ps, as set out at annex to the 
+present resolution; 
+ 
+2. INVITES Administrations to take the annexed Guidelines into account when 
+developing and enacting national laws which give force to and implement provisions set forth 
+in regulation 20 of MARPOL Annex VI, as amended;  
+ 
+3. REQUESTS the Parties to MARPOL Annex VI and other Member Governments to 
+bring the annexed Guidelines related to the Energy efficiency Design Index (EEDI) to the
+---
+SOURCE: MEPC.224(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.224(64).pdf
+bring the annexed Guidelines related to the Energy efficiency Design Index (EEDI) to the 
+attention of shipowners, ship operators, shipbuilders, ship designers and any other interested 
+groups; and 
+ 
+4. AGREES to keep these Guidelines under review in light of the experience gained. 
+RESOLUTION MEPC.224(64) 
+Adopted on 5 October 2012 
+AMENDMENTS TO THE 2012 GUIDELINES ON THE METHOD OF CALCULATION OF THE 
+ATTAINED ENERGY EFFICIENCY DESIGN INDEX (EEDI) FOR NEW SHIPSMEPC 64/23 
+Annex 8, page 2 
+ 
+ 
+I:\MEPC\64\23.doc 
+ANNEX 
+ 
+AMENDMENTS TO 2012 GUIDELINES ON THE METHOD OF CALCULATION OF THE  
+ATTAINED ENERGY EFFICIENCY DESIGN INDEX (EEDI) FOR NEW SHIPS 
+ 
+1 Paragraphs 2.5.2 and 2.5.3 are replaced by the following: 
+ 
+".2 Shaft Generator 
+ 
+ In case where shaft generator(s) are installed, PPTO(i) is 75 per cent of the 
+rated electrical output power of each shaft generator. 
+ 
+ For calculation of the effect of shaft generators two options are available: 
+ 
+ Option 1:
+---
+SOURCE: MEPC.224(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.224(64).pdf
+For calculation of the effect of shaft generators two options are available: 
+ 
+ Option 1: 
+ 
+ .1 The maximum allowable deduction for the calculation of  PME(i) is 
+to be no more than PAE as defined in paragraph 2.5.6. For this 
+case,  PME(i) is calculated as: 
+ 
+    
+
+AEiPTOiPTOiME
+nME
+i
+iME PPwithPMCRP 75.0   75.0 )()(
+1
+)(
+ 
+  or 
+ 
+  Option 2: 
+ 
+  .2 Where an engine is installed with a higher rated power output than 
+that which the propulsion system is limited to by verified technical 
+means, then the value of  PME(i) is 75 per cent of that limited 
+power for determining the reference speed, vref and for EEDI 
+calculation.  
+ 
+  The following figure gives guidance for determination of  PME(i): 
+ 
+RESOLUTION MEPC.224(64) 
+Adopted on 5 October 2012 
+AMENDMENTS TO THE 2012 GUIDELINES ON THE METHOD OF CALCULATION OF THE 
+ATTAINED ENERGY EFFICIENCY DESIGN INDEX (EEDI) FOR NEW SHIPSMEPC 64/23 
+Annex 8, page 3 
+ 
+ 
+I:\MEPC\64\23.doc 
+Main Engine Power  [kW]
+---
+SOURCE: MEPC.224(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.224(64).pdf
+ATTAINED ENERGY EFFICIENCY DESIGN INDEX (EEDI) FOR NEW SHIPSMEPC 64/23 
+Annex 8, page 3 
+ 
+ 
+I:\MEPC\64\23.doc 
+Main Engine Power  [kW]
+speed [kn]
+verified limited Power   or  ( MCRME(i) –  PPTO(i) )
+without shaft generator(s)
+with shaft generator(s)
+ MCRME(i)
+ PME(i)
+vref
+Main Engine Power  [kW]
+speed [kn]
+verified limited Power   or  ( MCRME(i) –  PPTO(i) )
+without shaft generator(s)
+with shaft generator(s)
+ MCRME(i)
+ PME(i)
+vref
+ 
+  
+ .3 Shaft motor 
+ 
+ In case where shaft motor(s) are installed, PPTI(i) is 75 per cent of the rated 
+power consumption of each shaft motor divided by the weighted average 
+efficiency of the generator(s), as follows: 
+ 
+   
+Gen
+iSM
+iPTI
+PP  )max(,)( 75.0
+ 
+ Where: 
+ 
+ 
+)max(, iSMP  is the rated power consumption of each shaft motor 
+ 
+Gen  is the weighted average efficiency of the generator(s)  
+ 
+ The propulsion power at which vref is measured, is: 
+ 
+ 
+  ShaftiPTIiME PP ),()(  
+ 
+ Where:
+---
+SOURCE: MEPC.224(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.224(64).pdf
+The propulsion power at which vref is measured, is: 
+ 
+ 
+  ShaftiPTIiME PP ),()(  
+ 
+ Where: 
+ 
+ 
+   )()max(,),( 75.0 iPTIiSMShaftiPTI PP   
+ 
+ 
+)(iPTI  is the efficiency of each shaft motor installed 
+ 
+ Where the total propulsion power as defined above is higher 
+than 75 per cent of the power the propulsion system is limited to by verified 
+technical means, then 75 per cent of the limited power is to be used as the 
+total propulsion power for determining the reference speed, vref and for 
+EEDI calculation.  
+ 
+RESOLUTION MEPC.224(64) 
+Adopted on 5 October 2012 
+AMENDMENTS TO THE 2012 GUIDELINES ON THE METHOD OF CALCULATION OF THE 
+ATTAINED ENERGY EFFICIENCY DESIGN INDEX (EEDI) FOR NEW SHIPSMEPC 64/23 
+Annex 8, page 4 
+ 
+ 
+I:\MEPC\64\23.doc 
+ In case of combined PTI/PTO, the normal operational mode at sea will 
+determine which of these to be used in the calculation. 
+ 
+ Note: The shaft motor's chain efficiency may be taken into consideration to
+---
+SOURCE: MEPC.224(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.224(64).pdf
+determine which of these to be used in the calculation. 
+ 
+ Note: The shaft motor's chain efficiency may be taken into consideration to 
+account for the energy losses in the equipment from the switchboard to the 
+shaft motor, if the chain efficiency of the shaft motor is given in a verified 
+document." 
+ 
+ 
+2 Paragraphs 2.5.6.1 and 2.5.6.2 are replaced by the following: 
+ 
+".1 For ships with a total propulsion power (  MCRME(i)
+ ) of 10,000 kW 
+or above, PAE is defined as: 
+ 
+    25075.0025.0 1
+)(
+)(
+1
+000,10)(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nPTI
+i
+iPTI
+iME
+nME
+i
+AE
+P
+MCRP
+kWiMEMCR
+ 
+ 
+ 
+.2 For ships with a total propulsion power (  MCRME(i) 
+ ) below 10,000 
+kW, PAE is defined as: 
+ 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+75.005.0 1
+)(
+)(
+1
+000,10)(
+nPTI
+i
+iPTI
+iME
+nME
+i
+AE
+P
+MCRP
+kWiMEMCR
+ 
+ 
+" 
+ 
+***
+RESOLUTION MEPC.224(64) 
+Adopted on 5 October 2012 
+AMENDMENTS TO THE 2012 GUIDELINES ON THE METHOD OF CALCULATION OF THE
+---
+SOURCE: MEPC.224(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.224(64).pdf
+MCRP
+kWiMEMCR
+ 
+ 
+" 
+ 
+***
+RESOLUTION MEPC.224(64) 
+Adopted on 5 October 2012 
+AMENDMENTS TO THE 2012 GUIDELINES ON THE METHOD OF CALCULATION OF THE 
+ATTAINED ENERGY EFFICIENCY DESIGN INDEX (EEDI) FOR NEW SHIPSRESOLUTION MEPC.224(64) 
+Adopted on 5 October 2012 
+AMENDMENTS TO THE 2012 GUIDELINES ON THE METHOD OF CALCULATION OF THE 
+ATTAINED ENERGY EFFICIENCY DESIGN INDEX (EEDI) FOR NEW SHIPS
+---
+
+SOURCE: MEPC.247(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.247(66).pdf
+RESOLUTION MEPC.247(66) 
+(adopted on 4 April 2014) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM 
+SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETORESOLUTION MEPC.247(66) 
+(adopted on 4 April 2014) 
+ 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM  
+SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO 
+ 
+(To make the use of the III Code mandatory) 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine 
+pollution from ships, 
+ 
+NOTING article 16 of the International Convention for the Prevention of Pollution from
+---
+SOURCE: MEPC.247(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.247(66).pdf
+pollution from ships, 
+ 
+NOTING article 16 of the International Convention for the Prevention of Pollution from 
+Ships, 1973 (hereinafter referred to as the "1973 Convention"), article VI of the 
+Protocol of 1978 relating to the International Convention for the Prevention of Pollution from 
+Ships, 1973 (hereinafter referred to as the "1978 Protocol") and article 4 of the 
+Protocol of 1997 to amend the International Convention for the Prevention of Pollution from 
+Ships, 1973, as modified by the Protocol of 1978 relating thereto (hereinafter referred to as 
+the "1997 Protocol"), which together specify the amendment procedure of the 1997 Protocol 
+and confer upon the appropriate body of the Organization the function of considering and 
+adopting amendments to the 1973 Convention, as modified by the 1978 and 1997 Protocols, 
+ 
+NOTING ALSO that, by the 1997 Protocol, Annex VI entitled Regulations for the Prevention of
+---
+SOURCE: MEPC.247(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.247(66).pdf
+NOTING ALSO that, by the 1997 Protocol, Annex VI entitled Regulations for the Prevention of 
+Air Pollution from Ships was added to the 1973 Convention (hereinafter referred to as "Annex 
+VI"), 
+ 
+RECALLING that the Assembly, at its twenty-eighth regular session, adopted, by 
+resolution A.1070(28), the IMO Instruments Implementation Code (III Code), 
+ 
+HAVING CONSIDERED proposed amendments to MARPOL Annexes VI to make the use of 
+the III Code mandatory, 
+ 
+1 ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, amendments 
+to Annex VI, the text of which is set out in the annex to the present resolution; 
+ 
+2 DETERMINES that, pursuant to new regulation 24 of Annex VI, whenever the word 
+"should" is used in the III Code (annex to resolution A.1070(28)), it is to be read as being 
+"shall", except for paragraphs 29, 30, 31 and 32; 
+ 
+3 DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that
+---
+SOURCE: MEPC.247(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.247(66).pdf
+"shall", except for paragraphs 29, 30, 31 and 32; 
+ 
+3 DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that 
+the amendments shall be deemed to have been accepted on 1 July 2015, unless prior to that 
+date, not less than one third of the Parties or Parties, the combined merchant fleets of which 
+constitute not less than 50% of the gross tonnage of the world's merchant fleet, have 
+communicated to the Organization their objection to the amendments; 
+ 
+4 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 
+1973 Convention, the said amendments shall enter into force on 1 January 2016 upon their 
+acceptance in accordance with paragraph 3 above; 
+ 
+RESOLUTION MEPC.247(66) 
+(adopted on 4 April 2014) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM 
+SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 2 -
+---
+SOURCE: MEPC.247(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.247(66).pdf
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM 
+SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 2 - 
+ 
+5 REQUESTS the Secretary-General, in conformity with article 16(2)(e) of 
+the 1973 Convention, to transmit to all Parties to the 1973 Convention, as modified by 
+the 1978 and 1997 Protocols, certified copies of the present resolution and the text of the 
+amendments contained in the annex; 
+ 
+6 REQUESTS FURTHER the Secretary-General to transmit to the Members of the 
+Organization which are not Parties to the 1973 Convention, as modified by the 1978 
+and 1997 Protocols, copies of the present resolution and its annex. 
+RESOLUTION MEPC.247(66) 
+(adopted on 4 April 2014) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM 
+SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 3 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO MARPOL ANNEX VI
+---
+SOURCE: MEPC.247(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.247(66).pdf
+SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO- 3 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO MARPOL ANNEX VI 
+ 
+ 
+1 The following is added at the end of regulation 2: 
+ 
+ "For the purposes of this annex: 
+ 
+44 Audit means a systematic, independent and documented process for 
+obtaining audit evidence and evaluating it objectively to determine the extent to 
+which audit criteria are fulfilled. 
+ 
+45 Audit Scheme means the IMO Member State Audit Scheme established by 
+the Organization and taking into account the guidelines developed by the 
+Organization. 
+ 
+46 Code for Implementation means the IMO Instruments Implementation Code 
+(III Code) adopted by the Organization by resolution A.1070(28). 
+ 
+47 Audit Standard means the Code for Implementation. 
+ 
+2 A new chapter 5 is added to read as follows:  
+ 
+"Chapter 5 – Verification of compliance with the provisions of this annex  
+ 
+Regulation 24 
+Application
+---
+SOURCE: MEPC.247(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.247(66).pdf
+"Chapter 5 – Verification of compliance with the provisions of this annex  
+ 
+Regulation 24 
+Application 
+ 
+Parties shall use the provisions of the Code for Implementation in the execution of 
+their obligations and responsibilities contained in this Annex. 
+ 
+Regulation 25 
+Verification of compliance 
+  
+(1) Every Party shall be subject to periodic audits by the Organization in 
+accordance with the audit standard to verify compliance with and implementation of 
+this Annex. 
+ 
+(2) The Secretary-General of the Organization shall have responsibility for 
+administering the Audit Scheme, based on the guidelines developed by the 
+Organization. 
+ 
+(3) Every Party shall have responsibility for facilitating the conduct of the audit 
+and implementation of a programme of actions to address the findings, based on the 
+guidelines developed by the Organization. 
+ 
+(4) Audit of all Parties shall be: 
+ 
+.1 based on an overall schedule developed by the Secretary-General
+---
+SOURCE: MEPC.247(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.247(66).pdf
+(4) Audit of all Parties shall be: 
+ 
+.1 based on an overall schedule developed by the Secretary-General 
+of the Organization, taking into account the guidelines developed 
+by the Organization; and 
+ 
+.2 conducted at periodic intervals, taking into account the guidelines 
+developed by the Organization. 
+RESOLUTION MEPC.247(66) 
+(adopted on 4 April 2014) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM 
+SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETORESOLUTION MEPC.247(66) 
+(adopted on 4 April 2014) 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE 
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM 
+SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO
+---
+
+SOURCE: A.690(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.690(17).pdf
+RESOLUTION A.690(17)  adopted on 6 November 1991 
+PERIODICAL INSPECTIONS OF ABANDON SHIP 
+AND FIRE DRILLS ON PASSENGER SHIPS1NTERNATIONA L MA RITIME 
+ORGANIZATION 
+A 17/Res.690 
+21 November 1991 
+Original: ENGLISH 
+ASSEMBLY - 17th session 
+Agenda item 10 
+IMO 
+RESOLUTION A.690(17) 
+adopted on 6 November 1991 
+PERIODICAL INSPECTIONS OF ABANDON SHIP 
+AND FIRE DRILLS ON PASSENGER SHIPS 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime 
+Organization concerning the functions of the Assembly in relation to 
+regulations and guidelines concerning maritime safety, 
+NOTING regulation III/18.3 of the International Convention for the Safety 
+of Life at Sea, 1974, as amended concerning, inter alia, the carrying out of 
+musters and drills on passenger ships, 
+NOTING FURTHER the need for Administrations to ensure that musters and 
+drills are being carried out on passenger ships in an effective manner,
+---
+SOURCE: A.690(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.690(17).pdf
+NOTING FURTHER the need for Administrations to ensure that musters and 
+drills are being carried out on passenger ships in an effective manner, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety 
+Committee at its fifty-ninth session, 
+1. RECOMMENDS Governments to make periodical inspections of abandon ship and 
+fire drills of the crew on passenger ships to ensure that such drills are 
+being satisfactorily carried out; 
+2. RECOMMENDS ALSO that such periodical inspections are carried out on each 
+passenger ship at intervals not exceeding 12 months; 
+3. REVOKES resolution A.125(V). 
+W/3934x/EWP 
+For reasons of economy, this document is printed in a limited number. Delegates 
+are kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.690(17)  adopted on 6 November 1991 
+PERIODICAL INSPECTIONS OF ABANDON SHIP 
+AND FIRE DRILLS ON PASSENGER SHIPSRESOLUTION A.690(17)  adopted on 6 November 1991 
+PERIODICAL INSPECTIONS OF ABANDON SHIP
+---
+SOURCE: A.690(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.690(17).pdf
+AND FIRE DRILLS ON PASSENGER SHIPSRESOLUTION A.690(17)  adopted on 6 November 1991 
+PERIODICAL INSPECTIONS OF ABANDON SHIP 
+AND FIRE DRILLS ON PASSENGER SHIPS
+---
+
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+RESOLUTION MEPC.226(64) 
+Adopted on 5 October 2012 
+DESIGNATION OF THE SABA BANK 
+AS A PARTICULARLY SENSITIVE SEA AREAMEPC 64/23/Add.1 
+Annex 15, page 1 
+ 
+ 
+I:\MEPC\64\23-Add-1.doc 
+ANNEX 15 
+ 
+RESOLUTION MEPC.226(64) 
+ 
+Adopted on 5 October 2012 
+ 
+DESIGNATION OF THE SABA BANK 
+AS A PARTICULARLY SENSITIVE SEA AREA 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+BEING AWARE of the ecological, socio-economic and scientific attributes of the Saba Bank 
+in the North-eastern Caribbean area of the Kingdom of the Netherlands, as well as its 
+vulnerability to damage by international shipping activities and the steps taken by the 
+Netherlands to address that vulnerability, 
+ 
+NOTING the Revised guidelines for the identification and designation of particularly sensitive 
+sea areas adopted by resolution A.982(24) (PSSA Guidelines) and the Revised Guidance 
+Document for Submission of PSSA Proposals to IMO set forth in MEPC.1/Circ.510,
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+Document for Submission of PSSA Proposals to IMO set forth in MEPC.1/Circ.510, 
+ 
+HAVING CONSIDERED the proposal made by the Government of the Netherlands that the 
+Saba Bank be designated as a Particularly Sensitive Sea Area, 
+ 
+HAVING AGREED that the criteria for the id entification and designation of a Particularly 
+Sensitive Sea Area provided in resolution A.982(24) are fulfilled for the Saba Bank, 
+ 
+HAVING NOTED that the Sub-Committee on Safety of Navigation, at its fifty-eighth session, 
+approved the recommendation on the establishment of An Area To Be Avoided (ATBA) for 
+ships 300 gross tonnage and above and a mandatory No Anchoring Area for all ships as 
+Associated Protective Measures (APMs) for the Saba Bank as a Particularly Sensitive Sea 
+Area aiming at improving the safety of navigation and the protection of the marine 
+environment, 
+ 
+1. DESIGNATES the Saba Bank described in annex 1 as a Particularly Sensitive Sea
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+environment, 
+ 
+1. DESIGNATES the Saba Bank described in annex 1 as a Particularly Sensitive Sea 
+Area, pending the final adoption by the Maritime Safety Committee of the associated 
+protective measures for the PSSA as set out in annex 2 of document NAV 58/14; 
+ 
+2. INVITES Member Governments to recognize the ecological, socio-economic, and 
+scientific attributes of the area, set forth in annex 2, as well as its vulnerability to damage by 
+international shipping activities, as described in annex 3; and 
+ 
+3. FURTHER INVITES Member Governments to note the associated protective 
+measures established to address the area's vulnerability, the details of which are contained 
+in annex 4, which is expected to enter into force following final adoption on a date to be 
+circulated by the Organization to all Member Government, and request ships flying their flag 
+that they act in accordance with such measures. 
+ 
+ 
+* * * 
+ 
+RESOLUTION MEPC.226(64) 
+Adopted on 5 October 2012
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+that they act in accordance with such measures. 
+ 
+ 
+* * * 
+ 
+RESOLUTION MEPC.226(64) 
+Adopted on 5 October 2012 
+DESIGNATION OF THE SABA BANK 
+AS A PARTICULARLY SENSITIVE SEA AREAMEPC 64/23/Add.1 
+Annex 15, page 2 
+ 
+I:\MEPC\64\23-Add-1.doc 
+ANNEX 1 
+ 
+DESCRIPTION OF THE SABA BANK PSSA  
+ 
+ 
+In order to avoid the risk of pollution and damage to this unique, fragile and pristine coral reef 
+ecosystem, and the risks to the artisanal fisheries of the area, mariners should exercise 
+extreme care when navigating in the area bounded by a line connecting the following 
+geographical position, which is designated as a Particularly Sensitive Sea Area: 
+ 
+  1.  17° 27 ′.06 N 063° 56 ′.14 W 
+  2.  17° 29 ′.00 N 063° 55 ′.09 W  
+  3.  17° 27 ′.94 N 063° 43 ′.32 W 
+  4.  17° 38 ′.03 N 063° 27 ′.41 W 
+  5.  17° 43 ′.35 N 063° 32 ′.74 W  
+  6.  17° 45 ′.98 N 063° 29 ′.98 W 
+  7.  17° 40 ′.34 N 063° 21 ′.10 W 
+  8.  17° 30 ′.88 N 063° 10 ′.92 W 
+  9.  17° 23 ′.80 N 063° 11 ′.25 W
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+6.  17° 45 ′.98 N 063° 29 ′.98 W 
+  7.  17° 40 ′.34 N 063° 21 ′.10 W 
+  8.  17° 30 ′.88 N 063° 10 ′.92 W 
+  9.  17° 23 ′.80 N 063° 11 ′.25 W 
+  10. 17° 16′ .27 N 063° 15′.85 W  
+  11. 17° 13′ .44 N 063° 26′.89 W 
+  12. 17° 10′ .55 N 063° 41′.81 W  
+  13. 17° 20′ .85 N 063° 49′.89 W 
+ 
+(Reference Chart: Netherlands Nautical Chart no. 2020, Edition November 2007 
+Note: This chart is based on World Geodetic System 1984 (WGS 84)) 
+ 
+ 
+ 
+RESOLUTION MEPC.226(64) 
+Adopted on 5 October 2012 
+DESIGNATION OF THE SABA BANK 
+AS A PARTICULARLY SENSITIVE SEA AREAMEPC 64/23/Add.1 
+Annex 15, page 3 
+ 
+I:\MEPC\64\23-Add-1.doc 
+CHARTLET 
+ 
+ 
+ 
+ 
+* * * 
+RESOLUTION MEPC.226(64) 
+Adopted on 5 October 2012 
+DESIGNATION OF THE SABA BANK 
+AS A PARTICULARLY SENSITIVE SEA AREAMEPC 64/23/Add.1 
+Annex 15, page 4 
+ 
+I:\MEPC\64\23-Add-1.doc 
+ANNEX 2 
+ 
+ECOLOGICAL, SOCIO-ECONOMIC, AND SCIENTIFIC ATTRIBUTES 
+OF THE SABA BANK PSSA 
+ 
+ 
+Ecological criteria 
+ 
+1 Uniqueness or rarity
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+ANNEX 2 
+ 
+ECOLOGICAL, SOCIO-ECONOMIC, AND SCIENTIFIC ATTRIBUTES 
+OF THE SABA BANK PSSA 
+ 
+ 
+Ecological criteria 
+ 
+1 Uniqueness or rarity 
+ 
+1.1 The reefs of the Saba Bank are far removed from land and as a consequence there 
+is an absence of land-based influences such as elevated levels of sedimentation due to 
+increased erosion, high nutrient concentrations caused by pollution from agricultural run-off 
+and wastewater disposal, or sedimentation from coastal construction activities.  Worldwide, 
+reefs are in decline, from just such impacts originating from land.  This unique position of the 
+Saba Bank reefs, provide a potentially greater resilience to changes in the environmental 
+conditions, such us climate change, and it is a relatively untouched centre for recruitment 
+and recuperation for the coastal reefs in the region. 
+ 
+1.2 The coral reefs of the Saba Bank, characterized by high coral cover of around
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+and recuperation for the coastal reefs in the region. 
+ 
+1.2 The coral reefs of the Saba Bank, characterized by high coral cover of around 
+70 per cent in some places, have been determined to be among the four healthiest of the 
+Caribbean, based on the Atlantic and Gulf Rapid Reef Assessment (AGRRA) health index, 
+which is a compilation of many variables, including coral cover, fish populations, presence 
+of diseases, types and cover of algae on the reef, and ratio of living coral versus dead coral1. 
+ 
+1.3 Because of its location and prevailing currents in the area, the Saba Bank 
+is a source of larval recruitment for corals and coral reef associated organisms, including 
+important fishery species such as conch (Strombus gigas ), and lobster ( Panulirus argus) for 
+the entire region. 
+ 
+1.4 A two-week study, carried out in January 2006 by Conservation International, the 
+former Netherlands Antilles government and the Smithsonian Institution's Museum of Natural
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+former Netherlands Antilles government and the Smithsonian Institution's Museum of Natural 
+History, to investigate the biodiversity of the Saba Bank, found that the Saba Bank has the 
+largest diversity of algae in the Caribbean.  A diverse algae community is a critical food 
+source for the herbivores on the Bank and provides shelters and habitats for fish and other 
+invertebrate species. 
+ 
+1.5 Further studies, conducted in 2007, found two new species of gorgonian corals, 
+a deep and shallow water species.  Since the gorgonians of the Caribbean are a well-known 
+group of corals with only a limited number of species, the discovery of a new species in the 
+shallowest parts of the Bank is very unique. 
+ 
+1.6 The Saba Bank is home to a number of species on the International Union for the 
+Conservation of Nature (IUCN) Red List, such as the humpback whale, sperm whale, green 
+turtle and the hawksbill turtle, yellow fin grouper, snowy grouper, Nassau grouper, queen
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+turtle and the hawksbill turtle, yellow fin grouper, snowy grouper, Nassau grouper, queen 
+triggerfish, yellow mouth grouper, bull shark, and tiger shark. 
+ 
+2 Critical habitat  
+ 
+2.1 The Saba Bank is a critical habitat for at least two species of sea turtles.  Large areas 
+covered in algae and areas rich in sponges provide foraging grounds for green sea turtles and 
+                                                 
+1  (Kramer, P.A. (2003) Synthesis of  coral reef health indicators for the western Atlantic: Results of the 
+AGRRA program (1997-2000).  Atoll Res. Bull.(496), 1-57). 
+RESOLUTION MEPC.226(64) 
+Adopted on 5 October 2012 
+DESIGNATION OF THE SABA BANK 
+AS A PARTICULARLY SENSITIVE SEA AREAMEPC 64/23/Add.1 
+Annex 15, page 5 
+ 
+I:\MEPC\64\23-Add-1.doc 
+hawksbill sea turtles respectively.  Such feeding grounds are declining.  Both of these 
+species of turtles are listed on IUCN Red List  of threatened species.  The hawksbill is listed
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+species of turtles are listed on IUCN Red List  of threatened species.  The hawksbill is listed 
+as critically endangered and the green sea turtle is listed as endangered.  In addition the 
+Saba Bank provides critical habitat for coral species, many fish and invertebrate species, and 
+for whales and dolphins.  There are currently over 360 species of fish that have been 
+documented on the Saba Bank and this list continues to grow. 
+ 
+3 Dependency 
+ 
+3.1 The Saba Bank is formed and sustained by the growth of the corals and coral reefs 
+on it.  As such, these organisms provide habitat, food and shelter for all animals and plants 
+living on the Bank.  The high diversity of the area is maintained by the numerous feedback 
+mechanisms characteristic for these kinds of ecosystems.  As a self-sustaining ecosystem, it 
+is highly productive and also forms an attractive feeding and nursery ground for many 
+migratory species.  The Saba Bank is the main nursery ground for fish species that are
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+migratory species.  The Saba Bank is the main nursery ground for fish species that are 
+hatched in the area.  The fishery on the Bank is dependent on these nursery ground facilities 
+and derives considerable income from them.  The Saba Bank is also a source of lobster and 
+conch larvae for the whole region down-current of the Bank. 
+ 
+4 Representativeness 
+ 
+4.1 As a submerged atoll with highly developed reefs the Saba Bank is uniquely 
+representative of coral reef growth processes in relatively deep water in the Caribbean, 
+providing typical examples of deep reef structure and deep reef growth forms.  The shallower 
+parts of the Bank are representative of various high energy hard bottom habitats, while the 
+deeper sandy areas provide calmer lagoon-like habitats. 
+ 
+5 Diversity 
+ 
+5.1 The reefs and other habitats of the Saba Bank have only recently been surveyed for 
+species such as fish, gorgonians and invertebrates.  Due to the vastness of the Bank these
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+species such as fish, gorgonians and invertebrates.  Due to the vastness of the Bank these 
+lists are far from complete.  Nevertheless, during the preliminary coral surveys 38 hard coral 
+species were found.  Similarly, the Saba Bank is rich in gorgonians, sponges, and fish 
+species.  Discovery of new species on the Saba Bank are still made, as demonstrated 
+by a 2006 research expedition which yielded over 200 fish species not previously known to 
+exist in the area, and over 100 species of algae,  many of which were previously unknown to 
+science. 
+ 
+5.2 Renowned algae experts Mark and Diane Littler, consider the Saba Bank to have 
+the highest diversity in the Caribbean with respect to marine algae.  A 2007 research 
+expedition also found two new species of soft coral.  One of the new species was found 
+in deep water (70 m), and the other was found to be common in shallow water (20 m).  Since 
+the gorgonians of the Caribbean are a well-known group of corals with only a limited number
+---
+SOURCE: MEPC.226(64).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.226(64).pdf
+the gorgonians of the Caribbean are a well-known group of corals with only a limited number 
+of species, the discovery of a new species in the shallowest parts of the Saba Bank was 
+unexpected and indicative of the Bank's high diversity. 
+ 
+5.3 Further contributing to its diversity, the ecosystem of the Saba Bank contains a wide 
+variety of habitats.  For example, within the coral reefs of the Saba Bank, the percentage 
+of coral cover varies widely, creating a series of interconnected but distinct types of coral reef 
+habitats, or zones (e.g. fore reef, reef crest, back reef, patch reefs and lagoon).  As a result 
+of this zoning, the coral reefs of the Saba Bank contain a variety of environmental niches and 
+resources that support a diverse array of species. 
+ 
+RESOLUTION MEPC.226(64) 
+Adopted on 5 October 2012 
+DESIGNATION OF THE SABA BANK 
+AS A PARTICULARLY SENSITIVE SEA AREA
+---
+
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+RESOLUTION A.755(18) adopted on 4 November 1993 
+GUIDELINES FOR APPROVAL OF SPRINKLER SYSTEMS EQUIVALENT TO THAT REFERRED 
+ TO IN SOLAS REGULATION II-2/12INTERNATIONAL MARITIME 
+ORGANIZATION A 18/Res.755 
+23 November 1993 
+Original: ENGLISH 
+ASSEMBLY - 18th session 
+Agenda item 11 
+RESOLUTION' A.755(18) 
+adopted on 4 November 1993 
+GUIDELINES FOR APPROVAL OF SPRINKLER SYSTEMS EQUIVALENT 
+TO THAT REFERRED TO IN SOLAS REGULATION II-2/12 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International 
+Maritime Organization concerning the functions of the Assembly in relation 
+to regulations and guidelines concerning maritime safety, 
+NOTING the significance of the performance and reliability of the 
+sprinkler systems approved under the provisions of regulation II-2/12 of the 
+International Convention for the Safety of Life at Sea (SOLAS), 1974, 
+DESIROUS of keeping abreast of th~ advancement of sprinkler technology 
+and further improving fire protection on board ships,
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+DESIROUS of keeping abreast of th~ advancement of sprinkler technology 
+and further improving fire protection on board ships, 
+H.AVING CONSIDERED the recommendation made by the Mari t.ime Safety 
+Committee at its sixty-first session, 
+1. ADOPTS the G uidelines for Approval of Sprinkler Systems Equivalent to 
+That Referred to in SOLAS Regulation II-2/12, set out in the Annex to the 
+present resolution; 
+2. INVITES Governments to apply the Guidelines when approving equivalent 
+sprinkler systems; 
+3. REQUESTS the Maritime Safety Committee: 
+(a) to keep the Guidelines under review and, in particular, to develop 
+test procedures for ,pproval of equivalent sprinkler systems for 
+incorporation in the Guidelines; and 
+(b) to consider developing relevant amencments to the 
+1974 SOLAS Convention. 
+W/0323a 
+For reasons of economy, this document is printed in a limited number Delegates are 
+kindly asked t0 bring their copies to meetings and not to request additional copies.
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+kindly asked t0 bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.755(18) adopted on 4 November 1993 
+GUIDELINES FOR APPROVAL OF SPRINKLER SYSTEMS EQUIVALENT TO THAT REFERRED 
+ TO IN SOLAS REGULATION II-2/12A 18/Res.755 - 2 - 
+ANNEX 
+GUIDELINES FOR APPROVAL OF SPRINKLER SYSTEMS EQUIVALENT 
+TO THAT REFERRED TO IN SOLAS REGULATION II-2/12 
+1 General 
+Equivalent sprinkler systems must have the same characteristics which 
+have been identified as significant to the performance and reliability of 
+automatic sprinkler systems approved under the requirements of 
+regulation II-2/12 of SOLAS. 
+2 Definitions 
+.1 Wet Pipe System. A sprinkler system employing automatic sprinklers 
+attached to a piping system containing water and connected to a 
+water supply so that water discharges immediately from sprinklers 
+opened by heat from a fire . 
+. 2 Dry Pipe System. A sprinkler system employing automatic sprinklers
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+opened by heat from a fire . 
+. 2 Dry Pipe System. A sprinkler system employing automatic sprinklers 
+attached to a piping system containing air or nitrogen under 
+pressure, the release of which (as from the opening of a sprinkler) 
+permits the water pressure to open a valve known as a dry pipe 
+valve. The water then flows into the piping system and out of the 
+opened sprinklers . 
+. 3 Preaction System. A sprinkler system employing automatic sprinklers 
+attached to a piping system containing air that may or may not be 
+under pressure, with a supplemental detection system installed in 
+the same area as the sprinklers. Actuation of the detection system 
+opens a valve that permits water to flow into the sprinkler piping 
+system and to be discharged from any sprinklers that may be open . 
+. 4 Deluge System. A sprinkler employing open sprinklers attached to a 
+piping system connected to a water supply through a valve that is
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+. 4 Deluge System. A sprinkler employing open sprinklers attached to a 
+piping system connected to a water supply through a valve that is 
+opened by the operation of a detection system installed in the same 
+areas as the sprinklers. When this valve opens, water flows into 
+the piping system and discharges from all sprinklers attached 
+thereto . 
+. S Antifreeze System. A wet pipe sprinkler system employing automatic 
+sprinklers attached to a piping system containing an antifreeze 
+solution and connected to a water supply. The antifreeze solution 
+is discharged, followed by water, immediately upon operation of 
+sprinklers opened by heat from a fire . 
+. 6 Water Based Extinguishing M~oium is fresh water or sea water with or 
+without additives mixed to enhance fire extinguishing capability. 
+3 Principal requirements for the __§_y:~tem 
+.1 The system should be automatic in operation, with no human action 
+necessary to set it in oper~tion. 
+W/0323a
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+.1 The system should be automatic in operation, with no human action 
+necessary to set it in oper~tion. 
+W/0323a 
+RESOLUTION A.755(18) adopted on 4 November 1993 
+GUIDELINES FOR APPROVAL OF SPRINKLER SYSTEMS EQUIVALENT TO THAT REFERRED 
+ TO IN SOLAS REGULATION II-2/12- 3 ·- A 18/Res.755 
+.2 The system should be capable o f both detecting the fire a nd acting 
+to control or suppress the fire with a water-based extinguishing 
+medium . 
+. 3 The sprinkler system should be capable o f continuously supplying 
+the water-based extinguishing medium for a minimu~ of 30 min . 
+• 4 The system should be of the wet pipe t ype but smaJ.l exposed sections 
+may be o f the dry pipe, preaction, deluge, antifreeze or other t ype 
+to the satisfaction of the A&ninistration where this is necessary . 
+• 5 The system should be capable o f f ire control or suppression under a 
+wide variety of f ire loading, fuel arrangement, room geometry and 
+ventilation conditions .
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+wide variety of f ire loading, fuel arrangement, room geometry and 
+ventilation conditions . 
+• 6 The system and equipment should be suitably designed to withstand 
+ambient temperature changes, vibration, humidity, shock, impact, 
+clogging and corrosion normally encountered in ships . 
+. 7 The system and its components should be designed and installed in 
+accordance with international standards acceptable t o the 
+Organization*, and manufactured and tested to the satisfaction of 
+the Administration . 
+. 8 The system should be provided with both main and emergency sources 
+of power . 
+. 9 The system should be provided , .. ,-j_ t h a redundant me e n s of pumping or 
+otherwise supplying a water based extinguishing medit~ to the 
+sprinkler system . 
+. 10 The system should be c apable o f operation using seawater . 
+. 11 The piping system should be sized in accordance with an h ydraulic 
+calculation technique.** 
+* Pending the development of international standards acceptable to the
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+calculation technique.** 
+* Pending the development of international standards acceptable to the 
+Organization, national standards as prescribed by the A~ ninistration 
+should b e a pplied. 
+** Where the Hazen-Williams Method is usecJ., th8 following values of the 
+friction factor "C" for different pipe t ypes which may be considered 
+should apply: 
+Pipe type 
+Black or galvanized mild steel 
+Copper a nd copper alloys 
+Stainless steel 
+Plastic 
+120 
+150 
+1.50 
+150 
+W/0323a 
+RESOLUTION A.755(18) adopted on 4 November 1993 
+GUIDELINES FOR APPROVAL OF SPRINKLER SYSTEMS EQUIVALENT TO THAT REFERRED 
+ TO IN SOLAS REGULATION II-2/12A 18/Res.755 - 4 - 
+.12 Sprinklers should be grouped into separate sections. Any section 
+should not serve more than two decks of one main vertical zone . 
+. 13 Each section of sprinklers should be capable of being isolated by 
+one stop valve only. The stop valve in each section should be 
+readily accessible and its location should be clearly and
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+one stop valve only. The stop valve in each section should be 
+readily accessible and its location should be clearly and 
+permanently indicated. Means should be provided to prevent the 
+operation of the stop valves by an unauthorized person . 
+. 14 Sprinkler piping should not be used for any other purpose . 
+. 15 The sprinkler system supply components should be outside Category A 
+machinery spaces . 
+. 16 A means for testing the automatic operation of the system for 
+assuring the required pressure and flow should be provided . 
+. 17 Each sprinkler section should be provided with a means for giving a 
+visual and audible alarm at a continuously manned central control 
+station within one minute of flow from one or more sprinklers, a 
+check valve, pressure gauge, and a test connection with a means of 
+drainage . 
+. 18 A sprinkler control plan should be displayed at each centrally 
+manned control station . 
+. 19 Installation plans and operating manuals should be supplied to the
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+manned control station . 
+. 19 Installation plans and operating manuals should be supplied to the 
+ship and be readily available on board. A list or plan should be 
+displayed showing the spaces covered and the location of the zone in 
+respect of each section. Instructions for testing and maintenance 
+should also be available on board . 
+. 20 Sprinklers should have fast response characteristics as defined in 
+ISO Standard 6182/1 . 
+. 21 In accommodation and service spaces the sprinklers should have a 
+nominal temperature rating of 57°( to 77°C, except t~'J.at in locations 
+such as drying rooms, where high ambient tempera.tures might be 
+expected, the nominal temperature may be increased by not more than 
+30°C above the maximum deckhead temperature . 
+. 22 Pumps and alternative supply components should be sized so as to be 
+capable of maintaining the required flow to the hydraulically most 
+demanding area of not less than 280 m2. For application to a
+---
+SOURCE: A.755(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.755(18).pdf
+capable of maintaining the required flow to the hydraulically most 
+demanding area of not less than 280 m2. For application to a 
+small ship with a total protected area of less than 280 m2, the 
+Administration may specify the appropriate area for- sizing of pumps 
+and alternative supply components. 
+W/0323a 
+RESOLUTION A.755(18) adopted on 4 November 1993 
+GUIDELINES FOR APPROVAL OF SPRINKLER SYSTEMS EQUIVALENT TO THAT REFERRED 
+ TO IN SOLAS REGULATION II-2/12RESOLUTION A.755(18) adopted on 4 November 1993 
+GUIDELINES FOR APPROVAL OF SPRINKLER SYSTEMS EQUIVALENT TO THAT REFERRED 
+ TO IN SOLAS REGULATION II-2/12
+---
