@@ -35,12 +35,10 @@ jobs:
           splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
 
           all_txt_files = glob.glob('**/master_imo_all_public_part*.txt', recursive=True)
-          print(f"Found part files: {all_txt_files}")
-
           existing = set()
           total_chunks = 0
           max_part = -1
-          processed_till = 12500
+          processed_till = 13000
           max_old_pdfs = 0
 
           for fn in all_txt_files:
@@ -58,41 +56,49 @@ jobs:
           for sum_file in glob.glob('**/imo_public_summary.txt', recursive=True):
               try:
                   t = open(sum_file).read()
-                  m1 = re.search(r'Processed till (\d+)', t)
                   m2 = re.search(r'Total Unique PDFs:\s*(\d+)', t)
-                  m3 = re.search(r'Total Chunks:\s*(\d+)', t)
-                  if m1:
-                      processed_till = max(processed_till, int(m1.group(1)))
                   if m2:
                       max_old_pdfs = max(max_old_pdfs, int(m2.group(1)))
-                  if m3:
-                      total_chunks = max(total_chunks, int(m3.group(1)))
               except:
                   pass
 
-          print(f"Before CORRECT: {len(existing)} PDFs, real max old={max_old_pdfs}, chunks={total_chunks}")
-          base_count = max(len(existing), max_old_pdfs)
+          print(f"Before: {len(existing)} PDFs, chunks={total_chunks}, max_part={max_part}")
 
           urls = []
-          base_url = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions"
-          for n in range(578, 700):
-              for sess in [106,107,108,109,110,111]:
-                  urls.append(f"{base_url}/MSCResolutions/MSC.{n}({sess}).pdf")
+          base = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions"
 
-          new_urls = [u for u in urls if urllib.parse.unquote(u.split('/')[-1]) not in existing][:800]
+          # 1. MSC purana range jo abhi tak try nahi kiya - 1 se 577 tak
+          for n in range(1, 578):
+              for sess in [80,82,84,86,88,90,92,95,96,97,98,99,100,101,102,103,104,105,106]:
+                  urls.append(f"{base}/MSCResolutions/MSC.{n}({sess}).pdf")
+
+          # 2. MEPC Resolutions - yahi pe 400+ naye milenge
+          for n in range(1, 400):
+              for sess in [40,50,60,70,75,76,77,78,79,80,81,82,83]:
+                  urls.append(f"{base}/MEPResolutions/MEPC.{n}({sess}).pdf")
+                  urls.append(f"{base}/MEPCResolutions/MEPC.{n}({sess}).pdf")
+
+          # 3. Assembly Resolutions
+          for n in range(1, 300):
+              for sess in [20,21,22,23,24,25,26,27,28,29,30,31,32,33]:
+                  urls.append(f"{base}/AssemblyResolutions/A.{n}({sess}).pdf")
+
+          import random
+          random.shuffle(urls)
+          new_urls = [u for u in urls if urllib.parse.unquote(u.split('/')[-1]) not in existing][:1200]
           print(f"NEW to try: {len(new_urls)}")
 
           def dl(url):
               try:
-                  r = s.get(url, timeout=20)
-                  if r.status_code != 200 or len(r.content) < 12000 or r.content[:4] != b'%PDF':
+                  r = s.get(url, timeout=25)
+                  if r.status_code != 200 or len(r.content) < 5000 or r.content[:4] != b'%PDF':
                       return None
                   open('/tmp/t.pdf','wb').write(r.content)
                   reader = PdfReader('/tmp/t.pdf')
                   text = ""
-                  for p in reader.pages[:15]:
+                  for p in reader.pages[:10]:
                       text += (p.extract_text() or "") + "\n"
-                  if len(text) < 300:
+                  if len(text) < 200:
                       return None
                   fname = urllib.parse.unquote(url.split('/')[-1])
                   out = ""
@@ -103,7 +109,7 @@ jobs:
                   return None
 
           results = []
-          with concurrent.futures.ThreadPoolExecutor(max_workers=25) as ex:
+          with concurrent.futures.ThreadPoolExecutor(max_workers=30) as ex:
               futs = [ex.submit(dl, u) for u in new_urls]
               for f in concurrent.futures.as_completed(futs):
                   r = f.result()
@@ -120,12 +126,9 @@ jobs:
               open(next_file, 'w', encoding='utf-8').write(combined)
               print(f"Saved {next_file}")
 
-          total_unique = base_count + len(results)
+          total_unique = max(len(existing), max_old_pdfs) + len(results)
           total_chunks_new = total_chunks + sum([c[1].count('---') for c in results])
-          processed_till_new = processed_till + 500
-
-          summary_text = f"Processed till {processed_till_new}\nTotal Unique PDFs: {total_unique}\nTotal Chunks: {total_chunks_new}\nLast Batch New: {len(results)}\n"
-
+          summary_text = f"Processed till {processed_till+1000}\nTotal Unique PDFs: {total_unique}\nTotal Chunks: {total_chunks_new}\nLast Batch New: {len(results)}\n"
           open('imo_public_summary.txt','w').write(summary_text)
           open('imo-rag-bot/imo_public_summary.txt','w').write(summary_text)
           print(f"Updated summary FINAL: {total_unique} PDFs")
@@ -136,5 +139,5 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add -A
-          git commit -m "fix count and add batch" || true
+          git commit -m "expand to MEPC and Assembly for 1000+" || true
           git push || true
