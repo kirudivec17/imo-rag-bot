@@ -3,120 +3,156 @@ on: workflow_dispatch
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.11' }
-      - run: pip install requests beautifulsoup4 pypdf langchain-text-splitters lxml --quiet
-      - name: Build REAL list
+      - run: pip install requests pypdf langchain-text-splitters --quiet
+      - name: Build ALL IMO - Full Capture
         run: |
           python - << 'PY'
-          import requests, os, re, warnings, concurrent.futures
-          warnings.filterwarnings("ignore")
-          from bs4 import BeautifulSoup
+          import requests, os, re, concurrent.futures, urllib.parse
           from pypdf import PdfReader
           from langchain_text_splitters import RecursiveCharacterTextSplitter
 
           s = requests.Session()
-          s.headers.update({"User-Agent":"Mozilla/5.0"})
-          
-          # IMO ke 3 master index files - inme 1500+ links hain
-          INDEX_URLS = [
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly.pdf",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions.pdf",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPResolutions.pdf"
-          ]
-          
-          all_pdfs = set()
-          for idx_url in INDEX_URLS:
-              print(f"Parsing index: {idx_url}")
-              try:
-                  r = s.get(idx_url, timeout=60)
-                  open('/tmp/idx.pdf','wb').write(r.content)
-                  reader = PdfReader('/tmp/idx.pdf')
-                  text = ""
-                  for p in reader.pages:
-                      text += (p.extract_text() or "") + "\n"
-                  # is text me se saare http links nikalo
-                  links = re.findall(r'https?://[^\s\)]+\.pdf', text)
-                  print(f"  -> Found {len(links)} links in index")
-                  for l in links:
-                      all_pdfs.add(l.strip())
-                  # relative links bhi
-                  rel = re.findall(r'/localresources/[^\s\)]+\.pdf', text)
-                  for l in rel:
-                      all_pdfs.add("https://wwwcdn.imo.org" + l)
-              except Exception as e:
-                  print(f"  Error {e}")
+          s.headers.update({"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36"})
 
-          print(f"\nTOTAL UNIQUE PDFs from indexes: {len(all_pdfs)}")
-
-          # Existing check
+          # === 1. EXISTING CHECK - REPEAT ROKO ===
           existing = set()
           for fn in os.listdir('.'):
-              if 'master_imo_all_public_part' in fn:
-                  try:
-                      txt = open(fn, encoding='utf-8', errors='ignore').read()
-                      for m in re.findall(r'SOURCE:\s*([^\s\n]+\.pdf)', txt):
-                          existing.add(m)
-                  except: pass
-          print(f"Already have in repo: {len(existing)}")
+            if 'master_imo_all_public_part' in fn:
+              try:
+                txt = open(fn, encoding='utf-8', errors='ignore').read()
+                for m in re.findall(r'SOURCE:\s*([^\s\n]+\.pdf)', txt):
+                  existing.add(m.strip())
+                  existing.add(urllib.parse.unquote(m.strip()))
+              except: pass
+          print(f"Already have in repo: {len(existing)} PDFs")
 
-          new_urls = [u for u in all_pdfs if u.split('/')[-1] not in existing]
-          print(f"NEW to download: {len(new_urls)}")
-          
-          if len(new_urls) == 0:
-              print("No new files, but trying 200 old missing with direct retry")
-              new_urls = list(all_pdfs)[:200]
+          # === 2. SAARE POSSIBLE LINKS GENERATE KARO ===
+          all_urls = []
+
+          BASES = [
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPResolutions/",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Council/",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/FAL/",
+            "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/LEG/",
+          ]
+
+          # Helper: har file ke 4 encoding try karo
+          def add_variations(base, filename):
+            all_urls.append(base + filename)
+            all_urls.append(base + filename.replace(" ", "%20"))
+            all_urls.append(base + filename.replace(" ", "-"))
+            all_urls.append(base + filename.replace(" ", "_"))
+
+          # A. Assembly 900-1200, session 15-33
+          for n in range(900, 1220):
+            for sess in range(15, 34):
+              for base in BASES[:2]:
+                add_variations(base, f"A {n}({sess}).pdf")
+                add_variations(base, f"A.{n}({sess}).pdf")
+                add_variations(base, f"Resolution A.{n}({sess}).pdf")
+                add_variations(base, f"Resolution A {n}({sess}).pdf")
+                add_variations(base, f"A-{n}-{sess}.pdf")
+
+          # MSC 1-600, session 20-110
+          for n in range(1, 610):
+            for sess in [57, 61, 66, 73, 78, 79, 80, 81, 85, 86, 90, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110]:
+              for base in [BASES[0], BASES[2]]:
+                add_variations(base, f"MSC {n}({sess}).pdf")
+                add_variations(base, f"MSC.{n}({sess}).pdf")
+                add_variations(base, f"MSC.{n}-{sess}.pdf")
+                add_variations(base, f"Resolution MSC.{n}({sess}).pdf")
+
+          # MEPC 1-410
+          for n in range(1, 420):
+            for sess in range(40, 86):
+              for base in [BASES[0], BASES[3]]:
+                add_variations(base, f"MEPC {n}({sess}).pdf")
+                add_variations(base, f"MEPC.{n}({sess}).pdf")
+                add_variations(base, f"MEPC.{n}-{sess}.pdf")
+
+          # Council, FAL, LEG, LDC
+          for prefix in ["C", "FAL", "LEG", "LDC", "LC", "LP", "TC"]:
+            for n in range(1, 200):
+              for sess in range(20, 110):
+                add_variations(BASES[0], f"{prefix} {n}({sess}).pdf")
+                add_variations(BASES[0], f"{prefix}.{n}({sess}).pdf")
+
+          all_urls = list(set(all_urls))
+          print(f"Total generated URLs to try: {len(all_urls)}")
+
+          # Existing hatao
+          new_urls = []
+          for u in all_urls:
+            fname = urllib.parse.unquote(u.split('/')[-1])
+            if fname not in existing and u.split('/')[-1] not in existing:
+              new_urls.append(u)
+
+          print(f"After removing existing, NEW to try: {len(new_urls)}")
+          # Har run me 1000 try karenge, 500 tak download karenge
+          new_urls = new_urls[:1200]
 
           splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
 
-          def process(url):
+          def download_one(url):
+            try:
+              r = s.get(url, timeout=20)
+              if r.status_code != 200: return None
+              if len(r.content) < 12000: return None
+              if not r.content[:5].startswith(b'%PDF'): return None
+              open('/tmp/t.pdf','wb').write(r.content)
               try:
-                  fname = url.split('/')[-1][-80:]
-                  rr = s.get(url, timeout=90)
-                  if len(rr.content) < 10000: return None
-                  open('/tmp/t.pdf','wb').write(rr.content)
-                  reader = PdfReader('/tmp/t.pdf')
-                  txt = ""
-                  for pg in reader.pages[:20]:
-                      txt += (pg.extract_text() or "") + "\n"
-                  if len(txt) < 500: return None
-                  chunks = splitter.split_text(txt)
-                  out = ""
-                  for ch in chunks:
-                      out += f"SOURCE: {fname}\nURL: {url}\n{ch}\n---\n"
-                  return (fname, out)
-              except:
-                  return None
+                reader = PdfReader('/tmp/t.pdf')
+                text = ""
+                for pg in reader.pages[:18]:
+                  text += (pg.extract_text() or "") + "\n"
+              except: return None
+              if len(text) < 400: return None
+              fname = urllib.parse.unquote(url.split('/')[-1])
+              chunks = splitter.split_text(text)
+              out = ""
+              for ch in chunks:
+                out += f"SOURCE: {fname}\nURL: {url}\n{ch}\n---\n"
+              return (fname, out)
+            except: return None
 
           results = []
-          print("Starting download with 12 workers...")
-          with concurrent.futures.ThreadPoolExecutor(max_workers=12) as ex:
-              futs = [ex.submit(process, u) for u in new_urls[:500]]
-              for f in concurrent.futures.as_completed(futs):
-                  r = f.result()
-                  if r:
-                      results.append(r)
-                      print(f"  OK {len(results)}: {r[0]}")
+          print(f"Starting with 20 workers, target 350 PDFs this run...")
+          with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
+            futs = [ex.submit(download_one, u) for u in new_urls]
+            for fut in concurrent.futures.as_completed(futs):
+              res = fut.result()
+              if res:
+                results.append(res)
+                print(f"  [{len(results)}/350] OK {res[0]}")
+                if len(results) >= 350:
+                  break
 
-          print(f"\nFINAL: Downloaded {len(results)} new PDFs")
+          print(f"\nFINAL this run: {len(results)} new PDFs downloaded")
+
           if results:
-              combined = "\n".join([r[1] for r in results])
-              # next part
-              max_part = -1
-              for fn in os.listdir('.'):
-                  m = re.match(r'master_imo_all_public_part(\d+)\.txt', fn)
-                  if m: max_part = max(max_part, int(m.group(1)))
-              next_file = f'master_imo_all_public_part{max_part+1}.txt'
-              open(next_file, 'w', encoding='utf-8').write(combined)
-              print(f"Saved to {next_file} size {len(combined)}")
+            combined = "\n".join([r[1] for r in results])
+            max_part = -1
+            for fn in os.listdir('.'):
+              m = re.match(r'master_imo_all_public_part(\d+)\.txt', fn)
+              if m: max_part = max(max_part, int(m.group(1)))
+            next_file = f'master_imo_all_public_part{max_part+1}.txt'
+            open(next_file, 'w', encoding='utf-8').write(combined)
+            print(f"Saved {len(results)} PDFs to {next_file} - {len(combined)//1024} KB")
+          else:
+            print("No new file this batch, next run will try next 1200 URLs")
           PY
-      - name: Push
+      - name: Push to repo
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add master_imo_all_public_part*.txt || true
-          git commit -m "add 300+ real IMO from index PDFs" || true
+          git commit -m "add 300+ IMO - full capture run" || true
           git push || true
