@@ -1,0 +1,666 @@
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+RESOLUTION MSC.518(105) (adopted on 28 April 2022)  
+MODEL REGULATIONS ON DOMESTIC FERRY SAFETY MSC 105/20/Add.2 
+Annex 26, page 1 
+ 
+ 
+I:\MSC\105\MSC 105-20-Add.2.docx 
+ 
+ANNEX 26 
+ 
+RESOLUTION MSC.518(105) 
+(adopted on 28 April 2022) 
+ 
+MODEL REGULATIONS ON DOMESTIC FERRY SAFETY 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the functions of the Committee, 
+ 
+BEING DEEPLY CONCERNED with the high number of lives lost through domestic ferry 
+accidents around the world, 
+ 
+RECOGNIZING that issues concerning domestic ferry safety are international and collective 
+in nature which require accelerated measures to fill a critical gap in the regulatory framework 
+concerning domestic ferries, 
+ 
+RECOGNIZING ALSO the need to provide a set of recommendatory framework mode l 
+regulations for consideration by Member States to incorporate relevant provisions, as 
+appropriate, into their national legislation,
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+regulations for consideration by Member States to incorporate relevant provisions, as 
+appropriate, into their national legislation, 
+ 
+ACKNOWLEDGING that the Model Regulations on Domestic Ferry Safety are to be used on 
+a voluntary basis to improve domestic ferry safety, 
+ 
+HAVING APPROVED, at its 104th session, the Model Regulations on Domestic Ferry Safety, 
+ 
+1 ADOPTS the Model Regulations on Domestic Ferry Safety, the text of which is set 
+out in the annex to the present resolution; 
+ 
+2 ENCOURAGES Member State s to use the recommendatory Model Regulations on 
+Domestic Ferry Safety based on risk analysis, in whole or in part, as a basis for:  
+ 
+.1 developing national legislation governing domestic ferry safety, 
+ 
+.2 bilateral or multilateral agreements governing the safe operation of domestic 
+ferries in their respective waters; 
+ 
+3 URGES Member States and other stakeholders to take accelerated measures
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+ferries in their respective waters; 
+ 
+3 URGES Member States and other stakeholders to take accelerated measures 
+towards improving domestic ferry safety through, inter alia, the domestication and 
+implementation of Model Regulations on Domestic Ferry Safety; 
+ 
+4 REQUESTS Member States to inform the Secretary-General upon the domestication 
+and implementation of the Model Regulations on Domestic Ferry Safety; 
+ 
+5 ALSO REQUESTS the Secretary-General to bring this resolution and its annex to the 
+attention of all Member States and other stakeholders. 
+  
+RESOLUTION MSC.518(105) (adopted on 28 April 2022)  
+MODEL REGULATIONS ON DOMESTIC FERRY SAFETY MSC 105/20/Add.2 
+Annex 26, page 2 
+ 
+I:\MSC\105\MSC 105-20-Add.2.docx 
+ANNEX  
+ 
+MODEL REGULATIONS ON DOMESTIC FERRY SAFETY 
+ 
+PREAMBLE 
+ 
+ 
+1 These model regulations (a) provide framework provisions on domestic ferry safety 
+for incorporation into national law; (b) do not promulgate provisions on facilitation, security, and
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+for incorporation into national law; (b) do not promulgate provisions on facilitation, security, and 
+pollution; (c) are drafted in a way to enable easy translation and incorporation into national law; 
+and (d) may serve as a basis for intergovernmental agreements, whether multilateral, bilateral 
+or regional. 
+ 
+2 The incorporation of model regulations into national law by interested countries is 
+purely voluntary and recommendatory and it is the prerogative of those countries to decide on 
+their incorporation in their national law. 
+ 
+3 The modality through which these regulations are to be implemented is left to the 
+competent authority, thereby encouraging, inter alia, indigenous solutions which may be  
+low-cost yet fit  for purpose, taking into account developments in the Organization.  
+The competent authority may delegate a responsibility to a recognized organization, an 
+equivalent domestic entity or a nominated surveyor.
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+The competent authority may delegate a responsibility to a recognized organization, an 
+equivalent domestic entity or a nominated surveyor. 
+ 
+4 A domestic ferry when in compliance with these regulations may move from the 
+domestic waters of one cou ntry directly to another subject to bilateral or multilateral 
+agreement(s) between the countries concerned. 
+ 
+ARTICLE 1 
+Application 
+ 
+These regulations shall apply to domestic ferries which operate in domestic waters as identified 
+by the competent authority and as shown in annex 1. 
+ 
+ARTICLE 2 
+General 
+ 
+1 These regulations shall be complied with by all entities associated with the 
+construction, modification, conversion, management and operational safety of domestic ferry, 
+and education and training of crew on board and shore personnel.  
+ 
+2 The competent authority may take measures to protect, preserve and promote safe 
+and secure ways of development and construction of craft and means of transport in domestic 
+waters.
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+and secure ways of development and construction of craft and means of transport in domestic 
+waters. 
+ 
+Use of terminology 
+ 
+The words "shall", "should" and "may" when used in these regulations mean "mandatory", 
+"recommendatory" and "optional", respectively. 
+ 
+RESOLUTION MSC.518(105) (adopted on 28 April 2022)  
+MODEL REGULATIONS ON DOMESTIC FERRY SAFETY MSC 105/20/Add.2 
+Annex 26, page 3 
+ 
+ 
+I:\MSC\105\MSC 105-20-Add.2.docx 
+Definitions  
+ 
+For the purposes of these regulations: 
+ 
+Certificated officer  means an officer holding a valid certificate of competency issued by an 
+accredited institution and recognized by the competent authority. 
+ 
+Chief engineer means a certificated officer in possession of a certificate of competency 
+corresponding to the rank and responsible for the efficient running and maintenance of all 
+machinery and electrical equipment on the domestic ferry.  
+ 
+Competent authority means a government entity responsible for the implementation of these
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+Competent authority means a government entity responsible for the implementation of these 
+regulations. 
+ 
+Crew means any person including the master working on or operating the domestic ferry. 
+ 
+Dangerous goods mean any goods including personal belongings covered by the provisions 
+of the International Maritime Dangerous Goods Code. 
+ 
+Deadweight tonnage means the maximum carrying capacity, in tonnes, of the domestic ferry. 
+ 
+Displacement means the mass of water, in tonnes, displaced at any particular draught. 
+ 
+Domestic ferry means a craft of any type and construction, using any means of propulsion, 
+intended for the carriage of passengers and their belongings, including accompanied or 
+unaccompanied freight units, over water only within domestic waters and certified as such by 
+the competent authority. 
+ 
+Domestic waters  mean waters in which domestic ferries may operate, clearly identified, 
+designated and promulgated as such by the competent authority.
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+designated and promulgated as such by the competent authority. 
+ 
+Draught means the vertical distance from the keel amidships to the waterline. 
+ 
+Exception means any provision enacted by the competent authority through a decree which 
+gives blanket relief to certain types of domestic ferries from compliance with these regulations. 
+ 
+Exemption means any provision enacted by the competent authority in writing which gives 
+relief from any obligation or liability imposed by these regulations. 
+ 
+Gross tonnage  means the measure of the overall size of a domestic ferry determined in 
+accordance wit h the provisions of the present International Convention on Tonnage 
+Measurement of Ships. 
+ 
+High-speed domestic ferry means a high-speed craft capable of carrying passengers and as 
+defined in SOLAS, chapter X. 
+ 
+Marine casualty  means an event, or a sequence of events, that has resulted in any of the
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+defined in SOLAS, chapter X. 
+ 
+Marine casualty  means an event, or a sequence of events, that has resulted in any of the 
+following which has occurred directly in connection with the operations of a domestic ferry: 
+ 
+.1 the death of, or serious injury to, a person; 
+ 
+.2 the loss of a person from a domestic ferry; 
+ 
+.3 the loss, presumed loss or abandonment of a domestic ferry; 
+RESOLUTION MSC.518(105) (adopted on 28 April 2022)  
+MODEL REGULATIONS ON DOMESTIC FERRY SAFETY MSC 105/20/Add.2 
+Annex 26, page 4 
+ 
+I:\MSC\105\MSC 105-20-Add.2.docx 
+.4     material damage to a domestic ferry; 
+ 
+.5 the stranding or disabling of a domestic ferry, or the involvement of a 
+domestic ferry in a collision; 
+ 
+.6 material damage to marine infrastructure external to a domestic ferry  that 
+could seriously endanger the safety of the domestic ferry, another ship or an 
+individual; or 
+ 
+.7 severe damage to the environment, or the potential for severe damage to the
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+individual; or 
+ 
+.7 severe damage to the environment, or the potential for severe damage to the 
+environment, brought about by the  damage of a domestic ferry or domestic 
+ferries. 
+ 
+However, a marine casualty does not include a deliberate act or omission, with the 
+intention to cause harm to the safety of a domestic ferry, an individual or the 
+environment. 
+ 
+Marine incident means an event, or sequence of events, other than a marine casualty, which 
+has occurred directly in connection with the operations of a domestic ferry that endangered, 
+or, if not corrected, would endanger the safety of the domestic ferry, its occupants or any other 
+person or the environment. 
+ 
+Master means an officer in possession of a certificate of competency corresponding to the rank 
+and having command or charge of the domestic ferry. 
+ 
+Net tonnage  means the measure of the useful capacity of a domestic ferry determ ined in
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+and having command or charge of the domestic ferry. 
+ 
+Net tonnage  means the measure of the useful capacity of a domestic ferry determ ined in 
+accordance with the provisions of the present International Convention on Tonnage 
+Measurement of Ships. 
+ 
+Nuclear domestic ferry means a domestic ferry provided with a nuclear power plant. 
+ 
+Organization means the International Maritime Organization. 
+ 
+Passenger means any person on board the domestic ferry other than the master and crew 
+members. 
+ 
+Recognized organization  means an organization that has been assessed by, and found to 
+comply with the standards acceptable to, the competent auth ority. A recognized organization 
+may be authorized to carry out surveys, issue certificates and undertake any other activity 
+required per these regulations at the request and on behalf of the competent authority. 
+ 
+Seaworthy means fit to undertake the in tended voyage without danger to the domestic ferry,
+---
+SOURCE: MSC.518(105).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.518(105).pdf
+Seaworthy means fit to undertake the in tended voyage without danger to the domestic ferry, 
+environment or persons and complying with the provisions of these regulations in all aspects. 
+ 
+ARTICLE 3 
+Safety culture 
+ 
+The competent authority shall put in place effective mechanisms to promote and strengthen 
+safety culture in all areas of domestic ferry operations. 
+ 
+RESOLUTION MSC.518(105) (adopted on 28 April 2022)  
+MODEL REGULATIONS ON DOMESTIC FERRY SAFETY
+---
+
+SOURCE: MSC.493(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.493(104).pdf
+RESOLUTION MSC.493(104) (adopted on 7 October 2021) 
+AMENDMENTS TO THE PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs) (RESOLUTION MSC.163(78), AS AMENED)MSC 104/18/Add.2 
+Annex 28, page 1 
+ 
+MSC 104-18-Add.2.docx  
+ANNEX 28 
+ 
+RESOLUTION MSC.493(104) 
+(adopted on 7 October 2021) 
+ 
+AMENDMENTS TO THE PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs) (RESOLUTION MSC.163(78), AS AMENDED) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE,  
+  
+RECALLING Article 28(b) of the Convention on the International Mariti me Organization 
+concerning the functions of the Committee,  
+  
+RECALLING ALSO resolution A.886(21), by which the Assembly resolved that the 
+functions of adopting performance standards for radio and navigational equipment, as well 
+as amendments thereto, shall be performed by the Maritime Safety Committee on behalf 
+of the Organization,  
+ 
+RECALLING FURTHER the Performance stand ards for ship borne si mplified voyage data
+---
+SOURCE: MSC.493(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.493(104).pdf
+of the Organization,  
+ 
+RECALLING FURTHER the Performance stand ards for ship borne si mplified voyage data 
+recorders (S -VDRs) adopted by resolution MSC.163(78),  as amended by resolution 
+MSC.214(81), 
+ 
+TAKING INTO ACCOUNT the Performance standards for float -free emergency 
+position-indicating radio beacons (EPIRBs) operating on  406 MHz , adopted by resolution 
+MSC.471(101), which are applicable to float -free EPIRBs operating in the frequency 
+band 406.0-406.1 MHz which form part of the Global Maritime Distress and Safety System 
+(GMDSS), installed on or after 1 July 2022, 
+ 
+RECOGNIZING the need to amend resolution MSC.163(78) , as amended,  with respect to 
+float-free recording medium to effect consequential amend ments related to the adoption of 
+resolution MSC.471(101), 
+ 
+HAVING CONSIDERED, at its 104th session, the recommendation made by the 
+Sub-Committee on Navigation, Communications and Search and Rescue, at its eighth 
+session,
+---
+SOURCE: MSC.493(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.493(104).pdf
+Sub-Committee on Navigation, Communications and Search and Rescue, at its eighth 
+session, 
+  
+1 ADOPTS the Amendments to the Pe rformance standards for shipborne simplified 
+voyage data recorders (S-VDRs), set out in the annex to the present resolution;  
+  
+2  RECOMMENDS Governments to ensure that S-VDRs: 
+ 
+.1 if installed on or after 1 July 2022, conform to performance standards not 
+inferior to those specified in the annex to resolution MSC.163(78),  
+as amended by resolution MSC.214(81) and the present resolution;  
+ 
+.2 if installed on or after 1 June 2008, but before 1 July 2022, conform to 
+performance standards not inferior to those specified in the annex to 
+resolution MSC.163(78), as amended by resolution MSC.214(81); and 
+ 
+.3 if installed before 1 June 2008, conform to performance standards not inferior 
+to those specified in the annex to resolution MSC.163(78). 
+ 
+  
+RESOLUTION MSC.493(104) (adopted on 7 October 2021)
+---
+SOURCE: MSC.493(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.493(104).pdf
+to those specified in the annex to resolution MSC.163(78). 
+ 
+  
+RESOLUTION MSC.493(104) (adopted on 7 October 2021) 
+AMENDMENTS TO THE PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs) (RESOLUTION MSC.163(78), AS AMENED)MSC 104/18/Add.2 
+Annex 28, page 2 
+ 
+MSC 104-18-Add.2.docx 
+ANNEX 
+ 
+AMENDMENTS TO THE PERFORMANCE STANDARDS FOR SHIPBORNE 
+SIMPLIFIED VOYAGE DATA RECORDERS (S-VDRs) 
+ 
+ 
+1 In paragraph 3.2:  
+ 
+.1 resolutions A.810(19) and A.812(19) are deleted from the list; and 
+ 
+.2 the following resolution is added to the list: 
+ 
+ʺ- MSC.471(101) Performance standards for float -free emergency 
+position-indicating radio beacons (EPIRBs) operating 
+on 406 MHzʺ 
+ 
+2 Paragraph 5.1.3.3 is replaced by the following: 
+ 
+ʺ5.1.3.3 The float-free type protective capsule should: 
+ 
+.1 be fitted with means to facilitate grappling and recovery; 
+ 
+.2 be so constructed as to comply with the requirements specified in
+---
+SOURCE: MSC.493(104).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.493(104).pdf
+.1 be fitted with means to facilitate grappling and recovery; 
+ 
+.2 be so constructed as to comply with the requirements specified in 
+resolution MSC.471(101) and to minimize risk of damage during recovery 
+operations; and 
+ 
+.3  the device should be capable of transmitting an initial satellite distress 
+alerting signal and further locating and homing signals over a period of not 
+less than seven days/168 hours.ʺ 
+ 
+ 
+*** 
+ 
+RESOLUTION MSC.493(104) (adopted on 7 October 2021) 
+AMENDMENTS TO THE PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs) (RESOLUTION MSC.163(78), AS AMENED)RESOLUTION MSC.493(104) (adopted on 7 October 2021) 
+AMENDMENTS TO THE PERFORMANCE STANDARDS FOR SHIPBORNE SIMPLIFIED 
+VOYAGE DATA RECORDERS (S-VDRs) (RESOLUTION MSC.163(78), AS AMENED)
+---
+
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+RESOLUTION MSC.458(101)  (adopted on 13 June 2019) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR SHIPS USING 
+GASES OR OTHER LOW-FLASHPOINT FUELS (IGF CODE) 
+RESOLUTION MSC.458(101) 
+(adopted on 13 June 2019) 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR SHIPS USING 
+GASES OR OTHER LOW-FLASHPOINT FUELS (IGF CODE) 
+ 
+ 
+THE MARITIME SAFETY COMMITTEE, 
+ 
+RECALLING Article 28(b) of the Convention on the International Maritime Organization 
+concerning the function of the Committee, 
+ 
+RECALLING ALSO resolution MSC.391(95), by which it adopted the International Code of 
+Safety for Ships using Gases or other  Low-flashpoint Fuels ( "the IGF Code "), which has 
+become mandatory under chapter II-1 of the International Convention for the Safety of Life at 
+Sea (SOLAS), 1974 ("the Convention"), 
+ 
+RECALLING FURTHER article VIII(b) and regulation II -1/2.29 of the Convention concerning 
+the procedure for amending the IGF Code,
+---
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+RECALLING FURTHER article VIII(b) and regulation II -1/2.29 of the Convention concerning 
+the procedure for amending the IGF Code, 
+ 
+HAVING CONSIDERED, at its 101st session, amendments to the IGF Code proposed and 
+circulated in accordance with article VIII(b)(i) of the Convention, 
+ 
+1 ADOPTS, in accordance with article VIII(b)(iv) of the Convention, amendments to the 
+IGF Code, the text of which is set out in the annex to the present resolution; 
+ 
+2 DETERMINES, in accordance with article VIII(b)(vi)(2)(bb) of the Convention, that the 
+amendments shall be deemed to have been accepted on 1 July 2023 unless, prior to that date, 
+more than one third of the Contracting Governments to the Convention or  Contracting 
+Governments the combined merchant fleets of which constitute not less than 50% of the gross 
+tonnage of the world's merchant fleet, have notified their objections to the amendments; 
+ 
+3 INVITES Contracting Governments to note that, in accordance with
+---
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+3 INVITES Contracting Governments to note that, in accordance with 
+article VIII(b)(vii)(2) of the Convention, the amendments shall enter into force 
+on 1 January 2024 upon their acceptance in accordance with paragraph 2 above; 
+ 
+4 REQUESTS the Secretary -General, in conformity with article VIII(b)(v) of the 
+Convention, to transmit certified cop ies of the present resolution and the text of the 
+amendments contained in the annex to all Contracting Governments to the Convention; 
+ 
+5 REQUESTS ALSO the Secretary-General to transmit copies of this resolution and its 
+annex to Members of the Organization,  which are not Contracting Governments to the 
+Convention. 
+ 
+RESOLUTION MSC.458(101)  (adopted on 13 June 2019) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR SHIPS USING 
+GASES OR OTHER LOW-FLASHPOINT FUELS (IGF CODE)- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR SHIPS USING 
+GASES OR OTHER LOW-FLASHPOINT FUELS (IGF CODE) 
+ 
+PART A 
+ 
+ 
+2 GENERAL
+---
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+ANNEX 
+ 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR SHIPS USING 
+GASES OR OTHER LOW-FLASHPOINT FUELS (IGF CODE) 
+ 
+PART A 
+ 
+ 
+2 GENERAL 
+ 
+2.2 Definitions 
+ 
+1 The following new paragraph 2.2.42 is introduced after existing paragraph 2.2.41: 
+ 
+"2.2.42 Ship constructed on or after 1 January 2024 means: 
+ 
+.1 for which the building contract is placed on or after 1 January 2024; 
+or 
+ 
+.2 in the absence of a building contract, the keels of which are laid or 
+which are at a similar stage of construction on or after 1 July 2024; 
+or 
+ 
+.3 the delivery of which is on or after 1 January 2028." 
+ 
+PART A-1 
+ 
+SPECIFIC REQUIREMENTS FOR SHIPS USING NATURAL GAS AS FUEL 
+ 
+5 SHIP DESIGN AND ARRANGEMENT 
+ 
+5.3 Regulations – General 
+ 
+2 The text defining fv in paragraph 5.3.4.2 is replaced by the following: 
+ 
+"fv is calculated by use of the formulations for factor v contained in 
+SOLAS regulation II-1/7-2.6.1.1 and reflects  the probability that the damage is
+---
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+SOLAS regulation II-1/7-2.6.1.1 and reflects  the probability that the damage is 
+extending vertically above the lowermost boundary of the fuel tank. The formulations 
+to be used are:" 
+ 
+6 FUEL CONTAINMENT SYSTEM 
+ 
+6.8 Regulations on loading limit for liquefied gas fuel tanks 
+ 
+3 The following regulation is added after existing regulation 6.8.2: 
+ 
+"6.8.3 For ships constructed on or after 1 January 2024 , in cases where the tank 
+insulation and tank location make the probability very small for the tank contents to 
+be heated up due to an external fire, special considerations may be made to allow a 
+higher loading limit than calculated using the reference temperature, but never above 
+95%." 
+ 
+RESOLUTION MSC.458(101)  (adopted on 13 June 2019) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR SHIPS USING 
+GASES OR OTHER LOW-FLASHPOINT FUELS (IGF CODE)- 3 - 
+ 
+9 FUEL SUPPLY TO CONSUMERS 
+ 
+9.5 Regulations for fuel distribution outside of machinery space
+---
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+9 FUEL SUPPLY TO CONSUMERS 
+ 
+9.5 Regulations for fuel distribution outside of machinery space 
+ 
+4 The following regulations are added after existing regulation 9.5.2: 
+ 
+"9.5.3 The requirements in 9.5.4 to 9.5.6 shall apply to ships constructed on or after  
+1 January 2024 in lieu of the requirements in 9.5.1 and 9.5.2. 
+ 
+9.5.4 Where gaseous fuel pipes pass through enclosed spaces in the ship, they shall 
+be protected by a secondary enclosure. This enclosure can be a ventilated duct or a 
+double wall piping system. The duct or double wall piping system shall be mechanically 
+under pressure ventilated with 30 air changes per hour, and gas detection as required 
+in 15.8 shall be provided. Other solutions providing an equivalent safety level may also 
+be accepted by the Administration. 
+ 
+9.5.5 The requirement in 9.5.4 need not be applied for fully welded fuel gas vent 
+pipes led through mechanically ventilated spaces.
+---
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+9.5.5 The requirement in 9.5.4 need not be applied for fully welded fuel gas vent 
+pipes led through mechanically ventilated spaces. 
+ 
+9.5.6 Liquefied fuel pipes shall be protected by a secondary enclosure able to 
+contain leakages. If the piping system is in a fuel preparation room or a tank 
+connection space, the Administration may waive this require ment. Where gas 
+detection as required in 15.8.1.2 is not fit for purpose, the secondary enclosures 
+around liquefied fuel pipes shall be provided with leakage detection by means of 
+pressure or temperature monitoring systems, or any combination thereof. 
+The secondary enclosure shall be able to withstand the maximum pressure that may 
+build up in the enclosure in case of leakage from the fuel piping. For this purpose, the 
+secondary enclosure may need to be arranged with a pressure relief system that 
+prevents th e enclosure from being subjected to pressures above their design 
+pressures."
+---
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+prevents th e enclosure from being subjected to pressures above their design 
+pressures." 
+ 
+10 POWER GENERATION INCLUDING PROPULSION AND OTHER GAS 
+CONSUMERS 
+ 
+10.3 Regulations for internal combustion engines of piston type 
+ 
+5 New regulation 10.3.1.1.1 is added after existing regulation 10.3.1.1 as follows: 
+ 
+"10.3.1.1.1 For ships constructed on or after 1 January 2024, the exhaust system shall 
+be equipped with explosion relief systems unless designed to accommodate the worst 
+case overpressure due to ignited gas leaks o r justified by the safety concept of the 
+engine. A detailed evaluation of the potential for unburnt gas in the exhaust system is 
+to be undertaken covering the complete system from the cylinders up to the open end. 
+This detailed evaluation shall be reflected in the safety concept of the engine." 
+ 
+11 FIRE SAFETY 
+ 
+11.3 Regulations for fire protection 
+ 
+6 Regulation 11.3.3 is replaced by the following:
+---
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+11 FIRE SAFETY 
+ 
+11.3 Regulations for fire protection 
+ 
+6 Regulation 11.3.3 is replaced by the following: 
+ 
+"11.3.3 The space containing the fuel containment system shall be separated from 
+the machinery spaces of category A or other rooms with high fire risks. The separation 
+shall be done by a cofferdam of at least 900 mm with insulation of A -60 class. 
+When determining the insulation of the space containing the fuel containment system 
+RESOLUTION MSC.458(101)  (adopted on 13 June 2019) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR SHIPS USING 
+GASES OR OTHER LOW-FLASHPOINT FUELS (IGF CODE)- 4 - 
+ 
+from other spaces with lower fire risks, the fuel containment system shall be 
+considered as a machinery space of category A, in accordance with SOLAS 
+regulation II-2/9. For type C tanks, the fuel storage hold space may be considered as 
+a cofferdam." 
+ 
+7 The following new regulation 11.3.3.1 is added after regulation 11.3.3:
+---
+SOURCE: MSC.458(101).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.458(101).pdf
+a cofferdam." 
+ 
+7 The following new regulation 11.3.3.1 is added after regulation 11.3.3: 
+ 
+"11.3.3.1 Notwithstanding the last sentence  in 11.3.3, for ships constructed on or 
+after 1 January 2024, the fuel storage hold space may be considered as a cofferdam 
+provided that: 
+ 
+.1 the type C tank is not located directly above machinery spaces of 
+category A or other rooms with high fire risk; and 
+ 
+.2 the minimum distance to the A-60 boundary from the outer shell of 
+the type C tank or the boundary of the tank connection space, if any, 
+is not less than 900 mm." 
+ 
+ 
+___________ 
+RESOLUTION MSC.458(101)  (adopted on 13 June 2019) 
+AMENDMENTS TO THE INTERNATIONAL CODE OF SAFETY FOR SHIPS USING 
+GASES OR OTHER LOW-FLASHPOINT FUELS (IGF CODE)
+---
