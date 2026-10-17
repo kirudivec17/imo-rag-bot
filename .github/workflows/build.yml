@@ -1,5 +1,7 @@
 name: Build 1000+ ALL IMO
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+
 permissions:
   contents: write
 
@@ -8,12 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 360
     steps:
-      - uses: actions/checkout@v4
-        with: { token: ${{ secrets.GITHUB_TOKEN }} }
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
-      - run: pip install requests pypdf langchain-text-splitters --quiet
-      
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests pypdf langchain-text-splitters --quiet
+
       - name: Build and Update Summary FIX
         run: |
           python - << 'PY'
@@ -25,7 +34,6 @@ jobs:
           s.headers.update({"User-Agent":"Mozilla/5.0"})
           splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
 
-          # FIX: Dono jagah search karo - root aur imo-rag-bot
           all_txt_files = glob.glob('**/master_imo_all_public_part*.txt', recursive=True)
           print(f"Found part files: {all_txt_files}")
 
@@ -33,86 +41,91 @@ jobs:
           total_chunks = 0
           max_part = -1
           processed_till = 12500
-          # summary ka max value yaad rakho taki kabhi kam na ho
           max_old_pdfs = 0
 
           for fn in all_txt_files:
               try:
-                txt = open(fn, encoding='utf-8', errors='ignore').read()
-                total_chunks += txt.count('---')
-                for m in re.findall(r'SOURCE:\s*([^\n]+\.pdf)', txt):
-                  existing.add(m.strip())
-                mm = re.search(r'part(\d+)\.txt', fn)
-                if mm: max_part = max(max_part, int(mm.group(1)))
-              except: pass
+                  txt = open(fn, encoding='utf-8', errors='ignore').read()
+                  total_chunks += txt.count('---')
+                  for m in re.findall(r'SOURCE:\s*([^\n]+\.pdf)', txt):
+                      existing.add(m.strip())
+                  mm = re.search(r'part(\d+)\.txt', fn)
+                  if mm:
+                      max_part = max(max_part, int(mm.group(1)))
+              except:
+                  pass
 
-          # summary files se purana max nikalo
           for sum_file in glob.glob('**/imo_public_summary.txt', recursive=True):
               try:
-                t = open(sum_file).read()
-                m1 = re.search(r'Processed till (\d+)', t)
-                m2 = re.search(r'Total Unique PDFs:\s*(\d+)', t)
-                m3 = re.search(r'Total Chunks:\s*(\d+)', t)
-                if m1: processed_till = max(processed_till, int(m1.group(1)))
-                if m2: max_old_pdfs = max(max_old_pdfs, int(m2.group(1)))
-                if m3: total_chunks = max(total_chunks, int(m3.group(1)))
-              except: pass
+                  t = open(sum_file).read()
+                  m1 = re.search(r'Processed till (\d+)', t)
+                  m2 = re.search(r'Total Unique PDFs:\s*(\d+)', t)
+                  m3 = re.search(r'Total Chunks:\s*(\d+)', t)
+                  if m1:
+                      processed_till = max(processed_till, int(m1.group(1)))
+                  if m2:
+                      max_old_pdfs = max(max_old_pdfs, int(m2.group(1)))
+                  if m3:
+                      total_chunks = max(total_chunks, int(m3.group(1)))
+              except:
+                  pass
 
           print(f"Before CORRECT: {len(existing)} PDFs, real max old={max_old_pdfs}, chunks={total_chunks}")
-
-          # Ab total existing ko max se compare - kabhi kam nahi hone denge
           base_count = max(len(existing), max_old_pdfs)
 
           urls = []
-          base = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions"
-          for n in range(578, 700):  # ab 578 se aage
-            for sess in [106,107,108,109,110,111]:
-              urls.append(f"{base}/MSCResolutions/MSC.{n}({sess}).pdf")
+          base_url = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions"
+          for n in range(578, 700):
+              for sess in [106,107,108,109,110,111]:
+                  urls.append(f"{base_url}/MSCResolutions/MSC.{n}({sess}).pdf")
 
           new_urls = [u for u in urls if urllib.parse.unquote(u.split('/')[-1]) not in existing][:800]
+          print(f"NEW to try: {len(new_urls)}")
 
           def dl(url):
-            try:
-              r = s.get(url, timeout=20)
-              if r.status_code != 200 or len(r.content) < 12000 or r.content[:4] != b'%PDF': return None
-              open('/tmp/t.pdf','wb').write(r.content)
-              reader = PdfReader('/tmp/t.pdf')
-              text = "".join([(p.extract_text() or "") + "\n" for p in reader.pages[:15]])
-              if len(text) < 300: return None
-              fname = urllib.parse.unquote(url.split('/')[-1])
-              out = ""
-              for ch in splitter.split_text(text):
-                out += f"SOURCE: {fname}\nURL: {url}\n{ch}\n---\n"
-              return (fname, out)
-            except: return None
+              try:
+                  r = s.get(url, timeout=20)
+                  if r.status_code != 200 or len(r.content) < 12000 or r.content[:4] != b'%PDF':
+                      return None
+                  open('/tmp/t.pdf','wb').write(r.content)
+                  reader = PdfReader('/tmp/t.pdf')
+                  text = ""
+                  for p in reader.pages[:15]:
+                      text += (p.extract_text() or "") + "\n"
+                  if len(text) < 300:
+                      return None
+                  fname = urllib.parse.unquote(url.split('/')[-1])
+                  out = ""
+                  for ch in splitter.split_text(text):
+                      out += f"SOURCE: {fname}\nURL: {url}\n{ch}\n---\n"
+                  return (fname, out)
+              except:
+                  return None
 
           results = []
           with concurrent.futures.ThreadPoolExecutor(max_workers=25) as ex:
-            futs = [ex.submit(dl, u) for u in new_urls]
-            for f in concurrent.futures.as_completed(futs):
-              r = f.result()
-              if r:
-                results.append(r)
-                print(f"  [{len(results)}] OK {r[0]}")
+              futs = [ex.submit(dl, u) for u in new_urls]
+              for f in concurrent.futures.as_completed(futs):
+                  r = f.result()
+                  if r:
+                      results.append(r)
+                      print(f"  [{len(results)}] OK {r[0]}")
 
           print(f"FINAL Downloaded: {len(results)}")
 
           if results:
-            combined = "\n".join([x[1] for x in results])
-            next_file = f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt"
-            os.makedirs("imo-rag-bot", exist_ok=True)
-            open(next_file, 'w', encoding='utf-8').write(combined)
-            print(f"Saved {next_file}")
+              combined = "\n".join([x[1] for x in results])
+              next_file = f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt"
+              os.makedirs("imo-rag-bot", exist_ok=True)
+              open(next_file, 'w', encoding='utf-8').write(combined)
+              print(f"Saved {next_file}")
 
-          total_unique = base_count + len(results)  # FIX: kabhi kam nahi hoga
+          total_unique = base_count + len(results)
           total_chunks_new = total_chunks + sum([c[1].count('---') for c in results])
           processed_till_new = processed_till + 500
 
-          summary_text = f"""Processed till {processed_till_new}
-Total Unique PDFs: {total_unique}
-Total Chunks: {total_chunks_new}
-Last Batch New: {len(results)}
-"""
+          summary_text = f"Processed till {processed_till_new}\nTotal Unique PDFs: {total_unique}\nTotal Chunks: {total_chunks_new}\nLast Batch New: {len(results)}\n"
+
           open('imo_public_summary.txt','w').write(summary_text)
           open('imo-rag-bot/imo_public_summary.txt','w').write(summary_text)
           print(f"Updated summary FINAL: {total_unique} PDFs")
