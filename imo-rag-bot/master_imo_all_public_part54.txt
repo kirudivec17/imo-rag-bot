@@ -1,0 +1,3113 @@
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+RESOLUTION A.814(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE AVOIDANCE OF FALSE DISTRESS ALERTSINTERNATIONAL MARITIME 
+ORGANIZATION A 19/Res.814 
+15 December 1995 
+Original: ENGLISH 
+ASSEMBLY 
+19th session 
+Agenda item I 0 
+NOT TO BE REMOVED 
+FROM 
+THE IMO LIBRARY 
+RESOLUTION A.814(19) 
+adopted on 23 November 1995 
+GUIDELINES FOR THE AVOIDANCE OF FALSE DISTRESS ALERTS 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships, 
+CONSIDERING problems reported by Member Governments in regard to the proper 
+operation of the GMDSS, in particular that false distress alerts are becoming a major obstacle to the 
+efficient operation of search and rescue (SAR) services, 
+RECALLING that the GMDSS was developed on the basis of resolution 6 of the International
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+efficient operation of search and rescue (SAR) services, 
+RECALLING that the GMDSS was developed on the basis of resolution 6 of the International 
+Conference on Maritime Search and Rescue, 1979, and that according to that resolution the GMDSS 
+should provide, among other things, the essential radio elements of the international SAR plan, 
+NOTING that the excessive amount of false distress alerts imposes a considerable and 
+unnecessary burden on Rescue Co-ordination Centres (RCCs), may have adverse effects on seafarers' 
+confidence in the GMDSS, and could also have a potentially serious impact on real distress situations 
+and on safety of life at sea, 
+BEING AW ARE that, if a substantive reduction in the number of false distress alerts now 
+occurring is not achieved in the near future, the quality and efficiency of SAR organizations may be 
+jeopardized, 
+CONSIDERING that an urgent dissemination of some of the problems which have become
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+jeopardized, 
+CONSIDERING that an urgent dissemination of some of the problems which have become 
+evident to providers of rescue services would help to educate people and organizations involved and 
+eventually contribute to a reduction in the number of false distress alerts, 
+CONSIDERING ALSO that Administrations, manufacturers, educators, users, providers of 
+communications and rescue services, and all others concerned need guidance on ways and means of 
+reducing false distress alerts, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee at its 
+sixty-fifth session, 
+1. ADOPTS the Guidelines for the Avoidance of False Distress Alerts set out in the Annex to 
+the present resolution; 
+2. URGES Governments to bring these Guidelines to the attention of all concerned. 
+1:\ASSEMBL Y\ l 9\RES\814 
+For reasons of economy, this document is printed in a limited number. Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies.
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.814(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE AVOIDANCE OF FALSE DISTRESS ALERTSA 19/Res.814 - 2 - 
+ANNEX 
+GUIDELINES FOR A VOIDING FALSE DISTRESS ALERTS 
+I Administrations should: 
+. I inform shipowners and seafarers about the implications of the rising number of false 
+distress alerts; 
+.2 take steps to enable ships properly to register all GMDSS equipment, and ensure that 
+this registration data is readily available to RCCs; 
+. 3 consider establishing and using national enforcement measures to prosecute those 
+who: 
+.3.1 inadvertently transmit a false distress alert without proper cancellation, or 
+who fail to respond to a distress alert due to misuse or negligence; 
+. 3. 2 repeatedly transmit false distress alerts; and 
+.3.3 deliberately transmit false distress alerts; 
+.4 use the International Telecommunication Union violation reporting process for false
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+.3.3 deliberately transmit false distress alerts; 
+.4 use the International Telecommunication Union violation reporting process for false 
+distress alerts, or for failure to respond to a distress alert relayed from shore-to-ship; 
+.5 ensure that all relevant ship personnel know how GMDSS equipment operates, the 
+importance of avoiding false distress alerts, the steps to be taken to prevent the 
+transmission of such false distress alerts, and the procedures to be followed when a 
+false distress alert has been transmitted; 
+.6 inform type-approval authorities of false distress alert problems, in order to draw their 
+attention to the testing and alerting functions of radio equipment during the type 
+approval process; 
+. 7 urge companies installing radio equipment to ensure that relevant ship personnel are 
+made familiar with the operation of the installed equipment; 
+.8 investigate the cause when a specific model of GMDSS equipment repeatedly
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+made familiar with the operation of the installed equipment; 
+.8 investigate the cause when a specific model of GMDSS equipment repeatedly 
+transmits unwanted distress alerts, and inform the appropriate organizations 
+accordingly; 
+.9 ensure that surveyors and inspectors are informed about GMDSS equipment, and 
+particularly about how to operate and test it without transmitting a false distress alert; 
+and 
+.10 require that GMDSS radio operators be appropriately certificated. 
+I:\ASSEMBL Y\l 9\RES\814 
+RESOLUTION A.814(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE AVOIDANCE OF FALSE DISTRESS ALERTS- 3 - A 19/Res.814 
+2 Manufacturers, suppliers and installers should: 
+.1 design equipment for distress alerting so that: 
+.1. 1 it will not be possible to transmit a distress alert unintentionally; 
+.1.2 the panel for emergency operation is separated from the one for normal 
+operation and is partially fitted with a cover, and the switches on the panel are
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+operation and is partially fitted with a cover, and the switches on the panel are 
+clearly classified by colouring; and 
+. 1. 3 there are standardized arrangements of operation panels and operational 
+procedures; 
+.2 design test features so that the testing of GMDSS equipment will not result in the 
+transmission of false distress alerts; 
+.3 ensure that any distress alert activation is indicated visually or acoustically, or both, 
+and shows that the equipment is transmitting a distress alert until manually 
+deactivated; 
+.4 ensure that the satellite EPIRB position on board, installations (including the release 
+and activation mechanisms) and handling procedures preclude unwanted activation 
+( designing the EPIRB so that when it is out of its bracket it must also be immersed in 
+water to activate automatically, and so that, when operated manually, a two-step 
+activation action is required); 
+. 5 provide clear and precise operational instructions that are easy to understand
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+activation action is required); 
+. 5 provide clear and precise operational instructions that are easy to understand 
+(maintenance and operational instructions should be separated, and should be written 
+both in English and in any other language deemed necessary); 
+. 6 ensure that when any GMDSS equipment has been installed, the necessary 
+instructions are given to ship personnel, drawing specific attention to operational 
+procedures (a record should be kept that such instructions have been given); and 
+. 7 ensure that supply and installation personnel understand how the GMDSS works, and 
+the consequences of transmitting a false distress alert. 
+3 Trainers and educators should: 
+.1 ensure that maritime education centres are informed about false distress alert 
+problems and their implications for SAR, the GMDSS, etc., and procedures to be 
+followed if a false distress alert is transmitted, and include them in their teaching 
+programmes;
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+followed if a false distress alert is transmitted, and include them in their teaching 
+programmes; 
+.2 obtain and use actual case histories as examples; 
+.3 emphasize the need to avoid false distress alerts; and 
+.4 ensure that no inadvertent transmission of a false distress alert occurs when training 
+on GMDSS equipment. 
+l:\ASSEMBLY\l 9\RES\814 
+RESOLUTION A.814(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE AVOIDANCE OF FALSE DISTRESS ALERTSA 19/Res.814 - 4 - 
+4 Companies, masters and seafarers should, as appropriate: 
+.1 ensure that all GMDSS certificated personnel responsible for sending a distress alert 
+have been instructed about, and are competent to operate, the particular radio 
+equipment on the ship; 
+.2 ensure that the person or persons responsible for communications during distress 
+incidents give the necessary instructions and information to all crew members on how 
+to use GMDSS equipment to send a distress alert;
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+incidents give the necessary instructions and information to all crew members on how 
+to use GMDSS equipment to send a distress alert; 
+.3 ensure that as part of each "abandon ship" drill, instruction is given on how 
+emergency equipment should be used to provide GMDSS functions; 
+.4 ensure that GMDSS equipment testing is only undertaken under the supervision of the 
+person responsible for communications during distress incidents; 
+. 5 ensure that GMDSS equipment testing or drills are never allowed to cause false 
+distress alerts; 
+. 6 ensure that encoded identities of satellite EPIRBs, which are used by SAR personnel 
+responding to emergencies, are properly registered in a database accessible 24 hours a 
+day or automatically provided to SAR authorities (masters should confirm that their 
+EPIRBs have been registered with such a database, to help SAR services identify the 
+ship in the event of distress and rapidly obtain other information which will enable
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+ship in the event of distress and rapidly obtain other information which will enable 
+them to respond appropriately); 
+. 7 ensure that EPIRB, Inmarsat and DSC registration data is immediately updated if 
+there is any change in information relating to the ship such as owner, name or flag, 
+and that the necessary action is taken to reprogramme the ship's new data in the 
+GMDSS equipment concerned; 
+. 8 ensure that, for new ships, positions for installing EPIRBs are considered at the 
+earliest stage of ship design and construction; 
+. 9 ensure that satellite EPIRBs are carefully installed in accordance with manufacturers' 
+instructions and using qualified personnel (sometimes satellite EPIRBs are damaged 
+or broken due to improper handling or installation. They must be installed in a 
+location that will enable them to float free and automatically activate if the ship sinks. 
+Care must be taken to ensure that they are not tampered with or accidentally activated.
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+Care must be taken to ensure that they are not tampered with or accidentally activated. 
+If the coding has to be changed or the batteries serviced, manufacturers' requirements 
+must be strictly followed. There have been cases where EPIRB lanyards were 
+attached to the ship so that the EPIRB could not float free; lanyards are only to be 
+used by survivors for securing the EPIRB to a survival craft or person in water); 
+.10 ensure that EPIRBs are not activated if assistance is already immediately available 
+(EPIRBs are intended to call for assistance if the ship is unable to obtain help by other 
+means, and to provide position information and homing signals for SAR units); 
+.11 ensure that, if a distress alert has been accidentally transmitted, the ship makes every 
+reasonable attempt to communicate with the RCC by any means to cancel the false 
+distress alert using the procedures given in the appendix; 
+I:\ASSEMBLY\19\RES\814 
+RESOLUTION A.814(19)  adopted on 23 November 1995
+---
+SOURCE: A.814(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.814(19).pdf
+distress alert using the procedures given in the appendix; 
+I:\ASSEMBLY\19\RES\814 
+RESOLUTION A.814(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE AVOIDANCE OF FALSE DISTRESS ALERTS- 5 - A 19/Res.814 
+.12 ensure that, if possible, after emergency use, the EPIRB is retrieved and deactivated; 
+and 
+. 13 ensure that when an EPIRB is damaged and needs to be disposed of, if a ship is sold for 
+scrap, or if for any other reason a satellite EPIRB will no longer be used, the satellite 
+EPIRB is made inoperable, either by removing its battery and, if possible, returning it 
+to the manufacturer, or by demolishing it. 
+Note: If the EPIRB is returned to the manufacturer, it should be wrapped in tin foil to 
+prevent transmission of signals during shipment. 
+I:\ASSEMBL Y\l 9\RES\814 
+RESOLUTION A.814(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE AVOIDANCE OF FALSE DISTRESS ALERTS
+---
+
+SOURCE: MEPC.314(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.314(74).pdf
+RESOLUTION MEPC.314(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973,  
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO Amendments to MARPOL Annexes I, II and V (Electronic Record Books) 
+RESOLUTION MEPC.314(74) 
+(adopted on 17 May 2019) 
+ 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE 
+PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE 
+PROTOCOL OF 1978 RELATING THERETO 
+ 
+Amendments to MARPOL Annexes I, II and V 
+ 
+(Electronic Record Books) 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee conferred upon it 
+by international conventions for the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO article 16 of the International Convention fo r the Prevention of Pollution
+---
+SOURCE: MEPC.314(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.314(74).pdf
+RECALLING ALSO article 16 of the International Convention fo r the Prevention of Pollution 
+from Ships,  1973, as modified by the Protocol  of 1978 relating thereto (MARPOL), which 
+specifies the amendment procedure and confers upon the appropriate body of the 
+Organization the function of considering and adopting amendments thereto, 
+ 
+HAVING CONSIDERED, at its seventy -fourth session, proposed amendments to MARPOL 
+Annexes I, II and V concerning Electronic Record Books, which were circulated in accordance 
+with article 16(2)(a) of MARPOL, 
+ 
+1 ADOPTS, in accordance with article 16(2)(d) of MARPOL, amendments to MARPOL 
+Annexes I, II and V, the text of which is set out in the annex to the present resolution; 
+ 
+2 DETERMINES, in accordance with article 16(2)(f)(iii) of MARPOL, that  the 
+amendments shall be deemed to have been accepted on 1 April 2020 unless, prior to that date, 
+not less than one third of the Parties or Parties the combined merchant fleets of which
+---
+SOURCE: MEPC.314(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.314(74).pdf
+not less than one third of the Parties or Parties the combined merchant fleets of which 
+constitute not less than 50% of the gross tonnage of the world's merchant fleet have 
+communicated to the Organization their objection to the amendments; 
+ 
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of  MARPOL, 
+the said amendments shall enter into force on 1 October 2020 upon their acceptance in 
+accordance with paragraph 2 above; 
+ 
+4 REQUESTS the Secretary-General, for the purposes of article 16(2)(e) of MARPOL, 
+to transmit certified copies of the present resolution and the text of the amendments contained 
+in the annex to all Parties to MARPOL; 
+ 
+5 REQUESTS ALSO the Secretary-General to transmit copies of the present resolution 
+and its annex to Members of the Organization which are not Parties to MARPOL. 
+ 
+RESOLUTION MEPC.314(74)  (adopted on 17 May 2019)
+---
+SOURCE: MEPC.314(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.314(74).pdf
+and its annex to Members of the Organization which are not Parties to MARPOL. 
+ 
+RESOLUTION MEPC.314(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973,  
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO Amendments to MARPOL Annexes I, II and V (Electronic Record Books)- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO MARPOL ANNEXES I, II AND V  
+ 
+(Electronic Record Books) 
+ 
+MARPOL ANNEX I 
+ 
+REGULATIONS FOR THE PREVENTION OF POLLUTION BY OIL 
+ 
+Regulation 1 – Definitions 
+ 
+1 A new paragraph 39 is added as follows: 
+ 
+"39 Electronic Record Book means a device or system, approved by the 
+Administration, used to electronically record the required entries for discharges, 
+transfers and other operations as required under this Annex in lieu of a hard copy 
+record book." 
+ 
+Regulation 17 – Oil Record Book Part I – Machinery space operations 
+ 
+2 The second sentence of paragraph 1 is replaced by the following:
+---
+SOURCE: MEPC.314(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.314(74).pdf
+Regulation 17 – Oil Record Book Part I – Machinery space operations 
+ 
+2 The second sentence of paragraph 1 is replaced by the following:  
+ 
+"The Oil Record Book, whether as a part of the ship's official logbook, as an electronic 
+record book which shall be approved by the Administration taking into account the 
+Guidelines developed by the Organization, or otherwise, shall be in the form specified 
+in appendix III to this Annex."  
+ 
+3 In the second sentence of paragraph 4, the words "or group of electronic entries" are 
+inserted after the words "each completed page". 
+ 
+Regulation 36 – Oil Record Book Part II – Cargo/ballast operations 
+ 
+4 The second sentence of paragraph 1 is replaced by the following: 
+ 
+"The Oil Record Book Part II, whether as a part of the ship's official logbook, as an 
+electronic record book which shall be approved by the Administration taking into 
+account the Guidelines developed by the Organization, or otherwise, shall be in the
+---
+SOURCE: MEPC.314(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.314(74).pdf
+account the Guidelines developed by the Organization, or otherwise, shall be in the 
+form specified in appendix III to this Annex." 
+ 
+5  In the second sentence of paragraph 5, the words "or group of electronic entries" are 
+inserted after the words "each completed page". 
+ 
+  
+RESOLUTION MEPC.314(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973,  
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO Amendments to MARPOL Annexes I, II and V (Electronic Record Books)- 3 - 
+ 
+MARPOL ANNEX II 
+ 
+REGULATIONS FOR THE CONTROL OF POLLUTION OF NOXIOUS LIQUID 
+SUBSTANCES IN BULK 
+ 
+Regulation 1 – Definitions 
+ 
+6 A new paragraph 22 is added as follows: 
+ 
+"22 Electronic Record Book  means a device or system, approved by the 
+Administration, used to electronically record the required entries for discharges, transfers 
+and other operations as required under this Annex in lieu of a hard copy record book."
+---
+SOURCE: MEPC.314(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.314(74).pdf
+and other operations as required under this Annex in lieu of a hard copy record book." 
+ 
+Regulation 15 – Cargo Record Book 
+ 
+7 The existing paragraph 1 is replaced by the following: 
+ 
+"Every ship to which this Annex applies shall be provided with a Cargo Record Book, 
+whether as a part of the ship's official logbook, as an electronic record book which 
+shall be approved by the Administration taking into account Guidelines developed by 
+the Organization, or otherwise, in the form specified in appendix II to this Annex."  
+ 
+8 In the first sentence of paragraph 4, the words "or group of electronic entries " are 
+inserted after the words "each page". 
+ 
+MARPOL ANNEX V 
+ 
+REGULATIONS FOR THE PREVENTION OF POLLUTION BY GARBAGE FROM SHIPS 
+ 
+Regulation 1 – Definitions 
+ 
+9 A new paragraph 19 is added as follows: 
+ 
+"19 Electronic Record Book  means a device or system, approved by the 
+Administration, used to electronically record the required entries for discharges,
+---
+SOURCE: MEPC.314(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.314(74).pdf
+Administration, used to electronically record the required entries for discharges, 
+transfers and other operations as required under this Annex in lieu of a hard copy 
+record book." 
+ 
+Regulation 10 – Placards, garbage management plans and garbage record-keeping 
+ 
+10 The second sentence of the chapeau of paragraph 3 is replaced by the following: 
+ 
+"The Garbage Record Book, whether as a part of the ship's official logbook, or as an 
+electronic record book which shall be ap proved by the Administration taking into 
+account the Guidelines developed by the Organization , or otherwise, shall be in the 
+form specified in appendix II to this Annex:" 
+ 
+11 In the second sentence of paragraph 3.1, the  words "or group of electronic entrie s" 
+are inserted after the words "each completed page". 
+ 
+RESOLUTION MEPC.314(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973,
+---
+SOURCE: MEPC.314(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.314(74).pdf
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973,  
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO Amendments to MARPOL Annexes I, II and V (Electronic Record Books)RESOLUTION MEPC.314(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973,  
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO Amendments to MARPOL Annexes I, II and V (Electronic Record Books)
+---
+
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+Resolution A.1079(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+RECOMMENDATIONS FOR THE TRAINING AND CERTIFICATION OF 
+PERSONNEL ON MOBILE OFFSHORE UNITS (MOUs) 
+I:\ASSEMBLY\28\RES\1079.doc 
+ 
+ 
+ 
+E 
+ 
+  
+ 
+ASSEMBLY 
+28th session  
+Agenda item 10 
+ 
+A 28/Res.1079 
+27 March 2014 
+ Original:  ENGLISH 
+ 
+Resolution A.1079(28) 
+ 
+Adopted on 4 December 2013 
+(Agenda item 10) 
+ 
+RECOMMENDATIONS FOR THE TRAINING AND CERTIFICATION OF PERSONNEL 
+ON MOBILE OFFSHORE UNITS (MOUs) 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships, 
+ 
+ALSO RECALLING resolution A.891(21) by which it adopted Recommendations on training 
+of personnel on Mobile Offshore Units (MOUs), 
+ 
+CONSIDERING that personnel on MOUs are often required to work under potentially
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+of personnel on Mobile Offshore Units (MOUs), 
+ 
+CONSIDERING that personnel on MOUs are often required to work under potentially 
+hazardous conditions and will be in a better position to protect themselves and others in the 
+event of an emergency with adequate training, 
+ 
+RECOGNIZING the need for maritime safety, security awareness, environmental protection 
+and emergency preparedness training, competency and fitness for all personnel working on 
+MOUs, 
+ 
+RECOGNIZING ALSO that the recommendations would provide an international standard for 
+training for all personnel on MOUs complimentary to that required by the International 
+Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 
+1978, as amended, and the Seafarers' Training, Certification and Watchkeeping (STCW) 
+Code, 
+ 
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee, at its 
+ninety-second session,
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+Code, 
+ 
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee, at its 
+ninety-second session, 
+ 
+1 ADOPTS the Recommendations for the training and certification of personnel on 
+mobile offshore units (MOUs), as set out in the annex to the present resolution; 
+ 
+2 URGES Governments concerned to implement the defined competencies in these 
+Recommendations as soon as practicable and to issue certificates and all other appropriate 
+documents to personnel who are qualified and have successfully completed the training 
+recommended in these Recommendations; 
+Resolution A.1079(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+RECOMMENDATIONS FOR THE TRAINING AND CERTIFICATION OF 
+PERSONNEL ON MOBILE OFFSHORE UNITS (MOUs)A 28/Res.1079 
+Page 2 
+ 
+I:\ASSEMBLY\28\RES\1079.doc 
+3 URGES ALSO Governments to consider acceptance of relevant certificates and 
+documents based on this resolution; 
+ 
+4 AUTHORIZES the Maritime Safety Committee to keep the se Recommendations under
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+documents based on this resolution; 
+ 
+4 AUTHORIZES the Maritime Safety Committee to keep the se Recommendations under 
+review and amend them as necessary; 
+ 
+5 REVOKES resolution A.891(21). 
+ 
+Resolution A.1079(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+RECOMMENDATIONS FOR THE TRAINING AND CERTIFICATION OF 
+PERSONNEL ON MOBILE OFFSHORE UNITS (MOUs)A 28/Res.1079 
+Page 3 
+ 
+I:\ASSEMBLY\28\RES\1079.doc 
+Annex 
+ 
+RECOMMENDATIONS FOR THE TRAINING AND CERTIFICATION  
+OF PERSONNEL ON MOBILE OFFSHORE UNITS (MOUs) 
+ 
+ 
+1 SCOPE  
+ 
+1.1 These Recommendations provide an international standard for training for all 
+personnel on mobile offshore units aimed at ensuring adequate levels of safety of life and 
+property at sea, security awareness, and protection of the marine environment 
+complimentary to that required by the International Convention on Standards of Training, 
+Certification and Watchkeeping for Seafarers (STCW), 1978, as amen ded, and the
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+Certification and Watchkeeping for Seafarers (STCW), 1978, as amen ded, and the 
+Seafarers' Training, Certification and Watchkeeping (STCW) Code (STCW Convention). 
+ 
+1.2 The provisions of these Recommendations are without prejudice to the rights of 
+coastal States, under international law, to impose their own requirements relating to training, 
+qualifications and certification of personnel on board MOUs. This includes any MOU 
+engaged, or intending to engage, in exploring, exploiting, producing, conserving or managing 
+the natural resources of those parts of the seabed, including its subsoil, and waters 
+superjacent to the seabed which are subject to the jurisdiction of those coastal States.  
+ 
+2 TERMS AND DEFINITIONS  
+ 
+For the purpose of these Recommendations, the terms used have the meanings defined 
+hereunder: 
+ 
+2.1 Administration means the Government of the State whose flag the MOU is entitled 
+to fly.
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+hereunder: 
+ 
+2.1 Administration means the Government of the State whose flag the MOU is entitled 
+to fly.  
+ 
+2.2 Ballast Control Operator  (BCO) means the person assigned responsibility for the 
+normal day-to-day control of trim, draught and stability.  
+ 
+2.3 Barge Supervisor (BS) means a person who may provide support to the offshore 
+installation manager (OIM) in certain essential marine matters.  The barge supervisor on some 
+MOUs may be referred to as the stability section leader, barge engineer or barge master.  
+ 
+2.4 Certificate of competency (CoC) means a certificate issued and/or endorsed by the 
+Administration for offshore personnel in accordance with the provisions of these 
+recommendations and entitling the lawful holder thereof to serve in the capacity and perform 
+the functions involved at the level of responsibility specified therein.  
+ 
+2.5 Certificate of proficiency  (CoP) means a certificate, other than a certificate of
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+2.5 Certificate of proficiency  (CoP) means a certificate, other than a certificate of 
+competency, issued to offshore personnel stating that the relevant requirements of training, 
+competencies or seagoing service in these recommendations have been met. 
+ 
+2.6 Coastal State Administration means the Government of the coastal State concerned 
+in cases where a MOU is engaged in exploration for, or exploitation of, the seabed and 
+subsoil thereof, adjacent to the coast over which the coastal State exercises sovereign rights 
+for the purposes of exploration and exploitation of its natural resources.  
+ 
+2.7 Company means the owner of the Mobile Offshore Unit (MOU) or any other 
+organization or person such as the manager, or the bareboat charterer, who has assumed 
+the responsibility for operation of the MOU from the owner and who, on assuming such 
+responsibility, has agreed to take over all the duties and responsibilities imposed on the 
+company by these recommendations.
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+responsibility, has agreed to take over all the duties and responsibilities imposed on the 
+company by these recommendations. 
+Resolution A.1079(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+RECOMMENDATIONS FOR THE TRAINING AND CERTIFICATION OF 
+PERSONNEL ON MOBILE OFFSHORE UNITS (MOUs)A 28/Res.1079 
+Page 4 
+ 
+I:\ASSEMBLY\28\RES\1079.doc 
+2.8 Documentary evidence  means documentation, other than a certificate of 
+competency or certificate of proficiency, used to establish that the relevant requirements of 
+these recommendations have been met.  
+ 
+2.9 Dynamic Positioning System means a system whereby a self-propelled MOU' s 
+position and heading is automatically controlled by using its own propulsion units. 
+ 
+2.10 Emergency preparedness training  means training which prepares individuals to 
+respond adequately and safely to anticipate emergency situations.  
+ 
+2.11 ISPS Code means the International Ship and Port Facility Security (ISPS) Code
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+2.11 ISPS Code means the International Ship and Port Facility Security (ISPS) Code 
+adopted on 12 December 2002, by resolution 2 of the Conference of Contracting 
+Governments to the International Convention for the Safety of Life at Sea (SOLAS), 1974, as 
+may be amended by the Organization.  
+ 
+2.12 Maintenance supervisor  (MS) means the person assigned responsibility for the 
+inspection, operation and testing, as required, of all machinery and equipment as specified 
+by the owner of the MOU. The maintenance supervisor on some MOUs may also be referred 
+to as the chief engineer, technical section leader or rig mechanic. 
+ 
+2.13 Maritime crew  comprises the OIM, barge supervisor, ballast control operator and 
+maintenance supervisor as well as other deck and engineer officers, radio operators and 
+ratings as defined in regulation I/1 of the STCW Convention, as amended.  
+ 
+2.14 Maritime safety training means training with respect to safety of life at sea, including
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+2.14 Maritime safety training means training with respect to safety of life at sea, including 
+personal and group survival.  
+ 
+2.15 Mobile offshore accommodation unit  is a unit the primary purpose of which is to 
+accommodate personnel working offshore. 
+ 
+2.16 Mobile offshore drilling unit is a unit capable of engaging in drilling operations for the 
+exploration for, or exploitation of, resources beneath the seabed such as liquid or gaseous 
+hydrocarbons, sulphur or salt.  
+ 
+2.17 Mobile offshore units  (MOUs) means vessels which can be readily relocated and 
+which can perform an industrial function involving offshore operations other than those 
+traditionally provided by vessels covered by chapter I of the 1974 SOLAS Convention. Such 
+MOUs include at least the following: 
+ 
+.1 column-stabilized unit  is a MOU with the main deck connected to the 
+underwater hull or footings by columns or caissons; 
+ 
+.2 non-self-propelled unit  is a MOU not fitted with mechanical means of
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+underwater hull or footings by columns or caissons; 
+ 
+.2 non-self-propelled unit  is a MOU not fitted with mechanical means of 
+propulsion to navigate independently; 
+ 
+.3 self-elevating unit is a MOU with movable legs capable of raising its hull 
+above the surface of the sea; 
+ 
+.4 self-propelled unit is a MOU fitted with a mechanical means of propulsion to 
+navigate independently; 
+ 
+Resolution A.1079(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+RECOMMENDATIONS FOR THE TRAINING AND CERTIFICATION OF 
+PERSONNEL ON MOBILE OFFSHORE UNITS (MOUs)A 28/Res.1079 
+Page 5 
+ 
+I:\ASSEMBLY\28\RES\1079.doc 
+.5 submersible unit  is an MOU with a ship-shape, barge-type or novel hull 
+design (other than a self-elevating unit) intended for operation while bottom 
+bearing; and 
+ 
+.6 surface unit  is a MOU with a ship- or barge-type displacement hull of 
+single- or multiple-hull configuration intended for operation in the floating 
+condition.
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+single- or multiple-hull configuration intended for operation in the floating 
+condition. 
+ 
+2.18 Mode of operation  means the condition or manner in which a MOU may operate or 
+function while on location or in transit. The modes of operation of a MOU include the following: 
+ 
+.1 Operating conditions:  conditions wherein a MOU is on location for the 
+purpose of conducting operations, including drilling and production 
+activities, and wherein combined environmental and operational loadings 
+are within the appropriate design limits established for such operations. The 
+MOU may be either afloat or supported on the seabed, as applicable. 
+ 
+.2 Survival conditions:  conditions wherein a MOU may be subjected to 
+environmental loadings in excess of those established by the MOU' s 
+operating manual. It is assumed that routine operations will have been 
+discontinued due to the severity of the environmental loading. The MOU 
+may be either afloat or supported on the seabed, as applicable.
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+discontinued due to the severity of the environmental loading. The MOU 
+may be either afloat or supported on the seabed, as applicable. 
+ 
+.3 Transit conditions:  conditions wherein a MOU is moving from one 
+geographical location to another. 
+ 
+.4 Combined operations: operations in association with, or in close proximity 
+to, another mobile offshore MOU or offshore installation, where conditions 
+on the other MOU or installation may have an immediate impact on the 
+safety of the MOU; for example, a mobile offshore drilling MOU attached to 
+a fixed platform.  
+ 
+2.19 Muster list means the list prescribed by an international convention or recommendation 
+which applies to the MOU. If no convention or recommendation applies, it means a similar list 
+which indicates essential information on actions to be taken in the event of an emergency, in 
+particular the station to which each person should go and the duties which that person should
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+particular the station to which each person should go and the duties which that person should 
+perform including the designation of individual responsibilities for the safety of others.  
+ 
+2.20 Offshore installation manager  (OIM) means a competent person, certified 
+in accordance with these recommendations, who has been appointed in writing by the 
+company to manage the offshore activities of the MOU. 
+ 
+2.21 Offshore Personnel means personnel on board the MOU as indicated in section 5.1. 
+ 
+2.22 Other mobile offshore unit  is a MOU which may be involved in any single offshore 
+activity or combination of offshore activities such as: 
+ 
+ .1 construction; 
+ 
+ .2 maintenance (including the maintenance of wells); 
+ 
+ .3 lifting operations; 
+ 
+ .4 pipe-laying and related operations; 
+ 
+ .5 emergency/contingency preparedness, including firefighting; 
+Resolution A.1079(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+RECOMMENDATIONS FOR THE TRAINING AND CERTIFICATION OF
+---
+SOURCE: A.1079(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1079(28).pdf
+Resolution A.1079(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+RECOMMENDATIONS FOR THE TRAINING AND CERTIFICATION OF 
+PERSONNEL ON MOBILE OFFSHORE UNITS (MOUs)
+---
+
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+Adopted on 6 December 2023 Agenda items 11 and 13)  
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) I:\ASSEMBLY\33\A 33-RES.1187.docx 
+E
+ASSEMBLY 
+33rd session 
+Agenda items 11 and 13 
+A 33/Res.1187 
+11 December 2023 
+Original: ENGLISH 
+Resolution A.1187(33) 
+Adopted on 6 December 2023 
+(Agenda items 11 and 13) 
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines regarding 
+maritime safety and the prevention and control of marine pollution from ships, 
+RECALLING ALSO that, by resolution A.1070(28), it adopted  the IMO Instruments 
+Implementation Code (III Code), 
+RECALLING FURTHER resolution A.1157(32), by which it adopted the 2021 Non-exhaustive
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+Implementation Code (III Code), 
+RECALLING FURTHER resolution A.1157(32), by which it adopted the 2021 Non-exhaustive 
+list of obligations under instruments relevant to the IMO Instruments Implementation Code 
+(III Code) (hereafter referred to as the "Non-exhaustive list of obligations") for guidance on the 
+implementation and enforcement of IMO instruments, in particular concerning the identification 
+of auditable areas relevant to the IMO Member State Audit Scheme, as provided in mandatory 
+provisions of relevant IMO instruments,  following successive revocation of  resolutions 
+A.1141(31), A.1121(30), A.1105(29) and A.1077(28),
+RECOGNIZING the need for the annexes to the Non-exhaustive list of obligations to be further 
+revised to take account of the amendments to the IMO instruments relevant to the III Code 
+which have entered into force or become effective since the adoption of resolution A.1157(32),
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+which have entered into force or become effective since the adoption of resolution A.1157(32), 
+RECOGNIZING ALSO that parties to the relevant international conventions have, as part of 
+the ratification process, agreed to fully meet their responsibilities and to discharge their 
+obligations under the conventions and other instruments to which they are party, 
+REAFFIRMING that it is the primary responsibility of States to have in place an adequate and 
+effective system to exercise control over ships entitled to fly their flag and to ensure that they 
+comply with relevant international rules and regulations in respect of maritime safety, security 
+and protection of the marine environment, 
+REAFFIRMING ALSO that States, in their capacity as flag, port and coastal States, have other 
+obligations and responsibilities under applicable international law in respect of maritime safety, 
+security and protection of the marine environment, 
+Adopted on 6 December 2023 Agenda items 11 and 13)
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+security and protection of the marine environment, 
+Adopted on 6 December 2023 Agenda items 11 and 13)  
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) A 33/Res.1187 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\33\A 33-RES.1187.docx 
+NOTING that, while States may gain certain benefits by becoming party to instruments aimed 
+at promoting maritime safety, security and protection of the marine environment, these benefits 
+can be fully realized only when all parties carry out their obligatio ns as required by the 
+instruments concerned, 
+ 
+NOTING ALSO that the ultimate effectiveness of any instrument depends, inter alia, upon all 
+States: 
+ 
+(a) becoming party to all instruments related to maritime safety, security and 
+pollution prevention and control; 
+ 
+(b) implementing and enforcing such instruments fully and effectively; 
+ 
+(c) reporting to the Organization as required,
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+(b) implementing and enforcing such instruments fully and effectively; 
+ 
+(c) reporting to the Organization as required, 
+ 
+RECALLING that, by resolutions A.1083(28) , A.1084(28) and A.1085(28),  it adopted 
+amendments to the International Convention on Load Lines, 1966, the International 
+Convention on Tonnage Measurement of Ships, 1969, and the Convention on the International 
+Regulations for Preventing Collisions at Sea, 1972, to make the use of the III Code mandatory 
+under these conventions, 
+ 
+NOTING that the Maritime Safety Committee, by resolutions MSC.366(93), MSC.373(93), 
+MSC.374(93) and MSC.375(93), adopted amendments to the International Convention for the 
+Safety of Life at Sea, 1974, the International Convention on Standards of Training, Certification 
+and Watchkeeping for Seafarers, 1978 , the Seafarers ' Training, Certification and 
+Watchkeeping (STCW) Code, and the Protocol of 1988 relating to the International Convention
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+Watchkeeping (STCW) Code, and the Protocol of 1988 relating to the International Convention 
+on Load Lines, 1966, respectively, to make the use of the III Code mandatory  under these 
+instruments, 
+ 
+NOTING ALSO that the Marine Environment Protection Committee, by resolutions 
+MEPC.246(66) and MEPC.247(66), adopted amendments to the International Convention for 
+the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating 
+thereto, and the Protocol of 1997 to amend the International Convention for the Prevention of 
+Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, respectively, 
+to make the use of the III Code mandatory under these instruments, 
+ 
+HAVING CONSIDERED the recommendations made by the Maritime Safety Committee, at 
+its 106th session, and the Marine Environment Protection Committee, at its seventy-ninth 
+session, 
+ 
+1 ADOPTS the 2023 Non-exhaustive list of obligations under instruments relevant to
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+session, 
+ 
+1 ADOPTS the 2023 Non-exhaustive list of obligations under instruments relevant to 
+the IMO Instruments Implementation Code (III Code ), as set out in the annex to the present 
+resolution; 
+ 
+2 URGES Governments of all States, in their capacity as flag, port and coastal States, 
+to make use of the List as much as possible in implementing IMO instruments on a national 
+basis; 
+ 
+3 REQUESTS the Maritime Safety Committee and the Marine Environment Protection 
+Committee to keep the List under review and to amend it as necessary; 
+ 
+4 REVOKES resolution A.1157(32). 
+ 
+ 
+Adopted on 6 December 2023 Agenda items 11 and 13)  
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) A 33/Res.1187 
+Annex, page 1 
+ 
+I:\ASSEMBLY\33\A 33-RES.1187.docx 
+ANNEX 
+ 
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+ANNEX 
+ 
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) 
+ 
+(This Non-exhaustive list of obligations takes into account the amendments to the IMO 
+instruments relevant to the III Code which have, or are expected to have, entered into force 
+by or on 1 July 2024.) 
+ 
+ 
+Table of contents 
+ 
+ 
+Annex 1: OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
+ 
+Annex 2: SPECIFIC FLAG STATE OBLIGATIONS 
+ 
+Annex 3: SPECIFIC COASTAL STATE OBLIGATIONS 
+ 
+Annex 4: SPECIFIC PORT STATE OBLIGATIONS 
+ 
+Annex 5: INSTRUMENTS MADE MANDATORY UNDER IMO CONVENTIONS 
+ 
+Annex 6: SUMMARY OF AMENDMENTS TO MANDATORY INSTRUMENTS 
+REFLECTED IN THE NON-EXHAUSTIVE LIST OF OBLIGATIONS 
+(ANNEXES 1 TO 4) 
+ 
+Annex 7: AMENDMENTS TO IMO INSTRUMENTS EXPECTED TO BE ACCEPTED 
+AND TO ENTER INTO FORCE BETWEEN 1 JANUARY 2024 
+AND 1 JULY 2024 
+ 
+ 
+ 
+ 
+  
+Adopted on 6 December 2023 Agenda items 11 and 13)
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+AND TO ENTER INTO FORCE BETWEEN 1 JANUARY 2024 
+AND 1 JULY 2024 
+ 
+ 
+ 
+ 
+  
+Adopted on 6 December 2023 Agenda items 11 and 13)  
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) A 33/Res.1187 
+Annex, page 2 
+ 
+ 
+I:\ASSEMBLY\33\A 33-RES.1187.docx 
+Annex 1 
+ 
+OBLIGATIONS OF CONTRACTING GOVERNMENTS/PARTIES 
+ 
+The following table contains a non -exhaustive list of obligations, including those obligations 
+imposed when a right is exercised. 
+ 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+TONNAGE 1969  
+ 
+ 
+Article 1 
+ 
+General obligation under the Convention 
+ 
+ 
+Article 5(2) 
+ 
+Force majeure 
+ 
+ 
+Article 8 
+ 
+Issue of a certificate by another Government 
+ 
+ 
+Article 10 
+ 
+Cancellation of certificate 
+ 
+ 
+Article 11 Acceptance of certificates 
+ 
+ 
+Article 15 Communication of information 
+ 
+ 
+ANNEX III 
+Reg.9 
+Verification of compliance with the provisions of this
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+Article 15 Communication of information 
+ 
+ 
+ANNEX III 
+Reg.9 
+Verification of compliance with the provisions of this 
+Convention 
+ 
+LL 1966 and LL PROT 
+19881     
+Article 1 
+ 
+General obligation under the Convention 
+ 
+ 
+ 
+ 
+ 
+General obligations 
+ 
+LL PROT 1988 only 
+(Article I) 
+ 
+Article 7(2) 
+ 
+Force majeure 
+ 
+ 
+ 
+Article 17 
+ 
+ 
+Issue or endorsement of certificates by another 
+Government 
+ 
+amended by 
+LL PROT 1988 
+ 
+Article 20 Acceptance of certificates 
+ 
+ 
+Article 25 
+ 
+Special rules drawn up by agreement  
+ 
+Article 26 Communication of information 
+ 
+ 
+ Communication of information LL PROT 1988 only 
+(Article III) 
+ 
+ 
+1 When the obligation does not derive from the International Convention on Load Lines, 1966, but solely from 
+the Protocol of 1988 relating thereto, this is indicated in the "Comments" column. 
+Adopted on 6 December 2023 Agenda items 11 and 13)  
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+Adopted on 6 December 2023 Agenda items 11 and 13)  
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE) A 33/Res.1187 
+Annex, page 3 
+ 
+I:\ASSEMBLY\33\A 33-RES.1187.docx 
+ 
+OBLIGATIONS OF CONTRACTING 
+GOVERNMENTS/PARTIES 
+ 
+SOURCE SUMMARY DESCRIPTION COMMENTS 
+ANNEX IV 
+Reg.54 
+Verification of compliance with the provisions of this 
+Convention 
+ 
+COLREG 1972 
+  
+Article I General obligations  
+ 
+STCW 1978 and 
+STCW Code2   
+ 
+ 
+Article I 
+ 
+General obligations under the Convention 
+ 
+ 
+Article IV, Reg I/7 and 
+section A-I/7.2 
+Communicating information pursuant to section A -
+I/7.2 of the STCW Code within one year of entry into 
+force of regulation I/7 
+ 
+ 
+Regs. I/8.2, 8.3 and 
+sections A -I/8.3 and A -
+I/7.4 
+ 
+Communicating reports of independent evaluations 
+conducted at intervals of not more than five years 
+ 
+ 
+Reg. I/7.1 and sections A-
+I/7.5 and 7.6 
+Communicating report concerning implementation of
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+conducted at intervals of not more than five years 
+ 
+ 
+Reg. I/7.1 and sections A-
+I/7.5 and 7.6 
+Communicating report concerning implementation of 
+mandatory amendments to the STCW Convention 
+and Code 
+ 
+ 
+SOLAS 1974   
+Article I 
+ 
+ 
+General obligations under the Convention 
+ 
+ 
+in SOLAS PROT 
+1978 and 
+SOLAS PROT 1988 
+ 
+Article III 
+ 
+Communication of information 
+ 
+ 
+in SOLAS PROT 
+1978 and 
+SOLAS PROT 1988 
+ 
+Article V(c)  Carriage of persons in emergencies – reporting  
+Article VII 
+ 
+Special rules drawn up by agreement 
+ 
+ 
+ 
+Article XI Denunciation 
+ 
+in SOLAS PROT 
+1988 (article VII) 
+ 
+Reg. I/13 Issue or endorsement of certificates by another 
+Government 
+ 
+in SOLAS PROT 
+1988 
+Reg. I/17 
+ 
+Acceptance of certificates 
+ 
+also Reg. I/19(b) 
+ 
+2 Criteria set out in last column of table in section A-I/16 of the STCW Code should be used for evaluation. 
+Adopted on 6 December 2023 Agenda items 11 and 13)  
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT
+---
+SOURCE: A.1187(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1187(33).pdf
+Adopted on 6 December 2023 Agenda items 11 and 13)  
+2023 NON-EXHAUSTIVE LIST OF OBLIGATIONS UNDER INSTRUMENTS RELEVANT 
+TO THE IMO INSTRUMENTS IMPLEMENTATION CODE (III CODE)
+---
+
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+Resolution A.1149(32) Adopted on 15 December 2021 (Agenda item 9(a)) 
+REVISED STRATEGIC PLAN FOR THE ORGANIZATION FOR THE SIX-YEAR PERIOD 2018 TO 2023 
+I:\ASSEMBLY\32\RES\A 32-Res.1149.docx 
+ 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY  
+32nd session  
+Agenda item 9(a) 
+ 
+A 32/Res.1149 
+28 January 2022 
+Original: ENGLISH 
+ 
+Resolution A.1149(32)  
+ 
+Adopted on 15 December 2021 
+(Agenda item 9(a)) 
+ 
+REVISED STRATEGIC PLAN FOR THE ORGANIZATION  
+FOR THE SIX-YEAR PERIOD 2018 TO 2023 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING the Convention on the International Maritime Organization, in particular part I, 
+Article 1(a), and part II, Articles 2(a) and (c) thereof, 
+ 
+RECALLING ALSO the directives contained in resolution A.500(XII) concerning coordination 
+of the work of the committees by the Council, taking into account the views of the committees 
+on priorities and their responsibilities for substantive technical and legal matters, 
+ 
+RECALLING FURTHER resolutions:
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+on priorities and their responsibilities for substantive technical and legal matters, 
+ 
+RECALLING FURTHER resolutions: 
+ 
+- A.900(21) on Objectives of the Organization in the 2000s; and 
+ 
+- A.909(22) on Policymaking in IMO – setting the Organization 's policies and  
+objectives, 
+ 
+and the relevant documents of the Council and the committees on the organization and method 
+of their work, 
+ 
+RECALLING IN PARTICULAR the adoption, at its thirtieth session of resolution A.1110(30) on 
+Strategic Plan for the Organization for the six-year period 2018 to 2023, including the decision 
+that the strategic directions are established for the six -year period 2018 to 2023 and that the 
+Council will bring to the attention of the Assembly proposed amendments to the Strategic Plan 
+on which it has had an agreement, including the biennial update of outputs in a consolidated 
+manner, 
+ 
+RECOGNIZING THAT the scope and significance of the human element in the safe, secu re
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+manner, 
+ 
+RECOGNIZING THAT the scope and significance of the human element in the safe, secu re 
+and environmentally sound operation of ships has been amplified during the COVID -19 
+pandemic, 
+ 
+TAKING INTO ACCOUNT the benefits that the strategic directions and the Sustainable 
+Development Goals will provide to international shipping and the developmen t of Member 
+States' national maritime strategies, 
+ 
+BEING COMMITTED to ensuring the fulfilment of the Organization's aims and objectives in a 
+uniform manner on a global basis and to setting clear priorities for the purpose of achieving them, 
+Resolution A.1149(32) Adopted on 15 December 2021 (Agenda item 9(a)) 
+REVISED STRATEGIC PLAN FOR THE ORGANIZATION FOR THE SIX-YEAR PERIOD 2018 TO 2023A.32/Res.1149 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-Res.1149.docx 
+ 
+HAVING CONSIDERED the recommendations of the Council at its thirty -fourth extraordinary 
+session,
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+I:\ASSEMBLY\32\RES\A 32-Res.1149.docx 
+ 
+HAVING CONSIDERED the recommendations of the Council at its thirty -fourth extraordinary 
+session, 
+ 
+1 APPROVES the revised Strategic Plan for the Organization for the six -year 
+period 2018 to 2023, as set out in the annex to the present resolution, comprising: 
+ 
+(a) the mission statement; 
+ 
+(b) the vision statement;  
+ 
+(c) the overarching principles for the Organization's Strategic Plan 2018-2023; 
+ 
+(d) the strategic directions for the Organization, including the strategic direction 
+on the human element;  
+ 
+(e) the revise d performance indicators for assessing the Organization's 
+performance against the strategic directions; and 
+ 
+(f) the list of outputs that are planned to be delivered by the Organization over 
+the 2022-2023 biennium; 
+ 
+2 REQUESTS that all IMO organs ensure full observance of resolution A.1111(30) on 
+Application of the Strategic Plan of the Organization , which provides a uniform basis for the
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+Application of the Strategic Plan of the Organization , which provides a uniform basis for the 
+application of the Strategic Plan throughout the Organization, and for the strengt hening of 
+existing working practices through the provision of enhanced planning and management 
+procedures that are simple, manageable, proportional, transparent and balanced; 
+ 
+3 REQUESTS the Council, the Maritime Safety Committee, the Legal Committee,  the 
+Marine Environment Protection Committee, the Technical Cooperation Committee and the 
+Facilitation Committee, when reporting on their work to the Assembly at its thirty -third regular 
+session and to the Council at its sessions during the 2022-2023 biennium, to ensure that they 
+report progress towards fulfilling the Organization's mission using the framework of the 
+Strategic Plan; 
+ 
+4 REQUESTS the Council and the Secretary -General, as appropriate, to monitor 
+progress and analyse, as necessary, any mechanisms required to review and update progress
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+progress and analyse, as necessary, any mechanisms required to review and update progress 
+made under the Strategic Plan, taking into account resolution A.1111(30) on Application of the 
+Strategic Plan of the Organization;  
+ 
+5 INVITES Member States, the Secretariat and other stakeholders to provid e the 
+necessary data to ensure that progress towards the achievement of the Strategic Plan can be 
+adequately assessed and reported on; 
+ 
+6 DIRECTS the chairs, vice -chairs and secretaries of the Council, committees and 
+sub-committees to ensure a consistent and rigorous application of resolution A.1111(30) on 
+Application of the Strategic Plan of the Organization and of the documents on the organization 
+and method of work of the respective committees and their subsidiary bodies;  
+ 
+7 ENCOURAGES the Council, the committees and the Secretariat, when considering 
+proposals for new outputs, to ensure, in accordance with resolution A.1111(30) on Application
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+proposals for new outputs, to ensure, in accordance with resolution A.1111(30) on Application 
+of the Strategic Plan of the Organization  and with the documents on the organi zation and 
+method of their work, as appropriate, that the issues to be addressed are those which fall within 
+the mission of the Organization; 
+Resolution A.1149(32) Adopted on 15 December 2021 (Agenda item 9(a)) 
+REVISED STRATEGIC PLAN FOR THE ORGANIZATION FOR THE SIX-YEAR PERIOD 2018 TO 2023A.32/Res.1149 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-Res.1149.docx 
+ 
+8 REQUESTS the committees and the Secretariat, as appropriate, and in accordance 
+with resolution A.1111(30) on Application of the Strategic Plan of the Organization , to submit 
+to the Council for endorsement any new outputs that they may approve during the 2022-2023 
+biennium for inclusion in the list of outputs for that biennium; 
+ 
+9 AUTHORIZES the Council to endorse s uch new outputs and to include them in the
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+biennium for inclusion in the list of outputs for that biennium; 
+ 
+9 AUTHORIZES the Council to endorse s uch new outputs and to include them in the 
+list of outputs for the 2022-2023 biennium, as set out in the annex to the present resolution;  
+ 
+10 REVOKES resolutions A.1110(30) and A.1131(31).
+Resolution A.1149(32) Adopted on 15 December 2021 (Agenda item 9(a)) 
+REVISED STRATEGIC PLAN FOR THE ORGANIZATION FOR THE SIX-YEAR PERIOD 2018 TO 2023A.32/Res.1149 
+Annex, page 1 
+ 
+I:\ASSEMBLY\32\RES\A 32-Res.1149.docx 
+ 
+ANNEX 
+ 
+REVISED STRATEGIC PLAN FOR THE ORGANIZATION  
+FOR THE SIX-YEAR PERIOD 2018 to 2023 
+ 
+ 
+MISSION STATEMENT 
+ 
+1 The mission of the International Maritime Organization (IMO), as a United Nations 
+specialized agency, is to promote safe, secure, environmentally sound, efficient and 
+sustainable shipping through cooperation. This will be accomplished by adopting the highest 
+practicable standards of maritime safety and security, efficiency of navigation and prevention
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+practicable standards of maritime safety and security, efficiency of navigation and prevention 
+and control of pollution from ships, as well as through consideration of the related legal matters 
+and effective implementation of IMO instruments, with a view to their universal and 
+uniform application. 
+ 
+VISION STATEMENT 
+ 
+2 The vision of IMO for the period 2018 to 2023 is as follows: 
+ 
+.1 IMO will uphold its lea dership role as the global regulator of shipping, 
+promote greater recognition of the sector's importance and enable the 
+advancement of shipping, while addressing the challenges of continuing 
+developments in technology and world trade and the need to meet 
+the 2030 Agenda for Sustainable Development. 
+ 
+.2 To achieve this, IMO will focus on the review, development and 
+implementation of and compliance with IMO instruments in its pursuit to 
+proactively identify, analyse and address emerging issues and support
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+implementation of and compliance with IMO instruments in its pursuit to 
+proactively identify, analyse and address emerging issues and support 
+Member States in their implementation of the 2030 Agenda for Sustainable 
+Development. 
+ 
+OVERARCHING PRINCIPLES FOR THE ORGANIZATION'S 
+STRATEGIC PLAN 2018 to 2023 
+ 
+3 The Strategic Plan identifies the strategic directions on which IMO will focus in the 
+period 2018 to 2023. The IMO organs will continue their work to fulfil the purposes of the 
+Organization, as set out in Article 1 of the IMO Convention, while sustaining t he system of 
+global maritime legislation and ensuring a level playing field for all States involved in 
+international shipping. In doing so, IMO will uphold its leadership role in ensuring a balance for 
+international shipping between the need for economic development, facilitation of international 
+trade, safety, security and environmental protection. IMO will ensure that the views of all
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+trade, safety, security and environmental protection. IMO will ensure that the views of all 
+stakeholders are taken into account in its decision -making processes and continue to pay 
+particular attention to the needs  of developing countries, especially small island developing 
+States (SIDS) and least developed countries (LDCs).  
+ 
+4 The safety and security of life at sea, protection of the environment, and world trade 
+all depend on the competence and professionalism of th e personnel employed or engaged in 
+the maritime sector, who need to have the relevant skills and understanding to ensure that 
+IMO instruments are effectively reviewed, developed, implemented, applied and enforced.  
+ 
+5 The expansion of the global fleet and the acceleration in the development of new and 
+advancing technologies increase the demands on the seafarers. IMO will take into account the 
+Resolution A.1149(32) Adopted on 15 December 2021 (Agenda item 9(a))
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+Resolution A.1149(32) Adopted on 15 December 2021 (Agenda item 9(a)) 
+REVISED STRATEGIC PLAN FOR THE ORGANIZATION FOR THE SIX-YEAR PERIOD 2018 TO 2023A.32/Res.1149 
+Annex, page 2 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-Res.1149.docx 
+human element in the review, development and implementation of new and existing requirements, 
+including skills, education and training, and human capabilities, limitations and needs. 
+ 
+6 IMO, in all aspects of its work, will take into account  the needs and well -being of 
+seafarers and, in doing so, will always attach the utmost importance to education and training, 
+as well as the promotion of gender equality and the empowerment of women.  
+ 
+7 As a specialized agency of the United Nations, IMO has an important role to play in 
+achieving the 2030 Agend a for Sustainable Development (2030 Agenda). The adoption of 
+the 2030 Agenda, including its 17 Sustainable Development Goals (SDGs) and 169 targets,
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+the 2030 Agenda, including its 17 Sustainable Development Goals (SDGs) and 169 targets, 
+marks a historic agreement among the 193 United Nations Member States to forge a 
+sustainable pathway of action for people, the planet and prosperity.  
+ 
+8 Shipping is an essential element of sustainable economic growth as it is the most 
+environmentally sound mode of transport with the lowest carbon footprint per unit of cargo 
+transported. Along with other transpor t modes, shipping is an important enabler for a 
+substantial number of SDGs. 
+ 
+9 IMO is fully committed to achieving the 2030 Agenda and the SDGs, including aligning 
+its programmes and initiatives to support Member States. The Organization, its 
+Member States, civil society and the maritime industry will continue working together to 
+strengthen the path towards sustainable development. 
+ 
+10 IMO will also maintain and where relevant strengthen its collaboration with other
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+strengthen the path towards sustainable development. 
+ 
+10 IMO will also maintain and where relevant strengthen its collaboration with other 
+bodies in the United Nations system as well as  with parties at global, regional and 
+national levels. 
+ 
+11 The Organization will continually demonstrate to its stakeholders that IMO is 
+delivering on its objectives successfully and effectively. Through stakeholder outreach, the 
+Organization will promote its  work as essential to ensuring a safe, secure, environmentally 
+sound and sustainable shipping sector. 
+ 
+STRATEGIC DIRECTIONS 
+ 
+12 As IMO continues to carry out its work, the following strategic directions set out the 
+areas of particular focus for the period 2018 to 2023. 
+ 
+SD 1: Improve implementation 
+ 
+13 IMO has almost 60 years of experience, developing more than 50 international 
+treaties, together with the related standards, guidelines and other texts. Only through the entry
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+treaties, together with the related standards, guidelines and other texts. Only through the entry 
+into force of those instruments and the  effective, efficient and consistent implementation and 
+enforcement of their provisions can the full benefits from this extensive body of international 
+law be realized. To that end, the current situation demands that IMO place increased focus on 
+implementation of IMO instruments as well as promotion of the entry into force of instruments. 
+ 
+14 The crucial role played by IMO in creating a level playing field for its Members can 
+only be achieved through effective and uniform implementation of IMO instruments, the ir 
+enforcement by the States parties to them, and full compliance by the States concerned and 
+the shipping industry.  
+ 
+15 IMO will provide States and the industry with the information they need to better 
+identify and understand barriers to implementation, and will consider ways to eliminate those
+---
+SOURCE: A.1149(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1149(32).pdf
+identify and understand barriers to implementation, and will consider ways to eliminate those 
+barriers, including through analysis of the findings from the Member State Audit Scheme and/or 
+Resolution A.1149(32) Adopted on 15 December 2021 (Agenda item 9(a)) 
+REVISED STRATEGIC PLAN FOR THE ORGANIZATION FOR THE SIX-YEAR PERIOD 2018 TO 2023
+---
+
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+Resolution A.1156(32) Adopted on 15 December 2021 (Agenda items 12 and 14)  
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF SURVEY AND CERTIFICATION (HSSC), 2021 
+I:\ASSEMBLY\32\RES\A 32-RES.1156.docx 
+ 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY 
+32nd session  
+Agenda items 12 and 14 
+ 
+A 32/Res.1156 
+28 January 2022 
+Original: ENGLISH 
+ 
+Resolution A. 1156(32) 
+ 
+Adopted on 15 December 2021 
+(Agenda items 12 and 14) 
+ 
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM 
+OF SURVEY AND CERTIFICATION (HSSC), 2021 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines regarding 
+maritime safety and the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO the adoption: 
+ 
+(a) by the International Conference on the Harmonized System of Survey and 
+Certification, 1988 , of the Protoc ol of 1988 relating to the International
+---
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+Certification, 1988 , of the Protoc ol of 1988 relating to the International 
+Convention for the Safety of Life at Sea, 1974 and of the Protocol of 1988 
+relating to the International Convention on Load Lines, 1966, which, 
+inter alia, introduced the harmonized system of survey and certificatio n 
+(HSSC) in the International Convention for the Safety of Life at Sea, 1974, 
+and the International Convention on Load Lines, 1966, respectively; 
+ 
+(b) of resolution MEPC.39(29) on amendments to introduce the HSSC in the 
+International Convention for the Prevention of Pollution from Ships, 1973, as 
+modified by the Protocol of 1978 relating thereto (MARPOL); 
+ 
+(c) of resolution MEPC.132(53) on amendments to introduce the HSSC in 
+MARPOL Annex VI;  
+ 
+(d) by the International Conference on Ballast Water Management for Ships of 
+the International Convention for the Control and Management of Ships' 
+Ballast Water and Sediments, 2004, which included the HSSC in the 
+Convention;
+---
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+Ballast Water and Sediments, 2004, which included the HSSC in the 
+Convention; 
+ 
+(e) of the resolutions below on amendments to introduce the HSSC in: 
+ 
+(i) the International Code for the Construction and Equipment of Ships 
+Carrying Dangerous Chemicals in Bulk (IBC Code) (resolutions 
+MEPC.40(29) and MSC.16(58)); 
+ 
+Resolution A.1156(32) Adopted on 15 December 2021 (Agenda items 12 and 14)  
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF SURVEY AND CERTIFICATION (HSSC), 2021
+IIVID". INTERNATIONAL ·••. MARITIME ORGANIZATION 
+I
+T ,_GREENER 
+, SHIPPING A 32/Res.1156 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-RES.1156.docx 
+(ii) the International Code for the Construction and Equipment of Ships 
+Carrying Liquefied Gases in Bulk (IGC Code) (resolution 
+MSC.17(58)); 
+ 
+(iii) the Code for the Construction and Equipment of Ships Carrying 
+Dangerous Chemicals in Bulk (BCH Code) (resolutions MEPC.41(29) 
+and MSC.18(58)),
+---
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+Dangerous Chemicals in Bulk (BCH Code) (resolutions MEPC.41(29) 
+and MSC.18(58)), 
+ 
+RECALLING FURTHER resolution A.1140(31), by which it adopted the Survey Gu idelines 
+under the Harmonized System of Survey and Certification (HSSC), 2019 (hereafter referred to 
+as the "Survey Guidelines"),  following successive revocation of  resolutions A.1120(30), 
+A.1104(29),  A.1076(28), A.1053(27), A.1020(26), A.997(25), A.948(23) and A.746(18), 
+replacing the guidelines adopted by resolutions A.560(14), MEPC.11(18) and MEPC.25(23), 
+ 
+RECOGNIZING the need for the Survey Guidelines to be further revised to take into account 
+the amendments to the IMO instruments ref erred to above which have entered into force or 
+become effective since the adoption of resolution A.1140(31), 
+ 
+HAVING CONSIDERED the recommendations made by the Maritime Safety Committee, at its 
+104th session, and the Marine Environment Protection Committe e, at its  seventy-seventh 
+session,
+---
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+104th session, and the Marine Environment Protection Committe e, at its  seventy-seventh 
+session, 
+ 
+1 ADOPTS the Survey Guidelines under the Harmonized System of Survey and 
+Certification (HSSC), 2021, as set out in the annex to the present resolution; 
+ 
+2 INVITES Governments carrying out surveys required by relevant IMO  instruments to 
+apply the provisions of the annexed Survey Guidelines; 
+ 
+3 REQUESTS the Maritime Safety Committee and the Marine Environment Protection 
+Committee to keep the Survey Guidelines under review and to amend them as necessary; 
+ 
+4 REVOKES resolution A.1140(31). 
+Resolution A.1156(32) Adopted on 15 December 2021 (Agenda items 12 and 14)  
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF SURVEY AND CERTIFICATION (HSSC), 2021A 32/Res.1156 
+Annex, page 1 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-RES.1156.docx 
+ANNEX 
+ 
+SURVEY GUIDELINES UNDER THE HARMONIZED 
+SYSTEM OF SURVEY AND CERTIFICATION (HSSC), 2021
+---
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+I:\ASSEMBLY\32\RES\A 32-RES.1156.docx 
+ANNEX 
+ 
+SURVEY GUIDELINES UNDER THE HARMONIZED 
+SYSTEM OF SURVEY AND CERTIFICATION (HSSC), 2021 
+ 
+(These Guidelines take into account relevant IMO mandatory instruments and 
+amendments thereto entering into force before or on 31 December 2021) 
+ 
+Table of contents 
+ 
+     
+     
+  GENERAL 
+ 
+  
+ 1 INTRODUCTION 
+ 
+  
+ 2 TYPES OF SURVEY 
+ 
+  
+ 3 APPLICATION AND ARRANGEMENT OF THE GUIDELINES 
+ 
+  
+ 4 DESCRIPTION OF THE VARIOUS TYPES OF SURVEY 
+ 
+  
+(I) 4.1 Initial surveys   
+(A) 4.2 Annual surveys   
+(In) 4.3 Intermediate surveys   
+(P) 4.4 Periodical surveys   
+(R) 4.5 Renewal surveys   
+(B) 4.6 Inspections of the outside of the ship's bottom of 
+cargo ships 
+  
+(Ad) 4.7 Additional surveys   
+ 4.8 Completion of surveys 
+ 
+  
+ 5 AMPLIFICATION OF TERMS AND CONDITIONS 
+ 
+  
+ 5.1 Definition of related items   
+ 5.2 Extending to five years a certificate issued for less 
+than five years 
+  
+ 5.3
+  
+Extending the period between inspections of the
+---
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+5.2 Extending to five years a certificate issued for less 
+than five years 
+  
+ 5.3
+  
+Extending the period between inspections of the 
+outside of the ship's bottom 
+  
+ 5.4 Definition of "short voyage"   
+ 5.5 Application of "special circumstances"   
+ 5.6 Revalidation of certificates   
+ 5.7 Meaning of "any five-year period"   
+ 5.8 Surveys required after transfer of the ship to the flag 
+of another State 
+  
+ 5.9 Recommended conditions for extending the period of 
+validity of a certificate 
+  
+ 5.10
+  
+Inspection of the outside of a passenger ship's 
+bottom 
+  
+ 5.11 Survey of radio installations   
+ 5.12 
+5.13 
+Survey of the automatic identification system (AIS) 
+Survey for ships intended to operate in polar waters 
+ 
+ 
+ 
+ 
+Resolution A.1156(32) Adopted on 15 December 2021 (Agenda items 12 and 14)  
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF SURVEY AND CERTIFICATION (HSSC), 2021A 32/Res.1156 
+Annex, page 2 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-RES.1156.docx 
+Annex 1
+---
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+Annex, page 2 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-RES.1156.docx 
+Annex 1 
+ 
+SURVEY GUIDELINES UNDER THE 1974 SOLAS CONVENTION, 
+AS MODIFIED BY THE 1988 PROTOCOL RELATING THERETO 
+ 
+ 
+(E) 1 GUIDELINES FOR SURVEYS FOR THE CARGO SHIP SAFETY EQUIPMENT 
+CERTIFICATE  
+ 
+ 
+(EI) 1.1 Initial surveys  
+(EA) 1.2 Annual surveys  
+(EP) 1.3 Periodical surveys  
+(ER)
+  
+1.4 Renewal surveys 
+ 
+ 
+(C) 2 GUIDELINES FOR SURVEYS FOR THE CARGO SHIP SAFETY CONSTRUCTION 
+CERTIFICATE 
+ 
+ 
+(CI) 2.1 Initial surveys  
+(CA) 2.2 Annual surveys   
+(CIn) 2.3 Intermediate surveys  
+(CR) 2.4 Renewal surveys 
+ 
+ 
+(B) 3 GUIDELINES FOR THE INSPECTION OF THE OUTSIDE OF THE SHIP'S BOTTOM OF 
+CARGO SHIPS 
+ 
+ 
+(R) 4 GUIDELINES FOR SURVEYS FOR THE CARGO SHIP SAFETY RADIO 
+CERTIFICATE 
+ 
+ 
+(RI) 4.1 Initial surveys  
+(RP) 4.2 Periodical surveys  
+(RR) 4.3 Renewal surveys 
+ 
+ 
+(P) 5 GUIDELINES FOR SURVEYS FOR THE PASSENGER SHIP SAFETY CERTIFICATE 
+ 
+ 
+(PI) 5.1 Initial surveys  
+(PR)
+  
+5.2 Renewal surveys  
+    
+ 
+Annex 2
+---
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+(PI) 5.1 Initial surveys  
+(PR)
+  
+5.2 Renewal surveys  
+    
+ 
+Annex 2 
+ 
+SURVEY GUIDELINES UNDER THE 1966 LL CONVENTION, 
+AS MODIFIED BY THE 1988 PROTOCOL RELATING THERETO 
+ 
+ 
+(L) 1 GUIDELINES FOR SURVEYS FOR THE INTERNATIONAL LOAD LINE CERTIFICATE 
+OR INTERNATIONAL LOAD LINE EXEMPTION CERTIFICATE 
+ 
+ 
+(LI) 1.1 Initial surveys  
+(LA) 1.2  Annual surveys  
+(LR) 1.3 Renewal surveys   
+    
+ 
+ 
+ 
+Resolution A.1156(32) Adopted on 15 December 2021 (Agenda items 12 and 14)  
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF SURVEY AND CERTIFICATION (HSSC), 2021A 32/Res.1156 
+Annex, page 3 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-RES.1156.docx 
+Annex 3 
+ 
+SURVEY GUIDELINES UNDER THE MARPOL CONVENTION 
+ 
+ 
+(O) 1 GUIDELINES FOR SURVEYS FOR THE INTERNATIONAL OIL POLLUTION 
+PREVENTION CERTIFICATE 
+ 
+ 
+(OI) 1.1 Initial surveys  
+(OA) 1.2 Annual surveys  
+(OIn) 1.3 Intermediate surveys  
+(OR) 1.4 Renewal surveys 
+ 
+ 
+(N) 2 GUIDELINES FOR SURVEYS FOR THE INTERNATIONAL POLLUTION
+---
+SOURCE: A.1156(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1156(32).pdf
+(OIn) 1.3 Intermediate surveys  
+(OR) 1.4 Renewal surveys 
+ 
+ 
+(N) 2 GUIDELINES FOR SURVEYS FOR THE INTERNATIONAL POLLUTION 
+PREVENTION CERTIFICATE FOR THE CARRIAGE OF NOXIOUS LIQUID 
+SUBSTANCES IN BULK 
+ 
+ 
+(NI) 2.1 Initial surveys  
+(NA) 2.2 Annual surveys  
+(NIn) 2.3 Intermediate surveys  
+(NR) 2.4 Renewal surveys 
+ 
+ 
+(S) 3  GUIDELINES FOR SURVEYS FOR THE INTERNATIONAL SEWAGE POLLUTION 
+PREVENTION CERTIFICATE 
+ 
+ 
+(SI) 3.1 Initial surveys   
+(SR) 3.2 Renewal surveys 
+ 
+ 
+(A) 4  GUIDELINES FOR SURVEYS FOR THE INTERNATIONAL AIR POLLUTION 
+PREVENTION CERTIFICATE AND THE NOX TECHNICAL CODE  
+ 
+ 
+(AI) 4.1 Initial surveys  
+(AA) 4.2 Annual surveys  
+(AIn) 4.3 Intermediate surveys  
+(AR) 4.4 Renewal surveys 
+ 
+ 
+Resolution A.1156(32) Adopted on 15 December 2021 (Agenda items 12 and 14)  
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF SURVEY AND CERTIFICATION (HSSC), 2021
+---
+
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+RESOLUTION A.712(17)  adopted on 6 November 1991 
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND CERTIFICATION OF KEY PERSONNEL ASSIGNED 
+RESPONSIBILITY FOR ESSENTIAL MARINE FUNCTIONS ON MOBILE OFFSHORE UNITS (MOUs)INTERNATIONA L MA RITI ME 
+ORGA NIZATION 
+ASSEMBLY - 17th session 
+Agenda item 10 
+A 17/Res.712 
+25 November 1991 
+Original: ENGLISH 
+IMO 
+RESOLUTION A.712(17) 
+adopted on 6 November 1991 
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND 
+CERTIFICATION OF KEY PERSONNEL ASSIGNED RESPONSIBILITY FOR 
+ESSENTIAL MARINE FUNCTIONS ON MOBILE OFFSHORE UNITS (MOUs) 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International 
+Maritime Organization concerning the functions of the Assembly in relation 
+to regulations and guidelines concerning maritime safety and the prevention 
+and control of marine pollution from ships, 
+RECALLING ALSO Assembly resolution A.538(13) concerning maritime safety
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+and control of marine pollution from ships, 
+RECALLING ALSO Assembly resolution A.538(13) concerning maritime safety 
+training of personnel on mobile offshore units, 
+CONSIDERING the number of casualties involving mobile offshore units 
+and the need to avoid similar occurrences, 
+RECOGNIZING that the application of conventions such as the 
+International Convention on Standards of Training, Certification and 
+Watchkeeping for Seafarers, 1978, may not be appropriate in respect of 
+all mobile offshore units, 
+BEING OF THE OPINION that standards of training, qualifications 
+and certification of key personnel will enhance safety and facilitate 
+the international movement of mobile offshore units, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety 
+Committee at its fifty-eighth session, 
+1. ADOPTS the Recommended Standards of Specialized Training, Qualifications 
+and Certification of Key Personnel Assigned Responsibility for Essential
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+and Certification of Key Personnel Assigned Responsibility for Essential 
+Marine Functions on Mobile Offshore Units (MOUs), set out in the annex to the 
+present resolution; 
+2. URGES Governments to consider implementing the Recommended Standards as 
+soon as practicable and issuing certificates or other appropriate documents to 
+personnel who are qualified and have successfully completed the specialized 
+t.r a i n i nq set out in the annex to the present resolution. 
+W/3980x/EWP 
+For reasons of economy, this document is printed in a limited number. Delegates 
+are kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.712(17)  adopted on 6 November 1991 
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND CERTIFICATION OF KEY PERSONNEL ASSIGNED 
+RESPONSIBILITY FOR ESSENTIAL MARINE FUNCTIONS ON MOBILE OFFSHORE UNITS (MOUs)A 17/Res.712 - 2 - 
+ANNEX 
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+ANNEX 
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND 
+CERTIFICATION OF KEY PERSONNEL ASSIGNED RESPONSIBILITY FOR 
+ESSENTIAL MARINE FUNCTIONS ON MOBILE OFFSHORE UNITS (MOUs) 
+1 I NTRODUCTION 
+1.1 T his recommendation provides guidance on the specialized training, 
+qualification and certification arrangements that should be established by 
+Administrations to ensure that responsibility for essential marine functions 
+on board MOUs is assigned to competent personnel. 
+1.2 Although this recommendation states that responsibility for certain 
+essential marine functions on MOUs should be assigned to specific personnel, 
+Administrations, in developing their own systems of training, qualifications 
+and certification for key MOU personnel, need not directly link to any 
+specific posts each of the functions prescribed herein provided the system 
+developed by each Administration ensures that the key personnel of each MOU,
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+developed by each Administration ensures that the key personnel of each MOU, 
+when their skills are grouped together on the MOU, are capable of performing 
+all the essential functions listed in this recommendation. Administrations 
+should specify an adequate number of key MOU personnel who should be on board, 
+and the certificates which they should hold, bearing in mind the system of 
+training, qualification, certification and assignment of functions developed 
+by the Administration. 
+1.3 The provisions of this recommendation are without prejudice to any 
+rights of the coastal State under international law to impose its own 
+additional requirements relating to training, qualifications and certification 
+of key personnel on board units engaged, or intending to engage, in the 
+exploration for or exploitation of the natural resources of those parts of the 
+sea-bed and subsoil over which that State is entitled to exercise sovereign 
+rights. 
+2 TERMS AND DEFINITIONS
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+sea-bed and subsoil over which that State is entitled to exercise sovereign 
+rights. 
+2 TERMS AND DEFINITIONS 
+2.1 For the purpose of this recommendation, the terms used have the meanings 
+defined hereunder: 
+.1 
+• 2 
+Offshore installation manager (OIM) means a competent person 
+appointed in writing by the owner as the person in charge and who 
+has complete and ultimate conunand of the unit. 
+Barge supervisor means a person who may provide support to the 
+OIM in certain essential marine matters. The barge supervisor on 
+some MOUs may also be referred to as the stability section leader 
+or barge master. 
+• 3 Ballast control operator means the person assigned responsibility 
+for the normal day-to-day control of trim, draught and stability. 
+W/3980x/EWP 
+RESOLUTION A.712(17)  adopted on 6 November 1991 
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND CERTIFICATION OF KEY PERSONNEL ASSIGNED
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND CERTIFICATION OF KEY PERSONNEL ASSIGNED 
+RESPONSIBILITY FOR ESSENTIAL MARINE FUNCTIONS ON MOBILE OFFSHORE UNITS (MOUs)- 3 - A 17/Res.712 
+.4 Maintenance supervisor means the person assigned responsibility for 
+the inspection, operation and testing, as required, of all machinery 
+and equipment as specified by the owner of the MOU. The maintenance 
+supervisor on some MOUs may also be referred to as the chief 
+engineer, technical section leader or rig mechanic • 
+• 5 Mobile offshore units mean vessels which can be readily 
+relocated and can perform an industrial function involving offshore 
+operations other than those traditionally provided by ships covered 
+by chapter I of the 1974 SOLAS Convention. Such MOUs include at 
+least the following: 
+.5.1 Self-propelled unit - a unit certified to 
+navigate independently; 
+.5.2 Non-self-propelled unit - a unit not 
+certified to navigate independently;
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+navigate independently; 
+.5.2 Non-self-propelled unit - a unit not 
+certified to navigate independently; 
+.5.3 Surface unit - a unit with a ship- or barge- 
+type displacement hull of single- or multiple-hull 
+construction intended for operation in the floating 
+condition; 
+.5.4 
+r 
+Self-elevating unit - a unit with movable 
+legs capable of raising its hull above the 
+surface of the sea; 
+. 5. 5 
+.5.6 
+.5.7 
+Column-stabilized unit - a unit with the 
+main deck connected to the underwater hull or 
+footings by columns or caissons; 
+Submersible unit - a unit with a ship shape, 
+barge-type or novel hull design (other than a 
+self-elevating unit) intended for operation while 
+bottom bearing; 
+Mobile offshore units do not include vessels 
+such as: 
+• 6 
+.7 
+supply vessels; 
+standby vessels; 
+anchor handling vessels; 
+seismic vessels; and 
+ship shape monohull diving support vessels. 
+Mobile offshore drilling unit means a unit capable of engaging in
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+seismic vessels; and 
+ship shape monohull diving support vessels. 
+Mobile offshore drilling unit means a unit capable of engaging in 
+drilling operations for the exploration for or exploitation of 
+resources beneath the sea-bed such as liquid or gaseous 
+hydrocarbons, sulphur or salt. 
+Mobile offshore accommodation unit means a unit, the primary purpose 
+of which is to accommodate personnel working offshore. 
+W/3980x/EWP 
+RESOLUTION A.712(17)  adopted on 6 November 1991 
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND CERTIFICATION OF KEY PERSONNEL ASSIGNED 
+RESPONSIBILITY FOR ESSENTIAL MARINE FUNCTIONS ON MOBILE OFFSHORE UNITS (MOUs)A 17/Res.712 - 4 -- 
+.8 Drillship means a ship shape monohull surface mobile offshore 
+drilling unit. 
+.9 Other mobile offshore unit means a unit which may be involved in any 
+single activity or combination of activities such as: 
+construction; 
+maintenance (including the maintenance of wells); 
+lifting operations; 
+pipe laying;
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+construction; 
+maintenance (including the maintenance of wells); 
+lifting operations; 
+pipe laying; 
+emergency preparedness/contingency including 
+fire fighting; 
+units used for single well offshore production systems; and 
+diving . 
+. 10 Mode of operation means a condition or manner in which a unit may 
+operate or function while on location or in transit. The modes of 
+operation of a unit include the following: 
+.10.1 Op erating conditions - conditions wherein a unit is on location 
+for the purpose of conducting operations, including drilling 
+and production activities, and combined environmental and 
+operational loadings are within the appropriate design limits 
+established for such operations. The unit may be either afloat 
+or supported on the sea-bed, as applicable . 
+. 10.2 Severe storm conditions - conditions wherein a unit may be 
+subjected to the most severe environmental loadings for which 
+the unit is designed. The operations are assumed to have been
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+subjected to the most severe environmental loadings for which 
+the unit is designed. The operations are assumed to have been 
+discontinued due to the severity of the environmental loading. 
+The unit may be either afloat or supported on the sea-bed, as 
+applicable . 
+. 10.3 Transit conditions - conditions wherein a unit is moving from 
+one geographical location to another. 
+3 SPECIALIZED TRAINING AND QUALIFICATIONS OF MOU KEY PERSONNEL 
+3.1 General 
+Every MOU should have sufficient key persons on board possessing 
+the knowledge, qualifications, skills and experience necessary to ensure 
+the safe operation of the unit. It is recognized that the nature of MOUs 
+and their operations necessitate the consideration of specialized training 
+and qualifications. The Administration should determine the adequacy of the 
+knowledge, qualifications, skills and experience of the personnel assigned 
+the responsibility for essential marine functions, on the basis of the design,
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+the responsibility for essential marine functions, on the basis of the design, 
+type, size and operating parameters of E!ach MOU. Administrations are invited 
+to consider the essential functions listed below in determining the necessary 
+knowledge, qualifications, skills and experience for key personnel. 
+W/3980x/EWP 
+RESOLUTION A.712(17)  adopted on 6 November 1991 
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND CERTIFICATION OF KEY PERSONNEL ASSIGNED 
+RESPONSIBILITY FOR ESSENTIAL MARINE FUNCTIONS ON MOBILE OFFSHORE UNITS (MOUs)- 5 - A 17/Res.712 
+3.2 Offshore installation manager (OIMl 
+3.2.1 The essential marine functions for which the OIM is responsible, and 
+the related knowledge and qualifications required, will depend on the type of 
+unit and its mode of operation. 
+3.2.2 Subject to the more precise indications given in the table below, 
+which relates the knowledge and training requirements to particular types
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+3.2.2 Subject to the more precise indications given in the table below, 
+which relates the knowledge and training requirements to particular types 
+of MOU, it is considered necessary, for the proper discharge of the essential 
+marine functions assigned to the OIM, for him to have knowledge and experience 
+of the following matters: 
+.1 Stability and construction 
+.1.1 T he general principles of MOU construction . 
+. 1.2 The static and dynamic stability of MOUs; theory and factors 
+affecting trim and stability; measures to preserve safe trim and 
+stability, including sufficient knowledge of stability 
+calculations and the use of stability booklets; also the 
+relationship with the regulatory requirements in respect of the 
+stability curves for the operating and survival conditions 
+taking into account the effect of environmental conditions 
+prevailing . 
+. 1.3 The effect on the trim and stability of a MOU in the event 
+of damage to, and consequent flooding of, any compartment;
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+prevailing . 
+. 1.3 The effect on the trim and stability of a MOU in the event 
+of damage to, and consequent flooding of, any compartment; 
+counter-measures to be taken. Knowledge of the principle and 
+importance of maintaining the watertight integrity of the MOU; 
+procedures for maintaining watertight integrity • 
+. 1.4 Loading supplies and ballasting in order to keep the unit 
+stresses within acceptable limits . 
+. 1.5 Principal structural members of a MOU and required periodical 
+inspections. Basic knowledge of the effects of welding. 
+Effects of corrosion on the structure • 
+. 1.6 The effect of the MOU's mooring system on stability . 
+. 1.7 Preloading and leg reaction stresses on self-elevating units • 
+. 2 Station keeping, mooring and gynamic positioning 
+.2.1 Sea-bed composition and characteristics . 
+. 2.2 Behaviour of mooring systems and force distribution including 
+the effect of environmental conditions . 
+. 2.3 Consequences of failure of the mooring system .
+---
+SOURCE: A.712(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.712(17).pdf
+the effect of environmental conditions . 
+. 2.3 Consequences of failure of the mooring system . 
+. 2.4 Anchor placement and recovery, and working with anchor handling 
+vessels. 
+W/3980x/EWP 
+RESOLUTION A.712(17)  adopted on 6 November 1991 
+RECOMMENDED STANDARDS OF SPECIALIZED TRAINING, QUALIFICATIONS AND CERTIFICATION OF KEY PERSONNEL ASSIGNED 
+RESPONSIBILITY FOR ESSENTIAL MARINE FUNCTIONS ON MOBILE OFFSHORE UNITS (MOUs)
+---
+
+SOURCE: A.1160(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1160(32).pdf
+Resolution A.1160(32) Adopted on 15 December 2021 (Agenda item 12)  
+COMPREHENSIVE ACTION TO ADDRESS SEAFARERS’ CHALLENGES DURING THE COVID-19 PANDEMIC 
+I:\ASSEMBLY\32\RES\A 32-Res.1160.docx 
+ 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY 
+32nd session  
+Agenda item 12 
+ 
+A 32/Res.1160 
+28 January 2022 
+Original: ENGLISH 
+ 
+ 
+Resolution A.1160(32) 
+ 
+Adopted on 15 December 2021 
+(Agenda item 12) 
+ 
+COMPREHENSIVE ACTION TO ADDRESS SEAFARERSʹ CHALLENGES  
+DURING THE COVID-19 PANDEMIC 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines regarding 
+maritime safety and the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO resolution MSC.473(ES.2) on Recommended action to facilitate ship crew 
+change, access to medical care and seafarer travel during the COVID -19 pandemic, adopted 
+by the Maritime Safety Committee on 21 September 2020,
+---
+SOURCE: A.1160(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1160(32).pdf
+change, access to medical care and seafarer travel during the COVID -19 pandemic, adopted 
+by the Maritime Safety Committee on 21 September 2020, 
+ 
+RECALLING FURTHER resolution MSC.490(103) on Recommended action to prioritize 
+COVID-19 vaccination of seafarers, adopted by the Maritime Safety Committee 
+on 14 May 2021, 
+ 
+RECALLING that the Maritime Safety Committee, at its 1 02nd session, approved 
+MSC.1/Circ.1636, containing the Industry recommended framework of protocols for ensuring 
+safe ship crew changes and travel during the coronavirus (COVID -19) pandemic; recognized 
+the importance of the protocols; and invited Member Sta tes and relevant stakeholders to 
+consider them and take them into account, 
+ 
+NOTING resolution A.75/17 on International cooperation to address challenges faced by 
+seafarers as a result of the COVID -19 pandemic to support global supply chains , adopted by 
+the UN General Assembly on 1 December 2020,1
+---
+SOURCE: A.1160(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1160(32).pdf
+seafarers as a result of the COVID -19 pandemic to support global supply chains , adopted by 
+the UN General Assembly on 1 December 2020,1 
+ 
+NOTING ALSO resolution GB.340/Resolution (Rev.2) – Resolution concerning maritime labour 
+issues and the COVID -19 pandemic , adopted by the Governing Body of the International 
+Labour Office on 8 December 2020,2 
+ 
+NOTING FURTHER the Resolution concerning the implementation and practical application 
+of the MLC, 2006, during the COVID-19 pandemic, and the Resolution concerning COVID-19 
+vaccination for seafarers , adopted by the ILO Special Tripartite Committee of the M aritime 
+Labour Convention, 2006, as amended (MLC, 2006) on 23 April 2021,3 
+ 
+1 https://undocs.org/en/A/RES/75/17 
+ 
+2 https://www.ilo.org/wcmsp5/groups/public/---ed_norm/---
+relconf/documents/meetingdocument/wcms_760649.pdf 
+ 
+3 https://www.ilo.org/global/standards/maritime-labour-convention/events/WCMS_679152/lang--
+en/index.htm
+---
+SOURCE: A.1160(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1160(32).pdf
+3 https://www.ilo.org/global/standards/maritime-labour-convention/events/WCMS_679152/lang--
+en/index.htm 
+Resolution A.1160(32) Adopted on 15 December 2021 (Agenda item 12)  
+COMPREHENSIVE ACTION TO ADDRESS SEAFARERS’ CHALLENGES DURING THE COVID-19 PANDEMICA 32/Res.1160 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-Res.1160.docx 
+MINDFUL of the severe challenges the COVID -19 pandemic poses for international shipping 
+and Governmentsʹ ability to respond effectively to these challenges, 
+ 
+MINDFUL ALSO of the importance of the health and safety of seafarers and the need to protect 
+their mental and physical health, welfare and well-being, as these elements are paramount to 
+ensure maritime safety, security and environmental protection, 
+ 
+BEING CONCIOUS of the uniqu e and essential contribution of seafarers to international 
+shipping and the world by ensuring the uninterrupted transportation of vital medical supplies, 
+food and other basic necessities, including during the COVID-19 pandemic,
+---
+SOURCE: A.1160(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1160(32).pdf
+food and other basic necessities, including during the COVID-19 pandemic, 
+ 
+BEING AWARE of the continuo usly high number of seafarers that require repatriation in 
+accordance with the MLC, 2006, and those in urgent need to join ships to replace them, 
+ 
+MINDFUL of the need to protect seafarers through vaccination, as soon as possible, to 
+facilitate their safe movement across borders, 
+ 
+REITERATING the numerous statements by the United Nations (UN) and UN System 
+Organizations emphasizing, inter  alia, the need to designate seafarers as ʺkey workersʺ and 
+ensure their access to medical care, prioritization for COVID-19 vaccinations and facilitation of 
+travel, thus preserving their welfare and rights, 
+ 
+HAVING CONSIDERED  the recommendations made by the Maritime Safety Committee at 
+its 104th session, 
+ 
+1 URGES Member States and relevant national authorities to: 
+ 
+.1 designate seafarers as ʺkey workersʺ in order to facilitate shore leave and
+---
+SOURCE: A.1160(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1160(32).pdf
+1 URGES Member States and relevant national authorities to: 
+ 
+.1 designate seafarers as ʺkey workersʺ in order to facilitate shore leave and 
+safe and unhindered movement across borders, recognizing relevant 
+documentation carried by seafarers as evidence of this status, which would 
+entail the application of temporary measures including (where possible under 
+relevant law) waivers, exemptions or other relaxations from any visa or 
+documentary requirements; 
+ 
+.2 consider the implementation of the Industry recommended framework of 
+protocols for ensuring safe ship crew changes a nd travel during the 
+coronavirus (COVID -19) pandemic (MSC.1/Circ.1636/Rev.1, as may be 
+revised); 
+ 
+.3 prioritize vaccination of seafarers, as far as practicable, in their national 
+COVID-19 vaccination programmes, noting the advice of the WHO SAGE 
+Roadmap 4  for prioritizing the use of COVID -19 vaccines; and  consider 
+extending COVID-19 vaccines to seafarers of other nationalities, taking into
+---
+SOURCE: A.1160(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1160(32).pdf
+extending COVID-19 vaccines to seafarers of other nationalities, taking into 
+account national vaccines supply; 
+ 
+.4 consider exempting seafarers from any national policy requiring proof of 
+COVID-19 vaccination as a condition for entry, taking into account that 
+seafarers should be designated as ʺkey workersʺ and that they travel across 
+borders frequently; 
+ 
+.5 provide seafarers with immediate access to medical care and facilitate 
+medical evacuation of seafarers in need of urgent medical attention when the 
+ 
+4 WHO SAGE Roadmap for prioritizing the uses of COVID -19 vaccines in the context of limited supply : 
+https://www.who.int/publications/i/item/who-sage-roadmap-for-prioritizing-uses-of-covid-19-vaccines-in-
+the-context-of-limited-supply 
+Resolution A.1160(32) Adopted on 15 December 2021 (Agenda item 12)  
+COMPREHENSIVE ACTION TO ADDRESS SEAFARERS’ CHALLENGES DURING THE COVID-19 PANDEMICA 32/Res.1160 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-Res.1160.docx
+---
+SOURCE: A.1160(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1160(32).pdf
+COMPREHENSIVE ACTION TO ADDRESS SEAFARERS’ CHALLENGES DURING THE COVID-19 PANDEMICA 32/Res.1160 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\32\RES\A 32-Res.1160.docx 
+required medical care cannot be provided either on board or in the port of 
+call;  
+ 
+2 REQUESTS Member States and international organizations to bring this resolution to 
+the attention of all parties concerned. 
+ 
+ 
+___________ 
+Resolution A.1160(32) Adopted on 15 December 2021 (Agenda item 12)  
+COMPREHENSIVE ACTION TO ADDRESS SEAFARERS’ CHALLENGES DURING THE COVID-19 PANDEMICResolution A.1160(32) Adopted on 15 December 2021 (Agenda item 12)  
+COMPREHENSIVE ACTION TO ADDRESS SEAFARERS’ CHALLENGES DURING THE COVID-19 PANDEMIC
+---
+
+SOURCE: A.1151(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1151(32).pdf
+Resolution A.1151(32) Adopted on 15 December 2021 
+PRESENTATION OF AUDITED FINANCIAL STATEMENTS AND REPORT OF THE EXTERNAL AUDITORS 
+I:\ASSEMBLY\32\RES\A 32-Res.1151.docx 
+ 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY  
+32nd session  
+Agenda item 18(b) 
+ 
+A 32/Res.1151 
+28 January 2022 
+Original: ENGLISH 
+ 
+Resolution A.1151(32)  
+ 
+Adopted on 15 December 2021 
+ 
+PRESENTATION OF AUDITED FINANCIAL STATEMENTS AND REPORT OF THE 
+EXTERNAL AUDITORS 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING that regulation 12.10 of the Financial Regulations of the Organization provides 
+for the transmission, through the Council, of the External Auditor's reports, together with the 
+audited financial statements, to the Assembly, 
+ 
+NOTING the Secretary -General's presentation of the financial report and audited financial 
+statements for the financial year ended 31 December 2019, together with the External Auditor's 
+report and opinion thereon, 
+ 
+NOTING FURTHER the Secretary-General's presentation of the financial report and audited
+---
+SOURCE: A.1151(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1151(32).pdf
+report and opinion thereon, 
+ 
+NOTING FURTHER the Secretary-General's presentation of the financial report and audited 
+financial statements for the financial year ended 31 December 2020, together with the External 
+Auditor's report and opinion thereon, 
+ 
+BEARING IN MIND that the Council, at its 124th and 125th sessions, approved these financial 
+statements and audit reports for transmission to the Assembly at its present regular session,  
+ 
+1 APPROVES the audited financial statements for the financial year ended   
+31 December 2019;  
+ 
+2 APPROVES the audited finan cial statements for the financial year ended  
+31 December 2020; 
+ 
+3 EXPRESSES APPRECIATION for the unqualified opinions issued by the External 
+Auditor in relation to the aforementioned financial statements.  
+ 
+ 
+___________ 
+Resolution A.1151(32) Adopted on 15 December 2021 
+PRESENTATION OF AUDITED FINANCIAL STATEMENTS AND REPORT OF THE EXTERNAL AUDITORSResolution A.1151(32) Adopted on 15 December 2021
+---
+SOURCE: A.1151(32).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1151(32).pdf
+PRESENTATION OF AUDITED FINANCIAL STATEMENTS AND REPORT OF THE EXTERNAL AUDITORSResolution A.1151(32) Adopted on 15 December 2021 
+PRESENTATION OF AUDITED FINANCIAL STATEMENTS AND REPORT OF THE EXTERNAL AUDITORS
+---
+
+SOURCE: A.961(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.961(23).pdf
+Resolution A.961(23)  Adopted on 5 December 2003  
+WIDER ACCEPTANCE OF THE PROTOCOL OF 1988 RELATING TO 
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966  
+ 
+I:\ASSEMBLY\23\RES\961.doc 
+For reasons of economy, this document is printed in a limited number.  Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+ 
+INTERNATIONAL MARITIME ORGANIZATION 
+ 
+ 
+IMO
+ 
+E
+ 
+  
+ASSEMBLY 
+23rd session  
+Agenda item 17 
+A 23/Res.961
+ 8 March 2004
+  Original:  ENGLISH
+ 
+ 
+Resolution A.961(23) 
+ 
+Adopted on 5 December 2003 
+(Agenda item 17) 
+ 
+ 
+WIDER ACCEPTANCE OF THE PROTOCOL OF 1988 RELATING TO THE 
+INTERNATIONAL CONVENTION ON LOAD LINES, 1966 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in re lation to regulations and guidelines concerning 
+maritime safety,  
+ 
+RECALLING ALSO that on 5 April 1966 the In ternational Conference on Load Lines
+---
+SOURCE: A.961(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.961(23).pdf
+maritime safety,  
+ 
+RECALLING ALSO that on 5 April 1966 the In ternational Conference on Load Lines 
+adopted the International Convention on Load Lines, 1966 (hereinafter referred to as the 
+Convention), which entered into force on 21 July 1968, 
+ 
+RECALLING FURTHER that on 11 November 1988 the International Conference on the 
+Harmonized System of Survey and Certificati on adopted the Protocol of 1988 relating to the 
+International Convention on Load Lines, 1966 (herei nafter referred to as the Protocol), which 
+entered into force on 3 February 2000, 
+ 
+NOTING that the Maritime Safety Committee,  at its seventy-seventh session, adopted 
+amendments to Annex B to the Protocol which, on condition that they are deemed accepted on 
+1 July 2004 in accordance with paragraph 2(f)(ii)(bb)  of article VI thereof, will enter into force 
+on 1 January 2005 in accordance with paragraph 2(g)(ii) of the same article,
+---
+SOURCE: A.961(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.961(23).pdf
+on 1 January 2005 in accordance with paragraph 2(g)(ii) of the same article, 
+ 
+NOTING ALSO that the Committee, at its seventy-sixth session, acknowledged that the 
+amendments would not, upon entry into force, affect the Convention and recognized that, as a 
+consequence and on the basis of the Protocols status at MSC 76, the amendments would apply 
+only to approximately 60% of the worlds merchant fleet, i.e. to those sh ips flying the flags of 
+States Parties to the Protocol,  
+ 
+NOTING WITH CONCERN that such a situati on might lead to an undesirable two-tier 
+system whereby ships would be subjected to different safety regimes, depending whether the flag 
+Administration is a Contracting Government to the Convention or a Party to the Protocol as well, 
+ 
+Resolution A.961(23)  Adopted on 5 December 2003  
+WIDER ACCEPTANCE OF THE PROTOCOL OF 1988 RELATING TO 
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966 A 23/Res.961 - 2 - 
+ 
+ 
+I:\ASSEMBLY\23\RES\961.doc
+---
+SOURCE: A.961(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.961(23).pdf
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966 A 23/Res.961 - 2 - 
+ 
+ 
+I:\ASSEMBLY\23\RES\961.doc 
+BEING CONVINCED that a single and universal regulatory regime relating to load lines 
+would contribute substantially to enhancing maritime safety globally, 
+ 
+HAVING CONSIDERED the recommendation ma de by the Maritime Safety Committee 
+at its seventy-seventh session,  
+ 
+URGES all Contracting Governments to the Convention which have not yet become Party 
+to the Protocol to do so at the earliest possible opportunity by applying article IV thereof. 
+ 
+ 
+__________ 
+Resolution A.961(23)  Adopted on 5 December 2003  
+WIDER ACCEPTANCE OF THE PROTOCOL OF 1988 RELATING TO 
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966 Resolution A.961(23)  Adopted on 5 December 2003  
+WIDER ACCEPTANCE OF THE PROTOCOL OF 1988 RELATING TO 
+THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966
+---
+
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+RESOLUTION A.715(17)  adopted on 6 November 1991 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING 
+TIMBER DECK CARGOES, 1991INTERNATIONAL MARITIME 
+ORGANIZATION 
+A 17/Res.715 
+21 February 1992 
+Original: ENGLISH 
+ASSEMBLY - 17th session 
+Agenda item 10 
+RESOLUTION A.715(17) 
+adopted on 6 November 1991 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING 
+TIMBER DECK CARGOES, 1991 
+THE ASSEMBLY, 
+RECALLING Article lS(j) of the Convention on the International 
+Maritime Organization concerning the functions of the Assembly in relation 
+to regulations and guidelines concerning maritime safety, 
+RECALLING FURTHER that, by resolution A.287(VIII), it had adopted the 
+Code of Safe Practice for Ships Carrying Timber Deck Cargoes, which was 
+subsequently amended by the Maritime Safety Committee at its thirty-ninth 
+session in 1978, 
+RECOGNIZING the need to improve the provisions contained in the Code 
+in the light of experience gained, 
+HAVING CONSIDERED the recommendations made by the Maritime Safety
+---
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+in the light of experience gained, 
+HAVING CONSIDERED the recommendations made by the Maritime Safety 
+Committee at its fifty-eighth session, 
+1. ADOPTS the Code of Safe Practice for Ships Carrying Timber Deck 
+Cargoes, 1991, set out in the annex to the present resolution; 
+2. RECOMMENDS Governments to apply the 1991 Code in lieu of the Code 
+annexed to resolution A.287(VIII), as amended in 1978; 
+3. INVITES the Maritime Safety Committee to review appendix D to the Code 
+after the Protocol of 1988 to the International Convention on Load Lines, 
+1966, enters into force; 
+4. REVOKES resolution A.287(VIII). 
+W/5416x/EWP 
+For reasons of economy, this document is printed in a limited number. Delegates are 
+kindly asked to bring their copies to meetings and not t o request additional copies. 
+RESOLUTION A.715(17)  adopted on 6 November 1991 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING 
+TIMBER DECK CARGOES, 1991A 17/Res.715 - 2 - 
+ANNEX
+---
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+RESOLUTION A.715(17)  adopted on 6 November 1991 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING 
+TIMBER DECK CARGOES, 1991A 17/Res.715 - 2 - 
+ANNEX 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING TIMBER DECK CARGOES 
+CONTENTS 
+Foreword 3 
+Chapter 1 - General 4 
+Chapter 2 - Stability 5 
+Chapter 3 - Stowage 6 
+Chapter 4 - Securing 7 
+Chapter 5 - Personnel protection and safety devices 10 
+Chapter 6 - Action to be taken during the voyage 11 
+Appendix A - Advice on stowage practices 13 
+Appendix B - General guidelines for the under- deck 
+stowage of logs 25 
+Appendix C - Recommendation on intact stability for 
+passenger and cargo ships under 100 m 
+in length, as amended, with respect to 
+ships carrying deck c argoes 
+Appendix 1 - Calculation o f stability curves 
+Appendix 2 - Standard conditions of loading to be 
+examined 
+Appendix 3 - Memorandum to Administrations on an 
+approximate determination of ship's 
+stability by mean s of t he rolling period 
+tests (for ships up to 70 m i n length)
+---
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+approximate determination of ship's 
+stability by mean s of t he rolling period 
+tests (for ships up to 70 m i n length) 
+Appendix D - Test o f regulation 44 of t he International 
+Convention on Load L ines, 1966 
+28 
+32 
+36 
+38 
+Annex to appendix 3 - Suggest ed form of guidance 
+to the master on an approximate 
+determination of ship's 
+stability by means of the 
+rolling p eriod test 42 
+44 
+W/5416x/EWP 
+RESOLUTION A.715(17)  adopted on 6 November 1991 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING 
+TIMBER DECK CARGOES, 1991- 3 - A 17/Res.715 
+FOREWORD 
+The Code of Safe Practice for Ships Carrying Timber Deck Cargoes was 
+first circulated by the Organization in 1972 and subsequently amended in 1978. 
+The continuing occurrence of casualties involving shift and loss of 
+timber deck cargoes, the employment of larger and more sophisticated ships in 
+this trade, the introduction of new techniques and the desirability of having
+---
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+this trade, the introduction of new techniques and the desirability of having 
+more comprehensive safety recommendations in this particular maritime activity 
+have made it necessary to revise and update the earlier document. 
+Although this Code is directed primarily at providing recommendations for 
+the safe carriage of timber deck cargo, appendix B contains recommendations 
+applicable to the under-deck stowage of logs. 
+W/5416x/EWP 
+RESOLUTION A.715(17)  adopted on 6 November 1991 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING 
+TIMBER DECK CARGOES, 1991A 17 / Res . 71 5 - 4 - 
+CHAPTER 1 - GENERAL 
+1.1 Purpose 
+The purpose of this Code is to make recommendations on stowage, securing 
+and other operational safety measures designed to ensure the safe transport of 
+mainly timber deck cargoes. 
+1.2 Application 
+This Code applies to all ships of 24 m or more in length engaged in the 
+carriage of timber deck cargoes. Ships that are provided with and making use
+---
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+carriage of timber deck cargoes. Ships that are provided with and making use 
+of their timber load line should also comply with the requirements of the 
+applicable regulation of the Load Line Convention (reproduced in appendix D). 
+1.3 Definitions 
+Except where expressly provided otherwise, the following definitions 
+apply to the Code. 
+1.3.1 illlffiinistration means the Government of the State whose flag the ship is 
+entitled to fly. 
+1. 3. 2 ~ means a log which is "slab-cut", i.e., ripped lengthwise so that 
+the resulting thick pieces have two opposing, parallel flat sides and in some 
+cases a third side which is sawn flat. 
+1.3.3 Fall protection system means a system which incorporates an adequate 
+anchorage point, a safety harness worn by the person to be protected and a 
+fall arrest device which, when attached to the anchorage point and harness, 
+will permit normal personnel movement but lock immediately if any force is 
+applied to the system.
+---
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+will permit normal personnel movement but lock immediately if any force is 
+applied to the system. 
+1.3.4 O rganization means the International Maritime Organization (IMO). 
+1.3.5 Timber means sawn wood or lumber, cants, logs, poles, pulpwood and all 
+other type of timber in loose or packaged forms. The term does not include 
+wood pulp or similar cargo. 
+1.3.6 Timber deck cargo means a cargo of timber carried on an uncovered part 
+of a freeboard or superstructure deck. The term does not include wood pulp or 
+similar cargo. 
+1.3.7 Timber load line means a special load line assigned to ships 
+complying with certain conditions related to their construction set out in the 
+International Convention on Load Lines and used when the cargo complies with 
+the stowage and securing conditions of this Code. 
+1.3.8 Weather deck means the uppermost complete deck exposed to weather 
+and sea. 
+W/5416x/EWP 
+RESOLUTION A.715(17)  adopted on 6 November 1991 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING
+---
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+and sea. 
+W/5416x/EWP 
+RESOLUTION A.715(17)  adopted on 6 November 1991 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING 
+TIMBER DECK CARGOES, 1991- 5 - A 17/Res.715 
+CHAPTER 2 - STABILITY 
+2.1 The ship should be supplied with comprehensive stability information 
+which takes into account timber deck cargo. Such information should enable 
+the master, rapidly and simply, to obtain accurate guidance as to the 
+stability of the ship under varying conditions of service. Comprehensive 
+rolling period tables or diagrams have proved to be a very useful aid in 
+verifying the actual stability conditions. 
+2.2 The stability of the ship at all times, including during the process of 
+loading and unloading timber deck cargo, should be positive and to a standard 
+acceptable to the Administration. It should be calculated having regard to: 
+.1 the increased weight of the timber deck cargo due to: 
+.1.1 absorption of water in dried or seasoned timber, and 
+.1.2 ice accretion, if applicable;
+---
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+.1.1 absorption of water in dried or seasoned timber, and 
+.1.2 ice accretion, if applicable; 
+.2 variations in consumables; 
+.3 the free surface effect of liquid in tanks; and 
+.4 the weight of water trapped in broken spaces within the timber deck 
+cargo and especially logs. 
+2.3 The master should: 
+.1 cease all loading operations if a list develops for which there is 
+no satisfactory explanation and it would be imprudent to continue 
+loading; 
+.2 before proceeding to sea, ensure that: 
+.2.1 the ship is upright; 
+.2.2 the ship has an adequate metacentric height; and 
+.2.3 the ship meets the required stability criteria. 
+2.4 Ships carrying timber deck cargoes should operate, as far as possible, 
+with a safe margin of stability and with a metacentric height which is 
+consistent with safety requirements but such metacentric height should not 
+be allowed to fall below the recommended minimum~. 
+2.5 H owever, excessive initial stability should be avoided as it will result
+---
+SOURCE: A.715(17).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.715(17).pdf
+be allowed to fall below the recommended minimum~. 
+2.5 H owever, excessive initial stability should be avoided as it will result 
+in rapid and violent motion in heavy seas which will impose large sliding 
+and racking forces on the cargo causing high stresses on the lashings. 
+Operational experience indicates that metacentric height should preferably 
+not exceed 3~ of the breadth in order to prevent excessive accelerations in 
+Reference is made to the Recommendation on intact stability for passenger 
+and cargo ships under 100 metres in length (resolution A.167(ES.IV)), as 
+amended by resolution A.206(VIII) with respect to ships carrying timber 
+deck cargoes. (Reproduced in appendix C). 
+W/5416x/EWP 
+RESOLUTION A.715(17)  adopted on 6 November 1991 
+CODE OF SAFE PRACTICE FOR SHIPS CARRYING 
+TIMBER DECK CARGOES, 1991
+---
+
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+RESOLUTION MEPC.315(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, 
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO  
+Amendments to MARPOL Annex II (Cargo residues and tank washings of persistent floating products)RESOLUTION MEPC.315(74) 
+(adopted on 17 May 2019) 
+ 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE 
+PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE 
+PROTOCOL OF 1978 RELATING THERETO 
+ 
+Amendments to MARPOL Annex II 
+ 
+(Cargo residues and tank washings of persistent floating products) 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee conferred upon it 
+by international conventions for the prevention and control of marine pollution from ships,
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+by international conventions for the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO article 16 of the International Convention for the Prevention of Pollution 
+from Ships,  1973, as modified by the Protocol  of 1978 relating thereto (MARPOL), which 
+specifies the amendment  procedure and confers upon the appropriate body of the 
+Organization the function of considering and adopting amendments thereto, 
+ 
+HAVING CONSIDERED, at its seventy -fourth session, proposed amendments to MARPOL 
+Annex II concerning cargo residues and tank washings of persistent floating products, which 
+were circulated in accordance with article 16(2)(a) of MARPOL, 
+ 
+1 ADOPTS, in accordance with article 16(2)(d) of MARPOL, amendments to MARPOL 
+Annex II, the text of which is set out in the annex to the present resolution; 
+ 
+2 DETERMINES, in accordance with article 16(2)(f)(iii) of MARPOL, that  the
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+2 DETERMINES, in accordance with article 16(2)(f)(iii) of MARPOL, that  the 
+amendments shall be deemed to have been accepted on 1 July 2020 unless, prior to that date, 
+not less than one third of the Parties or Parties the combined merchant flee ts of which 
+constitute not less than 50 per cent of the gross tonnage of the world 's merchant fleet have 
+communicated to the Organization their objection to the amendments; 
+ 
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of  MARPOL, 
+the said amendments shall enter into force on 1 January 2021 upon their acceptance in 
+accordance with paragraph 2 above; 
+ 
+4 REQUESTS the Secretary-General, for the purposes of article 16(2)(e) of MARPOL, 
+to transmit certified copies of the present resolution and the text of the amendments contained 
+in the annex to all Parties to MARPOL;  
+ 
+5 REQUESTS ALSO the Secretary-General to transmit copies of the present resolution
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+in the annex to all Parties to MARPOL;  
+ 
+5 REQUESTS ALSO the Secretary-General to transmit copies of the present resolution 
+and its annex to Members of the Organization which are not Parties to MARPOL. 
+ 
+ 
+RESOLUTION MEPC.315(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, 
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO  
+Amendments to MARPOL Annex II (Cargo residues and tank washings of persistent floating products)- 2 - 
+ 
+ANNEX 
+ 
+AMENDMENTS TO MARPOL ANNEX II  
+ 
+(Cargo residues and tank washings of persistent floating products) 
+ 
+CHAPTER 1 – GENERAL 
+ 
+Regulation 1 – Definitions 
+ 
+1 A new paragraph 23 is added as follows: 
+ 
+"23 Persistent floater  means a slick forming substance with the following 
+properties: 
+ 
+- Density: ≤ sea water (1025 kg/m3 at 20°C); 
+- Vapour pressure: ≤ 0.3 kPa; 
+- Solubility: ≤ 0.1% (for liquids) ≤ 10% (for solids); and
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+- Density: ≤ sea water (1025 kg/m3 at 20°C); 
+- Vapour pressure: ≤ 0.3 kPa; 
+- Solubility: ≤ 0.1% (for liquids) ≤ 10% (for solids); and 
+- Kinematic viscosity: > 10 cSt at 20°C." 
+ 
+CHAPTER 5 – OPERATIONAL DISCHARGES OF RESIDUES  
+OF NOXIOUS LIQUID SUBSTANCES 
+ 
+Regulation 13 – Control of discharges of residues of noxious liquid substances 
+ 
+2 A new paragraph 7.1.4 is inserted after existing paragraph 7.1.3 as follows: 
+ 
+"7.1.4 For substances assigned to category Y that are persistent floaters with a 
+viscosity equal to or greater than 50 mPa⋅s at 20ºC and/or with a melting point equal 
+to or greater than 0ºC, as identified by '16.2.7' in column 'o' of chapter 17 of the 
+IBC Code, the following shall apply in the areas in paragraph 9: 
+ 
+.1 a prewash procedure as specified in appendix VI to this annex shall 
+be applied;  
+ 
+.2 the residue/water mixture generated during the prewash shall be 
+discharged to a reception facility at the port of unloading until the 
+tank is empty; and
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+discharged to a reception facility at the port of unloading until the 
+tank is empty; and  
+ 
+.3 any water subsequently introduced into the tank may be discharged 
+into the sea in accordance with the discharge standards in 
+regulation 13.2." 
+ 
+3 A new paragraph 9 is inserted after existing paragraph 8.2 as follows: 
+ 
+"9 Areas to which regulation 13.7.1.4 applies  
+ 
+9.1 the North West European waters include the North Sea and its approaches, 
+the Irish Sea and its approaches, the Celtic Sea, the English Channel and its 
+approaches and part of the North East Atlantic immediately to the west of 
+Ireland. The area is bounded by lines joining the following points: 
+ 
+48°27' N on the French coast 
+48°27' N; 006°25' W 
+49°52' N; 007°44' W 
+RESOLUTION MEPC.315(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, 
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO  
+Amendments to MARPOL Annex II (Cargo residues and tank washings of persistent floating products)- 3 - 
+ 
+50°30' N; 012° W 
+56°30' N; 012° W 
+62° N; 003° W 
+62° N on the Norwegian coast 
+57°44.8' N on the Danish and Swedish coasts 
+ 
+9.2 the Baltic Sea area means the Baltic Sea proper with the Gulf of Bothnia, the 
+Gulf of Finland and the entrance to the Baltic Sea bounded by the parallel of 
+the Skaw in the Skagerrak at 57°44.8' N; 
+ 
+9.3 the Western European waters  is an area that covers the United Kingdom, 
+Ireland, Belgium, France, Spain and Portugal, from the Shetland Islands in 
+the North to Cape S. Vicente in the South, and the English Channel and its 
+approaches. The area is bounded by lines joining the following points: 
+ 
+58°30' N on the UK coast 
+58°30' N; 000° W 
+62° N; 000° W 
+62° N; 003° W 
+56°30' N; 012° W 
+54°40'40.9'' N; 015° W 
+50°56'45.3'' N; 015° W 
+48°27' N; 006°25' W 
+48°27' N; 008° W 
+44°52' N; 003°10' W
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+62° N; 003° W 
+56°30' N; 012° W 
+54°40'40.9'' N; 015° W 
+50°56'45.3'' N; 015° W 
+48°27' N; 006°25' W 
+48°27' N; 008° W 
+44°52' N; 003°10' W 
+44°52' N; 010° W 
+44°14' N; 011°34' W 
+42°55' N; 012°18' W 
+41°50' N; 011°34' W 
+37°00' N; 009°49' W 
+36°20' N; 009°00' W 
+36°20' N; 007°47' W 
+37°10' N; 007°25' W 
+51°22'25" N; 003°21'52.5" E 
+52°12' N; on the UK east coast 
+52°10.3' N; 006°21.8' W 
+52°01.52' N; 005°04.18' W 
+54°51.43' N; 005°08.47' W 
+ 54°40.39' N; 005°34.34' W 
+ 
+9.4 the Norwegian Sea is bounded by lines joining the following points: 
+ 
+69°47.6904' N; 030°49.059' E 
+69°58.758' N; 031°6.2598' E 
+70°8.625' N; 031°35.1354' E 
+70°16.4826' N; 032°4.3836' E 
+73°23.0652' N; 036°28.5732' E 
+73°35.6586' N; 035°27.3378' E 
+74°2.9748' N; 033°17.8596' E 
+74°20.7084' N; 030°33.5052' E 
+74°29.7972' N; 026°28.1808' E 
+74°24.2448' N; 022°55.0272' E 
+74°13.7226' N; 020°15.9762' E 
+73°35.439' N; 016°36.4974' E 
+73°14.8254' N; 014°9.4266' E 
+RESOLUTION MEPC.315(74)  (adopted on 17 May 2019)
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+74°13.7226' N; 020°15.9762' E 
+73°35.439' N; 016°36.4974' E 
+73°14.8254' N; 014°9.4266' E 
+RESOLUTION MEPC.315(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, 
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO  
+Amendments to MARPOL Annex II (Cargo residues and tank washings of persistent floating products)- 4 - 
+ 
+72°42.54' N; 011°42.1392' E 
+71°58.2' N; 009°54.96' E 
+71°37.5612' N; 008°43.8222' E 
+70°43.161' N; 006°36.0672' E 
+69°36.624' N; 004°47.322' E 
+68°58.3164' N; 003°51.2154' E 
+68°14.9892' N; 003°17.0322' E 
+67°25.7982' N; 003°10.2078' E 
+66°49.7292' N; 003°25.1304' E 
+66°25.9344' N; 003°17.1102' E 
+65°22.7214' N; 001°24.5928' E 
+64°25.9692' N; 000°29.3214' W 
+63°53.2242' N; 000°29.442' W 
+62°53.4654' N; 000°38.355' E 
+62° N; 001°22.2498' E 
+62° N; 004°52.3464' E" 
+ 
+ 
+RESOLUTION MEPC.315(74)  (adopted on 17 May 2019)
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+62°53.4654' N; 000°38.355' E 
+62° N; 001°22.2498' E 
+62° N; 004°52.3464' E" 
+ 
+ 
+RESOLUTION MEPC.315(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, 
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO  
+Amendments to MARPOL Annex II (Cargo residues and tank washings of persistent floating products)- 5 - 
+ 
+APPENDIX IV – STANDARD FORMAT FOR THE PROCEDURES  
+AND ARRANGEMENTS MANUAL 
+ 
+Section 4  – Procedures relating to the cleaning of cargo tanks, the discharge of 
+residues, ballasting and deballasting 
+ 
+4 Paragraph 4.4.5 is replaced by the following: 
+ 
+".5 Persistent floaters with a viscosity equal to or greater than  50 mPa⋅s 
+at 20ºC and/or a melting point equal to or greater than 0ºC 
+ 
+This section should contain instructions on how to deal with tank washings 
+of substances identified by the presence of '16.2.7' in column 'o' of chapter 17
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+of substances identified by the presence of '16.2.7' in column 'o' of chapter 17 
+of the IBC Code and the latest version of the MEPC.2/Circular, when 
+operating in the areas specified in regulation 13.9 of Annex II." 
+ 
+Addendum A  – Flow diagrams – Cleaning of cargo tanks and disposal of tank 
+washings/ballast containing residues of category X, Y and Z substances  
+ 
+5 A new Note 4 is inserted after existing Note 3 as follows: 
+ 
+"Note 4: Within the areas specified in regulation 13.9 of Annex II, regulation 13.7.1.4 
+applies to substances that are identified by '16.2.7' in column 'o' of chapter 17 of the 
+IBC Code." 
+ 
+APPENDIX VI – PREWASH PROCEDURES 
+ 
+6 A new section C is added after existing paragraph 21 as follows: 
+ 
+"C For all ships 
+ 
+Prewash procedures for persistent floaters to which regulation 13.7.1.4 of 
+Annex II of MARPOL applies  
+ 
+Persistent floaters with a viscosity equal to or greater than 50 mPa⋅s at 20ºC and/or a
+---
+SOURCE: MEPC.315(74).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.315(74).pdf
+Annex II of MARPOL applies  
+ 
+Persistent floaters with a viscosity equal to or greater than 50 mPa⋅s at 20ºC and/or a 
+melting point equal to or greater than 0ºC, shall be treated as solidifying or 
+high-viscosity substances for the purposes of the prewash. 
+ 
+Where it is determined that the use of small amounts of cleaning additives would 
+improve and maximize the removal of cargo residues during a prewash, then this 
+should be done in consultation with and with the prior agreement of  the reception 
+facility." 
+RESOLUTION MEPC.315(74)  (adopted on 17 May 2019) 
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, 
+AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO  
+Amendments to MARPOL Annex II (Cargo residues and tank washings of persistent floating products)
+---
