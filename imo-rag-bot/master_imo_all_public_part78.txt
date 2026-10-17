@@ -1,0 +1,783 @@
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+Resolution A.1118(30)  Adopted on 6 December 2017 
+REVISED GUIDELINES ON THE IMPLEMENTATION OF THE INTERNATIONAL 
+SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONSI:\ASSEMBLY\30\RES\A 30-RES.1118.docx 
+E
+ASSEMBLY 
+30th session  
+Agenda item 9 
+A 30/Res.1118 
+10 January 2018 
+Original: ENGLISH 
+Resolution A.1118(30) 
+Adopted on 6 December 2017 
+(Agenda item 9) 
+REVISED GUIDELINES ON THE IMPLEMENTATION OF THE INTERNATIONAL 
+SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONS 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships, 
+RECALLING ALSO resolution A.741(18), by which it adopted the International Management 
+Code for the Safe Operation of Ships and for Pollution Prevention (International Safety 
+Management (ISM) Code),
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+Code for the Safe Operation of Ships and for Pollution Prevention (International Safety 
+Management (ISM) Code), 
+RECALLING FURTHER resolution A.788(19), by which it adopted the Guidelines on 
+implementation of the International Safety Management (ISM) Code by Administrations, 
+NOTING that the ISM Code became mandatory, under the provisions of chapter IX of 
+the International Convention for the Safety of Life at Sea (SOLAS), 1974, as amended, for 
+companies operating certain types of ships, on 1 July 1998, and for companies operating other 
+cargo ships and mobile offshore drilling units propelled by mechanical means of 500 gross 
+tonnage and upwards, on 1 July 2002, 
+NOTING ALSO that the Maritime Safety Committee, at its ninety-second session, adopted, by 
+resolution MSC.353(92), amendments to the ISM Code, 
+NOTING FURTHER resolution A.1071(28), by which it adopted the Revised guidelines on 
+the implementation of the International Safety Management (ISM) Code by Administrations,
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+the implementation of the International Safety Management (ISM) Code by Administrations, 
+RECOGNIZING that an Administration, in establishing that safety standards are being 
+maintained, has a responsibility to ensure that Documents of Compliance and Safety 
+Management Certificates have been issued in accordance with the ISM Code taking into 
+account the aforementioned guidelines, 
+RECOGNIZING ALSO that there may be a need for Administrations to enter into agreements 
+in respect of the issue of certificates by other Administrations in compliance with chapter IX of 
+the 1974 SOLAS Convention and in accordance with resolution A.741(18), 
+Resolution A.1118(30)  Adopted on 6 December 2017 
+REVISED GUIDELINES ON THE IMPLEMENTATION OF THE INTERNATIONAL 
+SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONSA 30/Res.1118 
+Page 2 
+I:\ASSEMBLY\30\RES\A 30-RES.1118.docx 
+RECOGNIZING FURTHER the need for uniform implementation of the ISM Code,
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+Page 2 
+I:\ASSEMBLY\30\RES\A 30-RES.1118.docx 
+RECOGNIZING FURTHER the need for uniform implementation of the ISM Code, 
+HAVING CONSIDERED the recommendations made by the Marine Environment Protection 
+Committee, at its sixty-ninth session, and the Maritime Safety Committee, at its ninety-sixth 
+session, 
+1 ADOPTS the Revised guidelines on the implementation of the International Safety 
+Management (ISM) Code by Administrations, as set out in the annex to the present resolution; 
+2 URGES Governments, when implementing the ISM Code, to adhere to the revised 
+guidelines; 
+3 REQUESTS Governments to inform the Organization of any difficulties they may 
+experience when using the revised guidelines; 
+4 AUTHORIZES the Maritime Safety Committee and the Marine Environment 
+Protection Committee to keep the revised guidelines under review and to amend or revise 
+them as necessary in accordance with the rules and procedures of th ose Committees, for 
+issuance as an MSC-MEPC circular;
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+them as necessary in accordance with the rules and procedures of th ose Committees, for 
+issuance as an MSC-MEPC circular; 
+5 REVOKES resolution A.1071(28). 
+Resolution A.1118(30)  Adopted on 6 December 2017 
+REVISED GUIDELINES ON THE IMPLEMENTATION OF THE INTERNATIONAL 
+SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONSA 30/Res.1118 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1118.docx 
+Annex 
+ 
+REVISED GUIDELINES ON THE IMPLEMENTATION OF THE 
+ INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONS 
+ 
+Table of contents 
+ 
+ 
+1 INTRODUCTION 
+ 
+1.1 The ISM Code 
+1.2 Mandatory application of the ISM Code 
+1.3 Verification and certification responsibilities 
+ 
+2 SCOPE AND APPLICATION 
+ 
+2.1 Definitions 
+2.2 Scope and application 
+ 
+3 VERIFYING COMPLIANCE WITH THE ISM CODE 
+ 
+3.1 General 
+3.2 Ability of the safety management system to meet general safety 
+management objectives 
+3.3 Ability of the safety management system to meet specific requirements of 
+safety and pollution prevention
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+management objectives 
+3.3 Ability of the safety management system to meet specific requirements of 
+safety and pollution prevention 
+ 
+4 CERTIFICATION AND VERIFICATION PROCESS 
+ 
+4.1 Certification and verification activities 
+4.2 Interim verification 
+4.3 Initial verification 
+4.4 Annual verification of Document of Compliance 
+4.5 Intermediate verification of Safety Management Certificates 
+4.6 Renewal verification 
+4.7 Additional verification 
+4.8 Safety management audits 
+4.9 Application for audit 
+4.10 Preliminary review (Document review) 
+4.11 Preparing the audit 
+4.12 Executing the audit 
+4.13 Audit report 
+4.14 Corrective action follow- up 
+4.15 Company responsibilities pertaining to safety management audits 
+4.16 Responsibilities of the organization performing the ISM Code certification 
+4.17 Responsibilities of the verification team 
+ 
+  
+Resolution A.1118(30)  Adopted on 6 December 2017 
+REVISED GUIDELINES ON THE IMPLEMENTATION OF THE INTERNATIONAL
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+Resolution A.1118(30)  Adopted on 6 December 2017 
+REVISED GUIDELINES ON THE IMPLEMENTATION OF THE INTERNATIONAL 
+SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONSA 30/Res.1118 
+Page 4 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1118.docx 
+Appendix – STANDARDS ON ISM CODE CERTIFICATION ARRANGEMENTS 
+ 
+1 INTRODUCTION 
+ 
+2 STANDARD OF MANAGEMENT 
+ 
+3 STANDARDS OF COMPETENCE 
+ 
+3.1 ISM Code certification scheme management 
+3.2 Basic competence for performing verification 
+3.3 Practical training for performing verification 
+ 
+4 QUALIFICATION ARRANGEMENTS 
+ 
+5 CERTIFICATION PROCEDURES AND INSTRUCTIONS 
+  
+Resolution A.1118(30)  Adopted on 6 December 2017 
+REVISED GUIDELINES ON THE IMPLEMENTATION OF THE INTERNATIONAL 
+SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONSA 30/Res.1118 
+Page 5 
+ 
+ 
+I:\ASSEMBLY\30\RES\A 30-RES.1118.docx 
+1 INTRODUCTION 
+ 
+1.1 The ISM Code 
+ 
+1.1.1 The International Management Code for the Safe Operation of Ships and for Pollution
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+1 INTRODUCTION 
+ 
+1.1 The ISM Code 
+ 
+1.1.1 The International Management Code for the Safe Operation of Ships and for Pollution 
+Prevention (International Safety Management (ISM) Code) was adopted by the Organization by 
+resolution A.741(18) and became mandatory by virtue of the entry into force, on 1 July 1998, of 
+SOLAS chapter IX on Management for the safe operation of ships. The ISM Code provides an 
+international standard for the safe management and operation of ships and for pollution 
+prevention. 
+ 
+1.1.2 The ISM Code requires that companies establish safety objectives as described in 
+section 1.2 (Objectives) of the ISM Code and, in addition, that companies develop, implement 
+and maintain a safety management system which includes functional requirements as listed in 
+section 1.4 (Functional requirements for a safety management system (SMS)) of the Code. 
+ 
+1.1.3 The application of the ISM Code should support and encourage the development of
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+1.1.3 The application of the ISM Code should support and encourage the development of 
+a safety culture in shipping. Success factors for the development of a culture that promotes 
+safety and environmental protection are, inter alia, commitment, values, beliefs, and clarity of 
+the safety management system. 
+ 
+1.2 Mandatory application of the ISM Code 
+ 
+1.2.1 The appropriate organization of management, ashore and on board, is needed to 
+ensure adequate standards of safety and pollution prevention. A systematic approach to 
+management by those responsible for management of ships is therefore required. The objectives 
+of the mandatory application of the ISM Code are to ensure: 
+ 
+.1 compliance with mandatory rules and regulations related to the safe 
+operation of ships and protection of the environment; and 
+ 
+.2 the effective implementation and enforcement thereof by Administrations. 
+ 
+1.2.2. Effective enforcement by Administrations must include verification that the safety
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+1.2.2. Effective enforcement by Administrations must include verification that the safety 
+management system complies with the requirements as stipulated in the ISM Code, as well as 
+verification of compliance with mandatory rules and regulations. 
+ 
+1.2.3 The mandatory application of the ISM Code should ensure, support and encourage 
+the taking into account of applicable codes, guidelines and standards recommended by IMO, 
+Administrations, classification societies and maritime industry organizations. 
+ 
+1.3 Verification and certification responsibilities 
+ 
+1.3.1 The Administration is responsible for verifying compliance with the requirements of 
+the ISM Code and for issuing Documents of Compliance to companies and Safety 
+Management Certificates to ships. 
+ 
+1.3.2 The Guidelines for the authorization of organizations acting on behalf of the Administration 
+(resolution A.739(18)) and the Specifications on the survey and certification functions of
+---
+SOURCE: A.1118(30).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1118(30).pdf
+(resolution A.739(18)) and the Specifications on the survey and certification functions of 
+recognized organizations acting on behalf of the Administration (resolution A.789(19)), which 
+have been made mandatory by virtue of SOLAS regulation XI-1/1, and the  IMO Instruments 
+Implementation Code (III Code), as adopted by the Organization by resolution A.1070(28), the 
+use of which has been made mandatory by virtue of SOLAS regulation XIII/2, are applicable 
+when Administrations authorize organizations to issue Documents of Compliance and Safety 
+Management Certificates on their behalf. 
+ 
+Resolution A.1118(30)  Adopted on 6 December 2017 
+REVISED GUIDELINES ON THE IMPLEMENTATION OF THE INTERNATIONAL 
+SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONS
+---
+
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+Resolution A.1051(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+IMO/WMO WORLDWIDE MET-OCEAN INFORMATION AND 
+WARNING SERVICE – GUIDANCE DOCUMENT 
+I:\ASSEMBLY\27\RES\1051.doc 
+ 
+E
+  
+ASSEMBLY 
+27th session  
+Agenda item 9 
+A 27/Res.1051
+20 December 2011
+ Original:  ENGLISH
+ 
+Resolution A.1051(27) 
+ 
+Adopted on 30 November 2011 
+(Agenda item 9) 
+ 
+IMO/WMO WORLDWIDE MET-OCEAN INFORMATION AND 
+WARNING SERVICE – GUIDANCE DOCUMENT 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+regarding the functions of the Assembly in relation to regulations and guidelines concerning 
+maritime safety, 
+ 
+NOTING the International Convention for the Safety of Life at Sea (SOLAS), 1974, as amended, 
+in particular regulation V/5 (Safety of navigation – Meteorological services and warnings), 
+ 
+BEARING IN MIND the decisions of the 62nd Council of the World Meteorological 
+Organization (WMO),
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+BEARING IN MIND the decisions of the 62nd Council of the World Meteorological 
+Organization (WMO), 
+ 
+RECOGNIZING that the existing WMO GMDSS Marine Broadcast System, as amended, is 
+an integral part of the IMO/WMO Worldwide Met-Ocean Information and Warning Service 
+(WWMIWS), 
+ 
+FURTHER RECOGNIZING that the WMO GMDSS Marine Broadcast System needs to be 
+fully in harmony with the IMO/IHO World-Wide Navigational Warning Services and able to 
+respond to requirements for maritime safety services expressed by IMO, 
+ 
+NOTING the provisions made for the promulgation of maritime safety information by  
+the 1988 amendments to the 1974 SOLAS Conventi on concerning radio communications for 
+the Global Maritime Distress and Safety System (GMDSS), 
+ 
+HAVING CONSIDERED the recommendations made by the Maritime Safety Committee at its 
+eighty-ninth session, 
+ 
+1. ADOPTS the IMO/WMO Worldwide Met-Ocean Information and Warning Service ‒
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+eighty-ninth session, 
+ 
+1. ADOPTS the IMO/WMO Worldwide Met-Ocean Information and Warning Service ‒ 
+Guidance Document, as set out in the annex to the present resolution; 
+ 
+2. RECOMMENDS Governments to implem ent the IMO/WMO Worldwide Met-Ocean 
+Information and Warning Service; 
+ 
+3. AUTHORIZES the Maritime Safety Committee to keep the annexed guidance 
+document under review and update it as necessary in light of experience gained in its 
+application, in accordance with the procedure set out in section 7 of the annex to the present 
+resolution. 
+Resolution A.1051(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+IMO/WMO WORLDWIDE MET-OCEAN INFORMATION AND 
+WARNING SERVICE – GUIDANCE DOCUMENTA 27/Res.1051 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\27\RES\1051.doc 
+Annex 
+ 
+IMO/WMO WORLDWIDE MET-OCEAN INFORMATION AND WARNING SERVICE 
+GUIDANCE DOCUMENT 
+ 
+ 
+1 INTRODUCTION  
+ 
+1.1 The International Convention for the Safety of Life at Sea (SOLAS), 1974
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+GUIDANCE DOCUMENT 
+ 
+ 
+1 INTRODUCTION  
+ 
+1.1 The International Convention for the Safety of Life at Sea (SOLAS), 1974  
+(1974 SOLAS Convention), chapter V (Safety of Navigation), as amended, regulation 5 
+(Meteorological services and warnings), states: 
+ 
+"2 In particular, Contracting Governments undertake to carry out, in 
+cooperation, the following meteorological arrangements: 
+ 
+.10 To endeavour to obtain a uniform procedure in regard to the 
+international meteorological services already specified, and, as far 
+as is practicable, to conform to the Technical Regulations and 
+recommendations made by the World Meteorological Organization, 
+to which the Contracting Governments may refer for study and 
+advice any meteorological question which may arise in carrying out 
+the present Convention." 
+ 
+1.2 Resolution A.705(17), as amended, on the promulgation of maritime safety 
+information, sets out the organization, standards and methods which should be used for the
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+information, sets out the organization, standards and methods which should be used for the 
+promulgation and reception of maritime safety information, including navigational and 
+meteorological warnings, meteorological forecasts and other urgent safety-related messages 
+broadcast to ships, as documented in the 1974  SOLAS Convention.  The WMO Executive 
+Council, at its sixty-first session (June 2009), requested WMO to establish and develop, in 
+collaboration with IMO, terms of reference for the development of an IMO/WMO Worldwide 
+Met-Ocean Information and Warning Service Guidance document (WWMIWS), to complement 
+the existing IMO/IHO World-wide Navigational Warning Services Guidance document 
+(WWNWS), provided in resolution A.706(17), as amended.  In this context, this document is 
+intended to provide specific guidance for the promulgation of internationally coordinated 
+meteorological information, forecast and warnings services, which does not apply to purely 
+national services.
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+meteorological information, forecast and warnings services, which does not apply to purely 
+national services. 
+ 
+1.3 The regulatory framework for the provision of marine meteorological services within 
+the new WMO GMDSS Marine Broadcast System was developed from Recommendation 3 
+(CMM-XI) in 1993, endorsed by the WMO Executive Council at its forty-fourth session.  This 
+new system reflects the evolution since the advent of the Global Maritime Distress and 
+Safety System (GMDSS), as adopted by the Conference of Contracting Governments to  
+the 1974 SOLAS Convention on the Global Maritime Distress and Safety System in  
+November 1988, effective on 1 February 1992.  The WMO GMDSS Marine Broadcast 
+System is an integral part of the WWMIWS. 
+ 
+1.4 Future amendments to this guidance docum ent will be considered formally and 
+approved by both WMO and IMO in accordance with the procedure set out in section 7.
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+approved by both WMO and IMO in accordance with the procedure set out in section 7.  
+Proposed amendments should be evaluated by the Joint WMO-IOC Technical Commission 
+for Oceanography and Marine Meteorology (JCOMM) Expert Team on Maritime Safety 
+Services, which includes an ex-officio  representative of the IMO Secretariat, prior to any 
+extensive WMO and IMO consideration. 
+ 
+Resolution A.1051(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+IMO/WMO WORLDWIDE MET-OCEAN INFORMATION AND 
+WARNING SERVICE – GUIDANCE DOCUMENTA 27/Res.1051 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\27\RES\1051.doc 
+2 DEFINITIONS  
+ 
+For the purposes of meteorological information, the following definitions apply: 
+ 
+.1 Coastal and offshore area  applies to areas for which Member States issue 
+weather and sea bulletins, governed by the procedures in WMO-No.558 – 
+Manual on Marine Meteorological Services; 
+ 
+.2 Global Maritime Distress and Safety System (GMDSS) means the global
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+Manual on Marine Meteorological Services; 
+ 
+.2 Global Maritime Distress and Safety System (GMDSS) means the global 
+communications service based upon autom ated systems, both satellite and 
+terrestrial, to provide distress alerting and promulgation of maritime safety 
+information for mariners; 
+ 
+.3 HF NBDP means High Frequency narrow-band direct-printing, using radio 
+telegraphy as defined in Recommendation ITU-R M.688; 
+ 
+.4 International NAVTEX service  means the coordinated broadcast and 
+automatic reception on 518 kHz of maritime safety information by means of 
+narrow-band direct-printing telegraphy using the English language1; 
+ 
+.5 International SafetyNET service means the coordinated broadcasting and 
+automated reception of maritime safety information via the Inmarsat 
+Enhanced Group Call (EGC) system, using the English language,  
+in accordance with the provisions of the 1974 SOLAS Convention; 
+ 
+.6 Issuing service means a National Meteorological Service which has
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+in accordance with the provisions of the 1974 SOLAS Convention; 
+ 
+.6 Issuing service means a National Meteorological Service which has 
+accepted responsibility for ensuring that meteorological warnings and 
+forecasts for shipping are disseminated through the Inmarsat SafetyNET 
+service to the designated area (METAREA) for which the Service has 
+accepted responsibility under the broadcast requirements of the GMDSS2; 
+ 
+.7 Maritime safety information (MSI) 3 means navigational and meteorological 
+warnings, meteorological forecasts and other urgent safety-related 
+messages broadcast to ships; 
+ 
+.8 METAREA  means a geographical sea area 4 established for the purpose of 
+coordinating the broadcast of marine meteorological information.  The term 
+METAREA followed by a roman numeral may be used to identify a 
+particular sea area.  The delimitation of such areas is not related to and 
+should not prejudice the delimitation of any boundaries between States;
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+should not prejudice the delimitation of any boundaries between States; 
+ 
+.9 METAREA Coordinator means the authority charged with coordinating 
+Marine Meteorological Information broadcasts by one or more National 
+Meteorological Services acting as Preparation or Issuing Services within 
+the METAREA; 
+ 
+                                                 
+1  As set out in the IMO NAVTEX Manual. 
+2 As defined in WMO-No 558. 
+3 As defined in regulati on IV/2 of the 1974 SOLAS Convention, as amended. 
+4 Which may include inland seas, lakes and waterways navigable by seagoing ships. 
+Resolution A.1051(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+IMO/WMO WORLDWIDE MET-OCEAN INFORMATION AND 
+WARNING SERVICE – GUIDANCE DOCUMENTA 27/Res.1051 
+Page 4 
+ 
+ 
+I:\ASSEMBLY\27\RES\1051.doc 
+.10 National NAVTEX service means the broadcast and automatic reception of 
+maritime safety information by means of narrow-band direct-printing
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+.10 National NAVTEX service means the broadcast and automatic reception of 
+maritime safety information by means of narrow-band direct-printing 
+telegraphy using frequencies other than 518 kHz and languages as decided 
+by the Administration concerned; 
+ 
+.11 National SafetyNET service means the broadcasting and automated 
+reception of maritime safety information via the Inmarsat EGC system, 
+using languages as decided by the Administration concerned; 
+ 
+.12 NAVAREA means a geographical sea area 5 established for the purpose of 
+coordinating the broadcast of navigational warnings.  The term NAVAREA 
+followed by a roman numeral may be used to identify a particular sea area.  
+The delimitation of such areas is not related to and should not prejudice the 
+delimitation of any boundaries between States; 
+ 
+.13 NAVTEX means the system for the broadcast and automatic reception of 
+maritime safety information by means of narrow band direct-printing 
+telegraphy;
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+maritime safety information by means of narrow band direct-printing 
+telegraphy; 
+ 
+.14 NAVTEX coordinator means the authority charged with operating and 
+managing one or more NAVTEX stations broadcasting maritime safety 
+information as part of the International NAVTEX service; 
+ 
+.15 Preparation service  means a National Meteorological Service which has 
+accepted responsibility for the preparation of forecasts and warnings for 
+parts of or an entire designated area (METAREA) in the WMO system for 
+the dissemination of meteorological forecasts and warning to shipping 
+under the GMDSS and for their transfer to the relevant Issuing Service for 
+broadcast; 
+ 
+.16 SafetyNET means the international service for the broadcasting and 
+automatic reception of maritime safety information via the Inmarsat  
+EGC system.  SafetyNET receiving capability is part of the mandatory 
+equipment which is required to be carried by certain ships in accordance
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+EGC system.  SafetyNET receiving capability is part of the mandatory 
+equipment which is required to be carried by certain ships in accordance 
+with the provisions of the 1974 SOLAS Convention; 
+ 
+.17 Sub-Area means a sub-division of a METAREA in which a number of 
+countries have established a coordinated system for the promulgation of 
+marine meteorological information.  The delimitation of such areas is not 
+related to and should not prejudice the delimitation of any boundaries 
+between States; and 
+ 
+.18 In the operating procedures coordination means that the allocation of the 
+time for data broadcast is centralized, the format and criteria of data 
+transmissions are compliant as described in the Joint IMO/IHO/WMO 
+Manual on Maritime Safety Information and that all services are managed 
+as set out in resolution A.705(17) on Promulgation of Maritime Safety 
+Information, as amended.
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+Information, as amended. 
+ 
+ 
+                                                 
+5 Which may include inland seas, lakes and waterways navigable by seagoing ships. 
+Resolution A.1051(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+IMO/WMO WORLDWIDE MET-OCEAN INFORMATION AND 
+WARNING SERVICE – GUIDANCE DOCUMENTA 27/Res.1051 
+Page 5 
+ 
+ 
+I:\ASSEMBLY\27\RES\1051.doc 
+3 METEOROLOGICAL INFORMATION BROADCASTS  
+ 
+3.1 Methods  
+ 
+3.1.1 Two principal methods are used for broadcasting marine meteorological information 
+as part of MSI in accordance with the provisions of the 1974 SOLAS Convention, in the 
+areas covered by these methods, as follows: 
+ 
+.1 NAVTEX:  broadcasts to coastal and offshore areas; and 
+ 
+.2 SafetyNET:  broadcasts which cover all the waters of the globe except for 
+sea area A4, as defined by resolution A.801(19) on Provision of radio 
+services for the GMDSS, Annex 3, paragraph 4, as amended.
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+sea area A4, as defined by resolution A.801(19) on Provision of radio 
+services for the GMDSS, Annex 3, paragraph 4, as amended. 
+ 
+3.1.2 Information has to be provided for unique and precisely defined sea areas, each 
+being served only by the most appropriate of  the above systems.  Although there will be 
+some duplication to allow a ship to change from one system to another, the majority of 
+messages will only be broadcast on one system. 
+ 
+3.1.3 NAVTEX broadcasts have to be made in accordance with the standards and 
+procedures set out in the NAVTEX Manual. 
+ 
+3.1.4 SafetyNET broadcasts have to be made in accordance with the standards and 
+procedures set out in the International SafetyNET Manual. 
+ 
+3.1.5 HF NBDP may be used to promulgate marine meteorological information in areas 
+outside Inmarsat coverage (SOLAS regulation IV/7.1.5). 
+ 
+3.1.6 In addition, Administrations may also provide marine meteorological information by 
+other means. 
+ 
+3.2 Scheduling
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+3.1.6 In addition, Administrations may also provide marine meteorological information by 
+other means. 
+ 
+3.2 Scheduling  
+ 
+3.2.1 Automated methods (NAVTEX/SafetyNET)  
+ 
+3.2.1.1 Meteorological warnings have to be broadcasted as soon as possible or as dictated 
+by the nature and timing of the event.  Normally, the initial broadcast should be made as 
+follows: 
+ 
+.1 for NAVTEX, at the next scheduled broadcast, unless circumstances 
+indicate the use of procedures for VITAL or IMPORTANT warnings; and 
+ 
+.2 for SafetyNET, within 30 min of receipt of original information, or at the next 
+scheduled broadcast. 
+ 
+3.2.1.2 Meteorological warnings have to be repeated in scheduled broadcasts in 
+accordance with the guidelines promulgated in the NAVTEX Manual and International 
+SafetyNET Manual as appropriate. 
+ 
+3.2.1.3 At least two scheduled daily broadcast times are necessary to provide adequate 
+promulgation of meteorological information.
+---
+SOURCE: A.1051(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1051(27).pdf
+3.2.1.3 At least two scheduled daily broadcast times are necessary to provide adequate 
+promulgation of meteorological information. 
+ 
+Resolution A.1051(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+IMO/WMO WORLDWIDE MET-OCEAN INFORMATION AND 
+WARNING SERVICE – GUIDANCE DOCUMENT
+---
+
+SOURCE: A.998(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.998(25).pdf
+Resolution A.998(25)  Adopted on 29 November 2007 
+NEED FOR CAPACITY-BUILDING FOR THE DEVELOPMENT 
+AND IMPLEMENTATION OF NEW, AND AMENDMENTS TO EXISTING, INSTRUMENTS 
+ 
+I:\ASSEMBLY\25\RES\998.doc 
+For reasons of economy, this document is pr inted in a limited number.  Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+ 
+INTERNATIONAL MARITIME ORGANIZATION 
+ 
+ 
+ 
+IMO 
+ 
+E
+ 
+ 
+ASSEMBLY 
+25th session 
+Agenda item 9 
+A 25/Res.998
+3 January 2008
+Original: ENGLISH
+ 
+ 
+Resolution A.998(25) 
+ 
+Adopted on 29 November 2007 
+ 
+NEED FOR CAPACITY-BUILDING FOR THE DEVELOPMENT 
+AND IMPLEMENTATION OF NEW, AND AMENDMENTS 
+TO EXISTING, INSTRUMENTS 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING resolution A.500(XII) whereby it  directed the Council and the committees 
+to entertain proposals for new conventions or amendments to existing conventions only on the 
+basis of clear and well-documented demonstrati on of compelling need, ta king into account the
+---
+SOURCE: A.998(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.998(25).pdf
+basis of clear and well-documented demonstrati on of compelling need, ta king into account the 
+undesirability of modify ing conventions not yet in force or  of amending existing conventions 
+unless such latter instruments have  been in force for a reasonable  period of time and experience 
+has been gained of their operation, having regard  to the costs to the maritime industry and the 
+burden on the legislative and administrative resources of Member States, 
+ 
+NOTING WITH SATISFACTION the progress ach ieved in the implementation of the 
+provisions of resolution A.500(XII), 
+ 
+APPRECIATING the efforts of the Council, through the Organization’s Strategic Plan, to 
+enhance the importance of capacity -building to ensure universal and uniform application of the 
+Organization’s instruments, 
+ 
+FURTHER NOTING that, unless the Council, the committees and their subsidiary bodies 
+adopt a cradle-to-grave approach in relation to matters concerni ng capacity-bui lding, technical
+---
+SOURCE: A.998(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.998(25).pdf
+adopt a cradle-to-grave approach in relation to matters concerni ng capacity-bui lding, technical 
+co-operation and assistance, the chances of  success in the ratification and effective 
+implementation of IMO instruments may be reduced  by the level of unprep aredness or lack of 
+capacity that Governments, particularly of deve loping countries, experience at the point when 
+implementation of such instruments is urgently required, 
+ 
+CONSIDERING that the lack of capacity with in States has a direct relationship to the 
+level and quality of implementa tion of existing, new and/or amended instruments and that the 
+low speed of ratification is partly due to the lack of understanding of the original intentions of the 
+instrument and what is required of Member St ates in order to real ize full benefits of 
+implementation, 
+ 
+TAKING INTO ACCOUNT that, even though States may have ratified newly adopted or
+---
+SOURCE: A.998(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.998(25).pdf
+implementation, 
+ 
+TAKING INTO ACCOUNT that, even though States may have ratified newly adopted or 
+amended instruments, the lack of preparati on through capacity-buildin g and training, or the 
+absence of a guidance document to implementation, results in an undesirable lack of success to 
+effective implementation of these instruments, 
+Resolution A.998(25)  Adopted on 29 November 2007 
+NEED FOR CAPACITY-BUILDING FOR THE DEVELOPMENT 
+AND IMPLEMENTATION OF NEW, AND AMENDMENTS TO EXISTING, INSTRUMENTSA25/Res.998 - 2 - 
+ 
+ 
+I:\ASSEMBLY\25\RES\998.doc 
+ 
+1. DIRECTS the Council to coordinate the work of the committees and their subsidiary 
+bodies towards ensuring, as far as possible, a balanced level of implementation of new 
+instruments; 
+ 
+2. RECOMMENDS that the Council and the comm ittees consider, as a means to promote 
+and enhance capacity-building effo rts, proposals for the developmen t of new instruments and/or
+---
+SOURCE: A.998(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.998(25).pdf
+and enhance capacity-building effo rts, proposals for the developmen t of new instruments and/or 
+amendment to existing ones after an assessmen t of implications for capacity-building and 
+technical co-operation has been undertaken; 
+ 
+3. FURTHER RECOMMENDS that the committ ees should establish a mechanism to 
+identify new instruments requiring the provision of technical assistance prior to implementation,  
+issues requiring special focus when developing technical co-operation a nd assistance activities 
+relating to the implementation of new measur es, and new instruments requiring a simplified 
+guide for implementation; 
+ 
+4. INSTRUCTS all IMO organs, under the coordination of the Council, to make 
+arrangements, within their work  programmes and guidelines on the organization and method of 
+their work, so as to enable as many Member States  as possible to participate actively in the work 
+of such organs and their subsidiary bodies;
+---
+SOURCE: A.998(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.998(25).pdf
+their work, so as to enable as many Member States  as possible to participate actively in the work 
+of such organs and their subsidiary bodies; 
+ 
+5. REQUESTS the Council to monitor progre ss on the implementation of this policy on a 
+regular basis. 
+ 
+ 
+____________ 
+ 
+Resolution A.998(25)  Adopted on 29 November 2007 
+NEED FOR CAPACITY-BUILDING FOR THE DEVELOPMENT 
+AND IMPLEMENTATION OF NEW, AND AMENDMENTS TO EXISTING, INSTRUMENTSResolution A.998(25)  Adopted on 29 November 2007 
+NEED FOR CAPACITY-BUILDING FOR THE DEVELOPMENT 
+AND IMPLEMENTATION OF NEW, AND AMENDMENTS TO EXISTING, INSTRUMENTS
+---
