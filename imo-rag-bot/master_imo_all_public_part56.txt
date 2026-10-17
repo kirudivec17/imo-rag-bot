@@ -1,0 +1,2879 @@
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+Resolution A.1188(33) Adopted on 6 December 2023 (Agenda items 11 and 13) 
+2023 GUIDELINES ON IMPLEMENTATION OF THE INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONS 
+I:\ASSEMBLY\33\A 33-RES.1188.docx  
+ 
+ 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY 
+33rd session 
+Agenda items 11 and 13 
+ 
+A 33/Res.1188 
+2 January 2024 
+Original: ENGLISH 
+ 
+Resolution A.1188(33) 
+ 
+Adopted on 6 December 2023 
+(Agenda items 11 and 13) 
+ 
+2023 GUIDELINES ON IMPLEMENTATION OF THE INTERNATIONAL SAFETY 
+MANAGEMENT (ISM) CODE BY ADMINISTRATIONS 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO resolution A.741(18) by which it adopted the International Management 
+Code for the Safe Operation of Ships and for Pollution Prevention  (International Safety
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+Code for the Safe Operation of Ships and for Pollution Prevention  (International Safety 
+Management (ISM) Code), 
+ 
+RECALLING FURTHER resolution A.788(19) by which it adopted the Guidelines on 
+implementation of the International Safety Management (ISM) Code by Administrations, 
+ 
+RECALLING resolution A.1118(30) by which it adopted the Revised guidelines on 
+implementation of the International Safety Management (ISM) Code by Administrations , 
+following successive revocation of resolutions A.1071(28) and A.788(19), 
+ 
+NOTING that the ISM Code became mandatory under the provisions of chapter IX of the 
+International Convention for the Safety of Life at Sea (SOLAS), 1974, for companies operating 
+certain types of ships, on 1 July 1998; and for companies operating other carg o ships and 
+mobile offshore drilling units propelled by mechanical means of 500 gross tonnage and 
+upwards, on 1 July 2002,
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+mobile offshore drilling units propelled by mechanical means of 500 gross tonnage and 
+upwards, on 1 July 2002, 
+ 
+NOTING ALSO that the Maritime Safety Committee, at its ninety-second session, adopted, by 
+resolution MSC.353(92), amendments to the ISM Code, 
+ 
+RECOGNIZING that an Administration, in establishing that safety standards are being 
+maintained, has a responsibility to ensure that Documents of Compliance and Safety 
+Management Certificates are issued in accordance with the ISM Code, taking into account the 
+aforementioned Guidelines, 
+ 
+RECOGNIZING ALSO that there may be a need for Administrations to enter into agreements 
+in respect of the issue of certificates by other Administrations, in compliance with chapter IX of 
+the 1974 SOLAS Convention and in accordance with resolution A.741(18), 
+Resolution A.1188(33) Adopted on 6 December 2023 (Agenda items 11 and 13)
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+the 1974 SOLAS Convention and in accordance with resolution A.741(18), 
+Resolution A.1188(33) Adopted on 6 December 2023 (Agenda items 11 and 13) 
+2023 GUIDELINES ON IMPLEMENTATION OF THE INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONSA 33/Res.1187 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\33\A 33-RES.1188.docx  
+RECOGNIZING FURTHER the need for uniform implementation of the ISM Code as well as 
+application of remote ISM Code audits through experience gained during the COVID -19 
+pandemic and advanced technology, 
+ 
+HAVING CONSIDERED the recommendations made by the Marine Environment Protection 
+Committee, at its sixty -ninth session, and the Maritime Safety Committee, at its ninety -sixth 
+session, 
+ 
+1 ADOPTS the 2023 Guidelines on implementation of the International Safety 
+Management (ISM) Code by Administrations, as set out in the annex to the present resolution; 
+ 
+2 URGES Governments, when implementing the ISM Code, to adhere to the 2023 
+Guidelines;
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+2 URGES Governments, when implementing the ISM Code, to adhere to the 2023 
+Guidelines; 
+ 
+3 REQUESTS Governments to inform the Organization of any difficulties they may 
+experience when using the 2023 Guidelines; 
+ 
+4 AUTHORIZES the Maritime Safety Committee and the Marine Environment 
+Protection Committee to keep the 2023 Guidelines under review and to amend or revise them 
+as necessary in accordance with the rules and procedures of the Committees, for issuance as 
+MSC-MEPC circulars; 
+ 
+5 REVOKES resolution A.1118(30). 
+ 
+ 
+ 
+Resolution A.1188(33) Adopted on 6 December 2023 (Agenda items 11 and 13) 
+2023 GUIDELINES ON IMPLEMENTATION OF THE INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONSA 33/Res.1188 
+Annex, page 1 
+ 
+ 
+I:\ASSEMBLY\33\A 33-RES.1188.docx  
+ANNEX 
+ 
+2023 GUIDELINES ON THE IMPLEMENTATION OF THE 
+ INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONS 
+ 
+Table of contents 
+ 
+ 
+1 INTRODUCTION 
+ 
+1.1 The ISM Code
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONS 
+ 
+Table of contents 
+ 
+ 
+1 INTRODUCTION 
+ 
+1.1 The ISM Code 
+1.2 Mandatory application of the ISM Code 
+1.3 Verification and certification responsibilities 
+ 
+2 SCOPE AND APPLICATION 
+ 
+2.1 Definitions 
+2.2 Scope and application 
+ 
+3 VERIFYING COMPLIANCE WITH THE ISM CODE 
+ 
+3.1 General 
+3.2 Ability of the safety management system to meet general safety 
+management objectives 
+3.3 Ability of the safety management system to meet specific requirements of 
+safety and pollution prevention 
+ 
+4 CERTIFICATION AND VERIFICATION PROCESS 
+ 
+4.1 Certification and verification activities 
+4.2 Interim verification 
+4.3 Initial verification 
+4.4 Annual verification of Document of Compliance 
+4.5 Intermediate verification of Safety Management Certificates 
+4.6 Renewal verification 
+4.7 Additional verification 
+4.8 Safety management audits 
+4.9 Application for audit 
+4.10 Preliminary review (Document review) 
+4.11 Preparing the audit
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+4.8 Safety management audits 
+4.9 Application for audit 
+4.10 Preliminary review (Document review) 
+4.11 Preparing the audit 
+4.12 Executing the audit 
+4.13 Audit report 
+4.14 Corrective action follow-up 
+4.15 Company responsibilities pertaining to safety management audits 
+4.16 Responsibilities of the organization performing the ISM Code certification 
+4.17 Responsibilities of the verification team 
+ 
+  
+Resolution A.1188(33) Adopted on 6 December 2023 (Agenda items 11 and 13) 
+2023 GUIDELINES ON IMPLEMENTATION OF THE INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONSA 33/Res.1188 
+Annex, page 2 
+ 
+ 
+I:\ASSEMBLY\33\A 33-RES.1188.docx  
+Appendix – STANDARDS ON ISM CODE CERTIFICATION ARRANGEMENTS 
+ 
+1 INTRODUCTION 
+ 
+2 STANDARD OF MANAGEMENT 
+ 
+3 STANDARDS OF COMPETENCE 
+ 
+3.1 ISM Code certification scheme management 
+3.2 Basic competence for performing verification 
+3.3 Practical training for performing verification 
+ 
+4 QUALIFICATION ARRANGEMENTS
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+3.2 Basic competence for performing verification 
+3.3 Practical training for performing verification 
+ 
+4 QUALIFICATION ARRANGEMENTS 
+ 
+5 CERTIFICATION PROCEDURES AND INSTRUCTIONS 
+  
+Resolution A.1188(33) Adopted on 6 December 2023 (Agenda items 11 and 13) 
+2023 GUIDELINES ON IMPLEMENTATION OF THE INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONSA 33/Res.1188 
+Annex, page 3 
+ 
+ 
+I:\ASSEMBLY\33\A 33-RES.1188.docx  
+1 INTRODUCTION 
+ 
+1.1 The ISM Code 
+ 
+1.1.1 The International Management Code for the Safe Operation of Ships and for Pollution 
+Prevention (International Safety Management (ISM) Code) was adopted by the Organization by 
+resolution A.741(18) and became mandatory by virtue of the entry into force, on 1 July 1998, of 
+SOLAS chapter IX on Management for the safe operation of ships. The ISM Code provides an 
+international standard for the safe management and operation of ships and for pollution 
+prevention.
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+international standard for the safe management and operation of ships and for pollution 
+prevention. 
+ 
+1.1.2 The ISM Code requires that companies establish safety objectives as described in 
+section 1.2 (Objectives) of the ISM Code and, in addition, that companies develop, implement 
+and maintain a safety management system which includes functional requirements as listed in 
+section 1.4 (Functional requirements for a safety management system (SMS)) of the Code. 
+ 
+1.1.3 The application of the ISM Code should support and encourage the development of 
+a safety culture in shipping. Success factors for the development of a culture that promotes 
+safety and environmental protection are, inter alia, commitment, values, beliefs, and clarity of 
+the safety management system. 
+ 
+1.2 Mandatory application of the ISM Code 
+ 
+1.2.1 The appropriate organization of management, ashore and on board, is needed to 
+ensure adequate standards of safety and pollution prevention. A systematic approach to
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+ensure adequate standards of safety and pollution prevention. A systematic approach to 
+management by those responsible for management of ships is therefore required. The objectives 
+of the mandatory application of the ISM Code are to ensure: 
+ 
+.1 compliance with mandatory rules and regulations related to the safe 
+operation of ships and protection of the environment; and 
+ 
+.2 the effective implementation and enforcement thereof by Administrations. 
+ 
+1.2.2. Effective enforcement by Administrations must include verification that the safety 
+management system complies with the requirements as stipulated in the ISM Code, as well as 
+verification of compliance with mandatory rules and regulations. 
+ 
+1.2.3 The mandatory application of the ISM Code should ensure, support and encourage 
+the taking into account of applicable codes, guidelines and standards recommended by IMO, 
+Administrations, classification societies and maritime industry organizations.
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+Administrations, classification societies and maritime industry organizations. 
+ 
+1.3 Verification and certification responsibilities 
+ 
+1.3.1 The Administration is responsible for verifying compliance with the requirements of 
+the ISM Code and for issuing Documents of Compliance to companies and Safety 
+Management Certificates to ships. 
+ 
+1.3.2 The Code for Recognized Organizations (RO Code) (resolutions 
+MSC.349(92)/MEPC.237(65)), which has been made mandatory by virtue of SOLAS 
+regulation XI-1/1, and the IMO Instruments Implementation Code (III Code), as adopted by the 
+Organization by resolution A.1070(28), the use of which has been made mandatory by virtue of 
+SOLAS regulation XIII/2, are applicable when Administrations authorize organizations to issue 
+Documents of Compliance and Safety Management Certificates on their behalf. 
+ 
+Resolution A.1188(33) Adopted on 6 December 2023 (Agenda items 11 and 13)
+---
+SOURCE: A.1188(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1188(33).pdf
+Resolution A.1188(33) Adopted on 6 December 2023 (Agenda items 11 and 13) 
+2023 GUIDELINES ON IMPLEMENTATION OF THE INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE BY ADMINISTRATIONS
+---
+
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+RESOLUTION MEPC.288(71)  (adopted on 7 July 2017) 
+2017 GUIDELINES FOR BALLAST WATER EXCHANGE (G6)MEPC 71/17/Add.1 
+Annex 9, page 1 
+ 
+ 
+I:\MEPC\71\MEPC 71-17-Add-1.docx 
+ANNEX 9 
+ 
+RESOLUTION MEPC.288(71) 
+(adopted on 7 July 2017) 
+ 
+2017 GUIDELINES FOR BALLAST WATER EXCHANGE (G6) 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee conferred upon it 
+by international conventions for the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO that the International Conference on Ballast Water Management for Ships 
+held in February 2004 adopted the International Convention for the Control and Management 
+of Ships' Ballast Water and Sediments, 2004 (the Convention) together with four Conference 
+resolutions, 
+ 
+NOTING that regulation A-2 of the Convention requires that discharge of ballast water shall
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+resolutions, 
+ 
+NOTING that regulation A-2 of the Convention requires that discharge of ballast water shall 
+only be conducted through ballast water management in accordance with the provisions of 
+the Annex to the Convention, 
+ 
+NOTING ALSO that regulation B-4 of the Annex to the Convention addresses the conditions 
+under which ballast water exchange should be conducted, taking into account Guidelines 
+developed by the Organization, 
+ 
+NOTING FURTHER resolution MEPC.124(53) by which the Committee adopted the 
+Guidelines for ballast water exchange (G6) and resolved to keep them under review, 
+ 
+HAVING AGREED, at its seventieth session, to revise the Guidelines (G6) to incorporate the 
+ballast water reporting form set out in appendix 1 of the Guidelines for the control and 
+management of ships' ballast water to minimize the transfer of harmful aquatic organisms and 
+pathogens (resolution A.868(20)),
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+management of ships' ballast water to minimize the transfer of harmful aquatic organisms and 
+pathogens (resolution A.868(20)), 
+ 
+HAVING CONSIDERED, at its seventy-first session, draft revised Guidelines for ballast water 
+exchange (G6), 
+ 
+1 ADOPTS the 2017 Guidelines for ballast water exchange (G6) (the 2017 Guidelines (G6)), 
+as set out in the annex to this resolution; 
+ 
+2 INVITES Governments to apply the 2017 Guidelines (G6) as soon as possible, or 
+when the Convention becomes applicable to them;  
+ 
+3 AGREES to keep the 2017 Guidelines (G6) under review in light of experience gained 
+with their application;  
+ 
+4 REVOKES the Guidelines adopted by resolution MEPC.124(53). 
+ 
+  
+RESOLUTION MEPC.288(71)  (adopted on 7 July 2017) 
+2017 GUIDELINES FOR BALLAST WATER EXCHANGE (G6)MEPC 71/17/Add.1 
+Annex 9, page 2 
+ 
+ 
+I:\MEPC\71\MEPC 71-17-Add-1.docx 
+ANNEX 
+ 
+2017 GUIDELINES FOR BALLAST WATER EXCHANGE (G6) 
+ 
+ 
+1 INTRODUCTION
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+Annex 9, page 2 
+ 
+ 
+I:\MEPC\71\MEPC 71-17-Add-1.docx 
+ANNEX 
+ 
+2017 GUIDELINES FOR BALLAST WATER EXCHANGE (G6) 
+ 
+ 
+1 INTRODUCTION 
+ 
+1.1 The purpose of these Guidelines is to provide shipowners and operators with general 
+guidance on the development of ship specific procedures for conducting ballast water 
+exchange. Whenever possible shipowners and operators should enlist the assistance of 
+classification societies or qualified marine surveyors in tailoring ballast exchange practices for 
+various conditions of weather, cargo and stability. The application of processes and 
+procedures concerning ballast water management are at the core of the solution to prevent, 
+minimize and ultimately eliminate the introduction of harmful aquatic organisms and 
+pathogens. Ballast water exchange offers a means, when used in conjunction with good ballast 
+water management practices, to assist in achieving this solution.
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+water management practices, to assist in achieving this solution. 
+ 
+1.2 Ballast water exchange introduces a number of safety issues, which affect both the 
+ship and its crew. These Guidelines are intended to provide guidance on the safety and 
+operational aspects of ballast water exchange at sea. 
+ 
+1.3 Given that there are different types of ships which may be required to undertake 
+ballast water exchange at sea, it is impractical to provide specific guidelines for each ship type. 
+Shipowners are cautioned that they should consider the many variables that apply to their 
+ships. Some of these variables include type and size of ship, ballast tank configurations and 
+associated pumping systems, trading routes and associated weather conditions, port State 
+requirements and manning. 
+ 
+Application 
+ 
+1.4 The Guidelines apply to all those involved with ballast water exchange, including 
+shipowners and operators, designers, classification societies and shipbuilders. Operational
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+shipowners and operators, designers, classification societies and shipbuilders. Operational 
+procedures and guidance reflecting the issues raised in these Guidelines should be reflected 
+in the ship's ballast water management plan. 
+ 
+2 DEFINITIONS 
+ 
+For the purposes of these Guidelines, the definitions in the International Convention for the 
+Control and Management of Ships' Ballast Water and Sediments (the Convention) apply and 
+"ballast water tank" means any tank, hold or space used for the carriage of ballast water. 
+ 
+3 RESPONSIBILITIES 
+ 
+3.1 Shipowners and operators should ensure, prior to undertaking ballast water 
+exchange, that all the safety aspects associated with the ballast water exchange method or 
+methods used on board have been considered and that suitably trained personnel are on 
+board. A review of the safety aspects, the suitability of the exchange methods being used and 
+the aspects of crew training should be undertaken at regular intervals.
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+the aspects of crew training should be undertaken at regular intervals. 
+ 
+3.2 The ballast water management plan should include the duties of key shipboard control 
+personnel undertaking ballast water exchange at sea. Such personnel should be fully conversant 
+with the safety aspects of ballast water exchange and in particular the method of exchange used 
+on board their ship and the particular safety aspects associated with the method used. 
+ 
+RESOLUTION MEPC.288(71)  (adopted on 7 July 2017) 
+2017 GUIDELINES FOR BALLAST WATER EXCHANGE (G6)MEPC 71/17/Add.1 
+Annex 9, page 3 
+ 
+ 
+I:\MEPC\71\MEPC 71-17-Add-1.docx 
+3.3 In accordance with regulation B-4.4 of the Convention, if the master reasonably 
+decides that to perform ballast water exchange would threaten the safety or stability of the 
+ship, its crew or its passengers, because of adverse weather, the ship's design, stress, 
+equipment failure, or any other extraordinary condition, a ship shall not be required to comply
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+equipment failure, or any other extraordinary condition, a ship shall not be required to comply 
+with regulations B-4.1 and B-4.2. 
+ 
+.1 When a ship does not undertake ballast water exchange for the reasons 
+stated above, the reasons shall be entered in the ballast water record book. 
+ 
+.2 The port or coastal State concerned may require that the discharge of ballast 
+water must be in accordance with procedures determined by them, taking 
+into account the Guidelines for additional measures including emergency 
+situations (G13). 
+ 
+3.4 Where a port State requires specific information regarding the management of ballast 
+water on a ship bound for a port, offshore terminal or anchorage area in that port State, 
+a completed ballast water reporting form as set out in the appendix may be submitted prior to 
+entry into that port State in a timeframe required by that port State. 
+ 
+4 BALLAST WATER EXCHANGE REQUIREMENTS
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+entry into that port State in a timeframe required by that port State. 
+ 
+4 BALLAST WATER EXCHANGE REQUIREMENTS 
+ 
+4.1 Exchange of ballast water in deep ocean areas or open seas offers a means of limiting 
+the probability that harmful aquatic organisms and pathogens be transferred in ships' ballast 
+water. 
+ 
+4.2 Regulation D-1 of the Convention requires that: 
+ 
+.1 ships performing ballast water exchange in accordance with this regulation 
+shall do so with an efficiency of at least 95% volumetric exchange of ballast 
+water; and 
+ 
+.2 for ships exchanging ballast water by the pumping-through method, pumping 
+through three times the volume of each ballast water tank shall be considered 
+to meet the standard described in paragraph 1. Pumping through less than 
+three times the volume may be accepted provided the ship can demonstrate 
+that at least 95% volumetric exchange is met. 
+ 
+4.3 There are three methods of ballast water exchange which have been evaluated and
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+that at least 95% volumetric exchange is met. 
+ 
+4.3 There are three methods of ballast water exchange which have been evaluated and 
+accepted by the Organization. The three methods are the sequential method, the flow-through 
+method and the dilution method. The flow-through method and the dilution method are 
+considered as "pump through" methods. 
+ 
+4.4 The three accepted methods can be described as follows: 
+ 
+.1 Sequential method  – a process by which a ballast tank intended for the 
+carriage of ballast water is first emptied and then refilled with replacement 
+ballast water to achieve at least a 95% volumetric exchange. 
+ 
+.2 Flow-through method  – a process by which replacement ballast water is 
+pumped into a ballast tank intended for the carriage of ballast water, allowing 
+water to flow through overflow or other arrangements. 
+ 
+.3 Dilution method  – a process by which replacement ballast water is filled
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+water to flow through overflow or other arrangements. 
+ 
+.3 Dilution method  – a process by which replacement ballast water is filled 
+through the top of the ballast tank intended for the carriage of ballast water 
+RESOLUTION MEPC.288(71)  (adopted on 7 July 2017) 
+2017 GUIDELINES FOR BALLAST WATER EXCHANGE (G6)MEPC 71/17/Add.1 
+Annex 9, page 4 
+ 
+ 
+I:\MEPC\71\MEPC 71-17-Add-1.docx 
+with simultaneous discharge from the bottom at the same flow rate and 
+maintaining a constant level in the tank throughout the ballast exchange 
+operation. 
+ 
+5 SAFETY PRECAUTIONS ASSOCIATED WITH BALLAST WATER EXCHANGE 
+ 
+5.1 Three methods of carrying out ballast water exchange at sea have been identified as 
+acceptable by the Organization. Each has particular safety aspects associated with it that 
+should be considered when selecting the method(s) to be used on a particular ship. 
+ 
+5.2 When identifying the ballast water exchange method(s) for the first time for a particular
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+5.2 When identifying the ballast water exchange method(s) for the first time for a particular 
+ship, an evaluation should be made which should include: 
+ 
+.1 the safety margins for stability and strength contained in allowable seagoing 
+conditions, as specified in the approved trim and stability booklet and t he 
+loading manual relevant to individual types of ships. Account should also be 
+taken of the loading conditions and the envisaged ballast water exchange 
+method or methods to be used; 
+ 
+.2 the ballast pumping and piping system taking account of the number of 
+ballast pumps and their capacities, size and arrangements of ballast water 
+tanks; and 
+ 
+.3 the availability and capacity of tank vents and overflow arrangements, for the 
+flow through method, the availability and capacity of tank overflow points, 
+prevention of under and over pressurization of the ballast tanks. 
+ 
+5.3 Particular account should be taken of the following:
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+prevention of under and over pressurization of the ballast tanks. 
+ 
+5.3 Particular account should be taken of the following: 
+ 
+.1 stability which is to be maintained at all times and not less than those values 
+recommended by the Organization or required by the Administration; 
+ 
+.2 longitudinal stress, and where applicable torsional stress values, not to 
+exceed permitted values with regard to prevailing sea conditions;  
+ 
+.3 exchange of ballast in tanks where significant structural loads may be 
+generated by sloshing action in the partially filled tank to be carried out in 
+favourable sea and swell conditions such that the risk of structural damage 
+is minimized; 
+ 
+.4 wave-induced hull vibrations when carrying out ballast water exchange; 
+ 
+.5 limitations of the available methods of ballast water exchange in respect of 
+sea and weather conditions; 
+ 
+.6 forward and aft draughts and trim, with particular reference to bridge visibility,
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+sea and weather conditions; 
+ 
+.6 forward and aft draughts and trim, with particular reference to bridge visibility, 
+slamming, propeller immersion and minimum forward draft; and 
+ 
+.7 additional workloads on the master and crew. 
+ 
+5.4 Having undertaken an evaluation for a particular ship and the exchange method or 
+methods to be used, the ship should be provided with procedures, advice and information 
+appropriate to the exchange method(s) identified and ship type in the ballast water 
+management plan. The procedures, advice and information in the ballast water management 
+plan may include but are not limited to the following: 
+RESOLUTION MEPC.288(71)  (adopted on 7 July 2017) 
+2017 GUIDELINES FOR BALLAST WATER EXCHANGE (G6)MEPC 71/17/Add.1 
+Annex 9, page 5 
+ 
+ 
+I:\MEPC\71\MEPC 71-17-Add-1.docx 
+.1 avoidance of over and under-pressurization of ballast tanks; 
+ 
+.2 free surface effects on stability and sloshing loads in tanks that may be slack 
+at any one time;
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+.2 free surface effects on stability and sloshing loads in tanks that may be slack 
+at any one time; 
+ 
+.3 maintain adequate intact stability in accordance with an approved trim and 
+stability booklet; 
+ 
+.4 permissible seagoing strength limits of shear forces and bending moments 
+in accordance with an approved loading manual; 
+ 
+.5 torsional forces; 
+ 
+.6 forward and aft draughts and trim, with particular reference to bridge visibility, 
+propeller immersion and minimum forward draft; 
+ 
+.7 wave-induced hull vibrations when performing ballast water exchange ;  
+ 
+.8 watertight and weather-tight closures (e.g. manholes) which may have to be 
+opened during ballast exchange must be re-secured; 
+ 
+.9 maximum pumping/flow rates – to ensure the tank is not subjected to a 
+pressure greater than that for which it has been designed; 
+ 
+.10 internal transfers of ballast; 
+ 
+.11 admissible weather conditions; 
+ 
+.12 weather routeing in areas seasonably affected by cyclones, typhoons,
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+.10 internal transfers of ballast; 
+ 
+.11 admissible weather conditions; 
+ 
+.12 weather routeing in areas seasonably affected by cyclones, typhoons, 
+hurricanes, or heavy icing conditions; 
+ 
+.13 documented records of ballasting and/or de-ballasting and/or internal 
+transfers of ballast; 
+ 
+.14 contingency procedures for situations which may affect ballast water 
+exchange at sea, including deteriorating weather conditions, pump failure and 
+loss of power; 
+ 
+.15 time to complete the ballast water exchange for each tank or an appropriate 
+sequence thereof; 
+ 
+.16 continual monitoring of the ballast water operation; monitoring should include 
+pumps, levels in tanks, line and pump pressures, stability and stresses; 
+ 
+.17 a list of circumstances in which ballast water exchange should not be 
+undertaken. These circumstances may result from critical situations of an 
+exceptional nature or force majeure due to stress of weather, known
+---
+SOURCE: MEPC.288(71).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.288(71).pdf
+undertaken. These circumstances may result from critical situations of an 
+exceptional nature or force majeure due to stress of weather, known 
+equipment failures or defects, or any other circumstances in which human 
+life or safety of the ship is threatened; 
+ 
+.18 ballast water exchange at sea should be avoided in freezing weather 
+conditions. However, when it is deemed absolutely necessary, particular 
+attention should be paid to the hazards associated with the freezing of 
+overboard discharge arrangements, air pipes, ballast system valves together 
+with their means of control, and the build-up of ice on deck; and 
+RESOLUTION MEPC.288(71)  (adopted on 7 July 2017) 
+2017 GUIDELINES FOR BALLAST WATER EXCHANGE (G6)
+---
+
+SOURCE: A.928(22).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.928(22).pdf
+Resolution A.928(22) 
+Adopted on 29 November 2001  (Agenda item 11) 
+RESOLUTION ON EARLY AND EFFECTIVE APPLICATION OF THE INTERNATIONAL  
+CONVENTION ON THE CONTROL OF HARMFUL ANTI-FOULING SYSTEMS ON SHIPS 
+ 
+ 
+I:\ASSEMBLY\22\RES\928.DOC 
+For reasons of economy, this document is printed in a limited number.  Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies.  
+ 
+INTERNATIONAL MARITIME ORGANIZATION 
+ 
+ 
+ 
+IMO 
+ 
+E 
+ 
+  
+ASSEMBLY 
+22nd session  
+Agenda item 11 
+ 
+A 22/Res.928 
+ 15 January 2002 
+  Original:  ENGLISH 
+ 
+ 
+Resolution A.928(22) 
+ 
+Adopted on 29 November 2001 
+(Agenda item 11) 
+ 
+RESOLUTION ON EARLY AND EFFECTIVE APPLICATION OF THE 
+INTERNATIONAL CONVENTION ON THE CONTROL OF 
+HARMFUL ANTI-FOULING SYSTEMS ON SHIPS 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning the
+---
+SOURCE: A.928(22).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.928(22).pdf
+concerning the functions of the Assembly in relation to regulations and guidelines concerning the 
+prevention and control of marine pollution from ships and other matters concerning the effect of 
+shipping on the marine environment, 
+ 
+NOTING that the International Conference on the Control of Harmful Anti -fouling Systems for 
+Ships has adopted the International Convention on the Control of Harmful Anti -fouling Systems 
+on Ships, 2001 (hereinafter referred to as “the Convention”) on 5 October 2001, 
+ 
+NOTING ALSO that the said Conference adopted Resolution 1 requesting Member States of the 
+Organization to do their utmost to prepare for consent to be bound by the Convention as a matter 
+of urgency, observing the effective date of 1 January 2003 mentioned in Annex 1 thereto, 
+ 
+RECALLING that the Preamble of the Convention refers to the precautionary approach, as set 
+out in Principle 15 of the Rio Declaration on Environment and Development,
+---
+SOURCE: A.928(22).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.928(22).pdf
+out in Principle 15 of the Rio Declaration on Environment and Development, 
+ 
+MINDFUL of the importance of disseminating information regarding the measures taken by 
+Governments as provided for in article 9 of the Convention, 
+ 
+1. URGES Governments to provide any information available regarding any anti -fouling 
+systems they have approved, restricted or prohibited under domestic law as soon as possible, in 
+accordance with the provisions of paragraph (1)(b) of article 9 of the Convention; and 
+ 
+2. REQUESTS the Secretary -General to make available, by any appropriate means, any 
+information communicated to the Organization, when it is received, as provided for in 
+paragraph (2) of article 9 of the Convention. 
+ 
+__________ 
+Resolution A.928(22) 
+Adopted on 29 November 2001  (Agenda item 11) 
+RESOLUTION ON EARLY AND EFFECTIVE APPLICATION OF THE INTERNATIONAL  
+CONVENTION ON THE CONTROL OF HARMFUL ANTI-FOULING SYSTEMS ON SHIPSResolution A.928(22)
+---
+SOURCE: A.928(22).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.928(22).pdf
+CONVENTION ON THE CONTROL OF HARMFUL ANTI-FOULING SYSTEMS ON SHIPSResolution A.928(22) 
+Adopted on 29 November 2001  (Agenda item 11) 
+RESOLUTION ON EARLY AND EFFECTIVE APPLICATION OF THE INTERNATIONAL  
+CONVENTION ON THE CONTROL OF HARMFUL ANTI-FOULING SYSTEMS ON SHIPS
+---
+
+SOURCE: MEPC.228(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.228(65).pdf
+RESOLUTION MEPC.228(65) 
+Adopted on 17 May 2013 
+INFORMATION REPORTING ON 
+TYPE APPROVED BALLAST WATER MANAGEMENT SYSTEMSMEPC 65/22 
+Annex 1, page 1 
+ 
+ 
+I:\MEPC\65\22.doc 
+ANNEX 1 
+ 
+RESOLUTION MEPC.228(65) 
+ 
+Adopted on 17 May 2013 
+ 
+INFORMATION REPORTING ON 
+TYPE APPROVED BALLAST WATER MANAGEMENT SYSTEMS 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee conferred upon it 
+by the international conventions for the prevention and control of marine pollution, 
+ 
+RECALLING ALSO that the International Conference on Ballast Water Management 
+for Ships held in February 2004 adopted the International Convention for the Control 
+and Management of Ships' Ballast Water and Sediments, 2004 (the Ballast Water 
+Management Convention) together with four Conference resolutions,
+---
+SOURCE: MEPC.228(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.228(65).pdf
+and Management of Ships' Ballast Water and Sediments, 2004 (the Ballast Water 
+Management Convention) together with four Conference resolutions, 
+ 
+RECALLING FURTHER that, on entry into force, the Ballast Water Management Convention 
+will require ships to install ballast water management systems, which meet the D-2 standard 
+stipulated therein,  
+ 
+RECOGNIZING that the collection and dissemination of accurate information on 
+type-approved ballast water management systems (BWMS) will be beneficial for all 
+interested stakeholders, 
+ 
+NOTING resolution MEPC.175(58) by which the Committee adopted the Information 
+reporting on type-approved ballast water management systems, 
+ 
+HAVING CONSIDERED the recommendation made by the Sub-Committee on Bulk Liquids 
+and Gases at its seventeenth session, on the need to revise resolution MEPC.175(58), 
+ 
+1. INVITES Member States, when approving a ballast water management system in
+---
+SOURCE: MEPC.228(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.228(65).pdf
+1. INVITES Member States, when approving a ballast water management system in 
+accordance with the Guidelines for approval of ballast water management systems (G8), to 
+report the following information to the Organization: 
+ 
+.1 approval date; 
+ 
+.2 name of the Administration; 
+ 
+.3 name of the BWMS; 
+ 
+.4 a copy of the Type Approval Certificate and any appendices which includes 
+details on all imposed limiting conditions on the operation of the BWMS in 
+accordance with paragraph 6.1 of the Guidelines for approval of ballast water 
+management systems (G8) (resolution MEPC.174(58)) as follows: Such 
+limiting conditions to include any applicable environmental conditions 
+(e.g. salinity, UV transmittance, temperature, etc.) and/or system operational 
+parameters (e.g. min/max pressure, pressure differentials, min/max Total 
+Residual Oxidants (TRO), etc.); 
+RESOLUTION MEPC.228(65) 
+Adopted on 17 May 2013 
+INFORMATION REPORTING ON 
+TYPE APPROVED BALLAST WATER MANAGEMENT SYSTEMSMEPC 65/22
+---
+SOURCE: MEPC.228(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.228(65).pdf
+RESOLUTION MEPC.228(65) 
+Adopted on 17 May 2013 
+INFORMATION REPORTING ON 
+TYPE APPROVED BALLAST WATER MANAGEMENT SYSTEMSMEPC 65/22 
+Annex 1, page 2 
+ 
+ 
+I:\MEPC\65\22.doc 
+.5 an annex to the Type Approval Certificate which contains the test results of 
+each land-based and shipboard test run.  Such test results shall include at 
+least the numerical salinity, temperature, flow rates, and where appropriate UV 
+transmittance. In addition, these test results shall include all other relevant 
+variables; 
+ 
+.6 the protocol according to which testing was undertaken, including details on: 
+ 
+.1 whether ambient, cultured or a mixture of test organisms have 
+been used (including a species-level identification for cultured 
+organisms, and an identification to the lowest possible taxonomic 
+level for ambient organisms); 
+ 
+.2 the shipboard test protocol including the operating parameters of the 
+system during successful treatment operations, for example dosage
+---
+SOURCE: MEPC.228(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.228(65).pdf
+.2 the shipboard test protocol including the operating parameters of the 
+system during successful treatment operations, for example dosage 
+rates, UV intensity and electrical current applied; 
+ 
+.3 energy consumption of the BWMS under normal or tested 
+Treatment Rated Capacity (TRC), if available; 
+ 
+.4 the full test report of the land-based test including all unsuccessful, 
+failed and invalid tests; 
+ 
+.5 the full test report of the shipboard test including all unsuccessful, 
+failed and invalid tests, and detailed information of the test set up 
+and actual flow rate at each test cycle; 
+ 
+.6 QA/QC documentation of the testing facility or body; and 
+ 
+.7 national accreditation of the test facility, if appropriate; 
+ 
+.7 a description of the Active Substance(s), if employed; and 
+ 
+.8 identification of the specific MEPC report and paragraph number granting 
+Final Approval in accordance with the Procedure for approval of ballast
+---
+SOURCE: MEPC.228(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.228(65).pdf
+.8 identification of the specific MEPC report and paragraph number granting 
+Final Approval in accordance with the Procedure for approval of ballast 
+water management systems that make use of Active Substances (G9), 
+adopted by resolution MEPC.169(57); 
+ 
+2. INSTRUCTS the Secretariat to make such information available by an appropriate 
+means; 
+ 
+3. REVOKES resolution MEPC.175(58). 
+ 
+ 
+***
+RESOLUTION MEPC.228(65) 
+Adopted on 17 May 2013 
+INFORMATION REPORTING ON 
+TYPE APPROVED BALLAST WATER MANAGEMENT SYSTEMSRESOLUTION MEPC.228(65) 
+Adopted on 17 May 2013 
+INFORMATION REPORTING ON 
+TYPE APPROVED BALLAST WATER MANAGEMENT SYSTEMS
+---
+
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+RESOLUTION A.1180(33) Adopted on 4 December 2023 (Agenda item 20) 
+THE ENHANCEMENT OF MULTILINGUALISM AT IMOI:\ASSEMBLY\33\A 33-RES.1180.docx 
+E 
+ASSEMBLY 
+33rd session 
+Agenda item 20 
+A 33/Res.1180 
+11 December 2023 
+Original: ENGLISH 
+RESOLUTION A.1180(33) 
+Adopted on 4 December 2023 
+(Agenda item 20) 
+THE ENHANCEMENT OF MULTILINGUALISM AT IMO 
+THE ASSEMBLY, 
+RECALLING that Article 1 of the IMO Convention provides that "[t]he purposes of the 
+Organization are […] [t]o provide machinery for cooperation among Governments in the field 
+of governmental regulation and practices relating to technical matters of all kinds affecting 
+shipping engaged in international trade; to encourage and facilitate the general adoption of the 
+highest practicable standards in matters concerning the maritime safety, efficiency of 
+navigation and prevention and control of marine pollution from ships; and to deal with
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+navigation and prevention and control of marine pollution from ships; and to deal with 
+administrative and legal matters related to the purposes set out in this Article", and "[t]o provide 
+for the exchange of information among Governments on matters under consideration by the 
+Organization", 
+CONSIDERING that multilingualism is both a value and an asset for the United Nations system 
+and multilateralism; that respect for and promotion of multilingualism strengthen the legitimacy 
+of multilateral action on the one hand  and contribute to its effectiveness by promoting 
+understanding within diversity, ownership and action as close to the ground as possible, on 
+the other ; and that multilingualism is therefore essential for the execution of the missions 
+assigned to IMO, as it contributes to facilitating the development and implementation of 
+international shipping standards, 
+RECALLING United Nations General Assembly resolution A/RES/76/268 on Multilingualism
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+international shipping standards, 
+RECALLING United Nations General Assembly resolution A/RES/76/268 on Multilingualism 
+adopted on 10 June 2022, 
+RECALLING ALSO that the IMO Assembly, at its thirty -second session, adopted 
+resolution A.1152(32) on Amendments to the Convention on the International Maritime 
+Organization, which recognized the need to provide for equally authentic texts of the IMO 
+Convention, including consolidated texts, in the Arabic, Chinese, English, French, Russian and 
+Spanish languages, to ensure the authoritative interpretation of the Convention in all the six 
+official languages of the Organization. Resolution A.1152(32) amended Article 81 by replacing 
+the words "of which the English, French and Spanish texts are equally authentic" with "of which 
+the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic", 
+RECALLING FURTHER that the Rules of Procedure of the Assembly provide in rule 2 8 that
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+RECALLING FURTHER that the Rules of Procedure of the Assembly provide in rule 2 8 that 
+the official languages of the Organization are Arabic, Chinese, English, French, Russian and 
+Spanish, and that the working languages shall be English, French and Spanish; that rule 29 of 
+those Rules of Procedure states that "[s]peeches at the Assembly and its subsidiary bodies 
+shall be made in one of the official languages and will be interpreted into the other five official 
+RESOLUTION A.1180(33) Adopted on 4 December 2023 (Agenda item 20) 
+THE ENHANCEMENT OF MULTILINGUALISM AT IMOA 33/Res.1180 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\33\A 33-RES.1180.docx 
+ 
+languages"; that rule 30 of the Rules of Procedure states that "[a]ll supporting documents to 
+agenda items of the Assembly and its subsidiary bodies shall be published in the working 
+languages", and that  "[a]ll reports, resolutions, recommendations and decisions of the
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+languages", and that  "[a]ll reports, resolutions, recommendations and decisions of the 
+Assembly and its subsidiary bodies shall be drawn up in one of the official languages and 
+translated into the other five languages"; and that similar provisions were also provided in the 
+rules of procedure of other IMO organs such as the Council (rules 27-29), the Maritime Safety 
+Committee, the Maritime Environment Protection Committee, the Legal Committee, the 
+Technical Cooperation Committee and the Facilitation Committee (rules 23-25), 
+ 
+RECOGNIZING the significant resources and efforts devoted by IMO to the provision of 
+language services in accordance with the translation and interpretation requirements of the 
+rules of procedure of its deliberative bodies, 
+ 
+HAVING CONSIDERED the findings of the report of the Joint Inspection Unit of the United 
+Nations system on Multilingualism in the United Nations system (JIU/2020/6) with respect to
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+Nations system on Multilingualism in the United Nations system (JIU/2020/6) with respect to 
+IMO, endorsed by the thirty-fourth extraordinary session of the Council, 
+ 
+1 RECOGNIZES the general concern among Member States regarding a persistent 
+tendency towards monolingualism, reflected, among others, in the de facto use of only one 
+language in written or oral communications within the Secretariat, a profusion of groups which 
+work in only one language, the lack of translation of annexes to documents, the lack of 
+translation of circular letters, and the delay in translation of Assembly resolutions; and that this 
+situation runs counter to the objective of parity between the working languages, which is the 
+rule in the United Nations system; 
+ 
+Establishment of a strategic framework for multilingualism 
+ 
+2 WELCOMES the commitment of the Secretary-General, as a response to concerns, 
+to establish a strategic framework for multilingualism, taking into account the observations
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+to establish a strategic framework for multilingualism, taking into account the observations 
+made by the Council, in particular with regard to the collection of data on respect for 
+multilingualism in the form of an annual report, including the presentation of the required 
+budgetary resources, with a view to ensuring that the recommendations on this issue are 
+implemented; 
+ 
+3 INVITES the Secretary-General to develop during the next biennium such a strategic 
+framework for multilingualism so that progress can be made towards multilingualism by 
+mobilizing all the potential available within the Organization in order to enable it to benefit fully 
+from the diversity it contains. * This requires a coherent and coordinated approach, involving 
+the Organization's governance bodies, Member States and the Secretariat, and covers all 
+activities. The strategic framework for multilingualism should be accompanied by 
+administrative and operational guidelines for its implementation;
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+administrative and operational guidelines for its implementation; 
+ 
+4 MINDFUL of the willingness of Member States to work with the Secretariat in order to 
+ensure that this approach meets their needs; 
+ 
+The appointed coordinator or focal point for multilingualism 
+ 
+5 REQUESTS the Secretary-General to coordinate the implementation of the strategic 
+framework at IMO, through the appointed coordinator or focal point for multilingualism in close 
+consultation with Member States; 
+ 
+ 
+* This does not exclude addressing other aspects, such as equitable geographical representation. 
+RESOLUTION A.1180(33) Adopted on 4 December 2023 (Agenda item 20) 
+THE ENHANCEMENT OF MULTILINGUALISM AT IMOA 33/Res.1180 
+Page 3 
+ 
+ 
+I;\ASSEMBLY\33\A 33-RES.1180.docx 
+ 
+Documentation and conference services 
+ 
+6 EMPHASIZES the importance of quality and timely translations of documents and 
+good interpretation services, which implies the allocation of adequate financial, human and
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+good interpretation services, which implies the allocation of adequate financial, human and 
+material resources. Meeting documents should be translated at every stage, without delay for 
+the annexes. Assembly resolutions should be translated at the time of their adoption, without 
+delay. Circular letters should be translated; 
+ 
+7 UNDERLINES the need to avoid the continuation of meetings after working hours 
+without interpretation, and requires the chairpersons to proceed without interpretation only 
+when strictly necessary and always checking lack of objection in the room; 
+ 
+Technical cooperation and partnerships 
+ 
+8 STRESSES the importance of strengthening multilingualism in technical cooperation 
+activities and partnerships in order to improve their effectiveness; 
+ 
+Human resources 
+ 
+9 REAFFIRMS that calls for applications for posts within the Secretariat be published 
+in the official languages, including job descriptions and related documents to ensure the
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+in the official languages, including job descriptions and related documents to ensure the 
+necessary staffing capacity in all the official languages to undertake all its activities; 
+ 
+10 CALLS for the adoption of training policies that encourage officials to continuously 
+upgrade and strengthen their skills in the official languages of IMO, and to provide adequate 
+funding for this purpose; 
+ 
+Communication 
+ 
+11 URGES the Secretariat to provide quality multilingual information provided on all 
+media and platforms used by IMO, and in particular digital media. Press releases should be 
+made available in all official languages without delay. Multilingualism should a lso be fully 
+introduced in the IMODOCS search engine; 
+ 
+A shared responsibility 
+ 
+12 UNDERTAKES to play an active part in the promotion of multilingualism, of which the 
+Member States are an expression and benefit from. They must therefore contribute to it by
+---
+SOURCE: A.1180(33).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1180(33).pdf
+Member States are an expression and benefit from. They must therefore contribute to it by 
+having a leading role either as chairs/vice-chairs or as delegates; 
+ 
+13 ENCOURAGES Member States to support the Secretariat in activities requested of it 
+by virtue of this resolution; 
+ 
+14 NOTES with appreciation the commitment expressed by the Secretary -General to 
+implement multilingualism at IMO; 
+ 
+15 REQUESTS the Secretary -General and the Council to report regularly to the 
+Assembly on the implementation of this resolution, as well as to other committees, if 
+appropriate. 
+ 
+ 
+___________ 
+RESOLUTION A.1180(33) Adopted on 4 December 2023 (Agenda item 20) 
+THE ENHANCEMENT OF MULTILINGUALISM AT IMORESOLUTION A.1180(33) Adopted on 4 December 2023 (Agenda item 20) 
+THE ENHANCEMENT OF MULTILINGUALISM AT IMO
+---
+
+SOURCE: A.878(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.878(21).pdf
+RESOLUTION A.878(21)  adopted on 25 November 1999 
+APPOINTMENT OF THE EXTERNAL AUDITORI:\ASSEMBLY\21\Res\878.doc
+For reasons of economy, this document is printed in a limited number.  Delegates are
+kindly asked to bring their copies to meetings and not to request additional copies.
+INTERNATIONAL MARITIME ORGANIZATION
+IMO
+E
+ASSEMBLY
+21st session
+Agenda item 30
+A 21/Res.878
+4 February 2000
+Original:  ENGLISH
+RESOLUTION A.878(21)
+adopted on 25 November 1999
+APPOINTMENT OF THE EXTERNAL AUDITOR
+THE ASSEMBLY,
+RECALLING Articles 12.1. and 12.2 of the Financial Regulations of the Organization;
+TAKING NOTE that the Financial Regulations provide that the External Auditor shall be the Auditor
+General (or officer holding the equivalent title) of a Member State;
+DECIDES to appoint the person at any time performing the duties of the Comptroller and Auditor
+General of India as External Auditor for a period of four years, commencing 1 July 2000.”
+________
+---
+SOURCE: A.878(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.878(21).pdf
+General of India as External Auditor for a period of four years, commencing 1 July 2000.”
+________
+RESOLUTION A.878(21)  adopted on 25 November 1999 
+APPOINTMENT OF THE EXTERNAL AUDITORRESOLUTION A.878(21)  adopted on 25 November 1999 
+APPOINTMENT OF THE EXTERNAL AUDITOR
+---
+
+SOURCE: MEPC.285(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.285(70).pdf
+RESOLUTION MEPC.285(70) 
+(Adopted on 28 October 2016) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))MEPC 70/18/Add.1 
+Annex 21, page 1 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MEPC 70-18-ADD.1 (E).docx 
+ANNEX 21 
+ 
+RESOLUTION MEPC .285(70) 
+ (Adopted on 28 October 2016) 
+ 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49)) 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by the international conventions for the prevention and control of marine 
+pollution from ships, 
+ 
+NOTING resolution MEPC.107(49) by which it adopted, at its forty-ninth session, the Revised
+---
+SOURCE: MEPC.285(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.285(70).pdf
+pollution from ships, 
+ 
+NOTING resolution MEPC.107(49) by which it adopted, at its forty-ninth session, the Revised 
+Guidelines and Specifications for pollution prevention equipment for machinery space bilges 
+of ships, 
+ 
+HAVING CONSIDERED, at its seventieth session, proposed amendments to the 
+above-mentioned Revised Guidelines and Specifications, concerning specifications related to 
+15 ppm bilge alarms, 
+ 
+1 ADOPTS amendments to the Revised Guidelines and specifications for pollution 
+prevention equipment for machinery space bilges of ships , the text of which is set out in the 
+annex to this resolution; 
+ 
+2 RECOMMENDS Governments to apply the annexed amendments when checking the 
+accuracy of 15 ppm bilge alarms. 
+ 
+  
+RESOLUTION MEPC.285(70) 
+(Adopted on 28 October 2016) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))MEPC 70/18/Add.1 
+Annex 21, page 2
+---
+SOURCE: MEPC.285(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.285(70).pdf
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))MEPC 70/18/Add.1 
+Annex 21, page 2 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MEPC 70-18-ADD.1 (E).docx 
+ANNEX 
+ 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS  
+FOR POLLUTION PREVENTION EQUIPMENT FOR MACHINERY  
+SPACE BILGES OF SHIPS 
+ 
+1 In paragraphs 1.2.1, 1.2.2.1, 2.1 and 3.1, the references to "regulation 16" are 
+replaced with "regulation 14". 
+ 
+2 In paragraphs 2.2 and 3.3 and appendix 2, the references to "regulation 16(5)" are 
+replaced with "regulation 14.7". 
+ 
+3 Section 4.2.11 is replaced by the following: 
+ 
+"4.2.11 The validity of calibration certificates should be checked at IOPP 
+annual/intermediate/renewal surveys. The accuracy of 15 ppm bilge alarms is to be 
+checked by calibration and testing of the equipment conducted by a manufacturer or 
+persons authorized by the manufacturer and should be done at intervals not
+---
+SOURCE: MEPC.285(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.285(70).pdf
+persons authorized by the manufacturer and should be done at intervals not 
+exceeding five years after its commissioning, or within the term specified in the 
+manufacturer's instructions, whichever is shorter. Alternatively the unit may be 
+replaced by a calibrated 15 ppm bilge alarm. The calibration certificate for the 15 ppm 
+bilge alarm, certifying the date of the last calibration check, should be retained on 
+board for inspection purposes.  
+ 
+ 
+*** 
+ 
+RESOLUTION MEPC.285(70) 
+(Adopted on 28 October 2016) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))RESOLUTION MEPC.285(70) 
+(Adopted on 28 October 2016) 
+AMENDMENTS TO THE REVISED GUIDELINES AND SPECIFICATIONS FOR 
+POLLUTION PREVENTION EQUIPMENT FOR MACHINERY SPACE BILGES 
+OF SHIPS (RESOLUTION MEPC.107(49))
+---
+
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+RESOLUTION MEPC.115(51)  
+ Adopted on 1 April 2004  
+ AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING 
+TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF  
+POLLUTION FROM SHIPS, 1973 J/8627 
+ 
+I:\J_\8627.doc 
+ 
+ 
+ 
+RESOLUTION MEPC.115(51) 
+ 
+Adopted on 1 April 2004 
+ 
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING 
+TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF 
+POLLUTION FROM SHIPS, 1973 
+ 
+(Revised Annex IV of MARPOL 73/78) 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+ RECALLING Article 38(a) of the Conventi on on the International Maritime Organization 
+concerning the functions of the Marine Envi ronment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution, 
+ 
+ NOTING article 16 of the Inte rnational Convention for the Prevention of Pollution from 
+Ships, 1973 (hereinafter referred to as the 1973 C onvention) and article VI of the Protocol of
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+Ships, 1973 (hereinafter referred to as the 1973 C onvention) and article VI of the Protocol of 
+1978 relating to the International Convention fo r the Prevention of Pollution from Ships, 1973 
+(hereinafter referred to as the 1978 Protocol) which together specify the amendment procedure 
+of the 1978 Protocol and confer upon the appropriate body of th e Organization the function of 
+considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol 
+(MARPOL 73/78), 
+ 
+ HAVING CONSIDERED the revised Annex IV of MARPOL 73/78, 
+ 
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the revised 
+Annex IV of MARPOL 73/78, the text of which is set out at annex to the present resolution; 
+ 
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the 
+revised Annex IV shall be deemed to have b een accepted on 1 February 2005, unless, prior to
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+revised Annex IV shall be deemed to have b een accepted on 1 February 2005, unless, prior to 
+that date, not less than one third of the Partie s to MARPOL 73/78 or by the Parties the combined 
+merchant fleets of which constitute not less than  50 per cent of the gross tonnage of the worlds 
+merchant fleet, have notified to the Organization their objections to the amendments; 
+ 
+3. INVITES Parties to MARPOL 73/78 to note th at, in accordance with article 16(2)(g)(ii) 
+of the 1973 Convention, the said  amendments shall enter into  force on 1 August 2005 upon their 
+acceptance in accordance with paragraph 2 above; 
+ 
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 
+1973 Convention, to transmit to all Parties to MA RPOL 73/78 certified copies of the present 
+resolution and the text of the amendments contained in the annex; 
+ 
+5. REQUESTS FURTHER the Secretary-General to  transmit copies of this resolution and
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+5. REQUESTS FURTHER the Secretary-General to  transmit copies of this resolution and 
+its annex to Members of the Organization which are not Parties to MARPOL 73/78. 
+RESOLUTION MEPC.115(51)  
+ Adopted on 1 April 2004  
+ AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING 
+TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF  
+POLLUTION FROM SHIPS, 1973 - 2 - 
+ 
+ 
+ 
+I:\J_\8627.doc 
+ANNEX 
+ 
+REVISED ANNEX IV OF MARPOL 73/78 
+ 
+REGULATIONS FOR THE PREVENTION OF POLLUTION BY  
+SEWAGE FROM SHIPS 
+ 
+Chapter 1 General 
+ 
+Regulation 1 
+ 
+Definitions 
+ 
+For the purposes of this Annex: 
+ 
+1 "New ship" means a ship: 
+ 
+.1 for which the building contract is placed, or in the absence of  a building contract, 
+the keel of which is laid, or which is at a similar stage of cons truction, on or after 
+the date of entry into force of this Annex; or 
+ 
+.2 the delivery of which is th ree years or more after the date of entry into force of 
+this Annex.
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+.2 the delivery of which is th ree years or more after the date of entry into force of 
+this Annex. 
+ 
+2 "Existing ship" means a ship which is not a new ship. 
+ 
+3 "Sewage" means: 
+ 
+.1 drainage and other wastes from any form of toilets and urinals; 
+ 
+.2 drainage from medical premises (dispe nsary, sick bay, etc.) via wash basins, 
+wash tubs and scuppers located in such premises; 
+ 
+.3 drainage from spaces containing living animals; or 
+ 
+.4 other waste waters when mixed with the drainages defined above. 
+ 
+4 "Holding tank" means a tank used for the collection and storage of sewage. 
+ 
+5 "Nearest Land".  The term "from the neares t land" means from the baseline from which 
+the territorial sea of the territory  in question is established in accordance with international law 
+except that, for the purposes of the present Convention "from the nearest land" off the north 
+eastern coast of Australia shall mean from a line drawn from a point on the coast of Australia in:
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+eastern coast of Australia shall mean from a line drawn from a point on the coast of Australia in: 
+ 
+ latitude 11 °00’ S, longitude 142°08’ E 
+ to a point in latitude 10 °35’ S, longitude 141°55’ E 
+ thence to a point latitude 10°00’ S, longitude 142 °00’ E 
+thence to a point latitude 9°10’ S, longitude 143°52’ E 
+thence to a point latitude 9°00’ S, longitude 144°30’ E 
+thence to a point latitude 10°41’ S, longitude 145°00’ E 
+RESOLUTION MEPC.115(51)  
+ Adopted on 1 April 2004  
+ AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING 
+TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF  
+POLLUTION FROM SHIPS, 1973 - 3 - 
+ 
+ 
+ 
+I:\J_\8627.doc 
+thence to a point latitude 13°00’ S, longitude 145°00’ E 
+ thence to a point latitude 15 °00’ S, longitude 146°00’ E 
+ thence to a point latitude 17 °30’ S, longitude 147°00’ E 
+ thence to a point latitude 21 °00’ S, longitude 152°55’ E 
+ thence to a point latitude 24 °30’ S, longitude 154°00’ E 
+ thence to a point on the coast of Australia
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+thence to a point latitude 24 °30’ S, longitude 154°00’ E 
+ thence to a point on the coast of Australia 
+   in latitude 24 °42’ S, longitude 153°15’ E 
+ 
+6 "International voyage" means a voyage from a country to which the present Convention 
+applies to a port outside such country, or conversely. 
+ 
+7 "Person" means member of the crew and passengers. 
+ 
+8 "Anniversary date" means the day and the month of each year which will correspond to 
+the date of expiry of the International Sewage Pollution Prevention Certificate. 
+ 
+Regulation 2 
+ 
+Application 
+ 
+1 The provisions of this Annex shall apply to  the following ships engaged in international 
+voyages: 
+ 
+ .1 new ships of 400 gross tonnage and above; and 
+ 
+.2 new ships of less than 400 gross tonna ge which are certified to carry more 
+than 15 persons; and 
+ 
+.3 existing ships of 400 gross tonnage and above, five years after the date of entry 
+into force of this Annex; and
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+than 15 persons; and 
+ 
+.3 existing ships of 400 gross tonnage and above, five years after the date of entry 
+into force of this Annex; and 
+ 
+.4 existing ships of less than 400 gross t onnage which are certified to carry more 
+than 15 persons, five years after the date of entry into force of this Annex.  
+ 
+2 The Administration shall ensu re that existing ships, ac cording to subparagraphs 1.3 
+and 1.4 of this regulation, the keels of which are laid or which are of a similar stage of 
+construction before 2 October 1983 shall be equippe d, as far as practicable, to discharge sewage 
+in accordance with the requirements of regulation 11 of the Annex. 
+ 
+Regulation 3 
+ 
+Exceptions 
+ 
+1 Regulation 11 of this Annex shall not apply to: 
+ 
+.1 the discharge of sewage from a ship necessary for the purpose of securing the 
+safety of a ship and those on board or saving life at sea; or 
+ 
+.2 the discharge of sewage resulting from damage to a ship or its equipment if all
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+safety of a ship and those on board or saving life at sea; or 
+ 
+.2 the discharge of sewage resulting from damage to a ship or its equipment if all 
+reasonable precautions have been taken be fore and after the occurrence of the 
+damage, for the purpose of preventing or minimizing the discharge. 
+RESOLUTION MEPC.115(51)  
+ Adopted on 1 April 2004  
+ AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING 
+TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF  
+POLLUTION FROM SHIPS, 1973 - 4 - 
+ 
+ 
+ 
+I:\J_\8627.doc 
+Chapter 2 Surveys and certification 
+ 
+Regulation 4 
+ 
+Surveys 
+ 
+1 Every ship which, in accordance with re gulation 2, is required to comply with the 
+provisions of this Annex shall be subject to the surveys specified below: 
+ 
+.1 An initial survey before the ship is put in service or before the Certificate required 
+under regulation 5 of this Annex is issued for the first time, wh ich shall include a
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+under regulation 5 of this Annex is issued for the first time, wh ich shall include a 
+complete survey of its structure, equipment, systems, fittings, arrangements and 
+material in so far as the ship is covered by this Annex.  This survey shall be such 
+as to ensure that the structure, equipment, systems, fittings, arrangements and 
+material fully comply with the applicable requirements of this Annex. 
+ 
+.2 A renewal survey at intervals specifi ed by the Administration, but not exceeding 
+five years, except where regulation 8.2, 8.5, 8.6 or 8.7 of this Annex is applicable.  
+The renewal survey shall be such as to ensure that the structure, equipment, 
+systems, fittings, arrangements and material fully comply with applicable 
+requirements of this Annex. 
+ 
+.3 An additional survey either general or partial, according to the circumstances, 
+shall be made after a repair resulting from investigations prescribed in paragraph 4
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+shall be made after a repair resulting from investigations prescribed in paragraph 4 
+of this regulation, or whenever any importa nt repairs or renewals are made.  The 
+survey shall be such as to ensure that th e necessary repairs or renewals have been 
+effectively made, that the material and workmanship of such repairs or renewals 
+are in all respects satisfactor y and that the ship complies in all respects with the 
+requirements of this Annex. 
+ 
+2 The Administration shall establ ish appropriate measures for ships which are not subject to 
+the provisions of paragraph 1 of this regulation in order to ensure  that the appli cable provisions 
+of this Annex are complied with. 
+ 
+3 Surveys of ships as regards the enforcemen t of the provisions of this Annex shall be 
+carried out by officers of the Administration.  The Administra tion may, however, entrust the 
+surveys either to surveyors nominated for the purpose or to organizations recognized by it.
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+surveys either to surveyors nominated for the purpose or to organizations recognized by it. 
+ 
+4 An Administration nominating surveyors or recognizing organizations to conduct surveys 
+as set forth in paragraph 3 of this regulati on shall, as a minimum, empower any nominated 
+surveyor or recognized organization to: 
+ 
+.1 require repairs to a ship; and 
+ 
+ .2 carry out surveys if requ ested by the appropriate authorities of a Port State. 
+ 
+The Administration shall notify the Organization of the specific responsibilities and conditions of 
+the authority delegated to the nominated surveyors or recognized organizations, for circulation to 
+Parties to the present Convention for the information of their officers. 
+RESOLUTION MEPC.115(51)  
+ Adopted on 1 April 2004  
+ AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING 
+TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF  
+POLLUTION FROM SHIPS, 1973 - 5 - 
+ 
+ 
+ 
+I:\J_\8627.doc
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF  
+POLLUTION FROM SHIPS, 1973 - 5 - 
+ 
+ 
+ 
+I:\J_\8627.doc 
+5 When a nominated surveyor or recognized or ganization determines that the condition of 
+the ship or its equipment does no t correspond substantially with the particulars of the Certificate 
+or is such that the ship is not fit to proceed to sea without presenting an unreasonable threat of 
+harm to the marine environment, such surveyor  or organization shall immediately ensure that 
+corrective action is taken and shall in due course  notify the Administrati on.  If such corrective 
+action is not taken the Certificate should be wi thdrawn and the Administration shall be notified 
+immediately and if the ship is in a port of anot her Party, the appropriate authorities of the Port 
+State shall also be notified im mediately.  When an officer of  the Administration, a nominated 
+surveyor or recognized organization has notified the appropriate auth orities of the Port State, the
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+surveyor or recognized organization has notified the appropriate auth orities of the Port State, the 
+Government of the Port State c oncerned shall give such officer , surveyor or organization any 
+necessary assistance to ca rry out their oblig ations under this regulation.   When applicable, the 
+Government of the Port State concerned shall take such steps as will ensure that the ship shall not 
+sail until it can proceed to sea or leave the po rt for the purpose of proceeding to the nearest 
+appropriate repair yard available without presenting an unreasonable threat of harm to the marine 
+environment. 
+ 
+6 In every case, the Administration concerne d shall fully guarantee the completeness and 
+efficiency of the survey and shall undertake to ensure the necessary arrangements to satisfy this 
+obligation. 
+ 
+7 The condition of the ship and its equipment shall be maintained to conform with the
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+obligation. 
+ 
+7 The condition of the ship and its equipment shall be maintained to conform with the 
+provisions of the present Conventio n to ensure that the ship in all respects will remain fit to 
+proceed to sea without presenting an unreasonable threat of harm to the marine environment. 
+ 
+8 After any survey of the ship under paragra ph 1 of this regulation has been completed, no 
+change shall be made in the structure, equipm ent, systems, fittings, arrangements or material 
+covered by the survey, without the sanction of th e Administration, except the direct replacement 
+of such equipment and fittings. 
+ 
+9 Whenever an accident occurs to a ship or  a defect is discovere d which substantially 
+affects the integrity of the ship or the efficiency or completeness of its equipment covered by this 
+Annex the master or owner of the ship shall repo rt at the earliest  opportunity to the 
+Administration, the recognized orga nization or the nominated surveyor responsible for issuing
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+Administration, the recognized orga nization or the nominated surveyor responsible for issuing 
+the relevant Certificate, who sh all cause investigations to be initiated to determine whether a 
+survey as required by paragraph 1 of this regulati on is necessary.  If the ship is in a port of 
+another Party, the master or owner shall also report immediately to the appropriate authorities of 
+the Port State and the nominated surveyor or recognized  organization shall ascertain that such 
+report has been made. 
+ 
+Regulation 5 
+ 
+Issue or Endorsement of Certificate 
+ 
+1 An international Sewage Pollution Prevention Certificate shall be issued, after an initial 
+or renewal survey in accordance with the provisions of regulation 4 of this Annex to any ship 
+which is engaged in voyages to ports or offshor e terminals under the jurisd iction of other Parties 
+to the Convention.  In the case of existing ships th is requirement shall appl y five years after the
+---
+SOURCE: MEPC.115(51).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.115(51).pdf
+to the Convention.  In the case of existing ships th is requirement shall appl y five years after the 
+date of entry into force of this Annex. 
+RESOLUTION MEPC.115(51)  
+ Adopted on 1 April 2004  
+ AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1978 RELATING 
+TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF  
+POLLUTION FROM SHIPS, 1973
+---
+
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+RESOLUTION A.855(20)  adopted on 27 November 1997 
+STANDARDS FOR ON-BOARD HELICOPTER FACILITIES~v-.'°' 
+INTERNATIONAL MARITIME 
+ORGANIZATION 
+A 20/Res.855 
+1 7 December 1997 
+Original: EN GLISH 
+ASSEMBLY 
+20th session 
+Agenda item 9 ,NOT TO BE REMOVED FROM 
+THE IMO LIBRARY 
+RESOLUTION A.855(20) 
+adopted on 27 November 1997 
+STANDARDS FOR ON-BOARD HELICOPTER FACILITIES 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning maritime 
+safety, 
+NOTING that, by resolution MSC.57(67), the Maritime Safety Committee adopted, on 
+5 December 1996, amendments to the International Convention for the Safety of Life at Sea (SOLAS), 
+1974, which, inter alia, include amendments to regulation 11-2/18.8 regarding helicopter facilities, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee at its 
+sixty-eighth session,
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee at its 
+sixty-eighth session, 
+1. ADOPTS the Standards for on-board helicopter facilities set out in the Annex to the present 
+resolution; 
+2. INVITES Governments to apply these Standards when implementing the requirements of SOLAS 
+regulation 11-2/18.8. 
+I:\ASSE:rvIBL Y\20\RES\855. 
+For reasons of economy, this document is printed in a limited number. Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.855(20)  adopted on 27 November 1997 
+STANDARDS FOR ON-BOARD HELICOPTER FACILITIESA 20/Res.855 -2 - 
+ANNEX 
+STANDARDS FOR ON-BOARD HELICOPTER FACILITIES 
+1 Definition 
+For the purpose of these standards: 
+1. 1 Helideck is a purpose-built helicopter landing area located on a ship including all structure, 
+fire-fighting appliances and other equipment necessary for the safe operation of helicopters.
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+fire-fighting appliances and other equipment necessary for the safe operation of helicopters. 
+1.2 Helicopter facility is a helideck including any refuelling and hangar facilities. 
+2 Structure 
+2. 1 In general, the construction of helidecks should be of steel or other equivalent material . If the 
+helideck forms the deckhead of a deckhouse or superstructure it should be insulated to A-60 class standard. 
+2.2 If the Administration permits aluminium or other low melting metal construction that is not made 
+equivalent to steel, the following provisions should be satisfied: 
+.1 if the platform is cantilevered over the side of the ship, after each fire on the ship or on the 
+platform, the platform should undergo a structural analysis to determine its suitability for 
+further use; and 
+.2 if the platform is located above the ship's deckhouse or similar structure, the following 
+conditions should be satisfied:
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+further use; and 
+.2 if the platform is located above the ship's deckhouse or similar structure, the following 
+conditions should be satisfied: 
+.2.1 the deckhouse top and bulkheads under the platform should have no openings; 
+.2.2 all windows under the platform should be provided with steel shutters; and 
+.2.3 after each fire on the platform or in close proximity, the platform should undergo 
+a structural analysis to determine its suitability for further use. 
+2.3 A helideck should be provided with both a main and an emergency means of escape and access for 
+fire fighting and rescue personnel; these should be located as far apart from each other as is practicable and 
+preferably on opposite sides of the helideck. 
+3 Fire-fighting appliances 
+3 .1 In close proximity to the helideck the following fire-fighting appliances should be provided and 
+stored near the means of access to that helideck: 
+.1 at least two dry powder extinguishers having a total capacity of not less than 45 kg;
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+stored near the means of access to that helideck: 
+.1 at least two dry powder extinguishers having a total capacity of not less than 45 kg; 
+.2 carbon dioxide extinguishers of a total capacity of not less than 18 kg or equivalent; 
+l:\ASSEMBL Y\20\RES\855. 
+RESOLUTION A.855(20)  adopted on 27 November 1997 
+STANDARDS FOR ON-BOARD HELICOPTER FACILITIES- 3 - A 20/Res. 855 
+.3 a suitable foam application system consisting of monitors or foam making branch pipes 
+capable of delivering foam to all parts of the helideck in all weather conditions in which 
+helicopters can operate. The system should be capable of delivering a discharge rate as 
+required in the following table for at least five minutes. 
+Category Helicopter overall length Discharge rate 
+foam solution 
+(Q/min) 
+HI up to but not including 15 m 250 
+H2 from 15 m up to but not including 24 m 500 
+H3 from 24 m up to but not including 35 m 800 
+The principal agent should meet the performance standards of the International Civil
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+H3 from 24 m up to but not including 35 m 800 
+The principal agent should meet the performance standards of the International Civil 
+Aviation Organization's Airport Services Manual, Part I (Rescue and Firefighting, 
+Chapter 8), Extinguishing Agent Characteristics, paragraph 8.1.5 (Foam Specifications), 
+Table 8-1 (Level 'B' foam), and be suitable for use with salt water; 
+.4 at least two nozzles of an approved dual-purpose type (jet/spray) and hoses sufficient to 
+reach any part of the helideck; 
+.5 in addition to those required by regulation 11-2/17 of the 1974 SOLAS Convention as 
+amended, two sets of fireman's outfits; and 
+. 6 at least the following equipment, stored in a manner that provides for immediate use and 
+protection from the elements: 
+- adjustable wrench; 
+- blanket (fire resistant); 
+- cutters, bolt 60 cm; 
+- hook, grab or salving; 
+- hacksaw, heavy duty complete with 6 spare blades; 
+- ladder; 
+- lifeline of 5 mm diameter x 15 m in length; 
+- pliers, side cutting;
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+- hacksaw, heavy duty complete with 6 spare blades; 
+- ladder; 
+- lifeline of 5 mm diameter x 15 m in length; 
+- pliers, side cutting; 
+- set of assorted screwdrivers; and 
+- harness knife complete with sheath. 
+3.2 Drainage facilities in way ofhelidecks should be constructed of steel and lead directly overboard 
+independent of any other system and designed so that drainage does not fall on to any part of the ship. 
+4 Helicopter refuelling and hangar facilities (where fitted) 
+4.1 A designated area should be provided for the storage of fuel tanks which should be: 
+.1 as remote as is practicable from accommodation spaces, escape routes and embarkation 
+stations; and 
+.2 isolated from areas containing a source of vapour ignition. 
+I:\ASSEMBL Y\20\RES\855. 
+RESOLUTION A.855(20)  adopted on 27 November 1997 
+STANDARDS FOR ON-BOARD HELICOPTER FACILITIESA 20/Res.855 -4 - 
+4.2 The fuel storage area should be provided with arrangements whereby fuel spillage may be collected
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+4.2 The fuel storage area should be provided with arrangements whereby fuel spillage may be collected 
+and drained to a safe location. 
+4.3 Tanks and associated equipment should be protected against physical damage and from a fire in 
+an adjacent space or area. 
+4.4 Where portable fuel storage tanks are used, special attention should be given to: 
+.1 design of the tank for its intended purpose; 
+.2 mounting and securing arrangements; 
+. 3 electrical bonding; and 
+.4 inspection procedures. 
+4.5 Storage tank fuel pumps should be provided with means which permit shutdown from a safe 
+remote location in the event of a fire. Where a gravity fed fuelling system is installed, equivalent closing 
+arrangements should be provided to isolate the fuel source. 
+4. 6 The fuel pumping unit should be connected to one tank at a time. The piping between the tank and 
+the pumping unit should be of steel or equivalent material, as short as possible, and protected against 
+damage.
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+the pumping unit should be of steel or equivalent material, as short as possible, and protected against 
+damage. 
+4. 7 Electrical fuel pumping units and associated control equipment should be of a type suitable for the 
+location and potential hazards. 
+4.8 Fuel pumping units should incorporate a device which will prevent over-pressurization of the 
+delivery or filling hose. 
+4. 9 All equipment used in refuelling operations should be electrically bonded. 
+4.10 "NO SMOKING" signs should be displayed at appropriate locations. 
+4. 11 Hangar, refuelling and maintenance facilities should be treated as category A machinery spaces with 
+regard to structural fire protection, fixed fire-extinguishing and detection system requirements. 
+4. 12 Closed hangar facilities or closed spaces containing refuelling installations should be provided with 
+mechanical ventilation as required for closed ro-ro cargo spaces of cargo ships (regulation 11-2/53.2.3 of
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+mechanical ventilation as required for closed ro-ro cargo spaces of cargo ships (regulation 11-2/53.2.3 of 
+the 197 4 SOLAS Convention). Ventilation fans should be of non-sparking type. 
+4.13 Electrical equipment and wiring in closed hangars or closed spaces contammg refuelling 
+installations should comply with the requirements ofr egulation II-2/53.2.4 of the 1974 SOLAS Convention. 
+5 Occasional and emergency helicopter operations 
+Where helicopters land or conduct winching operations on an occasional or emergency basis on 
+ships without helidecks, fire-fighting equipment fitted in accordance with chapter 11-2 of the 197 4 SO LAS 
+Convention, may be used. This equipment should be made readily available in close proximity to the 
+landing or winching areas during helicopter operations. 
+I:\ASSEtvIBL Y\20\RES\855. 
+RESOLUTION A.855(20)  adopted on 27 November 1997 
+STANDARDS FOR ON-BOARD HELICOPTER FACILITIES- 5 - A 20/Res.855 
+6 Operations manual and fire-fighting service
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+STANDARDS FOR ON-BOARD HELICOPTER FACILITIES- 5 - A 20/Res.855 
+6 Operations manual and fire-fighting service 
+6.1 Each helicopter facility should have an operations manual, including a description and a checklist 
+of safety precautions, procedures, and equipment requirements. This manual may be part of the ship's 
+emergency response procedures. 
+6.2 The procedures and precautions to be followed during refuelling operations should be in 
+accordance with recognized safe practices and contained in the operations manual. 
+6.3 Fire-fighting personnel consisting of at least two persons trained for rescue and fire-fighting duties 
+and fire-fighting equipment should be immediately available at all times when helicopter operations are 
+expected. 
+6.4 Fire-fighting personnel should be present whenever refuelling is taking place. These fire-fighting 
+personnel should not be involved with refuelling activities.
+---
+SOURCE: A.855(20).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.855(20).pdf
+personnel should not be involved with refuelling activities. 
+6.5 Regular on-board refresher training should be carried out and additional supplies of fire-fighting 
+media should be provided for training and testing of the equipment. 
+l:\ASSEMBL Y\20\RES\855. 
+RESOLUTION A.855(20)  adopted on 27 November 1997 
+STANDARDS FOR ON-BOARD HELICOPTER FACILITIES
+---
+
+SOURCE: MEPC.93(45).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.93(45).pdf
+RESOLUTION MEPC.93(45) 
+Adopted on 5 October 2000 
+AMENDMENTS TO THE STANDARD SPECIFICATION 
+FOR SHIPBOARD INCINERATORSMEPC 45/20 
+ 
+I:\MEPC\45\20.DOC   
+ 
+ANNEX 10 
+ 
+RESOLUTION MEPC.93(45) 
+ 
+Adopted on 5 October 2000 
+ 
+AMENDMENTS TO THE STANDARD SPECIFICATION  
+FOR SHIPBOARD INCINERATORS 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE: 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the function of the Committee, 
+ 
+RECALLING ALSO that Annex V of the International Convention for the Prevention of 
+Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto 
+(MARPOL 73/78), provides regulations for the prevention of pollution by garbage from ships, 
+ 
+RECOGNIZING that the Conference of Parties to MARPOL 73/78, held in 
+September 1997, adopted the Protocol of 1997 to amend MARPOL 73/78 with the addition of a 
+new Annex VI on the Prevention of Air Pollution from Ships,
+---
+SOURCE: MEPC.93(45).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.93(45).pdf
+new Annex VI on the Prevention of Air Pollution from Ships, 
+ 
+RECOGNIZING ALSO that the Committee, at its fortieth session, adopted resolution 
+MEPC.76(40) - Standard Specification for Shipboard Incinerators, 
+ 
+BEING AWARE that the regulation 16(2)(a) on shipboard incinerators within Annex VI 
+to MARPOL 73/78 requires that all shipboard incinerators installed on board ships on or after 
+1 January 2000 comply with the relevant operating limit s as specified in Appendix VI of 
+Annex VI to MARPOL 73/78 and are approved by the Administration based on the requirements 
+contained in resolution MEPC.76(40) on Standard Specification for Shipboard Incinerators, 
+ 
+ALSO BEING AWARE that while this requireme nt cannot be enforced before the entry 
+into force of the Protocol of 1997, it is clearly understood that incinerators installed on ships on 
+or after 1  January 2000 will have to meet these requirements once the Protocol of 1997 enters 
+into force,
+---
+SOURCE: MEPC.93(45).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.93(45).pdf
+or after 1  January 2000 will have to meet these requirements once the Protocol of 1997 enters 
+into force, 
+ 
+HAVING CONSIDERED the need to simplify the verification of compliance with 
+regulation 16(2) of Annex VI, once the Protocol of 1997 enters into force, 
+ 
+1 ADOPTS the amendments to the Form of IMO Type Approval Certificate for Shipboard 
+Incinerators with Capacities of up to 1,500 kW, as set out in annex to this resolution; 
+ 
+2 URGES Administrations to take into consideration the introductory statement when 
+issuing certificates in accordance with Annex VI of MARPOL 63/78, whether or not the type 
+approval certificate was issued by their Administration or organization acting on their behalf, or 
+by other Governments; and 
+ 
+3 INVITES Administrations to inform the Organization of those incinerators that have been 
+type approved in accordance with resolution MEPC. 76(40), and their dates of approval. 
+RESOLUTION MEPC.93(45) 
+Adopted on 5 October 2000
+---
+SOURCE: MEPC.93(45).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.93(45).pdf
+type approved in accordance with resolution MEPC. 76(40), and their dates of approval. 
+RESOLUTION MEPC.93(45) 
+Adopted on 5 October 2000 
+AMENDMENTS TO THE STANDARD SPECIFICATION 
+FOR SHIPBOARD INCINERATORSMEPC 45/20 
+ANNEX 10 
+Page 2 
+ 
+I:\MEPC\45\20.doc 
+ 
+ANNEX 
+ 
+ 
+AMENDMENTS TO THE FORM OF IMO TYPE APPROVAL  
+CERTIFICATE FOR SHIPBOARD INCINERATORS  
+WITH CAPACITIES OF UP TO 1,500 kW 
+ 
+ 
+ 
+ The introductory paragraph of the model Form of IMO Type Approval Certificate for 
+Shipboard Incinerators with Capacity of up to 1,500 kW, as contained in the annex to resolution 
+MEPC.76(40), is amended to read: 
+ 
+“This is to certify that the shipboard incinerator listed has been examined and tested in 
+accordance with the requirements of the Standard for Shipboard Incinerators for 
+disposing of ship-generated waste appended to the Guidelines for the Implementation of 
+Annex V of MARPOL 73/78 as amended by resolution MEPC.76(40) and referenced by
+---
+SOURCE: MEPC.93(45).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.93(45).pdf
+Annex V of MARPOL 73/78 as amended by resolution MEPC.76(40) and referenced by 
+regulation 16 of Annex VI to MARPOL 73/78.” 
+ 
+ 
+*** 
+RESOLUTION MEPC.93(45) 
+Adopted on 5 October 2000 
+AMENDMENTS TO THE STANDARD SPECIFICATION 
+FOR SHIPBOARD INCINERATORSRESOLUTION MEPC.93(45) 
+Adopted on 5 October 2000 
+AMENDMENTS TO THE STANDARD SPECIFICATION 
+FOR SHIPBOARD INCINERATORS
+---
+
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+RESOLUTION A.778(18)  
+adopted on 4 November 1993     
+WORK PROGRAMME AND BUDGET FOR THE EIGHTEENTH FINANCIAL PERIOD 1994-1995INTERNATIONAL MARITIME 
+ORGANIZATION A 18/Res.778 15 November 1993 
+Original: ENGLISH 
+ASSEMBLY - 18th 
+Agenda item 27 
+session 
+RESOLUTION A.778(18) 
+adopted on 4 November 1993 
+WORK PROGRAMME AND BUDGET FOR THE EIGHTEENTH 
+FINANCIAL PERIOD 1994-1995 
+A. WORK PROGRAMME AND BUDGET FOR 1994-1995 
+THE ASSEMBLY, 
+RECALLING Article 15 of the Convention on the International Maritime 
+Organization and in particular paragraphs (f) and (g) thereof with regard to 
+the functions of the Assembly in relation to the work programme and budget, 
+NOTING the provisions of article I I I of the Financial Regulations with 
+regard to the preparation of the budget estimates, 
+1. APPROVES the work programme submitted by the Secretary-General, as 
+recommended by the Council: 
+2. DECIDES that: 
+(a ) For the financial period 1994-1995 appropriations are here voted for
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+recommended by the Council: 
+2. DECIDES that: 
+(a ) For the financial period 1994-1995 appropriations are here voted for 
+the following purposes: 
+£ 
+I. 
+II . 
+III. 
+IV. 
+v. 
+Meetings and travel 
+Personnel 
+General services 
+Publications and public information 
+Other budgetary provisions 
+1,924,700 
+22,016,200 
+7,626,000 
+33,400 
+2,728,500 
+34,328,800 
+(b) The a ppropriation voted in subparagraph (a) above shall be financed 
+by contributions from Member States after a reduction for 
+miscellaneous income (estimated at £184,000 for the biennium), and 
+for a transfer from the surplus in the Printing Fund o f £300 , 000 
+during the biennium; 
+(c ) Transfers of uncommitted ba lances of appropriations to the same 
+section of the budget in the second calendar year other than those 
+authorized by article IV of the Financial Regulations, and transfer 
+of appropriations between sections of the budget, shall only be 
+carried out with prior concurrence of the Council; 
+W/0232a
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+of appropriations between sections of the budget, shall only be 
+carried out with prior concurrence of the Council; 
+W/0232a 
+For reasons of economy, this document is printed in a limited number Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.778(18)  
+adopted on 4 November 1993 
+WORK PROGRAMME AND BUDGET FOR THE EIGHTEENTH FINANCIAL PERIOD 1994-1995A 18/Res.778 - 2 - 
+(d) In respect of each of the calendar years 1 994 and 1995 covered by 
+the financial period, the a pproved meetings shall be as shown in 
+annex 1, the a pproved posts as in annex 2, and the a ppropriations 
+and assessments shall be t hose indicted under t he relevant headings 
+in annex 3; 
+3. RECOGNIZING the provision in Regulation 3.8 of the Organization's 
+Financial Regulations and Rules c oncerning supplementary estimates and the 
+past practice of the Assembly in authorizing the Council t o a pprove any
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+past practice of the Assembly in authorizing the Council t o a pprove any 
+necessary recalculation of the a ppropriations for t he second year of the 
+biennium; 
+4. AUTHORIZES the C ouncil at its s eventy-third session to review the 
+1995 budget provisions and, if it d ecides i t is necessary, to approve any 
+appropriate recalculation of the 1995 a ppropriations and assessment figures i n 
+the light of the budgetary and exchange rate situation at that time; 
+5. INVITES the attention of the C ouncil t o the a bove-mentioned p rovisions; 
+6. REQUESTS t he Secretary-General to e nsure their application while 
+endeavouring to effect the maximum economies in the budget. 
+B. WORKING CAPITAL FUND 
+THE ASSEMBLY, 
+RECALLING resolution A.363(IX) by w hich the Working Capital Fund was 
+established in the amount o f $250,000 as of 1 January 1976 by means of 
+advances assessed on Member States, 
+RECALLING FURTHER resolution A.508(XII) authorizing the transfer of
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+advances assessed on Member States, 
+RECALLING FURTHER resolution A.508(XII) authorizing the transfer of 
+the Working Capital Fund o f $ 400,000 from the Printing Fund surplus, 
+resolution A.552(13) authorizing the transfer to the Working Capital Fund of 
+$350,000 from the General Fund cash surplus, and resolution A.633(15)B 
+increasing the level of the Working Capital Fund to £1.25 million by a 
+transfer from the Exchange Reserve Fund, 
+NOTING that, after taking into account payments by new M embers, the level 
+of the Working Capital Fund presently stand s at £1,251,113, 
+1. DECIDES that: 
+(a) The Working Capital Fund shall remain at a level of £1.25 million 
+for 1 994-1995; 
+(b ) New Members shall be assessed for t heir advances to the Working 
+Capital Fund on the basis only of t he part assessed on Members as at 
+1 Janua ry 1976; 
+2. AUTHORIZES the S ecretary-General: 
+(a) To advance from the Working C apital Fund such sums as may be
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+1 Janua ry 1976; 
+2. AUTHORIZES the S ecretary-General: 
+(a) To advance from the Working C apital Fund such sums as may be 
+necessary to finance the a ppropriations for the years 1 994 and 1995 
+pending receipt of contributions from Members; sums s o advanced 
+shall be reimbursed to the Working C apital Fund as s oon as 
+contributions are available; 
+W/0232a 
+RESOLUTION A.778(18)  
+adopted on 4 November 1993     
+WORK PROGRAMME AND BUDGET FOR THE EIGHTEENTH FINANCIAL PERIOD 1994-1995- 3 - A 18/Res.778 
+(b) To advance from the Working Capital Fund such sums as may b e 
+necessary to finance additional expenditures arising from movements 
+in the rate of exchapge during 1994-1995 from the, rate a dopted for 
+calculation of the appropriations; sums s o advanced to be returned 
+to the Working Capital Fund as soon as possible and in a manner 
+decided on by the Council; 
+(c) With the prior c oncurrence of t he Council, to advance such sums as
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+decided on by the Council; 
+(c) With the prior c oncurrence of t he Council, to advance such sums as 
+may be necessary to meet unforeseen or extraordinary expenses 
+arising during the financial period 1994-1995, provided that such 
+expenses are o f a clearly exceptional nature and shall relate 
+specifically to the a pproved work programme of the Organization and 
+that t he Council is assured that the relevant expenditure cannot be 
+met b y appropriate t ransfer action within the total budget a pproved 
+for a calendar year; 
+3. REQUESTS the Secretary-General to report to the Council and the Assembly 
+all advances made under the present resolution, and the circumstances relating 
+thereto, and to submit supplementary estimates for reimbursement to the 
+Working Ca pital Fund o f a dvances made t herefrom to meet unforeseen or 
+extraordinary expenses. 
+C. PRINTING FUND 
+THE ASSEMBLY, 
+RECALLING that, in accordance with resolution A.lOO(IV), the disposal of
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+extraordinary expenses. 
+C. PRINTING FUND 
+THE ASSEMBLY, 
+RECALLING that, in accordance with resolution A.lOO(IV), the disposal of 
+any amount standing to the credit o f t he Printing Fund at the end of t he 
+financial period shall be decided by the Assembly, 
+1. DECIDES that the amount standing to the credit o f the Printing Fund a t 
+the end o f t he f inancial period 1992-1993 shall be carried forward to the 
+Printing F und for the f inancial period 1994-1995, after taking into account 
+the transfers noted in paragraph 2(b) of Part A of this resolution; 
+2. APPROVES that the interest earnings accruing in the Printing Fund shall 
+continue to be credited to the Printing Fund. 
+D. HEADQUARTERS CAPITAL FUND 
+THE ASSEMBLY, 
+RECALLING that the Assembly decided at its tenth regular session, in 
+resolution A.409(X), the establishment of the Headquarters Installation Fund, 
+RESOLVES that: 
+(a) a Headquarters Capital Fund be established with effect from
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+RESOLVES that: 
+(a) a Headquarters Capital Fund be established with effect from 
+1 January 1994. Its primary purposes shall be to meet the capital 
+expenditure necessary for the efficient operation of the 
+Organization, and for fulfilling the Organization's liabilities 
+under the terms of the Lease for the Headquarters building between 
+the Organization and the United Kingdom Government. The scope of 
+the Fund may also include: 
+W/0232a 
+RESOLUTION A.778(18)  
+adopted on 4 November 1993     
+WORK PROGRAMME AND BUDGET FOR THE EIGHTEENTH FINANCIAL PERIOD 1994-1995A 18/Res.778 - 4 - 
+(i) expenditure on repairs to or replacement of apparatus and 
+machinery for the Headquarters building (other than regular, 
+planned maintenance costs); 
+(ii) purchase and installation of: office automation equipment, 
+office furniture and equipment; telecommunications equipment; 
+document production machinery; 
+(iii) official vehicles; 
+(iv) other items of capital equipment which relate to the primary
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+document production machinery; 
+(iii) official vehicles; 
+(iv) other items of capital equipment which relate to the primary 
+purposes of the Fund; 
+(b) the Fund shall be established by: (i) the transfer of the funds held 
+in the Headquarters Installation Fund; (ii) the transfer from the 
+Printing Fund of £500,000 in 1994 and £250,000 in 1995; 
+(c ) the Fund shall be replenished from time to time by such transfers 
+from other funds of the Organization as may be approved by the 
+Assembly or by the transfer of funds from the Organization's regular 
+budget as may be approved by the Assembly; 
+(d) income arising from investments of the Headquarters Capital Fund 
+shall be credited to the Headquarters Capital Fund; 
+(e) the Fund shall be administered in accordance with the Financial 
+Regulations and Rules; 
+(f} the Headquarters Installation Fund will cease with effect from 
+1 January 1994. 
+E. TECHNICAL CO-OPERATION FUND
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+Regulations and Rules; 
+(f} the Headquarters Installation Fund will cease with effect from 
+1 January 1994. 
+E. TECHNICAL CO-OPERATION FUND 
+RECALLING resolution A.593(14) of 20 November 1985 by which the Technical 
+Co-operation Fund was established, and which resolved that the interest shall 
+be used to assist the Technical Co-operation Programme of the Organization in 
+accordance with the proposals approved by the Assembly, 
+DECIDES that the interest earnings from the Fund may be used by the 
+Secretary-General to purchase books and other learning materials (including 
+the production of model courses) which enhance the Organization's maritime 
+training programme. 
+W/0232a 
+RESOLUTION A.778(18)  
+adopted on 4 November 1993     
+WORK PROGRAMME AND BUDGET FOR THE EIGHTEENTH FINANCIAL PERIOD 1994-1995- 5 - A 18/Res.778 
+APPENDIX 1 
+LIST OF MEETINGS APPROVED FOR 1994 AND 1995 
+Weeks Weeks 
+Meetings 1994 1995 
+Assembly, nineteenth session - 2 
+International Conference STCW Convention - 2
+---
+SOURCE: A.778(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.778(18).pdf
+Weeks Weeks 
+Meetings 1994 1995 
+Assembly, nineteenth session - 2 
+International Conference STCW Convention - 2 
+Council and Technical Co-operation Committee 2 1.2 
+Maritime S afety Committee and subsidiary bodies* 13.6 8.4 
+Marine Environment Protection Committee 
+and subsidiary bodies** 3 2 
+Legal Committee 2 2 
+Facilitation Committee 1 - 
+London Convention 1.8 1 
+Total IMO meetings 23.4 18.6 
+International Oil Pollution Compensation Fund 
+(reimburseable) 1 1 
+* The provision for t he MSC a nd its subsidiary bodies includes the 
+holding, at no a dditional cost, of a two-day Conference in 1994 
+to a dopt amendments to SOLAS. 
+** The provision for t he MEPC a nd its s ubsidiary bodies includes 
+the holding, at no a dditional cost, of a two-day Conference in 
+1994 of Parties t o MARPOL to adopt MARPOL amendments. 
+W/0232a 
+RESOLUTION A.778(18)  
+adopted on 4 November 1993     
+WORK PROGRAMME AND BUDGET FOR THE EIGHTEENTH FINANCIAL PERIOD 1994-1995
+---
+
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+RESOLUTION A.882(21)   adopted on 25 November 1999 
+AMENDMENTS TO THE PROCEDURES FOR PORT STATE CONTROL (RESOLUTION A.787(19))I:\ASSEMBLY\21\RES\882.DOC
+For reasons of economy, this document is printed in a limited number.  Delegates are
+kindly asked to bring their copies to meetings and not to request additional copies.
+INTERNATIONAL MARITIME ORGANIZATION
+IMO
+E
+ASSEMBLY
+21st session
+Agenda item 5
+A 21/Res.882
+4 February 2000
+Original:  ENGLISH
+RESOLUTION A.882(21)
+adopted on 25 November 1999
+AMENDMENTS TO THE PROCEDURES FOR PORT STATE CONTROL
+(RESOLUTION A.787(19))
+THE ASSEMBLY,
+RECALLING Article 15(j) of the Convention on the International Maritime Organization
+concerning the functions of the Assembly in relation to regulations and guidelines concerning
+maritime safety and the prevention and control of marine pollution from ships,
+RECALLING ALSO resolution A.787(19) by which it adopted Procedures for port State
+control,
+RECALLING FURTHER that, at its nineteenth session, when adopting
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+control,
+RECALLING FURTHER that, at its nineteenth session, when adopting
+resolution A.787(19), it r equested the Maritime Safety Committee and the Marine Environment
+Protection Committee to continue their work on this subject with a view to improving further the
+said procedures, as may be necessary,
+NOTING resolution A.741(18) by which it adopted the International Management Code
+for the Safe Operation of Ships and for Pollution Prevention (International Safety Management
+(ISM) Code),
+NOTING ALSO that the ISM Code has been made mandatory for certain ships, under the
+provisions of chapter IX of the International Convention for the Safety of Life at Sea, 1974, since
+1 July 1998,
+RECOGNIZING the need to develop guidelines for port State control related to the
+ISM Code and to incorporate them in the procedures,
+RECOGNIZING ALSO the need to amend the reporting formats contained in the
+procedures on the basis of experience gained,
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+RECOGNIZING ALSO the need to amend the reporting formats contained in the
+procedures on the basis of experience gained,
+RECOGNIZING FURTHER the need to keep the procedures as a whole updated in the
+light of experience gained in their implementation,
+HAVING CONSIDERED the recommendations made by the Maritime Safety Committee
+at its seventy-first session and by the Marine Environment Protection Committee at its forty-third
+session,
+RESOLUTION A.882(21)   adopted on 25 November 1999 
+AMENDMENTS TO THE PROCEDURES FOR PORT STATE CONTROL (RESOLUTION A.787(19))A 21/Res.882 -    -
+I:\ASSEMBLY\21\RES\882.DOC
+2
+1. ADOPTS amendments to the Procedures for port State control (resolution A.787(19)), as
+set out in the Annex to the present resolution;
+2. INVITES Governments, when exercising port State control, to implement
+resolution A.787(19) and the amendments annexed to this resolution;
+3. INVITES ALSO Governments, when exercising port State control related to the ISM
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+3. INVITES ALSO Governments, when exercising port State control related to the ISM
+Code, to note that port State control related to the ISM Code should be an inspection and not an
+audit and that their port State control officers should have the requisite training in, and
+appropriate knowledge of, the provisions of the ISM Code;
+4. REQUESTS the Maritime Safety Committee and the Marine Environment Protection
+Committee to keep the revised Procedures under review and to amend them as necessary in the
+light of experience gained from their implementation;
+5. AUTHORIZES the Maritime Safety Committee and the Marine Environment Protection
+Committee to amend the reporting formats contained in appendices 5, 6 and 7 of the Procedures
+on the basis of experience gained.
+RESOLUTION A.882(21)   adopted on 25 November 1999 
+AMENDMENTS TO THE PROCEDURES FOR PORT STATE CONTROL (RESOLUTION A.787(19))-    - A 21/Res.882
+I:\ASSEMBLY\21\RES\882.DOC
+3
+ANNEX
+AMENDMENTS TO THE PROCEDURES FOR PORT STATE CONTROL
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+I:\ASSEMBLY\21\RES\882.DOC
+3
+ANNEX
+AMENDMENTS TO THE PROCEDURES FOR PORT STATE CONTROL
+(RESOLUTION A.787(19))
+1 The existing paragraph 1.2.1 is replaced by the following:
+“1.2.1  The procedures apply to ships which come under the provisions of the
+International Convention for the Safety of Life at Sea, 1974, as amended (SOLAS 74),
+the Protocol of 1988 relating to the International Convention for the Safety of Life at Sea,
+1974 (SOLAS Protocol 1988), the International Convention on Load Lines, 1966 (Load
+Lines 66), the Protocol of 1988 relating to the International Convention on Load Lines,
+1966 (Load Line Protocol 88), the International Convention for the Prevention of
+Pollution from Ships, 1973 as modified by the Protocol of 1978 relating thereto, as
+amended (MARPOL 73/78), the International Convention on Standards of Training,
+Certification and Watchkeeping for Seafarers, 1978, as amended (STCW 78), and the
+International Convention on Tonnage Measurement of Ships, 1969 (Tonnage 69),
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+International Convention on Tonnage Measurement of Ships, 1969 (Tonnage 69),
+hereafter referred to as the applicable conventions.”
+2 The existing paragraph 1.4 is replaced by the following and the footnotes are deleted:
+"1.4  Provision for port State control
+Regulation 19 of chapter I, regulation 6.2 of chapter IX and regulation 4 of chapter XI of
+SOLAS 74, as modified by SOLAS Protocol 88; article 21 of Load Lines 66, as modified
+by Load Line Protocol 88; articles 5 and 6, regulation 8A of Annex I, regulation 15 of
+Annex II, regulation 8 of Annex III and regulation 8 of Annex V of MARPOL 73/78;
+article X of STCW 78; and article 12 of Tonnage 69 provide for control procedures to be
+followed by a Party to a relevant convention with regard to foreign ships visiting their
+ports. The authorities of port States should make effective use of these provisions for the
+purposes of identifying deficiencies, if any, in such ship which may render them
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+purposes of identifying deficiencies, if any, in such ship which may render them
+substandard (see 4.1), and ensuring that remedial measures are taken."
+3 The existing paragraph 1.6.3 is replaced by the following:
+"1.6.3  Detention: Intervention action taken by the port State when the condition of the
+ship or its crew does not correspond substantially with the applicable conventions to
+ensure that the ship will not sail until it can proceed to sea without presenting a danger to
+the ship or persons on board, or without presenting an unreasonable threat of harm to the
+marine environment, whether or not such action will affect the normal schedule of the
+departure of the ship."
+4 The following new sentence is added at the end of existing paragraph 2.2.3:
+"When examining 1969 International Tonnage Certificates, the PSCO should be guided
+by appendix 4A."
+RESOLUTION A.882(21)   adopted on 25 November 1999
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+by appendix 4A."
+RESOLUTION A.882(21)   adopted on 25 November 1999 
+AMENDMENTS TO THE PROCEDURES FOR PORT STATE CONTROL (RESOLUTION A.787(19))A 21/Res.882 -    -
+I:\ASSEMBLY\21\RES\882.DOC
+4
+5 The following new paragraph 2.2.6 is added after existing paragraph 2.2.5:
+"2.2.6  In pursuance of control procedures under chapter IX of SOLAS 74 on the
+International Management Code for the Safe Operation of Ships and for Pollution
+Prevention (ISM Code), the PSCO should utilize the guidelines in paragraph 3.7."
+6 The existing subparagraph 2.3.3 is replaced by the following:
+"2.3.3 evidence that documentation required by the Conventions and listed in appendix  4
+is not on board, incomplete, not maintained or falsely maintained;"
+7 The existing subparagraph 2.3.8 is deleted and the existing subparagraphs 2.3.9
+and 2.3.10 are renumbered as subparagraphs 2.3.8 and 2.3.9.
+8 The existing paragraph 2.6.7 is replaced by the following:
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+and 2.3.10 are renumbered as subparagraphs 2.3.8 and 2.3.9.
+8 The existing paragraph 2.6.7 is replaced by the following:
+"2.6.7  Where the grounds for detention are the result of accidental damage suffered on
+the ship's voyage to a port, no detention order should be issued, provided that:
+.1 due account has been given to the Convention requirements regarding notification
+to the flag State Administration, the nominated surveyor or the recognized
+organization responsible for issuing the relevant certificate;
+.2 prior to entering a port, the master or company has submitted to the port State
+authority details on the circumstances of the accident and the damage suffered and
+information about the required notification of the flag State Administration;
+.3 appropriate remedial action, to the satisfaction of the port State authority, is being
+taken by the ship; and
+.4 the port State authority has ensured, having been notified of the completion of the
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+taken by the ship; and
+.4 the port State authority has ensured, having been notified of the completion of the
+remedial action, that deficiencies which were clearly hazardous to safety, health or
+environment have been rectified."
+9 The following new paragraph 2.6.11 is added after existing paragraph 2.6.10 and the
+existing paragraph 2.6.11 is renumbered as paragraph 2.6.12:
+"2.6.11   The company or its representative have a right of appeal against a detention
+taken by the Authority of a port State.  The appeal should not cause the detention to be
+suspended. The PSCO should properly inform the master of the right of appeal."
+10 The existing paragraph 3.3.3 is replaced by the following:
+"3.3.3  The PSCO should pay particular attention to the structural integrity and
+seaworthiness of bulk carriers and oil tankers and note that these ships must undergo the
+enhanced programme of inspection during surveys under the provision of regulation XI/2
+of SOLAS 74."
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+enhanced programme of inspection during surveys under the provision of regulation XI/2
+of SOLAS 74."
+RESOLUTION A.882(21)   adopted on 25 November 1999 
+AMENDMENTS TO THE PROCEDURES FOR PORT STATE CONTROL (RESOLUTION A.787(19))-    - A 21/Res.882
+I:\ASSEMBLY\21\RES\882.DOC
+5
+11 The existing paragraph 3.3.4 is replaced by the following:
+"3.3.4  The PSCO's assessment of the safety of the structure of those ships should be
+based on the Survey Report File carried on board. This file should contain reports of
+structural surveys, condition evaluation reports (translated into English and endorsed by
+or on behalf of the Administration), thickness measurement reports and a survey planning
+document.  The PSCO should note that there may be a short delay in the update of the
+Survey Report File following survey. Where there is doubt that the required survey has
+taken place, the PSCO should seek confirmation from the recognized organization."
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+taken place, the PSCO should seek confirmation from the recognized organization."
+12 In paragraph 3.4.12, "appendix 6" is replaced by "appendix 8".
+13 The following new section 3.7 is added after existing paragraph 3.6.8:
+"3.7 Guidelines for port State control related to the ISM Code
+3.7.1  To the e xtent applicable, the PSCO should examine the copy of the Document of
+Compliance (DOC), issued to the Company, and the Safety Management Certificate
+(SMC), issued to the ship. An SMC is not valid unless the Company holds a valid DOC
+for that ship type. The PSCO should in particular verify that the type of ship is included in
+the DOC and that the Company's particulars are the same on both the DOC and the SMC.
+3.7.2  During the examination of on board documents and certificates, PSCOs should
+recognize:
+.1 that differences may exist between the classification societies’ designation
+of “ bulk carrier ” that appear on the class certificate as defined in their
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+of “ bulk carrier ” that appear on the class certificate as defined in their
+individual Rules, versus the interpretation of “ bulk carrier” contained in
+SOLAS/CONF.4/25, annex, resolution 6 and that the latter definition should
+be used to determine if the ship should have been certified by 1 July 1998;
+.2 the common practice of issuing, after successfully completing an audit,
+SMCs and DOCs valid for a period not exceeding 5 months, to cover the
+period between completion of the audit and issuance of the full term
+certificate by either the Administration or the recognized organization; and
+.3 that the current valid DOC with proper annual endorsements is normally
+only available in the Company to which it has been issued and that the copy
+on board may not reflect the annual endorsements that exist on the valid
+DOC held by the Company.
+3.7.3  If a ship has been issued with Interim Certificates (DOC and/or SMC), the PSCO
+---
+SOURCE: A.882(21).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.882(21).pdf
+DOC held by the Company.
+3.7.3  If a ship has been issued with Interim Certificates (DOC and/or SMC), the PSCO
+should check whether they have been issued in accordance with the provisions of
+paragraphs 3.3.2 and 3.3.4 of resolution A.788(19).
+3.7.4  A more detailed inspection of the Safety Management System (SMS) should be
+carried out if clear grounds are established. Clear grounds may include absent or
+inaccurate ISM Code certification or detainable (or many non-detainable) deficiencies in
+other areas.
+RESOLUTION A.882(21)   adopted on 25 November 1999 
+AMENDMENTS TO THE PROCEDURES FOR PORT STATE CONTROL (RESOLUTION A.787(19))
+---
+
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+Resolution A.1053(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF 
+SURVEY AND CERTIFICATION (HSSC), 2011 
+ 
+I:\ASSEMBLY\27\RES\1053.doc 
+ 
+E
+  
+ASSEMBLY 
+27th session  
+Agenda item 9 
+A 27/Res.1053
+20 December 2011
+ Original:  ENGLISH
+ 
+Resolution A.1053(27) 
+ 
+Adopted on 30 November 2011 
+(Agenda item 9) 
+ 
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF 
+SURVEY AND CERTIFICATION (HSSC), 2011 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines regarding 
+maritime safety and the prevention and control of marine pollution from ships, 
+ 
+RECALLING ALSO the adoption by: 
+ 
+(a) the International Conference on the Harmonized System of Survey and 
+Certification, 1988, of the Protocol of 1988 relating to the International 
+Convention for the Safety of Life at Sea, 1974 and of the Protocol of 1988
+---
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+Convention for the Safety of Life at Sea, 1974 and of the Protocol of 1988 
+relating to the International Convention on Load Lines, 1966, which,  
+inter alia, introduced the harmonized system of survey and certification into 
+the International Convention for the Safety of Life at Sea, 1974 and the 
+International Convention on Load Lines, 1966, respectively; 
+ 
+(b) resolution MEPC.39(29) of amendments to introduce the harmonized 
+system of survey and certification into the International Convention for the 
+Prevention of Pollution from Ships, 1973, as modified by the 1978 Protocol 
+relating thereto (MARPOL 73/78); 
+ 
+(c) resolution MEPC.132(53) of amendments to introduce the harmonized 
+system of survey and certification into MARPOL Annex VI;  
+ 
+(d) the resolutions given below of amendments to introduce the harmonized 
+system of survey and certification into: 
+ 
+(i) the International Code for the Construction and Equipment of Ships
+---
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+system of survey and certification into: 
+ 
+(i) the International Code for the Construction and Equipment of Ships 
+Carrying Dangerous Chemicals in Bulk (IBC Code) (resolutions 
+MEPC.40(29) and MSC.16(58)); 
+ 
+(ii) the International Code for the Construction and Equipment of 
+Ships Carrying Liquefied Gases in Bulk (IGC Code) (resolution 
+MSC.17(58)); and 
+Resolution A.1053(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF 
+SURVEY AND CERTIFICATION (HSSC), 2011A 27/Res.1053 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\27\RES\1053.doc 
+(iii) the Code for the Construction and Equipment of Ships Carrying 
+Dangerous Chemicals in Bulk (BCH Code) (resolutions MEPC.41(29) 
+and MSC.18(58)), 
+ 
+RECALLING ALSO that, by resolution A.997(25), it adopted the Survey Guidelines under the 
+Harmonized System of Survey and Certification, 2007 ("the Survey Guidelines") with a view to 
+assisting Governments in implementing the requirements of the aforementioned instruments,
+---
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+assisting Governments in implementing the requirements of the aforementioned instruments, 
+and that, by resolution A.1020(26), it adopted amendments to the Survey Guidelines, 
+ 
+RECALLING FURTHER that the Marine Environment  Protection Committee, at its fifty-ninth 
+session, adopted resolution MEPC.180(59) on amendments to the Survey Guidelines,  
+ 
+RECOGNIZING the need for the Survey Guidelines to be further revised to take into account 
+the amendments to the IMO instruments referred to above, which have entered into force or 
+become effective since the adoption of resolution A.1020(26), 
+ 
+HAVING CONSIDERED the recommendations made by the Maritime Safety Committee, 
+at its eighty-ninth session, and the Marine Environment Protection Committee, at its sixty-second 
+session, 
+ 
+1. ADOPTS the Survey Guidelines under the Harmonized System of Survey and 
+Certification (HSSC), 2011, as set out in the annex to the present resolution;
+---
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+Certification (HSSC), 2011, as set out in the annex to the present resolution; 
+ 
+2. INVITES Governments carrying out surveys required by relevant IMO instruments to 
+apply the provisions of the annexed Survey Guidelines; 
+ 
+3. REQUESTS the Maritime Safety Committee and the Marine Environment Protection 
+Committee to keep the Survey Guidelines under review and amend them as necessary; 
+ 
+4. REVOKES resolutions A.997(25), A.1020(26) and MEPC.180(59). 
+ 
+ 
+ 
+Resolution A.1053(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF 
+SURVEY AND CERTIFICATION (HSSC), 2011A/27/Res.1053 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\27\RES\1053.doc 
+Annex 
+ 
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF 
+SURVEY AND CERTIFICATION (HSSC), 2011 
+ 
+Table of Contents 
+ 
+  
+   
+  GENERAL 
+ 
+ 
+ 1 I NTRODUCTION 
+ 
+ 
+ 2 T YPES OF SURVEY 
+ 
+ 
+ 3 A PPLICATION AND ARRANGEMENT OF THE GUIDELINES 
+ 
+ 
+ 4 D ESCRIPTION OF THE VARIOUS TYPES OF SURVEY 
+ 
+ 
+(I) 4.1 Initial surveys
+---
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+3 A PPLICATION AND ARRANGEMENT OF THE GUIDELINES 
+ 
+ 
+ 4 D ESCRIPTION OF THE VARIOUS TYPES OF SURVEY 
+ 
+ 
+(I) 4.1 Initial surveys  
+(A) 4.2 Annual surveys  
+(In) 4.3 Intermediate surveys  
+(P) 4.4 Periodical surveys  
+(R)  4.5 Renewal surveys  
+(B) 4.6 Inspections of the outside of the ship's bottom of cargo ships  
+(Ad) 4.7 Additional surveys  
+ 4.8 Completion of surveys 
+ 
+ 
+ 5 A MPLIFICATION OF TERMS AND CONDITIONS 
+ 
+ 
+ 5.1 Definition of related items  
+ 5.2 Extending to five years a certificate issued for less than five 
+years 
+ 
+ 5.3  Extending the period between inspections of the outside of the 
+ship's bottom 
+ 
+ 5.4  Definition of "short voyage"  
+ 5.5 Application of "special circumstances"  
+ 5.6 Revalidation of certificates  
+ 5.7 Meaning of "any five-year period"  
+ 5.8 Surveys required after transfer of the ship to the flag of 
+another State 
+ 
+ 5.9 Recommended conditions for extending the period of validity 
+of a certificate
+---
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+another State 
+ 
+ 5.9 Recommended conditions for extending the period of validity 
+of a certificate 
+ 
+ 5.10  Inspection of the outside of a passenger ship's bottom  
+ 5.11 Survey of radio installations  
+ 5.12  Survey of the automatic identification system (AIS)  
+ 
+Resolution A.1053(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF 
+SURVEY AND CERTIFICATION (HSSC), 2011A 27/Res.1053 
+Page 4 
+ 
+ 
+I:\ASSEMBLY\27\RES\1053.doc 
+ 
+Annex 1 
+ 
+SURVEY GUIDELINES UNDER THE 1974 SOLAS CONVENTION, 
+AS MODIFIED BY THE 1988 PROTOCOL RELATING THERETO 
+ 
+(E) 1 G UIDELINES FOR SURVEYS FOR THE CARGO SHIP SAFETY 
+EQUIPMENT CERTIFICATE  
+ 
+ 
+(EI) 1.1 Initial surveys  
+(EA) 1.2 Annual surveys  
+(EP) 1.3 Periodical surveys  
+(ER)  1.4 Renewal surveys 
+ 
+ 
+(C) 2 G UIDELINES FOR SURVEYS FOR THE CARGO SHIP SAFETY 
+CONSTRUCTION CERTIFICATE 
+ 
+ 
+(CI)  2.1 Initial surveys  
+(CA)  2.2 Annual surveys   
+(CIn)  2.3 Intermediate surveys  
+(CR) 2.4 Renewal surveys
+---
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+CONSTRUCTION CERTIFICATE 
+ 
+ 
+(CI)  2.1 Initial surveys  
+(CA)  2.2 Annual surveys   
+(CIn)  2.3 Intermediate surveys  
+(CR) 2.4 Renewal surveys 
+ 
+ 
+(B) 3 G UIDELINES FOR THE INSPECTION OF THE OUTSIDE OF THE 
+SHIP'S BOTTOM OF CARGO SHIPS 
+ 
+ 
+(R) 4 G UIDELINES FOR SURVEYS FOR THE CARGO SHIP SAFETY RADIO 
+CERTIFICATE 
+ 
+ 
+(RI) 4.1 Initial surveys  
+(RP)  4.2 Periodical surveys  
+(RR) 4.3 Renewal surveys 
+ 
+ 
+(P) 5 G UIDELINES FOR SURVEYS FOR THE PASSENGER SHIP SAFETY 
+CERTIFICATE 
+ 
+ 
+(PI) 5.1 Initial surveys  
+(PR)  5.2 Renewal surveys  
+    
+ 
+Resolution A.1053(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF 
+SURVEY AND CERTIFICATION (HSSC), 2011A/27/Res.1053 
+Page 5 
+ 
+ 
+I:\ASSEMBLY\27\RES\1053.doc 
+ 
+Annex 2 
+ 
+SURVEY GUIDELINES UNDER THE 1966 LOAD LINE CONVENTION, 
+AS MODIFIED BY THE 1988 PROTOCOL RELATING THERETO 
+ 
+(L) 1 G UIDELINES FOR SURVEYS FOR THE INTERNATIONAL LOAD LINE 
+CERTIFICATE OR INTERNATIONAL LOAD LINE EXEMPTION
+---
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+(L) 1 G UIDELINES FOR SURVEYS FOR THE INTERNATIONAL LOAD LINE 
+CERTIFICATE OR INTERNATIONAL LOAD LINE EXEMPTION 
+CERTIFICATE 
+ 
+ 
+(LI)  1.1 Initial surveys  
+(LA)  1.2  Annual surveys  
+(LR) 1.3 Renewal surveys   
+    
+ 
+Annex 3 
+ 
+SURVEY GUIDELINES UNDER THE MARPOL CONVENTION 
+ 
+(O) 1 G UIDELINES FOR SURVEYS FOR THE INTERNATIONAL OIL 
+POLLUTION PREVENTION CERTIFICATE 
+ 
+ 
+(OI) 1.1 Initial surveys  
+(OA) 1.2 Annual surveys  
+(OIn) 1.3 Intermediate surveys  
+(OR) 1.4 Renewal surveys 
+ 
+ 
+(N) 2 G UIDELINES FOR SURVEYS FOR THE INTERNATIONAL 
+POLLUTION PREVENTION CERTIFICATE FOR THE CARRIAGE OF 
+NOXIOUS LIQUID SUBSTANCES IN BULK 
+ 
+ 
+(NI) 2.1 Initial surveys  
+(NA) 2.2 Annual surveys  
+(NIn)  2.3 Intermediate surveys  
+(NR) 2.4 Renewal surveys 
+ 
+ 
+(S) 3  G UIDELINES FOR SURVEYS FOR THE INTERNATIONAL SEWAGE 
+POLLUTION PREVENTION CERTIFICATE 
+ 
+ 
+(SI) 3.1 Initial surveys   
+(SR) 3.2 Renewal surveys 
+ 
+ 
+(A) 4 G UIDELINES FOR SURVEYS FOR THE INTERNATIONAL
+---
+SOURCE: A.1053(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1053(27).pdf
+POLLUTION PREVENTION CERTIFICATE 
+ 
+ 
+(SI) 3.1 Initial surveys   
+(SR) 3.2 Renewal surveys 
+ 
+ 
+(A) 4 G UIDELINES FOR SURVEYS FOR THE INTERNATIONAL 
+AIR POLLUTION PREVENTION CERTIFICATE AND THE 
+NOX TECHNICAL CODE  
+ 
+ 
+(AI) 4.1 Initial surveys  
+(AA) 4.2 Annual surveys  
+(AIn) 4.3 Intermediate surveys  
+(AR) 4.4 Renewal surveys 
+ 
+ 
+ 
+ 
+Resolution A.1053(27)  Adopted on 30 November 2011 
+(Agenda item 9) 
+SURVEY GUIDELINES UNDER THE HARMONIZED SYSTEM OF 
+SURVEY AND CERTIFICATION (HSSC), 2011
+---
