@@ -1,0 +1,681 @@
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+RESOLUTION MEPC.177(58) 
+Adopted on 10 October 2008 
+AMENDMENTS TO THE TECHNICAL CODE ON CONTROL OF EMISSION OF 
+NITROGEN OXIDES FROM MARINE DIESEL ENGINES 
+(NOx Technical Code 2008)RESOLUTION MEPC.177(58) 
+Adopted on 10 October 2008 
+AMENDMENTS TO THE TECHNICAL CODE ON CONTROL OF EMISSION OF 
+NITROGEN OXIDES FROM MARINE DIESEL ENGINES 
+(NO. Technical Code 2008) 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Enviromnent Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution , 
+NOTING article 16 of the International Convention for the Prevention of Pollution from 
+Ships, 1973 (hereinafter referred to as the "1973 Convention"), article VI of the Protocol of 1978 
+relating to the International Convention for the Prevention of Pollution from Ships, 1973
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+relating to the International Convention for the Prevention of Pollution from Ships, 1973 
+(hereinafter referred to as the" 1978 Protocol") and article 4 of the Protocol of 1997 to amend the 
+International Convention for the Prevention of Pollution from Ships, 1973, as modified by the 
+Protocol of 1978 relating thereto (herein after referred to as the "1997 Protocol"), which together 
+specify the amendment procedure of the 1997 Protocol and confer upon the appropriate body of 
+the Organization the function of considering and adopting amendments to the 1973 Convention, 
+as modified by the 1978 and 1997 Protocols, 
+NOTING ALSO that, by the 1997 Protocol, Annex VI, entitled Regulations for the 
+Prevention of Air Pollution from Ships (hereinafter referred to as "Annex VI"), is added to 
+the 1973 Convention, 
+NOTING FURTHER regulation 13 ofMARPOL Annex VI, which makes the Technical 
+Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines (NOx Technical
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines (NOx Technical 
+Code) mandatory under that Annex, 
+HAVING CONSIDERED the draft amendments to the NOx Technical Code, 
+I. ADOPTS, in accordance with article 16(2)(d) ofthe 1973 Convention, the amendments to 
+the NOx Technical Code, as set out at Annex to the present resolution; 
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the 
+amendments shall be deemed to have been accepted on I January 2010, unless prior to that date, 
+not less than one-third of the Parties or Parties the combined merchant fleets of which constitute 
+not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated 
+to the Organization their objection to the amendments; 
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of 
+the 1973 Convention, the said amendments shall enter into force on I July 20 I 0 upon their
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+the 1973 Convention, the said amendments shall enter into force on I July 20 I 0 upon their 
+acceptance in accordance with paragraph 2 above; 
+RESOLUTION MEPC.177(58) 
+Adopted on 10 October 2008 
+AMENDMENTS TO THE TECHNICAL CODE ON CONTROL OF EMISSION OF 
+NITROGEN OXIDES FROM MARINE DIESEL ENGINES 
+(NOx Technical Code 2008)-2-
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of 
+the 1973 Convention, to transmit to all Parties to the 1973 Convention, as modified by the 1978 
+and 1997 Protocols, certified copies of the present resolution and the text of the amendments 
+contained in the Annex; 
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the 
+Organization which are not Parties to the 1973 Convention, as modified by the 1978 
+and 1997 Protocols, copies of the present resolution and its Annex; 
+6. INVITES the Parties to MARPOL Annex VI and other Member Governments to bring
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+and 1997 Protocols, copies of the present resolution and its Annex; 
+6. INVITES the Parties to MARPOL Annex VI and other Member Governments to bring 
+the amendments to the NOx Technical Code to the attention of shipowners, ship operators, 
+shipbuilders, marine diesel engine manufacturers and any other interested groups. 
+RESOLUTION MEPC.177(58) 
+Adopted on 10 October 2008 
+AMENDMENTS TO THE TECHNICAL CODE ON CONTROL OF EMISSION OF 
+NITROGEN OXIDES FROM MARINE DIESEL ENGINES 
+(NOx Technical Code 2008)- 3 -
+NO. Technical Code 2008 
+Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines 
+Contents 
+Page 
+INTRODUCTION 
+NO. Technical Code (2008) ........ .......................... .................... ............................................ 5 
+Abbreviations, subscripts and symbols ........................ ................ ............ ............... ......... ... 6 
+Chapter 1 
+l.l 
+1.2 
+1.3
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+Chapter 1 
+l.l 
+1.2 
+1.3 
+- GENERAL· ························· ············· ········· ....•....... .......................................... 
+Purpose ...................................................................................... ..................... . 
+Application ...................... ....................... ........... ........... ......... ........ ............... .. . 
+Definitions' .............................................................................. ....................... . 
+Chapter 2 - SURVEYS AND CERTIFICATION ............................ .............. ................. . 
+2.1 General··· .. · ....................................... ................... ........................................... . 
+2.2 Procedures for pre-certification of an engine .................................................. . 
+2.3 Procedures for certification of an engine ......................................... ........... ... ..
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+2.3 Procedures for certification of an engine ......................................... ........... ... .. 
+2.4 Technical file and onboard NOx verification procedures ................................ . 
+Chapter 3 - NITROGEN OXIDES EMISSION STANDARDS ........................... ....... ... . 
+3.1 Maximum allowable NOx emission limits for 
+marine diesel engines· .................................................. ................ .................. . 
+3.2 Test cycles and weighting factors to be applied· ··· .............. ............................ . 
+Chapter 4 - APPROVAL FOR SERIALLY MANUFACTURED ENGINES: 
+ENGINE FAMILY AND ENGINE GROUP CONCEPTS .. ··· .. ·················· 
+4.1 General·············· .. · .. ······························ ............... ..................... ..................... .. 
+4.2 Documentation ....................................................................... ........................ .
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+4.2 Documentation ....................................................................... ........................ . 
+4.3 Application ofthe engine family concept ....................................................... . 
+4.4 Application of the engine group concept ................................ ........ ................ . 
+Chapter 5 - PROCEDURES FOR NO, EMISSION MEASUREMENTS ON 
+A TEST BED· ··························· ·················· ................ ......... .......................... . 
+5.1 General················ ··············· ······· ................................ .................... ......... ........ . 
+5.2 Test conditions ................ ........ ......... ................................... ...... ..................... . 
+5.3 Test fuel oils ................................................................. ............ ...................... . 
+5.4 Measurement equipment and data to be measured·· ............................... ...... ... .
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+5.4 Measurement equipment and data to be measured·· ............................... ...... ... . 
+5.5 Determination of exhaust gas flow ........................... ................... ............. ...... . 
+5.6 Permissible deviations of instruments for engine-related 
+parameters and other essential parameters' ..................................................... . 
+9 
+9 
+9 
+9 
+12 
+12 
+13 
+15 
+16 
+19 
+19 
+19 
+22 
+22 
+22 
+22 
+26 
+29 
+29 
+29 
+32 
+32 
+33 
+34 
+RESOLUTION MEPC.177(58) 
+Adopted on 10 October 2008 
+AMENDMENTS TO THE TECHNICAL CODE ON CONTROL OF EMISSION OF 
+NITROGEN OXIDES FROM MARINE DIESEL ENGINES 
+(NOx Technical Code 2008)- 4 -
+5.7 Analysers for determination of the gaseous components' ........... ... .................. 34 
+5.8 Calibration of the analytical instruments ....................................... .................. 34 
+5.9 Test run ................................................ ............................... ......... ................... 34
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+5.9 Test run ................................................ ............................... ......... ................... 34 
+5.10 Test report ............................................... ............................ ............................ 36 
+5.11 Data evaluation for gaseous emissions ..................................................... ....... 37 
+5.12 Calculation ofthe gaseous emissions······································· ······......... ......... 37 
+Chapter 6 - PROCEDURES FOR DEMONSTRATING COMPLIANCE 
+WITH NO, EMISSION LIMITS ON BOARD .................. ................... ...... 42 
+6.1 General············································ ···........................... ......................... ......... 42 
+6.2 Engine parameter check method ......................................................... ............. 42 
+6.3 Simplified measurement method .............................. .................................. ..... 45
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+6.3 Simplified measurement method .............................. .................................. ..... 45 
+6.4 Direct measurement and monitoring method ................................................... 48 
+Chapter 7 - CERTIFICATION OF AN EXISTING ENGINE······· .. ······························· 54 
+APPENDICES 
+APPENDIX 1 
+APPENDIX II 
+APPENDIX III 
+APPENDIX IV 
+APPENDIX V 
+APPENDIX VI 
+APPENDIX VII 
+APPENDIX VIII 
+Form of EIAPP Certificate .................. ......................................... . 
+Flowcharts for survey and certification of marine diesel engines'" 
+Specifications for analysers to be used in the determination of 
+gaseous components of marine diesel engine emissions ............... . 
+Calibration of the analytical and measurement instruments ......... . . 
+Parent engine test report and test data 
+Section 1 - Parent engine test report ............................................ . 
+Section 2 - Parent engine test data to be included
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+Section 1 - Parent engine test report ............................................ . 
+Section 2 - Parent engine test data to be included 
+in the technical file···· .................................................................... . 
+55 
+58 
+62 
+67 
+80 
+88 
+Calculation of exhaust gas mass flow (carbon-balance method) .... 91 
+Checklist for an engine parameter check method ......... ......... ......... 93 
+Implementation of the direct measurement and monitoring method 96 
+RESOLUTION MEPC.177(58) 
+Adopted on 10 October 2008 
+AMENDMENTS TO THE TECHNICAL CODE ON CONTROL OF EMISSION OF 
+NITROGEN OXIDES FROM MARINE DIESEL ENGINES 
+(NOx Technical Code 2008)- 5 -
+Introduction 
+NOx Technical Code 2008 
+On 26 September 1997, the Conference of Parties to the International Convention for the 
+Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto 
+(MARPOL 73/78) adopted, by Conference resolution 2, the Technical Code on Control of
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+(MARPOL 73/78) adopted, by Conference resolution 2, the Technical Code on Control of 
+Emission of Nitrogen Oxides from Marine Diesel Engines (NOx Technical Code). Following the 
+entry into force, on 19 May 2005, of MARPOL Annex VI - Regulations for the Prevention of 
+Air Pollution from Ships, each marine diesel engine to which regulation 13 of that Annex applies 
+must comply with the provisions of this Code. MEPC 53 in July 2005 agreed to the revision of 
+MARPOL Annex VI and the NOx Technical Code. That review was concluded at MEPC 58 in 
+October 2008 and this version of the NOx Technical Code, hereunder referred to as the Code, is 
+an outcome of that process. 
+As general background information, the precursors to the formation of nitrogen oxides during the 
+combustion process are nitrogen and oxygen. Together these compounds comprise 99% of the 
+engine intake air. Oxygen will be consumed during the combustion process , with the amount of
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+engine intake air. Oxygen will be consumed during the combustion process , with the amount of 
+excess oxygen available being a function of the air/fuel ratio under which the engine is operating. 
+The nitrogen remains largely unreacted in the combustion process; however, a small percentage 
+will be oxidized to form various oxides of nitrogen. The nitrogen oxides (NOx) that can be 
+formed include nitric oxide (NO) and nitrogen dioxide (N02)' while the amounts are primarily a 
+function of flame or combustion temperature and, if present, the amount of organic nitrogen 
+available from the fuel. NOx formation is also a function of the time the nitrogen and the excess 
+oxygen are exposed to the high temperatures associated with the diesel engine's combustion 
+process. In other words, the higher the combustion temperature (e.g., high-peak pressure, 
+high-compression ratio, high rate of fuel delivery, etc.), the greater the amount of NO x formation.
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+high-compression ratio, high rate of fuel delivery, etc.), the greater the amount of NO x formation. 
+A slow-speed diesel engine, in general, tends to have more NOx formation than a high-speed 
+engine. NOx has an adverse effect on the environment, causing acidification, formation of 
+tropospheric ozone and nutrient enrichment, and contributes to adverse health effects globally. 
+The purpose of this Code is to provide mandatory procedures for the testing, survey and 
+certification of marine diesel engines that will enable engine manufacturers, shipowners and 
+Administrations to ensure that all applicable marine diesel engines comply with the relevant 
+limiting emission values of NOx as specified within regulation 13 of Annex VI. The difficulties 
+of establishing, with precision, the actual weighted average NOx emission of marine diesel 
+engines in service on ships have been recognized in formulating a simple, practical set of
+---
+SOURCE: MEPC.177(58).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.177(58).pdf
+engines in service on ships have been recognized in formulating a simple, practical set of 
+requirements in which the means to ensure compliance with the allowable NOx emissions are 
+defined. 
+Administrations are encouraged to assess the emissions performance of marine propulsion and 
+auxiliary diesel engines on a test bed where accurate tests can be carried out under properly 
+controlled conditions. Establishing compliance with regulation 13 of Annex VI at this initial 
+stage is an essential feature of this Code. Subsequent testing on board the ship may inevitably be 
+limited in scope and accuracy, and its purpose shall be to infer or deduce the emission 
+RESOLUTION MEPC.177(58) 
+Adopted on 10 October 2008 
+AMENDMENTS TO THE TECHNICAL CODE ON CONTROL OF EMISSION OF 
+NITROGEN OXIDES FROM MARINE DIESEL ENGINES 
+(NOx Technical Code 2008)
+---
+
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+RESOLUTION MEPC.282(70) 
+(Adopted on 28 October 2016) 
+2016 GUIDELINES FOR THE DEVELOPMENT OF 
+A SHIP ENERGY EFFICIENCY MANAGEMENT PLAN (SEEMP)MEPC 70/18/Add.1 
+Annex 10, page 1 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MEPC 70-18-ADD.1 (E).docx 
+ANNEX 10 
+ 
+RESOLUTION MEPC.282(70) 
+(Adopted on 28 October 2016) 
+ 
+2016 GUIDELINES FOR THE DEVELOPMENT OF  
+A SHIP ENERGY EFFICIENCY MANAGEMENT PLAN (SEEMP) 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution 
+from ships, 
+ 
+RECALLING ALSO that it adopted, by resolution MEPC.203(62), Amendments to the annex 
+of the Protocol of 1997 to amend the International Convention for the Prevention of Pollution
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+of the Protocol of 1997 to amend the International Convention for the Prevention of Pollution 
+from Ships, 1973, as modified by the Protocol of 1978 relating thereto (inclusion of regulations 
+on energy efficiency for ships in MARPOL Annex VI), 
+ 
+NOTING that the aforementioned amendments to MARPOL Annex VI, which includ ed a new 
+chapter 4 on regulations on energy efficiency for ships in Annex VI, entered into force 
+on 1 January 2013,  
+ 
+NOTING ALSO that regulation 22 of MARPOL Annex VI, as amended, requires each ship to 
+keep on board a ship specific Ship Energy Efficiency Management Plan, taking into account 
+guidelines developed by the Organization, 
+ 
+NOTING FURTHER that it adopted, by resolution MEPC.278(70), amendments to MARPOL 
+Annex VI related to the data collection system for fuel oil consumption which are expected to 
+enter into force on 1 March 2018 upon their deemed acceptance on 1 September 2017,
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+enter into force on 1 March 2018 upon their deemed acceptance on 1 September 2017, 
+ 
+RECOGNIZING that the aforementioned amendments to MARPOL Annex VI require the 
+adoption of relevant guidelines for uniform and effective implementation of the regulations and 
+to provide sufficient lead time for industry to prepare, 
+ 
+HAVING CONSIDERED, at its seventieth session, draft 2016 Guidelines for the development 
+of a Ship Energy Efficiency Management Plan (SEEMP),  
+ 
+1 ADOPTS the 2016 Guidelines for the development of a Ship Energy Efficiency 
+Management Plan (SEEMP)  (the 2016 Guidelines) , as set out in the annex to the present 
+resolution; 
+ 
+2 INVITES Administrations to take the annexed 2016 Guidelines into account when 
+developing and enacting national laws which give force to and implement requirements set 
+forth in regulations 22 and 22A of MARPOL Annex VI, as amended;  
+ 
+3 REQUESTS the Parties to MARPOL Annex VI and other Member Governments to
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+forth in regulations 22 and 22A of MARPOL Annex VI, as amended;  
+ 
+3 REQUESTS the Parties to MARPOL Annex VI and other Member Governments to 
+bring the annexed 2016 Guidelines to the attention of masters, seafarers, shipowners, ship 
+operators and any other interested groups;  
+ 
+4 AGREES to keep the 2016 Guidelines under review in light of the experience gained 
+with their implementation;  
+ 
+5 SUPERSEDES the 2012 Guidelines for the development of a Ship Energy Efficiency 
+Management Plan (SEEMP), adopted by resolution MEPC.213(63).  
+RESOLUTION MEPC.282(70) 
+(Adopted on 28 October 2016) 
+2016 GUIDELINES FOR THE DEVELOPMENT OF 
+A SHIP ENERGY EFFICIENCY MANAGEMENT PLAN (SEEMP)MEPC 70/18/Add.1 
+Annex 10, page 2 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MEPC 70-18-ADD.1 (E).docx 
+ANNEX 
+ 
+2016 GUIDELINES FOR THE DEVELOPMENT OF 
+A SHIP ENERGY EFFICIENCY MANAGEMENT PLAN (SEEMP) 
+ 
+ 
+CONTENTS 
+ 
+ 
+1 INTRODUCTION 
+ 
+2 DEFINITIONS
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+2016 GUIDELINES FOR THE DEVELOPMENT OF 
+A SHIP ENERGY EFFICIENCY MANAGEMENT PLAN (SEEMP) 
+ 
+ 
+CONTENTS 
+ 
+ 
+1 INTRODUCTION 
+ 
+2 DEFINITIONS 
+ 
+PART I OF THE SEEMP: SHIP MANAGEMENT PLAN TO IMPROVE ENERGY EFFICIENCY 
+ 
+3 GENERAL 
+ 
+4 FRAMEWORK AND STRUCTURE OF PART I OF THE SEEMP 
+ 
+5 GUIDANCE ON BEST PRACTICES FOR FUEL-EFFICIENT OPERATION OF SHIPS 
+ 
+PART II OF THE SEEMP: SHIP FUEL OIL CONSUMPTION DATA COLLECTION PLAN 
+ 
+6 GENERAL 
+ 
+7 GUIDANCE ON METHODOLOGY FOR COLLECTING DATA ON FUEL OIL 
+CONSUMPTION, DISTANCE TRAVELLED AND HOURS UNDERWAY 
+ 
+8 DIRECT CO 2 EMISSIONS MEASUREMENT 
+ 
+APPENDIX 1 –  SAMPLE FORM OF SHIP MANAGEMENT PLAN TO IMPROVE ENERGY 
+EFFICIENCY  
+ 
+APPENDIX 2 –  SAMPLE FORM OF SHIP FUEL OIL CONSUMPTION DATA COLLECTION 
+PLAN 
+ 
+APPENDIX 3 – STANDARDIZED DATA REPORTING FORMAT FOR THE DATA 
+COLLECTION SYSTEM 
+ 
+ 
+  
+RESOLUTION MEPC.282(70) 
+(Adopted on 28 October 2016) 
+2016 GUIDELINES FOR THE DEVELOPMENT OF
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+COLLECTION SYSTEM 
+ 
+ 
+  
+RESOLUTION MEPC.282(70) 
+(Adopted on 28 October 2016) 
+2016 GUIDELINES FOR THE DEVELOPMENT OF 
+A SHIP ENERGY EFFICIENCY MANAGEMENT PLAN (SEEMP)MEPC 70/18/Add.1 
+Annex 10, page 3 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MEPC 70-18-ADD.1 (E).docx 
+1 INTRODUCTION 
+ 
+1.1 The Guidelines for the development of a Ship Energy Efficiency Management Pl an 
+have been developed to assist with the preparation of the Ship Energy Efficiency Management 
+Plan (SEEMP) required by regulation 22 of MARPOL Annex VI. 
+ 
+1.2 There are two parts to a SEEMP. Part I provides a possible approach for monitoring 
+ship and fleet efficiency performance over time and some options to be considered when 
+seeking to optimize the performance of the ship. Part II provides the methodologies ships 
+of 5,000 gross tonnage and above should use to collect the data required pursuant to 
+regulation 22A of MARPOL Annex VI and the processes that the ship should use to report the
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+regulation 22A of MARPOL Annex VI and the processes that the ship should use to report the 
+data to the ship's Administration or any organization duly authorized by it. 
+ 
+1.3 A sample form of the SEEMP is presented in appendices 1 and 2 for illustrative 
+purposes. A standardized data reporting format for the data collection system is presented in 
+appendix 3. 
+ 
+2 DEFINITIONS 
+ 
+2.1 For the purpose of these Guidelines, the definitions in MARPOL Annex VI apply. 
+ 
+2.2 "Ship fuel oil consumption data" means the data required to be collected on an annual 
+basis and reported as specified in appendix IX to MARPOL Annex VI. 
+ 
+2.3 "Safety management system" means a structured and documented system enabling 
+company personnel to implement effectively the company safety and environmental protection 
+policy, as defined in paragraph 1.1 of International Safety Management Code. 
+ 
+PART I OF THE SEEMP: SHIP MANAGEMENT PLAN TO IMPROVE ENERGY EFFICIENCY 
+ 
+3 GENERAL
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+PART I OF THE SEEMP: SHIP MANAGEMENT PLAN TO IMPROVE ENERGY EFFICIENCY 
+ 
+3 GENERAL 
+ 
+3.1 In global terms it should be recognized that operational efficiencies delivered by a 
+large number of ship operators will make an invaluable contribution to reducing global carbon 
+emissions. 
+ 
+3.2 The purpose of part I of the SEEMP is to establish a mechanism for a company and/or 
+a ship to improve the energy efficiency of a ship's operation. Preferably, this aspect of the 
+ship-specific SEEMP is linked to a broader corporate energy management policy for the 
+company that owns, operates or controls the ship, recognizing that no two shipping companies 
+are the same, and that ships operate under a wide range of different conditions. 
+ 
+3.3 Many companies will already have an environmental management system (EMS) in 
+place under ISO 14001 which contains procedures for selecting the best measures for 
+particular vessels and then setting objectives for the measurement of relevant parameters,
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+particular vessels and then setting objectives for the measurement of relevant parameters, 
+along with relevant control and feedback features. Monitoring of operational environmental 
+efficiency should therefore be treated as an integral element of broader company management 
+systems. 
+ 
+3.4 In addition, many companies already develop, implement and maintain a 
+Safety Management System. In such case, part I of the SEEMP may form part of the ship' s 
+Safety Management System. 
+ 
+RESOLUTION MEPC.282(70) 
+(Adopted on 28 October 2016) 
+2016 GUIDELINES FOR THE DEVELOPMENT OF 
+A SHIP ENERGY EFFICIENCY MANAGEMENT PLAN (SEEMP)MEPC 70/18/Add.1 
+Annex 10, page 4 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MEPC 70-18-ADD.1 (E).docx 
+3.5 This section provides guidance for the development of part I of the SEEMP that should 
+be adjusted to the characteristics and needs of individual companies and ships. Part I is
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+be adjusted to the characteristics and needs of individual companies and ships. Part I is 
+intended to be a management tool to assist a company in managing the ongoing environmental 
+performance of its vessels and as such, it is recommended that a company develops 
+procedures for implementing the plan in a manner which limits any on-board administrative 
+burden to the minimum necessary. 
+ 
+3.6 Part I of the SEEMP should be developed as a ship-specific plan by the company, 
+and should reflect efforts to improve a ship's energy efficiency through four steps: planning, 
+implementation, monitoring, and self-evaluation and improvement. These components play a 
+critical role in the continuous cycle to improve ship energy efficiency management. With each 
+iteration of the cycle, some elements of part I will necessarily change while others may remain 
+as before.  
+ 
+3.7 At all times safety considerations should be paramount. The trade a ship is engaged
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+as before.  
+ 
+3.7 At all times safety considerations should be paramount. The trade a ship is engaged 
+in may determine the feasibility of the efficiency measures under consideration. For example, 
+ships that perform services at sea (pipe laying, seismic survey, OSVs, dredgers, etc.) 
+may choose different methods of improving energy efficiency when compared to conventional 
+cargo carriers. The nature of operations and influence of prevailing weather conditions, tides 
+and currents combined with the necessity of maintaining safe operations may require 
+adjustment of general procedures to maintain the efficiency of the operation, for example the 
+ships which are dynamically positioned. The length of voyage may also be an important 
+parameter as may trade specific safety considerations. 
+ 
+4 FRAMEWORK AND STRUCTURE OF PART I OF THE SEEMP  
+ 
+4.1 Planning  
+ 
+4.1.1 Planning is the most crucial stage of part I of the SEEMP, in that it primarily determines
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+4.1 Planning  
+ 
+4.1.1 Planning is the most crucial stage of part I of the SEEMP, in that it primarily determines 
+both the current status of ship energy usage and the expected improvement of ship 
+energy efficiency. Therefore, it is encouraged to devote sufficient time to planning so that the 
+most appropriate, effective and implementable plan can be developed. 
+ 
+Ship-specific measures 
+ 
+4.1.2 Recognizing that there are a variety of options to improve efficiency – speed  
+optimization, weather routing and hull maintenance, for example – and that the best package 
+of measures for a ship to improve efficiency differs to a great extent depending  upon ship 
+type, cargoes, routes and other factors, the specific measures for the ship to improve 
+energy efficiency should be identified in the first place. These measures should be listed as 
+a package of measures to be implemented, thus providing the overview of the  actions to 
+be taken for that ship.
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+a package of measures to be implemented, thus providing the overview of the  actions to 
+be taken for that ship. 
+ 
+4.1.3 During this process, therefore, it is important to determine and understand the ship's 
+current status of energy usage. Part I of the SEEMP should identify energy-saving measures 
+that have been undertaken, and should determines how effective these measures are in terms 
+of improving energy efficiency. Part I also should identify what measures can be adopted to 
+further improve the energy efficiency of the ship. It should be noted, however, that not all  
+measures can be applied to all ships, or even to the same ship under different operating  
+conditions and that some of them are mutually exclusive. Ideally, initial measures could yield  
+energy (and cost) saving results that then can be reinvested into more difficult or expensive 
+efficiency upgrades identified by part I. 
+ 
+RESOLUTION MEPC.282(70) 
+(Adopted on 28 October 2016)
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+efficiency upgrades identified by part I. 
+ 
+RESOLUTION MEPC.282(70) 
+(Adopted on 28 October 2016) 
+2016 GUIDELINES FOR THE DEVELOPMENT OF 
+A SHIP ENERGY EFFICIENCY MANAGEMENT PLAN (SEEMP)MEPC 70/18/Add.1 
+Annex 10, page 5 
+ 
+ 
+https://edocs.imo.org/Final Documents/English/MEPC 70-18-ADD.1 (E).docx 
+4.1.4 Guidance on best practices for fuel-efficient operation of ships, set out in chapter 5, can 
+be used to facilitate this part of the planning phase. Also, in the planning process, particular 
+consideration should be given to minimize any on-board administrative burden. 
+ 
+Company-specific measures 
+ 
+4.1.5 The improvement of energy efficiency of ship operation does not necessarily depend 
+on single ship management only. Rather, it may depend on many stakeholders including  
+ship repair yards, shipowners, operators, charterers, cargo owners, ports and traffic  
+management services. For example, "Just in time" – as explained in paragraph 5.2.4 –
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+management services. For example, "Just in time" – as explained in paragraph 5.2.4 – 
+requires good early communication among operators, ports and traffic management service. 
+The better coordination among such stakeholders is, the more improvement can be expected. 
+In most cases, such coordination or total management is better made by a company rather 
+than by a ship. In this sense, it is recommended that a company also establish an energy 
+management plan to manage its fleet (should it not have one in place already) and make 
+necessary coordination among stakeholders. 
+ 
+Human resource development 
+ 
+4.1.6 For effective and steady implementation of the adopted measures, raising  
+awareness of and providing necessary training for personnel both on shore and on board are 
+an important element. Such human resource development is encouraged and should be 
+considered as an important component of planning as well as a critical element of 
+implementation. 
+ 
+Goal setting
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+considered as an important component of planning as well as a critical element of 
+implementation. 
+ 
+Goal setting 
+ 
+4.1.7 The last part of planning is goal setting. It should be emphasized that the goal  
+setting is voluntary, that there is no need to announce the goal or the result to the public, 
+and that neither a company nor a ship are subject to external inspection. The purpose of 
+goal setting is to serve as a signal which involved people should be conscious of, to create a 
+good incentive for proper implementation, and then to increase commitment to the 
+improvement of energy efficiency. The goal can take any form, such as the annual fuel 
+consumption or a specific target of Energy Efficiency Operational Indicator (EEOI). Whatever 
+the goal is, the  goal should be measurable and easy to understand. 
+ 
+4.2 Implementation 
+ 
+Establishment of implementation system 
+ 
+4.2.1 After a ship and a company identify the measures to be implemented, it is essential
+---
+SOURCE: MEPC.282(70).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.282(70).pdf
+Establishment of implementation system 
+ 
+4.2.1 After a ship and a company identify the measures to be implemented, it is essential 
+to establish a system for implementation of the identified and selected measures by 
+developing the procedures for energy management, by defining tasks and by assigning them 
+to qualified personnel. Thus, part I of the SEEMP should describe how each measure should 
+be implemented and who the responsible person(s) is. The implementation  period (start and 
+end dates) of each selected measure should be indicated. The development of such a  
+system can be considered as a part of planning, and therefore may be completed at the  
+planning stage. 
+ 
+RESOLUTION MEPC.282(70) 
+(Adopted on 28 October 2016) 
+2016 GUIDELINES FOR THE DEVELOPMENT OF 
+A SHIP ENERGY EFFICIENCY MANAGEMENT PLAN (SEEMP)
+---
