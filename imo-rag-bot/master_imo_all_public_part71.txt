@@ -1,0 +1,2181 @@
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+RESOLUTION A.769(18) adopted on 4 November 1993     
+PROCEDURES AND ARRANGEMENTS FOR ISSUING GMDSS CERTIFICATES TO HOLDERS OF NON-GMDSS CERTIFICATESINTERNATIONAL MARITIME 
+ORGANIZATION 
+A 18/Res.769 
+17 November 1993 
+Original: ENGLISH 
+ASSEMBLY - 18th session 
+Agenda item 11 
+RESOLUTION A.769(18) 
+adopted on 4 November 1993 
+PROCEDURES AND AR RANGEMENTS FOR ISSUING GMDSS CERTIFICATES 
+TO HOLDERS OF NON-GMDSS CERTIFICATES 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime 
+Organization concerning the functions of the Assembly in relation to 
+regulations and guidelines concerning maritime safety, 
+CONSIDERING the relevant provisions of the Radio Regulations, the 1988 
+amendments to the International Convention for the Safety o f Life a t Sea, 1974 
+(SOLAS) and the 1 991 amendments to the International Convention on Standards 
+of Training, Certification and Watchkeeping for Seafarers, 1978 (STCW), for
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+of Training, Certification and Watchkeeping for Seafarers, 1978 (STCW), for 
+the introduction of the Global Maritime Distress and Safety System (GMDSS), 
+NOTING that the 1991 amendments to STCW regulation IV/2 require that, in 
+determining the appropriate level of knowledge and training for certification 
+of GMDSS radio personnel, the Administration shall also take into account the 
+relevant recommendations of the Organization, 
+NOTING ALSO that resolution A.703(17) on training of radio p ersonnel 
+differs substantially from resolutions 14 and 15 of the International 
+Conference on Training and Certification of Seafarers, 1978, concerning the 
+training and certification of radio officers and radiotelephone operators, 
+BEING OF THE OPINION that issuing of GMDSS certificates to holders of old 
+(non-GMDSS) certificates without any requirement for passing an examination is 
+not a cceptable, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+not a cceptable, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety 
+Committee at its sixty-second session, 
+l. ADOPTS the Procedures and Arrangements for Issuing GMDSS Certificates to 
+Holders of non-GMDSS Certificates, set out in the Annex to the present 
+resolution; 
+2. RECOMMENDS Governments, before issuing a GMDSS certificate to a holder of 
+a non-GMDSS certificate, to require the candidate for the certificate to pass 
+a limited examination in accordance with the relevant provisions of the Radio 
+Regulations and the Procedures and Arrangements set out in the Annex to the 
+present resolution; 
+3. RECOMMENDS ALSO that this procedure only lasts for a limited period of 
+time as recommended in the Annex to the present resolution. 
+W/0252a 
+For reasons of economy, this document is printed in a limited number Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.769(18) adopted on 4 November 1993
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.769(18) adopted on 4 November 1993 
+PROCEDURES AND ARRANGEMENTS FOR ISSUING GMDSS CERTIFICATES TO HOLDERS OF NON-GMDSS CERTIFICATESA 18/Res.769 - 2 - 
+ANNEX 
+PROCEDURES AND ARRANGEMENTS FOR ISSUING GMDSS CERTIFICATES 
+TO HOLDERS OF NON-GMDSS CERTIFICATES 
+1 Introduction 
+1.1 GMDSS operator certificates should only be issued to candidates who have 
+passed an appropriate examination verifying that the candidate has reached the 
+required level of competence taking into account the recommendations of the 
+Organization. This requirement also applies to candidates who hold a 
+non-GMDSS operator certificate. 
+1.2 However, Administrations may make arrangements, as described in the 
+following paragraphs, to permit certain holders of non-GMDSS certificates to 
+obtain a GMDSS certificate after passing a "limited GMDSS examination".
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+obtain a GMDSS certificate after passing a "limited GMDSS examination". 
+1. 3 Arrangements for "limited GMDSS examinations" should cease on 
+1 February 1997. After this date all candidates should be required to pass 
+the full GMDSS examination. 
+2 Requirements for candidates holding non-GMDSS certificates 
+2.1 C andidates wishing to obtain a General Operator's Certificate (GOC) after 
+a "limited GMDSS examination" should hold a valid non-GMDSS certificate of one 
+of the following types, issued before 1 February 1997: 
+.1 Radiocommunication Operator's General Certificate for the Maritime 
+Mobile Service (MRGC); 
+.2 First or Second Class Radiotelegraph Operator's Certificate; 
+.3 Radiotelephone Operator's General Certificate; or 
+.4 Radiotelephone Operator's Restricted Certificate for the combination 
+of VHF, MF and HF. 
+2.2 C andidates wishing to obtain a Restricted Operator's Certificate (ROC) 
+after a "limited GMDSS examination" should hold a valid certificate of one of
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+after a "limited GMDSS examination" should hold a valid certificate of one of 
+the types listed above, or any Radiotelephone Operator's Restricted 
+Certificate issued before 1 February 1997. 
+3 Requirements to candidates regarding practical experience and training in 
+use of GMDSS equipment 
+3.1 A "limited GMDSS examination" for GOC should only be offered to 
+candidates who have practical experience or familiarity with relevant GMDSS 
+equipment, and procedures appropriate for a ship engaged on voyages in all sea 
+areas. 
+3.2 C andidates for a ROC should have experience or familiarity with equipment 
+and procedures appropriate for a ship engaged on voyages exclusively in sea 
+area Al. 
+W/0252a 
+RESOLUTION A.769(18) adopted on 4 November 1993     
+PROCEDURES AND ARRANGEMENTS FOR ISSUING GMDSS CERTIFICATES TO HOLDERS OF NON-GMDSS CERTIFICATES- 3 - A 18/Res.769 
+3.3 Each candidate should ha ve had a t least six months operational
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+3.3 Each candidate should ha ve had a t least six months operational 
+experience, preferably on board ships, since 1 February 1992, and should be 
+able to provide proof of such experience. 
+3.4 The candidate should receive supplementary training in the use o f, and 
+operational procedures f or, all G MDSS equipment with w hich he has no 
+experience or familiarity. The c andidate should p rovide proof of such 
+training. 
+4 Arrangements for "limited GMDSS e xamination" 
+4.1 Each Administration may decide the practical arrangements t o use for 
+"limited GMDSS examination" (i.e. whether to u se a "traditional classroom type 
+examination" or to a ccept different a rrangements), provided that the following 
+requirements are fulfilled in all c ases: 
+.1 The examination should ver ify - with a high degree of certainty - 
+whether or not the c andidate posesses the knowledge a nd skills 
+needed for c orrect operation of all relevant t ypes of GMDSS 
+equipment .
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+whether or not the c andidate posesses the knowledge a nd skills 
+needed for c orrect operation of all relevant t ypes of GMDSS 
+equipment . 
+. 2 As a minimum, the content of e ach "limited GMDSS e xamination" should 
+be such as to check that the candidate has knowledge and skills as 
+follows: 
+1. Candidates f or a GOC: Appendix 1 
+2. Candidates for a ROC: Appendix 2 
+.3 Precautions should be taken to prevent c andidates being g iven the 
+opportunity of receiving or using any kind o f unauthorized written 
+or verbal assistance during examination . 
+. 4 The evaluation of whelher or not the c andidate has proved that he 
+posesses t he necessary knowledge a nd skills during the limited 
+examination should always be done by a person authorized by the 
+Administration. 
+W/0252a 
+RESOLUTION A.769(18) adopted on 4 November 1993     
+PROCEDURES AND ARRANGEMENTS FOR ISSUING GMDSS CERTIFICATES TO HOLDERS OF NON-GMDSS CERTIFICATESA 18/Res.769 - 4 - 
+Appendix 1
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+PROCEDURES AND ARRANGEMENTS FOR ISSUING GMDSS CERTIFICATES TO HOLDERS OF NON-GMDSS CERTIFICATESA 18/Res.769 - 4 - 
+Appendix 1 
+EXAMINATION SYLLABUS APPLICABLE TO LIMITED GMDSS EXAMINATIONS FOR THE GENERAL 
+OPERATOR'S CERTIFICATE 
+1 Global Maritime Distress and Safety System {GMDSS) 
+1.1 Sea area concept and the GMDSS master plan 
+1.2 Functions of the GMDSS 
+.1 A lerting 
+.2 Search and Rescue (SAR) co-ordinating communications 
+.3 On-scene communications 
+.4 Locating and homing signals 
+.5 Dissemination of Maritime Safety Information (MS!) 
+.6 General radiocommunications 
+.7 Bridge-to-bridge communications 
+1.3 Means of ensuring availability of the GMDSS functional requirements: 
+.1 Equipment maintenance strategies 
+1.4 Sources of energy of ship stations 
+1.5 GMDSS frequencies 
+1.6 Protection of distress frequencies 
+.1 Guard bands 
+.2 Test on distress frequencies 
+.3 Transmissions during distress traffic 
+.4 Avoiding harmful interference 
+.5 Prevention of unauthorized transmissions.
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+.3 Transmissions during distress traffic 
+.4 Avoiding harmful interference 
+.5 Prevention of unauthorized transmissions. 
+1.7 Watchkeeping on GMDSS frequencies 
+1.8 C arriage requirements of ship stations 
+1.9 Licences, radio safety certificates, inspections and surveys 
+1.10 Radio record keeping 
+W/0252a 
+RESOLUTION A.769(18) adopted on 4 November 1993     
+PROCEDURES AND ARRANGEMENTS FOR ISSUING GMDSS CERTIFICATES TO HOLDERS OF NON-GMDSS CERTIFICATES- 5 - A 18/Res.769 
+2 SAR Operations in the GMDSS 
+2.1 The role of Rescue Co-ordination Centres (RCCs) 
+2.2 Merchant Ship Search and Rescue Manual (MERSAR) 
+2.3 Maritime rescue organizations 
+2.4 Ship reporting systems 
+3 Communication procedures in the GMDSS 
+3.1 Distress comm unications via a ship station 
+.1 Digital Selective Calling (DSC) distress alert 
+.1.1 The definition of a distress alert 
+.1.2 Transmission of a distress alert 
+.1.3 Transmission of a shore-to-ship distress alert relay
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+.1.1 The definition of a distress alert 
+.1.2 Transmission of a distress alert 
+.1.3 Transmission of a shore-to-ship distress alert relay 
+.1.4 Transmission of a distress alert by a station not itself in 
+distress 
+.2 Receipt and acknowledgement of a DSC distress alert 
+.2.1 Acknowledgement procedure by radiotelephony 
+.2.2 Acknowledgement procedure by Narrow Band Direct Printing (NBDP) 
+.2.3 Receipt and acknowledgement by a coast station 
+.2.4 Receipt and acknowledgement by a ship station 
+.3 Handling of distress alerts 
+.3.1 Preparations for handling of distress traffic 
+.3.2 Distress traffic terminology 
+.4 On-scene communications 
+.5 SAR operation 
+3.2 Urgency and safety communications via a ship station: 
+.1 The meaning of urgency and safety communications 
+.2 Procedures for DSC urgency and safety calls 
+.3 Urgency communications 
+.4 Medical transport 
+.5 Safety communications 
+W/0252a 
+RESOLUTION A.769(18) adopted on 4 November 1993
+---
+SOURCE: A.769(18).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.769(18).pdf
+.3 Urgency communications 
+.4 Medical transport 
+.5 Safety communications 
+W/0252a 
+RESOLUTION A.769(18) adopted on 4 November 1993     
+PROCEDURES AND ARRANGEMENTS FOR ISSUING GMDSS CERTIFICATES TO HOLDERS OF NON-GMDSS CERTIFICATES
+---
+
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+RESOLUTION MEPC.348(78) (adopted on 10 June 2022) 
+2022 GUIDELINES FOR ADMINISTRATION VERIFICATION OF SHIP FUEL OIL 
+CONSUMPTION DATA AND OPERATIONAL CARBON INTENSITYMEPC 78/17/Add.1 
+Annex 10, page 1 
+ 
+ 
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+ANNEX 10 
+ 
+RESOLUTION MEPC.348(78) 
+(adopted on 10 June 2022) 
+ 
+2022 GUIDELINES FOR ADMINISTRATION VERIFICATION OF SHIP FUEL OIL 
+CONSUMPTION DATA AND OPERATIONAL CARBON INTENSITY 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,  
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution 
+from ships, 
+ 
+NOTING that the Committee adopted, by resolution MEPC.328(76), the 2021 Revised 
+MARPOL Annex VI, which will enter into force on 1 November 2022, 
+ 
+NOTING IN PARTICULAR that the 2021 Revised MARPOL Annex VI  (MARPOL Annex VI)
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+MARPOL Annex VI, which will enter into force on 1 November 2022, 
+ 
+NOTING IN PARTICULAR that the 2021 Revised MARPOL Annex VI  (MARPOL Annex VI) 
+contains amendments concerning mandatory goal-based technical and operational measures 
+to reduce carbon intensity of international shipping, 
+ 
+NOTING ALSO that regulati on 27.7 of MARPOL Annex VI requires that ship fuel oil 
+consumption data be verified according to procedures established by the Administration, taking 
+into account guidelines developed by the Organization, 
+ 
+NOTING FURTHER that regulation 28.6 of MARPOL Anne x VI specifies that the attained 
+annual operational CII shall be documented and verified against the required annual 
+operational CII to determine operational carbon intensity rating, taking into account the 
+guidelines developed by the Organization, 
+ 
+RECOGNIZING that the aforementioned amendments to MARPOL Annex VI require relevant
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+guidelines developed by the Organization, 
+ 
+RECOGNIZING that the aforementioned amendments to MARPOL Annex VI require relevant 
+guidelines for uniform and effective implementation of the regulations and to provide sufficient 
+lead time for industry to prepare, 
+ 
+NOTING that the Committee, at its seventy -first session, adopted, by resolution 
+MEPC.292(71), the 2017 Guidelines for Administration verification of ship fuel oil consumption 
+data,  
+ 
+HAVING CONSIDERED, at its seventy -eighth session, draft 2022 Guidelines for 
+Administration verification of ship fuel oil consumption data and operational carbon intensity, 
+ 
+1 ADOPTS the 2022 Guidelines for Administration verification of ship fuel oil 
+consumption data and operational carbon intensity , as set out in the annex to the present 
+resolution; 
+ 
+2 INVITES Admi nistrations to take the annexed Guidelines into account when 
+developing and enacting national laws which give force to and implement requirements set
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+developing and enacting national laws which give force to and implement requirements set 
+forth in regulation 27 of MARPOL Annex VI; 
+ 
+RESOLUTION MEPC.348(78) (adopted on 10 June 2022) 
+2022 GUIDELINES FOR ADMINISTRATION VERIFICATION OF SHIP FUEL OIL 
+CONSUMPTION DATA AND OPERATIONAL CARBON INTENSITYMEPC 78/17/Add.1 
+Annex 10, page 2 
+ 
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+3 REQUESTS the Parties to MARPOL Annex VI and other Member Gov ernments to 
+bring the annexed Guidelines to the attention of masters, seafarers, shipowners, ship 
+operators and any other interested parties; 
+ 
+4 AGREES to keep the Guidelines under review in light of experience gained with their 
+implementation, also taking  into consideration that in accordance with regulations 25.3 
+and 28.11 of MARPOL Annex VI a review of the technical and operational measures to reduce 
+carbon intensity of international shipping shall be completed by 1 January 2026;
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+carbon intensity of international shipping shall be completed by 1 January 2026; 
+ 
+5 REVOKES the 2017 Guid elines for Administration verification of ship fuel oil 
+consumption data adopted by resolution MEPC.292(71). 
+  
+RESOLUTION MEPC.348(78) (adopted on 10 June 2022) 
+2022 GUIDELINES FOR ADMINISTRATION VERIFICATION OF SHIP FUEL OIL 
+CONSUMPTION DATA AND OPERATIONAL CARBON INTENSITYMEPC 78/17/Add.1 
+Annex 10, page 3 
+ 
+ 
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+ANNEX 
+ 
+2022 GUIDELINES FOR ADMINISTRATION VERIFICATION  
+OF SHIP FUEL OIL CONSUMPTION DATA AND OPERATIONAL CARBON INTENSITY 
+ 
+ 
+1 INTRODUCTION 
+ 
+1.1 Regulation 27 of MARPOL Annex VI establishes the IMO Ship Fuel Oil Consumption 
+Database, to be administered by the Organization, to which each Administration s will submit 
+relevant data for their registered ships of 5,000 gross tonnage (GT ) and above. 
+Regulation 27.7 specifies that "the data shall be verified according to procedures established
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+Regulation 27.7 specifies that "the data shall be verified according to procedures established 
+by the Administration, taking into account guidelines developed by the Organization".  
+ 
+1.2 Regulation 28 of MARPOL Annex VI establishes the  operational carbon intensity 
+rating mechanism. Regulation 28.6 specifies that the attained annual operational CII shall be 
+documented and verified against the required annual operational CII to determine operational 
+carbon intensity rating A, B, C, D or E, either by the Administration or by any organization duly 
+authorized by it, taking into account the guidelines developed by the Organization. 
+ 
+1.3 This document contains the Guidelines referred to in regulations 27.7 and 28.6 and is 
+intended to assist Administrations in developing their own verification programme. 
+ 
+1.4 A verification procedure should ensure the reliability of the collected data and the
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+1.4 A verification procedure should ensure the reliability of the collected data and the 
+correctness of the attained annual operational CII, while minimizing the costs and associated 
+burdens to the ship and the Administration. 
+ 
+2 DEFINITIONS  
+ 
+For the purpose of these Guidelines, the definitions in MARPOL Annex VI apply. 
+ 
+3 RESPONSIBILITIES  
+ 
+3.1 The responsibilities of Administrations and ships are set out in MARPOL Annex VI. 
+These Guidelines do not change those or create any new obligations. 
+ 
+3.2 Under the data collection system for fuel oil consumption and the operational carbon 
+intensity rating of ships, as specified in MARPOL Annex VI, an Administration may authorize 
+an organization 1 to receive the data from a ship, verify the data for compliance with the 
+requirements, verify the attained annual operational CII against the required annual operational 
+CII, determine the operational carbon intensity rating, issue the Statement of Compliance, and
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+CII, determine the operational carbon intensity rating, issue the Statement of Compliance, and 
+submit the data to the Organization. In every case, the Administration assumes full 
+responsibility for all tasks conducted by the Administration or any organization duly authorized 
+by it (hereinafter referred to as "the Administration"). 
+ 
+4 VERIFICATION OF THE REPORTED DATA  
+ 
+4.1 To facilitate data verification, the Administration should indicate what additional 
+documentation a ship should submit along with its annual data report. Specification of this 
+ 
+1 Refer to the Guidelines for the authorization of organizations acting on behalf of the Administration, adopted 
+by the Organization by resolution A.739(18), as amended by resolution MSC.208(81), and the Specifications 
+on the survey and certification functions of recognized organizations acting on behalf of the Administration, 
+adopted by the Organization by resolution A.789(19), as may be amended by the Organization.
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+adopted by the Organization by resolution A.789(19), as may be amended by the Organization.  
+ 
+RESOLUTION MEPC.348(78) (adopted on 10 June 2022) 
+2022 GUIDELINES FOR ADMINISTRATION VERIFICATION OF SHIP FUEL OIL 
+CONSUMPTION DATA AND OPERATIONAL CARBON INTENSITYMEPC 78/17/Add.1 
+Annex 10, page 4 
+ 
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+documentation can be done on a ship basis, as part of the assessment of the Data Collection 
+Plan,2 or it may be done as a general policy statement or through such other policy instruments 
+as the Administration deems appropriate. Additional documentation to facilitate data 
+verification may include the following, as well as other docum entation that the Administration 
+deems relevant: 
+ 
+.1 a copy of the verified ship's Data Collection Plan (SEEMP Part II); 
+ 
+.2 summaries of bunker delivery notes (BDNs), in sufficient detail to show that 
+all fuel oil consumed by the ship is accounted for (see sample form of BDN 
+summary set out in appendix 1);
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+all fuel oil consumed by the ship is accounted for (see sample form of BDN 
+summary set out in appendix 1); 
+ 
+.3 summaries of disaggregated data of fuel oil consumption, distance travelled 
+and hours under way, in a format specified by the Administration (see sample 
+form of data summary set out in appendix 2); 
+ 
+.4 information to demonstrate that the ship followed the Data Collection Plan 
+set out in its SEEMP, including information on data gaps and how they were 
+filled as well as how the event that caused the data gap was resolved;  
+ 
+.5 copies of documents containing information on the amount of fuel oil 
+consumption, distance travelled and hours under way for the ship's voyages 
+during the reporting period (e.g. the ship 's official logbook, oil record book, 
+BDNs, arrival/noon/departure reports, and from auto-log data files); and 
+   
+ .6 supported by documentary evidence, copies of the fuel oil mass to CO2 mass
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+.6 supported by documentary evidence, copies of the fuel oil mass to CO2 mass 
+conversion factor provided by fuel supplier in case the type of fuel is not 
+covered by the guidelines developed by the Organization.3 
+ 
+4.2 In addition to the documentation described in paragraph 4.1, the Administration may 
+request a ship to submit such documentation needed to perform a comprehensive review of a 
+ship's annual fuel oil consumption, distance travelled, and hours under way. The Administration 
+may request that this documentation be submitted by all ships or a subset of the ships under 
+its jurisdiction. This documentation may be used by the Administration to verify whether the 
+ship followed the methodology specified in its Data Collection Plan, with a view to confirming: 
+ 
+.1 consistency of reported data and calculated values, including with previous 
+reporting periods (if applicable), through recalculating the annual reported 
+values using the underlying data, etc.;
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+reporting periods (if applicable), through recalculating the annual reported 
+values using the underlying data, etc.; 
+ 
+.2 completeness of data (e.g. perform substantive testing based on reconciliation, 
+recalculations, and document cross-check, for example with official logbook 
+and/or arrival/noon/departure reports, auto-log report files;  recalculate total 
+quantities of fuel oil used, distance travelled and hours under way); and 
+ 
+.3 reliability and accuracy of the data (e.g. test that the data quality procedures 
+as described in the Data Collection Plan have been properly implemented, 
+carry out site visits (typically to the company's offices rather than to the ship) 
+to test the systems, processes and the control activities) through 
+ 
+2   Refer to the 2022 Guidelines for the development of a Ship Energy Efficiency Management Plan (SEEMP), 
+adopted by resolution MEPC.346(78).
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+2   Refer to the 2022 Guidelines for the development of a Ship Energy Efficiency Management Plan (SEEMP), 
+adopted by resolution MEPC.346(78). 
+ 
+3  Refer to the 2018 Guidelines on the method of calculation of the attained Energy Efficiency Design Index 
+(EEDI) for new ships (resolution MEPC.308(73)), as may be amended. 
+RESOLUTION MEPC.348(78) (adopted on 10 June 2022) 
+2022 GUIDELINES FOR ADMINISTRATION VERIFICATION OF SHIP FUEL OIL 
+CONSUMPTION DATA AND OPERATIONAL CARBON INTENSITYMEPC 78/17/Add.1 
+Annex 10, page 5 
+ 
+ 
+I:\MEPC\78\MEPC 78-17-Add.1.docx 
+corroborating fuel oil consumption data with distance travelled and hours 
+under way , comparing reported fuel oil consumption with that which is 
+expected for the ship size, operational profile, and technical characteristics, 
+and/or comparing reported fuel oil consumption total fuel bunkered, etc. 
+ 
+4.3 For a ship which has undergone a transfer addressed in regulations 27.4, 27.5 or 27.6
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+4.3 For a ship which has undergone a transfer addressed in regulations 27.4, 27.5 or 27.6 
+of MARPOL Annex VI, the losing Administration needs to verify the data before the transfer. 
+ 
+5 VERIFICATION OF THE ATTAINED ANNUAL OPERATIONAL CII AND 
+DETERMINATION OF THE CII RATING 
+  
+5.1 To facilitate the verification of the attained annual operational CII, the Administration 
+should indicate what additional documentation a ship should submit along with its annual data 
+report. Additional documentation to facilitate the verification may include the following, as well 
+as other documentation that the Administration deems relevant: 
+ 
+.1 a copy of the verified ship's Operational Carbon Intensity Plan (SEEMP part 
+III); 
+ 
+.2  documents (IEE certificate, Stability Booklet or International Tonnage 
+Certificate) evidencing the capacity parameter of the ship in the metric 
+relevant for the calculation of its operational carbon intensity (deadweight or 
+gross tonnage);
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+relevant for the calculation of its operational carbon intensity (deadweight or 
+gross tonnage); 
+ 
+.3 aggregated data of fuel oil consumption and distance travelled covering the 
+entire calendar year to calculate the attained annual operational CII (AER or 
+cgDIST) (see sample form of data summary set out in appendix 2); 
+ 
+.4 the aggregated values of the parameters and associated calculation 
+methods to determine the annual metric value of the trial CIIs on voluntary 
+basis, if any (see sample form of data summary set out in appendix 2  –
+Add.1);  
+ 
+.5 supported by documentary evidence, the correction factors and voyage 
+adjustments4 applied in the attained annual operational CII calculation, if any, 
+during the reporting period (see sample form of data summary set out in 
+appendix 2); and 
+ 
+.6 statements of compliance for previous two calendar years where applicable. 
+ 
+5.2 The attained annual operational CII should be verified using the data over a 12-month
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+5.2 The attained annual operational CII should be verified using the data over a 12-month 
+period from 1 January to 31 December for the preceding calendar year, by the Administration. 
+In cases where the calculation of the attained annual operational CII is not possible due to the 
+unavailability of some data, such as where a new ship is delivered after 1 January in the 
+preceding year, the attained annual operational CII should be verified using the available data 
+covering the corresponding period of the preceding calendar year. 
+ 
+5.3 In case of a ship with multiple load line certificates or with a load line certificate 
+containing multiple load lines, the highest deadweight value should be used to calculate and 
+verify the required and attained annual operational CII. 
+ 
+4  Refer to the 2022 Interim guidelines on correction factors and voyage adjustments for CII calculations (G5), 
+adopted by resolution MEPC.355(78). 
+RESOLUTION MEPC.348(78) (adopted on 10 June 2022)
+---
+SOURCE: MEPC.348(78).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.348(78).pdf
+adopted by resolution MEPC.355(78). 
+RESOLUTION MEPC.348(78) (adopted on 10 June 2022) 
+2022 GUIDELINES FOR ADMINISTRATION VERIFICATION OF SHIP FUEL OIL 
+CONSUMPTION DATA AND OPERATIONAL CARBON INTENSITY
+---
+
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+Resolution A.1026(26)  Adopted on 2 December 2009 
+(Agenda item 10) 
+PIRACY(1) AND ARMED ROBBERY AGAINST SHIPS(2) IN WATERS OFF THE COAST OF SOMALIAFor reasons of economy, this document is pr inted in a limited number.  Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+I:\ASSEMBLY\26\RES\1026.DOC 
+INTERNATIONAL MARITIME ORGANIZATION 
+ 
+IMO 
+ 
+E
+ASSEMBLY 
+26th session  
+Agenda item 10 
+A 26/Res.1026
+3 December 2009
+ Origina
+l:  ENGLISH
+Resolution A.1026(26) 
+Adopted on 2 December 2009 
+(Agenda item 10) 
+PIRACY1 AND ARMED ROBBERY AGAINST SHIPS2 
+IN WATERS OFF THE COAST OF SOMALIA 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in re lation to regulations an d guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships, 
+RECALLING ALSO article 1 of the Charter of the United Nations, which includes,
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+RECALLING ALSO article 1 of the Charter of the United Nations, which includes, 
+among the purposes of the United Nations, the maintenance of international peace and security, 
+1  “Piracy” is defined in article 101 of the United Nations Convention on the Law of the Sea as follows:
+“Piracy consists of any of the following acts: 
+(a) any illegal acts of violence or detention, or any act of de predation, committed for private ends by the crew
+or the passengers of a private ship or a private aircraft, and directed:
+(i) on the high seas, against another ship or aircraft, or against persons or property on board such ship or
+aircraft;
+(ii) against a ship, aircraft, pers ons or property in a place outside the jurisdiction of a ny State;
+(b) any act of voluntary participation in the operation of a ship or of an aircraft with knowledge of facts making
+it a pirate ship o
+r aircraft;
+(c) any act of inciting or of intentionally facilitati ng an act d escribed in subparagraph (a) or (b).”
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+it a pirate ship o
+r aircraft;
+(c) any act of inciting or of intentionally facilitati ng an act d escribed in subparagraph (a) or (b).”
+2  “Armed robbery against ships” is defined in the Code of Practice for the Investigation of Crimes of Piracy 
+and Armed Robbery Against Ships (resolution A1025(26), Annex, paragraph 2.2), as follows: 
+“Armed robbery against ships means any of  the following acts: 
+.1  any illegal act of violence or detention or any act of depredation, or threat thereof, other than an act of 
+“piracy”, committed for private ends an d directed against a ship or agains t persons or property on board 
+such ship, within a State’s internal waters, archipelagic waters and territorial sea; 
+.2  any act of inciting or of intentionally facilitating an act described above.” 
+Resolution A.1026(26)  Adopted on 2 December 2009 
+(Agenda item 10) 
+PIRACY(1) AND ARMED ROBBERY AGAINST SHIPS(2) IN WATERS OFF THE COAST OF SOMALIAA 26/Res.1026 - 2 - 
+ 
+ 
+ 
+I:\ASSEMBLY\26\RES\1026.DOC
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+PIRACY(1) AND ARMED ROBBERY AGAINST SHIPS(2) IN WATERS OFF THE COAST OF SOMALIAA 26/Res.1026 - 2 - 
+ 
+ 
+ 
+I:\ASSEMBLY\26\RES\1026.DOC 
+ 
+ALSO RECALLING article 100 of the United Na tions Convention on the Law of the Sea 
+(“UNCLOS”), which requires all States to co-ope rate to the fullest possible extent in the 
+repression of piracy on the high seas or in any other place outside the jurisdiction of any State, 
+ 
+RECALLING FURTHER article 105 of UNCLOS which, inter alia, provides that, on the 
+high seas or in any other place outside the jurisdiction of any State, every State may seize a pirate 
+ship or aircraft, or a ship or aircraft taken by piracy and under the control of pirates and arrest the 
+persons and seize the property on board, 
+ 
+BEARING IN MIND articl e 110 of UNCLOS which, inter alia , enables warships, 
+military aircraft, or other duly authorized ships or aircraft clearly marked and identifiable as
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+military aircraft, or other duly authorized ships or aircraft clearly marked and identifiable as 
+being on government service to board any ship, othe r than a ship entitled to complete immunity 
+in accordance with article 95 and article 96 of UNCLOS, when there are reasonable grounds for 
+suspecting that the ship is, inter alia, engaged in piracy, 
+ 
+REAFFIRMING resolution A.545(13) on “Measures to prevent acts of piracy and armed 
+robbery against ships”, adopted on 17 November  1983; resolution A.683(17) on “Prevention and 
+suppression of acts of piracy and armed robbery  against ships”, adop ted on 6 November 1991; 
+and resolution A.738(18) on “Measures to prev ent and suppress piracy and armed robbery 
+against ships”, adopted on 4 November 1993, 
+ 
+ BEARING IN MIND ALSO resolution A.1002(25)  on “Piracy and armed robbery against 
+ships in waters off the coast of Somalia” through which the Assembly has recommended a
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+ships in waters off the coast of Somalia” through which the Assembly has recommended a 
+number of actions to be taken by Governments, the Transitional Federal Government of Somalia, 
+the Council, the Maritime Safety Committee and the Secretary-General, with a view to bringing 
+the situation under control,  
+ 
+ NOTING WITH APPRECIATION the actions taken by the Security Council of the 
+United Nations and in particular the adoption, under the provisions of chapter VII of the Charter 
+of the United Nations, of Security Council resolutions 1816 (2008), 1838 (2008), 1846 (2008), 
+1851 (2008), and 1897 (2009) in relation to piracy and armed robbery in waters off the coast of 
+Somalia, 
+ 
+NOTING that the General Assembly of the Un ited Nations, by resolution A/RES/63/111 
+on “Oceans and the law of the sea”,  has recommended a number of actions to be taken by each 
+State and through co-operation, coor dination and collaboration at a bilateral, regional or global
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+State and through co-operation, coor dination and collaboration at a bilateral, regional or global 
+level with a view to repressing piracy and armed r obbery against ships, in particular in waters off 
+the coast of Somalia and, inter alia , has urged States to impleme nt the related provisions of 
+UNCLOS, as well as the provisions of resolution A.1002(25), 
+ 
+BEARING IN MIND resolution A. 1025(26), th rough which the Assembly adopted the 
+Code of Practice for the Inves tigation of the Crimes of Pi racy and Armed Robbery against Ships  
+(“the Code”) and which, inter alia, urges Governments to take acti on, as set out in the Code, to 
+investigate all acts of piracy and armed robbery against ships occurring in areas or on board ships 
+under their jurisdiction; and to  report to the Organization pe rtinent information on all 
+investigations and prosecutions concerning these acts, 
+ 
+Resolution A.1026(26)  Adopted on 2 December 2009 
+(Agenda item 10)
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+investigations and prosecutions concerning these acts, 
+ 
+Resolution A.1026(26)  Adopted on 2 December 2009 
+(Agenda item 10) 
+PIRACY(1) AND ARMED ROBBERY AGAINST SHIPS(2) IN WATERS OFF THE COAST OF SOMALIA - 3 - A 26/Res.1026 
+ 
+ 
+ 
+I:\ASSEMBLY\26\RES\1026.DOC 
+ALSO NOTING WITH APPRECIATION the outcomes of the “Subregional meeting on 
+maritime security, piracy and armed robbery against ships for Western Indian Ocean, 
+Gulf of Aden and Red Sea States” which was convened by IMO and held in Djibouti 
+from 26 to 29 January 2009 and in particular the adoption of the Code of Conduct concerning the 
+repression of piracy and armed robbery against ships in the Western Indian Ocean and the Gulf 
+of Aden (“the Djibouti Code of Conduct”), 
+ 
+WELCOMING the establishment of the IMO Djibouti Code of C onduct Trust Fund and 
+EXPRESSING thanks and apprecia tion to the Government of Japan for its generous donation
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+EXPRESSING thanks and apprecia tion to the Government of Japan for its generous donation 
+thereto; as well as to the Governments of the Netherlands, Norway and the Republic of Korea for 
+their pledges to financially support capacity-buildin g activities aimed at implementing the 
+provisions of the Djibouti Code of Conduct,  
+ 
+ NOTING that the Maritime Safety Committee, in response to the provisions of resolution 
+A.1002(25) and the discussions of the issue with in the Security Council,  has approved revised 
+recommendations3 to Governments and guidance 4 to shipowners and ship operators, shipmasters 
+and crews on preventing and suppressing acts of piracy and armed robbe ry against ships, 
+including specific advice5 developed by the industry in relation to the situation in waters off the 
+coast of Somalia, 
+ 
+ NOTING ALSO that the Sub-Committee on Sa fety of Navigation has reviewed the
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+coast of Somalia, 
+ 
+ NOTING ALSO that the Sub-Committee on Sa fety of Navigation has reviewed the 
+details, and recommended6 the use by all ships transiting the Gu lf of Aden, of the Internationally 
+Recommended Transit Corridor in the Gulf of Ad en, as it may be amended from time to time by 
+those who established it, 
+ 
+NOTING WITH SATISFACTION the actions ta ken by the Maritime Safety Committee, 
+the Technical Co-operation Committee, the Counc il and the Secretary-General in relation to the 
+suppression of piracy and armed robbery in waters off the coast of Somalia, 
+ 
+NOTING FURTHER the information on developments that have taken place since its last 
+session and the contribution made by various entities to repress piracy off the coast of Somalia, 
+ 
+BEING AWARE that the Security C ouncil, through resolution 1425 (2002), has 
+stipulated that the arms embargo on Somalia prohibit the direct or  indirect supply to Somalia of
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+stipulated that the arms embargo on Somalia prohibit the direct or  indirect supply to Somalia of 
+technical advice, financial and other assistance, and training related to military activities, 
+ 
+                                                 
+3  Refer to MSC.1/Circ.1333 on Recommendations to Governments for preventing and suppressing piracy and 
+armed robbery against ships, as it may be revised. 
+4  Refer to MSC.1/Circ.1334 on Guidance to shipowners and ship operators, shipmasters and crews on preventing 
+and suppressing acts of piracy and armed robbery against ships, as it may be revised. 
+5  Refer to MSC.1/Circ.1332 on Piracy and armed robbery against ships in waters off the coast of Somalia and 
+MSC.1/Circ.1335 on Piracy and armed robbery against ships in waters off the coast of Somalia – Best 
+Management Practices to Deter Piracy in the Gulf of Aden and off the Coast of Somalia developed by the 
+industry, as it may be revised.
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+Management Practices to Deter Piracy in the Gulf of Aden and off the Coast of Somalia developed by the 
+industry, as it may be revised. 
+6  SN.1/Circ.281 on Information on Internationally Recomme nded Transit corridor (IRTC) for ships transiting the 
+Gulf of Aden, as it may be revised. 
+Resolution A.1026(26)  Adopted on 2 December 2009 
+(Agenda item 10) 
+PIRACY(1) AND ARMED ROBBERY AGAINST SHIPS(2) IN WATERS OFF THE COAST OF SOMALIAA 26/Res.1026 - 4 - 
+ 
+ 
+ 
+I:\ASSEMBLY\26\RES\1026.DOC 
+NOTING that the Secur ity Council, in resolu tion 1853 (2008), decided,  inter alia , to 
+extend the mandate of the Monitoring Group 7 on Somalia and directed it to continue to 
+investigate, in coordination with relevant international agencies, all activities, including in the 
+financial, maritime and other sectors, which genera te revenues used to commit violations of the 
+embargo on all delivery of weapons and military  equipment to Somalia, which the Security
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+embargo on all delivery of weapons and military  equipment to Somalia, which the Security 
+Council had established by resolution 733 (1992), 
+ 
+NOTING WITH GREAT CONCERN, that incidents of piracy and armed robbery against 
+ships continue to occur in waters off the coast of Somalia, some of whic h have reportedly taken 
+place more than 500 nautical miles from the nearest land, 
+ 
+MINDFUL OF the grave danger to life and the serious risks to navigational safety and the 
+environment to which such incidents continue to give rise, 
+ 
+BEING AWARE of the serious safety and secu rity concerns that the shipping industry 
+and the seafaring community continue to have as a result of the attacks against ships sailing in 
+waters off the coast of Somalia referred to above, 
+ 
+BEING CONCERNED at the negative impact that such attacks continue to have on the 
+prompt and effective delivery of food aid and of other humanitarian assistance to Somalia and the
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+prompt and effective delivery of food aid and of other humanitarian assistance to Somalia and the 
+serious threat that this poses to the health and well-being of the people of Somalia, 
+ 
+RECOGNIZING that the particular character of the present situation in Somalia requires 
+an exceptional response in order to safeguard the interests of the maritime community making 
+use of the waters off the coast of Somalia, 
+ 
+RECOGNIZING ALSO the strategic importance of the navigational routes along the 
+coast of Somalia for regional and global seaborne tr ade and the need to ensure that they remain 
+safe at all times, 
+ 
+RECOGNIZING FURTHER, in view of the continuing situation in Somalia giving rise to 
+grave concern , the need for the continued implementation of appropriate measures to protect 
+ships sailing in waters off the coast of Somalia from piracy and armed robbery attacks, 
+ 
+RESPECTING FULLY the sovereignty, soverei gn rights, jurisdicti on and territorial
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+RESPECTING FULLY the sovereignty, soverei gn rights, jurisdicti on and territorial 
+integrity of Somalia and the relevant provisions of international law, in particular UNCLOS, 
+ 
+HAVING CONSIDERED the recommendations of  the Council, at its twenty-fifth 
+extraordinary session, in the light of the prevailing situation in the waters off the coast of Somalia,  
+ 
+1. CONDEMNS AND DEPLORES all acts of pi racy and armed robbery against ships 
+irrespective of where such acts have occurred or may occur; 
+ 
+2. APPEALS to all parties which may be able to assist to take action,  within the provisions 
+of international law, to ensure that: 
+ 
+                                                 
+7  The Monitoring Group on Somalia esta blished by the Security Council thr ough resolution 1519 (2003) and its 
+mandate was renewed, expanded and extended through resolutions 1558 (2004), 1587 (2005), 1630 (2005),
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+mandate was renewed, expanded and extended through resolutions 1558 (2004), 1587 (2005), 1630 (2005), 
+1676 (2006), 1724 (2006), 1766 (2007), 1772 (2007), 1801 (2008), 1811 (2008), 1844 (2008) and 1853 (2008). 
+ 
+Resolution A.1026(26)  Adopted on 2 December 2009 
+(Agenda item 10) 
+PIRACY(1) AND ARMED ROBBERY AGAINST SHIPS(2) IN WATERS OFF THE COAST OF SOMALIA - 5 - A 26/Res.1026 
+ 
+ 
+ 
+I:\ASSEMBLY\26\RES\1026.DOC 
+(a) all acts or attempted acts of piracy and armed robbery against ships are terminated 
+forthwith and any plans for committing such acts are abandoned; and 
+ 
+(b) any hijacked ships, seafarers serving in them and any other persons on board are 
+immediately and unconditionally released and that no harm is caused to them; 
+ 
+3. EXPRESSES DEEP APPRECIATION FOR:  
+ 
+(a) the work done by naval vessels and other military assets towards repressing piracy 
+and armed robbery against ships in the Gu lf of Aden and elsewhere off the coast
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+and armed robbery against ships in the Gu lf of Aden and elsewhere off the coast 
+of Somalia and in escorting ships carrying humanitarian aid to Somalia;  
+ 
+(b) the efforts of all those who have res ponded to calls from, or have rendered 
+assistance to, ships under attack in waters off the coast of Somalia;  
+ 
+(c) the work done by international and regi onal organizations in warning parties 
+concerned about incidents occurring in waters off the coast of Somalia;  
+ 
+(d) the efforts made by organizations in th e industry to raise awareness among, and 
+provide guidance for, their respectiv e memberships and to report to the 
+Organization in relation to this issue; and 
+ 
+(e) the efforts of those who have rendered assistance in resolving cases where ships 
+have been hijacked and seafarers have been held hostage; 
+ 
+(f) the arrangements which have been put in place by States of the region for 
+receiving ashore and prosecuting alleged offenders captured by naval ships
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+receiving ashore and prosecuting alleged offenders captured by naval ships 
+operating in the area or fo r providing support facilities to naval ships and other 
+military assets operating in the area, in particular the efforts by Kenya, Djibouti 
+and Yemen; 
+ 
+(g) the establishment of the Contact Group on Piracy Off the Coast of Somalia as an 
+international co-operation mechanism to  act as a common point of contact 
+between and among States and regional and international organizations on all 
+aspects of combating piracy, in line w ith the provisions of Security Council 
+resolutions 1851 (2008) and 1897 (2009); 
+ 
+4. STRONGLY URGES Governments to increase their efforts to prevent and suppress, 
+within the provisions of  international law, acts of piracy and armed robbery against ships 
+irrespective of where such acts occur and, in part icular, to co-operate with other Governments 
+and international organizations in the interests of the rule of law, safety of life at sea and
+---
+SOURCE: A.1026(26).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1026(26).pdf
+and international organizations in the interests of the rule of law, safety of life at sea and 
+environmental protection, in relatio n to acts occurring or likely to occur in the waters off the 
+coast of Somalia; 
+ 
+Resolution A.1026(26)  Adopted on 2 December 2009 
+(Agenda item 10) 
+PIRACY(1) AND ARMED ROBBERY AGAINST SHIPS(2) IN WATERS OFF THE COAST OF SOMALIA
+---
+
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+RESOLUTION A.960(23)   Adopted 5 December 2003     
+RECOMMENDATIONS ON TRAINING AND CERTIFICATION AND  ON ON OPERATIONAL PROCEDURES FOR MARITIME PILOTS 
+OTHER THAN DEEP-SEA PILOTS I:\ASSEMBLY\23\RES\960.doc 
+For reasons of economy, this document is pr inted in a limited number.  Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+INTERNATIONAL MARITIME ORGANIZATION 
+IMO
+ 
+E
+ASSEMBLY 
+23rd session  
+Agenda item 17 
+A 23/Res.960
+5 March 2004
+ Original:  ENGLISH
+RESOLUTION A.960(23)  
+Adopted 5 December 2
+003 
+(Agenda item 17) 
+RECOMMENDATIONS ON TRAINING AND CERTIFICATION AND  
+ON OPERATIONAL PROCEDURES FOR MARITIME PILOTS  
+OTHER THAN DEEP-SEA PILOTS 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in re lation to regulations an d guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships,
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+maritime safety and the prevention and control of marine pollution from ships, 
+RECOGNIZING that maritime pilots play an important role in promoting maritime safety 
+and protecting the marine environment, 
+BELIEVING that maintaining a proper working relationship between the pilot, the master 
+and, as appropriate, the officer in charge of a navigational watch is important in ensuring the 
+safety of shipping, 
+NOTING that, since each pilotage area needs highly specialized experience and local 
+knowledge on the part of the pilo t, IMO does not intend  to become involved with either the 
+certification or the licensing of pilots or with the systems of pilotage practised in various States, 
+RECOGNIZING ALSO the high standards of pilotage services already established in 
+many States and the need for these standards to be maintained, 
+CONSIDERING that in those States that  are developing pilo tage services, the
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+many States and the need for these standards to be maintained, 
+CONSIDERING that in those States that  are developing pilo tage services, the 
+establishment of practical minimum training standards, certification requirements and operational 
+procedures to provide effectiv e co-ordination between pilots and ship personnel, taking due 
+account of ship bridge procedures and ship equipment, would contribute to maritime safety, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee 
+at its seventy-fifth session, 
+RESOLUTION A.960(23)   Adopted 5 December 2003     
+RECOMMENDATIONS ON TRAINING AND CERTIFICATION AND  ON ON OPERATIONAL PROCEDURES FOR MARITIME PILOTS 
+OTHER THAN DEEP-SEA PILOTS A 23/Res.960 - 2 - 
+ 
+ 
+I:\ASSEMBLY\23\RES\960.doc 
+1. ADOPTS: 
+ 
+(a) the Recommendation on Training and Certific ation of Maritime Pilots other than 
+Deep-sea Pilots set out in Annex 1 to the present resolution;
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+(a) the Recommendation on Training and Certific ation of Maritime Pilots other than 
+Deep-sea Pilots set out in Annex 1 to the present resolution; 
+ 
+(b) the Recommendation on Operational Procedures for Maritime Pilots other than 
+Deep-sea Pilots set out in Annex 2 to the present resolution; 
+ 
+2. URGES Governments to give effect to these Recommendations as soon as possible; 
+ 
+3. REQUESTS the Maritime Safety Committee to  keep the Recommendations under review 
+and to amend them as necessary in the light of experience gained from their implementation; 
+ 
+4. REVOKES resolution A.485(XII). 
+ 
+ 
+ 
+RESOLUTION A.960(23)   Adopted 5 December 2003     
+RECOMMENDATIONS ON TRAINING AND CERTIFICATION AND  ON ON OPERATIONAL PROCEDURES FOR MARITIME PILOTS 
+OTHER THAN DEEP-SEA PILOTS  - 3 - A 23/Res.960 
+ 
+I:\ASSEMBLY\23\RES\960.doc 
+ANNEX 1 
+ 
+RECOMMENDATION ON TRAINING AND CERTIFICATION OF MARITIME 
+PILOTS OTHER THAN DEEP-SEA PILOTS 
+ 
+1 Scope
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+I:\ASSEMBLY\23\RES\960.doc 
+ANNEX 1 
+ 
+RECOMMENDATION ON TRAINING AND CERTIFICATION OF MARITIME 
+PILOTS OTHER THAN DEEP-SEA PILOTS 
+ 
+1 Scope 
+ 
+1.1 It is recognised th at pilotage requires specialised knowledge and experience of a specific 
+area and that States with many diverse wate rways and ports have found it appropriate to 
+administer pilotage on a regional or local basis. 
+ 
+1.2 The maritime pilots referred to  in this Recommendation do not include deep-sea pilots or 
+shipmasters or crew who are cert ificated or licensed to carry out pilotage duties in particular 
+areas. 
+ 
+1.3 Governments should encourage the establishm ent or maintenance of competent pilotage 
+authorities to administer safe and efficient pilotage systems. 
+ 
+2 Competent pilotage authority 
+ 
+2.1 Competent pilotage authority means either the national or regional Governments or local 
+groups or organizations that by law or tradition, administer or provide a pilotage system.
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+groups or organizations that by law or tradition, administer or provide a pilotage system. 
+Governments should inform competent pilotage au thorities of the provisions of this document 
+and encourage their implementation. 
+ 
+2.2 The assessment of the experience, qualificat ions and suitability of an applicant for 
+certification or licensing, as a pilot, is the responsibility of each competent pilotage authority. 
+ 
+2.3 The competent pilotage authority in co- operation with the national and local pilots’ 
+associations should: 
+ 
+.1 establish the entry requirements and develop the standards for obtaining a 
+certificate or licence in order to perform pilotage services within the area under its 
+jurisdiction; 
+ 
+ .2 enforce the maintenance of developed standards; 
+ 
+ .3 specify whatever prerequisites, expe rience or examinations are necessary to 
+ensure that applicants for certification or licensing as pilots are properly trained 
+and qualified;  and
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+ensure that applicants for certification or licensing as pilots are properly trained 
+and qualified;  and 
+ 
+ .4 arrange that reports on inve stigations of incidents involving pilotage are taken into 
+account in maritime pilots’ training programmes. 
+ 
+3 Pilotage certificate or licence 
+ 
+Every pilot should hold an approp riate pilotage certificate or licence issued by the competent 
+pilotage authority.  In addition to stating the pilotage area for which it is issued, the certificate or 
+licence should also state any requirements or local limitations that the competent pilotage 
+authority may specify such as maximum size, dra ught or tonnage of vessels that the holder is 
+qualified to pilot. 
+ 
+RESOLUTION A.960(23)   Adopted 5 December 2003     
+RECOMMENDATIONS ON TRAINING AND CERTIFICATION AND  ON ON OPERATIONAL PROCEDURES FOR MARITIME PILOTS 
+OTHER THAN DEEP-SEA PILOTS A 23/Res.960 - 4 - 
+ 
+ 
+I:\ASSEMBLY\23\RES\960.doc 
+4 Medical fitness
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+OTHER THAN DEEP-SEA PILOTS A 23/Res.960 - 4 - 
+ 
+ 
+I:\ASSEMBLY\23\RES\960.doc 
+4 Medical fitness 
+ 
+4.1 Each pilot should satisfy the competent pilotage  authority that his or her medical fitness, 
+particularly regarding eyesight , hearing and physical fitness meets the standards required for 
+certification of masters and offi cers in charge of a navigationa l watch under the international 
+Convention on Standards of Training, Certification and Watchk eeping for Seafarers, 1978, as 
+amended, or such other standards as the competent pilotage authority considers appropriate. 
+ 
+4.2 If a pilot has experienced a seri ous injury or illness, there should be a re-evaluation of his 
+or her medical fitness prior to return to duty. 
+ 
+5 Training and certification or licensing standards 
+ 
+5.1 The competent pilotage author ity is responsible for training and certification or licensing 
+standards.  The standards should be  sufficient to enable pilots to carry out their dut ies safely and
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+standards.  The standards should be  sufficient to enable pilots to carry out their dut ies safely and 
+efficiently. 
+ 
+5.2 Standards for initial training should be designe d to develop in the trainee pilot the skills 
+and knowledge determined by the competent pilota ge authority to be necessary for obtaining a 
+pilot certificate or license.  The training should include pr actical experience gained under the 
+close supervision of experienced pilots.  This practical experience gained on vessels under actual 
+piloting conditions may be supplemented by si mulation, both computer and manned model, 
+classroom instruction, or other training methods. 
+ 
+5.3 Every pilot should be trained in bridge resource management with an emphasis on the 
+exchange of information that is essential to a safe transit.  This training should include a 
+requirement for the pilot to assess particular situations and to conduct an exchange of information
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+requirement for the pilot to assess particular situations and to conduct an exchange of information 
+with the master and/or officer in charge of navigational watch.  Maintaining an effective working 
+relationship between the pilot and the bridge team in both routine and emergency conditions 
+should be covered in training.  Emergency cond itions should include loss of steering, loss of 
+propulsion, and failures of radar, vital systems and automation, in a narrow channel or fairway. 
+ 
+5.4 Initial and continuing training in the master-p ilot information exchange should also cover: 
+ 
+ .1 regulatory requirement s governing the exchange; 
+ 
+ .2 recognition of language, cultural, psyc hological and physiological impediments to 
+effective communication and interaction and techniques for overcoming these 
+impediments; and 
+ 
+ .3 best practices in the specific pilotage area. 
+ 
+5.5 Competent pilotage authorities should be encouraged to provide updating and refresher
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+.3 best practices in the specific pilotage area. 
+ 
+5.5 Competent pilotage authorities should be encouraged to provide updating and refresher 
+training conducted for certified or licensed pilots to ensure the continuation of their proficiency 
+and updating of their knowledge, and could include the following; 
+ 
+ .1 courses to improve proficiency in  the English language where necessary; 
+ 
+ .2 sessions to enhance the ability to co mmunicate with local au thorities and other 
+vessels in the area; 
+ 
+RESOLUTION A.960(23)   Adopted 5 December 2003     
+RECOMMENDATIONS ON TRAINING AND CERTIFICATION AND  ON ON OPERATIONAL PROCEDURES FOR MARITIME PILOTS 
+OTHER THAN DEEP-SEA PILOTS  - 5 - A 23/Res.960 
+ 
+I:\ASSEMBLY\23\RES\960.doc 
+ .3 meetings with local au thorities and other responsib le agencies to envisage 
+emergency situations and contingency plans; 
+ 
+ .4 refresher or renewal courses in bridge re source management for pilots to facilitate
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+emergency situations and contingency plans; 
+ 
+ .4 refresher or renewal courses in bridge re source management for pilots to facilitate 
+communication and information exchange between the pilot and the master and to 
+increase efficiency on the bridge. 
+ 
+ .5 simulation exercises, which may include radar training and emergency 
+shiphandling procedures; 
+ 
+ .6 courses in shiphandling trai ning centres using manned models; 
+ 
+ .7 seminars on new bridge equipment w ith special regard to navigation aids; 
+ 
+ .8 sessions to discuss releva nt issues connected with th e pilotage service including 
+laws, rules and regulations particular to the pilotage area; 
+ 
+ .9 personal safety training; 
+ 
+ .10 techniques for personal survival at sea; and 
+ 
+ .11 emergency first aid, including cardio-pulmonary resuscitation (CPR) and 
+hypothermia remediation. 
+ 
+6 Continued proficiency 
+ 
+6.1 In order to ensure the con tinued proficiency of pilots and updating of their knowledge, the
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+6 Continued proficiency 
+ 
+6.1 In order to ensure the con tinued proficiency of pilots and updating of their knowledge, the 
+competent pilotage authority shoul d satisfy itself, at regular inte rvals not exceeding five years, 
+that all pilots under its jurisdiction: 
+ 
+ .1 continue to possess rece nt navigational knowledge of the local area to which the 
+certificate of licence applies; 
+ 
+ .2 continue to meet the medical fitn ess standards of paragraph 4 above; and 
+ 
+ .3 possess knowledge of the current inte rnational, national and local laws, 
+regulations and other requirements and provisions relevant to the pilotage area and 
+the pilots’ duties. 
+ 
+6.2 Possession of knowledge required by subpara graphs 6.1.1 and 6.1.3 may be proved by an 
+appropriate method such as pers onal service records, comple tion of continuing professional 
+development courses or by an examination. 
+ 
+6.3 Where a pilot in cases of absence from duty, for whatever reas on, is lacking recent
+---
+SOURCE: A.960(23).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.960(23).pdf
+development courses or by an examination. 
+ 
+6.3 Where a pilot in cases of absence from duty, for whatever reas on, is lacking recent 
+experience in the pilotage area, the competent pilotage authority should satisfy itself that the pilot 
+regains familiarity with the area on his or her return to duty. 
+ 
+7 Syllabus for pilotage certification or licensing 
+ 
+7.1 In the syllabus, area means the waters for which the applicant is to be certified or 
+licensed. Each applicant for a pilot certificate or license should demonstrate that he or she has 
+necessary knowledge of the following: 
+ 
+RESOLUTION A.960(23)   Adopted 5 December 2003     
+RECOMMENDATIONS ON TRAINING AND CERTIFICATION AND  ON ON OPERATIONAL PROCEDURES FOR MARITIME PILOTS 
+OTHER THAN DEEP-SEA PILOTS
+---
+
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+RESOLUTION MEPC.232(65) 
+Adopted on 17 May 2013 
+2013 INTERIM GUIDELINES FOR DETERMING MINIMUM PROPULSION 
+POWER TO MAINTAIN THE MANOEUVRABILITY OF SHIPS 
+IN ADVERSE CONDITIONSMEPC 65/22 
+Annex 16, page 1 
+ 
+ 
+I:\MEPC\65\22.doc 
+ANNEX 16 
+ 
+RESOLUTION MEPC.232(65) 
+ 
+Adopted on 17 May 2013 
+ 
+2013 INTERIM GUIDELINES FOR DETERMING MINIMUM PROPULSION  
+POWER TO MAINTAIN THE MANOEUVRABILITY OF SHIPS  
+IN ADVERSE CONDITIONS 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine pollution, 
+ 
+RECALLING ALSO that, at its sixty-second session, the Committee adopted, by resolution 
+MEPC.203(62), amendments to the annex of the Protocol of 1997 to amend the International
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+MEPC.203(62), amendments to the annex of the Protocol of 1997 to amend the International 
+Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 
+relating thereto (inclusion of regulations on energy efficiency for ships in MARPOL Annex VI), 
+ 
+NOTING that the amendments to MARPOL Annex VI adopted at its sixty-second session by 
+inclusion of a new chapter 4 for regulations on energy efficiency for ships, entered into force 
+on 1 January 2013, 
+ 
+NOTING ALSO that regulation 21.5 of MARPOL Annex VI, as amended, requires that the 
+installed propulsion power shall not be less than the propulsion power needed to maintain the 
+manoeuvrability of the ship under adverse conditions as defined in the guidelines, 
+ 
+RECOGNIZING that the amendments to MARPOL Annex VI requires the adoption of relevant 
+guidelines for smooth and uniform implementation of the regulations and to provide sufficient 
+lead time for industry to prepare,
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+guidelines for smooth and uniform implementation of the regulations and to provide sufficient 
+lead time for industry to prepare, 
+ 
+HAVING CONSIDERED, at its sixty-fifth session, the draft 2013 Interim Guidelines for 
+determining minimum propulsion power to maintain the manoeuvrability of ships in adverse 
+conditions,  
+ 
+1. ADOPTS the 2013 Interim Guidelines for determining minimum propulsion power to 
+maintain the manoeuvrability of ships in adverse conditions, as set out at annex to the present 
+resolution; 
+ 
+2. INVITES Administrations to take the annexed Guidelines into account when developing 
+and enacting national laws which give force to and implement provisions set forth in regulation 20 
+of MARPOL Annex VI, as amended; 
+ 
+3. REQUESTS the Parties to MARPOL Annex VI and other Member Governments to 
+bring the annexed Guidelines related to the Energy Efficiency Design Index (EEDI) to the
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+bring the annexed Guidelines related to the Energy Efficiency Design Index (EEDI) to the 
+attention of shipowners, ship operators, shipbuilders, ship designers and any other interested 
+groups; 
+ 
+4. AGREES to keep these Guidelines under review in light of the experience gained; and 
+ 
+5. REVOKES the Interim Guidelines circulated by MSC-MEPC.2/Circ.11, as from 
+this date. 
+RESOLUTION MEPC.232(65) 
+Adopted on 17 May 2013 
+2013 INTERIM GUIDELINES FOR DETERMING MINIMUM PROPULSION 
+POWER TO MAINTAIN THE MANOEUVRABILITY OF SHIPS 
+IN ADVERSE CONDITIONSMEPC 65/22 
+Annex 16, page 2 
+ 
+ 
+I:\MEPC\65\22.doc 
+ANNEX 
+ 
+2013 INTERIM GUIDELINES FOR DETERMINING MINIMUM PROPULSION  
+POWER TO MAINTAIN THE MANOEUVRABILITY OF SHIP  
+IN ADVERSE CONDITIONS 
+ 
+ 
+0 Purpose 
+ 
+The purpose of these interim guidelines is to assist Administrations and recognized 
+organizations in verifying that ships, complying with EEDI requirements set out in regulations
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+organizations in verifying that ships, complying with EEDI requirements set out in regulations 
+on Energy Efficiency for Ships, have sufficient installed propulsion power to maintain the 
+manoeuvrability in adverse conditions, as specified in regulation 21.5 in chapter 4 of 
+MARPOL Annex VI. 
+ 
+1 Definition 
+ 
+1.1 "Adverse conditions" mean sea conditions with the following parameters: 
+ 
+Significant wave height hs, m Peak wave period TP, s Mean wind speed Vw, m/s 
+5.5 7.0 to 15.0 19.0 
+JONSWAP sea spectrum with the peak parameter of 3.3 is to be considered for coastal 
+waters. 
+ 
+1.2 The following adverse condition should be applied to ships defined as the followin g 
+threshold value of ship size. 
+ 
+Ship length, m Significant wave 
+height hs, m 
+Peak wave period 
+TP, s 
+Mean wind speed Vw, 
+m/s 
+Less than 200 4.0 7.0 to 15.0 15.7 
+200 ≤ Lpp ≤ 250  Parameters linearly interpolated depending on ship's length 
+More than Lpp = 250  Refer to paragraph 1.1 
+ 
+2 Applicability*
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+200 ≤ Lpp ≤ 250  Parameters linearly interpolated depending on ship's length 
+More than Lpp = 250  Refer to paragraph 1.1 
+ 
+2 Applicability* 
+ 
+2.1 These guidelines should be applied in the case of all new ships of types as listed in 
+table 1 of appendix required to comply with regulations on Energy Efficiency for Ships 
+according to regulation 21 of MARPOL Annex VI. 
+ 
+2.2 Notwithstanding the above, these guidelines should not be applied to the ships with 
+un-conventional propulsion system such as pod propulsion. 
+ 
+2.3 These guidelines are intended for ships in unrestricted navigation; for other cases, 
+the Administration should determine appropriate guidelines, taking the operational area and 
+relevant restrictions into account. 
+ 
+                                                
+*  These Interim Guidelines are applied to ships required to comply with regulations on Energy Efficiency for
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+*  These Interim Guidelines are applied to ships required to comply with regulations on Energy Efficiency for 
+Ships according to regulation 21 of MARPOL Annex VI during Phase 0 (i.e. for those ship types as in 
+table 1 of appendix with the size of equal or more than 20,000 DWT). 
+RESOLUTION MEPC.232(65) 
+Adopted on 17 May 2013 
+2013 INTERIM GUIDELINES FOR DETERMING MINIMUM PROPULSION 
+POWER TO MAINTAIN THE MANOEUVRABILITY OF SHIPS 
+IN ADVERSE CONDITIONSMEPC 65/22 
+Annex 16, page 3 
+ 
+ 
+I:\MEPC\65\22.doc 
+3 Assessment procedure 
+ 
+3.1 The assessment can be carried out at t wo different levels as listed below: 
+ 
+.1 Minimum power lines assessment; and 
+ 
+.2 Simplified assessment. 
+ 
+3.2 The ship should be considered to have sufficient power to maintain the 
+manoeuvrability in adverse conditions if it fulfils one of these assessment levels. 
+ 
+4 Assessment level 1 – minimum power lines assessment 
+ 
+4.1 If the ship under consideration has installed power not less than the power defined
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+4 Assessment level 1 – minimum power lines assessment 
+ 
+4.1 If the ship under consideration has installed power not less than the power defined 
+by the minimum power line for the specific ship type, the ship should be considered to have 
+sufficient power to maintain the manoeuvrability in adverse conditions. 
+ 
+4.2 The minimum power lines for the different types of ships are provided in the 
+appendix. 
+ 
+5 Assessment level 2 – simplified assessment 
+ 
+5.1 The methodology for the simplified assessment is provided in the appendix. 
+ 
+5.2 If the ship under consideration fulfils the requirements as defined in the simplified 
+assessment, the ship should be considered to have sufficient power to maintain the 
+manoeuvrability in adverse conditions. 
+ 
+6 Documentation 
+ 
+6.1 Test documentation should include at least, but not be limited to, a: 
+ 
+.1 description of the ship's main particulars; 
+ 
+.2 description of the ship's relevant manoeuvring and propulsion systems;
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+.1 description of the ship's main particulars; 
+ 
+.2 description of the ship's relevant manoeuvring and propulsion systems; 
+ 
+.3  description of the assessment level used and results; and 
+ 
+.4  description of the test method(s) used with references, if applicable.  
+ 
+ 
+* * * 
+RESOLUTION MEPC.232(65) 
+Adopted on 17 May 2013 
+2013 INTERIM GUIDELINES FOR DETERMING MINIMUM PROPULSION 
+POWER TO MAINTAIN THE MANOEUVRABILITY OF SHIPS 
+IN ADVERSE CONDITIONSMEPC 65/22 
+Annex 16, page 4 
+ 
+ 
+I:\MEPC\65\22.doc 
+Appendix 
+ 
+ASSESSMENT PROCEDURES TO MAINTAIN THE MANOEUVRABILITY  
+UNDER ADVERSE CONDITIONS, APPLICABLE DURING PHASE 0  
+OF THE EEDI IMPLEMENTATION 
+ 
+ 
+1 Scope 
+ 
+1.1 The procedures as described below are applicable during Phase 0 of the EEDI 
+implementation as defined in regulation 21 of MARPOL Annex VI (see also paragraph 0 –
+Purpose of these interim guidelines).  
+ 
+2 Minimum power lines  
+ 
+2.1 The minimum power line values of total installed MCR, in kW, for different types of
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+2 Minimum power lines  
+ 
+2.1 The minimum power line values of total installed MCR, in kW, for different types of 
+ships should be calculated as follows:  
+ 
+Minimum Power Line Value = a  (DWT)  b 
+ 
+Where: 
+ 
+DWT is the deadweight of the ship in metric tons; and 
+a and b are the parameters given in table 1 for tankers, bulk carriers and combination 
+carriers. 
+ 
+Table 1: Parameters a and b for determination of the 
+minimum power line values for the different ship types 
+Ship Type a b 
+Bulk Carriers 0.0687 2924.4 
+Tankers 0.0689 3253.0 
+Combination Carriers see tankers above 
+ 
+The total installed MCR of all main propulsion engines should not be less than the minimum 
+power line value, where MCR is the value specified on the EIAPP Certificate. 
+ 
+3 Simplified assessment 
+ 
+3.1 The simplified assessment procedure is based on the principle that, if the ship has 
+sufficient installed power to move with a certain advance speed in head waves and wind, the
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+sufficient installed power to move with a certain advance speed in head waves and wind, the 
+ship will also be able to keep course in waves and wind from any other direction. The 
+minimum ship speed of advance in head waves and wind is thus selected depending on ship 
+design, in such a way that the fulfilment of the ship speed of advance requirements means 
+fulfilment of course-keeping requirements.  For example, ships with larger rudder areas will be 
+able to keep course even if the engine is less powerful; similarly, ships with a larger lateral 
+windage area will require more power to keep course than ships with a smaller windage area. 
+ 
+3.2 The simplification in this procedure is that only the equation of steady motion in 
+longitudinal direction is considered; the requirements of course-keeping in wind and waves 
+are taken into account indirectly, by adjusting the required ship speed of advance in head 
+wind and waves. 
+ 
+RESOLUTION MEPC.232(65) 
+Adopted on 17 May 2013
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+wind and waves. 
+ 
+RESOLUTION MEPC.232(65) 
+Adopted on 17 May 2013 
+2013 INTERIM GUIDELINES FOR DETERMING MINIMUM PROPULSION 
+POWER TO MAINTAIN THE MANOEUVRABILITY OF SHIPS 
+IN ADVERSE CONDITIONSMEPC 65/22 
+Annex 16, page 5 
+ 
+ 
+I:\MEPC\65\22.doc 
+3.3 The assessment procedure consists of two steps: 
+ 
+.1 definition of the required advance speed in head wind and waves, ensuring 
+course-keeping in all wave and wind directions; and 
+ 
+.2 assessment whether the installed power is sufficient to achieve the required 
+advance speed in head wind and waves. 
+ 
+Definition of required ship speed of advance 
+ 
+3.4 The required ship advance speed through the water in head wind and waves, Vs, is 
+set to the larger of:  
+ 
+.1 minimum navigational speed, Vnav; or 
+ 
+.2 minimum course-keeping speed, Vck. 
+ 
+3.5 The minimum navigational speed, Vnav, facilitates leaving coastal area within a 
+sufficient time before the storm escalates, to reduce navigational risk and risk of excessive
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+sufficient time before the storm escalates, to reduce navigational risk and risk of excessive 
+motions in waves due to unfavourable heading with respect to wind and waves.  
+The minimum navigational speed is set to 4.0 knots. 
+ 
+3.6 The minimum course-keeping speed in the simplified assessment, Vck, is selected to 
+facilitate course-keeping of the ships in waves and wind from all directions.  This speed is 
+defined on the basis of the reference course-keeping speed Vck, ref, related to ships with the 
+rudder area AR equal to 0.9 per cent of the submerged lateral area corrected for breadth 
+effect, and an adjustment factor taking into account the actual rudder area: 
+ 
+Vck = Vck, ref  10.0  (AR%  0.9) (1) 
+ 
+where Vck in knots, is the minimum course -keeping speed, Vck, ref in knots, is the referen ce 
+course-keeping speed, and AR% is the actual rudder area, AR, as percentage of the 
+submerged lateral area of the ship corrected for breadth effect, ALS, cor, calculated as AR% =
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+submerged lateral area of the ship corrected for breadth effect, ALS, cor, calculated as AR% = 
+AR/ALS, cor ・100%.  The submerged lateral area corrected for breadth effect is calculated as 
+ALS, cor =LppTm(1.0+25.0(Bwl/Lpp)2), where Lpp is the length between perpendiculars in m, B wl is 
+the water line breadth in m and T m is the draft a midship in m .  In case of high -lift rudders or 
+other alternative steering devices, the equivalent rudder area to the conventional rudder area 
+is to be used. 
+ 
+3.7 The reference course-keeping speed Vck, ref for bulk carriers, tankers and 
+combination carriers is defined, depending on the ratio AFW/ALW of the frontal windage area, 
+AFW, to the lateral windage area, ALW, as follows: 
+ 
+.1 9.0 knots for AFW/ALW =0.1 and below and 4.0 knots for AFW/ALW=0.40 and 
+above; and 
+ 
+.2 linearly interpolated between 0.1 and 0.4 for intermediate values of 
+AFW/ALW. 
+ 
+Procedure of assessment of installed power
+---
+SOURCE: MEPC.232(65).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.232(65).pdf
+above; and 
+ 
+.2 linearly interpolated between 0.1 and 0.4 for intermediate values of 
+AFW/ALW. 
+ 
+Procedure of assessment of installed power 
+ 
+3.8 The assessment is to be performed in maximum draught conditions at the required 
+ship speed of advance, Vs, defined above.  The principle of the assessment is that the 
+required propeller thrust, T in N, defined from the sum of bare hull resistance in calm water 
+RESOLUTION MEPC.232(65) 
+Adopted on 17 May 2013 
+2013 INTERIM GUIDELINES FOR DETERMING MINIMUM PROPULSION 
+POWER TO MAINTAIN THE MANOEUVRABILITY OF SHIPS 
+IN ADVERSE CONDITIONS
+---
+
+SOURCE: A.824(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.824(19).pdf
+RESOLUTION A.824(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR DEVICES TO INDICATE 
+SPEED AND DISTANCEINTERNATIONAL MARITIME 
+ORGANIZATION 
+A 19/Res.824 
+15 December 1995 
+Original: ENGLISH 
+ASSEMBLY 
+19th session 
+Agenda item 10 
+NOT TO BE REMOVED 
+'\ FPIOM 
+THE IMO U8RARY 
+RESOLUTION A.824(19) 
+adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR DEVICES TO INDICATE 
+SPEED AND DISTANCE 
+THE ASSEMBLY, 
+RECALLING Article 15U) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning maritime 
+safety, 
+RECALLING ALSO the provisions of regulation V/12 of the International Convention for the 
+Safety of Life at Sea (SOLAS), 1974, 
+RECALLING FURTHER resolution A.478(XII) by which it adopted performance standards for 
+devices to indicate speed and distance, 
+RECOGNIZING the need to reflect advances in technology and that devices to indicate speed
+---
+SOURCE: A.824(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.824(19).pdf
+devices to indicate speed and distance, 
+RECOGNIZING the need to reflect advances in technology and that devices to indicate speed 
+and distance are frequently interfaced with and provide essential input data to ARP A, radar, electronic 
+chart-display and information systems and other navigational equipment, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee at its 
+sixty-fourth session, 
+1. ADOPTS the Recommendation on Performance Standards for Devices to Indicate Speed and 
+Distance set out in the Annex to the present resolution; 
+2. RECOMMENDS Governments to ensure that: 
+(a) devices installed on or after 1 January 1997 conform to performance standards not 
+inferior to those specified in the Annex to the present resolution; 
+(b) devices installed before 1 January 1997 conform at least to the performance standards set 
+out in resolution A.478(XII); 
+3. REQUESTS the Maritime Safety Committee to keep these Performance Standards under review
+---
+SOURCE: A.824(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.824(19).pdf
+out in resolution A.478(XII); 
+3. REQUESTS the Maritime Safety Committee to keep these Performance Standards under review 
+and to adopt amendments thereto, as necessary. 
+I:\ASSEMBL Y\19\RES\824 
+For reasons of economy, this document is printed in a limited numb er. Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+RESOLUTION A.824(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR DEVICES TO INDICATE 
+SPEED AND DISTANCEA l 9/Res.824 - 2 - 
+ANNEX 
+RECOMMENDATION ON PERFORMANCE STANDARDS FOR DEVICES 
+TO INDICATE SPEED AND DISTANCE 
+1 INTRODUCTION 
+1.1 Devices to indicate speed and distance are intended for general navigational and ship 
+manoeuvring use. Although the minimum requirement is to provide information on the distance run and 
+the forward speed of the ship through the water or over the ground, additional information on ship's
+---
+SOURCE: A.824(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.824(19).pdf
+the forward speed of the ship through the water or over the ground, additional information on ship's 
+motions other than in the forward axis may be provided. The equipment should comply fully with its 
+performance standard at forward speeds up to the maximum speed of the ship and in water of depth 
+greater than 3 m beneath the keel. 
+1.2 In addition to the general requirements in resolution A.694(17), devices to indicate speed and 
+distance should comply with the following minimum performance requirements. 
+2 METHODS OF PRESENTATION 
+2.1 Speed information may be presented in either analogue or digital form. Where a digital display 
+is used, its incremental steps should not exceed 0.1 knots. Analogue displays should be graduated at least 
+every 0.5 knots and be marked with figures at least every 5 knots. If the display can present the speed 
+of the ship in other than the forward direction, the direction of movement should be indicated 
+unambiguously.
+---
+SOURCE: A.824(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.824(19).pdf
+of the ship in other than the forward direction, the direction of movement should be indicated 
+unambiguously. 
+2.2 Distance run information should be presented in digital form. The display should cover the range 
+from Oto not less than 9999.9 nautical miles and the incremental steps should not exceed 0.1 nautical 
+miles. Where practicable, means should be provided for resetting a readout to zero. 
+2.3 The display should be easily readable by day and by night. 
+2.4 Means should be provided for feeding distance run information to other equipment fitted on 
+board. In this regard: 
+.1 when contact closure is used, forward speed only should be indicated. The information 
+should be in the form of one contact closure (or the equivalent) for each 0.005 nautical 
+miles run; and 
+.2 when serial digital interface is provided, the information on all speed and distance 
+parameters, including direction, should be provided in the form of a serial stream of
+---
+SOURCE: A.824(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.824(19).pdf
+parameters, including direction, should be provided in the form of a serial stream of 
+digital information conforming to the international protocol for a digital interface for 
+marine equipment use. 1 
+2.5 If equipment is capable of being operated in either the "speed through the water" or "speed over 
+the ground" mode, mode selection and mode indication should be provided. 
+'Refer to IEC 1162: 1994. 
+I:\ASSEMBL Y\l 9\RES\824 
+RESOLUTION A.824(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR DEVICES TO INDICATE 
+SPEED AND DISTANCE- 3 - A 19/Res.824 
+2. 6 If the equipment has provision for indicating speeds other than on a single fore and aft axis, then 
+the forward and athwart speed through the water must be provided, and the forward and athwart speed 
+over the ground may be provided as an additional option. Resultant speed and course information may 
+be provided as a switchable option. All such information should clearly indicate the direction, mode and
+---
+SOURCE: A.824(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.824(19).pdf
+be provided as a switchable option. All such information should clearly indicate the direction, mode and 
+validity status of the displayed information. 
+3 ACCURACY OF MEASUREMENT 
+3 .1 Errors in the indicated speed, when the ship is operating free from shallow water effect and from 
+the effects of wind, current and tide, should not exceed 2% of the speed of the ship, or 0.2 knots, 
+whichever is greater. 
+3.2 Errors in the indicated distance run, when the ship is operating free from shallow water effect and 
+from the effects of wind, current and tide, should not exceed 2% of the distance run by the ship in 1 h or 
+0.2 nautical miles in each hour, whichever is greater. 
+3. 3 If the accuracy of devices to indicate speed and distance run can be affected by certain conditions 
+(e.g. sea state and its effects, water temperature, salinity, sound velocity in water, depth of water under
+---
+SOURCE: A.824(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.824(19).pdf
+(e.g. sea state and its effects, water temperature, salinity, sound velocity in water, depth of water under 
+the keel, heel and trim of ship), details of possible effects should be included in the equipment handbook. 
+4 ROLL AND PITCH 
+The performance of the equipment should be such that it will meet the requirements of these 
+standards when the ship is rolling up to ± 10 ° and pitching up to ± 5 °. 
+5 CONSTRUCTION AND INSTALLATION 
+5. 1 The system should be so designed that neither the method of attachment of parts of the equipment 
+to the ship nor damage occurring to any part of the equipment which penetrates the hull could result in 
+the ingress of water to the ship. 
+5.2 Where any part of the system is designed to extend from ~ d retract into the hull of the ship, the 
+design should ensure that it can be extended, operated normally and retracted at all speeds up to the 
+maximum speed of the ship. Its extended and retracted positions should be clearly indicated at the
+---
+SOURCE: A.824(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.824(19).pdf
+maximum speed of the ship. Its extended and retracted positions should be clearly indicated at the 
+display position. 
+I:\ASSEivffiL Y\l 9\RES\824 
+RESOLUTION A.824(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR DEVICES TO INDICATE 
+SPEED AND DISTANCERESOLUTION A.824(19)  adopted on 23 November 1995 
+PERFORMANCE STANDARDS FOR DEVICES TO INDICATE 
+SPEED AND DISTANCE
+---
+
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+Resolution A.1075(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION OF 
+THE CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84)) 
+ 
+I:\ASSEMBLY\28\RES\1075.doc 
+ 
+ 
+ 
+E 
+  
+ASSEMBLY 
+28th session 
+Agenda item 10 
+ 
+A 28/Res.1075  
+24 February 2014 
+ Original:  ENGLISH 
+ 
+Resolution A.1075(28) 
+ 
+Adopted on 4 December 2013 
+(Agenda item 10) 
+ 
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION OF THE 
+CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84)) 
+ 
+ 
+THE ASSEMBLY, 
+ 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships, 
+ 
+NOTING WITH CONCERN that, despite the best endeavours of the Organization, casualties 
+and incidents resulting in loss of life, loss of ships and pollution of the marine environment
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+and incidents resulting in loss of life, loss of ships and pollution of the marine environment 
+continue to occur,  
+ 
+NOTING ALSO that the safety of seafarers and passengers and the protection of the marine 
+environment can be enhanced by timely and accurate reports identifying the circumstances 
+and causes of marine casualties and incidents, 
+ 
+NOTING ALSO the rights and obligations of coastal and flag States under the provisions of 
+Articles 2 and 94 of the United Nations Convention on the Law of the Sea (UNCLOS),  
+ 
+NOTING FURTHER the responsibilities of flag States under the provisions of the 
+International Convention for the Safety of Life at Sea (SOLAS) , 1974 (regulation I/21), the 
+International Convention on Load Lines, 1966 (article 23) and the International Convention 
+for the Prevention of Pollution from Ships (MARPOL) (article 12) to conduct casualty 
+investigations and to supply the Organization with relevant findings,
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+investigations and to supply the Organization with relevant findings,  
+ 
+CONSIDERING that each Administration shall conduct investigations of marine casualties 
+and incidents, in accordance with SOLAS regulation XI-1/6, as supplemented by the 
+provisions of the Code of the international standards and recommended practices for a 
+safety investigation into a marine casualty or marine incident (Casualty Investigation Code)  
+adopted by resolution MSC.255(84),  
+ 
+ACKNOWLEDGING that the investigation and proper analysis of marine casualties and 
+incidents can lead to greater awareness of casualty causation and result in remedial 
+measures, including better training, for the purpose of enhancing safety of life at sea and 
+protection of the marine environment, 
+ 
+Resolution A.1075(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION OF 
+THE CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84))A 28/Res.1075  
+Page 2
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION OF 
+THE CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84))A 28/Res.1075  
+Page 2 
+ 
+I:\ASSEMBLY\28\RES\1075.doc 
+RECOGNIZING the need for Guidelines to assist investigators in the implementation of the 
+Casualty Investigation Code  (resolution MSC.255(84)) to provide, as far as national laws 
+allow, a common approach for States to adopt in the conduct of marine safety investigations 
+into marine casualties and marine incidents,  
+ 
+RECOGNIZING ALSO the international nature of shipping and the need for cooperation 
+between Governments having a substantial interest in a marine casualty or incident for the 
+purpose of determining the circumstances and causes thereof, 
+ 
+HAVING CONSIDERED the recommendations made by the Marine Environment Protection 
+Committee, at its sixty-fifth session, and the Maritime Safety Committee, at its ninety-second 
+session,
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+Committee, at its sixty-fifth session, and the Maritime Safety Committee, at its ninety-second 
+session,  
+ 
+1 ADOPTS the Guidelines to assist investigators in the implementation of the Casualty 
+Investigation Code (resolution MSC.255(84)), as set out in the annex to the present 
+resolution; 
+ 
+2 INVITES all Governments concerned to take appropriate measures to give effect to 
+the Guidelines as soon as possible in order to allow effective analysis when conducting a 
+marine safety investigation and taking preventive actions; 
+ 
+3 REVOKES resolutions A.849(20) and A.884(21). 
+ 
+ 
+ 
+Resolution A.1075(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION OF 
+THE CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84))A 28/Res.1075  
+Page 3 
+ 
+I:\ASSEMBLY\28\RES\1075.doc 
+Annex 
+ 
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION  
+OF THE CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84)) 
+ 
+ 
+1 INTRODUCTION
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION  
+OF THE CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84)) 
+ 
+ 
+1 INTRODUCTION 
+ 
+1.1 The purpose of these Guidelines is to provide practical advice for the systematic 
+investigation of marine casualties and incidents and to allow the development of effective 
+analysis and preventive action. The overall objective is to prevent similar casualties and 
+incidents in the future. 
+ 
+1.2 The ultimate purpose of a marine safety investigation is to advance maritime safety 
+and protection of the marine environment. In the context of these Guidelines, this goal is 
+achieved by identifying safety deficiencies through a systematic safety investigation of 
+marine casualties and incidents, and then recommending or effecting change in the maritime 
+system to correct these deficiencies. It is not the purpose of a safety investigation to 
+determine liability or apportion blame.
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+system to correct these deficiencies. It is not the purpose of a safety investigation to 
+determine liability or apportion blame. 
+ 
+1.3 These Guidelines should result in an increased awareness by all involved in the 
+marine industry of the human, organizational, environmental, technical and external factors 
+that may be involved in marine casualties and incidents. This awareness should lead to 
+proactive measures by the maritime community which in turn should result in the saving of 
+lives, ships, cargo and the protection of the marine environment, improvements to the lives of 
+marine personnel, and safer shipping operations. 
+ 
+1.4 These Guidelines apply, as far as national laws allow, to the investigation of marine 
+casualties or incidents in which either one or more States have a substantial interest 
+because the casualty or incident involves a ship under or within their jurisdiction. 
+ 
+2 DEFINITIONS 
+ 
+2.1 Table of definitions
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+because the casualty or incident involves a ship under or within their jurisdiction. 
+ 
+2 DEFINITIONS 
+ 
+2.1 Table of definitions 
+ 
+See chapter 2 of the Casualty Investigation Code (resolution MSC.255(84)) for terms not 
+defined in these Guidelines. 
+ 
+Event  An action, omission or other happening. 
+Casualty event  The marine casualty or marine incident, or one of a number of 
+connected marine casualties and/or marine incidents forming the 
+overall occurrence (e.g. a fire leading to a loss of propulsion 
+leading to a grounding). 
+Accident event 
+ 
+An event that is assessed to be inappropriate and significant in 
+the sequence of events that led to the marine casualty or marine 
+incident (e.g. human erroneous action, equipment failure). 
+Contributing factor  
+ 
+A condition that m ay have contributed to an accident event or 
+worsened its consequence (e.g. man/machine interaction, 
+inadequate illumination). 
+Safety issue  An issue that encompasses one or more contributing factors
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+inadequate illumination). 
+Safety issue  An issue that encompasses one or more contributing factors 
+and/or other unsafe conditions. 
+Safety deficiency A saf ety issue with risks for which existing defences aimed at 
+preventing an accident event, and/or those aimed at eliminating or 
+reducing its consequences, are assessed to be either inadequate 
+or missing. 
+ 
+Resolution A.1075(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION OF 
+THE CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84))A 28/Res.1075  
+Page 4 
+ 
+I:\ASSEMBLY\28\RES\1075.doc 
+2.2 The following diagram illustrates how a sequence of events leading to a casualty 
+occurrence would be classified using the above terms. 
+ 
+Diesel 
+generator 
+pipe 
+failure
+AE
+Fuel sprays 
+onto hot 
+turbo 
+charger
+Fuel 
+supplies 
+isolated
+Emergency 
+diesel 
+generator 
+fails to 
+start
+Vessel 
+blacks out
+AE CE E AE E CE
+Fire
+AE = ACCIDENT EVENT
+CE = CASUALTY EVENT
+CF = CONTRIBUTING FACTOR
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+diesel 
+generator 
+fails to 
+start
+Vessel 
+blacks out
+AE CE E AE E CE
+Fire
+AE = ACCIDENT EVENT
+CE = CASUALTY EVENT
+CF = CONTRIBUTING FACTOR
+EA = EVENT
+SD = SAFETY DEFICIENCY
+Vessel 
+Grounds
+Lack of
+maintenanceVibration
+Loose
+coupling
+Lack of
+maintenance
+Safety issue
+Lack of
+planned
+maintenance 
+system
+SD
+CF CF CF
+CF
+ 
+ 
+3 QUALIFICATIONS AND TRAINING OF INVESTIGATORS  
+ 
+3.1 To achieve a systematic and effective safety investigation the appointed 
+investigators need to have expertise in marine casualty investigation and be knowledgeable 
+in matters relating to the marine casualty or incident. Areas of expertise 
+ need to include evidence collection techniques, interviewing techniques, analysis techniques 
+and the identification of human and organizational factors in marine casualties and incidents.  
+ 
+3.2 All investigators attending a marine casualty site should have sufficient knowledge in
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+3.2 All investigators attending a marine casualty site should have sufficient knowledge in 
+personal safety, taking particular note that the hazards present at a casualty site may well be 
+beyond those encountered in normal ship operations. 
+ 
+3.3 A marine safety investigation Authority should consider developing a formal training 
+programme to ensure that its investigators acquire the necessary knowledge, understanding 
+and proficiency in marine safety investigation. 
+ 
+4 NOTIFICATION AND COOPERATION 
+ 
+4.1 Notification of a marine casualty or incident is to be provided to all affected parties 
+as soon as reasonably practicable. Notification includes informing the parties involved in the 
+casualty or incident according to chapter 20 of the Code, as well as any substantially 
+interested State in accordance with chapter 5 of the Code. Notification should preferably be 
+in a format that ensures a prompt acknowledgement from the addressee. 
+ 
+Resolution A.1075(28)
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+in a format that ensures a prompt acknowledgement from the addressee. 
+ 
+Resolution A.1075(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION OF 
+THE CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84))A 28/Res.1075  
+Page 5 
+ 
+I:\ASSEMBLY\28\RES\1075.doc 
+4.2 If the casualty or incident involves substantial interests of more than one State, 
+the States should quickly reach an agreement on cooperation in accordance with chapter 7 
+of the Code.  This agreement may include, but not be limited to: 
+ 
+ .1 ensuring that the objectives of each participating State is in accordance 
+with the IMO Casualty Investigation Code; 
+ 
+.2 which State will lead the investigation; 
+ 
+ .3 the possibilities to share casualty information and draft safety investigation 
+reports in accordance with chapter 13 of the Code, with regard to national 
+legislation on confidentiality as well as the potential risk of safety
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+reports in accordance with chapter 13 of the Code, with regard to national 
+legislation on confidentiality as well as the potential risk of safety 
+investigation findings being used in criminal and civil lawsuits; and 
+ 
+.4 distribution of costs related to the investigation. 
+ 
+4.3 If an agreement in accordance with chapter 7 of the Code cannot be reached, the 
+involved States should seek to share factual information to the greatest extent possible, 
+being guided by the recommended practice in the Code. 
+ 
+5 INVESTIGATION 
+ 
+5.1 Extent of investigation 
+ 
+5.1.1 Marine casualties and incidents can have many causal factors and the underlying 
+safety issues often exist remote from the casualty site.  Proper identification of such issues 
+requires timely and methodical investigation, going far beyond the immediate evidence in 
+search for conditions which may cause future occurrences.  Marine casualty or incident
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+search for conditions which may cause future occurrences.  Marine casualty or incident 
+safety investigations should therefore be seen as a means of identifying not only the accident 
+events, but also safety deficiencies in the overall management of the operation from policy 
+through to its implementation, as well as in regulation, survey and inspection.  For this 
+reason safety investigations should be broad enough to meet these overriding criteria.  
+ 
+5.1.2 The extent of any safety investigation can be divided into five areas: 
+ 
+.1 people; 
+ 
+.2 environment; 
+ 
+.3 equipment; 
+ 
+.4 processes and procedures; and 
+ 
+.5 organization and external influences.  
+ 
+5.2 Initial response 
+ 
+An investigation should be carried out as soon as possible after an occurrence so as to limit 
+the loss of perishable evidence including the degradation of witness memory.  To be able to 
+start promptly it is essential that the investigating State has a preparedness plan in place
+---
+SOURCE: A.1075(28).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1075(28).pdf
+start promptly it is essential that the investigating State has a preparedness plan in place 
+which, among other things, will facilitate: 
+ 
+.1 the ready availability of trained investigators; 
+ 
+Resolution A.1075(28) 
+Adopted on 4 December 2013  (Agenda item 10) 
+GUIDELINES TO ASSIST INVESTIGATORS IN THE IMPLEMENTATION OF 
+THE CASUALTY INVESTIGATION CODE (RESOLUTION MSC.255(84))
+---
