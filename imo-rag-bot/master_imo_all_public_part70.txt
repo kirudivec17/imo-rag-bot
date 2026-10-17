@@ -1,0 +1,1346 @@
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+RESOLUTION A.829(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE EVALUATION OF THE ADEQUACY 
+OF TYPE C TANK VENT SYSTEMSINTERNATIONAL MARITIME 
+ORGANIZATION 
+ASSEMBLY 
+19th session 
+Agenda item 10 
+RESOLUTION A.829(19) 
+adopted on 23 November 1995 
+A 19/Res.829 
+15 December 1995 
+Original: ENGLISH 
+NOT TO BE REMOVED 
+FROM 
+THE IMO LIBRARY 
+GUIDELINES FOR THE EVALUATION OF THE ADEQUACY 
+OF TYPE C TANK VENT SYSTEMS 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in relation to regulations and guidelines concerning maritime 
+safety, 
+RECALLING ALSO resolution MSC.32(63) on the adoption of amendments to the International 
+Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk (IGC Code), 
+RECALLING FURTHER paragraph 8.2.18 of the revised IGC Code which provides that the
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+RECALLING FURTHER paragraph 8.2.18 of the revised IGC Code which provides that the 
+adequacy of the vent system fitted on tanks is to be demonstrated by using the guidelines developed by 
+the Organization, 
+HAVING CONSIDERED the recommendation made by the Maritime Safety Committee at its 
+sixty-fifth session, 
+1. ADOPTS the Guidelines for the Evaluation of the Adequacy of Type C Tank Vent Systems set 
+out in the Annex to the present resolution; 
+2. INVITES Governments to apply the Guidelines when establishing the adequacy of the vent 
+systems fitted on tanks in accordance with relevant provisions of the IGC Code; 
+3. REQUESTS the Maritime Safety Committee to keep the Guidelines under review and to amend 
+them as necessary. 
+I:\ASSEMBL Y\l 9\RES\829 
+For reasons of economy , this document is printed in a limited number. Delegates are 
+kindly asked to bring their copies to meet ings and not to requ est additional copies . 
+RESOLUTION A.829(19)  adopted on 23 November 1995
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+kindly asked to bring their copies to meet ings and not to requ est additional copies . 
+RESOLUTION A.829(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE EVALUATION OF THE ADEQUACY 
+OF TYPE C TANK VENT SYSTEMSA 19/Res.829 - 2 -
+ANNEX 
+GUIDELINES FOR THE EVALUATION OF THE ADEQUACY OF 
+TYPE C TANK VENT SYSTEMS 
+Contents 
+I General 
+2 Procedures 
+3 Equations 
+4 References 
+Annex I Amendments to the International Code for the Construction and Equipment of Ships 
+carrying Liquefied Gases in Bulk (IGC Code) (resolution MSC.32(63)) 
+Annex 2 Worked example of the procedures 
+I:\ASSEMBL Y\l 9\RES\829 
+RESOLUTION A.829(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE EVALUATION OF THE ADEQUACY 
+OF TYPE C TANK VENT SYSTEMS- 3 - A 19/Res. 829 
+1 General 
+1. 1 The tank outletto the pressure relief valves (PRYs) should remain in the vapour phase at the 98% 
+liquid level and Code specified list and trim. 
+1.2 PRYs which have been sized using the GC Codes, have adequate capacity.
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+liquid level and Code specified list and trim. 
+1.2 PRYs which have been sized using the GC Codes, have adequate capacity. 
+1.3 To assure adequate relieving capacity condition, 1.3.1 is required and to assure adequate 
+blowdown condition, 1. 3. 2 is required . 
+1.3.1 The pressure drop in the vent pipe from the cargo tank to the PRY inlet (llP inlet) should not 
+exceed 3% of MARYS, at the Code PRY capacity from equation (I) at 1.2 · MARVS on all vapour flow. 
+1.3.2 The blowdown (llP c1ose) should not be less than (llPinlet) plus 0.02 · MARVS at the installed rated 
+vapour capacity where required to assure stable operation of the PRY. This calculation should be 
+performed atMARVS on all vapour flow. 
+Pilot-operated valves can tolerate higher inlet-pipe pressure losses when the pilot senses at a point that 
+is not affected by the inlet-pipe pressure drop. 
+1.4 The built-up back pressure in the vent piping from the PRY outlet to the location of discharge
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+is not affected by the inlet-pipe pressure drop. 
+1.4 The built-up back pressure in the vent piping from the PRY outlet to the location of discharge 
+to the atmosphere, and including any vent pipe interconnections which join other tanks, should not 
+exceed the following values: 
+.1 for unbalanced PRYs: 10%MARVS. 
+Special consideration may be given in cases where the back pressure exceeds 10% of 
+MARVS at a tank pressure of 1.2 · MARVS; and 
+.2 for balanced PRYs and pilot-operated PRYs as advised by manufacturer; normally 30% 
+ofMARVSfor balanced PRYs and 50% ofMARVSfor pilot-operated PRYs, 
+when assuming isenthalpic expansion of saturated liquid, at 1.2 x MARYS, through the PRY with the 
+vent piping under fire exposure . A heat flux of 108 kW/m2 is assumed for uninsulated vent piping. 
+1. 5 The built-up back pressure in the vent piping may be estimated by the procedures outlined in 
+section 2.
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+1. 5 The built-up back pressure in the vent piping may be estimated by the procedures outlined in 
+section 2. 
+1. 6 A more accurate procedure for evaluating tank vent systems on flashing two-phase flow should 
+be consulted if these simplified procedures do not demonstrate compliance with the requirements stated 
+in 1. 3 and 1. 4 above. 
+1. 7 MARVS means the maximum allowable relief valve setting of a cargo tank (gauge pressure). 
+2 Procedures 
+The following procedures will demonstrate the adequacy of a tank vent system to limit the 
+pressure rise in a cargo tank to not greater than 1.2 x MARYS during all conditions, including fire 
+conditions implicit in 8.5.2 of the IGC Code. 
+I:\ASSEMBL Y\l 9\RES\829 
+RESOLUTION A.829(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE EVALUATION OF THE ADEQUACY 
+OF TYPE C TANK VENT SYSTEMSA 19/Res. 829 - 4 -
+2.1 Prepare a simplified flow sheet of the cargo tank vent system, identifying the fittings and the
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+OF TYPE C TANK VENT SYSTEMSA 19/Res. 829 - 4 -
+2.1 Prepare a simplified flow sheet of the cargo tank vent system, identifying the fittings and the 
+actual diameters and lengths of pipe. (See annex 2 for an example.) 
+Divide the system into sections between nodes at changes in pipe diameter and at interconnections with 
+flows from other relief valves. 
+List the fittings and their dynamic loss coefficients. Calculate the external surface area of the piping 
+sections between the nodes. 
+2.2 Calculate the Code PRV capacity (Qacc) of each tank PRV, in m3/s of air at standard conditions 
+in accordance with 8.5.2 of the JGC Code and note the installed rated capacity (QJR) of each PRV in m3/s 
+air at standard conditions at 1.2 · MARVS. The calculation should be done for the highest gas factor of 
+the products included in the cargo list. N-butane has often the highest value for gas factor "G" in the 
+Code and usually determines the Code minimum capacity.
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+Code and usually determines the Code minimum capacity. 
+Determine the mass flows for cargo conditions at 1.2 · MARVS through each PRV for the Code 
+PRV capacity and for the installed rated capacity for both all vapour flow and for two-phase cargo flow. 
+Also calculate the mass flow at MARVS for the installed rated capacity on all vapour flow. 
+Equation (1) may be used for all vapour mass flow and equations (2), (3) and (4) may be used for 
+two-phase mass flow. Equation (2) may be applied to multicomponent mixtures whose boiling point 
+range does not exceed 100° K. 
+2.3 Estimate all the vapour flow pressure drop in the pipe from the cargo tank connection to the PRV 
+inlet flange, working from the known tank pressure towards the PRV. This pressure drop is calculated 
+by using the difference in stagnation pressures. Therefore, the second term of equation (5) may be used 
+for pipe sections of constant diameter . For contractions, equation (5.1) may be used.
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+for pipe sections of constant diameter . For contractions, equation (5.1) may be used. 
+2.4 Check that the pressure drop at each PRV inlet complies with 1.3.1 at the Code PRV capacity for 
+all vapour flow to assure adequate relief capacity. For the calculation, the vapour mass flow of 
+product (Wg) from equation (1) should be used. 
+For control purposes, 1.3.1 should be repeated using the Code PRV two-phase flow (W', equation (4)) 
+at 1.2 · MARVS and 1.3.2 by using the installed rated two-phase flow at MARVS. Both calculations 
+should give a smaller inlet pressure loss than the corresponding all vapour pressure loss. 
+Check that the blowdown t:,.p close complies with 1. 3. 2 to assure stable operation. 
+2.5 Estimate the two-phase flow pressure in the discharge pipe at the location of discharge to the 
+atmosphere. Equation (6) may be used, with the Code PRV two-phase mass flow (W', equation (4)) to
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+atmosphere. Equation (6) may be used, with the Code PRV two-phase mass flow (W', equation (4)) to 
+assure adequate relief capacity, to check if the exit pressure is greater than 1 bar a. 
+2. 6 Estimate the vapour fraction and two-phase density in the vent pipe at the exit to the atmosphere, 
+assuming transfer of the fire heat flux of 108 kW/m 2 through the uninsulated vent piping. Equations (7) 
+and (8) may be used. 
+2. 7 Estimate the built-up back pressure at the PRV outlet flange, commencing from the known vent 
+pipe exit pressure, calculating the pressure drop between pipe nodes and working, section by section, 
+back up the pipe to the PRV. 
+I:\ASSEMBL Y\19\RES\829 
+RESOLUTION A.829(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE EVALUATION OF THE ADEQUACY 
+OF TYPE C TANK VENT SYSTEMS- 5 - A 19/Res.829 
+Equations (7), (8), (9) and (5) may be used with iteration until the upstream node absolute pressure,
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+OF TYPE C TANK VENT SYSTEMS- 5 - A 19/Res.829 
+Equations (7), (8), (9) and (5) may be used with iteration until the upstream node absolute pressure, 
+vapour fraction and specific volume are justified and assuming that vapour is saturated . 
+At pipe diameter expansion fittings where fluid velocity is reduced, a pressure recovery generally occurs . 
+This recovery is overestimated in case of two-phase flow when dynamic loss coefficients for single-phase 
+flow are used. For the purpose of these guidelines, the static exit pressure of a conical expansion fitting 
+is assumed to be equal to the static inlet pressure. 
+2.8 Estimate the choking pressure (pee) at the exit of every section with the mass-flux (Gp) in that 
+section for the pipeline between the PRV and the vent exit. Equation (6) may be used. 
+Compare the pressure distribution along the vent line as derived from item 2. 5 to 2. 7, with the different 
+choking pressures for each section as derived from equation ( 6).
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+choking pressures for each section as derived from equation ( 6). 
+If choking pressure at any location exceeds the corresponding calculated pressure derived from 2. 5 to 2. 7, 
+the calculation as described in 2.5 to 2. 7 should be repeated commencing from choking point location 
+and corresponding choking pressure, working back up the pipe to the PRV. 
+If choking pressure at more than one location exceeds the corresponding calculated pressure derived from 
+2.5 to 2.7, the commencing point of the recalculation should be taken as the choking location point giving 
+the highest built-up back pressure . 
+2.9 Check that the built-up back pressure at each PRV outlet complies with 1.4, at the Code PRV 
+capacity for two-phase mass flow (W', equation (4)), to assure stable operation of the valves, thus 
+assuring adequate relief capacity. 
+2.10 For conventional unbalanced valves only: 
+.1 Ifback pressure as derived from 2.5 to 2.8 is within the range of 10% to 20% of MARVS,
+---
+SOURCE: A.829(19).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.829(19).pdf
+2.10 For conventional unbalanced valves only: 
+.1 Ifback pressure as derived from 2.5 to 2.8 is within the range of 10% to 20% of MARVS, 
+an additional evaluation should be performed in order to decide whether the system is 
+acceptable . 
+. 2 The system should perform with the following requirement: With one valve closed and 
+all others discharging at the installed rated PRV capacity, the back pressure should be 
+less than 10% of MARVS. 
+3 Equations 
+The following equations may be used to demonstrate the adequacy of the vent system. 
+Equation (1) for all vapour mass flow rate from tank through PRVs: 
+where: 
+F = 
+A = 
+hfg 
+W = 71 · lW · F · A 0·82 
+g (kg/s) 
+fire exposure factor according to section 8.5 of the JGC Code 
+external surface area of type C tank (m2) 
+latent heat of vaporization of cargo at 1. 2 x MAR VS (Jlkg) 
+I:\ASSEMBL Y\l 9\RES \829 
+(1) 
+RESOLUTION A.829(19)  adopted on 23 November 1995 
+GUIDELINES FOR THE EVALUATION OF THE ADEQUACY 
+OF TYPE C TANK VENT SYSTEMS
+---
+
+SOURCE: A.1003(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1003(25).pdf
+RESOLUTION A.1003(25)  Adopted on 29 November 2007 
+ENTRY INTO FORCE AND IMPLEMENTATION 
+OF THE 1993 TORREMOLINOS PROTOCOLI:\ASSEMBLY\25\
+RES\1003.doc 
+For reasons of economy, this document is pr inted in a limited number.  Delegates are 
+kindly asked to bring their copies to meetings and not to request additional copies. 
+INTERNATIONAL MARITIME ORGANIZATION
+ 
+IMO 
+ 
+E
+ASSEMBLY
+ 
+25th session 
+Agenda item 9 
+A 25/Res.1003
+21 December 2007
+ Original:  ENGLISH
+RESOLUTION A.1003(25) 
+Adopted on 29 November 2007 
+(Agenda item 9) 
+ENTRY INTO FORCE AND IMPLEMENTATION  
+OF THE 1993 TORREMOLINOS PROTOCOL 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+concerning the functions of the Assembly in re lation to regulations an d guidelines concerning 
+maritime safety, 
+BEING DEEPLY CONCERNED that the conditions for the entry into force of the 
+Torremolinos Protocol of 1993 relating to the Torremolinos International Convention for the
+---
+SOURCE: A.1003(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1003(25).pdf
+Torremolinos Protocol of 1993 relating to the Torremolinos International Convention for the 
+Safety of Fishing Vessels, 1977 (hereinafter referred to as th e Torremolinos Protocol) have, 
+fourteen years after its adoption, still not been met owing to the fact that an insufficient number 
+of Governments with the required aggregate number of fishing vessels under their flag have so 
+far deposited with the Secretary-General instru ments of ratification, ac ceptance, approval or 
+accession to enable it to enter into force, 
+RECALLING ALSO resolution A.925(22) on Entry into force and implementation of 
+the 1993 Torremolinos Protocol an d the 1995 STCW-F Convention , by means of which it urged 
+Governments to consider accepting the two instrume nts at the earliest opportunity and requested 
+the Maritime Safety Committee to review the situation concerning their entry into force and, in 
+the light of such review, to take action as it deemed appropriate,
+---
+SOURCE: A.1003(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1003(25).pdf
+the light of such review, to take action as it deemed appropriate, 
+WELCOMING the outcome of the Seminar on the Implementation of the Torremolinos 
+Protocol, held in Beijing, People’s Republic of China, in September 2004, which, having 
+identified technical and other difficulties encoun tered in relation to the implementation of the 
+Protocol, recommended solutions to address them, 
+WELCOMING ALSO the outcome of the second session of the Joint FAO/IMO Ad Hoc 
+Working Group on Illegal, Unreport ed and Unregulated Fishing an d Related Matters, held in 
+Rome, Italy, from 16 to 18 July 2007, which, havi ng considered the options  suggested in a legal 
+study presented at the said session and aimed at f acilitating the entry into force of the Protocol, 
+recommended that such options should be further explored, in particular the possibility of 
+RESOLUTION A.1003(25)  Adopted on 29 November 2007 
+ENTRY INTO FORCE AND IMPLEMENTATION 
+OF THE 1993 TORREMOLINOS PROTOCOLA 25/Res.1003 - 2 -
+---
+SOURCE: A.1003(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1003(25).pdf
+RESOLUTION A.1003(25)  Adopted on 29 November 2007 
+ENTRY INTO FORCE AND IMPLEMENTATION 
+OF THE 1993 TORREMOLINOS PROTOCOLA 25/Res.1003 - 2 -   
+ 
+ 
+I:\ASSEMBLY\25\RES\1003.doc 
+preparing a draft agreement relating to the impl ementation of the Torremolinos Protocol with a 
+view to its adoption by an appropriate IMO body, 
+ 
+HAVING NOTED the decisions of the Maritime  Safety Committee, at its eighty-third 
+session, on the outcome of the aforem entioned session of the Joint FAO/IMO Ad Hoc Working 
+Group, 
+ 
+REMAINING CONVINCED that the continuing and alarmingly high number of fishers’ 
+lives and of fishing vessels reported lost every year could be substantially reduced by global, 
+uniform and effective implementation of the Torremolinos Protocol, the entry into force of which 
+would make a significant contribution to maritime safe ty in general and that of fishing vessels in 
+particular: 
+ 
+1. REITERATES ITS STRONG RECOMMENDAT ION to Governments to consider
+---
+SOURCE: A.1003(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1003(25).pdf
+particular: 
+ 
+1. REITERATES ITS STRONG RECOMMENDAT ION to Governments to consider 
+ratifying, accepting, approving or ac ceding to the Torremolinos Protoc ol at the earliest possible 
+opportunity; 
+ 
+2. INVITES Governments to consider the feasibility of establishing uniform regional 
+standards, as called for in article 3(5) of the Torremolinos Protocol, communicating to the 
+Organization any such action for circulation to other Parties to the Protocol for information; 
+ 
+3. ENDORSES the decision of the Maritime Safety  Committee, at its eighty-third session, to 
+explore the options recommended by the second session of the Joint FAO/IMO Ad Hoc Working 
+Group on Illegal, Unregulated and Unreported Fish ing and Related Matters to facilitate and 
+expedite the earliest possible entry into force of the Torremolinos Protocol, and encourages the 
+Committee to take any action it may deem necessary and appropriate towards such an end;
+---
+SOURCE: A.1003(25).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1003(25).pdf
+Committee to take any action it may deem necessary and appropriate towards such an end; 
+ 
+4. REQUESTS the Maritime Safety Committee to review the situation concerning entry into 
+force of the Torremolinos Protocol  and, in the light of such revi ew, to take action as it deems 
+appropriate; 
+ 
+5. REQUESTS the Secretary-General to take any such additional measures as may be 
+required aimed at assisting Member Government s in the process of b ecoming Parties to, and 
+implementing, the Torremolinos Protocol. 
+ 
+ 
+___________ 
+RESOLUTION A.1003(25)  Adopted on 29 November 2007 
+ENTRY INTO FORCE AND IMPLEMENTATION 
+OF THE 1993 TORREMOLINOS PROTOCOLRESOLUTION A.1003(25)  Adopted on 29 November 2007 
+ENTRY INTO FORCE AND IMPLEMENTATION 
+OF THE 1993 TORREMOLINOS PROTOCOL
+---
+
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+Resolution A.1052(27) 
+Adopted on 30 November 2011 
+(Agenda item 9) 
+PROCEDURES FOR PORT STATE CONTROL, 2011I:\ASSEMBLY\27\RES\1052.doc 
+E
+ASSE
+MBLY 
+27th session  
+Agenda item 9 
+A 27/Res.1052
+20 December 2011
+ Original:  ENGLISH
+Resolution A.1052(27) 
+Adopted on 30 November 2011 
+(Agenda item 9) 
+PROCEDURES FOR PORT STATE CONTROL, 2011 
+THE ASSEMBLY, 
+RECALLING Article 15(j) of the Convention on the International Maritime Organization 
+regarding the functions of the Assembly in relation to regulations and guidelines concerning 
+maritime safety and the prevention and control of marine pollution from ships, 
+RECALLING ALSO resolution A.787(19), by which it adopted the Procedures for Port State 
+Control, and resolution A.882(21), by which it adopted amendments thereto, 
+RECALLING FURTHER that, at its twenty-first session, when adopting resolution A.882(21), 
+it requested the Maritime Safety Committee and the Marine Environment Protection
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+it requested the Maritime Safety Committee and the Marine Environment Protection 
+Committee to keep the Procedures, as amended, under review, on the basis of experience 
+gained from their implementation, 
+RECOGNIZING that efforts by port States have greatly contributed to enhanced maritime 
+safety and security, and prevention of marine pollution,  
+RECOGNIZING ALSO the need to update the Procedures, as amended, to take account of 
+the amendments to IMO instruments which have entered into force or have become effective 
+since the adoption of resolutions A.787(19) and A.882(21), 
+HAVING CONSIDERED the recommendations made by the Maritime Safety Committee, at its 
+eighty-ninth session, and the Marine Environment Protection Committee, at its sixty-second 
+session, 
+1.
+ADOPTS the Procedures for Port State Control, 2011, as set out in the Annex to the
+present resolution;
+2.
+INVITES Governments, when exercising port State control, to implement the
+aforementioned Procedures;
+3.
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+present resolution;
+2.
+INVITES Governments, when exercising port State control, to implement the
+aforementioned Procedures;
+3.
+REQUESTS the Maritime Safety Committee and the Marine Environment Protection
+Committee to keep the Procedures under review and to amend them as necessary;
+4.
+REVOKES resolutions A.787(19) and A.882(21).
+Resolution A.1052(27) 
+Adopted on 30 November 2011 
+(Agenda item 9) 
+PROCEDURES FOR PORT STATE CONTROL, 2011A 27/Res.1052 
+Page 2 
+ 
+ 
+I:\ASSEMBLY\27\RES\1052.doc 
+Annex 
+ 
+ 
+PROCEDURES FOR PORT STATE CONTROL, 2011 
+ 
+ 
+Contents 
+ 
+ 
+CHAPTER 1  –  GENERAL 
+ 
+1.1 Purpose  
+1.2 Application 
+1.3 Introduction 
+1.4 Provision for port State control 
+1.5 Ships of non-Parties  
+1.6 Ships below convention size 
+1.7 Definitions 
+1.8 Professional profile of PSCOs 
+1.9 Qualification and training requirements of PSCOs 
+ 
+CHAPTER 2  –  PORT STATE INSPECTIONS 
+ 
+2.1 General 
+2.2 Initial Inspections 
+2.3 General procedural guidelines for PSCOs 
+2.4 Clear grounds
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+CHAPTER 2  –  PORT STATE INSPECTIONS 
+ 
+2.1 General 
+2.2 Initial Inspections 
+2.3 General procedural guidelines for PSCOs 
+2.4 Clear grounds 
+2.5 More detailed inspections 
+ 
+CHAPTER 3  –  CONTRAVENTION AND DETENTION 
+ 
+3.1 Identification of a substandard ship 
+3.2 Submission of information concerning deficiencies 
+3.3 Port State action in response to alleged substandard ships 
+3.4 Responsibilities of port State to take remedial action 
+3.5 Guidance for the detention of ships 
+3.6 Suspension of inspection 
+3.7 Procedures for rectification of deficiencies and release 
+ 
+CHAPTER 4  –  REPORTING REQUIREMENTS 
+ 
+4.1 Port State reporting 
+4.2 Flag State reporting 
+4.3 Reporting of allegations under MARPOL 
+ 
+CHAPTER 5  –  REVIEW PROCEDURES 
+ 
+5.1 Report of comments 
+ 
+Resolution A.1052(27) 
+Adopted on 30 November 2011 
+(Agenda item 9) 
+PROCEDURES FOR PORT STATE CONTROL, 2011A 27/Res.1052 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\27\RES\1052.doc 
+APPENDICES
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+(Agenda item 9) 
+PROCEDURES FOR PORT STATE CONTROL, 2011A 27/Res.1052 
+Page 3 
+ 
+ 
+I:\ASSEMBLY\27\RES\1052.doc 
+APPENDICES 
+ 
+ 
+Appendix 1 Code of Good Practice for port State control officers conducting inspections 
+within the framework of the regional Memoranda of Understanding and 
+Agreement on Port State Control (MSC-MEPC.4/Circ.2) 
+ 
+Appendix 2 Guidelines for the detention of ships 
+ 
+Appendix 3 Guidelines for investigations and inspections carried out under Annex I of 
+MARPOL 
+ 
+Appendix 4 Guidelines for investigations and inspections carried out under Annex II of 
+MARPOL 
+ 
+Appendix 5 Guidelines for discharge requirements under Annexes I and II of MARPOL 
+ 
+Appendix 6 Guidelines for more detailed inspections of ship structural and equipment 
+requirements 
+ 
+Appendix 7 Guidelines for control of operational requirements 
+ 
+Appendix 8 Guidelines for port State control related to the ISM Code 
+ 
+Appendix 9 Guidelines for port State control related to LRIT
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+Appendix 8 Guidelines for port State control related to the ISM Code 
+ 
+Appendix 9 Guidelines for port State control related to LRIT 
+ 
+Appendix 10 Guidelines for port State control under the 1969 Tonnage Convention 
+ 
+Appendix 11 Minimum manning standards and certification 
+ 
+Appendix 12 List of certificates and documents 
+ 
+Appendix 13 Report of inspection in accordance with IMO port State control procedures 
+ 
+Appendix 14 Report of deficiencies not fully rectified or only provisionally repaired 
+ 
+Appendix 15 Report of action taken to the notifying authority 
+ 
+Appendix 16 Format for the Report of contravention of MARPOL (article 6) 
+ 
+Appendix 17 Comments by flag State on detention report 
+ 
+Appendix 18 List of instruments relevant to port State control procedures 
+ 
+Resolution A.1052(27) 
+Adopted on 30 November 2011 
+(Agenda item 9) 
+PROCEDURES FOR PORT STATE CONTROL, 2011A 27/Res.1052 
+Page 4 
+ 
+ 
+I:\ASSEMBLY\27\RES\1052.doc 
+CHAPTER 1  –  GENERAL 
+ 
+1.1 PURPOSE
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+PROCEDURES FOR PORT STATE CONTROL, 2011A 27/Res.1052 
+Page 4 
+ 
+ 
+I:\ASSEMBLY\27\RES\1052.doc 
+CHAPTER 1  –  GENERAL 
+ 
+1.1 PURPOSE 
+ 
+This document is intended to provide basic guidance on the conduct of port State control 
+inspections and afford consistency in the conduct of these inspections, the recognition of 
+deficiencies of a ship, its equipment, or its crew, and the application of control procedures. 
+ 
+1.2 APPLICATION 
+ 
+1.2.1 These Procedures apply to ships falling under the provisions of: 
+ 
+.1 the International Convention for the Safety of Life at Sea, 1974, as 
+amended (SOLAS); 
+ 
+.2 the Protocol of 1988 relating to the International Convention for the Safety of 
+Life at Sea, 1974 (SOLAS Protocol 1988); 
+ 
+.3 the International Convention on Load Lines, 1966 (Load Lines); 
+ 
+.4 the Protocol of 1988 relating to the International Convention on Load 
+Lines, 1966 (Load Lines Protocol 1988); 
+ 
+.5 the International Convention for the Prevention of Pollution from
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+Lines, 1966 (Load Lines Protocol 1988); 
+ 
+.5 the International Convention for the Prevention of Pollution from 
+Ships, 1973, as modified by the Protocols of 1978 and 1997 relating 
+thereto, as amended (MARPOL); 
+ 
+.6 the International Convention on Standards of Training, Certification and 
+Watchkeeping for Seafarers, 1978, as amended (STCW); 
+ 
+.7 the International Convention on Tonnage Measurement of Ships, 1969 
+(Tonnage); and  
+ 
+.8 the International Convention on the Control of Harmful Anti-Fouling 
+Systems on Ships (AFS), 
+ 
+hereafter referred to as the applicable conventions. 
+ 
+1.2.2 Ships of non-Parties or below convention size should be given no more favourable 
+treatment (see sections 1.5 and 1.6). 
+ 
+1.2.3 In exercising port State control, Parties should only apply those provisions of the 
+conventions which are in force and which they have accepted. 
+ 
+1.2.4 If a port State exercises port State control based on International Labour
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+conventions which are in force and which they have accepted. 
+ 
+1.2.4 If a port State exercises port State control based on International Labour 
+Organization (ILO) Convention No.147, "Merchant Shipping (Minimum Standards) 
+Convention, 1976", guidance on the conduct of such control inspections is given in the 
+ILO publication "Inspection of Labour Conditions on board Ship: Guidelines for Procedure". 
+ 
+1.3 INTRODUCTION 
+ 
+1.3.1 Under the provisions of the applicable conventions set out in section 1.2 above, the 
+Administration (i.e. the Government of the flag State) is responsible for promulgating laws 
+and regulations and for taking all other steps which may be necessary to give the applicable 
+Resolution A.1052(27) 
+Adopted on 30 November 2011 
+(Agenda item 9) 
+PROCEDURES FOR PORT STATE CONTROL, 2011A 27/Res.1052 
+Page 5 
+ 
+ 
+I:\ASSEMBLY\27\RES\1052.doc 
+conventions full and complete effect so as to ensure that, from the point of view of safety of
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+Page 5 
+ 
+ 
+I:\ASSEMBLY\27\RES\1052.doc 
+conventions full and complete effect so as to ensure that, from the point of view of safety of 
+life and pollution prevention, a ship is fit for the service for which it is intended and seafarers 
+are qualified and fit for their duties. 
+ 
+1.3.2 In some cases it may be difficult for the Administration to exercise full and 
+continuous control over some ships entitled to fly the flag of its State, for instance those ships 
+which do not regularly call at a port of the flag State.  The problem can be, and has been, 
+partly overcome by appointing inspectors at foreign ports and/or authorizing recognized 
+organizations to act on behalf of the flag State Administration. 
+ 
+1.3.3 The following control procedures should be regarded as complementary to national 
+measures taken by Administrations of flag States in their countries and abroad and are 
+intended to provide assistance to flag State Administrations in securing compliance with
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+intended to provide assistance to flag State Administrations in securing compliance with 
+convention provisions in safeguarding the safety of crew, passengers and ships, and 
+ensuring the prevention of pollution. 
+ 
+1.4 PROVISION FOR PORT STATE CONTROL 
+ 
+Regulation 19 of chapter I, regulation 6.2 of chapter IX, regulation 4 of chapter XI-1 and 
+regulation 9 of chapter XI-2 of SOLAS, as modified by the SOLAS Protocol 1988; article 21 
+of Load Lines, as modified by the Load Lines Protocol 1988; articles 5 and 6, regulation 11 of 
+Annex I, regulation 16.9 of Annex II, regulation 8 of Annex III, regulation 13 of Annex IV, 
+regulation 8 of Annex V and regulation 10 of Annex VI of MARPOL; article X of STCW; 
+article 12 of Tonnage and article 11 of AFS provide for control procedures to be followed by a 
+Party to a relevant convention with regard to foreign ships visiting their ports.  The authorities
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+Party to a relevant convention with regard to foreign ships visiting their ports.  The authorities 
+of port States should make effective use of these provisions for the purposes of identifying 
+deficiencies, if any, in such ships which may render them substandard (see section 3.1), and 
+ensuring that remedial measures are taken. 
+ 
+1.5 SHIPS OF NON-PARTIES 
+ 
+1.5.1 Article I(3) of the SOLAS Protocol 1988, article 5(4) of MARPOL, article X(5) of 
+STCW and article 3(3) of AFS provide that no more favourable treatment is to be given to the 
+ships of countries which are not Party to the relevant Convention.  All Parties should, as a 
+matter of principle, apply these Procedures to ships of non-Parties in order to ensure that 
+equivalent surveys and inspections are conducted and an equivalent level of safety and 
+protection of the marine environment is ensured. 
+ 
+1.5.2 As ships of non-Parties are not provided with SOLAS, Load Lines or MARPOL
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+protection of the marine environment is ensured. 
+ 
+1.5.2 As ships of non-Parties are not provided with SOLAS, Load Lines or MARPOL 
+certificates, as applicable, or the crew members may not hold STCW certificates, the Port 
+State Control Officer (PSCO), taking into account the principles established in these 
+Procedures, should be satisfied that the ship and crew do not present a danger to those on 
+board or an unreasonable threat of harm to the marine environment.  If the ship or crew has 
+some form of certification other than that required by a convention, the PSCO may take the 
+form and content of this documentation into account in the evaluation of that ship.  The 
+conditions of and on such a ship and its equipment and the certification of the crew and the 
+flag State's minimum manning standard should be compatible with the aims of the provisions 
+of the conventions; otherwise, the ship should be subject to such restrictions as are
+---
+SOURCE: A.1052(27).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1052(27).pdf
+of the conventions; otherwise, the ship should be subject to such restrictions as are 
+necessary to obtain a comparable level of safety and protection of the marine environment. 
+ 
+Resolution A.1052(27) 
+Adopted on 30 November 2011 
+(Agenda item 9) 
+PROCEDURES FOR PORT STATE CONTROL, 2011
+---
+
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+RESOLUTION MEPC.153(55) 
+Adopted on 13 October 2006 
+GUIDELINES FOR BALLAST WATER RECEPTION FACILITIES (G5)  MEPC 55/23 
+ 
+  
+I:\MEPC\55\23.doc 
+ANNEX 5 
+ 
+RESOLUTION MEPC.153(55) 
+Adopted on 13 October 2006 
+ 
+  GUIDELINES FOR BALLAST WATER RECEPTION FACILITIES (G5)   
+  
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime 
+Organization concerning the functions of the Marine Environment Protection Committee 
+conferred upon it by the international conventions for the prevention and control of marine 
+pollution, 
+ 
+RECALLING ALSO that the International Conference on Ballast Water Management for 
+Ships held in February 2004 adopted the International Convention for the Control and 
+Management of Ships’ Ballast Water and Sediments, 2004 (the Ballast Water Management 
+Convention) together with four Conference resolutions, 
+ 
+NOTING that Regulation A-2 of the Ballast Water Management Convention requires that
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+Convention) together with four Conference resolutions, 
+ 
+NOTING that Regulation A-2 of the Ballast Water Management Convention requires that 
+discharge of ballast water shall only be conducted through Ballast Water Management in 
+accordance with the provisions of the Annex to the Convention, 
+ 
+NOTING FURTHER that Regu lation B-3.6 of the Ballast Water Management 
+Convention   provides that, the requirements of ballast water management standards do not apply 
+to ships that discharge ballast water to a r eception facility designed taking into account the 
+Guidelines developed by the Organization for such facilities,  
+ 
+NOTING ALSO that resolution 1 adopted by the International Conference on Ballast 
+Water Management for Ships invited the Organization to develop these Guidelines as a matter of 
+urgency, 
+ 
+HAVING CONSIDERED, at its fifty-fifth session, the draft the Guidelines for ballast 
+water reception facilities (G5)  developed by the Ballast Water Working Group, and the
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+water reception facilities (G5)  developed by the Ballast Water Working Group, and the 
+recommendation made by the Sub-Committee on Flag  State Implementation at its fourteenth 
+session,  
+ 
+1. ADOPTS the Guidelines for ballast water reception facilities (G5) as set out in the Annex 
+to this resolution; 
+ 
+2. INVITES Governments to apply these Guidelines as soon as possible, or when the 
+Convention becomes applicable to them; and 
+ 
+3. AGREES to keep these Guidelines under review.  
+ 
+RESOLUTION MEPC.153(55) 
+Adopted on 13 October 2006 
+GUIDELINES FOR BALLAST WATER RECEPTION FACILITIES (G5)MEPC 55/23 
+ANNEX 5 
+Page 2 
+ 
+ 
+I:\MEPC\55\23.doc 
+ANNEX 
+ 
+GUIDELINES FOR BALLAST WATER RECEPTION FACILITIES (G5) 
+ 
+1 INTRODUCTION 
+ 
+Purpose 
+ 
+1.1 The purpose of these guidelines is to provide guidance for the provision of facilities for 
+the reception of ballast water as referred to  in Regulation B-3.6 of the Convention. These
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+the reception of ballast water as referred to  in Regulation B-3.6 of the Convention. These 
+guidelines are not intended to requi re that a Party shall provide such facilities.  The guidance is 
+also intended to encourage a worldwide uniform interface between such facilities and the ships 
+without prescribing dedicated shoreside reception plants. 
+ 
+Application 
+ 
+1.2 These guidelines apply to ballast water recepti on facilities referred to in the International 
+Convention for the Control and Management of  Ships’ Ballast Water and Sediments (the 
+Convention), Regulation B-3.6. 
+ 
+1.3 These guidelines do not apply to reception facilities for sediment referred to in Article 5 
+and Regulation B-5 of the Convention.  
+ 
+2 DEFINITIONS  
+ 
+2.1 For the purposes of these guidelines, the defi nitions in Article 1 and Regulation A-1 of 
+the Convention apply. 
+ 
+3 GENERAL REQUIREMENTS FOR BALLAST WATER RECEPTION 
+FACILITIES
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+the Convention apply. 
+ 
+3 GENERAL REQUIREMENTS FOR BALLAST WATER RECEPTION 
+FACILITIES 
+ 
+3.1 A ballast water reception facility should be capable of receiving ballast water from ships 
+so as not to create a risk to the environment,  human health, property an d resources arising from 
+the release to the environment of  Harmful Aquatic Organisms and Pathogens.  A facility should 
+provide pipelines, manifolds, reducers, equipmen t and other resources to enable, as far as 
+practicable, all ships wishing to discharge ballast water in a port to use the facility.  The facility 
+should provide adequate equipment for mooring ships using the facility and when applicable safe 
+anchorage.  
+ 
+3.2 Each Party shall report to the Organizati on and, where appropriate, make available to 
+other Parties, information on the availability and location of any reception facilities for the 
+environmentally safe disposal of ballast water. 
+ 
+4 PROVISION OF BALLAST WATER  RECEPTION FACILITIES
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+environmentally safe disposal of ballast water. 
+ 
+4 PROVISION OF BALLAST WATER  RECEPTION FACILITIES  
+ 
+4.1 When considering the requirements of these fa cilities many factors will have to be taken 
+into account, these should include but not be limited to:  
+RESOLUTION MEPC.153(55) 
+Adopted on 13 October 2006 
+GUIDELINES FOR BALLAST WATER RECEPTION FACILITIES (G5)  MEPC 55/23 
+ANNEX 5 
+Page 3 
+ 
+ 
+I:\MEPC\55\23.doc  
+.1 regional, national and local legislation which will affect the facility and related to 
+the items below; 
+.2  site selection; 
+.3  ship type and size that will use the facility; 
+.4 ship configurations; 
+.5 mooring requirements; 
+.6 handling of ballast water; 
+.7 sampling, testing and anal ysis of ballast water; 
+.8 storage and of conditions of ballast water; 
+.9 environmental benefits and costs; 
+.10 proximity of available sites to local ports; 
+.11 effect on the environment in constr uction and operation of the facility; 
+.12 training of facility staff;
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+.11 effect on the environment in constr uction and operation of the facility; 
+.12 training of facility staff; 
+.13 human health; 
+.14 safety; 
+.15 maintenance; 
+.16 operational limitations; 
+.17 waterway access, approaches and traffic management; and 
+.18 the amount of ballast water likely to be received. 
+ 
+5 TREATMENT AND DISPOSAL  OF RECEIVED BALLAST 
+ 
+5.1 Disposal of ballast water from a reception facility should not create a risk to the 
+environment, human health, property and resources arising from the release or transfer to the 
+environment of Harmful Aquatic Organisms and Pathogens. 
+ 
+5.2 Treatment methods applied to the ballast wa ter should not produce effects that may create 
+a risk to the environment, human health, property and resources.  
+ 
+5.3 Where ballast water is disposed into the a quatic environment it s hould at least meet the 
+ballast water performance standard  specified in Regulation D-2 of the Convention.  Disposal to
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+ballast water performance standard  specified in Regulation D-2 of the Convention.  Disposal to 
+other environments should be to a standard acceptable to the Port  State.  Such a standard should 
+not create a risk to the environment, human h ealth, property and res ources arising from the 
+release or transfer to the environment of Harmful Aquatic Organisms and Pathogens. 
+ 
+6 SUSPENDED MATTER 
+ 
+6.1 Ballast water discharged from a ship should be accepted by the ballast water reception 
+facility including its suspended matter. 
+ 
+7 CAPABILITIES OF A RECEPTION FACILITY 
+ 
+7.1 Details of the capabilities and any capacity li mitations of a treatmen t facility should be 
+made available to the ships that intend to use the facility. 
+ 
+7.2 The details made available to ship s should include but not be limited to: 
+ 
+.1 maximum volumetric capacity of ballast water; 
+.2 maximum volume of ballast water that can be handled at any one time;  
+RESOLUTION MEPC.153(55) 
+Adopted on 13 October 2006
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+.2 maximum volume of ballast water that can be handled at any one time;  
+RESOLUTION MEPC.153(55) 
+Adopted on 13 October 2006 
+GUIDELINES FOR BALLAST WATER RECEPTION FACILITIES (G5)MEPC 55/23 
+ANNEX 5 
+Page 4 
+ 
+ 
+I:\MEPC\55\23.doc 
+.3 maximum transfer rates of ballast water (cubic metres per hour); 
+.4 hours of operation; 
+.5 ports, berths, areas where access to the facility is available; 
+.6 ship-to-shore pipeline connection details (pipeline size and reducers available); 
+.7 if ship or shore crew are required for duties such as to connect or disconnect 
+hoses; 
+.8 contact details for the facility; 
+.9 how to request use of the facility including any notice period and what 
+information is required from the ship; 
+.10 all applicable fees; and 
+.11 other relevant information. 
+ 
+7.4 The facility should provide ship to shore connections that are compatible with a 
+recognized standard such as those in the Oil Companies International Marine Forum (OCIMF)
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+recognized standard such as those in the Oil Companies International Marine Forum (OCIMF) 
+“Recommendations for Oil Tankers Manifolds and Associated Equipment”.  It is recognized that 
+this standard was originally produced for oil ta nkers however the genera l principles in this 
+standard can be applied to connections for ballast transfer on other ship types in particular the 
+sections related to flanges and connection methods.  
+ 
+8 TRAINING 
+ 
+8.1  Personnel in charge of and those employed in  the provision of a ballast water reception 
+facility including the treatment and disposal of ballast water should have received adequate 
+instruction.  Frequent training should include but not be limited to:  
+ 
+.1 the purpose and principles of the Convention;  
+.2 the risks to the environment and human health;  
+.3 risk associated with the handling of ba llast water including both general safety 
+and human health risks; 
+.4 safety; 
+.5 adequate knowledge of the equipment involved;
+---
+SOURCE: MEPC.153(55).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.153(55).pdf
+and human health risks; 
+.4 safety; 
+.5 adequate knowledge of the equipment involved;  
+.6 a sufficient understanding of ships using the facility, and any operational 
+constraints; 
+.7 the ship/port communication interface; and 
+.8 an understanding of local disposal controls. 
+ 
+8.2 The training should be organized by the mana ger or the operator of the reception facility 
+and delivered by suitably qualified professionals. 
+ 
+ 
+ 
+***
+RESOLUTION MEPC.153(55) 
+Adopted on 13 October 2006 
+GUIDELINES FOR BALLAST WATER RECEPTION FACILITIES (G5)RESOLUTION MEPC.153(55) 
+Adopted on 13 October 2006 
+GUIDELINES FOR BALLAST WATER RECEPTION FACILITIES (G5)
+---
+
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+RESOLUTION MEPC.243(66) 
+Adopted on 4 April 2014 
+2014 GUIDELINES ON THE APPROVED METHOD PROCESSMEPC 66/21 
+Annex 2, page 1 
+ 
+ 
+I:\MEPC\66\21.doc 
+ANNEX 2 
+ 
+RESOLUTION MEPC.243(66) 
+Adopted on 4 April 2014 
+ 
+2014 GUIDELINES ON THE APPROVED METHOD PROCESS 
+ 
+ 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+ 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization 
+concerning the functions of the Marine Environment Protection Committee (the Committee) 
+conferred upon it by international conventions for the prevention and control of marine 
+pollution from ships, 
+ 
+RECALLING ALSO that, at its fifty-eighth session, the Committee adopted, by 
+resolution MEPC.176(58), a revised MARPOL Annex VI (hereinafter referred to as 
+"MARPOL Annex VI") which significantly strengthens the emission limits for nitrogen oxides 
+(NOX) in light of technological improvements and implementation experience,
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+(NOX) in light of technological improvements and implementation experience, 
+ 
+NOTING that regulation 1 3.7.1 of MARPOL Annex VI requires an Approved Method to be 
+certified by an Administration of a Party,  
+ 
+RECOGNIZING the need to develop guidelines to set forth the process of approving an 
+Approved Method, 
+ 
+NOTING ALSO the 2014 Guidelines in respect of the information to be submitted by an 
+Administration to the Organization covering the certification of an approved method as 
+required under regulation 13.7.1 of MARPOL Annex VI, adopted by resolution 
+MEPC.242(66), 
+ 
+HAVING CONSIDERED, at its sixty-sixth session, the draft 2014 Guidelines on the Approved 
+Method process, proposed by the Sub-Committee on Pollution Prevention and Response, at 
+its first session, 
+ 
+1. ADOPTS the 2014 Guidelines on the Approved Method process , as set out in the 
+annex to the present resolution; 
+ 
+2. INVITES Administrations to take the annexed Guidelines into account when an
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+annex to the present resolution; 
+ 
+2. INVITES Administrations to take the annexed Guidelines into account when an 
+application for a new Approved Method is being considered; 
+ 
+3. REQUESTS the Parties to MARPOL Annex VI and other Member Governments to 
+bring the annexed Guidelines to the attention of shipowners, ship operators, shipbuilders , 
+marine diesel engine manufacturers, and any other interested groups; and 
+ 
+4. AGREES to keep these Guidelines under review in t he light of experience gained 
+with their application. 
+ 
+ 
+RESOLUTION MEPC.243(66) 
+Adopted on 4 April 2014 
+2014 GUIDELINES ON THE APPROVED METHOD PROCESSMEPC 66/21 
+Annex 2, page 2 
+ 
+ 
+I:\MEPC\66\21.doc 
+ANNEX 
+ 
+2014 GUIDELINES ON THE APPROVED METHOD PROCESS 
+ 
+ 
+1 PURPOSE 
+ 
+The purpose of these Guidelines is to assist Administrations, port State inspectors, 
+shipowners and others to understand the Approved Method process and responsibilities. For
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+shipowners and others to understand the Approved Method process and responsibilities. For 
+clarity the Approved Method process is illustrated in figure 1. Further details are given in the 
+following paragraphs.  
+ 
+2 IDENTIFICATION AS TO THE APPLICABILITY OF AN APPROVED METHOD 
+ 
+2.1 After notification of the certification of an Approved Method by an IMO circular, 
+shipowners potentially affected by the Approved Method should investigate as to whether 
+that Approved Method is applicable to engines under their control by checking against the 
+criteria for identification of applicable engines included in the circular.   
+ 
+2.2 In those instances where items specified in paragraphs .1 to .3 of the appendix as 
+listed in the notification do not apply, the Approved Method does not apply and no further 
+action is required.   
+ 
+2.3 In those instances where an engine corresponds in full with the items specified in
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+action is required.   
+ 
+2.3 In those instances where an engine corresponds in full with the items specified in 
+paragraphs .1 to .6 of the appendix as listed in the notification, as confirmed by the ship' s 
+Administration, the shipowner should arrange through the contact point given in the 
+IMO circular for the installation of the Approved Method within the given time period as 
+specified in regulation 13.7.2 of MARPOL Annex VI. In making that arrangement, the 
+shipowner should provide such engine specific information as is necessary for the 
+preparation of that engine's Approved Method File. 
+ 
+2.4 In those instances where it is considered that an Approved Method is not applicable 
+since, although conforming with the items specified in paragraphs .1 to .3 of the appendix as 
+listed in the notification, it does not conform to one or more points specified in paragraphs .4 
+to .6 of the appendix, due to installation or post manufacture modification, the shipowner
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+to .6 of the appendix, due to installation or post manufacture modification, the shipowner 
+should contact the relevant contact point as given in the IMO circular. In that communication, 
+information should be given as to why it is considered that one or more of points specified in 
+paragraphs .4 to .6 of the appendix do not apply. The contact point should assess that 
+application for non-applicability of fitting the Approved Method against their knowledge of the 
+Approved Method. The outcome of that review (agreement or disagreement) should be 
+passed to the certifying Administration and ship's Administration for their review and 
+confirmation of that finding.  
+ 
+.1 In the case of agreement as to non-applicability, t he certifying 
+Administration should duly document the non-applicability giving the 
+Approved Method approval reference, details of the engine to which the 
+non-applicability applies (make, model, serial number or other verifiable
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+Approved Method approval reference, details of the engine to which the 
+non-applicability applies (make, model, serial number or other verifiable 
+and unique identifiers) and details of the reason(s) for which the engine is 
+found non-applicable together with any other relevant information. Any 
+agreement on non-applicability should have the concurrence of the ship' s 
+Administration. The non- applicability documentation should be retained on 
+board as evidence of non-applicability of a particular Approved Method. In 
+this it must be noted that although non-applicability documentation has 
+RESOLUTION MEPC.243(66) 
+Adopted on 4 April 2014 
+2014 GUIDELINES ON THE APPROVED METHOD PROCESSMEPC 66/21 
+Annex 2, page 3 
+ 
+ 
+I:\MEPC\66\21.doc 
+been issued against a particular Approved Method, a subsequently certified 
+Approved Method may apply. 
+  
+.2 In those instances where those Administrations agree with the contact point
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+Approved Method may apply. 
+  
+.2 In those instances where those Administrations agree with the contact point 
+that the shipowner's reason for claiming non-applicability is not valid, the 
+shipowner will be advised and informed that fitting of the Approved Method 
+is required within the given time period.  
+ 
+3 ALTERNATIVE TO THE INSTALLATION OF AN APPROVED METHOD 
+ 
+For an engine identified in above paragraph 2.3 or 2.4.2 as being applicable to an Approved 
+Method, regulation 13.7.1.2 of MARPOL Annex VI allows that the engine may alternatively 
+be certified to Tier I, II or III.* In such instances the issue of the EIAPP Certificate, approval of 
+the associated Technical File and the initial and subsequent survey procedures should be in 
+accordance with the given NO X Technical Code 2008 procedures for engines installed on 
+ships constructed on or after 1 January 2000. The IAPP Certificate of the ship on which that
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+ships constructed on or after 1 January 2000. The IAPP Certificate of the ship on which that 
+engine is installed should be duly updated within the time period given by regulation 13.7.2 of 
+MARPOL Annex VI relevant to the Approved Method to which it is an alternative. 
+ 
+*Note: Typically it may be expected that this option may be adopted in those cases 
+where a series of ships spanned the introduction date of the NO X 
+certification requirement.  In such cases those ships in the series which 
+were constructed on or after 1 January 2000 will have NO X certified 
+engines, however, those ships in the series constructed before that date 
+may have identical engines installed, except that they were not NO X 
+certified. In these instances it may be possible to back-certify those 
+previously uncertified engines on the basis of being additional member 
+engines of the engine groups/families to which the certified engines belong.  
+ 
+4 APPROVED METHOD NOT COMMERCIALLY AVAILABLE
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+engines of the engine groups/families to which the certified engines belong.  
+ 
+4 APPROVED METHOD NOT COMMERCIALLY AVAILABLE 
+ 
+4.1 In case where the Approved Method is not commercially available despite best 
+efforts to obtain it within the time period given by regulation 13.7.2 of MARPOL Annex VI 
+(noting that this does not cover instances when not convenient in relation to the ship' s 
+schedule to fit the Approved Method) then application should be made to the ship' s 
+Administration, giving details of the efforts made to have installed the Approved Method. The 
+ship's Administration should review that information and, if in agreement that the Approved 
+Method is not at that time commercially available, a statement to that effect should be duly 
+provided to the shipowner. That statement should be retained on board and be available at 
+surveys or inspections as required.  
+ 
+4.2 Thereafter the shipowner should, in accordance with regulation 13.7.2 of
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+surveys or inspections as required.  
+ 
+4.2 Thereafter the shipowner should, in accordance with regulation 13.7.2 of 
+MARPOL Annex VI, reassess the commercial availability in a timely manner prior to the next 
+annual survey, and if available, to have the Approved Method installed no later than that 
+annual survey. If the Approved Method is still not available the process in paragraph 4.1 of 
+these guidelines should be repeated. Thereafter, this process should be repeated for each 
+annual survey until the Approved Method is commercially available and hence installed. 
+ 
+5 SURVEY CONFIRMING INSTALLATION OF THE APPROVED METHOD 
+ 
+5.1 Upon completion of the installation of the Approved Method, an initial (onboard 
+confirmation) survey should be undertaken by the ship's Administration in accordance with 
+the onboard verification procedure specified in the Approved Method File.  
+ 
+RESOLUTION MEPC.243(66) 
+Adopted on 4 April 2014 
+2014 GUIDELINES ON THE APPROVED METHOD PROCESSMEPC 66/21
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+RESOLUTION MEPC.243(66) 
+Adopted on 4 April 2014 
+2014 GUIDELINES ON THE APPROVED METHOD PROCESSMEPC 66/21 
+Annex 2, page 4 
+ 
+ 
+I:\MEPC\66\21.doc 
+5.2 A chronological record should be maintained, covering the installation of the 
+Approved Method and all changes, including like-for-like replacements, of components and 
+adjustments/operating values as covered by the Approved Method. This record should 
+accompany the Approved Method File as evidence of the initial installation. 
+ 
+6 SURVEYS CONFIRMING RETENTION OF THE APPROVED METHOD 
+ 
+6.1 The in-service surveys after the installation of the Approved Method should be 
+carried out in accordance with the onboard verification procedure specified in the Approved 
+Method File. The survey is to be conducted as part of a ship's survey in accordance with 
+regulation 5 of MARPOL Annex VI. 
+ 
+6.2 The Approved Method record should be maintained and be available on board at the 
+relevant surveys.  
+RESOLUTION MEPC.243(66)
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+6.2 The Approved Method record should be maintained and be available on board at the 
+relevant surveys.  
+RESOLUTION MEPC.243(66) 
+Adopted on 4 April 2014 
+2014 GUIDELINES ON THE APPROVED METHOD PROCESSMEPC 66/21 
+Annex 2, page 5 
+ 
+ 
+I:\MEPC\66\21.doc 
+7 APPROVED METHOD PROCESS FLOWCHART 
+ 
+Figure 1 illustrates the overall Approved Method process. 
+ 
+ 
+ 
+ 
+Figure 1 – Approved Method process flowchart
+NTC certification of 
+engine  
+SO establishes from 
+CP if AM is CA 
+Agrees 
+Rejects 
+Accepts 
+Yes 
+No 
+a) AM not CA 
+Yes 
+No 
+Yes 
+No 
+CP review of SO application 
+SO application to CP for  
+non-applicability of specific AM 
+SO checks if all detailed AM parameters apply 
+SO checks if core AM parameters apply 
+Informs IMO approved 
+at date 'A' Not approved 
+AM developed 
+AM Developer 
+IMO Circ issued 
+AM does not apply AM does apply 
+SO documents AM is not CA 
+SA review SO installs AM 
+Disagrees 
+SO action before next 
+Annual Survey 
+Key: 
+SO      Shipowner 
+AM     Approved Method
+---
+SOURCE: MEPC.243(66).pdf
+URL: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.243(66).pdf
+SA review SO installs AM 
+Disagrees 
+SO action before next 
+Annual Survey 
+Key: 
+SO      Shipowner 
+AM     Approved Method 
+AMC   AM Certifying Administration 
+SA      Ship's Administration 
+CP      Contact Point 
+CA      Commercially available 
+NTC   NOx Technical Code  
+Note: Maximum period 'A' to 'B' (first pass in case of not CA) – first Renewal Survey after 'A + 12 months' 
+SO decides on compliance route 
+Shipowner 
+AMC reviews AM 
+AMC review of CP finding 
+SO provides information to CP for AM File 
+AMC authentication AM File 
+ Reg 13.7.1.2 
+ Reg 13.7.1.1 - AM 
+SA agrees that AM is applicable  
+b) Verifies by survey that AM installed c) Initial survey SA survey - IAPP Cert. Supplement duly completed 'B': 
+SA agrees with AMC finding and issues non-
+applicability documentation  
+Engines > 5MW & ≥90 l/cyl installed on ships constructed 1.1.1990 to 31.12.1999 
+RESOLUTION MEPC.243(66) 
+Adopted on 4 April 2014 
+2014 GUIDELINES ON THE APPROVED METHOD PROCESS
+---
