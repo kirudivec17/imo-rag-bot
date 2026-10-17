@@ -1,4 +1,4 @@
-name: Build 1000+ ALL IMO
+name: Build 1000+ ALL IMO - Phase 2 MEPC+Assembly
 on:
   workflow_dispatch:
 permissions:
@@ -15,19 +15,19 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests pypdf langchain-text-splitters --quiet
-      - name: Build FAST 50-100
+      - name: Build Phase 2 MEPC Assembly
         run: |
           python - << 'PY'
           import os, re, concurrent.futures, urllib.parse, requests, glob, random
           from pypdf import PdfReader
           from langchain_text_splitters import RecursiveCharacterTextSplitter
-          s = requests.Session()
+          s=requests.Session()
           s.headers.update({"User-Agent":"Mozilla/5.0"})
-          splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
+          splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
 
-          all_txt_files = glob.glob('**/master_imo_all_public_part*.txt', recursive=True)
-          existing = set(); total_chunks=0; max_part=-1
-          for fn in all_txt_files:
+          all_txt=glob.glob('**/master_imo_all_public_part*.txt', recursive=True)
+          existing=set(); total_chunks=0; max_part=-1
+          for fn in all_txt:
               try:
                   txt=open(fn, encoding='utf-8', errors='ignore').read()
                   total_chunks+=txt.count('---')
@@ -38,34 +38,34 @@ jobs:
           print(f"Before: {len(existing)} PDFs, max_part={max_part}")
 
           urls=[]
-          base="https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions"
-          # HIGH HIT LIST - sirf valid sessions
-          # MSC ke liye sahi session mapping
-          for n in range(1, 600):
-              # MSC 1-200 mostly 60-80 session me
-              if n < 200: sess_list=[60,61,62,63,64,65,66,67,68,70,72,73,74,75,76,78,80,82]
-              # MSC 200-400 mostly 80-100
-              elif n < 400: sess_list=[80,81,82,83,84,85,86,88,90,92,94,96,98,100,102,104,106]
-              else: sess_list=[96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112]
-              for sess in sess_list: urls.append(f"{base}/MSCResolutions/MSC.{n}({sess}).pdf")
+          # --- MEPC ke sahi paths - ye wale pehle try nahi kiye the ---
+          for n in range(1, 400):
+              for sess in range(40, 85):
+                  urls.append(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCResolutions/MEPC.{n}({sess}).pdf")
+                  urls.append(f"https://wwwcdn.imo.org/localresources/en/OurWork/Environment/PollutionPrevention/MEPC/MEPC.{n}({sess}).pdf")
+                  urls.append(f"https://www.imo.org/en/OurWork/Environment/PollutionPrevention/MEPC/MEPC.{n}({sess}).pdf")
 
-          # MEPC high hit
-          for n in range(1, 350):
-              if n < 100: sess_list=[40,45,50,55,60,65,70,72,74,76]
-              else: sess_list=[70,71,72,73,74,75,76,77,78,79,80,81,82,83,84]
-              for sess in sess_list: urls.append(f"{base}/MEPCResolutions/MEPC.{n}({sess}).pdf")
+          # --- Assembly ke sahi paths ---
+          for n in range(1, 1200):
+              for sess in [22,23,24,25,26,27,28,29,30,31,32,33]:
+                  urls.append(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyResolutions/A.{n}({sess}).pdf")
+                  urls.append(f"https://www.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyResolutions/A.{n}({sess}).pdf")
+
+          # --- LEG / MSC-MEPC Circulars ---
+          for n in range(1, 200):
+               urls.append(f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/LegResolutions/LEG.{n}(100).pdf")
 
           random.shuffle(urls)
-          new_urls=[u for u in urls if urllib.parse.unquote(u.split('/')[-1]) not in existing][:4000]
+          new_urls=[u for u in urls if urllib.parse.unquote(u.split('/')[-1]) not in existing][:5000]
           print(f"NEW to try: {len(new_urls)}")
 
           def dl(url):
               try:
-                  r=s.get(url, timeout=12)
-                  if r.status_code!=200 or len(r.content)<3000 or r.content[:4]!=b'%PDF': return None
+                  r=s.get(url, timeout=15)
+                  if r.status_code!=200 or len(r.content)<3000 or b'%PDF' not in r.content[:10]: return None
                   open('/tmp/t.pdf','wb').write(r.content)
                   reader=PdfReader('/tmp/t.pdf')
-                  text="".join([(p.extract_text() or "") for p in reader.pages[:5]])
+                  text="".join([(p.extract_text() or "") for p in reader.pages[:6]])
                   if len(text)<100: return None
                   fname=urllib.parse.unquote(url.split('/')[-1])
                   out=""
@@ -88,9 +88,9 @@ jobs:
               next_file=f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt"
               os.makedirs("imo-rag-bot", exist_ok=True)
               open(next_file,'w', encoding='utf-8').write(combined)
+
           total_unique=len(existing)+len(results)
-          total_chunks_new=total_chunks+sum([c[1].count('---') for c in results])
-          summary_text=f"Processed till {total_unique+1000}\nTotal Unique PDFs: {total_unique}\nTotal Chunks: {total_chunks_new}\nLast Batch New: {len(results)}\n"
+          summary_text=f"Processed till {total_unique+1000}\nTotal Unique PDFs: {total_unique}\nTotal Chunks: {total_chunks+len(results)*5}\nLast Batch New: {len(results)}\n"
           open('imo_public_summary.txt','w').write(summary_text)
           open('imo-rag-bot/imo_public_summary.txt','w').write(summary_text)
           print(f"FINAL: {total_unique} PDFs")
@@ -100,5 +100,5 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add -A
-          git commit -m "high hit 50-100" || true
+          git commit -m "phase2 mepc assembly" || true
           git push || true
