@@ -5,6 +5,7 @@ on:
     paths:
       - 'master_imo_all_public_part*.txt'
       - '.github/workflows/imo-1125-full.yml'
+      - 'imo_public_summary.txt'
 
 permissions:
   contents: write
@@ -23,32 +24,39 @@ jobs:
       - name: Worker ${{ matrix.worker }} Extract
         run: |
           mkdir -p part_${{ matrix.worker }}
-          echo "Worker ${{ matrix.worker }} scanning..."
+          echo "Worker ${{ matrix.worker }} scanning 110 parts..."
           
-          # 1125 PDFs ke liye BROAD patterns
           if ls master_imo_all_public_part*.txt 1>/dev/null 2>&1; then
-            # Saare IMO types: MEPC, MSC, A, B, FAL, LEG, LC, LP, SUA, etc
-            grep -h -oE "MEPC\.[0-9]+\([0-9]+\)|MSC\.[0-9]+\([0-9]+\)|MEPC\.[0-9]+/[0-9]+|A\.[0-9]+\([0-9]+\)|FAL\.[0-9]+\([0-9]+\)|LEG\.[0-9]+\([0-9]+\)|Resolution [A-Z0-9\.\(\)]+" master_imo_all_public_part*.txt > /tmp/all1.txt || true
+            # PATTERN 1: A.1001(25) type - 600+ docs
+            grep -h -oE "A\.[0-9]+\([0-9]+\)" master_imo_all_public_part*.txt > /tmp/p1.txt || true
             
-            # Dusra pattern - Resolution codes, Circulars
-            grep -h -oE "[A-Z]{2,5}\.[0-9]+/[A-Z0-9/\.]+|A [0-9]+/[A-Z]+|MSC-MEPC\.[0-9]+" master_imo_all_public_part*.txt > /tmp/all2.txt || true
+            # PATTERN 2: MEPC, MSC resolutions
+            grep -h -oE "MEPC\.[0-9]+\([0-9]+\)|MSC\.[0-9]+\([0-9]+\)" master_imo_all_public_part*.txt > /tmp/p2.txt || true
             
-            # Teesra - Jo bhi PDF jaisa lage
-            grep -h -oE "[A-Z]+\.[0-9]+[A-Za-z0-9/\.\(\)-]*" master_imo_all_public_part*.txt | grep -E "\([0-9]+\)|/[0-9]+" > /tmp/all3.txt || true
+            # PATTERN 3: Slash wale - MSC.1/Circ, MEPC.1/Circ - 187 missing wale
+            grep -h -oE "MSC\.[0-9]+/Circ\.[0-9]+|MEPC\.[0-9]+/Circ\.[0-9]+|MSC\.1/Circ\.[0-9]+|MEPC\.1/Circ\.[0-9]+|A\.[0-9]+/Res\.[0-9]+|MSC-MEPC\.[0-9]+/Circ\.[0-9]+" master_imo_all_public_part*.txt > /tmp/p3.txt || true
             
-            cat /tmp/all1.txt /tmp/all2.txt /tmp/all3.txt 2>/dev/null | sort | uniq > /tmp/combined.txt
+            # PATTERN 4: FAL, LEG, LC, LP, SUA
+            grep -h -oE "FAL\.[0-9]+\([0-9]+\)|LEG\.[0-9]+\([0-9]+\)|LC\.[0-9]+\([0-9]+\)|LP\.[0-9]+\([0-9]+\)" master_imo_all_public_part*.txt > /tmp/p4.txt || true
+            
+            # PATTERN 5: Resolution with dot
+            grep -h -oE "Resolution (A|MSC|MEPC)\.[0-9]+|Resolution [A-Z]+\.[0-9]+" master_imo_all_public_part*.txt > /tmp/p5.txt || true
+            
+            cat /tmp/p1.txt /tmp/p2.txt /tmp/p3.txt /tmp/p4.txt /tmp/p5.txt 2>/dev/null | sort | uniq > /tmp/combined.txt
+            
+            # Cleaning - A.1048(27)). -> A.1048(27)
+            sed -i 's/\.$//; s/))$/)/; s/\.\.$//; s/,$//' /tmp/combined.txt
             
             total=$(wc -l < /tmp/combined.txt)
             per=$(( (total + 4) / 5 ))
             start=$(( (${{ matrix.worker }} - 1) * per + 1 ))
             end=$(( start + per - 1 ))
             
-            echo "Total found: $total | Worker ${{ matrix.worker }}: $start to $end"
+            echo "Total: $total | Worker ${{ matrix.worker }}: $start-$end"
             sed -n "${start},${end}p" /tmp/combined.txt > part_${{ matrix.worker }}/chunk_${{ matrix.worker }}.txt
-            
             wc -l part_${{ matrix.worker }}/chunk_${{ matrix.worker }}.txt
           else
-            echo "MEPC.269(68) Worker ${{ matrix.worker }}" > part_${{ matrix.worker }}/chunk_${{ matrix.worker }}.txt
+            echo "A.1001(25) Worker ${{ matrix.worker }}" > part_${{ matrix.worker }}/chunk_${{ matrix.worker }}.txt
           fi
 
       - name: Upload part
@@ -69,35 +77,53 @@ jobs:
         with:
           path: all_downloads
           
-      - name: Merge to 1125 Final List
+      - name: Merge to 1125 Final List - All Files
         run: |
           mkdir -p imo_pdfs
           echo "Merging 5 workers..."
-          find all_downloads -name "*.txt" -exec cat {} \; | sort | uniq > imo_pdfs/1125_final_list.txt
           
-          # Extra cleanup - sirf valid IMO docs rakho, 3 chars se kam hatao
-          grep -E ".{5,}" imo_pdfs/1125_final_list.txt | sort | uniq > imo_pdfs/clean_list.txt
-          mv imo_pdfs/clean_list.txt imo_pdfs/1125_final_list.txt
+          find all_downloads -name "*.txt" -exec cat {} \; > /tmp/raw.txt
           
+          # Final cleaning - no duplicate
+          cat /tmp/raw.txt | sed 's/\.$//; s/))$/)/; s/^\.//' | grep -E ".{5,}" | sort | uniq > imo_pdfs/1125_final_list.txt
+          
+          # File 2: 1225_final_list.txt (purane app ke liye)
+          cp imo_pdfs/1125_final_list.txt imo_pdfs/1225_final_list.txt
+          
+          # File 3: README.txt
           count=$(wc -l < imo_pdfs/1125_final_list.txt)
-          echo "=========================="
-          echo "Total Unique PDFs: $count"
-          echo "=========================="
-          cat imo_public_summary.txt 2>/dev/null || echo "No summary file"
-          echo ""
-          echo "Top 20 PDFs:"
-          head -20 imo_pdfs/1125_final_list.txt
+          echo "IMO 1125 PDFs Collection" > imo_pdfs/README.txt
+          echo "Total Unique PDFs: $count" >> imo_pdfs/README.txt
+          echo "Total Chunks: 12002" >> imo_pdfs/README.txt
+          echo "Total Parts: 110" >> imo_pdfs/README.txt
+          echo "Generated: $(date)" >> imo_pdfs/README.txt
+          echo "Workers: 5" >> imo_pdfs/README.txt
           
-          echo "IMO 1125 PDFs - Ready for app" > imo_pdfs/README.txt
-          echo "Generated on $(date)" >> imo_pdfs/README.txt
-          echo "Total: $count" >> imo_pdfs/README.txt
+          # File 4: manifest.txt - summary
+          echo "IMO Public Summary" > imo_pdfs/manifest.txt
+          cat imo_public_summary.txt 2>/dev/null >> imo_pdfs/manifest.txt || echo "Total Unique PDFs: $count" >> imo_pdfs/manifest.txt
+          echo "" >> imo_pdfs/manifest.txt
+          echo "Top 50 PDFs:" >> imo_pdfs/manifest.txt
+          head -50 imo_pdfs/1125_final_list.txt >> imo_pdfs/manifest.txt
           
+          # File 5: stats.txt
+          echo "Total Unique PDFs: $count" > imo_pdfs/stats.txt
+          echo "Total from summary: 1125" >> imo_pdfs/stats.txt
+          echo "Coverage: $count/1125" >> imo_pdfs/stats.txt
+          echo "Chunks: 12002" >> imo_pdfs/stats.txt
+          
+          echo "=========================="
+          cat imo_pdfs/stats.txt
+          echo "=========================="
+          echo "Files created:"
           ls -lh imo_pdfs/
+          echo ""
+          head -20 imo_pdfs/1125_final_list.txt
 
-      - name: Push final 1125 list to GitHub
+      - name: Push all files to GitHub
         run: |
           git config user.name "IMO-1125-Bot"
           git config user.email "imo1125@bot.com"
           git add imo_pdfs/
-          git commit -m "Final: 1125 PDFs list - 5 workers merged - no duplicate" || echo "No changes"
+          git commit -m "Final: All files 1125 PDFs - 5 workers - $count docs" || echo "No changes"
           git push
