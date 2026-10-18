@@ -1,66 +1,70 @@
-name: Rebuild 1125 PDFs - 5 Workers
+name: Rebuild 1125 PDFs - No Ingest
 
 on:
   workflow_dispatch:
 
 jobs:
-  clean:
+  build-1125:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - run: |
-          rm -rf imo_pdfs
-          mkdir -p imo_pdfs
-
-  build:
-    needs: clean
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        worker_id: [0, 1, 2, 3, 4]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
-      - name: Fix old model name - 005 to 004
+      - name: Install only PDF lib
+        run: pip install fpdf2 pypdf
+
+      - name: Create 1125 PDFs from 13 master parts
         run: |
-          sed -i 's/text-embedding-005/text-embedding-004/g' imo-rag-bot/ingest.py || true
-          sed -i 's/text-embedding-005/text-embedding-004/g' ingest.py || true
-          grep -n "embedding" imo-rag-bot/ingest.py || true
+          python3 << 'PY'
+          import glob, os, re
+          from fpdf import FPDF
+          
+          os.makedirs("imo_pdfs", exist_ok=True)
+          
+          # 13 master parts padho
+          all_text = ""
+          for f in sorted(glob.glob("master_imo_all_public_part*.txt")):
+              with open(f, "r", encoding="utf-8", errors="ignore") as fp:
+                  all_text += fp.read() + "\n"
+          
+          # Agar tumhare file me IMO_DOC_ se doc start hota hai toh usse split karo
+          # Nahi toh har chunk ko alag PDF banao - ye 1125 me divide karega
+          docs = re.split(r'IMO_DOC_', all_text)
+          # Pehla empty hoga
+          if len(docs) < 100:
+              # Agar delimiter nahi mila toh 12000 chunks ko 1125 me baanto
+              lines = all_text.splitlines()
+              chunk_size = len(lines)//1125 + 1
+              docs = ['\n'.join(lines[i:i+chunk_size]) for i in range(0, len(lines), chunk_size)]
+          
+          print(f"Total docs found: {len(docs)}")
+          
+          count = 0
+          for idx, content in enumerate(docs):
+              if not content.strip(): continue
+              if idx==0 and len(docs)>1000: content=content # first doc
+              count+=1
+              if count>1125: break
+              # PDF banao - full page, no gap
+              pdf = FPDF()
+              pdf.set_auto_page_break(auto=True, margin=15)
+              pdf.add_page()
+              pdf.set_font("Arial", size=10)
+              # Safe text
+              safe = content.encode('latin-1', 'ignore').decode('latin-1')
+              pdf.multi_cell(0, 5, safe)
+              pdf.output(f"imo_pdfs/IMO_DOC_{count:04d}.pdf")
+          
+          print(f"Created {count} PDFs in imo_pdfs/")
+          PY
 
-      - name: Install deps
+      - name: Commit PDFs
         run: |
-          pip install --upgrade pip
-          if [ -f imo-rag-bot/requirements.txt ]; then pip install -r imo-rag-bot/requirements.txt; fi
-          pip install numpy tqdm pypdf google-genai
-
-      - name: Run worker ${{ matrix.worker_id }}
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GOOGLE_GENAI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python imo-rag-bot/ingest.py --worker-id ${{ matrix.worker_id }} --workers 5
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: pdfs-${{ matrix.worker_id }}
-          path: imo_pdfs/
-
-  merge:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
-        with:
-          path: imo_pdfs/
-          merge-multiple: true
-      - run: |
+          ls imo_pdfs | wc -l
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add imo_pdfs/
-          git commit -m "Final 1125 PDFs" || true
+          git commit -m "1125 PDFs rebuilt without ingest" || true
           git push
