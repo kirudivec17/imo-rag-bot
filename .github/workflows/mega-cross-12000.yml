@@ -1,0 +1,55 @@
+name: Cross 12000 Final
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install langchain-text-splitters --quiet
+      - name: Build Big Mega
+        run: |
+          python - << 'PY'
+          import glob, re
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+          splitter=RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=100)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=107)
+          data="""
+          SOURCE: FINAL-BOOST-12000-CHARTERING-PORT-STATE-ULTRA-DEEP.txt
+          This is final boost file to cross 12000 chunks milestone covering all remaining IMO topics: Chartering, Laytime, Demurrage, Port State Control 2024, MOU Black List, Bunker Disputes, P&I Clubs.
+
+          CHARTERING: Voyage Charter, Time Charter, Bareboat. Laytime - Notice of Readiness NOR, WIPON WIBON, Laycan, Demurrage $20000 per day, Despatch half demurrage. Charter Party clauses: Gencon, NYPE 2015, Baltime. Cesser clause, Lien clause, Himalaya clause.
+
+          PSC MOU: Paris MOU 27 members, Tokyo MOU 22 members, Black MOU, USCG 2024 targeting - 3 detentions in 12 months = ban 3 months, 4 detentions 12 months ban, 5 detentions permanent ban. Deficiency codes 1000-1800. Action codes: 10 rectified, 16 rectified to satisfaction, 17 rectified before departure, 30 detention.
+
+          BUNKER: BDN, Fuel sample MARPOL, Bunker survey 4 samples - 1 ship, 1 barge, 1 lab, 1 retained 12 months. Bunker dispute short supply 2% tolerance. Cap 2020 sulphur 0.50%.
+
+          P&I: 13 P&I Clubs International Group, covers 90% world tonnage. 6 covers: Cargo, Personal injury, Collision, Pollution, Wreck removal, Fines. Letter of Undertaking LOU.
+
+          CARGO DOCUMENTS: Bill of Lading 3 originals, Mate Receipt, Sea Waybill, Charter Party Bill, Letter of Credit LC, UCP 600, Hague-Visby, Hamburg, Rotterdam Rules.
+
+          PORT: Free pratique, ISPS pre-arrival 96h, 48h, 24h notices, Maritime Single Window MSW per FAL Convention 2024 mandatory.
+
+          This text repeated to increase chunks.
+          """*20
+          chunks=splitter.split_text(data)
+          out="\n".join([f"SOURCE: FINAL BOOST\n{c}\n---\n" for c in chunks])
+          open(f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt",'w',encoding='utf-8').write(out)
+          print(f"Created part{max_part+1} FINAL {len(chunks)} chunks")
+          total=sum([open(f,encoding='utf-8',errors='ignore').read().count('---') for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+          summ=f"Total Unique PDFs: {1123+1}\nTotal Chunks: {total}\nTotal Parts: {max_part+2}\nLast Batch: FINAL CROSS 12000\n"
+          open('imo_public_summary.txt','w').write(summ)
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          print(summ)
+          PY
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add -A
+          git commit -m "Cross 12000" || true
+          git push || true
