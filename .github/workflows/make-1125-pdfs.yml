@@ -8,12 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Delete only bad PDFs - Keep 13 master parts safe
-        run: |
+      - run: |
           rm -rf imo_pdfs
           mkdir -p imo_pdfs
-          echo "Old IMO_DOC PDFs deleted"
-          ls master_imo_all_public_part*.txt | wc -l
 
   build:
     needs: clean
@@ -27,22 +24,22 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Install all deps - FINAL FIX
+      - name: Install deps
         run: |
           pip install --upgrade pip
-          # root me requirements hai to
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          # tumhare repo me imo-rag-bot folder me hai to
           if [ -f imo-rag-bot/requirements.txt ]; then pip install -r imo-rag-bot/requirements.txt; fi
-          # saare missing modules ek saath install - fail nahi hoga
-          pip install numpy tqdm pypdf faiss-cpu openai tiktoken langchain langchain-community sentence-transformers
+          pip install numpy tqdm pypdf google-genai
 
       - name: Run worker ${{ matrix.worker_id }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_GENAI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python imo-rag-bot/ingest.py --worker-id ${{ matrix.worker_id }} --workers 5 || python ingest.py --worker-id ${{ matrix.worker_id }} --workers 5 || python ingest.py
+          python imo-rag-bot/ingest.py --worker-id ${{ matrix.worker_id }} --workers 5 || python ingest.py --worker-id ${{ matrix.worker_id }} --workers 5
 
-      - name: Upload PDFs
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
           name: pdfs-${{ matrix.worker_id }}
           path: imo_pdfs/
@@ -56,11 +53,9 @@ jobs:
         with:
           path: imo_pdfs/
           merge-multiple: true
-      - name: Commit final PDFs
-        run: |
-          ls imo_pdfs | wc -l
+      - run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add imo_pdfs/
-          git commit -m "Final 1125 PDFs - 5 workers" || echo "no changes"
+          git commit -m "Final 1125 PDFs - 5 workers" || true
           git push
