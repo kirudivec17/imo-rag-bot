@@ -1,5 +1,4 @@
-Total Unique PDFs: 1091
-Total Chunks: 11026
-Total Parts: 67
-Avg chunks/PDF: 10
-Status: MSC+MEPC+Assembly COMPLETE (1293 is MAX public resolutions)
+Total Unique PDFs: 1098
+Total Chunks: 11041
+Total Parts: 82
+Last Batch: MEGA IMO 2000 - FSS LSA FTP ISPS ISM + SOLAS2024 + ModelCourses + USCG NVIC
