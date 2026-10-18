@@ -13,7 +13,6 @@ jobs:
           rm -rf imo_pdfs
           mkdir -p imo_pdfs
           echo "Old IMO_DOC PDFs deleted"
-          echo "13 master parts safe - not deleted"
           ls master_imo_all_public_part*.txt | wc -l
 
   build:
@@ -28,16 +27,15 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Install all dependencies - FIXED
+      - name: Install all deps - FINAL FIX
         run: |
           pip install --upgrade pip
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            pip install numpy pypdf faiss-cpu openai tiktoken
-          fi
-          # numpy ke liye extra sure
-          pip install numpy
+          # root me requirements hai to
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # tumhare repo me imo-rag-bot folder me hai to
+          if [ -f imo-rag-bot/requirements.txt ]; then pip install -r imo-rag-bot/requirements.txt; fi
+          # saare missing modules ek saath install - fail nahi hoga
+          pip install numpy tqdm pypdf faiss-cpu openai tiktoken langchain langchain-community sentence-transformers
 
       - name: Run worker ${{ matrix.worker_id }}
         run: |
@@ -64,5 +62,5 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add imo_pdfs/
-          git commit -m "Final 1125 PDFs - 5 workers - full page no gap" || echo "no changes"
+          git commit -m "Final 1125 PDFs - 5 workers" || echo "no changes"
           git push
