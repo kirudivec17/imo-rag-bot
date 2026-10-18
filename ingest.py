@@ -1,43 +1,56 @@
-import os, fitz, chromadb
-import google.generativeai as genai
+import os
+import json
+import numpy as np
+from pypdf import PdfReader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from google import genai
 from dotenv import load_dotenv
+from tqdm import tqdm
 
 load_dotenv()
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-CHROMA_PATH = "./chroma_db"
-PDF_FOLDER = "./imo_pdfs"  # tumhare 1125 PDFs ka folder
-EMBEDDING_MODEL = "models/text-embedding-005"  # Gemini 2.5 latest
+PDF_FOLDER = "./imo_pdfs"  # yaha tumhare 1125 PDFs
+EMBEDDING_MODEL = "text-embedding-005"
+OUTPUT_EMB = "embeddings.npy"
+OUTPUT_META = "metadata.json"
 
-client = chromadb.PersistentClient(path=CHROMA_PATH)
-collection = client.get_or_create_collection("imo_docs")
+splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
 
-for file in os.listdir(PDF_FOLDER):
-    if not file.endswith(".pdf"): continue
-    path = os.path.join(PDF_FOLDER, file)
-    doc = fitz.open(path)
-    for page_num in range(len(doc)):
-        page = doc[page_num]
-        text = page.get_text().strip()
-        if len(text) < 50: continue
+all_embeddings = []
+all_metadata = []
+
+for pdf_file in tqdm(os.listdir(PDF_FOLDER)):
+    if not pdf_file.endswith(".pdf"):
+        continue
+    path = os.path.join(PDF_FOLDER, pdf_file)
+    reader = PdfReader(path)
+    
+    for page_num, page in enumerate(reader.pages, start=1):
+        text = page.extract_text()
+        if not text or len(text.strip()) < 50:
+            continue
         
-        emb = genai.embed_content(
-            model=EMBEDDING_MODEL,
-            content=text,
-            task_type="retrieval_document"
-        )["embedding"]
-        
-        collection.add(
-            ids=[f"{file}_{page_num}"],
-            embeddings=[emb],
-            documents=[text],
-            metadatas=[{
-                "file_name": file,
-                "page_number": page_num + 1,
-                "full_path": path,
-                "page_preview": text[:200]
-            }]
-        )
-        print(f"Added {file} Page {page_num+1}")
+        chunks = splitter.split_text(text)
+        for chunk in chunks:
+            # Gemini 2.5 embedding - new SDK
+            resp = client.models.embed_content(
+                model=EMBEDDING_MODEL,
+                contents=chunk
+            )
+            emb = resp.embeddings[0].values
+            
+            all_embeddings.append(emb)
+            all_metadata.append({
+                "pdf_name": pdf_file,
+                "page": page_num,
+                "text": chunk,
+                "source_label": f"IMO Resolution {pdf_file} — Page {page_num}"
+            })
 
-print("Done - 1125 PDFs indexed with Gemini 2.5 embedding 005")
+# Save
+np.save(OUTPUT_EMB, np.array(all_embeddings))
+with open(OUTPUT_META, "w", encoding="utf-8") as f:
+    json.dump(all_metadata, f, ensure_ascii=False, indent=2)
+
+print(f"Done: {len(all_embeddings)} chunks from {len(os.listdir(PDF_FOLDER))} PDFs")
