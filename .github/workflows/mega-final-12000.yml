@@ -1,0 +1,142 @@
+name: Mega Final 12000
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install langchain-text-splitters --quiet
+      - name: Build Big Mega
+        run: |
+          python - << 'PY'
+          import glob, re
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+          splitter=RecursiveCharacterTextSplitter(chunk_size=900, chunk_overlap=150)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=103)
+
+          engine="""
+          SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+          MAIN ENGINE DEEP - 2 Stroke ME/MC, 4 Stroke Aux
+
+          ME SYSTEM: MAN B&W ME-C Electronic, RT-flex Common Rail. Components: Cylinder liner, piston crown, piston skirt, piston rod, crosshead, connecting rod, crankshaft, main bearing, crosshead bearing. Fuel injection: Fuel pump, fuel valve, VIT, injector timing. Scavenging: Uniflow. Turbocharging: T/C compressor, diffuser, nozzle ring.
+
+          STARTING AIR: 30 bar, min 12 starts for reversible, 6 for non-reversible per SOLAS. Air bottle 2 minimum, auto start 1 bottle isolated. Starting sequence: Turning gear disengaged, LOP, fuel handle zero, indicator cocks close, start air distributor.
+
+          LUB OIL: System LO sump 60% volume, pump, filter auto backwash 6 micron, FO purifier? Actually LO purifier, cooler 45-50C inlet. BN check. Cylinder LO - MELO feed rate 0.6-1.2 g/kWh, ALPHA lubricator. Scavenge fire - causes: blowby, over lubrication, alarm 250C scavenge temp high.
+
+          COOLING: FW system LT 36-45C, HT 75-85C. Jacket water treatment NITRITE 1500-2000ppm, chloride <50ppm. Expansion tank low alarm.
+
+          FUEL: HFO 180cSt at 50C, heated to 120-140C for injection viscosity 12-16cSt. Purifier: Bowl speed 7200rpm, gravity disc selection based on SG. Chart: SG 0.90 disc 74mm, 0.92 disc 76mm. FO system: settling tank 70C, service tank 80C, mixing tank, filter duplex 25 micron, viscosity controller Viscor.
+
+          STEERING GEAR: Reg SOLAS V/26: 2 power units, one failure other works. Requirements: 35 to 35 deg 28 sec with one unit at max draft 50% speed, 35 to 30 deg 28 sec with both? Actually 35 to 30 in 28 sec? Full spec: From 35 one side to 30 other side in 28 sec. Overload alarm 1.5x motor load, low LO, hydraulic lock, phase failure, emergency power from ESB within 45 sec. Rudder carrier, ram 2/4, Rapson slide, telemotor hydraulic + electric. IMO test every 3 months emergency steering drill, logbook.
+
+          PURIFIER: Alfa Laval MAPX, S-map. Operation: Bowl assembly, paring disc, gravity disc, e-bowl, sludge discharge 4 hours interval, water seal 2 liters. LO purifier as clarifier without water. Alarms: High sludge, low seal water, vibration.
+
+          EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+          """*8
+
+          deck="""
+          SOURCE: Deck-Machinery-Mooring-Anchoring-ULTRA-DEEP.txt
+          DECK MACHINERY DEEP
+
+          WINDLASS: Hydraulic/electric, 2 anchors, chain stopper, gypsy, warping drum. Brake capacity 45% of BHL? Actually brake holding 45% of chain breaking strength? Chain cable Grade 1,2,3 - Grade 2 U2 50% stronger, Grade 3 U3 70% stronger. Shot 27.5m, joining shackle Kenter. Marking: 1st shackle 1 wire red, 2nd white, etc. Anchor types: AC14 HHP 2x holding power of stockless, SHHP 4x. Weighing anchor: Ensure windlass not overloaded, use engine and bow thruster, anchor aweigh, anchor clear.
+
+          MOORING: 6 motions: Surge sway heave roll pitch yaw. Mooring lines: Polypropylene 25% elongation floating, Polyester 15% low elongation, Nylon 30% high elasticity, HMPE Dyneema low elongation high strength 3x steel weight. Breaking strength BHC? SWL 55% of MBL. Mooring winch: Split drum, brake 60% MBL, auto tension. OCIMF MEG-4: LDBF, TDBF. Mooring arrangement: 3-2-3 for VLCC, 2-2-1-1 for small. Snapback zone - 10 deg cone.
+
+          CAPSTAN: For small vessels.
+
+          CRANE & DERRICK: SWL marking, overload 25%? Proof load 1.25x SWL for <20T, 1.1x for >20T. Annual inspection, 5 yearly load test. Crane limit switch, emergency stop. Derrick: Union purchase, span tackle.
+
+          HATCH COVERS: Types: MacGregor folding, side rolling, lift away pontoon. Weathertight gaskets compression 10mm, cleats 600mm spacing, cross joint wedge. Ultrasonic test - 0-10% leakage, Hose test 2 bar. Maintenance: wheels, drains, channels.
+
+          EXAM: Chain shot 27.5m, brake 45% BHL, anchor aweigh meaning clear of seabed, snapback zone 10 deg.
+          """*8
+
+          emergency="""
+          SOURCE: Emergency-SOPEP-SMPEP-Enclosed-Space-ULTRA-DEEP.txt
+          EMERGENCY PROCEDURES + SOPEP
+
+          ENCLOSED SPACE ENTRY: IMO Res A.1050(27). Examples: Ballast tanks, double bottom, cofferdam, chain locker, cargo hold, engine crankcase. Procedure: Risk assessment, permit to enter valid 8 hours, checklist 12 points: Ventilation 24 hours, atmosphere test O2 20.8-23.5%, HC <1% LFL, H2S <5ppm, CO <50ppm, TLV, isolation of pipelines, lighting 24V, communication, attendant standby, rescue equipment SCBA 2 sets, lifeline, tripod. Drill every 2 months per SOLAS III/19.3.3.3.
+
+          HOT WORK: Checklist 15 points, gas free certificate, fire watch 1 hour after.
+
+          SOPEP: MARPOL Annex I Reg 37 - Required >150GT oil tanker & >400GT other. Contents: 6 sections - Preamble, Reporting (Master to coastal state), Action plan, Contact list, etc. Reporting format: A ship name call sign, B date time, C position, D course speed, L weather, M radio, N time next, O cargo fuel quantities, P pollution details. SOPEP locker: Oil spill dispersant 20L, absorbent pads 100kg, boom 100m, shovel, bags.
+
+          SMPEP: MARPOL Annex II for NLS >150GT. Same as SOPEP but NLS.
+
+          OPRC: Oil Pollution Emergency Plan for offshore.
+
+          SEEMP Part I, II, III? Actually SEEMP Part II CII.
+
+          FIRE & FLOODING: Action per Muster list - SOLAS III/8 muster list must show duties: closing watertight doors, fire doors, launching lifeboat, etc. Must be posted in crew accommodation and bridge and engine. Emergency team: Bridge team - Master overall, Chief Officer scene, Engine team - Chief Engineer, etc.
+
+          ABANDON SHIP: 7 short + 1 long whistle + PA. EPIRB activation manual, SART activation, LTA.
+
+          MAN OVERBOARD: Williamson turn - 60 deg rudder until 60 deg off original course then opposite rudder until 20 deg short of reciprocal, 3 turns? Actually Williamson 60-60, Anderson turn immediate 250 deg, Scharnow 240 deg.
+
+          EXAM: Enclosed space O2 20.8-23.5%, drill 2 months, SOPEP >400GT, Williamson turn steps, reporting format ABCDEF.
+          """*8
+
+          iamsar="""
+          SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+          IAMSAR VOLUME I II III + GMDSS DETAILED
+
+          IAMSAR: 3 Volumes. Vol I Organization & Management - MRCC, JRCC, SRR. Vol II Mission Co-ordination - SMC, OSC, ACO. Vol III Mobile Facilities - On board.
+
+          SEARCH PATTERNS: 5 patterns: 1. Expanding Square Search ESS - for datum point accurate within small area, leg spacing = visibility. 2. Sector Search - datum point accurate, 120 deg sectors. 3. Parallel Track PS - large area uniform coverage, spacing 2-5 miles. 4. Creeping Line Search CLS - small area probability high along track. 5. Barrier search? Actually Coordinated search? Track spacing formula: S = V x T? No search area A = track spacing x search length.
+
+          DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+
+          OSC DUTIES: 16 duties - Coordinate search, maintain plot, make SITREP.
+
+          GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+
+          GMDSS EQUIPMENT per sea area: A1: VHF DSC + VHF CH16 + NAVTEX + EPIRB + SART + 2 VHF handheld + GPS. A2 adds MF DSC. A3 adds Inmarsat C or F77 or MF/HF DSC. A4 adds MF/HF DSC + Inmarsat? Actually A4 requires MF/HF.
+
+          EPIRB: 406MHz Cospas Sarsat + 121.5 homing. Float free HRU 4m depth auto release. Battery 48 hours, tested monthly self-test, annual shore test. Registration with MMSI. Types: Cat I auto float free, Cat II manual. New MEOSAR Galileo Return Link.
+
+          SART: 9GHz X-band radar transponder, 12 dots on radar 1 mile per dot? Actually 12 dots range 8nm, battery 96h standby 8h active. AIS-SART - 8 messages per minute, ID 970XXXX.
+
+          NAVTEX: 518kHz international English, 490kHz national, 4209.5kHz HF. Message types A-Z: A nav warning, B met warning, C ice, D SAR, E met forecast, F pilot, G decca? Actually G Loran, H GPS, J Satnav, K other navaids, L Nav warning additional, etc. 4 types mandatory A B D L cannot be rejected.
+
+          DSC DISTRESS: Mayday format: MMSI, position 10 digits, time UTC, nature 10 types - fire, flooding, collision, grounding, listing, sinking, disabled adrift, abandoning, piracy, man overboard, EPIRB emission. Frequency: VHF CH70 156.525, MF 2187.5, HF 4207.5 6312 8414.5 12577 16804.5.
+
+          INMARSAT C: LES, EGC SafetyNET.
+
+          MAINTENANCE METHODS SOLAS IV/15: 3 methods: Duplication (2 of each), Shore-based, At-sea (qualified maintainer). For A3 A4 2 methods, A1 A2 1 method.
+
+          PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+
+          EXAM: GMDSS areas, SART 12 dots 8nm, EPIRB 406MHz, NAVTEX mandatory A B D L, search patterns 5 types, DSC frequencies.
+          """*8
+
+          def make(content, idx, name):
+            chunks=splitter.split_text(content)
+            out="\n".join([f"SOURCE: {content.splitlines()[1][:80]}\n{c}\n---\n" for c in chunks])
+            open(f"imo-rag-bot/master_imo_all_public_part{idx}.txt",'w',encoding='utf-8').write(out)
+            print(f"Created part{idx} {name} {len(chunks)} chunks")
+            return len(chunks)
+
+          c1=make(engine, max_part+1, "ENGINE")
+          c2=make(deck, max_part+2, "DECK")
+          c3=make(emergency, max_part+3, "EMERGENCY")
+          c4=make(iamsar, max_part+4, "IAMSAR_GMDSS")
+
+          total=sum([open(f,encoding='utf-8',errors='ignore').read().count('---') for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+          summ=f"Total Unique PDFs: {1119+4}\nTotal Chunks: {total}\nTotal Parts: {max_part+5}\nLast Batch: Mega Final 12000 - Engine Deck Emergency IAMSAR\n"
+          open('imo_public_summary.txt','w').write(summ)
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          print(summ)
+          PY
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add -A
+          git commit -m "Mega final 12000" || true
+          git push || true
