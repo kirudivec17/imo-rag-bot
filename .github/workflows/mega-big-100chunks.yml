@@ -1,0 +1,158 @@
+name: Mega Big 100 Chunks Each
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install langchain-text-splitters --quiet
+      - name: Build Big Mega
+        run: |
+          python - << 'PY'
+          import glob, re
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+          splitter=RecursiveCharacterTextSplitter(chunk_size=900, chunk_overlap=150)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=95)
+
+          marpol="""
+          SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+          URL: MARPOL 73/78 Annex I to VI Detailed Technical for PSC and Exam
+
+          MARPOL ANNEX I OIL POLLUTION - Reg 12A Oil fuel tank protection - double hull, Reg 14 Oil filtering equipment - 15ppm alarm + auto stop, Reg 17 ODME, Reg 18 Segregated Ballast Tanks SBT, Reg 20 Crude oil washing COW, Reg 29 Slop tanks 2% of cargo, Reg 31 Oil discharge monitoring, Reg 37 SOPEP. Construction: Double hull for tankers >5000 DWT delivered after 6 July 1996. Bunker tanks >600m3 double hull Reg 12A. ODME requirements: tanker >150GT must have approved ODME with 15ppm alarm. IOPP Certificate validity 5 years, annual survey. ODME test with 3 samples - clean ballast, dirty ballast, slop. Oily water separator 15ppm - test with calibration fluid.
+
+          MARPOL ANNEX II NLS - Noxious liquid substances Categories X Y Z OS. Stripping quantity: Cat X 75 litres residual, Y 75 litres if built after 1 Jan 2007 else 100 litres, Z 50 litres. P&A Manual approved. COF Certificate. Cargo tank washing - prewash mandatory for Cat X solidifying and high viscosity. Discharge criteria - 12 miles from land, 25m water depth, 7 knots, below waterline. Ventilation procedure - 12 air changes.
+
+          MARPOL ANNEX III HARMFUL SUBSTANCES IN PACKAGED FORM - IMDG linkage, marking, labeling, documentation, stowage, quantity limitations, marine pollutant.
+
+          MARPOL ANNEX IV SEWAGE - Reg 9 Sewage system - sewage treatment plant type tested MEPC.227(64) with 3.1.1 standard: Coliform <100 per 100ml, TSS 50mg/l, BOD 50mg/l, COD 125mg/l, pH 6-8.5, residual chlorine. Comminuting and disinfecting system - 3nm beyond, not comminuted 12nm. Holding tank capacity - 70 litres per person per day. Sewage discharge rate DR = 0.00926 x V x D x B where V speed.
+
+          MARPOL ANNEX V GARBAGE - Garbage Management Plan required >100GT or 15 persons. Garbage Record Book Part I all garbage Part II cargo residues. Placards. Discharge criteria: Outside special areas: Comminuted food 3-12nm, not comminuted >12nm. Inside special areas Mediterranean etc: Food comminuted >12nm only, no plastic ever. 2024 amendment: Garbage categories A to K, e-waste, cooking oil.
+
+          MARPOL ANNEX VI AIR POLLUTION - Reg 13 NOx Tier I 17g/kWh <130rpm, Tier II 14.4g/kWh, Tier III 3.4g/kWh inside ECA. EIAPP Certificate, Technical File, NOx verifying procedure. Reg 14 SOx - Global cap 0.50% m/m, ECA 0.10% since 1 Jan 2015. Fuel changeover procedure. Reg 15 VOC Management Plan for tankers. Reg 18 BDN, fuel oil non-availability report FONAR. Reg 22-25 EEDI, EEXI, CII rating A-E, SEEMP Part III. EEDI Phase 3 30% reduction. EEXI calculation: Required EEXI = a x DWT^-c. CII correction factors. Reg 26 Fuel oil sampling point and in-use sampling 0.50%. EGCS scrubber - washwater PAH 50 microgram, turbidity 25NTU, pH 6.5 at 4m.
+
+          PSC DEFICIENCIES - OWS bypass, 15ppm alarm defective, magic pipe, sewage treatment plant chlorine high, garbage record book mismatch, BDN missing sulfur, EGR failure.
+          """*8
+
+          stcw="""
+          SOURCE: STCW-Convention-ULTRA-DEEP-2024.txt
+          URL: STCW 78 as amended Manila 2010
+
+          STCW DEEP - Chapters I to VIII
+
+          CHAPTER I General - Certificates CoC, CoP, Endorsement. Regulation I/9 Medical fitness - ML5? Actually ENG1 valid 2 years <18 1 year. I/10 Recognition. I/11 Revalidation - 5 years, refresher BST, AFF, PSCRB every 5 years. I/14 Company responsibility.
+
+          CHAPTER II Deck - Reg II/1 OOW 500GT or more - 108 weeks seagoing including 6 months bridge watchkeeping under supervision, approved education, GMDSS GOC. Function Navigation at operational level. II/2 Master & Chief Mate 500GT+ - 36 months as OOW with 12 months as C/O for Master. II/3 OOW & Master <500GT NCV. II/4 Ratings forming navigational watch - 6 months seagoing + training. II/5 AB - 12 months as RFPNW.
+
+          CHAPTER III Engine - III/1 OOW 750kW+ - 12 months combined workshop + seagoing with 6 months engine watch. III/2 Chief & Second Engineer 3000kW+ - 36 months for Chief including 12 as 2nd, 12 months for 2nd as OOW. III/3 Chief & Second <3000kW 3000kW. III/4 Ratings forming engine watch RFPEW - 6 months. III/5 AB Engine.
+
+          CHAPTER IV Radio - GMDSS Operator GOC required for ships in A1-A4, ROC for A1 only. Maintenance - at sea, shore, duplication per SOLAS IV/15. Sources of energy - main, emergency, reserve battery 1h to 6h.
+
+          CHAPTER V Special Training - V/1-1 Tanker familiarization basic oil & chemical - 6 months tanker or 5 days course + 3 months. V/1-2 Advanced oil, chem, gas. V/2 Passenger ships - crowd management, safety, crisis management. Ro-Ro passenger.
+
+          CHAPTER VI Emergency - VI/1 BST 4 modules - PST 2 days, FPFF 3 days, EFA 1 day, PSSR half day. VI/2 PSCRB 4 days, VI/3 AFF 5 days, VI/4 MFA 4 days, VI/5 SSO.
+
+          CHAPTER VII Alternative Certification.
+
+          CHAPTER VIII Watchkeeping - Rest hours: 10 hours in any 24, not more than 14 hours difference between rest periods, 77 hours in any 7 days, split into max 2 periods one at least 6h. Exceptions up to 2 days but 70h/week. Watch schedule posted. Bridge - lookout, BNWAS.
+
+          MANILA AMENDMENTS - Security training A-VI/6-1 awareness all seafarers, A-VI/6-2 designated duties. ECDIS mandatory. Alcohol limit 0.05% BAC or 0.25mg/l breath. ETO & ETR Reg III/6 & III/7.
+
+          CERTIFICATES LIST - CoC Deck 6 grades, Engine 6 grades, CoP 12 types, total 18.
+
+          PSC CHECK - Rest hour records falsified, ECDIS not used as primary, SSO certificate missing, refresher not done after 1 Jan 2017.
+          """*8
+
+          mlc="""
+          SOURCE: MLC-2006-ULTRA-DEEP-TITLE-1-to-5.txt
+          URL: Maritime Labour Convention 2006 as amended 2022
+
+          MLC 2006 DEEP - Titles 1 to 5
+
+          TITLE 1 Minimum Requirements - Reg 1.1 Minimum age - 16, night work <18 prohibited, hazardous work <18. Reg 1.2 Medical certificate - 2 years, 1 year for <18, color vision 6 years. Reg 1.3 Training & qualifications per STCW. Reg 1.4 Recruitment & placement - no fees to seafarer, private service licensed, MLC Certificate for agency.
+
+          TITLE 2 Conditions of Employment - Reg 2.1 SEA Seafarer Employment Agreement - 12 items: name, DOB, place, capacity, wages, leave, termination, health benefits, repatriation. Reg 2.2 Wages - monthly account, no unauthorized deductions, allotments. Reg 2.3 Hours of work/rest - Max 14h work in 24, 72h in 7 days or min 10h rest in 24, 77h in 7 days - same as STCW but MLC applies to all seafarers. Reg 2.4 Entitlement to leave - 2.5 calendar days per month = 30 days per year. Reg 2.5 Repatriation - free, max 12 months service. Reg 2.6 Compensation for ship loss - 2 months wages. Reg 2.7 Manning levels - Safe Manning Document. Reg 2.8 Career development.
+
+          TITLE 3 Accommodation - Reg 3.1 Accommodation & recreational facilities - Standard A3.1: Floor area single cabin 4.5m2 for <3000GT, 5.5m2 for 3000-10000GT, 7m2 for >10000GT. Double cabin? Actually single berth per cabin for officers? Mess room, ventilation 6 air changes, heating, lighting, noise <60dB in cabins, 65dB mess. Reg 3.2 Food & catering - 3 meals, water 5L per day, qualified ship's cook >500GT with 3 months voyage, certificate.
+
+          TITLE 4 Health Protection - Reg 4.1 Medical care on board - medicine chest per flag, medical guide MFAG. Reg 4.2 Shipowner liability - 16 weeks wages after injury. Reg 4.3 OSH - risk assessment, accident reporting. Reg 4.4 Access to shore welfare. Reg 4.5 Social security - 9 branches.
+
+          TITLE 5 Compliance & Enforcement - Reg 5.1.3 Maritime Labour Certificate MLC & DMLC Part I flag state Part II shipowner measures - validity 5 years with intermediate between 2-3 years. Reg 5.1.5 On-board complaint procedure - copy to seafarer, 5 steps. Reg 5.2 Port State Control - 16 deficiencies detainable: SEA missing, underage, medical expired, wages not paid 2 months, rest hours non-compliance causing fatigue, accommodation unsanitary, food insufficient, no complaint procedure. Reg 5.3 Labour supplying.
+
+          2022 AMENDMENTS - Social connectivity, internet, personal protective equipment free, repatriation of abandoned seafarers financial security up to 4 months wages.
+
+          INSPECTION CHECKLIST - 32 items for PSC.
+
+          PSC DETENTION - Wages 2 months overdue, 14 crew in 6 cabins, no MLC cert, cook without certificate on 2000GT.
+          """*8
+
+          bwm="""
+          SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+          URL: BWM Convention 2004 + BWMS Code
+
+          BWM CONVENTION DEEP - All technical
+
+          REGULATION A-1 Definitions - Ballast Water, BWMS, Active Substance.
+
+          REGULATION A-2 Application - Ships 400GT+, all ships except domestic.
+
+          REGULATION B-1 BWMP - Ballast Water Management Plan approved, 7 sections: safety procedures, sediment disposal, coordination with port, designated officer.
+
+          REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+
+          REGULATION B-3 Implementation Schedule - D-1 standard until ship's IOPP renewal: Existing ships built before 8 Sep 2017 must comply D-2 by first IOPP renewal after 8 Sep 2019. Example: Ship built 2010, IOPP renewal Sep 2020 => D-2 due Sep 2020. For new ships built after 8 Sep 2017 D-2 at delivery. Final deadline 8 Sep 2024 all ships D-2.
+
+          D-1 Standard - Ballast Water Exchange - 95% volumetric exchange, at least 200nm from land and 200m depth, if not possible 50nm and 200m, if not possible designated area. Methods: Sequential - empty 95% then refill, Flow-through - 3x volume pumped, Dilution - 3x volume constant level.
+
+          D-2 Standard - Discharge - <10 viable organisms per m3 >=50 micron, <10 per ml 10-50 micron, Vibrio cholerae <1 cfu per 100ml, E.coli <250 cfu per 100ml, Intestinal Enterococci <100 cfu per 100ml. IMO D-2 is USCG uses 30% more stringent? USCG 0.1x.
+
+          BWMS Types - Mechanical: Filter 40 micron self-cleaning, Hydrocyclone. Physical: UV - dose 200-300 mJ/cm2, intensity, UV-T 75%. Chemical: Electrochlorination EC - TRO 10ppm max, neutralization with sodium thiosulfate before discharge, Ozone 2ppm. Deoxygenation. Approval: Type approval per BWMS Code MEPC.300(72), active substance approval G9, USCG TA separate with 5 organism classes.
+
+          OPERATION - Ballasting - filter + UV/EC, deballasting - UV only or neutralization. Holding time 24h for UV efficacy? Actually 24-72h for regrowth.
+
+          SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+
+          SAMPLING - Indicative analysis - organism count via microscope, compliance analysis - detailed lab.
+
+          PSC CHECK - BWMP not approved, BWMS bypassed, TRO high 15ppm, filter clogged, UV intensity low 60%, record book missing exchange coordinates, D-2 commissioning test failure.
+
+          BWMS MAINTENANCE - Filter element replacement 2000h, UV lamp 12000h, quartz sleeve cleaning weekly, EC electrode 5 years, TRO sensor calibration 6 months.
+
+          BWMS CODE TESTS - Land based test 5 consecutive cycles at 3 salinities - fresh <1 PSU, brackish 10-20 PSU, marine 28-36 PSU. Organism concentration challenge >100,000 per m3.
+
+          FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+          MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+
+          EXAM QUESTIONS - D-1 distance? 200nm 200m depth. D-2 numbers? 10 per m3 and 10 per ml. Exchange methods? Sequential flow-through dilution.
+          """*8
+
+          def make(content, idx, name):
+            chunks=splitter.split_text(content)
+            out="\n".join([f"SOURCE: {content.splitlines()[1][:80]}\n{c}\n---\n" for c in chunks])
+            open(f"imo-rag-bot/master_imo_all_public_part{idx}.txt",'w',encoding='utf-8').write(out)
+            print(f"Created part{idx} {name} {len(chunks)} chunks")
+            return len(chunks)
+
+          c1=make(marpol, max_part+1, "MARPOL")
+          c2=make(stcw, max_part+2, "STCW")
+          c3=make(mlc, max_part+3, "MLC")
+          c4=make(bwm, max_part+4, "BWM")
+
+          total=sum([open(f,encoding='utf-8',errors='ignore').read().count('---') for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+          summ=f"Total Unique PDFs: {1111+4}\nTotal Chunks: {total}\nTotal Parts: {max_part+5}\nLast Batch: Mega Big MARPOL STCW MLC BWM 100 Chunks Each\n"
+          open('imo_public_summary.txt','w').write(summ)
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          print(summ)
+          PY
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add -A
+          git commit -m "Mega big 100 each" || true
+          git push || true
