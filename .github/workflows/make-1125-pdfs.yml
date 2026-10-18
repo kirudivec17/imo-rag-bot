@@ -14,6 +14,7 @@ jobs:
           mkdir -p imo_pdfs
           echo "Old IMO_DOC PDFs deleted"
           echo "13 master parts safe - not deleted"
+          ls master_imo_all_public_part*.txt | wc -l
 
   build:
     needs: clean
@@ -26,12 +27,24 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install pypdf
+      
+      - name: Install all dependencies - FIXED
+        run: |
+          pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install numpy pypdf faiss-cpu openai tiktoken
+          fi
+          # numpy ke liye extra sure
+          pip install numpy
 
       - name: Run worker ${{ matrix.worker_id }}
-        run: python ingest.py --worker-id ${{ matrix.worker_id }} --workers 5
+        run: |
+          python imo-rag-bot/ingest.py --worker-id ${{ matrix.worker_id }} --workers 5 || python ingest.py --worker-id ${{ matrix.worker_id }} --workers 5 || python ingest.py
 
-      - uses: actions/upload-artifact@v4
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v4
         with:
           name: pdfs-${{ matrix.worker_id }}
           path: imo_pdfs/
@@ -45,9 +58,11 @@ jobs:
         with:
           path: imo_pdfs/
           merge-multiple: true
-      - run: |
+      - name: Commit final PDFs
+        run: |
+          ls imo_pdfs | wc -l
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add imo_pdfs/
-          git commit -m "Final 1125 PDFs - 5 workers - docs" || true
+          git commit -m "Final 1125 PDFs - 5 workers - full page no gap" || echo "no changes"
           git push
