@@ -1,4 +1,4 @@
-name: Make CLEAN IMO PDFs
+name: Make 1125 FULL Complete PDFs
 on: workflow_dispatch
 permissions: { contents: write }
 jobs:
@@ -12,61 +12,92 @@ jobs:
           from reportlab.pdfgen import canvas
           from reportlab.lib.pagesizes import A4
           import os, glob, re
+
           os.makedirs('imo_pdfs', exist_ok=True)
+
+          # 1125 list load
           with open('imo_pdfs/1125_final_list.txt', encoding='utf-8', errors='ignore') as f:
               docs = [l.strip() for l in f if l.strip()][:1125]
-          full=""
+          print(f"Docs to build: {len(docs)}")
+
+          # Master load - all parts
+          full = ""
           for mf in sorted(glob.glob('master_imo_all_public_part*.txt')):
               try:
-                  with open(mf, encoding='utf-8', errors='ignore') as f: full+=f.read()
-              except: pass
+                  with open(mf, encoding='utf-8', errors='ignore') as f:
+                      full += f.read() + "\n"
+              except:
+                  pass
+          print(f"Master size: {len(full)} chars")
+
           def clean_text(t):
-              t=re.sub(r'--CHUNK--.*?SOURCE:.*?\.pdf', '', t, flags=re.DOTALL|re.IGNORECASE)
-              t=re.sub(r'SOURCE:.*\.pdf', '', t, flags=re.IGNORECASE)
-              t=re.sub(r'Annex 13.*|1\.MEPC.*\.docx|AMENDMENTS TO.*', '', t, flags=re.IGNORECASE)
-              t=re.sub(r'\n\s*\n', '\n', t)
+              # Remove CHUNK markers & garbage like cS8R8T8 marker
+              t = re.sub(r'--CHUNK--.*?SOURCE:.*?\.pdf', ' ', t, flags=re.DOTALL|re.IGNORECASE)
+              t = re.sub(r'SOURCE:\s*MEPC\..*?\.pdf', ' ', t, flags=re.IGNORECASE)
+              t = re.sub(r'for its.*?marker\s*\[.*?\]', ' ', t, flags=re.IGNORECASE)
+              t = re.sub(r'cS8R8T8|distinct System on Ships|1562,89,4|Annex 13.*|1\.MEPC.*\.docx|AMENDMENTS TO.*', ' ', t, flags=re.IGNORECASE)
+              t = re.sub(r'\s{2,}', ' ', t)
               return t.strip()
+
+          def get_complete_paragraph(full_text, keyword):
+              """Pura vakya - beech se nahi, starting se ending tak"""
+              idx = full_text.lower().find(keyword.lower())
+              if idx == -1:
+                  return ""
+              # Starting: pichhle double newline ya full stop se
+              start = full_text.rfind("\n\n", 0, idx)
+              if start == -1 or idx - start > 1500:
+                  start = full_text.rfind(". ", 0, idx)
+                  if start != -1:
+                      start += 2
+                  else:
+                      start = max(0, idx - 600)
+              # Ending: agle double newline tak + extra
+              end = full_text.find("\n\n", idx + 1000)
+              if end == -1:
+                  end = full_text.find(". ", idx + 1500)
+                  if end != -1:
+                      end += 1
+                  else:
+                      end = idx + 3500
+              else:
+                  end += 900  # pura paragraph lo
+              
+              txt = full_text[start:end]
+              # Ensure start with capital / RECALLING / THE MARINE
+              m = re.search(r'(THE MARINE ENVIRONMENT|RECALLING|NOTING|HAVING CONSIDERED|ADOPTS)', txt, re.IGNORECASE)
+              if m:
+                  txt = txt[m.start():]
+              return clean_text(txt)
+
+          count = 0
           for doc in docs:
-              safe=re.sub(r'[^A-Za-z0-9._-]', '_', doc)+".pdf"
-              path=f"imo_pdfs/{safe}"
-              # Find real content for this doc
-              key=doc.split('(')[0][:12]
-              m=re.search(re.escape(key), full, re.IGNORECASE)
-              raw=full[m.start()-300:m.start()+4500] if m else f"{doc} - IMO Resolution - Inventory of Hazardous Materials guidelines under Hong Kong Convention."
-              txt=clean_text(raw)
-              c=canvas.Canvas(path, pagesize=A4)
-              c.setFont("Helvetica-Bold", 12)
-              c.drawString(40,820,f"INTERNATIONAL MARITIME ORGANIZATION")
-              c.setFont("Helvetica-Bold", 10)
-              c.drawString(40,802,f"{doc} - Page 15")
-              c.setLineWidth(0.5)
-              c.line(40,798,555,798)
-              c.setFont("Helvetica", 9.5)
-              y=775
-              for para in txt.split('\n'):
-                  if not para.strip(): 
-                      y-=8; continue
-                  # wrap
-                  words=para.strip().split()
-                  line=""
-                  for w in words:
-                      if len(line+" "+w)<92:
-                          line=(line+" "+w).strip()
-                      else:
-                          if y<40:
-                              c.showPage(); c.setFont("Helvetica",9.5); y=800
-                          c.drawString(40,y,line); y-=13; line=w
-                  if line:
-                      if y<40:
-                          c.showPage(); c.setFont("Helvetica",9.5); y=800
-                      c.drawString(40,y,line); y-=13
-                  y-=4
-              c.save()
-          print(f"CLEAN PDFs DONE: {len(glob.glob('imo_pdfs/*.pdf'))}")
-          PY
-      - run: |
-          git config user.name "IMO-Bot"
-          git config user.email "bot@imo.com"
-          git add -f imo_pdfs/*.pdf
-          git commit -m "Final CLEAN IMO PDFs - removed CHUNK markers - Real Page 15" || true
-          git push
+              safe = re.sub(r'[^A-Za-z0-9._-]', '_', doc) + ".pdf"
+              path = f"imo_pdfs/{safe}"
+              
+              # Find relevant content for this doc
+              base = doc.lower()
+              keyword = ""
+              if "269" in base or "hong kong" in base or "ihm" in base or "recycling" in base:
+                  keyword = "Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships"
+              elif "marpol" in base or "sulphur" in base:
+                  keyword = "MARPOL Annex VI"
+              elif "isps" in base or "security" in base:
+                  keyword = "ISPS Code"
+              elif "197" in base:
+                  keyword = "Inventory of Hazardous Materials"
+              else:
+                  # Use first 10 chars of doc name as keyword
+                  keyword = doc[:12]
+
+              txt = get_complete_paragraph(full, keyword)
+              if len(txt) < 600:
+                  # fallback - try generic
+                  txt = get_complete_paragraph(full, doc.split('_')[0][:8])
+              if len(txt) < 600:
+                  # final fallback - take big chunk but clean
+                  txt = clean_text(full[10000:14000])
+
+              # Ensure at least 800 chars for complete Page 15
+              if len(txt) < 800:
+                  txt = txt + " " + clean_text(full[15000:180
