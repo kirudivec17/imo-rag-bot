@@ -1,4 +1,4 @@
-Total Unique PDFs: 1115
-Total Chunks: 11665
-Total Parts: 100
-Last Batch: Mega Big MARPOL STCW MLC BWM 100 Chunks Each
+Total Unique PDFs: 1119
+Total Chunks: 11854
+Total Parts: 104
+Last Batch: Mega IMDG ISM ISPS COLREG

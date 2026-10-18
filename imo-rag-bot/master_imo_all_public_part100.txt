@@ -1,0 +1,380 @@
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+
+GENERAL: 7 columns in Dangerous Goods List Ch 3.2 - UN No, Proper Shipping Name, Class, Subsidiary Risk, Packing Group, Special Provisions, Limited/Excepted Quantity, Packing Instructions, IBC, Tanks, Stowage Category, Segregation, EmS. 100% mandatory from 1 Jan 2004 under SOLAS VII.
+
+CLASS 1 Explosives - Division 1.1 mass explosion, 1.2 projection, 1.3 fire, 1.4 minor, 1.5 very insensitive mass, 1.6 extremely insensitive. Compatibility Groups A-S. Example UN 0332. Segregation - 1.1 and 1.2 away from all accommodation.
+
+CLASS 2 Gases - 2.1 Flammable, 2.2 Non-flam, 2.3 Toxic. AEROSOLS UN1950. Criteria: Flammable if lower flammable limit <13% or flammable range >12%. Packing P207.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 3 Flammable Liquids - PG I II III based on flash point <23C and boiling point. PG I flash <23C and initial boiling <=35C. FP determination closed cup. Example UN1203 Gasoline. Segregation from Class 1.
+
+CLASS 4 Flammable Solids - 4.1 Flammable solids self-reactive desensitized, 4.2 Spontaneous combustion, 4.3 Water reactive. Self-heating test N.4.
+
+CLASS 5 Oxidizers - 5.1 Oxidizing substances, 5.2 Organic peroxides Type A to G. Type A not allowed, Type B limited quantity. Control temp and emergency temp.
+
+CLASS 6 Toxic - 6.1 Toxic LD50 oral <5mg/kg PG I, 5-50 PG II, 50-300 PG III. 6.2 Infectious UN2814 Category A, UN2900, UN3291 medical waste.
+
+CLASS 7 Radioactive - IAEA SSR-6. Categories I-WHITE 0.5mrem/h, II-YELLOW 10mrem/h, III-YELLOW 200mrem/h. Transport Index TI. Criticality Safety Index CSI for fissile. Placard 7D.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 8 Corrosive - PG I very dangerous full thickness destruction <60 min, PG II 3h, PG III <15min steel corrosion 6.25mm/year. Example UN1830 Sulfuric acid.
+
+CLASS 9 Miscellaneous - UN3077 Environmentally hazardous solid n.o.s., UN3082 liquid, UN3480 Lithium batteries, UN3171 Battery powered vehicle. Lithium battery test UN38.3 - T1 altitude, T2 thermal, T3 vibration, T4 shock, T5 external short, T6 impact, T7 overcharge, T8 forced discharge.
+
+PACKING - P001 for liquids, P002 solids, IBC01-08, LP. Limited Quantity LQ - 5kg for many PG III, inner 1L. Excepted Quantity E0-E5 - E0 not allowed, E1 30g inner 1kg outer.
+
+STOWAGE CATEGORIES - On deck only Cat 01, On deck or under deck Cat 02, etc. Codes SW1-SW30, e.g., SW2 clear of living quarters. H1-H7 handling codes.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SEGREGATION - S1-S7 general provisions, SG1-SG82 specific. Table 7.2.2: Away from 3m, Separated from 6m, Separated by complete compartment 12m, Prohibited. For containers: 1 container space 6m, 2 spaces 12m. Example Class 3 and Class 8 away from, Class 4.3 and Class 8 separated from.
+
+EMS - Fire F-A to F-J, Spillage S-A to S-Z. Example EmS F-A S-A general. MFAG for medical.
+
+PLACARDING - Container 250mm diamond, orange plate UN No. CTU packing certificate required. CSC plate.
+
+PSC DEFICIENCY - Missing segregation, undeclared DG, LQ over limit, leaking container, no EmS on bridge, DG manifest mismatch.
+
+EXAM: PG criteria, UN No of gasoline 1203, segregation Class 3 away from Class 1, limited quantity 5L for PG III.
+
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+
+GENERAL: 7 columns in Dangerous Goods List Ch 3.2 - UN No, Proper Shipping Name, Class, Subsidiary Risk, Packing Group, Special Provisions, Limited/Excepted Quantity, Packing Instructions, IBC, Tanks, Stowage Category, Segregation, EmS. 100% mandatory from 1 Jan 2004 under SOLAS VII.
+
+CLASS 1 Explosives - Division 1.1 mass explosion, 1.2 projection, 1.3 fire, 1.4 minor, 1.5 very insensitive mass, 1.6 extremely insensitive. Compatibility Groups A-S. Example UN 0332. Segregation - 1.1 and 1.2 away from all accommodation.
+
+CLASS 2 Gases - 2.1 Flammable, 2.2 Non-flam, 2.3 Toxic. AEROSOLS UN1950. Criteria: Flammable if lower flammable limit <13% or flammable range >12%. Packing P207.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 3 Flammable Liquids - PG I II III based on flash point <23C and boiling point. PG I flash <23C and initial boiling <=35C. FP determination closed cup. Example UN1203 Gasoline. Segregation from Class 1.
+
+CLASS 4 Flammable Solids - 4.1 Flammable solids self-reactive desensitized, 4.2 Spontaneous combustion, 4.3 Water reactive. Self-heating test N.4.
+
+CLASS 5 Oxidizers - 5.1 Oxidizing substances, 5.2 Organic peroxides Type A to G. Type A not allowed, Type B limited quantity. Control temp and emergency temp.
+
+CLASS 6 Toxic - 6.1 Toxic LD50 oral <5mg/kg PG I, 5-50 PG II, 50-300 PG III. 6.2 Infectious UN2814 Category A, UN2900, UN3291 medical waste.
+
+CLASS 7 Radioactive - IAEA SSR-6. Categories I-WHITE 0.5mrem/h, II-YELLOW 10mrem/h, III-YELLOW 200mrem/h. Transport Index TI. Criticality Safety Index CSI for fissile. Placard 7D.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 8 Corrosive - PG I very dangerous full thickness destruction <60 min, PG II 3h, PG III <15min steel corrosion 6.25mm/year. Example UN1830 Sulfuric acid.
+
+CLASS 9 Miscellaneous - UN3077 Environmentally hazardous solid n.o.s., UN3082 liquid, UN3480 Lithium batteries, UN3171 Battery powered vehicle. Lithium battery test UN38.3 - T1 altitude, T2 thermal, T3 vibration, T4 shock, T5 external short, T6 impact, T7 overcharge, T8 forced discharge.
+
+PACKING - P001 for liquids, P002 solids, IBC01-08, LP. Limited Quantity LQ - 5kg for many PG III, inner 1L. Excepted Quantity E0-E5 - E0 not allowed, E1 30g inner 1kg outer.
+
+STOWAGE CATEGORIES - On deck only Cat 01, On deck or under deck Cat 02, etc. Codes SW1-SW30, e.g., SW2 clear of living quarters. H1-H7 handling codes.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SEGREGATION - S1-S7 general provisions, SG1-SG82 specific. Table 7.2.2: Away from 3m, Separated from 6m, Separated by complete compartment 12m, Prohibited. For containers: 1 container space 6m, 2 spaces 12m. Example Class 3 and Class 8 away from, Class 4.3 and Class 8 separated from.
+
+EMS - Fire F-A to F-J, Spillage S-A to S-Z. Example EmS F-A S-A general. MFAG for medical.
+
+PLACARDING - Container 250mm diamond, orange plate UN No. CTU packing certificate required. CSC plate.
+
+PSC DEFICIENCY - Missing segregation, undeclared DG, LQ over limit, leaking container, no EmS on bridge, DG manifest mismatch.
+
+EXAM: PG criteria, UN No of gasoline 1203, segregation Class 3 away from Class 1, limited quantity 5L for PG III.
+
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+
+GENERAL: 7 columns in Dangerous Goods List Ch 3.2 - UN No, Proper Shipping Name, Class, Subsidiary Risk, Packing Group, Special Provisions, Limited/Excepted Quantity, Packing Instructions, IBC, Tanks, Stowage Category, Segregation, EmS. 100% mandatory from 1 Jan 2004 under SOLAS VII.
+
+CLASS 1 Explosives - Division 1.1 mass explosion, 1.2 projection, 1.3 fire, 1.4 minor, 1.5 very insensitive mass, 1.6 extremely insensitive. Compatibility Groups A-S. Example UN 0332. Segregation - 1.1 and 1.2 away from all accommodation.
+
+CLASS 2 Gases - 2.1 Flammable, 2.2 Non-flam, 2.3 Toxic. AEROSOLS UN1950. Criteria: Flammable if lower flammable limit <13% or flammable range >12%. Packing P207.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 3 Flammable Liquids - PG I II III based on flash point <23C and boiling point. PG I flash <23C and initial boiling <=35C. FP determination closed cup. Example UN1203 Gasoline. Segregation from Class 1.
+
+CLASS 4 Flammable Solids - 4.1 Flammable solids self-reactive desensitized, 4.2 Spontaneous combustion, 4.3 Water reactive. Self-heating test N.4.
+
+CLASS 5 Oxidizers - 5.1 Oxidizing substances, 5.2 Organic peroxides Type A to G. Type A not allowed, Type B limited quantity. Control temp and emergency temp.
+
+CLASS 6 Toxic - 6.1 Toxic LD50 oral <5mg/kg PG I, 5-50 PG II, 50-300 PG III. 6.2 Infectious UN2814 Category A, UN2900, UN3291 medical waste.
+
+CLASS 7 Radioactive - IAEA SSR-6. Categories I-WHITE 0.5mrem/h, II-YELLOW 10mrem/h, III-YELLOW 200mrem/h. Transport Index TI. Criticality Safety Index CSI for fissile. Placard 7D.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 8 Corrosive - PG I very dangerous full thickness destruction <60 min, PG II 3h, PG III <15min steel corrosion 6.25mm/year. Example UN1830 Sulfuric acid.
+
+CLASS 9 Miscellaneous - UN3077 Environmentally hazardous solid n.o.s., UN3082 liquid, UN3480 Lithium batteries, UN3171 Battery powered vehicle. Lithium battery test UN38.3 - T1 altitude, T2 thermal, T3 vibration, T4 shock, T5 external short, T6 impact, T7 overcharge, T8 forced discharge.
+
+PACKING - P001 for liquids, P002 solids, IBC01-08, LP. Limited Quantity LQ - 5kg for many PG III, inner 1L. Excepted Quantity E0-E5 - E0 not allowed, E1 30g inner 1kg outer.
+
+STOWAGE CATEGORIES - On deck only Cat 01, On deck or under deck Cat 02, etc. Codes SW1-SW30, e.g., SW2 clear of living quarters. H1-H7 handling codes.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SEGREGATION - S1-S7 general provisions, SG1-SG82 specific. Table 7.2.2: Away from 3m, Separated from 6m, Separated by complete compartment 12m, Prohibited. For containers: 1 container space 6m, 2 spaces 12m. Example Class 3 and Class 8 away from, Class 4.3 and Class 8 separated from.
+
+EMS - Fire F-A to F-J, Spillage S-A to S-Z. Example EmS F-A S-A general. MFAG for medical.
+
+PLACARDING - Container 250mm diamond, orange plate UN No. CTU packing certificate required. CSC plate.
+
+PSC DEFICIENCY - Missing segregation, undeclared DG, LQ over limit, leaking container, no EmS on bridge, DG manifest mismatch.
+
+EXAM: PG criteria, UN No of gasoline 1203, segregation Class 3 away from Class 1, limited quantity 5L for PG III.
+
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+
+GENERAL: 7 columns in Dangerous Goods List Ch 3.2 - UN No, Proper Shipping Name, Class, Subsidiary Risk, Packing Group, Special Provisions, Limited/Excepted Quantity, Packing Instructions, IBC, Tanks, Stowage Category, Segregation, EmS. 100% mandatory from 1 Jan 2004 under SOLAS VII.
+
+CLASS 1 Explosives - Division 1.1 mass explosion, 1.2 projection, 1.3 fire, 1.4 minor, 1.5 very insensitive mass, 1.6 extremely insensitive. Compatibility Groups A-S. Example UN 0332. Segregation - 1.1 and 1.2 away from all accommodation.
+
+CLASS 2 Gases - 2.1 Flammable, 2.2 Non-flam, 2.3 Toxic. AEROSOLS UN1950. Criteria: Flammable if lower flammable limit <13% or flammable range >12%. Packing P207.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 3 Flammable Liquids - PG I II III based on flash point <23C and boiling point. PG I flash <23C and initial boiling <=35C. FP determination closed cup. Example UN1203 Gasoline. Segregation from Class 1.
+
+CLASS 4 Flammable Solids - 4.1 Flammable solids self-reactive desensitized, 4.2 Spontaneous combustion, 4.3 Water reactive. Self-heating test N.4.
+
+CLASS 5 Oxidizers - 5.1 Oxidizing substances, 5.2 Organic peroxides Type A to G. Type A not allowed, Type B limited quantity. Control temp and emergency temp.
+
+CLASS 6 Toxic - 6.1 Toxic LD50 oral <5mg/kg PG I, 5-50 PG II, 50-300 PG III. 6.2 Infectious UN2814 Category A, UN2900, UN3291 medical waste.
+
+CLASS 7 Radioactive - IAEA SSR-6. Categories I-WHITE 0.5mrem/h, II-YELLOW 10mrem/h, III-YELLOW 200mrem/h. Transport Index TI. Criticality Safety Index CSI for fissile. Placard 7D.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 8 Corrosive - PG I very dangerous full thickness destruction <60 min, PG II 3h, PG III <15min steel corrosion 6.25mm/year. Example UN1830 Sulfuric acid.
+
+CLASS 9 Miscellaneous - UN3077 Environmentally hazardous solid n.o.s., UN3082 liquid, UN3480 Lithium batteries, UN3171 Battery powered vehicle. Lithium battery test UN38.3 - T1 altitude, T2 thermal, T3 vibration, T4 shock, T5 external short, T6 impact, T7 overcharge, T8 forced discharge.
+
+PACKING - P001 for liquids, P002 solids, IBC01-08, LP. Limited Quantity LQ - 5kg for many PG III, inner 1L. Excepted Quantity E0-E5 - E0 not allowed, E1 30g inner 1kg outer.
+
+STOWAGE CATEGORIES - On deck only Cat 01, On deck or under deck Cat 02, etc. Codes SW1-SW30, e.g., SW2 clear of living quarters. H1-H7 handling codes.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SEGREGATION - S1-S7 general provisions, SG1-SG82 specific. Table 7.2.2: Away from 3m, Separated from 6m, Separated by complete compartment 12m, Prohibited. For containers: 1 container space 6m, 2 spaces 12m. Example Class 3 and Class 8 away from, Class 4.3 and Class 8 separated from.
+
+EMS - Fire F-A to F-J, Spillage S-A to S-Z. Example EmS F-A S-A general. MFAG for medical.
+
+PLACARDING - Container 250mm diamond, orange plate UN No. CTU packing certificate required. CSC plate.
+
+PSC DEFICIENCY - Missing segregation, undeclared DG, LQ over limit, leaking container, no EmS on bridge, DG manifest mismatch.
+
+EXAM: PG criteria, UN No of gasoline 1203, segregation Class 3 away from Class 1, limited quantity 5L for PG III.
+
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+
+GENERAL: 7 columns in Dangerous Goods List Ch 3.2 - UN No, Proper Shipping Name, Class, Subsidiary Risk, Packing Group, Special Provisions, Limited/Excepted Quantity, Packing Instructions, IBC, Tanks, Stowage Category, Segregation, EmS. 100% mandatory from 1 Jan 2004 under SOLAS VII.
+
+CLASS 1 Explosives - Division 1.1 mass explosion, 1.2 projection, 1.3 fire, 1.4 minor, 1.5 very insensitive mass, 1.6 extremely insensitive. Compatibility Groups A-S. Example UN 0332. Segregation - 1.1 and 1.2 away from all accommodation.
+
+CLASS 2 Gases - 2.1 Flammable, 2.2 Non-flam, 2.3 Toxic. AEROSOLS UN1950. Criteria: Flammable if lower flammable limit <13% or flammable range >12%. Packing P207.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 3 Flammable Liquids - PG I II III based on flash point <23C and boiling point. PG I flash <23C and initial boiling <=35C. FP determination closed cup. Example UN1203 Gasoline. Segregation from Class 1.
+
+CLASS 4 Flammable Solids - 4.1 Flammable solids self-reactive desensitized, 4.2 Spontaneous combustion, 4.3 Water reactive. Self-heating test N.4.
+
+CLASS 5 Oxidizers - 5.1 Oxidizing substances, 5.2 Organic peroxides Type A to G. Type A not allowed, Type B limited quantity. Control temp and emergency temp.
+
+CLASS 6 Toxic - 6.1 Toxic LD50 oral <5mg/kg PG I, 5-50 PG II, 50-300 PG III. 6.2 Infectious UN2814 Category A, UN2900, UN3291 medical waste.
+
+CLASS 7 Radioactive - IAEA SSR-6. Categories I-WHITE 0.5mrem/h, II-YELLOW 10mrem/h, III-YELLOW 200mrem/h. Transport Index TI. Criticality Safety Index CSI for fissile. Placard 7D.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 8 Corrosive - PG I very dangerous full thickness destruction <60 min, PG II 3h, PG III <15min steel corrosion 6.25mm/year. Example UN1830 Sulfuric acid.
+
+CLASS 9 Miscellaneous - UN3077 Environmentally hazardous solid n.o.s., UN3082 liquid, UN3480 Lithium batteries, UN3171 Battery powered vehicle. Lithium battery test UN38.3 - T1 altitude, T2 thermal, T3 vibration, T4 shock, T5 external short, T6 impact, T7 overcharge, T8 forced discharge.
+
+PACKING - P001 for liquids, P002 solids, IBC01-08, LP. Limited Quantity LQ - 5kg for many PG III, inner 1L. Excepted Quantity E0-E5 - E0 not allowed, E1 30g inner 1kg outer.
+
+STOWAGE CATEGORIES - On deck only Cat 01, On deck or under deck Cat 02, etc. Codes SW1-SW30, e.g., SW2 clear of living quarters. H1-H7 handling codes.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SEGREGATION - S1-S7 general provisions, SG1-SG82 specific. Table 7.2.2: Away from 3m, Separated from 6m, Separated by complete compartment 12m, Prohibited. For containers: 1 container space 6m, 2 spaces 12m. Example Class 3 and Class 8 away from, Class 4.3 and Class 8 separated from.
+
+EMS - Fire F-A to F-J, Spillage S-A to S-Z. Example EmS F-A S-A general. MFAG for medical.
+
+PLACARDING - Container 250mm diamond, orange plate UN No. CTU packing certificate required. CSC plate.
+
+PSC DEFICIENCY - Missing segregation, undeclared DG, LQ over limit, leaking container, no EmS on bridge, DG manifest mismatch.
+
+EXAM: PG criteria, UN No of gasoline 1203, segregation Class 3 away from Class 1, limited quantity 5L for PG III.
+
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+
+GENERAL: 7 columns in Dangerous Goods List Ch 3.2 - UN No, Proper Shipping Name, Class, Subsidiary Risk, Packing Group, Special Provisions, Limited/Excepted Quantity, Packing Instructions, IBC, Tanks, Stowage Category, Segregation, EmS. 100% mandatory from 1 Jan 2004 under SOLAS VII.
+
+CLASS 1 Explosives - Division 1.1 mass explosion, 1.2 projection, 1.3 fire, 1.4 minor, 1.5 very insensitive mass, 1.6 extremely insensitive. Compatibility Groups A-S. Example UN 0332. Segregation - 1.1 and 1.2 away from all accommodation.
+
+CLASS 2 Gases - 2.1 Flammable, 2.2 Non-flam, 2.3 Toxic. AEROSOLS UN1950. Criteria: Flammable if lower flammable limit <13% or flammable range >12%. Packing P207.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 3 Flammable Liquids - PG I II III based on flash point <23C and boiling point. PG I flash <23C and initial boiling <=35C. FP determination closed cup. Example UN1203 Gasoline. Segregation from Class 1.
+
+CLASS 4 Flammable Solids - 4.1 Flammable solids self-reactive desensitized, 4.2 Spontaneous combustion, 4.3 Water reactive. Self-heating test N.4.
+
+CLASS 5 Oxidizers - 5.1 Oxidizing substances, 5.2 Organic peroxides Type A to G. Type A not allowed, Type B limited quantity. Control temp and emergency temp.
+
+CLASS 6 Toxic - 6.1 Toxic LD50 oral <5mg/kg PG I, 5-50 PG II, 50-300 PG III. 6.2 Infectious UN2814 Category A, UN2900, UN3291 medical waste.
+
+CLASS 7 Radioactive - IAEA SSR-6. Categories I-WHITE 0.5mrem/h, II-YELLOW 10mrem/h, III-YELLOW 200mrem/h. Transport Index TI. Criticality Safety Index CSI for fissile. Placard 7D.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 8 Corrosive - PG I very dangerous full thickness destruction <60 min, PG II 3h, PG III <15min steel corrosion 6.25mm/year. Example UN1830 Sulfuric acid.
+
+CLASS 9 Miscellaneous - UN3077 Environmentally hazardous solid n.o.s., UN3082 liquid, UN3480 Lithium batteries, UN3171 Battery powered vehicle. Lithium battery test UN38.3 - T1 altitude, T2 thermal, T3 vibration, T4 shock, T5 external short, T6 impact, T7 overcharge, T8 forced discharge.
+
+PACKING - P001 for liquids, P002 solids, IBC01-08, LP. Limited Quantity LQ - 5kg for many PG III, inner 1L. Excepted Quantity E0-E5 - E0 not allowed, E1 30g inner 1kg outer.
+
+STOWAGE CATEGORIES - On deck only Cat 01, On deck or under deck Cat 02, etc. Codes SW1-SW30, e.g., SW2 clear of living quarters. H1-H7 handling codes.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SEGREGATION - S1-S7 general provisions, SG1-SG82 specific. Table 7.2.2: Away from 3m, Separated from 6m, Separated by complete compartment 12m, Prohibited. For containers: 1 container space 6m, 2 spaces 12m. Example Class 3 and Class 8 away from, Class 4.3 and Class 8 separated from.
+
+EMS - Fire F-A to F-J, Spillage S-A to S-Z. Example EmS F-A S-A general. MFAG for medical.
+
+PLACARDING - Container 250mm diamond, orange plate UN No. CTU packing certificate required. CSC plate.
+
+PSC DEFICIENCY - Missing segregation, undeclared DG, LQ over limit, leaking container, no EmS on bridge, DG manifest mismatch.
+
+EXAM: PG criteria, UN No of gasoline 1203, segregation Class 3 away from Class 1, limited quantity 5L for PG III.
+
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+
+GENERAL: 7 columns in Dangerous Goods List Ch 3.2 - UN No, Proper Shipping Name, Class, Subsidiary Risk, Packing Group, Special Provisions, Limited/Excepted Quantity, Packing Instructions, IBC, Tanks, Stowage Category, Segregation, EmS. 100% mandatory from 1 Jan 2004 under SOLAS VII.
+
+CLASS 1 Explosives - Division 1.1 mass explosion, 1.2 projection, 1.3 fire, 1.4 minor, 1.5 very insensitive mass, 1.6 extremely insensitive. Compatibility Groups A-S. Example UN 0332. Segregation - 1.1 and 1.2 away from all accommodation.
+
+CLASS 2 Gases - 2.1 Flammable, 2.2 Non-flam, 2.3 Toxic. AEROSOLS UN1950. Criteria: Flammable if lower flammable limit <13% or flammable range >12%. Packing P207.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 3 Flammable Liquids - PG I II III based on flash point <23C and boiling point. PG I flash <23C and initial boiling <=35C. FP determination closed cup. Example UN1203 Gasoline. Segregation from Class 1.
+
+CLASS 4 Flammable Solids - 4.1 Flammable solids self-reactive desensitized, 4.2 Spontaneous combustion, 4.3 Water reactive. Self-heating test N.4.
+
+CLASS 5 Oxidizers - 5.1 Oxidizing substances, 5.2 Organic peroxides Type A to G. Type A not allowed, Type B limited quantity. Control temp and emergency temp.
+
+CLASS 6 Toxic - 6.1 Toxic LD50 oral <5mg/kg PG I, 5-50 PG II, 50-300 PG III. 6.2 Infectious UN2814 Category A, UN2900, UN3291 medical waste.
+
+CLASS 7 Radioactive - IAEA SSR-6. Categories I-WHITE 0.5mrem/h, II-YELLOW 10mrem/h, III-YELLOW 200mrem/h. Transport Index TI. Criticality Safety Index CSI for fissile. Placard 7D.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 8 Corrosive - PG I very dangerous full thickness destruction <60 min, PG II 3h, PG III <15min steel corrosion 6.25mm/year. Example UN1830 Sulfuric acid.
+
+CLASS 9 Miscellaneous - UN3077 Environmentally hazardous solid n.o.s., UN3082 liquid, UN3480 Lithium batteries, UN3171 Battery powered vehicle. Lithium battery test UN38.3 - T1 altitude, T2 thermal, T3 vibration, T4 shock, T5 external short, T6 impact, T7 overcharge, T8 forced discharge.
+
+PACKING - P001 for liquids, P002 solids, IBC01-08, LP. Limited Quantity LQ - 5kg for many PG III, inner 1L. Excepted Quantity E0-E5 - E0 not allowed, E1 30g inner 1kg outer.
+
+STOWAGE CATEGORIES - On deck only Cat 01, On deck or under deck Cat 02, etc. Codes SW1-SW30, e.g., SW2 clear of living quarters. H1-H7 handling codes.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SEGREGATION - S1-S7 general provisions, SG1-SG82 specific. Table 7.2.2: Away from 3m, Separated from 6m, Separated by complete compartment 12m, Prohibited. For containers: 1 container space 6m, 2 spaces 12m. Example Class 3 and Class 8 away from, Class 4.3 and Class 8 separated from.
+
+EMS - Fire F-A to F-J, Spillage S-A to S-Z. Example EmS F-A S-A general. MFAG for medical.
+
+PLACARDING - Container 250mm diamond, orange plate UN No. CTU packing certificate required. CSC plate.
+
+PSC DEFICIENCY - Missing segregation, undeclared DG, LQ over limit, leaking container, no EmS on bridge, DG manifest mismatch.
+
+EXAM: PG criteria, UN No of gasoline 1203, segregation Class 3 away from Class 1, limited quantity 5L for PG III.
+
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+IMDG CODE DEEP - 2 Volumes + Supplement
+
+GENERAL: 7 columns in Dangerous Goods List Ch 3.2 - UN No, Proper Shipping Name, Class, Subsidiary Risk, Packing Group, Special Provisions, Limited/Excepted Quantity, Packing Instructions, IBC, Tanks, Stowage Category, Segregation, EmS. 100% mandatory from 1 Jan 2004 under SOLAS VII.
+
+CLASS 1 Explosives - Division 1.1 mass explosion, 1.2 projection, 1.3 fire, 1.4 minor, 1.5 very insensitive mass, 1.6 extremely insensitive. Compatibility Groups A-S. Example UN 0332. Segregation - 1.1 and 1.2 away from all accommodation.
+
+CLASS 2 Gases - 2.1 Flammable, 2.2 Non-flam, 2.3 Toxic. AEROSOLS UN1950. Criteria: Flammable if lower flammable limit <13% or flammable range >12%. Packing P207.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 3 Flammable Liquids - PG I II III based on flash point <23C and boiling point. PG I flash <23C and initial boiling <=35C. FP determination closed cup. Example UN1203 Gasoline. Segregation from Class 1.
+
+CLASS 4 Flammable Solids - 4.1 Flammable solids self-reactive desensitized, 4.2 Spontaneous combustion, 4.3 Water reactive. Self-heating test N.4.
+
+CLASS 5 Oxidizers - 5.1 Oxidizing substances, 5.2 Organic peroxides Type A to G. Type A not allowed, Type B limited quantity. Control temp and emergency temp.
+
+CLASS 6 Toxic - 6.1 Toxic LD50 oral <5mg/kg PG I, 5-50 PG II, 50-300 PG III. 6.2 Infectious UN2814 Category A, UN2900, UN3291 medical waste.
+
+CLASS 7 Radioactive - IAEA SSR-6. Categories I-WHITE 0.5mrem/h, II-YELLOW 10mrem/h, III-YELLOW 200mrem/h. Transport Index TI. Criticality Safety Index CSI for fissile. Placard 7D.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+CLASS 8 Corrosive - PG I very dangerous full thickness destruction <60 min, PG II 3h, PG III <15min steel corrosion 6.25mm/year. Example UN1830 Sulfuric acid.
+
+CLASS 9 Miscellaneous - UN3077 Environmentally hazardous solid n.o.s., UN3082 liquid, UN3480 Lithium batteries, UN3171 Battery powered vehicle. Lithium battery test UN38.3 - T1 altitude, T2 thermal, T3 vibration, T4 shock, T5 external short, T6 impact, T7 overcharge, T8 forced discharge.
+
+PACKING - P001 for liquids, P002 solids, IBC01-08, LP. Limited Quantity LQ - 5kg for many PG III, inner 1L. Excepted Quantity E0-E5 - E0 not allowed, E1 30g inner 1kg outer.
+
+STOWAGE CATEGORIES - On deck only Cat 01, On deck or under deck Cat 02, etc. Codes SW1-SW30, e.g., SW2 clear of living quarters. H1-H7 handling codes.
+---
+
+SOURCE: SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+SEGREGATION - S1-S7 general provisions, SG1-SG82 specific. Table 7.2.2: Away from 3m, Separated from 6m, Separated by complete compartment 12m, Prohibited. For containers: 1 container space 6m, 2 spaces 12m. Example Class 3 and Class 8 away from, Class 4.3 and Class 8 separated from.
+
+EMS - Fire F-A to F-J, Spillage S-A to S-Z. Example EmS F-A S-A general. MFAG for medical.
+
+PLACARDING - Container 250mm diamond, orange plate UN No. CTU packing certificate required. CSC plate.
+
+PSC DEFICIENCY - Missing segregation, undeclared DG, LQ over limit, leaking container, no EmS on bridge, DG manifest mismatch.
+
+EXAM: PG criteria, UN No of gasoline 1203, segregation Class 3 away from Class 1, limited quantity 5L for PG III.
+---

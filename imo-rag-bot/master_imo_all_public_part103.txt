@@ -1,0 +1,476 @@
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+
+PART A GENERAL - Rule 1 Application - all vessels upon high seas and connected navigable waters. Rule 2 Responsibility - No rule exonerates negligence. Rule 3 Definitions - Vessel includes WIG, Not under command NUC - vessel through exceptional circumstance unable to manoeuvre, Restricted ability RAM - work - dredging, cable laying, mine clearance, towing that restricts, Constrained by draught CBD - power driven vessel limited by draught e.g., VLCC in channel, Fishing - gear restricts. Length, breadth, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART B STEERING & SAILING - Section I any visibility: Rule 4 Application, Rule 5 Lookout - proper by sight hearing all available means. Rule 6 Safe speed - 8 factors for all vessels + 6 for radar: state of visibility, traffic density, manoeuvrability, background light, draught, radar limitations. Rule 7 Risk of collision - compass bearing not changing indicates risk, if large vessel bearing may change but risk still. Rule 8 Action to avoid collision - early, substantial, good seamanship, if power driven maybe stop. Rule 9 Narrow channels - vessel <20m or sailing shall not impede vessel that can navigate only in channel, fishing shall not impede, CBD shall not impede but others shall not impede CBD? Actually CBD vessel shall not impede? No - vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small angle, not cross unless 90 deg, not impede 10(j) for vessel <20m, sailing, fishing, etc. Rule 10(i) BNWAS? No. Inshore traffic zone.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section II in sight: Rule 11 Application, Rule 12 Sailing vessels - windward gives way to leeward? Actually wind on same side leeward gives way? Correct: Port tack gives way to starboard tack, windward gives way to leeward when same tack, if port tack cannot determine windward gives way. Rule 13 Overtaking - any vessel overtaking shall keep out, definition - coming up from >22.5 deg abaft beam (112.5 to 247.5). Until finally past and clear. Rule 14 Head-on - power driven vessels meeting reciprocal courses each alter to starboard. Rule 15 Crossing - vessel which has other on starboard side shall give way, avoid crossing ahead. Rule 16 Give way vessel - early substantial action. Rule 17 Stand-on vessel - shall keep course and speed, may take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels -
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels - Order: NUC, RAM, CBD, Fishing, Sailing, Power driven, Seaplane. NUC shall keep clear? Actually all shall keep clear of NUC and RAM, etc. Power gives way to all except seaplane. Sailing gives way to fishing, NUC, RAM, CBD.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section III restricted visibility: Rule 19 - All vessels shall proceed at safe speed adapted to visibility, power shall have engines ready. Detection by radar alone - shall determine if risk. Action: If forward of beam other than overtaking shall avoid altering to port for vessel forward, avoid altering to starboard for vessel abeam or abaft. If abaft beam avoid altering towards vessel. Shall reduce speed, be ready to manoeuvre, stop if necessary. Sound signals - not in sight.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART C LIGHTS & SHAPES - Rule 20 Application sunset to sunrise + restricted visibility. Rule 21 Definitions: Masthead 225 deg, sidelights 112.5 deg each, sternlight 135 deg, towing light yellow 135 deg, all-round 360, flashing 120 per min. Rule 22 Visibility: <12m 1 mile sidelights, <20m 2 miles masthead, <50m 5 miles masthead for >=50m, etc. 50m and above 6 miles masthead, 3 miles sidelights stern towing, 3 miles all-round. Rule 23 Power driven underway - masthead + sidelights + sternlight, <50m 1 masthead, >=50m 2 mastheads, air-cushion yellow flashing. Rule 24 Towing - 2 mastheads if length tow >200m 3 mastheads, sidelights, sternlight, towing light above sternlight, diamond shape if tow >200m. Pushing ahead - not showing towing light, 2 mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion has cone apex down. Rule 26 Fishing - red over white trawling shooting nets 2 all-round red white? Actually trawling green over white, 2 all-round basket shape. Fishing other than trawling red over white, basket. Rule 27 NUC - 2 red all-round + 2 balls, RAM - red white red + ball diamond ball, RAM <50m no masthead? Shows masthead + sidelights + sternlight + RAM lights. Minesweeper green over white? Actually green over white? Rule 27 minesweeping: 3 green lights - 1 masthead + 2 green all-round? No 2 green at yardarms. Rule 28 CBD - 3 red all-round in vertical + cylinder shape. Rule 29 Pilot - white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in roadstead. Aground - 2 red + 3 balls + anchor lights. Rule 31 Seaplane WIG.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART D SOUND & LIGHT - Rule 32 Definitions whistle, short 1 sec, prolonged 4-6 sec, bell 300mm dia for <20m? Actually <20m no bell required, 12-20m 200mm bell? 20m+ bell + gong. Rule 33 Equipment - <12m any means, 12-20m whistle + bell? Actually 12-20m whistle bell 7.5 sec, 20m+ whistle bell gong. Rule 34 Manoeuvring & warning - 1 short starboard, 2 port, 3 astern, 5 short doubt. Rule 35 Restricted visibility - Power underway 1 prolonged every 2 min, stopped 2 prolonged, NUC RAM sailing fishing towing 1 prolonged + 2 short every 2 min, towed vessel 1 prolonged + 3 short, pilot 4 short + 1 prolonged + H flag etc, at anchor bell rapid 5 sec every 1 min + 3 bell strokes before after, aground 3 bell + gong? 5 sec bell + 3 separate strokes + gong 5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over square, flames, rocket parachute red, smoke orange, arms up down, EPIRB, SART, flag, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART E EXEMPTIONS - Rule 38 Exemptions for keel laid before 1977.
+
+ANNEXES - Annex I positioning of lights - horizontal sectors, vertical separation. Annex II additional signals for fishing close proximity - white over white? Actually two cones apex together? No. Annex III whistle technical - frequency 70-700Hz, audibility 0.5-2 miles. Annex IV distress.
+
+PSC & EXAM: Overtaking sector 22.5 deg abaft, safe speed factors, NUC 2 red 2 balls, RAM red white red, CBD 3 red, pilot white over red, anchor bell 5 sec, 1 short starboard, risk of collision bearing constant.
+
+IAMSAR tie-in - 3 volumes, SAR patterns: Expanding square, Sector search, Parallel track, Creeping line.
+
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+
+PART A GENERAL - Rule 1 Application - all vessels upon high seas and connected navigable waters. Rule 2 Responsibility - No rule exonerates negligence. Rule 3 Definitions - Vessel includes WIG, Not under command NUC - vessel through exceptional circumstance unable to manoeuvre, Restricted ability RAM - work - dredging, cable laying, mine clearance, towing that restricts, Constrained by draught CBD - power driven vessel limited by draught e.g., VLCC in channel, Fishing - gear restricts. Length, breadth, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART B STEERING & SAILING - Section I any visibility: Rule 4 Application, Rule 5 Lookout - proper by sight hearing all available means. Rule 6 Safe speed - 8 factors for all vessels + 6 for radar: state of visibility, traffic density, manoeuvrability, background light, draught, radar limitations. Rule 7 Risk of collision - compass bearing not changing indicates risk, if large vessel bearing may change but risk still. Rule 8 Action to avoid collision - early, substantial, good seamanship, if power driven maybe stop. Rule 9 Narrow channels - vessel <20m or sailing shall not impede vessel that can navigate only in channel, fishing shall not impede, CBD shall not impede but others shall not impede CBD? Actually CBD vessel shall not impede? No - vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small angle, not cross unless 90 deg, not impede 10(j) for vessel <20m, sailing, fishing, etc. Rule 10(i) BNWAS? No. Inshore traffic zone.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section II in sight: Rule 11 Application, Rule 12 Sailing vessels - windward gives way to leeward? Actually wind on same side leeward gives way? Correct: Port tack gives way to starboard tack, windward gives way to leeward when same tack, if port tack cannot determine windward gives way. Rule 13 Overtaking - any vessel overtaking shall keep out, definition - coming up from >22.5 deg abaft beam (112.5 to 247.5). Until finally past and clear. Rule 14 Head-on - power driven vessels meeting reciprocal courses each alter to starboard. Rule 15 Crossing - vessel which has other on starboard side shall give way, avoid crossing ahead. Rule 16 Give way vessel - early substantial action. Rule 17 Stand-on vessel - shall keep course and speed, may take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels -
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels - Order: NUC, RAM, CBD, Fishing, Sailing, Power driven, Seaplane. NUC shall keep clear? Actually all shall keep clear of NUC and RAM, etc. Power gives way to all except seaplane. Sailing gives way to fishing, NUC, RAM, CBD.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section III restricted visibility: Rule 19 - All vessels shall proceed at safe speed adapted to visibility, power shall have engines ready. Detection by radar alone - shall determine if risk. Action: If forward of beam other than overtaking shall avoid altering to port for vessel forward, avoid altering to starboard for vessel abeam or abaft. If abaft beam avoid altering towards vessel. Shall reduce speed, be ready to manoeuvre, stop if necessary. Sound signals - not in sight.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART C LIGHTS & SHAPES - Rule 20 Application sunset to sunrise + restricted visibility. Rule 21 Definitions: Masthead 225 deg, sidelights 112.5 deg each, sternlight 135 deg, towing light yellow 135 deg, all-round 360, flashing 120 per min. Rule 22 Visibility: <12m 1 mile sidelights, <20m 2 miles masthead, <50m 5 miles masthead for >=50m, etc. 50m and above 6 miles masthead, 3 miles sidelights stern towing, 3 miles all-round. Rule 23 Power driven underway - masthead + sidelights + sternlight, <50m 1 masthead, >=50m 2 mastheads, air-cushion yellow flashing. Rule 24 Towing - 2 mastheads if length tow >200m 3 mastheads, sidelights, sternlight, towing light above sternlight, diamond shape if tow >200m. Pushing ahead - not showing towing light, 2 mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion has cone apex down. Rule 26 Fishing - red over white trawling shooting nets 2 all-round red white? Actually trawling green over white, 2 all-round basket shape. Fishing other than trawling red over white, basket. Rule 27 NUC - 2 red all-round + 2 balls, RAM - red white red + ball diamond ball, RAM <50m no masthead? Shows masthead + sidelights + sternlight + RAM lights. Minesweeper green over white? Actually green over white? Rule 27 minesweeping: 3 green lights - 1 masthead + 2 green all-round? No 2 green at yardarms. Rule 28 CBD - 3 red all-round in vertical + cylinder shape. Rule 29 Pilot - white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in roadstead. Aground - 2 red + 3 balls + anchor lights. Rule 31 Seaplane WIG.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART D SOUND & LIGHT - Rule 32 Definitions whistle, short 1 sec, prolonged 4-6 sec, bell 300mm dia for <20m? Actually <20m no bell required, 12-20m 200mm bell? 20m+ bell + gong. Rule 33 Equipment - <12m any means, 12-20m whistle + bell? Actually 12-20m whistle bell 7.5 sec, 20m+ whistle bell gong. Rule 34 Manoeuvring & warning - 1 short starboard, 2 port, 3 astern, 5 short doubt. Rule 35 Restricted visibility - Power underway 1 prolonged every 2 min, stopped 2 prolonged, NUC RAM sailing fishing towing 1 prolonged + 2 short every 2 min, towed vessel 1 prolonged + 3 short, pilot 4 short + 1 prolonged + H flag etc, at anchor bell rapid 5 sec every 1 min + 3 bell strokes before after, aground 3 bell + gong? 5 sec bell + 3 separate strokes + gong 5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over square, flames, rocket parachute red, smoke orange, arms up down, EPIRB, SART, flag, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART E EXEMPTIONS - Rule 38 Exemptions for keel laid before 1977.
+
+ANNEXES - Annex I positioning of lights - horizontal sectors, vertical separation. Annex II additional signals for fishing close proximity - white over white? Actually two cones apex together? No. Annex III whistle technical - frequency 70-700Hz, audibility 0.5-2 miles. Annex IV distress.
+
+PSC & EXAM: Overtaking sector 22.5 deg abaft, safe speed factors, NUC 2 red 2 balls, RAM red white red, CBD 3 red, pilot white over red, anchor bell 5 sec, 1 short starboard, risk of collision bearing constant.
+
+IAMSAR tie-in - 3 volumes, SAR patterns: Expanding square, Sector search, Parallel track, Creeping line.
+
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+
+PART A GENERAL - Rule 1 Application - all vessels upon high seas and connected navigable waters. Rule 2 Responsibility - No rule exonerates negligence. Rule 3 Definitions - Vessel includes WIG, Not under command NUC - vessel through exceptional circumstance unable to manoeuvre, Restricted ability RAM - work - dredging, cable laying, mine clearance, towing that restricts, Constrained by draught CBD - power driven vessel limited by draught e.g., VLCC in channel, Fishing - gear restricts. Length, breadth, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART B STEERING & SAILING - Section I any visibility: Rule 4 Application, Rule 5 Lookout - proper by sight hearing all available means. Rule 6 Safe speed - 8 factors for all vessels + 6 for radar: state of visibility, traffic density, manoeuvrability, background light, draught, radar limitations. Rule 7 Risk of collision - compass bearing not changing indicates risk, if large vessel bearing may change but risk still. Rule 8 Action to avoid collision - early, substantial, good seamanship, if power driven maybe stop. Rule 9 Narrow channels - vessel <20m or sailing shall not impede vessel that can navigate only in channel, fishing shall not impede, CBD shall not impede but others shall not impede CBD? Actually CBD vessel shall not impede? No - vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small angle, not cross unless 90 deg, not impede 10(j) for vessel <20m, sailing, fishing, etc. Rule 10(i) BNWAS? No. Inshore traffic zone.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section II in sight: Rule 11 Application, Rule 12 Sailing vessels - windward gives way to leeward? Actually wind on same side leeward gives way? Correct: Port tack gives way to starboard tack, windward gives way to leeward when same tack, if port tack cannot determine windward gives way. Rule 13 Overtaking - any vessel overtaking shall keep out, definition - coming up from >22.5 deg abaft beam (112.5 to 247.5). Until finally past and clear. Rule 14 Head-on - power driven vessels meeting reciprocal courses each alter to starboard. Rule 15 Crossing - vessel which has other on starboard side shall give way, avoid crossing ahead. Rule 16 Give way vessel - early substantial action. Rule 17 Stand-on vessel - shall keep course and speed, may take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels -
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels - Order: NUC, RAM, CBD, Fishing, Sailing, Power driven, Seaplane. NUC shall keep clear? Actually all shall keep clear of NUC and RAM, etc. Power gives way to all except seaplane. Sailing gives way to fishing, NUC, RAM, CBD.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section III restricted visibility: Rule 19 - All vessels shall proceed at safe speed adapted to visibility, power shall have engines ready. Detection by radar alone - shall determine if risk. Action: If forward of beam other than overtaking shall avoid altering to port for vessel forward, avoid altering to starboard for vessel abeam or abaft. If abaft beam avoid altering towards vessel. Shall reduce speed, be ready to manoeuvre, stop if necessary. Sound signals - not in sight.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART C LIGHTS & SHAPES - Rule 20 Application sunset to sunrise + restricted visibility. Rule 21 Definitions: Masthead 225 deg, sidelights 112.5 deg each, sternlight 135 deg, towing light yellow 135 deg, all-round 360, flashing 120 per min. Rule 22 Visibility: <12m 1 mile sidelights, <20m 2 miles masthead, <50m 5 miles masthead for >=50m, etc. 50m and above 6 miles masthead, 3 miles sidelights stern towing, 3 miles all-round. Rule 23 Power driven underway - masthead + sidelights + sternlight, <50m 1 masthead, >=50m 2 mastheads, air-cushion yellow flashing. Rule 24 Towing - 2 mastheads if length tow >200m 3 mastheads, sidelights, sternlight, towing light above sternlight, diamond shape if tow >200m. Pushing ahead - not showing towing light, 2 mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion has cone apex down. Rule 26 Fishing - red over white trawling shooting nets 2 all-round red white? Actually trawling green over white, 2 all-round basket shape. Fishing other than trawling red over white, basket. Rule 27 NUC - 2 red all-round + 2 balls, RAM - red white red + ball diamond ball, RAM <50m no masthead? Shows masthead + sidelights + sternlight + RAM lights. Minesweeper green over white? Actually green over white? Rule 27 minesweeping: 3 green lights - 1 masthead + 2 green all-round? No 2 green at yardarms. Rule 28 CBD - 3 red all-round in vertical + cylinder shape. Rule 29 Pilot - white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in roadstead. Aground - 2 red + 3 balls + anchor lights. Rule 31 Seaplane WIG.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART D SOUND & LIGHT - Rule 32 Definitions whistle, short 1 sec, prolonged 4-6 sec, bell 300mm dia for <20m? Actually <20m no bell required, 12-20m 200mm bell? 20m+ bell + gong. Rule 33 Equipment - <12m any means, 12-20m whistle + bell? Actually 12-20m whistle bell 7.5 sec, 20m+ whistle bell gong. Rule 34 Manoeuvring & warning - 1 short starboard, 2 port, 3 astern, 5 short doubt. Rule 35 Restricted visibility - Power underway 1 prolonged every 2 min, stopped 2 prolonged, NUC RAM sailing fishing towing 1 prolonged + 2 short every 2 min, towed vessel 1 prolonged + 3 short, pilot 4 short + 1 prolonged + H flag etc, at anchor bell rapid 5 sec every 1 min + 3 bell strokes before after, aground 3 bell + gong? 5 sec bell + 3 separate strokes + gong 5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over square, flames, rocket parachute red, smoke orange, arms up down, EPIRB, SART, flag, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART E EXEMPTIONS - Rule 38 Exemptions for keel laid before 1977.
+
+ANNEXES - Annex I positioning of lights - horizontal sectors, vertical separation. Annex II additional signals for fishing close proximity - white over white? Actually two cones apex together? No. Annex III whistle technical - frequency 70-700Hz, audibility 0.5-2 miles. Annex IV distress.
+
+PSC & EXAM: Overtaking sector 22.5 deg abaft, safe speed factors, NUC 2 red 2 balls, RAM red white red, CBD 3 red, pilot white over red, anchor bell 5 sec, 1 short starboard, risk of collision bearing constant.
+
+IAMSAR tie-in - 3 volumes, SAR patterns: Expanding square, Sector search, Parallel track, Creeping line.
+
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+
+PART A GENERAL - Rule 1 Application - all vessels upon high seas and connected navigable waters. Rule 2 Responsibility - No rule exonerates negligence. Rule 3 Definitions - Vessel includes WIG, Not under command NUC - vessel through exceptional circumstance unable to manoeuvre, Restricted ability RAM - work - dredging, cable laying, mine clearance, towing that restricts, Constrained by draught CBD - power driven vessel limited by draught e.g., VLCC in channel, Fishing - gear restricts. Length, breadth, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART B STEERING & SAILING - Section I any visibility: Rule 4 Application, Rule 5 Lookout - proper by sight hearing all available means. Rule 6 Safe speed - 8 factors for all vessels + 6 for radar: state of visibility, traffic density, manoeuvrability, background light, draught, radar limitations. Rule 7 Risk of collision - compass bearing not changing indicates risk, if large vessel bearing may change but risk still. Rule 8 Action to avoid collision - early, substantial, good seamanship, if power driven maybe stop. Rule 9 Narrow channels - vessel <20m or sailing shall not impede vessel that can navigate only in channel, fishing shall not impede, CBD shall not impede but others shall not impede CBD? Actually CBD vessel shall not impede? No - vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small angle, not cross unless 90 deg, not impede 10(j) for vessel <20m, sailing, fishing, etc. Rule 10(i) BNWAS? No. Inshore traffic zone.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section II in sight: Rule 11 Application, Rule 12 Sailing vessels - windward gives way to leeward? Actually wind on same side leeward gives way? Correct: Port tack gives way to starboard tack, windward gives way to leeward when same tack, if port tack cannot determine windward gives way. Rule 13 Overtaking - any vessel overtaking shall keep out, definition - coming up from >22.5 deg abaft beam (112.5 to 247.5). Until finally past and clear. Rule 14 Head-on - power driven vessels meeting reciprocal courses each alter to starboard. Rule 15 Crossing - vessel which has other on starboard side shall give way, avoid crossing ahead. Rule 16 Give way vessel - early substantial action. Rule 17 Stand-on vessel - shall keep course and speed, may take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels -
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels - Order: NUC, RAM, CBD, Fishing, Sailing, Power driven, Seaplane. NUC shall keep clear? Actually all shall keep clear of NUC and RAM, etc. Power gives way to all except seaplane. Sailing gives way to fishing, NUC, RAM, CBD.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section III restricted visibility: Rule 19 - All vessels shall proceed at safe speed adapted to visibility, power shall have engines ready. Detection by radar alone - shall determine if risk. Action: If forward of beam other than overtaking shall avoid altering to port for vessel forward, avoid altering to starboard for vessel abeam or abaft. If abaft beam avoid altering towards vessel. Shall reduce speed, be ready to manoeuvre, stop if necessary. Sound signals - not in sight.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART C LIGHTS & SHAPES - Rule 20 Application sunset to sunrise + restricted visibility. Rule 21 Definitions: Masthead 225 deg, sidelights 112.5 deg each, sternlight 135 deg, towing light yellow 135 deg, all-round 360, flashing 120 per min. Rule 22 Visibility: <12m 1 mile sidelights, <20m 2 miles masthead, <50m 5 miles masthead for >=50m, etc. 50m and above 6 miles masthead, 3 miles sidelights stern towing, 3 miles all-round. Rule 23 Power driven underway - masthead + sidelights + sternlight, <50m 1 masthead, >=50m 2 mastheads, air-cushion yellow flashing. Rule 24 Towing - 2 mastheads if length tow >200m 3 mastheads, sidelights, sternlight, towing light above sternlight, diamond shape if tow >200m. Pushing ahead - not showing towing light, 2 mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion has cone apex down. Rule 26 Fishing - red over white trawling shooting nets 2 all-round red white? Actually trawling green over white, 2 all-round basket shape. Fishing other than trawling red over white, basket. Rule 27 NUC - 2 red all-round + 2 balls, RAM - red white red + ball diamond ball, RAM <50m no masthead? Shows masthead + sidelights + sternlight + RAM lights. Minesweeper green over white? Actually green over white? Rule 27 minesweeping: 3 green lights - 1 masthead + 2 green all-round? No 2 green at yardarms. Rule 28 CBD - 3 red all-round in vertical + cylinder shape. Rule 29 Pilot - white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in roadstead. Aground - 2 red + 3 balls + anchor lights. Rule 31 Seaplane WIG.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART D SOUND & LIGHT - Rule 32 Definitions whistle, short 1 sec, prolonged 4-6 sec, bell 300mm dia for <20m? Actually <20m no bell required, 12-20m 200mm bell? 20m+ bell + gong. Rule 33 Equipment - <12m any means, 12-20m whistle + bell? Actually 12-20m whistle bell 7.5 sec, 20m+ whistle bell gong. Rule 34 Manoeuvring & warning - 1 short starboard, 2 port, 3 astern, 5 short doubt. Rule 35 Restricted visibility - Power underway 1 prolonged every 2 min, stopped 2 prolonged, NUC RAM sailing fishing towing 1 prolonged + 2 short every 2 min, towed vessel 1 prolonged + 3 short, pilot 4 short + 1 prolonged + H flag etc, at anchor bell rapid 5 sec every 1 min + 3 bell strokes before after, aground 3 bell + gong? 5 sec bell + 3 separate strokes + gong 5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over square, flames, rocket parachute red, smoke orange, arms up down, EPIRB, SART, flag, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART E EXEMPTIONS - Rule 38 Exemptions for keel laid before 1977.
+
+ANNEXES - Annex I positioning of lights - horizontal sectors, vertical separation. Annex II additional signals for fishing close proximity - white over white? Actually two cones apex together? No. Annex III whistle technical - frequency 70-700Hz, audibility 0.5-2 miles. Annex IV distress.
+
+PSC & EXAM: Overtaking sector 22.5 deg abaft, safe speed factors, NUC 2 red 2 balls, RAM red white red, CBD 3 red, pilot white over red, anchor bell 5 sec, 1 short starboard, risk of collision bearing constant.
+
+IAMSAR tie-in - 3 volumes, SAR patterns: Expanding square, Sector search, Parallel track, Creeping line.
+
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+
+PART A GENERAL - Rule 1 Application - all vessels upon high seas and connected navigable waters. Rule 2 Responsibility - No rule exonerates negligence. Rule 3 Definitions - Vessel includes WIG, Not under command NUC - vessel through exceptional circumstance unable to manoeuvre, Restricted ability RAM - work - dredging, cable laying, mine clearance, towing that restricts, Constrained by draught CBD - power driven vessel limited by draught e.g., VLCC in channel, Fishing - gear restricts. Length, breadth, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART B STEERING & SAILING - Section I any visibility: Rule 4 Application, Rule 5 Lookout - proper by sight hearing all available means. Rule 6 Safe speed - 8 factors for all vessels + 6 for radar: state of visibility, traffic density, manoeuvrability, background light, draught, radar limitations. Rule 7 Risk of collision - compass bearing not changing indicates risk, if large vessel bearing may change but risk still. Rule 8 Action to avoid collision - early, substantial, good seamanship, if power driven maybe stop. Rule 9 Narrow channels - vessel <20m or sailing shall not impede vessel that can navigate only in channel, fishing shall not impede, CBD shall not impede but others shall not impede CBD? Actually CBD vessel shall not impede? No - vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small angle, not cross unless 90 deg, not impede 10(j) for vessel <20m, sailing, fishing, etc. Rule 10(i) BNWAS? No. Inshore traffic zone.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section II in sight: Rule 11 Application, Rule 12 Sailing vessels - windward gives way to leeward? Actually wind on same side leeward gives way? Correct: Port tack gives way to starboard tack, windward gives way to leeward when same tack, if port tack cannot determine windward gives way. Rule 13 Overtaking - any vessel overtaking shall keep out, definition - coming up from >22.5 deg abaft beam (112.5 to 247.5). Until finally past and clear. Rule 14 Head-on - power driven vessels meeting reciprocal courses each alter to starboard. Rule 15 Crossing - vessel which has other on starboard side shall give way, avoid crossing ahead. Rule 16 Give way vessel - early substantial action. Rule 17 Stand-on vessel - shall keep course and speed, may take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels -
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels - Order: NUC, RAM, CBD, Fishing, Sailing, Power driven, Seaplane. NUC shall keep clear? Actually all shall keep clear of NUC and RAM, etc. Power gives way to all except seaplane. Sailing gives way to fishing, NUC, RAM, CBD.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section III restricted visibility: Rule 19 - All vessels shall proceed at safe speed adapted to visibility, power shall have engines ready. Detection by radar alone - shall determine if risk. Action: If forward of beam other than overtaking shall avoid altering to port for vessel forward, avoid altering to starboard for vessel abeam or abaft. If abaft beam avoid altering towards vessel. Shall reduce speed, be ready to manoeuvre, stop if necessary. Sound signals - not in sight.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART C LIGHTS & SHAPES - Rule 20 Application sunset to sunrise + restricted visibility. Rule 21 Definitions: Masthead 225 deg, sidelights 112.5 deg each, sternlight 135 deg, towing light yellow 135 deg, all-round 360, flashing 120 per min. Rule 22 Visibility: <12m 1 mile sidelights, <20m 2 miles masthead, <50m 5 miles masthead for >=50m, etc. 50m and above 6 miles masthead, 3 miles sidelights stern towing, 3 miles all-round. Rule 23 Power driven underway - masthead + sidelights + sternlight, <50m 1 masthead, >=50m 2 mastheads, air-cushion yellow flashing. Rule 24 Towing - 2 mastheads if length tow >200m 3 mastheads, sidelights, sternlight, towing light above sternlight, diamond shape if tow >200m. Pushing ahead - not showing towing light, 2 mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion has cone apex down. Rule 26 Fishing - red over white trawling shooting nets 2 all-round red white? Actually trawling green over white, 2 all-round basket shape. Fishing other than trawling red over white, basket. Rule 27 NUC - 2 red all-round + 2 balls, RAM - red white red + ball diamond ball, RAM <50m no masthead? Shows masthead + sidelights + sternlight + RAM lights. Minesweeper green over white? Actually green over white? Rule 27 minesweeping: 3 green lights - 1 masthead + 2 green all-round? No 2 green at yardarms. Rule 28 CBD - 3 red all-round in vertical + cylinder shape. Rule 29 Pilot - white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in roadstead. Aground - 2 red + 3 balls + anchor lights. Rule 31 Seaplane WIG.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART D SOUND & LIGHT - Rule 32 Definitions whistle, short 1 sec, prolonged 4-6 sec, bell 300mm dia for <20m? Actually <20m no bell required, 12-20m 200mm bell? 20m+ bell + gong. Rule 33 Equipment - <12m any means, 12-20m whistle + bell? Actually 12-20m whistle bell 7.5 sec, 20m+ whistle bell gong. Rule 34 Manoeuvring & warning - 1 short starboard, 2 port, 3 astern, 5 short doubt. Rule 35 Restricted visibility - Power underway 1 prolonged every 2 min, stopped 2 prolonged, NUC RAM sailing fishing towing 1 prolonged + 2 short every 2 min, towed vessel 1 prolonged + 3 short, pilot 4 short + 1 prolonged + H flag etc, at anchor bell rapid 5 sec every 1 min + 3 bell strokes before after, aground 3 bell + gong? 5 sec bell + 3 separate strokes + gong 5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over square, flames, rocket parachute red, smoke orange, arms up down, EPIRB, SART, flag, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART E EXEMPTIONS - Rule 38 Exemptions for keel laid before 1977.
+
+ANNEXES - Annex I positioning of lights - horizontal sectors, vertical separation. Annex II additional signals for fishing close proximity - white over white? Actually two cones apex together? No. Annex III whistle technical - frequency 70-700Hz, audibility 0.5-2 miles. Annex IV distress.
+
+PSC & EXAM: Overtaking sector 22.5 deg abaft, safe speed factors, NUC 2 red 2 balls, RAM red white red, CBD 3 red, pilot white over red, anchor bell 5 sec, 1 short starboard, risk of collision bearing constant.
+
+IAMSAR tie-in - 3 volumes, SAR patterns: Expanding square, Sector search, Parallel track, Creeping line.
+
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+
+PART A GENERAL - Rule 1 Application - all vessels upon high seas and connected navigable waters. Rule 2 Responsibility - No rule exonerates negligence. Rule 3 Definitions - Vessel includes WIG, Not under command NUC - vessel through exceptional circumstance unable to manoeuvre, Restricted ability RAM - work - dredging, cable laying, mine clearance, towing that restricts, Constrained by draught CBD - power driven vessel limited by draught e.g., VLCC in channel, Fishing - gear restricts. Length, breadth, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART B STEERING & SAILING - Section I any visibility: Rule 4 Application, Rule 5 Lookout - proper by sight hearing all available means. Rule 6 Safe speed - 8 factors for all vessels + 6 for radar: state of visibility, traffic density, manoeuvrability, background light, draught, radar limitations. Rule 7 Risk of collision - compass bearing not changing indicates risk, if large vessel bearing may change but risk still. Rule 8 Action to avoid collision - early, substantial, good seamanship, if power driven maybe stop. Rule 9 Narrow channels - vessel <20m or sailing shall not impede vessel that can navigate only in channel, fishing shall not impede, CBD shall not impede but others shall not impede CBD? Actually CBD vessel shall not impede? No - vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small angle, not cross unless 90 deg, not impede 10(j) for vessel <20m, sailing, fishing, etc. Rule 10(i) BNWAS? No. Inshore traffic zone.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section II in sight: Rule 11 Application, Rule 12 Sailing vessels - windward gives way to leeward? Actually wind on same side leeward gives way? Correct: Port tack gives way to starboard tack, windward gives way to leeward when same tack, if port tack cannot determine windward gives way. Rule 13 Overtaking - any vessel overtaking shall keep out, definition - coming up from >22.5 deg abaft beam (112.5 to 247.5). Until finally past and clear. Rule 14 Head-on - power driven vessels meeting reciprocal courses each alter to starboard. Rule 15 Crossing - vessel which has other on starboard side shall give way, avoid crossing ahead. Rule 16 Give way vessel - early substantial action. Rule 17 Stand-on vessel - shall keep course and speed, may take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels -
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels - Order: NUC, RAM, CBD, Fishing, Sailing, Power driven, Seaplane. NUC shall keep clear? Actually all shall keep clear of NUC and RAM, etc. Power gives way to all except seaplane. Sailing gives way to fishing, NUC, RAM, CBD.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section III restricted visibility: Rule 19 - All vessels shall proceed at safe speed adapted to visibility, power shall have engines ready. Detection by radar alone - shall determine if risk. Action: If forward of beam other than overtaking shall avoid altering to port for vessel forward, avoid altering to starboard for vessel abeam or abaft. If abaft beam avoid altering towards vessel. Shall reduce speed, be ready to manoeuvre, stop if necessary. Sound signals - not in sight.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART C LIGHTS & SHAPES - Rule 20 Application sunset to sunrise + restricted visibility. Rule 21 Definitions: Masthead 225 deg, sidelights 112.5 deg each, sternlight 135 deg, towing light yellow 135 deg, all-round 360, flashing 120 per min. Rule 22 Visibility: <12m 1 mile sidelights, <20m 2 miles masthead, <50m 5 miles masthead for >=50m, etc. 50m and above 6 miles masthead, 3 miles sidelights stern towing, 3 miles all-round. Rule 23 Power driven underway - masthead + sidelights + sternlight, <50m 1 masthead, >=50m 2 mastheads, air-cushion yellow flashing. Rule 24 Towing - 2 mastheads if length tow >200m 3 mastheads, sidelights, sternlight, towing light above sternlight, diamond shape if tow >200m. Pushing ahead - not showing towing light, 2 mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion has cone apex down. Rule 26 Fishing - red over white trawling shooting nets 2 all-round red white? Actually trawling green over white, 2 all-round basket shape. Fishing other than trawling red over white, basket. Rule 27 NUC - 2 red all-round + 2 balls, RAM - red white red + ball diamond ball, RAM <50m no masthead? Shows masthead + sidelights + sternlight + RAM lights. Minesweeper green over white? Actually green over white? Rule 27 minesweeping: 3 green lights - 1 masthead + 2 green all-round? No 2 green at yardarms. Rule 28 CBD - 3 red all-round in vertical + cylinder shape. Rule 29 Pilot - white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in roadstead. Aground - 2 red + 3 balls + anchor lights. Rule 31 Seaplane WIG.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART D SOUND & LIGHT - Rule 32 Definitions whistle, short 1 sec, prolonged 4-6 sec, bell 300mm dia for <20m? Actually <20m no bell required, 12-20m 200mm bell? 20m+ bell + gong. Rule 33 Equipment - <12m any means, 12-20m whistle + bell? Actually 12-20m whistle bell 7.5 sec, 20m+ whistle bell gong. Rule 34 Manoeuvring & warning - 1 short starboard, 2 port, 3 astern, 5 short doubt. Rule 35 Restricted visibility - Power underway 1 prolonged every 2 min, stopped 2 prolonged, NUC RAM sailing fishing towing 1 prolonged + 2 short every 2 min, towed vessel 1 prolonged + 3 short, pilot 4 short + 1 prolonged + H flag etc, at anchor bell rapid 5 sec every 1 min + 3 bell strokes before after, aground 3 bell + gong? 5 sec bell + 3 separate strokes + gong 5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over square, flames, rocket parachute red, smoke orange, arms up down, EPIRB, SART, flag, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART E EXEMPTIONS - Rule 38 Exemptions for keel laid before 1977.
+
+ANNEXES - Annex I positioning of lights - horizontal sectors, vertical separation. Annex II additional signals for fishing close proximity - white over white? Actually two cones apex together? No. Annex III whistle technical - frequency 70-700Hz, audibility 0.5-2 miles. Annex IV distress.
+
+PSC & EXAM: Overtaking sector 22.5 deg abaft, safe speed factors, NUC 2 red 2 balls, RAM red white red, CBD 3 red, pilot white over red, anchor bell 5 sec, 1 short starboard, risk of collision bearing constant.
+
+IAMSAR tie-in - 3 volumes, SAR patterns: Expanding square, Sector search, Parallel track, Creeping line.
+
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+
+PART A GENERAL - Rule 1 Application - all vessels upon high seas and connected navigable waters. Rule 2 Responsibility - No rule exonerates negligence. Rule 3 Definitions - Vessel includes WIG, Not under command NUC - vessel through exceptional circumstance unable to manoeuvre, Restricted ability RAM - work - dredging, cable laying, mine clearance, towing that restricts, Constrained by draught CBD - power driven vessel limited by draught e.g., VLCC in channel, Fishing - gear restricts. Length, breadth, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART B STEERING & SAILING - Section I any visibility: Rule 4 Application, Rule 5 Lookout - proper by sight hearing all available means. Rule 6 Safe speed - 8 factors for all vessels + 6 for radar: state of visibility, traffic density, manoeuvrability, background light, draught, radar limitations. Rule 7 Risk of collision - compass bearing not changing indicates risk, if large vessel bearing may change but risk still. Rule 8 Action to avoid collision - early, substantial, good seamanship, if power driven maybe stop. Rule 9 Narrow channels - vessel <20m or sailing shall not impede vessel that can navigate only in channel, fishing shall not impede, CBD shall not impede but others shall not impede CBD? Actually CBD vessel shall not impede? No - vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small angle, not cross unless 90 deg, not impede 10(j) for vessel <20m, sailing, fishing, etc. Rule 10(i) BNWAS? No. Inshore traffic zone.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section II in sight: Rule 11 Application, Rule 12 Sailing vessels - windward gives way to leeward? Actually wind on same side leeward gives way? Correct: Port tack gives way to starboard tack, windward gives way to leeward when same tack, if port tack cannot determine windward gives way. Rule 13 Overtaking - any vessel overtaking shall keep out, definition - coming up from >22.5 deg abaft beam (112.5 to 247.5). Until finally past and clear. Rule 14 Head-on - power driven vessels meeting reciprocal courses each alter to starboard. Rule 15 Crossing - vessel which has other on starboard side shall give way, avoid crossing ahead. Rule 16 Give way vessel - early substantial action. Rule 17 Stand-on vessel - shall keep course and speed, may take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels -
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels - Order: NUC, RAM, CBD, Fishing, Sailing, Power driven, Seaplane. NUC shall keep clear? Actually all shall keep clear of NUC and RAM, etc. Power gives way to all except seaplane. Sailing gives way to fishing, NUC, RAM, CBD.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section III restricted visibility: Rule 19 - All vessels shall proceed at safe speed adapted to visibility, power shall have engines ready. Detection by radar alone - shall determine if risk. Action: If forward of beam other than overtaking shall avoid altering to port for vessel forward, avoid altering to starboard for vessel abeam or abaft. If abaft beam avoid altering towards vessel. Shall reduce speed, be ready to manoeuvre, stop if necessary. Sound signals - not in sight.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART C LIGHTS & SHAPES - Rule 20 Application sunset to sunrise + restricted visibility. Rule 21 Definitions: Masthead 225 deg, sidelights 112.5 deg each, sternlight 135 deg, towing light yellow 135 deg, all-round 360, flashing 120 per min. Rule 22 Visibility: <12m 1 mile sidelights, <20m 2 miles masthead, <50m 5 miles masthead for >=50m, etc. 50m and above 6 miles masthead, 3 miles sidelights stern towing, 3 miles all-round. Rule 23 Power driven underway - masthead + sidelights + sternlight, <50m 1 masthead, >=50m 2 mastheads, air-cushion yellow flashing. Rule 24 Towing - 2 mastheads if length tow >200m 3 mastheads, sidelights, sternlight, towing light above sternlight, diamond shape if tow >200m. Pushing ahead - not showing towing light, 2 mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion has cone apex down. Rule 26 Fishing - red over white trawling shooting nets 2 all-round red white? Actually trawling green over white, 2 all-round basket shape. Fishing other than trawling red over white, basket. Rule 27 NUC - 2 red all-round + 2 balls, RAM - red white red + ball diamond ball, RAM <50m no masthead? Shows masthead + sidelights + sternlight + RAM lights. Minesweeper green over white? Actually green over white? Rule 27 minesweeping: 3 green lights - 1 masthead + 2 green all-round? No 2 green at yardarms. Rule 28 CBD - 3 red all-round in vertical + cylinder shape. Rule 29 Pilot - white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in roadstead. Aground - 2 red + 3 balls + anchor lights. Rule 31 Seaplane WIG.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART D SOUND & LIGHT - Rule 32 Definitions whistle, short 1 sec, prolonged 4-6 sec, bell 300mm dia for <20m? Actually <20m no bell required, 12-20m 200mm bell? 20m+ bell + gong. Rule 33 Equipment - <12m any means, 12-20m whistle + bell? Actually 12-20m whistle bell 7.5 sec, 20m+ whistle bell gong. Rule 34 Manoeuvring & warning - 1 short starboard, 2 port, 3 astern, 5 short doubt. Rule 35 Restricted visibility - Power underway 1 prolonged every 2 min, stopped 2 prolonged, NUC RAM sailing fishing towing 1 prolonged + 2 short every 2 min, towed vessel 1 prolonged + 3 short, pilot 4 short + 1 prolonged + H flag etc, at anchor bell rapid 5 sec every 1 min + 3 bell strokes before after, aground 3 bell + gong? 5 sec bell + 3 separate strokes + gong 5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over square, flames, rocket parachute red, smoke orange, arms up down, EPIRB, SART, flag, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART E EXEMPTIONS - Rule 38 Exemptions for keel laid before 1977.
+
+ANNEXES - Annex I positioning of lights - horizontal sectors, vertical separation. Annex II additional signals for fishing close proximity - white over white? Actually two cones apex together? No. Annex III whistle technical - frequency 70-700Hz, audibility 0.5-2 miles. Annex IV distress.
+
+PSC & EXAM: Overtaking sector 22.5 deg abaft, safe speed factors, NUC 2 red 2 balls, RAM red white red, CBD 3 red, pilot white over red, anchor bell 5 sec, 1 short starboard, risk of collision bearing constant.
+
+IAMSAR tie-in - 3 volumes, SAR patterns: Expanding square, Sector search, Parallel track, Creeping line.
+
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+COLREG DEEP - 41 Rules + 4 Annexes
+
+PART A GENERAL - Rule 1 Application - all vessels upon high seas and connected navigable waters. Rule 2 Responsibility - No rule exonerates negligence. Rule 3 Definitions - Vessel includes WIG, Not under command NUC - vessel through exceptional circumstance unable to manoeuvre, Restricted ability RAM - work - dredging, cable laying, mine clearance, towing that restricts, Constrained by draught CBD - power driven vessel limited by draught e.g., VLCC in channel, Fishing - gear restricts. Length, breadth, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART B STEERING & SAILING - Section I any visibility: Rule 4 Application, Rule 5 Lookout - proper by sight hearing all available means. Rule 6 Safe speed - 8 factors for all vessels + 6 for radar: state of visibility, traffic density, manoeuvrability, background light, draught, radar limitations. Rule 7 Risk of collision - compass bearing not changing indicates risk, if large vessel bearing may change but risk still. Rule 8 Action to avoid collision - early, substantial, good seamanship, if power driven maybe stop. Rule 9 Narrow channels - vessel <20m or sailing shall not impede vessel that can navigate only in channel, fishing shall not impede, CBD shall not impede but others shall not impede CBD? Actually CBD vessel shall not impede? No - vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small angle, not cross unless 90 deg, not impede 10(j) for vessel <20m, sailing, fishing, etc. Rule 10(i) BNWAS? No. Inshore traffic zone.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section II in sight: Rule 11 Application, Rule 12 Sailing vessels - windward gives way to leeward? Actually wind on same side leeward gives way? Correct: Port tack gives way to starboard tack, windward gives way to leeward when same tack, if port tack cannot determine windward gives way. Rule 13 Overtaking - any vessel overtaking shall keep out, definition - coming up from >22.5 deg abaft beam (112.5 to 247.5). Until finally past and clear. Rule 14 Head-on - power driven vessels meeting reciprocal courses each alter to starboard. Rule 15 Crossing - vessel which has other on starboard side shall give way, avoid crossing ahead. Rule 16 Give way vessel - early substantial action. Rule 17 Stand-on vessel - shall keep course and speed, may take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels -
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels - Order: NUC, RAM, CBD, Fishing, Sailing, Power driven, Seaplane. NUC shall keep clear? Actually all shall keep clear of NUC and RAM, etc. Power gives way to all except seaplane. Sailing gives way to fishing, NUC, RAM, CBD.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+Section III restricted visibility: Rule 19 - All vessels shall proceed at safe speed adapted to visibility, power shall have engines ready. Detection by radar alone - shall determine if risk. Action: If forward of beam other than overtaking shall avoid altering to port for vessel forward, avoid altering to starboard for vessel abeam or abaft. If abaft beam avoid altering towards vessel. Shall reduce speed, be ready to manoeuvre, stop if necessary. Sound signals - not in sight.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART C LIGHTS & SHAPES - Rule 20 Application sunset to sunrise + restricted visibility. Rule 21 Definitions: Masthead 225 deg, sidelights 112.5 deg each, sternlight 135 deg, towing light yellow 135 deg, all-round 360, flashing 120 per min. Rule 22 Visibility: <12m 1 mile sidelights, <20m 2 miles masthead, <50m 5 miles masthead for >=50m, etc. 50m and above 6 miles masthead, 3 miles sidelights stern towing, 3 miles all-round. Rule 23 Power driven underway - masthead + sidelights + sternlight, <50m 1 masthead, >=50m 2 mastheads, air-cushion yellow flashing. Rule 24 Towing - 2 mastheads if length tow >200m 3 mastheads, sidelights, sternlight, towing light above sternlight, diamond shape if tow >200m. Pushing ahead - not showing towing light, 2 mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion has cone apex down. Rule 26 Fishing - red over white trawling shooting nets 2 all-round red white? Actually trawling green over white, 2 all-round basket shape. Fishing other than trawling red over white, basket. Rule 27 NUC - 2 red all-round + 2 balls, RAM - red white red + ball diamond ball, RAM <50m no masthead? Shows masthead + sidelights + sternlight + RAM lights. Minesweeper green over white? Actually green over white? Rule 27 minesweeping: 3 green lights - 1 masthead + 2 green all-round? No 2 green at yardarms. Rule 28 CBD - 3 red all-round in vertical + cylinder shape. Rule 29 Pilot - white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+- white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in roadstead. Aground - 2 red + 3 balls + anchor lights. Rule 31 Seaplane WIG.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART D SOUND & LIGHT - Rule 32 Definitions whistle, short 1 sec, prolonged 4-6 sec, bell 300mm dia for <20m? Actually <20m no bell required, 12-20m 200mm bell? 20m+ bell + gong. Rule 33 Equipment - <12m any means, 12-20m whistle + bell? Actually 12-20m whistle bell 7.5 sec, 20m+ whistle bell gong. Rule 34 Manoeuvring & warning - 1 short starboard, 2 port, 3 astern, 5 short doubt. Rule 35 Restricted visibility - Power underway 1 prolonged every 2 min, stopped 2 prolonged, NUC RAM sailing fishing towing 1 prolonged + 2 short every 2 min, towed vessel 1 prolonged + 3 short, pilot 4 short + 1 prolonged + H flag etc, at anchor bell rapid 5 sec every 1 min + 3 bell strokes before after, aground 3 bell + gong? 5 sec bell + 3 separate strokes + gong 5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over square, flames, rocket parachute red, smoke orange, arms up down, EPIRB, SART, flag, etc.
+---
+
+SOURCE: SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+PART E EXEMPTIONS - Rule 38 Exemptions for keel laid before 1977.
+
+ANNEXES - Annex I positioning of lights - horizontal sectors, vertical separation. Annex II additional signals for fishing close proximity - white over white? Actually two cones apex together? No. Annex III whistle technical - frequency 70-700Hz, audibility 0.5-2 miles. Annex IV distress.
+
+PSC & EXAM: Overtaking sector 22.5 deg abaft, safe speed factors, NUC 2 red 2 balls, RAM red white red, CBD 3 red, pilot white over red, anchor bell 5 sec, 1 short starboard, risk of collision bearing constant.
+
+IAMSAR tie-in - 3 volumes, SAR patterns: Expanding square, Sector search, Parallel track, Creeping line.
+---

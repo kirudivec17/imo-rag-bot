@@ -1,0 +1,415 @@
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ISM CODE DEEP - IMO Res A.741(18) + MSC.353(92)
+
+PREAMBLE - Objective ensure safety, prevent human injury, avoid environmental damage. Company to establish SMS.
+
+ELEMENT 1 GENERAL - 1.2 Objectives provide safe practices, safeguards against risks, continuous improvement. 1.4 Functional requirements for SMS 6 items: Safety & environmental policy, Instructions & procedures, Defined authority, Accident reporting, Emergency preparedness, Internal audit.
+
+ELEMENT 2 SAFETY & ENVIRONMENTAL POLICY - Must be documented, how objectives achieved, signed by top management. Example Maersk policy.
+
+ELEMENT 3 COMPANY RESPONSIBILITIES - Designated Person Ashore DPA - link between ship and shore, direct access to highest management. Responsibility and authority. Resources.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 4 DPA - Requirements: Ensure safe operation, link. Must be shore based, knowledge of SMS, trained.
+
+ELEMENT 5 MASTER'S RESPONSIBILITY & AUTHORITY - 5 items: Implement SMS, motivate crew, issue orders, verify compliance, review SMS. Overriding authority to make decision.
+
+ELEMENT 6 RESOURCES & PERSONNEL - Manning per Safe Manning, qualified, medical fit, familiarization per STCW A-I/14 - must within 14 days, language working language. Training.
+
+ELEMENT 7 SHIPBOARD OPERATIONS - Plans, instructions, checklists per SOLAS - e.g., Arrival departure checklist, bunkering checklist, enclosed space entry, hot work, bridge watchkeeping, engine watchkeeping. Risk assessment.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 8 EMERGENCY PREPAREDNESS - Must identify potential emergencies - collision, grounding, fire, flooding, pollution, piracy, man overboard, loss of propulsion. Drills - fire & abandon ship weekly, enclosed space 2 monthly, SOPEP 3 monthly, oil spill. Shore based emergency response.
+
+ELEMENT 9 REPORTS & ANALYSIS - Non-conformity NC, accident, hazardous occurrence - reporting to company, investigation, corrective action per MSC-MEPC.7/Circ.8.
+
+ELEMENT 10 MAINTENANCE - Planned Maintenance System PMS - critical equipment identified, e.g., steering gear, emergency generator, lifeboat engine, fire pump, OWS, ECDIS. Testing standby equipment.
+
+ELEMENT 11 DOCUMENTATION - What docs required: SMS Manual, procedures, records retention 3 years minimum.
+
+ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+
+ELEMENT 13 CERTIFICATION - DOC Document of Compliance - issued to company after shore audit, valid 5 years annual verification 12 months +/-3. SMC Safety Management Certificate - issued to ship after shipboard audit, valid 5 years intermediate audit between 2nd and 3rd anniversary. Types: Interim DOC 12 months, Interim SMC 12 months, Short term DOC/SMC 5 months.
+
+ELEMENT 14 INTERIM - For new company, new ship type.
+
+NON-CONFORMITY vs MAJOR NC - NC is situation not fulfilling SMS, Major NC is serious threat to safety/environment or systematic failure, leads to detention or DOC/SMC withdrawal. Example: No internal audit 14 months = Major NC.
+
+AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+TMSA 3 Element 2 tied to ISM.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+TMSA 3 Element 2 tied to ISM.
+
+PSC: ISM deficiency 15150 for ISM failure, if many operational deficiencies then ISM audit triggered, SMC not endorsed.
+
+EXAM: 14 elements list, DPA role, Master's overriding authority, DOC 5 years SMC 5 years, Major NC definition.
+
+SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ISM CODE DEEP - IMO Res A.741(18) + MSC.353(92)
+
+PREAMBLE - Objective ensure safety, prevent human injury, avoid environmental damage. Company to establish SMS.
+
+ELEMENT 1 GENERAL - 1.2 Objectives provide safe practices, safeguards against risks, continuous improvement. 1.4 Functional requirements for SMS 6 items: Safety & environmental policy, Instructions & procedures, Defined authority, Accident reporting, Emergency preparedness, Internal audit.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 2 SAFETY & ENVIRONMENTAL POLICY - Must be documented, how objectives achieved, signed by top management. Example Maersk policy.
+
+ELEMENT 3 COMPANY RESPONSIBILITIES - Designated Person Ashore DPA - link between ship and shore, direct access to highest management. Responsibility and authority. Resources.
+
+ELEMENT 4 DPA - Requirements: Ensure safe operation, link. Must be shore based, knowledge of SMS, trained.
+
+ELEMENT 5 MASTER'S RESPONSIBILITY & AUTHORITY - 5 items: Implement SMS, motivate crew, issue orders, verify compliance, review SMS. Overriding authority to make decision.
+
+ELEMENT 6 RESOURCES & PERSONNEL - Manning per Safe Manning, qualified, medical fit, familiarization per STCW A-I/14 - must within 14 days, language working language. Training.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 7 SHIPBOARD OPERATIONS - Plans, instructions, checklists per SOLAS - e.g., Arrival departure checklist, bunkering checklist, enclosed space entry, hot work, bridge watchkeeping, engine watchkeeping. Risk assessment.
+
+ELEMENT 8 EMERGENCY PREPAREDNESS - Must identify potential emergencies - collision, grounding, fire, flooding, pollution, piracy, man overboard, loss of propulsion. Drills - fire & abandon ship weekly, enclosed space 2 monthly, SOPEP 3 monthly, oil spill. Shore based emergency response.
+
+ELEMENT 9 REPORTS & ANALYSIS - Non-conformity NC, accident, hazardous occurrence - reporting to company, investigation, corrective action per MSC-MEPC.7/Circ.8.
+
+ELEMENT 10 MAINTENANCE - Planned Maintenance System PMS - critical equipment identified, e.g., steering gear, emergency generator, lifeboat engine, fire pump, OWS, ECDIS. Testing standby equipment.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 11 DOCUMENTATION - What docs required: SMS Manual, procedures, records retention 3 years minimum.
+
+ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+
+ELEMENT 13 CERTIFICATION - DOC Document of Compliance - issued to company after shore audit, valid 5 years annual verification 12 months +/-3. SMC Safety Management Certificate - issued to ship after shipboard audit, valid 5 years intermediate audit between 2nd and 3rd anniversary. Types: Interim DOC 12 months, Interim SMC 12 months, Short term DOC/SMC 5 months.
+
+ELEMENT 14 INTERIM - For new company, new ship type.
+
+NON-CONFORMITY vs MAJOR NC - NC is situation not fulfilling SMS, Major NC is serious threat to safety/environment or systematic failure, leads to detention or DOC/SMC withdrawal. Example: No internal audit 14 months = Major NC.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+TMSA 3 Element 2 tied to ISM.
+
+PSC: ISM deficiency 15150 for ISM failure, if many operational deficiencies then ISM audit triggered, SMC not endorsed.
+
+EXAM: 14 elements list, DPA role, Master's overriding authority, DOC 5 years SMC 5 years, Major NC definition.
+
+SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ISM CODE DEEP - IMO Res A.741(18) + MSC.353(92)
+
+PREAMBLE - Objective ensure safety, prevent human injury, avoid environmental damage. Company to establish SMS.
+
+ELEMENT 1 GENERAL - 1.2 Objectives provide safe practices, safeguards against risks, continuous improvement. 1.4 Functional requirements for SMS 6 items: Safety & environmental policy, Instructions & procedures, Defined authority, Accident reporting, Emergency preparedness, Internal audit.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 2 SAFETY & ENVIRONMENTAL POLICY - Must be documented, how objectives achieved, signed by top management. Example Maersk policy.
+
+ELEMENT 3 COMPANY RESPONSIBILITIES - Designated Person Ashore DPA - link between ship and shore, direct access to highest management. Responsibility and authority. Resources.
+
+ELEMENT 4 DPA - Requirements: Ensure safe operation, link. Must be shore based, knowledge of SMS, trained.
+
+ELEMENT 5 MASTER'S RESPONSIBILITY & AUTHORITY - 5 items: Implement SMS, motivate crew, issue orders, verify compliance, review SMS. Overriding authority to make decision.
+
+ELEMENT 6 RESOURCES & PERSONNEL - Manning per Safe Manning, qualified, medical fit, familiarization per STCW A-I/14 - must within 14 days, language working language. Training.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 7 SHIPBOARD OPERATIONS - Plans, instructions, checklists per SOLAS - e.g., Arrival departure checklist, bunkering checklist, enclosed space entry, hot work, bridge watchkeeping, engine watchkeeping. Risk assessment.
+
+ELEMENT 8 EMERGENCY PREPAREDNESS - Must identify potential emergencies - collision, grounding, fire, flooding, pollution, piracy, man overboard, loss of propulsion. Drills - fire & abandon ship weekly, enclosed space 2 monthly, SOPEP 3 monthly, oil spill. Shore based emergency response.
+
+ELEMENT 9 REPORTS & ANALYSIS - Non-conformity NC, accident, hazardous occurrence - reporting to company, investigation, corrective action per MSC-MEPC.7/Circ.8.
+
+ELEMENT 10 MAINTENANCE - Planned Maintenance System PMS - critical equipment identified, e.g., steering gear, emergency generator, lifeboat engine, fire pump, OWS, ECDIS. Testing standby equipment.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 11 DOCUMENTATION - What docs required: SMS Manual, procedures, records retention 3 years minimum.
+
+ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+
+ELEMENT 13 CERTIFICATION - DOC Document of Compliance - issued to company after shore audit, valid 5 years annual verification 12 months +/-3. SMC Safety Management Certificate - issued to ship after shipboard audit, valid 5 years intermediate audit between 2nd and 3rd anniversary. Types: Interim DOC 12 months, Interim SMC 12 months, Short term DOC/SMC 5 months.
+
+ELEMENT 14 INTERIM - For new company, new ship type.
+
+NON-CONFORMITY vs MAJOR NC - NC is situation not fulfilling SMS, Major NC is serious threat to safety/environment or systematic failure, leads to detention or DOC/SMC withdrawal. Example: No internal audit 14 months = Major NC.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+TMSA 3 Element 2 tied to ISM.
+
+PSC: ISM deficiency 15150 for ISM failure, if many operational deficiencies then ISM audit triggered, SMC not endorsed.
+
+EXAM: 14 elements list, DPA role, Master's overriding authority, DOC 5 years SMC 5 years, Major NC definition.
+
+SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ISM CODE DEEP - IMO Res A.741(18) + MSC.353(92)
+
+PREAMBLE - Objective ensure safety, prevent human injury, avoid environmental damage. Company to establish SMS.
+
+ELEMENT 1 GENERAL - 1.2 Objectives provide safe practices, safeguards against risks, continuous improvement. 1.4 Functional requirements for SMS 6 items: Safety & environmental policy, Instructions & procedures, Defined authority, Accident reporting, Emergency preparedness, Internal audit.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 2 SAFETY & ENVIRONMENTAL POLICY - Must be documented, how objectives achieved, signed by top management. Example Maersk policy.
+
+ELEMENT 3 COMPANY RESPONSIBILITIES - Designated Person Ashore DPA - link between ship and shore, direct access to highest management. Responsibility and authority. Resources.
+
+ELEMENT 4 DPA - Requirements: Ensure safe operation, link. Must be shore based, knowledge of SMS, trained.
+
+ELEMENT 5 MASTER'S RESPONSIBILITY & AUTHORITY - 5 items: Implement SMS, motivate crew, issue orders, verify compliance, review SMS. Overriding authority to make decision.
+
+ELEMENT 6 RESOURCES & PERSONNEL - Manning per Safe Manning, qualified, medical fit, familiarization per STCW A-I/14 - must within 14 days, language working language. Training.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 7 SHIPBOARD OPERATIONS - Plans, instructions, checklists per SOLAS - e.g., Arrival departure checklist, bunkering checklist, enclosed space entry, hot work, bridge watchkeeping, engine watchkeeping. Risk assessment.
+
+ELEMENT 8 EMERGENCY PREPAREDNESS - Must identify potential emergencies - collision, grounding, fire, flooding, pollution, piracy, man overboard, loss of propulsion. Drills - fire & abandon ship weekly, enclosed space 2 monthly, SOPEP 3 monthly, oil spill. Shore based emergency response.
+
+ELEMENT 9 REPORTS & ANALYSIS - Non-conformity NC, accident, hazardous occurrence - reporting to company, investigation, corrective action per MSC-MEPC.7/Circ.8.
+
+ELEMENT 10 MAINTENANCE - Planned Maintenance System PMS - critical equipment identified, e.g., steering gear, emergency generator, lifeboat engine, fire pump, OWS, ECDIS. Testing standby equipment.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 11 DOCUMENTATION - What docs required: SMS Manual, procedures, records retention 3 years minimum.
+
+ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+
+ELEMENT 13 CERTIFICATION - DOC Document of Compliance - issued to company after shore audit, valid 5 years annual verification 12 months +/-3. SMC Safety Management Certificate - issued to ship after shipboard audit, valid 5 years intermediate audit between 2nd and 3rd anniversary. Types: Interim DOC 12 months, Interim SMC 12 months, Short term DOC/SMC 5 months.
+
+ELEMENT 14 INTERIM - For new company, new ship type.
+
+NON-CONFORMITY vs MAJOR NC - NC is situation not fulfilling SMS, Major NC is serious threat to safety/environment or systematic failure, leads to detention or DOC/SMC withdrawal. Example: No internal audit 14 months = Major NC.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+TMSA 3 Element 2 tied to ISM.
+
+PSC: ISM deficiency 15150 for ISM failure, if many operational deficiencies then ISM audit triggered, SMC not endorsed.
+
+EXAM: 14 elements list, DPA role, Master's overriding authority, DOC 5 years SMC 5 years, Major NC definition.
+
+SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ISM CODE DEEP - IMO Res A.741(18) + MSC.353(92)
+
+PREAMBLE - Objective ensure safety, prevent human injury, avoid environmental damage. Company to establish SMS.
+
+ELEMENT 1 GENERAL - 1.2 Objectives provide safe practices, safeguards against risks, continuous improvement. 1.4 Functional requirements for SMS 6 items: Safety & environmental policy, Instructions & procedures, Defined authority, Accident reporting, Emergency preparedness, Internal audit.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 2 SAFETY & ENVIRONMENTAL POLICY - Must be documented, how objectives achieved, signed by top management. Example Maersk policy.
+
+ELEMENT 3 COMPANY RESPONSIBILITIES - Designated Person Ashore DPA - link between ship and shore, direct access to highest management. Responsibility and authority. Resources.
+
+ELEMENT 4 DPA - Requirements: Ensure safe operation, link. Must be shore based, knowledge of SMS, trained.
+
+ELEMENT 5 MASTER'S RESPONSIBILITY & AUTHORITY - 5 items: Implement SMS, motivate crew, issue orders, verify compliance, review SMS. Overriding authority to make decision.
+
+ELEMENT 6 RESOURCES & PERSONNEL - Manning per Safe Manning, qualified, medical fit, familiarization per STCW A-I/14 - must within 14 days, language working language. Training.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 7 SHIPBOARD OPERATIONS - Plans, instructions, checklists per SOLAS - e.g., Arrival departure checklist, bunkering checklist, enclosed space entry, hot work, bridge watchkeeping, engine watchkeeping. Risk assessment.
+
+ELEMENT 8 EMERGENCY PREPAREDNESS - Must identify potential emergencies - collision, grounding, fire, flooding, pollution, piracy, man overboard, loss of propulsion. Drills - fire & abandon ship weekly, enclosed space 2 monthly, SOPEP 3 monthly, oil spill. Shore based emergency response.
+
+ELEMENT 9 REPORTS & ANALYSIS - Non-conformity NC, accident, hazardous occurrence - reporting to company, investigation, corrective action per MSC-MEPC.7/Circ.8.
+
+ELEMENT 10 MAINTENANCE - Planned Maintenance System PMS - critical equipment identified, e.g., steering gear, emergency generator, lifeboat engine, fire pump, OWS, ECDIS. Testing standby equipment.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 11 DOCUMENTATION - What docs required: SMS Manual, procedures, records retention 3 years minimum.
+
+ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+
+ELEMENT 13 CERTIFICATION - DOC Document of Compliance - issued to company after shore audit, valid 5 years annual verification 12 months +/-3. SMC Safety Management Certificate - issued to ship after shipboard audit, valid 5 years intermediate audit between 2nd and 3rd anniversary. Types: Interim DOC 12 months, Interim SMC 12 months, Short term DOC/SMC 5 months.
+
+ELEMENT 14 INTERIM - For new company, new ship type.
+
+NON-CONFORMITY vs MAJOR NC - NC is situation not fulfilling SMS, Major NC is serious threat to safety/environment or systematic failure, leads to detention or DOC/SMC withdrawal. Example: No internal audit 14 months = Major NC.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+TMSA 3 Element 2 tied to ISM.
+
+PSC: ISM deficiency 15150 for ISM failure, if many operational deficiencies then ISM audit triggered, SMC not endorsed.
+
+EXAM: 14 elements list, DPA role, Master's overriding authority, DOC 5 years SMC 5 years, Major NC definition.
+
+SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ISM CODE DEEP - IMO Res A.741(18) + MSC.353(92)
+
+PREAMBLE - Objective ensure safety, prevent human injury, avoid environmental damage. Company to establish SMS.
+
+ELEMENT 1 GENERAL - 1.2 Objectives provide safe practices, safeguards against risks, continuous improvement. 1.4 Functional requirements for SMS 6 items: Safety & environmental policy, Instructions & procedures, Defined authority, Accident reporting, Emergency preparedness, Internal audit.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 2 SAFETY & ENVIRONMENTAL POLICY - Must be documented, how objectives achieved, signed by top management. Example Maersk policy.
+
+ELEMENT 3 COMPANY RESPONSIBILITIES - Designated Person Ashore DPA - link between ship and shore, direct access to highest management. Responsibility and authority. Resources.
+
+ELEMENT 4 DPA - Requirements: Ensure safe operation, link. Must be shore based, knowledge of SMS, trained.
+
+ELEMENT 5 MASTER'S RESPONSIBILITY & AUTHORITY - 5 items: Implement SMS, motivate crew, issue orders, verify compliance, review SMS. Overriding authority to make decision.
+
+ELEMENT 6 RESOURCES & PERSONNEL - Manning per Safe Manning, qualified, medical fit, familiarization per STCW A-I/14 - must within 14 days, language working language. Training.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 7 SHIPBOARD OPERATIONS - Plans, instructions, checklists per SOLAS - e.g., Arrival departure checklist, bunkering checklist, enclosed space entry, hot work, bridge watchkeeping, engine watchkeeping. Risk assessment.
+
+ELEMENT 8 EMERGENCY PREPAREDNESS - Must identify potential emergencies - collision, grounding, fire, flooding, pollution, piracy, man overboard, loss of propulsion. Drills - fire & abandon ship weekly, enclosed space 2 monthly, SOPEP 3 monthly, oil spill. Shore based emergency response.
+
+ELEMENT 9 REPORTS & ANALYSIS - Non-conformity NC, accident, hazardous occurrence - reporting to company, investigation, corrective action per MSC-MEPC.7/Circ.8.
+
+ELEMENT 10 MAINTENANCE - Planned Maintenance System PMS - critical equipment identified, e.g., steering gear, emergency generator, lifeboat engine, fire pump, OWS, ECDIS. Testing standby equipment.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 11 DOCUMENTATION - What docs required: SMS Manual, procedures, records retention 3 years minimum.
+
+ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+
+ELEMENT 13 CERTIFICATION - DOC Document of Compliance - issued to company after shore audit, valid 5 years annual verification 12 months +/-3. SMC Safety Management Certificate - issued to ship after shipboard audit, valid 5 years intermediate audit between 2nd and 3rd anniversary. Types: Interim DOC 12 months, Interim SMC 12 months, Short term DOC/SMC 5 months.
+
+ELEMENT 14 INTERIM - For new company, new ship type.
+
+NON-CONFORMITY vs MAJOR NC - NC is situation not fulfilling SMS, Major NC is serious threat to safety/environment or systematic failure, leads to detention or DOC/SMC withdrawal. Example: No internal audit 14 months = Major NC.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+TMSA 3 Element 2 tied to ISM.
+
+PSC: ISM deficiency 15150 for ISM failure, if many operational deficiencies then ISM audit triggered, SMC not endorsed.
+
+EXAM: 14 elements list, DPA role, Master's overriding authority, DOC 5 years SMC 5 years, Major NC definition.
+
+SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ISM CODE DEEP - IMO Res A.741(18) + MSC.353(92)
+
+PREAMBLE - Objective ensure safety, prevent human injury, avoid environmental damage. Company to establish SMS.
+
+ELEMENT 1 GENERAL - 1.2 Objectives provide safe practices, safeguards against risks, continuous improvement. 1.4 Functional requirements for SMS 6 items: Safety & environmental policy, Instructions & procedures, Defined authority, Accident reporting, Emergency preparedness, Internal audit.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 2 SAFETY & ENVIRONMENTAL POLICY - Must be documented, how objectives achieved, signed by top management. Example Maersk policy.
+
+ELEMENT 3 COMPANY RESPONSIBILITIES - Designated Person Ashore DPA - link between ship and shore, direct access to highest management. Responsibility and authority. Resources.
+
+ELEMENT 4 DPA - Requirements: Ensure safe operation, link. Must be shore based, knowledge of SMS, trained.
+
+ELEMENT 5 MASTER'S RESPONSIBILITY & AUTHORITY - 5 items: Implement SMS, motivate crew, issue orders, verify compliance, review SMS. Overriding authority to make decision.
+
+ELEMENT 6 RESOURCES & PERSONNEL - Manning per Safe Manning, qualified, medical fit, familiarization per STCW A-I/14 - must within 14 days, language working language. Training.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 7 SHIPBOARD OPERATIONS - Plans, instructions, checklists per SOLAS - e.g., Arrival departure checklist, bunkering checklist, enclosed space entry, hot work, bridge watchkeeping, engine watchkeeping. Risk assessment.
+
+ELEMENT 8 EMERGENCY PREPAREDNESS - Must identify potential emergencies - collision, grounding, fire, flooding, pollution, piracy, man overboard, loss of propulsion. Drills - fire & abandon ship weekly, enclosed space 2 monthly, SOPEP 3 monthly, oil spill. Shore based emergency response.
+
+ELEMENT 9 REPORTS & ANALYSIS - Non-conformity NC, accident, hazardous occurrence - reporting to company, investigation, corrective action per MSC-MEPC.7/Circ.8.
+
+ELEMENT 10 MAINTENANCE - Planned Maintenance System PMS - critical equipment identified, e.g., steering gear, emergency generator, lifeboat engine, fire pump, OWS, ECDIS. Testing standby equipment.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 11 DOCUMENTATION - What docs required: SMS Manual, procedures, records retention 3 years minimum.
+
+ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+
+ELEMENT 13 CERTIFICATION - DOC Document of Compliance - issued to company after shore audit, valid 5 years annual verification 12 months +/-3. SMC Safety Management Certificate - issued to ship after shipboard audit, valid 5 years intermediate audit between 2nd and 3rd anniversary. Types: Interim DOC 12 months, Interim SMC 12 months, Short term DOC/SMC 5 months.
+
+ELEMENT 14 INTERIM - For new company, new ship type.
+
+NON-CONFORMITY vs MAJOR NC - NC is situation not fulfilling SMS, Major NC is serious threat to safety/environment or systematic failure, leads to detention or DOC/SMC withdrawal. Example: No internal audit 14 months = Major NC.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+TMSA 3 Element 2 tied to ISM.
+
+PSC: ISM deficiency 15150 for ISM failure, if many operational deficiencies then ISM audit triggered, SMC not endorsed.
+
+EXAM: 14 elements list, DPA role, Master's overriding authority, DOC 5 years SMC 5 years, Major NC definition.
+
+SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ISM CODE DEEP - IMO Res A.741(18) + MSC.353(92)
+
+PREAMBLE - Objective ensure safety, prevent human injury, avoid environmental damage. Company to establish SMS.
+
+ELEMENT 1 GENERAL - 1.2 Objectives provide safe practices, safeguards against risks, continuous improvement. 1.4 Functional requirements for SMS 6 items: Safety & environmental policy, Instructions & procedures, Defined authority, Accident reporting, Emergency preparedness, Internal audit.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 2 SAFETY & ENVIRONMENTAL POLICY - Must be documented, how objectives achieved, signed by top management. Example Maersk policy.
+
+ELEMENT 3 COMPANY RESPONSIBILITIES - Designated Person Ashore DPA - link between ship and shore, direct access to highest management. Responsibility and authority. Resources.
+
+ELEMENT 4 DPA - Requirements: Ensure safe operation, link. Must be shore based, knowledge of SMS, trained.
+
+ELEMENT 5 MASTER'S RESPONSIBILITY & AUTHORITY - 5 items: Implement SMS, motivate crew, issue orders, verify compliance, review SMS. Overriding authority to make decision.
+
+ELEMENT 6 RESOURCES & PERSONNEL - Manning per Safe Manning, qualified, medical fit, familiarization per STCW A-I/14 - must within 14 days, language working language. Training.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 7 SHIPBOARD OPERATIONS - Plans, instructions, checklists per SOLAS - e.g., Arrival departure checklist, bunkering checklist, enclosed space entry, hot work, bridge watchkeeping, engine watchkeeping. Risk assessment.
+
+ELEMENT 8 EMERGENCY PREPAREDNESS - Must identify potential emergencies - collision, grounding, fire, flooding, pollution, piracy, man overboard, loss of propulsion. Drills - fire & abandon ship weekly, enclosed space 2 monthly, SOPEP 3 monthly, oil spill. Shore based emergency response.
+
+ELEMENT 9 REPORTS & ANALYSIS - Non-conformity NC, accident, hazardous occurrence - reporting to company, investigation, corrective action per MSC-MEPC.7/Circ.8.
+
+ELEMENT 10 MAINTENANCE - Planned Maintenance System PMS - critical equipment identified, e.g., steering gear, emergency generator, lifeboat engine, fire pump, OWS, ECDIS. Testing standby equipment.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+ELEMENT 11 DOCUMENTATION - What docs required: SMS Manual, procedures, records retention 3 years minimum.
+
+ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+
+ELEMENT 13 CERTIFICATION - DOC Document of Compliance - issued to company after shore audit, valid 5 years annual verification 12 months +/-3. SMC Safety Management Certificate - issued to ship after shipboard audit, valid 5 years intermediate audit between 2nd and 3rd anniversary. Types: Interim DOC 12 months, Interim SMC 12 months, Short term DOC/SMC 5 months.
+
+ELEMENT 14 INTERIM - For new company, new ship type.
+
+NON-CONFORMITY vs MAJOR NC - NC is situation not fulfilling SMS, Major NC is serious threat to safety/environment or systematic failure, leads to detention or DOC/SMC withdrawal. Example: No internal audit 14 months = Major NC.
+---
+
+SOURCE: SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+TMSA 3 Element 2 tied to ISM.
+
+PSC: ISM deficiency 15150 for ISM failure, if many operational deficiencies then ISM audit triggered, SMC not endorsed.
+
+EXAM: 14 elements list, DPA role, Master's overriding authority, DOC 5 years SMC 5 years, Major NC definition.
+---

@@ -1,0 +1,327 @@
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ISPS CODE DEEP - SOLAS XI-2 + ISPS A mandatory + B recommendatory
+
+PART A - Reg 9 levels: Security Level 1 Normal - minimum measures, Level 2 Heightened - additional, Level 3 Exceptional - further specific. Instructions from Contracting Government.
+
+COMPANY SECURITY OFFICER CSO - One CSO can handle 10 ships max best practice. Duties: Advise threat, ensure SSA, ensure SSP, liaise with SSO & PFSO, ensure audits.
+
+SHIP SECURITY OFFICER SSO - On board, trained per A-VI/5 SSO course, STCW. Duties: Regular inspections, maintain SSP, coordinate security, propose modifications, enhance awareness, report deficiencies, implement SSA. Must have SSO certificate.
+
+SHIP SECURITY ASSESSMENT SSA - On-scene survey, 8 steps: Identify threats, identify vulnerabilities, calculate risk. Must be done by RSO or CSO. Valid for 5 years but review annually.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+SHIP SECURITY PLAN SSP - 9 mandatory sections: 1. Measures to prevent weapons, 2. Identification of restricted areas, 3. Measures to prevent unauthorized access, 4. Procedures for security threats, 5. Evacuation, 6. Duties of personnel with security duties, 7. Auditing, 8. Training & drills, 9. Interface with port. Approved by flag or RSO. Restricted areas: Bridge, E/R, Steering gear, Cargo control, store with SSP. 2 copies - one on board one with CSO. Confidential.
+
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+
+SECURITY EQUIPMENT - SSAS Ship Security Alert System - 2 units, one bridge one other location, covert activation, alert to company security & flag via Inmarsat C or other, test monthly with flag consent. AIS can be switched off if security threat per SOLAS V/34. LRIT.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ACCESS CONTROL - Gangway watch, ID checks, visitors log, baggage search at Level 2 100% search, restricted area locked.
+
+DECLARATION OF SECURITY DOS - When required: Ship to port at higher level, ship to ship, when PFSO or Master deems. Valid for time of interface. Checklist of 12 items.
+
+PFSO & PORT SECURITY PLAN - PFSA, PFSP. Port levels.
+
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+
+SECURITY THREATS - Piracy BMP5, stowaway search, cyber security per MSC-FAL.1/Circ.3.
+
+PSC: ISSC expired, SSO not designated, drill not done 4 months, SSAS test expired, restricted area not marked.
+
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+
+SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ISPS CODE DEEP - SOLAS XI-2 + ISPS A mandatory + B recommendatory
+
+PART A - Reg 9 levels: Security Level 1 Normal - minimum measures, Level 2 Heightened - additional, Level 3 Exceptional - further specific. Instructions from Contracting Government.
+
+COMPANY SECURITY OFFICER CSO - One CSO can handle 10 ships max best practice. Duties: Advise threat, ensure SSA, ensure SSP, liaise with SSO & PFSO, ensure audits.
+
+SHIP SECURITY OFFICER SSO - On board, trained per A-VI/5 SSO course, STCW. Duties: Regular inspections, maintain SSP, coordinate security, propose modifications, enhance awareness, report deficiencies, implement SSA. Must have SSO certificate.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+SHIP SECURITY ASSESSMENT SSA - On-scene survey, 8 steps: Identify threats, identify vulnerabilities, calculate risk. Must be done by RSO or CSO. Valid for 5 years but review annually.
+
+SHIP SECURITY PLAN SSP - 9 mandatory sections: 1. Measures to prevent weapons, 2. Identification of restricted areas, 3. Measures to prevent unauthorized access, 4. Procedures for security threats, 5. Evacuation, 6. Duties of personnel with security duties, 7. Auditing, 8. Training & drills, 9. Interface with port. Approved by flag or RSO. Restricted areas: Bridge, E/R, Steering gear, Cargo control, store with SSP. 2 copies - one on board one with CSO. Confidential.
+
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+
+SECURITY EQUIPMENT - SSAS Ship Security Alert System - 2 units, one bridge one other location, covert activation, alert to company security & flag via Inmarsat C or other, test monthly with flag consent. AIS can be switched off if security threat per SOLAS V/34. LRIT.
+
+ACCESS CONTROL - Gangway watch, ID checks, visitors log, baggage search at Level 2 100% search, restricted area locked.
+
+DECLARATION OF SECURITY DOS - When required: Ship to port at higher level, ship to ship, when PFSO or Master deems. Valid for time of interface. Checklist of 12 items.
+
+PFSO & PORT SECURITY PLAN - PFSA, PFSP. Port levels.
+
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+
+SECURITY THREATS - Piracy BMP5, stowaway search, cyber security per MSC-FAL.1/Circ.3.
+
+PSC: ISSC expired, SSO not designated, drill not done 4 months, SSAS test expired, restricted area not marked.
+
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+
+SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ISPS CODE DEEP - SOLAS XI-2 + ISPS A mandatory + B recommendatory
+
+PART A - Reg 9 levels: Security Level 1 Normal - minimum measures, Level 2 Heightened - additional, Level 3 Exceptional - further specific. Instructions from Contracting Government.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+COMPANY SECURITY OFFICER CSO - One CSO can handle 10 ships max best practice. Duties: Advise threat, ensure SSA, ensure SSP, liaise with SSO & PFSO, ensure audits.
+
+SHIP SECURITY OFFICER SSO - On board, trained per A-VI/5 SSO course, STCW. Duties: Regular inspections, maintain SSP, coordinate security, propose modifications, enhance awareness, report deficiencies, implement SSA. Must have SSO certificate.
+
+SHIP SECURITY ASSESSMENT SSA - On-scene survey, 8 steps: Identify threats, identify vulnerabilities, calculate risk. Must be done by RSO or CSO. Valid for 5 years but review annually.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+SHIP SECURITY PLAN SSP - 9 mandatory sections: 1. Measures to prevent weapons, 2. Identification of restricted areas, 3. Measures to prevent unauthorized access, 4. Procedures for security threats, 5. Evacuation, 6. Duties of personnel with security duties, 7. Auditing, 8. Training & drills, 9. Interface with port. Approved by flag or RSO. Restricted areas: Bridge, E/R, Steering gear, Cargo control, store with SSP. 2 copies - one on board one with CSO. Confidential.
+
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+
+SECURITY EQUIPMENT - SSAS Ship Security Alert System - 2 units, one bridge one other location, covert activation, alert to company security & flag via Inmarsat C or other, test monthly with flag consent. AIS can be switched off if security threat per SOLAS V/34. LRIT.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ACCESS CONTROL - Gangway watch, ID checks, visitors log, baggage search at Level 2 100% search, restricted area locked.
+
+DECLARATION OF SECURITY DOS - When required: Ship to port at higher level, ship to ship, when PFSO or Master deems. Valid for time of interface. Checklist of 12 items.
+
+PFSO & PORT SECURITY PLAN - PFSA, PFSP. Port levels.
+
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+
+SECURITY THREATS - Piracy BMP5, stowaway search, cyber security per MSC-FAL.1/Circ.3.
+
+PSC: ISSC expired, SSO not designated, drill not done 4 months, SSAS test expired, restricted area not marked.
+
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+
+SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ISPS CODE DEEP - SOLAS XI-2 + ISPS A mandatory + B recommendatory
+
+PART A - Reg 9 levels: Security Level 1 Normal - minimum measures, Level 2 Heightened - additional, Level 3 Exceptional - further specific. Instructions from Contracting Government.
+
+COMPANY SECURITY OFFICER CSO - One CSO can handle 10 ships max best practice. Duties: Advise threat, ensure SSA, ensure SSP, liaise with SSO & PFSO, ensure audits.
+
+SHIP SECURITY OFFICER SSO - On board, trained per A-VI/5 SSO course, STCW. Duties: Regular inspections, maintain SSP, coordinate security, propose modifications, enhance awareness, report deficiencies, implement SSA. Must have SSO certificate.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+SHIP SECURITY ASSESSMENT SSA - On-scene survey, 8 steps: Identify threats, identify vulnerabilities, calculate risk. Must be done by RSO or CSO. Valid for 5 years but review annually.
+
+SHIP SECURITY PLAN SSP - 9 mandatory sections: 1. Measures to prevent weapons, 2. Identification of restricted areas, 3. Measures to prevent unauthorized access, 4. Procedures for security threats, 5. Evacuation, 6. Duties of personnel with security duties, 7. Auditing, 8. Training & drills, 9. Interface with port. Approved by flag or RSO. Restricted areas: Bridge, E/R, Steering gear, Cargo control, store with SSP. 2 copies - one on board one with CSO. Confidential.
+
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+
+SECURITY EQUIPMENT - SSAS Ship Security Alert System - 2 units, one bridge one other location, covert activation, alert to company security & flag via Inmarsat C or other, test monthly with flag consent. AIS can be switched off if security threat per SOLAS V/34. LRIT.
+
+ACCESS CONTROL - Gangway watch, ID checks, visitors log, baggage search at Level 2 100% search, restricted area locked.
+
+DECLARATION OF SECURITY DOS - When required: Ship to port at higher level, ship to ship, when PFSO or Master deems. Valid for time of interface. Checklist of 12 items.
+
+PFSO & PORT SECURITY PLAN - PFSA, PFSP. Port levels.
+
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+
+SECURITY THREATS - Piracy BMP5, stowaway search, cyber security per MSC-FAL.1/Circ.3.
+
+PSC: ISSC expired, SSO not designated, drill not done 4 months, SSAS test expired, restricted area not marked.
+
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+
+SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ISPS CODE DEEP - SOLAS XI-2 + ISPS A mandatory + B recommendatory
+
+PART A - Reg 9 levels: Security Level 1 Normal - minimum measures, Level 2 Heightened - additional, Level 3 Exceptional - further specific. Instructions from Contracting Government.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+COMPANY SECURITY OFFICER CSO - One CSO can handle 10 ships max best practice. Duties: Advise threat, ensure SSA, ensure SSP, liaise with SSO & PFSO, ensure audits.
+
+SHIP SECURITY OFFICER SSO - On board, trained per A-VI/5 SSO course, STCW. Duties: Regular inspections, maintain SSP, coordinate security, propose modifications, enhance awareness, report deficiencies, implement SSA. Must have SSO certificate.
+
+SHIP SECURITY ASSESSMENT SSA - On-scene survey, 8 steps: Identify threats, identify vulnerabilities, calculate risk. Must be done by RSO or CSO. Valid for 5 years but review annually.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+SHIP SECURITY PLAN SSP - 9 mandatory sections: 1. Measures to prevent weapons, 2. Identification of restricted areas, 3. Measures to prevent unauthorized access, 4. Procedures for security threats, 5. Evacuation, 6. Duties of personnel with security duties, 7. Auditing, 8. Training & drills, 9. Interface with port. Approved by flag or RSO. Restricted areas: Bridge, E/R, Steering gear, Cargo control, store with SSP. 2 copies - one on board one with CSO. Confidential.
+
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+
+SECURITY EQUIPMENT - SSAS Ship Security Alert System - 2 units, one bridge one other location, covert activation, alert to company security & flag via Inmarsat C or other, test monthly with flag consent. AIS can be switched off if security threat per SOLAS V/34. LRIT.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ACCESS CONTROL - Gangway watch, ID checks, visitors log, baggage search at Level 2 100% search, restricted area locked.
+
+DECLARATION OF SECURITY DOS - When required: Ship to port at higher level, ship to ship, when PFSO or Master deems. Valid for time of interface. Checklist of 12 items.
+
+PFSO & PORT SECURITY PLAN - PFSA, PFSP. Port levels.
+
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+
+SECURITY THREATS - Piracy BMP5, stowaway search, cyber security per MSC-FAL.1/Circ.3.
+
+PSC: ISSC expired, SSO not designated, drill not done 4 months, SSAS test expired, restricted area not marked.
+
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+
+SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ISPS CODE DEEP - SOLAS XI-2 + ISPS A mandatory + B recommendatory
+
+PART A - Reg 9 levels: Security Level 1 Normal - minimum measures, Level 2 Heightened - additional, Level 3 Exceptional - further specific. Instructions from Contracting Government.
+
+COMPANY SECURITY OFFICER CSO - One CSO can handle 10 ships max best practice. Duties: Advise threat, ensure SSA, ensure SSP, liaise with SSO & PFSO, ensure audits.
+
+SHIP SECURITY OFFICER SSO - On board, trained per A-VI/5 SSO course, STCW. Duties: Regular inspections, maintain SSP, coordinate security, propose modifications, enhance awareness, report deficiencies, implement SSA. Must have SSO certificate.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+SHIP SECURITY ASSESSMENT SSA - On-scene survey, 8 steps: Identify threats, identify vulnerabilities, calculate risk. Must be done by RSO or CSO. Valid for 5 years but review annually.
+
+SHIP SECURITY PLAN SSP - 9 mandatory sections: 1. Measures to prevent weapons, 2. Identification of restricted areas, 3. Measures to prevent unauthorized access, 4. Procedures for security threats, 5. Evacuation, 6. Duties of personnel with security duties, 7. Auditing, 8. Training & drills, 9. Interface with port. Approved by flag or RSO. Restricted areas: Bridge, E/R, Steering gear, Cargo control, store with SSP. 2 copies - one on board one with CSO. Confidential.
+
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+
+SECURITY EQUIPMENT - SSAS Ship Security Alert System - 2 units, one bridge one other location, covert activation, alert to company security & flag via Inmarsat C or other, test monthly with flag consent. AIS can be switched off if security threat per SOLAS V/34. LRIT.
+
+ACCESS CONTROL - Gangway watch, ID checks, visitors log, baggage search at Level 2 100% search, restricted area locked.
+
+DECLARATION OF SECURITY DOS - When required: Ship to port at higher level, ship to ship, when PFSO or Master deems. Valid for time of interface. Checklist of 12 items.
+
+PFSO & PORT SECURITY PLAN - PFSA, PFSP. Port levels.
+
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+
+SECURITY THREATS - Piracy BMP5, stowaway search, cyber security per MSC-FAL.1/Circ.3.
+
+PSC: ISSC expired, SSO not designated, drill not done 4 months, SSAS test expired, restricted area not marked.
+
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+
+SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ISPS CODE DEEP - SOLAS XI-2 + ISPS A mandatory + B recommendatory
+
+PART A - Reg 9 levels: Security Level 1 Normal - minimum measures, Level 2 Heightened - additional, Level 3 Exceptional - further specific. Instructions from Contracting Government.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+COMPANY SECURITY OFFICER CSO - One CSO can handle 10 ships max best practice. Duties: Advise threat, ensure SSA, ensure SSP, liaise with SSO & PFSO, ensure audits.
+
+SHIP SECURITY OFFICER SSO - On board, trained per A-VI/5 SSO course, STCW. Duties: Regular inspections, maintain SSP, coordinate security, propose modifications, enhance awareness, report deficiencies, implement SSA. Must have SSO certificate.
+
+SHIP SECURITY ASSESSMENT SSA - On-scene survey, 8 steps: Identify threats, identify vulnerabilities, calculate risk. Must be done by RSO or CSO. Valid for 5 years but review annually.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+SHIP SECURITY PLAN SSP - 9 mandatory sections: 1. Measures to prevent weapons, 2. Identification of restricted areas, 3. Measures to prevent unauthorized access, 4. Procedures for security threats, 5. Evacuation, 6. Duties of personnel with security duties, 7. Auditing, 8. Training & drills, 9. Interface with port. Approved by flag or RSO. Restricted areas: Bridge, E/R, Steering gear, Cargo control, store with SSP. 2 copies - one on board one with CSO. Confidential.
+
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+
+SECURITY EQUIPMENT - SSAS Ship Security Alert System - 2 units, one bridge one other location, covert activation, alert to company security & flag via Inmarsat C or other, test monthly with flag consent. AIS can be switched off if security threat per SOLAS V/34. LRIT.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ACCESS CONTROL - Gangway watch, ID checks, visitors log, baggage search at Level 2 100% search, restricted area locked.
+
+DECLARATION OF SECURITY DOS - When required: Ship to port at higher level, ship to ship, when PFSO or Master deems. Valid for time of interface. Checklist of 12 items.
+
+PFSO & PORT SECURITY PLAN - PFSA, PFSP. Port levels.
+
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+
+SECURITY THREATS - Piracy BMP5, stowaway search, cyber security per MSC-FAL.1/Circ.3.
+
+PSC: ISSC expired, SSO not designated, drill not done 4 months, SSAS test expired, restricted area not marked.
+
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+
+SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+ISPS CODE DEEP - SOLAS XI-2 + ISPS A mandatory + B recommendatory
+
+PART A - Reg 9 levels: Security Level 1 Normal - minimum measures, Level 2 Heightened - additional, Level 3 Exceptional - further specific. Instructions from Contracting Government.
+
+COMPANY SECURITY OFFICER CSO - One CSO can handle 10 ships max best practice. Duties: Advise threat, ensure SSA, ensure SSP, liaise with SSO & PFSO, ensure audits.
+
+SHIP SECURITY OFFICER SSO - On board, trained per A-VI/5 SSO course, STCW. Duties: Regular inspections, maintain SSP, coordinate security, propose modifications, enhance awareness, report deficiencies, implement SSA. Must have SSO certificate.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+SHIP SECURITY ASSESSMENT SSA - On-scene survey, 8 steps: Identify threats, identify vulnerabilities, calculate risk. Must be done by RSO or CSO. Valid for 5 years but review annually.
+
+SHIP SECURITY PLAN SSP - 9 mandatory sections: 1. Measures to prevent weapons, 2. Identification of restricted areas, 3. Measures to prevent unauthorized access, 4. Procedures for security threats, 5. Evacuation, 6. Duties of personnel with security duties, 7. Auditing, 8. Training & drills, 9. Interface with port. Approved by flag or RSO. Restricted areas: Bridge, E/R, Steering gear, Cargo control, store with SSP. 2 copies - one on board one with CSO. Confidential.
+
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+
+SECURITY EQUIPMENT - SSAS Ship Security Alert System - 2 units, one bridge one other location, covert activation, alert to company security & flag via Inmarsat C or other, test monthly with flag consent. AIS can be switched off if security threat per SOLAS V/34. LRIT.
+
+ACCESS CONTROL - Gangway watch, ID checks, visitors log, baggage search at Level 2 100% search, restricted area locked.
+
+DECLARATION OF SECURITY DOS - When required: Ship to port at higher level, ship to ship, when PFSO or Master deems. Valid for time of interface. Checklist of 12 items.
+
+PFSO & PORT SECURITY PLAN - PFSA, PFSP. Port levels.
+
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+---
+
+SOURCE: SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+
+SECURITY THREATS - Piracy BMP5, stowaway search, cyber security per MSC-FAL.1/Circ.3.
+
+PSC: ISSC expired, SSO not designated, drill not done 4 months, SSAS test expired, restricted area not marked.
+
+EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+---
