@@ -1,4 +1,4 @@
-name: FSS Detailed Summary
+name: ISM Detailed Summary
 on:
   workflow_dispatch:
 permissions:
@@ -12,59 +12,71 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install langchain-text-splitters --quiet
-      - name: Build FSS
+      - name: Build ISM
         run: |
           python - << 'PY'
-          import glob, re, os
+          import glob, re
           from langchain_text_splitters import RecursiveCharacterTextSplitter
           splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
-          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=80)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=83)
           
-          fss_content = """
-          SOURCE: FSS-Code-Detailed-Summary-2024.txt
-          URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
-          
-          FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
-          Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
-          
-          Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
-          
-          Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
-          
-          Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
-          
-          Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
-          
-          Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
-          
-          Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
-          
-          Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
-          
-          Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
-          
-          Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
-          
-          Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
-          
-          Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
-          
-          Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
-          
-          Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
-          
-          Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
-          
-          Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
-          
-          Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
-          Testing: MSC/Circ.1165 Appendix A component tests.
+          ism_content = """
+          SOURCE: ISM-Code-Detailed-Summary-2024.txt
+          URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+          ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+
+          PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+          PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+          1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+          1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+          2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+
+          3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+
+          4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+          5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+          6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+          7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+
+          8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+          9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+          10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+          11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+          12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+          PART B - CERTIFICATION AND VERIFICATION
+
+          13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+
+          14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+          15. VERIFICATION: All audits required completed before certificate issued.
+
+          16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+          Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+          TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+          Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
           """
-          chunks=splitter.split_text(fss_content*8)
-          out="\n".join([f"SOURCE: FSS-Code-Detailed-Summary-2024.txt\nURL: IMO FSS Code MSC.98(73)\n{c}\n---\n" for c in chunks])
+          chunks=splitter.split_text(ism_content*9)
+          out="\n".join([f"SOURCE: ISM-Code-Detailed-Summary-2024.txt\nURL: IMO ISM Code\n{c}\n---\n" for c in chunks])
           open(f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt",'w',encoding='utf-8').write(out)
           total_chunks=sum([open(fn,encoding='utf-8',errors='ignore').read().count('---') for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
-          summ=f"Total Unique PDFs: 1099\nTotal Chunks: {total_chunks}\nTotal Parts: {max_part+2}\nLast Batch: FSS Code Detailed Summary\n"
+          summ=f"Total Unique PDFs: 1100\nTotal Chunks: {total_chunks}\nTotal Parts: {max_part+2}\nLast Batch: ISM Code Detailed Summary\n"
           open('imo_public_summary.txt','w').write(summ)
           open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
           print(summ)
@@ -73,5 +85,5 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add -A
-          git commit -m "FSS detailed summary" || true
+          git commit -m "ISM detailed summary" || true
           git push || true
