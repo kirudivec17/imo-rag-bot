@@ -1,0 +1,68 @@
+name: IMO PDFs - 20 Workers Super Fast
+on: [push, workflow_dispatch]
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        worker: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20] # 20 workers
+      max-parallel: 20
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Extract PDF list
+        run: |
+          grep -h -oE "MEPC\.[0-9]+\([0-9]+\)|MSC\.[0-9]+\([0-9]+\)|Resolution [A-Z]+\.[0-9]+\([0-9]+\)" master_imo_all_public_part*.txt | sort | uniq > /tmp/all_pdfs.txt
+          echo "Total PDFs: $(wc -l < /tmp/all_pdfs.txt)"
+
+      - name: Worker ${{ matrix.worker }} downloading
+        run: |
+          mkdir -p imo_pdfs
+          total=$(wc -l < /tmp/all_pdfs.txt)
+          # Har worker ko 100 PDFs ka chunk
+          per_worker=$(( (total + 19) / 20 ))
+          start=$(( (${{ matrix.worker }} - 1) * per_worker + 1 ))
+          end=$(( start + per_worker - 1 ))
+          sed -n "${start},${end}p" /tmp/all_pdfs.txt > /tmp/my_pdfs.txt
+          
+          echo "Worker ${{ matrix.worker }}: $start to $end = $(wc -l < /tmp/my_pdfs.txt) files"
+          
+          while read pdf; do
+            safe=$(echo $pdf | tr -cd 'A-Za-z0-9._-' | head -c 80)
+            [ -z "$safe" ] && continue
+            # IMO ke 3 alag URL pattern try karo
+            for base in "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDoc" "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCRes" "https://docs.imo.org"; do
+              url="${base}/${safe}.pdf"
+              if curl -L -s -A "Mozilla/5.0 IMO-Research-Bot" --max-time 30 -o "imo_pdfs/${safe}.pdf" "$url" && [ -s "imo_pdfs/${safe}.pdf" ]; then
+                echo "✅ $pdf"
+                break
+              fi
+            done
+            sleep 2  # IMO ko thoda saans lene do, warna block
+          done < /tmp/my_pdfs.txt
+
+      - name: Upload part
+        uses: actions/upload-artifact@v3
+        with:
+          name: imo-pdfs-part-${{ matrix.worker }}
+          path: imo_pdfs/
+          retention-days: 2
+
+  merge:
+    needs: download
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3
+        with:
+          path: all_parts
+      - run: |
+          mkdir -p imo_pdfs
+          find all_parts -name "*.pdf" -exec cp {} imo_pdfs/ \;
+          echo "Total downloaded: $(ls imo_pdfs/ | wc -l)"
+          ls imo_pdfs/ | head -20 > imo_pdfs/downloaded_list.txt
+          git config user.name "IMO Bot"
+          git config user.email "bot@imo.com"
+          git add imo_pdfs/
+          git commit -m "Add $(ls imo_pdfs/*.pdf 2>/dev/null | wc -l) IMO PDFs via 20 workers" || true
+          git push || true
