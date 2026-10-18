@@ -1,6 +1,6 @@
 import streamlit as st
-import os
-import glob
+import os, glob, json
+import numpy as np
 from pypdf import PdfReader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -10,125 +10,142 @@ from dotenv import load_dotenv
 
 load_dotenv()
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+GEN_MODEL = "gemini-2.5-flash"
 
-GENERATION_MODEL = "gemini-2.5-flash"
+st.set_page_config(page_title="IMO AI ASISTANT", layout="centered", page_icon="⚓")
 
-st.set_page_config(page_title="IMO AI ASISTANT", layout="wide", page_icon="⚓")
-
-# CSS - Same design as your photo
+# DESIGN - Photo jaisa
 st.markdown("""
 <style>
 .stApp { background-color: #f6f8fb; }
-.imo-header { background:#0B3D91; padding:12px 20px; display:flex; justify-content:space-between; align-items:center; margin:-1rem -1rem 1.5rem -1rem; }
-.imo-header-left { display:flex; align-items:center; gap:12px; }
-.imo-header-text { color:white; font-size:11px; font-weight:700; line-height:13px; }
-.watermark { position:fixed; top:0; left:0; width:100%; height:100%; opacity:0.05; pointer-events:none; z-index:0; background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><text x='50%' y='50%' font-size='70' text-anchor='middle' dominant-baseline='middle'>⚓</text></svg>"); background-repeat:repeat; }
-.block-container { position:relative; z-index:1; }
-.source-card { background:white; border-radius:12px; padding:14px; border:1px solid #e5e7eb; box-shadow:0 1px 3px rgba(0,0,0,0.06); margin-bottom:10px; }
-.preview-box { background:#f3f4f6; border-radius:8px; padding:10px; font-size:12px; color:#374151; max-height:120px; overflow-y:auto; margin:8px 0; }
+.imo-header {
+    background: #0B3D91;
+    padding: 14px 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: -1rem -1rem 2rem -1rem;
+}
+.imo-header-left { display: flex; align-items: center; gap: 10px; }
+.imo-header-text { color: white; font-size: 11px; font-weight: 700; line-height: 12px; letter-spacing: 0.2px; }
+.anchor-bg {
+    position: fixed;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 400px;
+    opacity: 0.04;
+    pointer-events: none;
+    z-index: 0;
+}
+.block-container { z-index: 1; position: relative; }
+div[data-testid="stTextInput"] input {
+    background: white;
+    border-radius: 12px;
+    border: 1px solid #d1d5db;
+    padding: 12px;
+}
+.answer-box {
+    background: white;
+    border-radius: 12px;
+    padding: 18px;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+.source-card {
+    background: white;
+    border-radius: 12px;
+    padding: 14px;
+    border: 1px solid #e5e7eb;
+    margin-bottom: 12px;
+}
+.preview {
+    background: #f3f4f6;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 12.5px;
+    color: #374151;
+    margin: 8px 0;
+    max-height: 110px;
+    overflow-y: auto;
+}
 </style>
-<div class="watermark"></div>
+<div class="anchor-bg">⚓</div>
 """, unsafe_allow_html=True)
 
+# Header - photo jaisa
 st.markdown("""
 <div class="imo-header">
     <div class="imo-header-left">
-        <span style="font-size:26px; color:white;">◩</span>
+        <div style="background:white; width:26px; height:26px; display:flex; align-items:center; justify-content:center; font-size:12px;">◩</div>
         <div class="imo-header-text">INTERNATIONAL<br>MARITIME<br>ORGANIZATION</div>
     </div>
-    <div style="color:white;">🔍 &nbsp; 👤</div>
+    <div style="color:white; font-size:18px;">🔍 &nbsp; 👤</div>
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown("### IMO AI ASISTANT - Ask from 1125 IMO Docs")
+st.markdown("### IMO AI ASISTANT")
+query = st.text_input("", placeholder="Search IMO documents...", label_visibility="collapsed")
 
 PDF_FOLDER = "./imo_pdfs"
-
-# Check PDFs
 pdf_files = glob.glob(os.path.join(PDF_FOLDER, "*.pdf"))
-if not pdf_files:
-    st.error(f"PDFs nahi mile! GitHub repo me `{PDF_FOLDER}` folder banao aur usme IMO ke PDFs daalo. Abhi 0 PDFs hai.")
-    st.info("Mobile se GitHub app me: Repo -> Add file -> Upload files -> imo_pdfs folder me PDFs daalo.")
-    st.stop()
 
-st.caption(f"Found {len(pdf_files)} PDFs")
-
-@st.cache_data(show_spinner=False)
-def load_and_split_pdfs():
-    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-    all_chunks = []
-    for pdf_path in pdf_files[:200]:  # Mobile ke liye pehle 200 PDFs se start karo, baad me 1125 kar dena
+@st.cache_data
+def get_chunks():
+    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=180)
+    data = []
+    for pdf_path in pdf_files:
         try:
             reader = PdfReader(pdf_path)
             fname = os.path.basename(pdf_path)
-            for page_num, page in enumerate(reader.pages, start=1):
+            for p_num, page in enumerate(reader.pages, start=1):
                 text = page.extract_text()
-                if not text or len(text.strip()) < 100:
+                if not text or len(text.strip()) < 80:
                     continue
-                chunks = splitter.split_text(text)
-                for ch in chunks:
-                    all_chunks.append({
-                        "text": ch,
-                        "pdf_name": fname,
-                        "page": page_num,
-                        "path": pdf_path
-                    })
-        except Exception as e:
+                for ch in splitter.split_text(text):
+                    data.append({"text": ch, "pdf_name": fname, "page": p_num, "path": pdf_path})
+        except:
             continue
-    return all_chunks
+    return data
 
-with st.spinner("Loading IMO docs (first time thoda time lagega)..."):
-    chunks_data = load_and_split_pdfs()
-
-if not chunks_data:
-    st.error("PDFs read nahi ho rahe. PDFs corrupt ho sakte hain.")
+if not pdf_files:
+    st.info("imo_pdfs folder khali hai. GitHub me PDFs add karo.")
     st.stop()
 
-# Build TF-IDF
+chunks = get_chunks()
+
 @st.cache_resource
-def build_tfidf(texts):
-    vectorizer = TfidfVectorizer(stop_words='english', max_features=5000)
-    tfidf_matrix = vectorizer.fit_transform(texts)
-    return vectorizer, tfidf_matrix
+def build_index(texts):
+    vec = TfidfVectorizer(stop_words='english', max_features=8000)
+    mat = vec.fit_transform(texts)
+    return vec, mat
 
-all_texts = [c["text"] for c in chunks_data]
-vectorizer, tfidf_matrix = build_tfidf(all_texts)
+if chunks:
+    texts = [c["text"] for c in chunks]
+    vectorizer, matrix = build_index(texts)
 
-query = st.text_input("Search IMO documents...", placeholder="e.g. What is MARPOL Annex VI sulfur limit?")
-
-if query:
+if query and chunks:
     with st.spinner("Searching..."):
         q_vec = vectorizer.transform([query])
-        sims = cosine_similarity(q_vec, tfidf_matrix)[0]
-        top_idx = sims.argsort()[-4:][::-1]
-        
-        sources = [chunks_data[i] for i in top_idx]
-        context = ""
+        sims = cosine_similarity(q_vec, matrix)[0]
+        top = sims.argsort()[-4:][::-1]
+        sources = [chunks[i] for i in top]
+
+        ctx = ""
         for s in sources:
-            context += f"\nSource: {s['pdf_name']} - Page {s['page']}\nContent: {s['text']}\n"
+            ctx += f"\n[{s['pdf_name']} Page {s['page']}] {s['text']}\n"
 
-        prompt = f"""You are IMO AI ASISTANT. Use ONLY this context from IMO docs.
-        Context: {context}
-        Question: {query}
-        Answer concisely and cite as [Source: filename - Page X]
-        If not in context, say: Not found in IMO docs.
-        """
+        prompt = f"You are IMO AI ASISTANT. Answer only from context. Cite page.\nContext:{ctx}\n\nQuestion:{query}\nAnswer with [Source: filename - Page X]"
+        resp = client.models.generate_content(model=GEN_MODEL, contents=prompt)
+        ans = resp.text
 
-        resp = client.models.generate_content(
-            model=GENERATION_MODEL,
-            contents=prompt
-        )
-        answer = resp.text
-
-    st.markdown("#### Answer")
-    st.success(answer)
-
-    st.markdown("#### Sources with Page")
+    st.markdown(f'<div class="answer-box">{ans}</div>', unsafe_allow_html=True)
+    
+    st.markdown("#### Sources")
     for src in sources:
         st.markdown(f"""
         <div class="source-card">
-            <b>Source:</b> {src['pdf_name']} — Page {src['page']}<br>
-            <div class="preview-box">{src['text'][:700]}</div>
-            <small>OPEN: {src['path']} at Page {src['page']}</small>
+            <b>Source:</b> {src['pdf_name']} — Page {src['page']}
+            <div class="preview">{src['text'][:650]}...</div>
         </div>
         """, unsafe_allow_html=True)
+        st.button(f"OPEN FULL LOCAL PDF  -  {src['pdf_name']} Page {src['page']}", key=f"{src['pdf_name']}_{src['page']}_{src['text'][:10]}")
