@@ -1,4 +1,4 @@
-Total Unique PDFs: 1098
-Total Chunks: 11056
-Total Parts: 83
-Last Batch: MEGA IMO 2000 - FSS LSA FTP ISPS ISM + SOLAS2024 + ModelCourses + USCG NVIC
+Total Unique PDFs: 1099
+Total Chunks: 11081
+Total Parts: 84
+Last Batch: FSS Code Detailed Summary

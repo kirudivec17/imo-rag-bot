@@ -1,0 +1,404 @@
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
+
+FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
+Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
+
+Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
+
+Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
+
+Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
+
+Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+
+Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
+
+Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
+
+Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
+
+Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
+
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+
+Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
+
+Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
+
+Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
+
+Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
+
+Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
+
+Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
+Testing: MSC/Circ.1165 Appendix A component tests.
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
+
+FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
+Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
+
+Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
+
+Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
+
+Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+
+Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
+
+Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
+
+Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
+
+Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
+
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+
+Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
+
+Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
+
+Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
+
+Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
+
+Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
+
+Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
+Testing: MSC/Circ.1165 Appendix A component tests.
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
+
+FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
+Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
+
+Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
+
+Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
+
+Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+
+Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
+
+Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
+
+Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
+
+Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
+
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+
+Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
+
+Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
+
+Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
+
+Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
+
+Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
+
+Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
+Testing: MSC/Circ.1165 Appendix A component tests.
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
+
+FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
+Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
+
+Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
+
+Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
+
+Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+
+Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
+
+Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
+
+Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
+
+Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
+
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+
+Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
+
+Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
+
+Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
+
+Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
+
+Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
+
+Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
+Testing: MSC/Circ.1165 Appendix A component tests.
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
+
+FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
+Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
+
+Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
+
+Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
+
+Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+
+Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
+
+Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
+
+Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
+
+Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
+
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+
+Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
+
+Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
+
+Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
+
+Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
+
+Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
+
+Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
+Testing: MSC/Circ.1165 Appendix A component tests.
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
+
+FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
+Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
+
+Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
+
+Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
+
+Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+
+Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
+
+Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
+
+Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
+
+Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
+
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+
+Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
+
+Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
+
+Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
+
+Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
+
+Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
+
+Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
+Testing: MSC/Circ.1165 Appendix A component tests.
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
+
+FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
+Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
+
+Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
+
+Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
+
+Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+
+Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
+
+Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
+
+Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
+
+Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
+
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+
+Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
+
+Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
+
+Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
+
+Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
+
+Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
+
+Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
+Testing: MSC/Circ.1165 Appendix A component tests.
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
+
+FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
+Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
+
+Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
+
+Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
+
+Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+
+Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
+
+Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
+
+Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
+
+Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
+
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+
+Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
+
+Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
+
+Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
+
+Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
+
+Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
+
+Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
+---
+
+SOURCE: FSS-Code-Detailed-Summary-2024.txt
+URL: IMO FSS Code MSC.98(73)
+Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
+Testing: MSC/Circ.1165 Appendix A component tests.
+---
