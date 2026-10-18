@@ -1,4 +1,2 @@
-Total Unique PDFs: 530
-Total from summary: 1125
-Coverage: 530/1125
+Total Unique PDFs: 1125
 Chunks: 12002
