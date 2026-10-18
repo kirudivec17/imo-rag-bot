@@ -1,0 +1,199 @@
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+URL: MARPOL 73/78 Annex I to VI Detailed Technical for PSC and Exam
+
+MARPOL ANNEX I OIL POLLUTION - Reg 12A Oil fuel tank protection - double hull, Reg 14 Oil filtering equipment - 15ppm alarm + auto stop, Reg 17 ODME, Reg 18 Segregated Ballast Tanks SBT, Reg 20 Crude oil washing COW, Reg 29 Slop tanks 2% of cargo, Reg 31 Oil discharge monitoring, Reg 37 SOPEP. Construction: Double hull for tankers >5000 DWT delivered after 6 July 1996. Bunker tanks >600m3 double hull Reg 12A. ODME requirements: tanker >150GT must have approved ODME with 15ppm alarm. IOPP Certificate validity 5 years, annual survey. ODME test with 3 samples - clean ballast, dirty ballast, slop. Oily water separator 15ppm - test with calibration fluid.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX II NLS - Noxious liquid substances Categories X Y Z OS. Stripping quantity: Cat X 75 litres residual, Y 75 litres if built after 1 Jan 2007 else 100 litres, Z 50 litres. P&A Manual approved. COF Certificate. Cargo tank washing - prewash mandatory for Cat X solidifying and high viscosity. Discharge criteria - 12 miles from land, 25m water depth, 7 knots, below waterline. Ventilation procedure - 12 air changes.
+
+MARPOL ANNEX III HARMFUL SUBSTANCES IN PACKAGED FORM - IMDG linkage, marking, labeling, documentation, stowage, quantity limitations, marine pollutant.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX IV SEWAGE - Reg 9 Sewage system - sewage treatment plant type tested MEPC.227(64) with 3.1.1 standard: Coliform <100 per 100ml, TSS 50mg/l, BOD 50mg/l, COD 125mg/l, pH 6-8.5, residual chlorine. Comminuting and disinfecting system - 3nm beyond, not comminuted 12nm. Holding tank capacity - 70 litres per person per day. Sewage discharge rate DR = 0.00926 x V x D x B where V speed.
+
+MARPOL ANNEX V GARBAGE - Garbage Management Plan required >100GT or 15 persons. Garbage Record Book Part I all garbage Part II cargo residues. Placards. Discharge criteria: Outside special areas: Comminuted food 3-12nm, not comminuted >12nm. Inside special areas Mediterranean etc: Food comminuted >12nm only, no plastic ever. 2024 amendment: Garbage categories A to K, e-waste, cooking oil.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX VI AIR POLLUTION - Reg 13 NOx Tier I 17g/kWh <130rpm, Tier II 14.4g/kWh, Tier III 3.4g/kWh inside ECA. EIAPP Certificate, Technical File, NOx verifying procedure. Reg 14 SOx - Global cap 0.50% m/m, ECA 0.10% since 1 Jan 2015. Fuel changeover procedure. Reg 15 VOC Management Plan for tankers. Reg 18 BDN, fuel oil non-availability report FONAR. Reg 22-25 EEDI, EEXI, CII rating A-E, SEEMP Part III. EEDI Phase 3 30% reduction. EEXI calculation: Required EEXI = a x DWT^-c. CII correction factors. Reg 26 Fuel oil sampling point and in-use sampling 0.50%. EGCS scrubber - washwater PAH 50 microgram, turbidity 25NTU, pH 6.5 at 4m.
+
+PSC DEFICIENCIES - OWS bypass, 15ppm alarm defective, magic pipe, sewage treatment plant chlorine high, garbage record book mismatch, BDN missing sulfur, EGR failure.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+URL: MARPOL 73/78 Annex I to VI Detailed Technical for PSC and Exam
+
+MARPOL ANNEX I OIL POLLUTION - Reg 12A Oil fuel tank protection - double hull, Reg 14 Oil filtering equipment - 15ppm alarm + auto stop, Reg 17 ODME, Reg 18 Segregated Ballast Tanks SBT, Reg 20 Crude oil washing COW, Reg 29 Slop tanks 2% of cargo, Reg 31 Oil discharge monitoring, Reg 37 SOPEP. Construction: Double hull for tankers >5000 DWT delivered after 6 July 1996. Bunker tanks >600m3 double hull Reg 12A. ODME requirements: tanker >150GT must have approved ODME with 15ppm alarm. IOPP Certificate validity 5 years, annual survey. ODME test with 3 samples - clean ballast, dirty ballast, slop. Oily water separator 15ppm - test with calibration fluid.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX II NLS - Noxious liquid substances Categories X Y Z OS. Stripping quantity: Cat X 75 litres residual, Y 75 litres if built after 1 Jan 2007 else 100 litres, Z 50 litres. P&A Manual approved. COF Certificate. Cargo tank washing - prewash mandatory for Cat X solidifying and high viscosity. Discharge criteria - 12 miles from land, 25m water depth, 7 knots, below waterline. Ventilation procedure - 12 air changes.
+
+MARPOL ANNEX III HARMFUL SUBSTANCES IN PACKAGED FORM - IMDG linkage, marking, labeling, documentation, stowage, quantity limitations, marine pollutant.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX IV SEWAGE - Reg 9 Sewage system - sewage treatment plant type tested MEPC.227(64) with 3.1.1 standard: Coliform <100 per 100ml, TSS 50mg/l, BOD 50mg/l, COD 125mg/l, pH 6-8.5, residual chlorine. Comminuting and disinfecting system - 3nm beyond, not comminuted 12nm. Holding tank capacity - 70 litres per person per day. Sewage discharge rate DR = 0.00926 x V x D x B where V speed.
+
+MARPOL ANNEX V GARBAGE - Garbage Management Plan required >100GT or 15 persons. Garbage Record Book Part I all garbage Part II cargo residues. Placards. Discharge criteria: Outside special areas: Comminuted food 3-12nm, not comminuted >12nm. Inside special areas Mediterranean etc: Food comminuted >12nm only, no plastic ever. 2024 amendment: Garbage categories A to K, e-waste, cooking oil.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX VI AIR POLLUTION - Reg 13 NOx Tier I 17g/kWh <130rpm, Tier II 14.4g/kWh, Tier III 3.4g/kWh inside ECA. EIAPP Certificate, Technical File, NOx verifying procedure. Reg 14 SOx - Global cap 0.50% m/m, ECA 0.10% since 1 Jan 2015. Fuel changeover procedure. Reg 15 VOC Management Plan for tankers. Reg 18 BDN, fuel oil non-availability report FONAR. Reg 22-25 EEDI, EEXI, CII rating A-E, SEEMP Part III. EEDI Phase 3 30% reduction. EEXI calculation: Required EEXI = a x DWT^-c. CII correction factors. Reg 26 Fuel oil sampling point and in-use sampling 0.50%. EGCS scrubber - washwater PAH 50 microgram, turbidity 25NTU, pH 6.5 at 4m.
+
+PSC DEFICIENCIES - OWS bypass, 15ppm alarm defective, magic pipe, sewage treatment plant chlorine high, garbage record book mismatch, BDN missing sulfur, EGR failure.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+URL: MARPOL 73/78 Annex I to VI Detailed Technical for PSC and Exam
+
+MARPOL ANNEX I OIL POLLUTION - Reg 12A Oil fuel tank protection - double hull, Reg 14 Oil filtering equipment - 15ppm alarm + auto stop, Reg 17 ODME, Reg 18 Segregated Ballast Tanks SBT, Reg 20 Crude oil washing COW, Reg 29 Slop tanks 2% of cargo, Reg 31 Oil discharge monitoring, Reg 37 SOPEP. Construction: Double hull for tankers >5000 DWT delivered after 6 July 1996. Bunker tanks >600m3 double hull Reg 12A. ODME requirements: tanker >150GT must have approved ODME with 15ppm alarm. IOPP Certificate validity 5 years, annual survey. ODME test with 3 samples - clean ballast, dirty ballast, slop. Oily water separator 15ppm - test with calibration fluid.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX II NLS - Noxious liquid substances Categories X Y Z OS. Stripping quantity: Cat X 75 litres residual, Y 75 litres if built after 1 Jan 2007 else 100 litres, Z 50 litres. P&A Manual approved. COF Certificate. Cargo tank washing - prewash mandatory for Cat X solidifying and high viscosity. Discharge criteria - 12 miles from land, 25m water depth, 7 knots, below waterline. Ventilation procedure - 12 air changes.
+
+MARPOL ANNEX III HARMFUL SUBSTANCES IN PACKAGED FORM - IMDG linkage, marking, labeling, documentation, stowage, quantity limitations, marine pollutant.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX IV SEWAGE - Reg 9 Sewage system - sewage treatment plant type tested MEPC.227(64) with 3.1.1 standard: Coliform <100 per 100ml, TSS 50mg/l, BOD 50mg/l, COD 125mg/l, pH 6-8.5, residual chlorine. Comminuting and disinfecting system - 3nm beyond, not comminuted 12nm. Holding tank capacity - 70 litres per person per day. Sewage discharge rate DR = 0.00926 x V x D x B where V speed.
+
+MARPOL ANNEX V GARBAGE - Garbage Management Plan required >100GT or 15 persons. Garbage Record Book Part I all garbage Part II cargo residues. Placards. Discharge criteria: Outside special areas: Comminuted food 3-12nm, not comminuted >12nm. Inside special areas Mediterranean etc: Food comminuted >12nm only, no plastic ever. 2024 amendment: Garbage categories A to K, e-waste, cooking oil.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX VI AIR POLLUTION - Reg 13 NOx Tier I 17g/kWh <130rpm, Tier II 14.4g/kWh, Tier III 3.4g/kWh inside ECA. EIAPP Certificate, Technical File, NOx verifying procedure. Reg 14 SOx - Global cap 0.50% m/m, ECA 0.10% since 1 Jan 2015. Fuel changeover procedure. Reg 15 VOC Management Plan for tankers. Reg 18 BDN, fuel oil non-availability report FONAR. Reg 22-25 EEDI, EEXI, CII rating A-E, SEEMP Part III. EEDI Phase 3 30% reduction. EEXI calculation: Required EEXI = a x DWT^-c. CII correction factors. Reg 26 Fuel oil sampling point and in-use sampling 0.50%. EGCS scrubber - washwater PAH 50 microgram, turbidity 25NTU, pH 6.5 at 4m.
+
+PSC DEFICIENCIES - OWS bypass, 15ppm alarm defective, magic pipe, sewage treatment plant chlorine high, garbage record book mismatch, BDN missing sulfur, EGR failure.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+URL: MARPOL 73/78 Annex I to VI Detailed Technical for PSC and Exam
+
+MARPOL ANNEX I OIL POLLUTION - Reg 12A Oil fuel tank protection - double hull, Reg 14 Oil filtering equipment - 15ppm alarm + auto stop, Reg 17 ODME, Reg 18 Segregated Ballast Tanks SBT, Reg 20 Crude oil washing COW, Reg 29 Slop tanks 2% of cargo, Reg 31 Oil discharge monitoring, Reg 37 SOPEP. Construction: Double hull for tankers >5000 DWT delivered after 6 July 1996. Bunker tanks >600m3 double hull Reg 12A. ODME requirements: tanker >150GT must have approved ODME with 15ppm alarm. IOPP Certificate validity 5 years, annual survey. ODME test with 3 samples - clean ballast, dirty ballast, slop. Oily water separator 15ppm - test with calibration fluid.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX II NLS - Noxious liquid substances Categories X Y Z OS. Stripping quantity: Cat X 75 litres residual, Y 75 litres if built after 1 Jan 2007 else 100 litres, Z 50 litres. P&A Manual approved. COF Certificate. Cargo tank washing - prewash mandatory for Cat X solidifying and high viscosity. Discharge criteria - 12 miles from land, 25m water depth, 7 knots, below waterline. Ventilation procedure - 12 air changes.
+
+MARPOL ANNEX III HARMFUL SUBSTANCES IN PACKAGED FORM - IMDG linkage, marking, labeling, documentation, stowage, quantity limitations, marine pollutant.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX IV SEWAGE - Reg 9 Sewage system - sewage treatment plant type tested MEPC.227(64) with 3.1.1 standard: Coliform <100 per 100ml, TSS 50mg/l, BOD 50mg/l, COD 125mg/l, pH 6-8.5, residual chlorine. Comminuting and disinfecting system - 3nm beyond, not comminuted 12nm. Holding tank capacity - 70 litres per person per day. Sewage discharge rate DR = 0.00926 x V x D x B where V speed.
+
+MARPOL ANNEX V GARBAGE - Garbage Management Plan required >100GT or 15 persons. Garbage Record Book Part I all garbage Part II cargo residues. Placards. Discharge criteria: Outside special areas: Comminuted food 3-12nm, not comminuted >12nm. Inside special areas Mediterranean etc: Food comminuted >12nm only, no plastic ever. 2024 amendment: Garbage categories A to K, e-waste, cooking oil.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX VI AIR POLLUTION - Reg 13 NOx Tier I 17g/kWh <130rpm, Tier II 14.4g/kWh, Tier III 3.4g/kWh inside ECA. EIAPP Certificate, Technical File, NOx verifying procedure. Reg 14 SOx - Global cap 0.50% m/m, ECA 0.10% since 1 Jan 2015. Fuel changeover procedure. Reg 15 VOC Management Plan for tankers. Reg 18 BDN, fuel oil non-availability report FONAR. Reg 22-25 EEDI, EEXI, CII rating A-E, SEEMP Part III. EEDI Phase 3 30% reduction. EEXI calculation: Required EEXI = a x DWT^-c. CII correction factors. Reg 26 Fuel oil sampling point and in-use sampling 0.50%. EGCS scrubber - washwater PAH 50 microgram, turbidity 25NTU, pH 6.5 at 4m.
+
+PSC DEFICIENCIES - OWS bypass, 15ppm alarm defective, magic pipe, sewage treatment plant chlorine high, garbage record book mismatch, BDN missing sulfur, EGR failure.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+URL: MARPOL 73/78 Annex I to VI Detailed Technical for PSC and Exam
+
+MARPOL ANNEX I OIL POLLUTION - Reg 12A Oil fuel tank protection - double hull, Reg 14 Oil filtering equipment - 15ppm alarm + auto stop, Reg 17 ODME, Reg 18 Segregated Ballast Tanks SBT, Reg 20 Crude oil washing COW, Reg 29 Slop tanks 2% of cargo, Reg 31 Oil discharge monitoring, Reg 37 SOPEP. Construction: Double hull for tankers >5000 DWT delivered after 6 July 1996. Bunker tanks >600m3 double hull Reg 12A. ODME requirements: tanker >150GT must have approved ODME with 15ppm alarm. IOPP Certificate validity 5 years, annual survey. ODME test with 3 samples - clean ballast, dirty ballast, slop. Oily water separator 15ppm - test with calibration fluid.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX II NLS - Noxious liquid substances Categories X Y Z OS. Stripping quantity: Cat X 75 litres residual, Y 75 litres if built after 1 Jan 2007 else 100 litres, Z 50 litres. P&A Manual approved. COF Certificate. Cargo tank washing - prewash mandatory for Cat X solidifying and high viscosity. Discharge criteria - 12 miles from land, 25m water depth, 7 knots, below waterline. Ventilation procedure - 12 air changes.
+
+MARPOL ANNEX III HARMFUL SUBSTANCES IN PACKAGED FORM - IMDG linkage, marking, labeling, documentation, stowage, quantity limitations, marine pollutant.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX IV SEWAGE - Reg 9 Sewage system - sewage treatment plant type tested MEPC.227(64) with 3.1.1 standard: Coliform <100 per 100ml, TSS 50mg/l, BOD 50mg/l, COD 125mg/l, pH 6-8.5, residual chlorine. Comminuting and disinfecting system - 3nm beyond, not comminuted 12nm. Holding tank capacity - 70 litres per person per day. Sewage discharge rate DR = 0.00926 x V x D x B where V speed.
+
+MARPOL ANNEX V GARBAGE - Garbage Management Plan required >100GT or 15 persons. Garbage Record Book Part I all garbage Part II cargo residues. Placards. Discharge criteria: Outside special areas: Comminuted food 3-12nm, not comminuted >12nm. Inside special areas Mediterranean etc: Food comminuted >12nm only, no plastic ever. 2024 amendment: Garbage categories A to K, e-waste, cooking oil.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX VI AIR POLLUTION - Reg 13 NOx Tier I 17g/kWh <130rpm, Tier II 14.4g/kWh, Tier III 3.4g/kWh inside ECA. EIAPP Certificate, Technical File, NOx verifying procedure. Reg 14 SOx - Global cap 0.50% m/m, ECA 0.10% since 1 Jan 2015. Fuel changeover procedure. Reg 15 VOC Management Plan for tankers. Reg 18 BDN, fuel oil non-availability report FONAR. Reg 22-25 EEDI, EEXI, CII rating A-E, SEEMP Part III. EEDI Phase 3 30% reduction. EEXI calculation: Required EEXI = a x DWT^-c. CII correction factors. Reg 26 Fuel oil sampling point and in-use sampling 0.50%. EGCS scrubber - washwater PAH 50 microgram, turbidity 25NTU, pH 6.5 at 4m.
+
+PSC DEFICIENCIES - OWS bypass, 15ppm alarm defective, magic pipe, sewage treatment plant chlorine high, garbage record book mismatch, BDN missing sulfur, EGR failure.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+URL: MARPOL 73/78 Annex I to VI Detailed Technical for PSC and Exam
+
+MARPOL ANNEX I OIL POLLUTION - Reg 12A Oil fuel tank protection - double hull, Reg 14 Oil filtering equipment - 15ppm alarm + auto stop, Reg 17 ODME, Reg 18 Segregated Ballast Tanks SBT, Reg 20 Crude oil washing COW, Reg 29 Slop tanks 2% of cargo, Reg 31 Oil discharge monitoring, Reg 37 SOPEP. Construction: Double hull for tankers >5000 DWT delivered after 6 July 1996. Bunker tanks >600m3 double hull Reg 12A. ODME requirements: tanker >150GT must have approved ODME with 15ppm alarm. IOPP Certificate validity 5 years, annual survey. ODME test with 3 samples - clean ballast, dirty ballast, slop. Oily water separator 15ppm - test with calibration fluid.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX II NLS - Noxious liquid substances Categories X Y Z OS. Stripping quantity: Cat X 75 litres residual, Y 75 litres if built after 1 Jan 2007 else 100 litres, Z 50 litres. P&A Manual approved. COF Certificate. Cargo tank washing - prewash mandatory for Cat X solidifying and high viscosity. Discharge criteria - 12 miles from land, 25m water depth, 7 knots, below waterline. Ventilation procedure - 12 air changes.
+
+MARPOL ANNEX III HARMFUL SUBSTANCES IN PACKAGED FORM - IMDG linkage, marking, labeling, documentation, stowage, quantity limitations, marine pollutant.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX IV SEWAGE - Reg 9 Sewage system - sewage treatment plant type tested MEPC.227(64) with 3.1.1 standard: Coliform <100 per 100ml, TSS 50mg/l, BOD 50mg/l, COD 125mg/l, pH 6-8.5, residual chlorine. Comminuting and disinfecting system - 3nm beyond, not comminuted 12nm. Holding tank capacity - 70 litres per person per day. Sewage discharge rate DR = 0.00926 x V x D x B where V speed.
+
+MARPOL ANNEX V GARBAGE - Garbage Management Plan required >100GT or 15 persons. Garbage Record Book Part I all garbage Part II cargo residues. Placards. Discharge criteria: Outside special areas: Comminuted food 3-12nm, not comminuted >12nm. Inside special areas Mediterranean etc: Food comminuted >12nm only, no plastic ever. 2024 amendment: Garbage categories A to K, e-waste, cooking oil.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX VI AIR POLLUTION - Reg 13 NOx Tier I 17g/kWh <130rpm, Tier II 14.4g/kWh, Tier III 3.4g/kWh inside ECA. EIAPP Certificate, Technical File, NOx verifying procedure. Reg 14 SOx - Global cap 0.50% m/m, ECA 0.10% since 1 Jan 2015. Fuel changeover procedure. Reg 15 VOC Management Plan for tankers. Reg 18 BDN, fuel oil non-availability report FONAR. Reg 22-25 EEDI, EEXI, CII rating A-E, SEEMP Part III. EEDI Phase 3 30% reduction. EEXI calculation: Required EEXI = a x DWT^-c. CII correction factors. Reg 26 Fuel oil sampling point and in-use sampling 0.50%. EGCS scrubber - washwater PAH 50 microgram, turbidity 25NTU, pH 6.5 at 4m.
+
+PSC DEFICIENCIES - OWS bypass, 15ppm alarm defective, magic pipe, sewage treatment plant chlorine high, garbage record book mismatch, BDN missing sulfur, EGR failure.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+URL: MARPOL 73/78 Annex I to VI Detailed Technical for PSC and Exam
+
+MARPOL ANNEX I OIL POLLUTION - Reg 12A Oil fuel tank protection - double hull, Reg 14 Oil filtering equipment - 15ppm alarm + auto stop, Reg 17 ODME, Reg 18 Segregated Ballast Tanks SBT, Reg 20 Crude oil washing COW, Reg 29 Slop tanks 2% of cargo, Reg 31 Oil discharge monitoring, Reg 37 SOPEP. Construction: Double hull for tankers >5000 DWT delivered after 6 July 1996. Bunker tanks >600m3 double hull Reg 12A. ODME requirements: tanker >150GT must have approved ODME with 15ppm alarm. IOPP Certificate validity 5 years, annual survey. ODME test with 3 samples - clean ballast, dirty ballast, slop. Oily water separator 15ppm - test with calibration fluid.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX II NLS - Noxious liquid substances Categories X Y Z OS. Stripping quantity: Cat X 75 litres residual, Y 75 litres if built after 1 Jan 2007 else 100 litres, Z 50 litres. P&A Manual approved. COF Certificate. Cargo tank washing - prewash mandatory for Cat X solidifying and high viscosity. Discharge criteria - 12 miles from land, 25m water depth, 7 knots, below waterline. Ventilation procedure - 12 air changes.
+
+MARPOL ANNEX III HARMFUL SUBSTANCES IN PACKAGED FORM - IMDG linkage, marking, labeling, documentation, stowage, quantity limitations, marine pollutant.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX IV SEWAGE - Reg 9 Sewage system - sewage treatment plant type tested MEPC.227(64) with 3.1.1 standard: Coliform <100 per 100ml, TSS 50mg/l, BOD 50mg/l, COD 125mg/l, pH 6-8.5, residual chlorine. Comminuting and disinfecting system - 3nm beyond, not comminuted 12nm. Holding tank capacity - 70 litres per person per day. Sewage discharge rate DR = 0.00926 x V x D x B where V speed.
+
+MARPOL ANNEX V GARBAGE - Garbage Management Plan required >100GT or 15 persons. Garbage Record Book Part I all garbage Part II cargo residues. Placards. Discharge criteria: Outside special areas: Comminuted food 3-12nm, not comminuted >12nm. Inside special areas Mediterranean etc: Food comminuted >12nm only, no plastic ever. 2024 amendment: Garbage categories A to K, e-waste, cooking oil.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX VI AIR POLLUTION - Reg 13 NOx Tier I 17g/kWh <130rpm, Tier II 14.4g/kWh, Tier III 3.4g/kWh inside ECA. EIAPP Certificate, Technical File, NOx verifying procedure. Reg 14 SOx - Global cap 0.50% m/m, ECA 0.10% since 1 Jan 2015. Fuel changeover procedure. Reg 15 VOC Management Plan for tankers. Reg 18 BDN, fuel oil non-availability report FONAR. Reg 22-25 EEDI, EEXI, CII rating A-E, SEEMP Part III. EEDI Phase 3 30% reduction. EEXI calculation: Required EEXI = a x DWT^-c. CII correction factors. Reg 26 Fuel oil sampling point and in-use sampling 0.50%. EGCS scrubber - washwater PAH 50 microgram, turbidity 25NTU, pH 6.5 at 4m.
+
+PSC DEFICIENCIES - OWS bypass, 15ppm alarm defective, magic pipe, sewage treatment plant chlorine high, garbage record book mismatch, BDN missing sulfur, EGR failure.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+URL: MARPOL 73/78 Annex I to VI Detailed Technical for PSC and Exam
+
+MARPOL ANNEX I OIL POLLUTION - Reg 12A Oil fuel tank protection - double hull, Reg 14 Oil filtering equipment - 15ppm alarm + auto stop, Reg 17 ODME, Reg 18 Segregated Ballast Tanks SBT, Reg 20 Crude oil washing COW, Reg 29 Slop tanks 2% of cargo, Reg 31 Oil discharge monitoring, Reg 37 SOPEP. Construction: Double hull for tankers >5000 DWT delivered after 6 July 1996. Bunker tanks >600m3 double hull Reg 12A. ODME requirements: tanker >150GT must have approved ODME with 15ppm alarm. IOPP Certificate validity 5 years, annual survey. ODME test with 3 samples - clean ballast, dirty ballast, slop. Oily water separator 15ppm - test with calibration fluid.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX II NLS - Noxious liquid substances Categories X Y Z OS. Stripping quantity: Cat X 75 litres residual, Y 75 litres if built after 1 Jan 2007 else 100 litres, Z 50 litres. P&A Manual approved. COF Certificate. Cargo tank washing - prewash mandatory for Cat X solidifying and high viscosity. Discharge criteria - 12 miles from land, 25m water depth, 7 knots, below waterline. Ventilation procedure - 12 air changes.
+
+MARPOL ANNEX III HARMFUL SUBSTANCES IN PACKAGED FORM - IMDG linkage, marking, labeling, documentation, stowage, quantity limitations, marine pollutant.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX IV SEWAGE - Reg 9 Sewage system - sewage treatment plant type tested MEPC.227(64) with 3.1.1 standard: Coliform <100 per 100ml, TSS 50mg/l, BOD 50mg/l, COD 125mg/l, pH 6-8.5, residual chlorine. Comminuting and disinfecting system - 3nm beyond, not comminuted 12nm. Holding tank capacity - 70 litres per person per day. Sewage discharge rate DR = 0.00926 x V x D x B where V speed.
+
+MARPOL ANNEX V GARBAGE - Garbage Management Plan required >100GT or 15 persons. Garbage Record Book Part I all garbage Part II cargo residues. Placards. Discharge criteria: Outside special areas: Comminuted food 3-12nm, not comminuted >12nm. Inside special areas Mediterranean etc: Food comminuted >12nm only, no plastic ever. 2024 amendment: Garbage categories A to K, e-waste, cooking oil.
+---
+
+SOURCE: SOURCE: MARPOL-Annex-1-to-6-ULTRA-DEEP-2024.txt
+MARPOL ANNEX VI AIR POLLUTION - Reg 13 NOx Tier I 17g/kWh <130rpm, Tier II 14.4g/kWh, Tier III 3.4g/kWh inside ECA. EIAPP Certificate, Technical File, NOx verifying procedure. Reg 14 SOx - Global cap 0.50% m/m, ECA 0.10% since 1 Jan 2015. Fuel changeover procedure. Reg 15 VOC Management Plan for tankers. Reg 18 BDN, fuel oil non-availability report FONAR. Reg 22-25 EEDI, EEXI, CII rating A-E, SEEMP Part III. EEDI Phase 3 30% reduction. EEXI calculation: Required EEXI = a x DWT^-c. CII correction factors. Reg 26 Fuel oil sampling point and in-use sampling 0.50%. EGCS scrubber - washwater PAH 50 microgram, turbidity 25NTU, pH 6.5 at 4m.
+
+PSC DEFICIENCIES - OWS bypass, 15ppm alarm defective, magic pipe, sewage treatment plant chlorine high, garbage record book mismatch, BDN missing sulfur, EGR failure.
+---

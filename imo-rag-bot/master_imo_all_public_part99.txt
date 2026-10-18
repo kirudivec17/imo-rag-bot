@@ -1,0 +1,441 @@
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+URL: BWM Convention 2004 + BWMS Code
+
+BWM CONVENTION DEEP - All technical
+
+REGULATION A-1 Definitions - Ballast Water, BWMS, Active Substance.
+
+REGULATION A-2 Application - Ships 400GT+, all ships except domestic.
+
+REGULATION B-1 BWMP - Ballast Water Management Plan approved, 7 sections: safety procedures, sediment disposal, coordination with port, designated officer.
+
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+
+REGULATION B-3 Implementation Schedule - D-1 standard until ship's IOPP renewal: Existing ships built before 8 Sep 2017 must comply D-2 by first IOPP renewal after 8 Sep 2019. Example: Ship built 2010, IOPP renewal Sep 2020 => D-2 due Sep 2020. For new ships built after 8 Sep 2017 D-2 at delivery. Final deadline 8 Sep 2024 all ships D-2.
+
+D-1 Standard - Ballast Water Exchange - 95% volumetric exchange, at least 200nm from land and 200m depth, if not possible 50nm and 200m, if not possible designated area. Methods: Sequential - empty 95% then refill, Flow-through - 3x volume pumped, Dilution - 3x volume constant level.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+D-2 Standard - Discharge - <10 viable organisms per m3 >=50 micron, <10 per ml 10-50 micron, Vibrio cholerae <1 cfu per 100ml, E.coli <250 cfu per 100ml, Intestinal Enterococci <100 cfu per 100ml. IMO D-2 is USCG uses 30% more stringent? USCG 0.1x.
+
+BWMS Types - Mechanical: Filter 40 micron self-cleaning, Hydrocyclone. Physical: UV - dose 200-300 mJ/cm2, intensity, UV-T 75%. Chemical: Electrochlorination EC - TRO 10ppm max, neutralization with sodium thiosulfate before discharge, Ozone 2ppm. Deoxygenation. Approval: Type approval per BWMS Code MEPC.300(72), active substance approval G9, USCG TA separate with 5 organism classes.
+
+OPERATION - Ballasting - filter + UV/EC, deballasting - UV only or neutralization. Holding time 24h for UV efficacy? Actually 24-72h for regrowth.
+
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+
+SAMPLING - Indicative analysis - organism count via microscope, compliance analysis - detailed lab.
+
+PSC CHECK - BWMP not approved, BWMS bypassed, TRO high 15ppm, filter clogged, UV intensity low 60%, record book missing exchange coordinates, D-2 commissioning test failure.
+
+BWMS MAINTENANCE - Filter element replacement 2000h, UV lamp 12000h, quartz sleeve cleaning weekly, EC electrode 5 years, TRO sensor calibration 6 months.
+
+BWMS CODE TESTS - Land based test 5 consecutive cycles at 3 salinities - fresh <1 PSU, brackish 10-20 PSU, marine 28-36 PSU. Organism concentration challenge >100,000 per m3.
+
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+
+EXAM QUESTIONS - D-1 distance? 200nm 200m depth. D-2 numbers? 10 per m3 and 10 per ml. Exchange methods? Sequential flow-through dilution.
+
+SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+URL: BWM Convention 2004 + BWMS Code
+
+BWM CONVENTION DEEP - All technical
+
+REGULATION A-1 Definitions - Ballast Water, BWMS, Active Substance.
+
+REGULATION A-2 Application - Ships 400GT+, all ships except domestic.
+
+REGULATION B-1 BWMP - Ballast Water Management Plan approved, 7 sections: safety procedures, sediment disposal, coordination with port, designated officer.
+
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+
+REGULATION B-3 Implementation Schedule - D-1 standard until ship's IOPP renewal: Existing ships built before 8 Sep 2017 must comply D-2 by first IOPP renewal after 8 Sep 2019. Example: Ship built 2010, IOPP renewal Sep 2020 => D-2 due Sep 2020. For new ships built after 8 Sep 2017 D-2 at delivery. Final deadline 8 Sep 2024 all ships D-2.
+
+D-1 Standard - Ballast Water Exchange - 95% volumetric exchange, at least 200nm from land and 200m depth, if not possible 50nm and 200m, if not possible designated area. Methods: Sequential - empty 95% then refill, Flow-through - 3x volume pumped, Dilution - 3x volume constant level.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+D-2 Standard - Discharge - <10 viable organisms per m3 >=50 micron, <10 per ml 10-50 micron, Vibrio cholerae <1 cfu per 100ml, E.coli <250 cfu per 100ml, Intestinal Enterococci <100 cfu per 100ml. IMO D-2 is USCG uses 30% more stringent? USCG 0.1x.
+
+BWMS Types - Mechanical: Filter 40 micron self-cleaning, Hydrocyclone. Physical: UV - dose 200-300 mJ/cm2, intensity, UV-T 75%. Chemical: Electrochlorination EC - TRO 10ppm max, neutralization with sodium thiosulfate before discharge, Ozone 2ppm. Deoxygenation. Approval: Type approval per BWMS Code MEPC.300(72), active substance approval G9, USCG TA separate with 5 organism classes.
+
+OPERATION - Ballasting - filter + UV/EC, deballasting - UV only or neutralization. Holding time 24h for UV efficacy? Actually 24-72h for regrowth.
+
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+
+SAMPLING - Indicative analysis - organism count via microscope, compliance analysis - detailed lab.
+
+PSC CHECK - BWMP not approved, BWMS bypassed, TRO high 15ppm, filter clogged, UV intensity low 60%, record book missing exchange coordinates, D-2 commissioning test failure.
+
+BWMS MAINTENANCE - Filter element replacement 2000h, UV lamp 12000h, quartz sleeve cleaning weekly, EC electrode 5 years, TRO sensor calibration 6 months.
+
+BWMS CODE TESTS - Land based test 5 consecutive cycles at 3 salinities - fresh <1 PSU, brackish 10-20 PSU, marine 28-36 PSU. Organism concentration challenge >100,000 per m3.
+
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+
+EXAM QUESTIONS - D-1 distance? 200nm 200m depth. D-2 numbers? 10 per m3 and 10 per ml. Exchange methods? Sequential flow-through dilution.
+
+SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+URL: BWM Convention 2004 + BWMS Code
+
+BWM CONVENTION DEEP - All technical
+
+REGULATION A-1 Definitions - Ballast Water, BWMS, Active Substance.
+
+REGULATION A-2 Application - Ships 400GT+, all ships except domestic.
+
+REGULATION B-1 BWMP - Ballast Water Management Plan approved, 7 sections: safety procedures, sediment disposal, coordination with port, designated officer.
+
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+
+REGULATION B-3 Implementation Schedule - D-1 standard until ship's IOPP renewal: Existing ships built before 8 Sep 2017 must comply D-2 by first IOPP renewal after 8 Sep 2019. Example: Ship built 2010, IOPP renewal Sep 2020 => D-2 due Sep 2020. For new ships built after 8 Sep 2017 D-2 at delivery. Final deadline 8 Sep 2024 all ships D-2.
+
+D-1 Standard - Ballast Water Exchange - 95% volumetric exchange, at least 200nm from land and 200m depth, if not possible 50nm and 200m, if not possible designated area. Methods: Sequential - empty 95% then refill, Flow-through - 3x volume pumped, Dilution - 3x volume constant level.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+D-2 Standard - Discharge - <10 viable organisms per m3 >=50 micron, <10 per ml 10-50 micron, Vibrio cholerae <1 cfu per 100ml, E.coli <250 cfu per 100ml, Intestinal Enterococci <100 cfu per 100ml. IMO D-2 is USCG uses 30% more stringent? USCG 0.1x.
+
+BWMS Types - Mechanical: Filter 40 micron self-cleaning, Hydrocyclone. Physical: UV - dose 200-300 mJ/cm2, intensity, UV-T 75%. Chemical: Electrochlorination EC - TRO 10ppm max, neutralization with sodium thiosulfate before discharge, Ozone 2ppm. Deoxygenation. Approval: Type approval per BWMS Code MEPC.300(72), active substance approval G9, USCG TA separate with 5 organism classes.
+
+OPERATION - Ballasting - filter + UV/EC, deballasting - UV only or neutralization. Holding time 24h for UV efficacy? Actually 24-72h for regrowth.
+
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+
+SAMPLING - Indicative analysis - organism count via microscope, compliance analysis - detailed lab.
+
+PSC CHECK - BWMP not approved, BWMS bypassed, TRO high 15ppm, filter clogged, UV intensity low 60%, record book missing exchange coordinates, D-2 commissioning test failure.
+
+BWMS MAINTENANCE - Filter element replacement 2000h, UV lamp 12000h, quartz sleeve cleaning weekly, EC electrode 5 years, TRO sensor calibration 6 months.
+
+BWMS CODE TESTS - Land based test 5 consecutive cycles at 3 salinities - fresh <1 PSU, brackish 10-20 PSU, marine 28-36 PSU. Organism concentration challenge >100,000 per m3.
+
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+
+EXAM QUESTIONS - D-1 distance? 200nm 200m depth. D-2 numbers? 10 per m3 and 10 per ml. Exchange methods? Sequential flow-through dilution.
+
+SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+URL: BWM Convention 2004 + BWMS Code
+
+BWM CONVENTION DEEP - All technical
+
+REGULATION A-1 Definitions - Ballast Water, BWMS, Active Substance.
+
+REGULATION A-2 Application - Ships 400GT+, all ships except domestic.
+
+REGULATION B-1 BWMP - Ballast Water Management Plan approved, 7 sections: safety procedures, sediment disposal, coordination with port, designated officer.
+
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+
+REGULATION B-3 Implementation Schedule - D-1 standard until ship's IOPP renewal: Existing ships built before 8 Sep 2017 must comply D-2 by first IOPP renewal after 8 Sep 2019. Example: Ship built 2010, IOPP renewal Sep 2020 => D-2 due Sep 2020. For new ships built after 8 Sep 2017 D-2 at delivery. Final deadline 8 Sep 2024 all ships D-2.
+
+D-1 Standard - Ballast Water Exchange - 95% volumetric exchange, at least 200nm from land and 200m depth, if not possible 50nm and 200m, if not possible designated area. Methods: Sequential - empty 95% then refill, Flow-through - 3x volume pumped, Dilution - 3x volume constant level.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+D-2 Standard - Discharge - <10 viable organisms per m3 >=50 micron, <10 per ml 10-50 micron, Vibrio cholerae <1 cfu per 100ml, E.coli <250 cfu per 100ml, Intestinal Enterococci <100 cfu per 100ml. IMO D-2 is USCG uses 30% more stringent? USCG 0.1x.
+
+BWMS Types - Mechanical: Filter 40 micron self-cleaning, Hydrocyclone. Physical: UV - dose 200-300 mJ/cm2, intensity, UV-T 75%. Chemical: Electrochlorination EC - TRO 10ppm max, neutralization with sodium thiosulfate before discharge, Ozone 2ppm. Deoxygenation. Approval: Type approval per BWMS Code MEPC.300(72), active substance approval G9, USCG TA separate with 5 organism classes.
+
+OPERATION - Ballasting - filter + UV/EC, deballasting - UV only or neutralization. Holding time 24h for UV efficacy? Actually 24-72h for regrowth.
+
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+
+SAMPLING - Indicative analysis - organism count via microscope, compliance analysis - detailed lab.
+
+PSC CHECK - BWMP not approved, BWMS bypassed, TRO high 15ppm, filter clogged, UV intensity low 60%, record book missing exchange coordinates, D-2 commissioning test failure.
+
+BWMS MAINTENANCE - Filter element replacement 2000h, UV lamp 12000h, quartz sleeve cleaning weekly, EC electrode 5 years, TRO sensor calibration 6 months.
+
+BWMS CODE TESTS - Land based test 5 consecutive cycles at 3 salinities - fresh <1 PSU, brackish 10-20 PSU, marine 28-36 PSU. Organism concentration challenge >100,000 per m3.
+
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+
+EXAM QUESTIONS - D-1 distance? 200nm 200m depth. D-2 numbers? 10 per m3 and 10 per ml. Exchange methods? Sequential flow-through dilution.
+
+SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+URL: BWM Convention 2004 + BWMS Code
+
+BWM CONVENTION DEEP - All technical
+
+REGULATION A-1 Definitions - Ballast Water, BWMS, Active Substance.
+
+REGULATION A-2 Application - Ships 400GT+, all ships except domestic.
+
+REGULATION B-1 BWMP - Ballast Water Management Plan approved, 7 sections: safety procedures, sediment disposal, coordination with port, designated officer.
+
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+
+REGULATION B-3 Implementation Schedule - D-1 standard until ship's IOPP renewal: Existing ships built before 8 Sep 2017 must comply D-2 by first IOPP renewal after 8 Sep 2019. Example: Ship built 2010, IOPP renewal Sep 2020 => D-2 due Sep 2020. For new ships built after 8 Sep 2017 D-2 at delivery. Final deadline 8 Sep 2024 all ships D-2.
+
+D-1 Standard - Ballast Water Exchange - 95% volumetric exchange, at least 200nm from land and 200m depth, if not possible 50nm and 200m, if not possible designated area. Methods: Sequential - empty 95% then refill, Flow-through - 3x volume pumped, Dilution - 3x volume constant level.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+D-2 Standard - Discharge - <10 viable organisms per m3 >=50 micron, <10 per ml 10-50 micron, Vibrio cholerae <1 cfu per 100ml, E.coli <250 cfu per 100ml, Intestinal Enterococci <100 cfu per 100ml. IMO D-2 is USCG uses 30% more stringent? USCG 0.1x.
+
+BWMS Types - Mechanical: Filter 40 micron self-cleaning, Hydrocyclone. Physical: UV - dose 200-300 mJ/cm2, intensity, UV-T 75%. Chemical: Electrochlorination EC - TRO 10ppm max, neutralization with sodium thiosulfate before discharge, Ozone 2ppm. Deoxygenation. Approval: Type approval per BWMS Code MEPC.300(72), active substance approval G9, USCG TA separate with 5 organism classes.
+
+OPERATION - Ballasting - filter + UV/EC, deballasting - UV only or neutralization. Holding time 24h for UV efficacy? Actually 24-72h for regrowth.
+
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+
+SAMPLING - Indicative analysis - organism count via microscope, compliance analysis - detailed lab.
+
+PSC CHECK - BWMP not approved, BWMS bypassed, TRO high 15ppm, filter clogged, UV intensity low 60%, record book missing exchange coordinates, D-2 commissioning test failure.
+
+BWMS MAINTENANCE - Filter element replacement 2000h, UV lamp 12000h, quartz sleeve cleaning weekly, EC electrode 5 years, TRO sensor calibration 6 months.
+
+BWMS CODE TESTS - Land based test 5 consecutive cycles at 3 salinities - fresh <1 PSU, brackish 10-20 PSU, marine 28-36 PSU. Organism concentration challenge >100,000 per m3.
+
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+
+EXAM QUESTIONS - D-1 distance? 200nm 200m depth. D-2 numbers? 10 per m3 and 10 per ml. Exchange methods? Sequential flow-through dilution.
+
+SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+URL: BWM Convention 2004 + BWMS Code
+
+BWM CONVENTION DEEP - All technical
+
+REGULATION A-1 Definitions - Ballast Water, BWMS, Active Substance.
+
+REGULATION A-2 Application - Ships 400GT+, all ships except domestic.
+
+REGULATION B-1 BWMP - Ballast Water Management Plan approved, 7 sections: safety procedures, sediment disposal, coordination with port, designated officer.
+
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+
+REGULATION B-3 Implementation Schedule - D-1 standard until ship's IOPP renewal: Existing ships built before 8 Sep 2017 must comply D-2 by first IOPP renewal after 8 Sep 2019. Example: Ship built 2010, IOPP renewal Sep 2020 => D-2 due Sep 2020. For new ships built after 8 Sep 2017 D-2 at delivery. Final deadline 8 Sep 2024 all ships D-2.
+
+D-1 Standard - Ballast Water Exchange - 95% volumetric exchange, at least 200nm from land and 200m depth, if not possible 50nm and 200m, if not possible designated area. Methods: Sequential - empty 95% then refill, Flow-through - 3x volume pumped, Dilution - 3x volume constant level.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+D-2 Standard - Discharge - <10 viable organisms per m3 >=50 micron, <10 per ml 10-50 micron, Vibrio cholerae <1 cfu per 100ml, E.coli <250 cfu per 100ml, Intestinal Enterococci <100 cfu per 100ml. IMO D-2 is USCG uses 30% more stringent? USCG 0.1x.
+
+BWMS Types - Mechanical: Filter 40 micron self-cleaning, Hydrocyclone. Physical: UV - dose 200-300 mJ/cm2, intensity, UV-T 75%. Chemical: Electrochlorination EC - TRO 10ppm max, neutralization with sodium thiosulfate before discharge, Ozone 2ppm. Deoxygenation. Approval: Type approval per BWMS Code MEPC.300(72), active substance approval G9, USCG TA separate with 5 organism classes.
+
+OPERATION - Ballasting - filter + UV/EC, deballasting - UV only or neutralization. Holding time 24h for UV efficacy? Actually 24-72h for regrowth.
+
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+
+SAMPLING - Indicative analysis - organism count via microscope, compliance analysis - detailed lab.
+
+PSC CHECK - BWMP not approved, BWMS bypassed, TRO high 15ppm, filter clogged, UV intensity low 60%, record book missing exchange coordinates, D-2 commissioning test failure.
+
+BWMS MAINTENANCE - Filter element replacement 2000h, UV lamp 12000h, quartz sleeve cleaning weekly, EC electrode 5 years, TRO sensor calibration 6 months.
+
+BWMS CODE TESTS - Land based test 5 consecutive cycles at 3 salinities - fresh <1 PSU, brackish 10-20 PSU, marine 28-36 PSU. Organism concentration challenge >100,000 per m3.
+
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+
+EXAM QUESTIONS - D-1 distance? 200nm 200m depth. D-2 numbers? 10 per m3 and 10 per ml. Exchange methods? Sequential flow-through dilution.
+
+SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+URL: BWM Convention 2004 + BWMS Code
+
+BWM CONVENTION DEEP - All technical
+
+REGULATION A-1 Definitions - Ballast Water, BWMS, Active Substance.
+
+REGULATION A-2 Application - Ships 400GT+, all ships except domestic.
+
+REGULATION B-1 BWMP - Ballast Water Management Plan approved, 7 sections: safety procedures, sediment disposal, coordination with port, designated officer.
+
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+
+REGULATION B-3 Implementation Schedule - D-1 standard until ship's IOPP renewal: Existing ships built before 8 Sep 2017 must comply D-2 by first IOPP renewal after 8 Sep 2019. Example: Ship built 2010, IOPP renewal Sep 2020 => D-2 due Sep 2020. For new ships built after 8 Sep 2017 D-2 at delivery. Final deadline 8 Sep 2024 all ships D-2.
+
+D-1 Standard - Ballast Water Exchange - 95% volumetric exchange, at least 200nm from land and 200m depth, if not possible 50nm and 200m, if not possible designated area. Methods: Sequential - empty 95% then refill, Flow-through - 3x volume pumped, Dilution - 3x volume constant level.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+D-2 Standard - Discharge - <10 viable organisms per m3 >=50 micron, <10 per ml 10-50 micron, Vibrio cholerae <1 cfu per 100ml, E.coli <250 cfu per 100ml, Intestinal Enterococci <100 cfu per 100ml. IMO D-2 is USCG uses 30% more stringent? USCG 0.1x.
+
+BWMS Types - Mechanical: Filter 40 micron self-cleaning, Hydrocyclone. Physical: UV - dose 200-300 mJ/cm2, intensity, UV-T 75%. Chemical: Electrochlorination EC - TRO 10ppm max, neutralization with sodium thiosulfate before discharge, Ozone 2ppm. Deoxygenation. Approval: Type approval per BWMS Code MEPC.300(72), active substance approval G9, USCG TA separate with 5 organism classes.
+
+OPERATION - Ballasting - filter + UV/EC, deballasting - UV only or neutralization. Holding time 24h for UV efficacy? Actually 24-72h for regrowth.
+
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+
+SAMPLING - Indicative analysis - organism count via microscope, compliance analysis - detailed lab.
+
+PSC CHECK - BWMP not approved, BWMS bypassed, TRO high 15ppm, filter clogged, UV intensity low 60%, record book missing exchange coordinates, D-2 commissioning test failure.
+
+BWMS MAINTENANCE - Filter element replacement 2000h, UV lamp 12000h, quartz sleeve cleaning weekly, EC electrode 5 years, TRO sensor calibration 6 months.
+
+BWMS CODE TESTS - Land based test 5 consecutive cycles at 3 salinities - fresh <1 PSU, brackish 10-20 PSU, marine 28-36 PSU. Organism concentration challenge >100,000 per m3.
+
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+
+EXAM QUESTIONS - D-1 distance? 200nm 200m depth. D-2 numbers? 10 per m3 and 10 per ml. Exchange methods? Sequential flow-through dilution.
+
+SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+URL: BWM Convention 2004 + BWMS Code
+
+BWM CONVENTION DEEP - All technical
+
+REGULATION A-1 Definitions - Ballast Water, BWMS, Active Substance.
+
+REGULATION A-2 Application - Ships 400GT+, all ships except domestic.
+
+REGULATION B-1 BWMP - Ballast Water Management Plan approved, 7 sections: safety procedures, sediment disposal, coordination with port, designated officer.
+
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+REGULATION B-2 BW Record Book - entries: uptake, circulation, treatment, discharge, accidental discharge, exemptions. Each operation within 24h.
+
+REGULATION B-3 Implementation Schedule - D-1 standard until ship's IOPP renewal: Existing ships built before 8 Sep 2017 must comply D-2 by first IOPP renewal after 8 Sep 2019. Example: Ship built 2010, IOPP renewal Sep 2020 => D-2 due Sep 2020. For new ships built after 8 Sep 2017 D-2 at delivery. Final deadline 8 Sep 2024 all ships D-2.
+
+D-1 Standard - Ballast Water Exchange - 95% volumetric exchange, at least 200nm from land and 200m depth, if not possible 50nm and 200m, if not possible designated area. Methods: Sequential - empty 95% then refill, Flow-through - 3x volume pumped, Dilution - 3x volume constant level.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+D-2 Standard - Discharge - <10 viable organisms per m3 >=50 micron, <10 per ml 10-50 micron, Vibrio cholerae <1 cfu per 100ml, E.coli <250 cfu per 100ml, Intestinal Enterococci <100 cfu per 100ml. IMO D-2 is USCG uses 30% more stringent? USCG 0.1x.
+
+BWMS Types - Mechanical: Filter 40 micron self-cleaning, Hydrocyclone. Physical: UV - dose 200-300 mJ/cm2, intensity, UV-T 75%. Chemical: Electrochlorination EC - TRO 10ppm max, neutralization with sodium thiosulfate before discharge, Ozone 2ppm. Deoxygenation. Approval: Type approval per BWMS Code MEPC.300(72), active substance approval G9, USCG TA separate with 5 organism classes.
+
+OPERATION - Ballasting - filter + UV/EC, deballasting - UV only or neutralization. Holding time 24h for UV efficacy? Actually 24-72h for regrowth.
+
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+SEDIMENT MANAGEMENT - Sediment reception facilities, disposal not in sea within 12nm.
+
+SAMPLING - Indicative analysis - organism count via microscope, compliance analysis - detailed lab.
+
+PSC CHECK - BWMP not approved, BWMS bypassed, TRO high 15ppm, filter clogged, UV intensity low 60%, record book missing exchange coordinates, D-2 commissioning test failure.
+
+BWMS MAINTENANCE - Filter element replacement 2000h, UV lamp 12000h, quartz sleeve cleaning weekly, EC electrode 5 years, TRO sensor calibration 6 months.
+
+BWMS CODE TESTS - Land based test 5 consecutive cycles at 3 salinities - fresh <1 PSU, brackish 10-20 PSU, marine 28-36 PSU. Organism concentration challenge >100,000 per m3.
+
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+---
+
+SOURCE: SOURCE: Ballast-Water-Management-ULTRA-DEEP-BWM-Convention.txt
+FINANCIAL SECURITY - BWM Convention does not have but US requires VGP.
+
+MEPC Circulars - BWM.2/Circ.42 sampling, BWM.2/Circ.70 contingency measures.
+
+EXAM QUESTIONS - D-1 distance? 200nm 200m depth. D-2 numbers? 10 per m3 and 10 per ml. Exchange methods? Sequential flow-through dilution.
+---
