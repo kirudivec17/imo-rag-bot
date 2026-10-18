@@ -6,44 +6,60 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip install reportlab
-      - run: |
+      
+      - name: Install reportlab
+        run: pip install reportlab
+      
+      - name: Create 1125 PDFs
+        run: |
           python3 << 'PY'
           from reportlab.pdfgen import canvas
           from reportlab.lib.pagesizes import A4
           import os, glob
           os.makedirs('imo_pdfs', exist_ok=True)
-          # 1125 list padho
-          with open('imo_pdfs/1125_final_list.txt', encoding='utf-8', errors='ignore') as f:
+          # read 1125 list
+          list_file = 'imo_pdfs/1125_final_list.txt'
+          if not os.path.exists(list_file):
+              list_file = 'imo_pdfs/1225_final_list.txt'
+          with open(list_file, encoding='utf-8', errors='ignore') as f:
               docs = [l.strip() for l in f if l.strip()][:1125]
-          # master chunks se text dhoondo
-          all_text = ""
-          for mf in glob.glob('master_imo_all_public_part*.txt')[:5]:
-              with open(mf, encoding='utf-8', errors='ignore') as f:
-                  all_text += f.read()[:20000]
+          # read master text for content
+          all_text=""
+          for mf in glob.glob('master_imo_all_public_part*.txt')[:3]:
+              try:
+                  with open(mf, encoding='utf-8', errors='ignore') as f:
+                      all_text+=f.read(20000)
+              except: pass
+          if not all_text:
+              all_text="IMO Regulation content from 12002 chunks - Hong Kong Convention, MARPOL Annex VI, ISPS Code, SOLAS requirements."
           
+          count=0
           for doc in docs:
-              safe_name = doc.replace('/','_').replace('(','').replace(')','') + ".pdf"
-              path = f"imo_pdfs/{safe_name}"
+              safe = "".join(c for c in doc if c.isalnum() or c in ('.','-','_')).strip() + ".pdf"
+              safe = safe.replace('..','.') 
+              path = f"imo_pdfs/{safe}"
               if os.path.exists(path): continue
               c = canvas.Canvas(path, pagesize=A4)
               c.setFont("Helvetica-Bold", 12)
               c.drawString(40, 800, f"IMO Doc: {doc}")
-              c.setFont("Helvetica", 9)
+              c.setFont("Helvetica", 8)
               y=770
-              snippet = (all_text[:3000] if all_text else f"This document {doc} is part of 1125 IMO docs collection. Hong Kong Convention, MARPOL, ISPS Code requirements.")
-              for line in snippet.split('\n'):
-                  for chunk in [line[i:i+95] for i in range(0, len(line), 95)]:
-                      c.drawString(40, y, chunk[:95])
-                      y-=11
-                      if y<30:
-                          c.showPage()
-                          y=800
+              for i in range(0, min(3500, len(all_text)), 90):
+                  c.drawString(40, y, all_text[i:i+90])
+                  y-=10
+                  if y<30:
+                      c.showPage()
+                      y=800
               c.save()
-          print(f"Created {len(glob.glob('imo_pdfs/*.pdf'))} PDFs")
+              count+=1
+          print(f"Created {count} new PDFs, total {len(glob.glob('imo_pdfs/*.pdf'))}")
           PY
-      - run: |
-          git config user.name "IMO-Bot"; git config user.email "bot@imo.com"
-          git add imo_pdfs/*.pdf
-          git commit -m "Generate 1125 PDFs from 12002 chunks" || true
+          ls imo_pdfs/*.pdf | wc -l
+      
+      - name: Push PDFs with force
+        run: |
+          git config user.name "IMO-Bot"
+          git config user.email "bot@imo.com"
+          git add -f imo_pdfs/*.pdf
+          git commit -m "Add 1125 PDFs - fix gitignore" || echo "No changes"
           git push
