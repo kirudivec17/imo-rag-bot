@@ -1,0 +1,353 @@
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+
+SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+---
+
+SOURCE: SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+---

@@ -1,0 +1,276 @@
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+---
+
+SOURCE: SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+---

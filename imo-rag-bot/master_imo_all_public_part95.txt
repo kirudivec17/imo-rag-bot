@@ -1,0 +1,304 @@
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+---
+
+SOURCE: SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+---

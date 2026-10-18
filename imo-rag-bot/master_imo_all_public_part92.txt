@@ -1,0 +1,241 @@
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+
+SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+---
+
+SOURCE: SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+
+AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+---
