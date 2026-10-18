@@ -1,126 +1,111 @@
 import streamlit as st
-import chromadb
-import google.generativeai as genai
-import os
+import os, json
+import numpy as np
+from google import genai
+from sklearn.metrics.pairwise import cosine_similarity
 from dotenv import load_dotenv
 
 load_dotenv()
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-# Config
-CHROMA_PATH = "./chroma_db"
-COLLECTION_NAME = "imo_docs"
-
-# Gemini 2.5 - Final Locked
-GENERATION_MODEL = "models/gemini-2.5-flash"
-EMBEDDING_MODEL = "models/text-embedding-005"
+GENERATION_MODEL = "gemini-2.5-flash"
+EMBEDDING_MODEL = "text-embedding-005"
 
 st.set_page_config(page_title="IMO AI ASISTANT", layout="wide", page_icon="⚓")
 
-# CSS - Blue header + Custom Anchor Watermark (NOT official logo)
+# CSS - Blue header + Anchor watermark (official logo nahi)
 st.markdown("""
 <style>
-    .stApp { background-color: #f5f7fa; }
-    .imo-header {
-        background: #0B3D91;
-        padding: 10px 20px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin: -1rem -1rem 1rem -1rem;
-    }
-    .imo-header-left { display: flex; align-items: center; gap: 10px; }
-    .imo-header-left img { height: 48px; filter: brightness(0) invert(1); }
-    .imo-header-text { color: white; font-size: 11px; font-weight: 700; line-height: 13px; }
-    .watermark {
-        position: fixed;
-        top: 0; left: 0; width: 100%; height: 100%;
-        opacity: 0.06;
-        pointer-events: none;
-        z-index: 0;
-        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Ctext x='50%25' y='50%25' font-size='40' fill='%230B3D91' opacity='0.5'%3E⚓%3C/text%3E%3C/svg%3E");
-        background-repeat: repeat;
-    }
-    .main-title { color: #0B3D91; font-size: 42px; font-weight: 800; text-align: center; margin-top: 10px; }
-    .subtitle { text-align: center; color: #555; font-size: 14px; }
-    .answer-box { background: #D6E8FF; padding: 18px; border-radius: 20px; margin: 15px 0; }
-    .pill { background: #D6E8FF; padding: 6px 14px; border-radius: 20px; display: inline-block; margin: 4px; font-size: 13px; }
-    .source-card { background: white; border-radius: 20px; padding: 16px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); margin-top: 20px; }
+.imo-header { background:#0B3D91; padding:10px 20px; display:flex; justify-content:space-between; align-items:center; margin:-1rem -1rem 1rem -1rem; position:relative; z-index:10; }
+.imo-header-left { display:flex; align-items:center; gap:10px; }
+.imo-header-left img { height:48px; filter:brightness(0) invert(1); }
+.imo-header-text { color:white; font-size:11px; font-weight:700; line-height:13px; }
+.watermark { position:fixed; top:0; left:0; width:100%; height:100%; opacity:0.06; pointer-events:none; z-index:0; 
+background-image:url("data:image/svg+xml,%3Csvg width='200' height='200' xmlns='http://www.w3.org/2000/svg'%3E%3Ctext x='50%25' y='50%25' font-size='40' fill='%230B3D91' text-anchor='middle' dominant-baseline='middle'%3E⚓%3C/text%3E%3C/svg%3E"); }
+.answer-bubble { background:#D6E6FF; border-radius:20px; padding:18px; margin:12px 0; }
+.source-card { background:white; border-radius:12px; padding:14px; border:1px solid #e0e0e0; margin-top:16px; }
+.pdf-preview { background:#F0F0F0; border-radius:8px; padding:12px; font-family:monospace; font-size:12px; }
 </style>
 <div class="watermark"></div>
 """, unsafe_allow_html=True)
 
-# Header - Tumhari photo jaisa
-st.markdown(f"""
-<div class="imo-header">
-    <div class="imo-header-left">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/IMO_logo.svg">
-        <div class="imo-header-text">INTERNATIONAL<br>MARITIME<br>ORGANIZATION</div>
+# Load DB
+@st.cache_resource
+def load_db():
+    emb = np.load("embeddings.npy")
+    with open("metadata.json","r",encoding="utf-8") as f:
+        meta = json.load(f)
+    return emb, meta
+
+# Header
+col1, col2 = st.columns([4,1])
+with st.container():
+    st.markdown(f"""
+    <div class="imo-header">
+        <div class="imo-header-left">
+            <img src="https://i.imgur.com/placeholder.png" id="imo-logo">
+            <div class="imo-header-text">INTERNATIONAL<br>MARITIME<br>ORGANIZATION</div>
+        </div>
+        <div style="color:white;">🔍 👤</div>
     </div>
-    <div style="color:white; font-size:22px;">🔍 &nbsp; 👤</div>
-</div>
-""", unsafe_allow_html=True)
+    <script>
+        document.getElementById('imo-logo').src = localStorage.getItem('imo_logo') || '';
+    </script>
+    """, unsafe_allow_html=True)
+    # Actual logo - put your wa_image file in assets/
+    st.image("assets/imo_logo.png", width=0)  # hidden, CSS will show
 
-st.markdown('<div class="main-title">IMO AI ASISTANT</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Your trusted assistant for IMO regulations, guidelines, and maritime safety</div>', unsafe_allow_html=True)
+st.markdown("<h1 style='text-align:center; color:#0B3D91;'>IMO AI ASISTANT</h1>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;'>Your trusted assistant for IMO regulations, guidelines, and maritime safety</p>", unsafe_allow_html=True)
 
-# Chroma
-client = chromadb.PersistentClient(path=CHROMA_PATH)
-collection = client.get_collection(COLLECTION_NAME)
-
-query = st.text_input("", placeholder="What are the requirements under the Hong Kong Convention?", label_visibility="collapsed")
+query = st.text_input("Query", placeholder="What are the requirements under the Hong Kong Convention?", label_visibility="collapsed")
 
 if query:
-    # Embedding with 005 - Gemini 2.5
-    q_emb = genai.embed_content(model=EMBEDDING_MODEL, content=query, task_type="retrieval_query")["embedding"]
+    embeddings, metadata = load_db()
     
-    results = collection.query(query_embeddings=[q_emb], n_results=3)
+    # Embed query - Gemini 2.5
+    q_emb = client.models.embed_content(model=EMBEDDING_MODEL, contents=query).embeddings[0].values
+    q_emb = np.array(q_emb).reshape(1,-1)
     
-    # Context build
+    # Cosine similarity - scikit-learn
+    sims = cosine_similarity(q_emb, embeddings)[0]
+    top_idx = np.argsort(sims)[-4:][::-1]
+    
     context = ""
     sources = []
-    for i in range(len(results["documents"][0])):
-        doc = results["documents"][0][i]
-        meta = results["metadatas"][0][i]
-        context += f"\n{doc}\n"
-        sources.append(meta)  # meta has: file_name, page_number, full_path
-
-    # Answer with Gemini 2.5 Flash
-    gen_model = genai.GenerativeModel(GENERATION_MODEL)
-    prompt = f"""
-    You are IMO AI ASISTANT. Answer only from context.
+    for idx in top_idx:
+        m = metadata[idx]
+        context += f"\nSource: {m['pdf_name']} Page {m['page']}: {m['text']}\n"
+        sources.append(m)
+    
+    # Generate - Gemini 2.5 Flash
+    prompt = f"""You are IMO AI ASISTANT. Answer only from context.
     Context: {context}
     Question: {query}
-    Provide concise answer and mention source file and page.
+    Cite at end: Source: [PDF Name] — Page [Number]
     """
-    ans = gen_model.generate_content(prompt).text
-
-    st.markdown(f'<div class="answer-box">{ans}</div>', unsafe_allow_html=True)
-    st.markdown('<span class="pill">ISPS Code security levels</span> <span class="pill">MARPOL Annex VI limits</span>', unsafe_allow_html=True)
-
-    # Source Card - Page + PDF Name + Which PDF
-    for meta in sources:
-        file_name = meta.get("file_name", "Unknown.pdf")
-        page_no = meta.get("page_number", "?")
-        full_path = meta.get("full_path", "")
-        preview_text = results["documents"][0][0][:400]
-
-        st.markdown(f"""
-        <div class="source-card">
-            <div style="display:flex; gap:10px; align-items:center;">
-                <div style="background:#0B3D91; color:white; padding:6px 10px; border-radius:6px; font-size:12px;">PDF</div>
-                <b>Source: IMO Resolution {file_name} — Page {page_no}</b>
-            </div>
-            <div style="font-size:12px; color:#555; margin-top:6px;">Hong Kong Convention — Annex, Section 8.3 — Ship Recycling Plan requirements</div>
-            <div style="background:#f0f0f0; padding:12px; border-radius:10px; margin-top:10px; font-size:12px;">
-                MEPC 68/21/Add.1 — ANNEX 7 — PAGE {page_no}<br><br>
-                {preview_text}...
-            </div>
+    response = client.models.generate_content(model=GENERATION_MODEL, contents=prompt)
+    answer = response.text
+    
+    st.markdown(f"<div class='answer-bubble'>{answer}</div>", unsafe_allow_html=True)
+    st.markdown("`ISPS Code security levels` `MARPOL Annex VI limits`")
+    
+    # Source Card - Page + PDF name show
+    best = sources[0]
+    st.markdown(f"""
+    <div class="source-card">
+        <b>📄 Source: IMO Resolution {best['pdf_name']} — Page {best['page']}</b><br>
+        <small>Hong Kong Convention — Annex, Section 8.3 — Ship Recycling Plan requirements</small>
+        <div class="pdf-preview" style="margin-top:10px;">
+            MEPC 68/21/Add.1 — ANNEX 7 — PAGE {best['page']}<br><br>
+            8.3.1 The ship recycling plan shall be developed.<br>
+            {best['text'][:300]}...
         </div>
-        """, unsafe_allow_html=True)
-
-        # OPEN FULL LOCAL PDF - Button
-        if st.button(f"📄 OPEN FULL LOCAL PDF - {file_name} Page {page_no}", key=f"{file_name}_{page_no}"):
-            st.info(f"Opening local file: {full_path} at Page {page_no}")
-            # For Streamlit Cloud, show file path; for local, use webbrowser
-            st.markdown(f"[Download PDF]({full_path})")
+    </div>
+    """, unsafe_allow_html=True)
+    
+    pdf_path = os.path.join("imo_pdfs", best['pdf_name'])
+    if os.path.exists(pdf_path):
+        with open(pdf_path, "rb") as f:
+            st.download_button("📄 OPEN FULL LOCAL PDF", f, file_name=best['pdf_name'], mime="application/pdf", use_container_width=True)
+        st.caption(f"Kaunse PDF se aaya: {best['pdf_name']} | Page: {best['page']} | File: {pdf_path}")
