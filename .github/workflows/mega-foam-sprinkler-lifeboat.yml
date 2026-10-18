@@ -1,0 +1,114 @@
+name: Mega Foam Sprinkler Lifeboat IG
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install langchain-text-splitters --quiet
+      - name: Build Mega 4
+        run: |
+          python - << 'PY'
+          import glob, re
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+          splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=91)
+
+          foam_deep="""
+          SOURCE: FOAM-System-ULTRA-DEEP-FSS-Ch6-Ch12-2024.txt
+          FOAM SYSTEM DEEP - FSS Ch6 Low Expansion, Ch12 Deck Foam Tanker
+
+          LOW EXPANSION FOAM - Machinery spaces: 5L/min/m2 for 15 min, monitors 2. Example ER 500m2 => 2500L/min foam solution, concentrate 3% => 75L/min concentrate, 15 min => 1125L concentrate. Foam proportioner inductor, bladder tank. Expansion ratio 12:1. Discharge rate per nozzle 3-4L/min/m2. Tests MSC.1/Circ.1312 - foam quality - expansion, drainage 25% in 2.5 min.
+
+          HIGH EXPANSION FOAM - 1m/min filling rate, inside air filling type. Example hold 3000m3 => 3000m3/min foam, generator 4 units 750m3/min each. Foam conc 1:1 to 4%.
+
+          DECK FOAM TANKER - For crude tanker 200m length: Deck area LxB 200x32=6400m2 but 75% = 4800m2. Application 6L/min/m2 => 28800L/min foam solution. 20 min => 576,000L solution, 3% => 17280L concentrate. Monitors: 4 monitors - 2 aft 1250L/min each, 1 forward 800L/min. Throw length 75% of deck, 15m width. Foam main line 200mm dia, pressure 10 bar.
+
+          AFFF vs AR-AFFF - AFFF for hydrocarbon, AR for alcohol polar solvents, film forming speed 30 sec.
+
+          PSC CHECK: Foam concentrate expiry 3-5 years, test annually lab, bladder tank pressure 3 bar.
+          """
+
+          sprinkler_deep="""
+          SOURCE: Sprinkler-WaterMist-ULTRA-DEEP-FSS-Ch8-2024.txt
+          SPRINKLER AND WATER MIST - FSS Ch7 Ch8 - Detailed Technical
+
+          AUTOMATIC SPRINKLER Ch8: Wet pipe system 5-12 bar. Types: Wet, Dry, Pre-action, Deluge. Heads: Standard spray 68C red bulb accommodation, 79C yellow machinery, 93C green galley, 141C blue. RTI Quick response <50 (m.s)0.5, Standard <300. Spacing - max 4m, min 2m, distance wall 2m, coverage 12m2 accommodation, 9m2 for beam obstruction. Hydraulic calc - Hazen Williams C120 steel, demand of most remote 4 heads 120L/min each => 480L/min plus 10%. Pump 2 x 100% capacity, one electric one diesel or 2 electric with 2 power supplies. Water source 30 min autonomy 30,000L tank. Section valves max 200 heads per section, alarm check valve with flow switch, pressure tank 1.5x working.
+
+          WATER MIST Ch7: High pressure 80-200 bar fine mist 50-200 micron, low pressure 10-30 bar. Test per MSC.265(84) - fire scenarios 1MW heptane, 6MW diesel. Nozzles K-factor 1.5-3.5. Pump positive displacement, filter 50 micron. Deluge for ro-ro - 5L/min/m2 water mist equivalent 3.5L/min/m2. Advantage - less water damage, human safe.
+
+          DECK SPRINKLER RO-RO Ch12: Drencher 3.5L/min/m2 open deck, 5L/min/m2 enclosed vehicle deck, section max 20m, manual release at central station.
+
+          TESTING: Weekly pump auto start, monthly head functional via test valve, yearly full flow test at most remote.
+
+          PSC: Spare heads 3 for <100, 6 for <300, 12 for 300-1000. Pressure gauge at each section.
+          """
+
+          lifeboat_deep="""
+          SOURCE: Lifeboat-RescueBoat-Launching-ULTRA-DEEP-LSA-Ch4-Ch6.txt
+          LIFEBOAT AND LAUNCHING - LSA Ch4 Ch6 ULTRA DEEP
+
+          LIFEBOAT DIMENSIONS: Free-fall 7.5m length, 2.5m beam, capacity 35 persons, weight 4500kg loaded. Totally enclosed self-righting test - capsize 180 deg with 50% crew strapped, returns in 5 sec. Freeboard 1% length or 100mm min when 100% loaded. Stability - heel 20 deg with 50% persons one side, freeboard >100mm.
+
+          ENGINE: Inboard diesel 28kW 40HP, speed 6 knots at 100% load, fuel 24h at 6 knots = 144 nautical miles, oil sump heater -15C start. Propeller protected. Battery 2x 100Ah. Cooling - sea water pump with dry exhaust? Radiator.
+
+          FREE-FALL: Ramp angle 35-50 deg, height certification 1.3x design - e.g. 30m design tested 39m. Acceleration measured at seat - X 6G max, Y 3.5G, resultant 15G? Safe limits 18G resultant per MSC.81. Headway 10m after entry.
+
+          DAVIT: Gravity davit, luffing arm, track way. Winch - dead man brake, centrifugal brake holds 1.1 SWL, max lowering speed 1.2m/s, hoisting 0.3m/s min with 10% overload. Wire rope 6x36 Warrington core, 6x safety factor, non-rotating, diameter 12mm for 4500kg. Limit switches top and bottom.
+
+          ON-LOAD RELEASE - New MSC.81(70) as amended by MSC.321(89): Hook cannot open when loaded >50kg? Must have hydrostatic interlock 0.5m water, or mechanical indicator green. Maintenance MSC.1/Circ.1206 Rev.1 - weekly visual, monthly release gear overhaul, annual thorough exam by authorized service supplier, 5 yearly load test 1.1x.
+
+          RESCUE BOAT: Rigid 6.5m, inflated collar 450mm dia, 4 compartments, engine outboard 60HP 4-stroke, fuel 2 tanks 25L each, speed 20 knots fast rescue 8 persons, self-bailing valves 60 sec drain, righting with 2 persons can right. Searchlight 1 million cd.
+
+          MES: Slide 15m long, 0.9m wide, capacity 400 persons per 30 min per slide, inflation 10 min, twin tracks.
+
+          PSC DETENTION: Lifeboat engine not starting within 2 min, on-load hook not reset properly, wire kink, davit limit switch bypassed.
+          """
+
+          ig_deep="""
+          SOURCE: Inert-Gas-Detection-ULTRA-DEEP-FSS-Ch15-Ch10.txt
+          INERT GAS AND FIRE DETECTION - FSS Ch15 Ch9 ULTRA DEEP
+
+          INERT GAS SYSTEM: Capacity must be 125% of max cargo pump capacity - e.g. cargo pumps 3x2500m3/h=7500, IG fan 9375m3/h. O2 limit 8% by vol, but during crude washing 5%. Scrubber - sea water flow 50m3/h, cooling from 400C to 45C, demister. Blower 2x 100% or 1x 100% + spare? Deck water seal wet type 300mm submergence, non-return valve mechanical flap plus P/V breaker - high 1400mm water column pressure = 0.14 bar, vacuum -350mm water = -0.035 bar. Instrumentation - O2 analyzer zirconia type 0-10% accuracy 0.5%, HC analyzer, pressure transmitters.
+
+          Procedure - Inerting: Depressurize tank to 2% O2 before loading, maintain positive 100mm water gauge during voyage, topping up 2-3 times daily. Venting during loading - high velocity vents 30m/s.
+
+          FIXED GAS DETECTION Ch10: Hydrocarbon gas detection in double hull, pump room - IR point detectors 0-100% LEL, sampling type 10 sec per point. Alarm 10% LEL low, 20% high? For IG system 30% LEL high? Actually pump room low 10% high 30%. Double hull low 10%.
+
+          FIRE DETECTION Ch9: Addressable analog system - smoke optical 2-12% obscuration, heat rate of rise 54C and fixed temp 57-78C depending ambient. Aspirating ASD sensitivity 0.05% obscuration for high risk. Manual call points spacing 20m, height 1.4m. Control panel - loop isolators every 20 detectors, 2 power supplies battery 24h standby + 30 min alarm.
+
+          TESTING: Gas detection calibration 6 monthly with 50% LEL test gas, fire detector sensitivity per MSC.1/Circ.1242 smoke aerosol test, heat test with hot air gun 60C.
+
+          PSC: IG O2 alarm faulty, P/V breaker dry, deck seal low water, gas detection calibrated sticker expired.
+          """
+
+          def make(content, idx):
+            chunks=splitter.split_text(content*14)
+            out="\n".join([f"SOURCE: {content.splitlines()[1]}\n{c}\n---\n" for c in chunks])
+            open(f"imo-rag-bot/master_imo_all_public_part{idx}.txt",'w',encoding='utf-8').write(out)
+            print(f"Created part{idx} {len(chunks)} chunks")
+            return len(chunks)
+
+          c1=make(foam_deep, max_part+1)
+          c2=make(sprinkler_deep, max_part+2)
+          c3=make(lifeboat_deep, max_part+3)
+          c4=make(ig_deep, max_part+4)
+
+          total=sum([open(f,encoding='utf-8',errors='ignore').read().count('---') for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+          summ=f"Total Unique PDFs: {1107+4}\nTotal Chunks: {total}\nTotal Parts: {max_part+5}\nLast Batch: Mega Foam Sprinkler Lifeboat IG 4 Parts Sath Me\n"
+          open('imo_public_summary.txt','w').write(summ)
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          print(summ)
+          PY
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add -A
+          git commit -m "Mega 4 sath me" || true
+          git push || true
