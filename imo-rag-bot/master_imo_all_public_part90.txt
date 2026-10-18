@@ -1,0 +1,507 @@
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+
+SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+Part 4 Fire door - A class door test, hose stream test.
+
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+---
+
+SOURCE: SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+Part 7 Textile - cigarette test, butane flame 5 sec.
+
+Part 8 Upholstery - same.
+
+Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+---

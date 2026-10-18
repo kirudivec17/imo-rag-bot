@@ -1,0 +1,428 @@
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+---
+
+SOURCE: SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+---

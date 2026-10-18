@@ -1,0 +1,369 @@
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+
+SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+---
+
+SOURCE: SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+
+SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+---
