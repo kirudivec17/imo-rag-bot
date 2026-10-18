@@ -1,0 +1,582 @@
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+
+PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+
+4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+PART B - CERTIFICATION AND VERIFICATION
+
+13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+15. VERIFICATION: All audits required completed before certificate issued.
+
+16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+
+3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+PART B - CERTIFICATION AND VERIFICATION
+
+13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+15. VERIFICATION: All audits required completed before certificate issued.
+
+16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+
+3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+PART B - CERTIFICATION AND VERIFICATION
+
+13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+15. VERIFICATION: All audits required completed before certificate issued.
+
+16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+
+3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+PART B - CERTIFICATION AND VERIFICATION
+
+13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+15. VERIFICATION: All audits required completed before certificate issued.
+
+16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+
+3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+PART B - CERTIFICATION AND VERIFICATION
+
+13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+15. VERIFICATION: All audits required completed before certificate issued.
+
+16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+
+3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+PART B - CERTIFICATION AND VERIFICATION
+
+13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+15. VERIFICATION: All audits required completed before certificate issued.
+
+16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+
+3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+PART B - CERTIFICATION AND VERIFICATION
+
+13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+15. VERIFICATION: All audits required completed before certificate issued.
+
+16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+
+3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+PART B - CERTIFICATION AND VERIFICATION
+
+13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+15. VERIFICATION: All audits required completed before certificate issued.
+
+16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+
+ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+
+PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+
+1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+
+1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+
+2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+
+3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+
+5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
+
+6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
+
+7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
+
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
+
+9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
+
+10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
+
+11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
+
+12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
+
+PART B - CERTIFICATION AND VERIFICATION
+
+13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
+---
+
+SOURCE: ISM-Code-Detailed-Summary-2024.txt
+URL: IMO ISM Code
+14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
+
+15. VERIFICATION: All audits required completed before certificate issued.
+
+16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
+
+Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
+
+TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
+
+Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+---
