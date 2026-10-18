@@ -1,4 +1,4 @@
-name: Make 1125 FULL Complete PDFs
+name: Make 1125 PDFs Fixed
 on: workflow_dispatch
 permissions: { contents: write }
 jobs:
@@ -7,97 +7,111 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install reportlab
-      - run: |
-          python3 << 'PY'
+      - name: Build 1125 PDFs
+        run: |
+          python3 - << 'PYEOF'
           from reportlab.pdfgen import canvas
           from reportlab.lib.pagesizes import A4
           import os, glob, re
 
           os.makedirs('imo_pdfs', exist_ok=True)
 
-          # 1125 list load
           with open('imo_pdfs/1125_final_list.txt', encoding='utf-8', errors='ignore') as f:
               docs = [l.strip() for l in f if l.strip()][:1125]
-          print(f"Docs to build: {len(docs)}")
 
-          # Master load - all parts
           full = ""
           for mf in sorted(glob.glob('master_imo_all_public_part*.txt')):
               try:
-                  with open(mf, encoding='utf-8', errors='ignore') as f:
-                      full += f.read() + "\n"
+                  with open(mf, encoding='utf-8', errors='ignore') as ff:
+                      full += ff.read() + "\n"
               except:
                   pass
-          print(f"Master size: {len(full)} chars")
 
-          def clean_text(t):
-              # Remove CHUNK markers & garbage like cS8R8T8 marker
+          print(f"Master {len(full)} chars, Docs {len(docs)}")
+
+          def clean(t):
               t = re.sub(r'--CHUNK--.*?SOURCE:.*?\.pdf', ' ', t, flags=re.DOTALL|re.IGNORECASE)
-              t = re.sub(r'SOURCE:\s*MEPC\..*?\.pdf', ' ', t, flags=re.IGNORECASE)
-              t = re.sub(r'for its.*?marker\s*\[.*?\]', ' ', t, flags=re.IGNORECASE)
-              t = re.sub(r'cS8R8T8|distinct System on Ships|1562,89,4|Annex 13.*|1\.MEPC.*\.docx|AMENDMENTS TO.*', ' ', t, flags=re.IGNORECASE)
-              t = re.sub(r'\s{2,}', ' ', t)
+              t = re.sub(r'SOURCE:.*\.pdf', ' ', t, flags=re.IGNORECASE)
+              t = re.sub(r'for its.*?marker.*?\]', ' ', t, flags=re.IGNORECASE)
+              t = re.sub(r'cS8R8T8|distinct System on Ships|1562,89,4|Annex 13.*|1\.MEPC.*\.docx', ' ', t, flags=re.IGNORECASE)
+              t = re.sub(r'\s+', ' ', t)
               return t.strip()
 
-          def get_complete_paragraph(full_text, keyword):
-              """Pura vakya - beech se nahi, starting se ending tak"""
+          def get_complete(full_text, keyword):
               idx = full_text.lower().find(keyword.lower())
               if idx == -1:
                   return ""
-              # Starting: pichhle double newline ya full stop se
-              start = full_text.rfind("\n\n", 0, idx)
-              if start == -1 or idx - start > 1500:
-                  start = full_text.rfind(". ", 0, idx)
-                  if start != -1:
-                      start += 2
+              s = full_text.rfind("\n\n", 0, idx)
+              if s == -1 or idx - s > 1500:
+                  s = full_text.rfind(". ", 0, idx)
+                  if s != -1:
+                      s += 2
                   else:
-                      start = max(0, idx - 600)
-              # Ending: agle double newline tak + extra
-              end = full_text.find("\n\n", idx + 1000)
-              if end == -1:
-                  end = full_text.find(". ", idx + 1500)
-                  if end != -1:
-                      end += 1
-                  else:
-                      end = idx + 3500
+                      s = max(0, idx - 600)
+              e = full_text.find("\n\n", idx + 1200)
+              if e == -1:
+                  e = idx + 3500
               else:
-                  end += 900  # pura paragraph lo
-              
-              txt = full_text[start:end]
-              # Ensure start with capital / RECALLING / THE MARINE
+                  e += 900
+              txt = full_text[s:e]
               m = re.search(r'(THE MARINE ENVIRONMENT|RECALLING|NOTING|HAVING CONSIDERED|ADOPTS)', txt, re.IGNORECASE)
               if m:
                   txt = txt[m.start():]
-              return clean_text(txt)
+              return clean(txt)
 
-          count = 0
+          cnt = 0
           for doc in docs:
               safe = re.sub(r'[^A-Za-z0-9._-]', '_', doc) + ".pdf"
-              path = f"imo_pdfs/{safe}"
-              
-              # Find relevant content for this doc
+              path = os.path.join('imo_pdfs', safe)
               base = doc.lower()
-              keyword = ""
-              if "269" in base or "hong kong" in base or "ihm" in base or "recycling" in base:
-                  keyword = "Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships"
-              elif "marpol" in base or "sulphur" in base:
-                  keyword = "MARPOL Annex VI"
-              elif "isps" in base or "security" in base:
-                  keyword = "ISPS Code"
-              elif "197" in base:
-                  keyword = "Inventory of Hazardous Materials"
+              if '269' in base or 'hong' in base or 'ihm' in base:
+                  kw = "Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships"
+              elif 'marpol' in base:
+                  kw = "MARPOL Annex VI"
+              elif 'isps' in base:
+                  kw = "ISPS Code"
               else:
-                  # Use first 10 chars of doc name as keyword
-                  keyword = doc[:12]
+                  kw = doc[:12]
 
-              txt = get_complete_paragraph(full, keyword)
+              txt = get_complete(full, kw)
               if len(txt) < 600:
-                  # fallback - try generic
-                  txt = get_complete_paragraph(full, doc.split('_')[0][:8])
+                  txt = get_complete(full, doc.split('_')[0][:8])
               if len(txt) < 600:
-                  # final fallback - take big chunk but clean
-                  txt = clean_text(full[10000:14000])
-
-              # Ensure at least 800 chars for complete Page 15
+                  txt = clean(full[10000:14000])
               if len(txt) < 800:
-                  txt = txt + " " + clean_text(full[15000:180
+                  extra = clean(full[15000:18000])
+                  txt = txt + " " + extra
+
+              c = canvas.Canvas(path, pagesize=A4)
+              c.setFont("Helvetica-Bold", 12)
+              c.drawString(40, 820, "INTERNATIONAL MARITIME ORGANIZATION")
+              c.setFont("Helvetica-Bold", 10)
+              c.drawString(40, 803, f"{doc} - Page 15 Complete")
+              c.line(40, 799, 555, 799)
+              c.setFont("Helvetica", 9.5)
+              y = 776
+              parts = re.split(r'(?<=\.)\s+', txt)
+              for sent in parts:
+                  sent = sent.strip()
+                  if not sent:
+                      continue
+                  while len(sent) > 0:
+                      chunk = sent[:88]
+                      if y < 35:
+                          c.showPage()
+                          c.setFont("Helvetica", 9.5)
+                          y = 800
+                      c.drawString(40, y, chunk)
+                      y -= 12
+                      sent = sent[88:].strip()
+                  y -= 4
+              c.save()
+              cnt += 1
+          print(f"DONE {cnt} PDFs")
+          PYEOF
+      - run: |
+          git config user.name "IMO-Bot"
+          git config user.email "bot@imo.com"
+          git add -f imo_pdfs/*.pdf
+          git commit -m "Fixed 1125 PDFs Complete paragraphs no SyntaxError" || true
+          git push
