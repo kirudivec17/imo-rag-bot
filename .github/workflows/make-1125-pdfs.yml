@@ -24,10 +24,15 @@ jobs:
         with:
           python-version: '3.11'
       
+      - name: Fix old model name - 005 to 004
+        run: |
+          sed -i 's/text-embedding-005/text-embedding-004/g' imo-rag-bot/ingest.py || true
+          sed -i 's/text-embedding-005/text-embedding-004/g' ingest.py || true
+          grep -n "embedding" imo-rag-bot/ingest.py || true
+
       - name: Install deps
         run: |
           pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           if [ -f imo-rag-bot/requirements.txt ]; then pip install -r imo-rag-bot/requirements.txt; fi
           pip install numpy tqdm pypdf google-genai
 
@@ -37,7 +42,7 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GOOGLE_GENAI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python imo-rag-bot/ingest.py --worker-id ${{ matrix.worker_id }} --workers 5 || python ingest.py --worker-id ${{ matrix.worker_id }} --workers 5
+          python imo-rag-bot/ingest.py --worker-id ${{ matrix.worker_id }} --workers 5
 
       - uses: actions/upload-artifact@v4
         with:
@@ -57,5 +62,5 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add imo_pdfs/
-          git commit -m "Final 1125 PDFs - 5 workers" || true
+          git commit -m "Final 1125 PDFs" || true
           git push
