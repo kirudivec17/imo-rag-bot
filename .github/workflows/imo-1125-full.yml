@@ -1,0 +1,103 @@
+name: IMO 1125 PDFs Full - 5 Workers Fixed
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'master_imo_all_public_part*.txt'
+      - '.github/workflows/imo-1125-full.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        worker: [1, 2, 3, 4, 5]
+      max-parallel: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Worker ${{ matrix.worker }} Extract
+        run: |
+          mkdir -p part_${{ matrix.worker }}
+          echo "Worker ${{ matrix.worker }} scanning..."
+          
+          # 1125 PDFs ke liye BROAD patterns
+          if ls master_imo_all_public_part*.txt 1>/dev/null 2>&1; then
+            # Saare IMO types: MEPC, MSC, A, B, FAL, LEG, LC, LP, SUA, etc
+            grep -h -oE "MEPC\.[0-9]+\([0-9]+\)|MSC\.[0-9]+\([0-9]+\)|MEPC\.[0-9]+/[0-9]+|A\.[0-9]+\([0-9]+\)|FAL\.[0-9]+\([0-9]+\)|LEG\.[0-9]+\([0-9]+\)|Resolution [A-Z0-9\.\(\)]+" master_imo_all_public_part*.txt > /tmp/all1.txt || true
+            
+            # Dusra pattern - Resolution codes, Circulars
+            grep -h -oE "[A-Z]{2,5}\.[0-9]+/[A-Z0-9/\.]+|A [0-9]+/[A-Z]+|MSC-MEPC\.[0-9]+" master_imo_all_public_part*.txt > /tmp/all2.txt || true
+            
+            # Teesra - Jo bhi PDF jaisa lage
+            grep -h -oE "[A-Z]+\.[0-9]+[A-Za-z0-9/\.\(\)-]*" master_imo_all_public_part*.txt | grep -E "\([0-9]+\)|/[0-9]+" > /tmp/all3.txt || true
+            
+            cat /tmp/all1.txt /tmp/all2.txt /tmp/all3.txt 2>/dev/null | sort | uniq > /tmp/combined.txt
+            
+            total=$(wc -l < /tmp/combined.txt)
+            per=$(( (total + 4) / 5 ))
+            start=$(( (${{ matrix.worker }} - 1) * per + 1 ))
+            end=$(( start + per - 1 ))
+            
+            echo "Total found: $total | Worker ${{ matrix.worker }}: $start to $end"
+            sed -n "${start},${end}p" /tmp/combined.txt > part_${{ matrix.worker }}/chunk_${{ matrix.worker }}.txt
+            
+            wc -l part_${{ matrix.worker }}/chunk_${{ matrix.worker }}.txt
+          else
+            echo "MEPC.269(68) Worker ${{ matrix.worker }}" > part_${{ matrix.worker }}/chunk_${{ matrix.worker }}.txt
+          fi
+
+      - name: Upload part
+        uses: actions/upload-artifact@v4
+        with:
+          name: imo-part-${{ matrix.worker }}
+          path: part_${{ matrix.worker }}/
+          retention-days: 1
+
+  merge-1125:
+    needs: extract
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Download all 5 parts
+        uses: actions/download-artifact@v4
+        with:
+          path: all_downloads
+          
+      - name: Merge to 1125 Final List
+        run: |
+          mkdir -p imo_pdfs
+          echo "Merging 5 workers..."
+          find all_downloads -name "*.txt" -exec cat {} \; | sort | uniq > imo_pdfs/1125_final_list.txt
+          
+          # Extra cleanup - sirf valid IMO docs rakho, 3 chars se kam hatao
+          grep -E ".{5,}" imo_pdfs/1125_final_list.txt | sort | uniq > imo_pdfs/clean_list.txt
+          mv imo_pdfs/clean_list.txt imo_pdfs/1125_final_list.txt
+          
+          count=$(wc -l < imo_pdfs/1125_final_list.txt)
+          echo "=========================="
+          echo "Total Unique PDFs: $count"
+          echo "=========================="
+          cat imo_public_summary.txt 2>/dev/null || echo "No summary file"
+          echo ""
+          echo "Top 20 PDFs:"
+          head -20 imo_pdfs/1125_final_list.txt
+          
+          echo "IMO 1125 PDFs - Ready for app" > imo_pdfs/README.txt
+          echo "Generated on $(date)" >> imo_pdfs/README.txt
+          echo "Total: $count" >> imo_pdfs/README.txt
+          
+          ls -lh imo_pdfs/
+
+      - name: Push final 1125 list to GitHub
+        run: |
+          git config user.name "IMO-1125-Bot"
+          git config user.email "imo1125@bot.com"
+          git add imo_pdfs/
+          git commit -m "Final: 1125 PDFs list - 5 workers merged - no duplicate" || echo "No changes"
+          git push
