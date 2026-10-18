@@ -5,147 +5,122 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-genai.configure(api_key=GEMINI_API_KEY)
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
-# Page config
+# Config
+CHROMA_PATH = "./chroma_db"
+COLLECTION_NAME = "imo_docs"
+
+# Gemini 2.5 - Final Locked
+GENERATION_MODEL = "models/gemini-2.5-flash"
+EMBEDDING_MODEL = "models/text-embedding-005"
+
 st.set_page_config(page_title="IMO AI ASISTANT", layout="wide", page_icon="⚓")
 
-# CSS - Blue header + Watermark (custom anchor pattern, not official IMO logo)
+# CSS - Blue header + Custom Anchor Watermark (NOT official logo)
 st.markdown("""
 <style>
+    .stApp { background-color: #f5f7fa; }
     .imo-header {
         background: #0B3D91;
-        padding: 12px 20px;
+        padding: 10px 20px;
         display: flex;
         justify-content: space-between;
         align-items: center;
-        color: white;
-        margin: -1rem -1rem 0 -1rem;
+        margin: -1rem -1rem 1rem -1rem;
     }
-    .imo-header-left {
-        display: flex;
-        align-items: center;
-        gap: 12px;
-    }
-    .imo-header-left img {
-        height: 50px;
-        filter: brightness(0) invert(1);
-    }
-    .imo-header-left-text {
-        font-size: 12px;
-        font-weight: bold;
-        line-height: 14px;
-    }
-    .main-container {
-        position: relative;
-        background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' xmlns='http://www.w3.org/2000/svg'%3E%3Ctext x='50%25' y='50%25' font-size='40' fill='%23e3eaf5' text-anchor='middle' dominant-baseline='middle' opacity='0.3'%3E⚓%3C/text%3E%3C/svg%3E");
+    .imo-header-left { display: flex; align-items: center; gap: 10px; }
+    .imo-header-left img { height: 48px; filter: brightness(0) invert(1); }
+    .imo-header-text { color: white; font-size: 11px; font-weight: 700; line-height: 13px; }
+    .watermark {
+        position: fixed;
+        top: 0; left: 0; width: 100%; height: 100%;
+        opacity: 0.06;
+        pointer-events: none;
+        z-index: 0;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Ctext x='50%25' y='50%25' font-size='40' fill='%230B3D91' opacity='0.5'%3E⚓%3C/text%3E%3C/svg%3E");
         background-repeat: repeat;
     }
-    .source-card {
-        background: white;
-        border-radius: 16px;
-        padding: 16px;
-        box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
-        margin-top: 20px;
-    }
-    .pdf-preview {
-        background: #f2f2f2;
-        padding: 15px;
-        border-radius: 12px;
-        font-family: monospace;
-        font-size: 12px;
-    }
-    .open-pdf-btn {
-        background: #0B3D91;
-        color: white;
-        padding: 14px;
-        border-radius: 12px;
-        text-align: center;
-        font-weight: bold;
-        width: 100%;
-        border: none;
-        cursor: pointer;
-        margin-top: 10px;
-    }
+    .main-title { color: #0B3D91; font-size: 42px; font-weight: 800; text-align: center; margin-top: 10px; }
+    .subtitle { text-align: center; color: #555; font-size: 14px; }
+    .answer-box { background: #D6E8FF; padding: 18px; border-radius: 20px; margin: 15px 0; }
+    .pill { background: #D6E8FF; padding: 6px 14px; border-radius: 20px; display: inline-block; margin: 4px; font-size: 13px; }
+    .source-card { background: white; border-radius: 20px; padding: 16px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); margin-top: 20px; }
 </style>
+<div class="watermark"></div>
 """, unsafe_allow_html=True)
 
-# Header - IMO logo + INTERNATIONAL MARITIME ORGANIZATION
-st.markdown("""
+# Header - Tumhari photo jaisa
+st.markdown(f"""
 <div class="imo-header">
     <div class="imo-header-left">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/IMO_logo.svg/120px-IMO_logo.svg.png">
-        <div class="imo-header-left-text">INTERNATIONAL<br>MARITIME<br>ORGANIZATION</div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/IMO_logo.svg">
+        <div class="imo-header-text">INTERNATIONAL<br>MARITIME<br>ORGANIZATION</div>
     </div>
-    <div>🔍 &nbsp;&nbsp; 👤</div>
+    <div style="color:white; font-size:22px;">🔍 &nbsp; 👤</div>
 </div>
 """, unsafe_allow_html=True)
 
-# Title
-st.markdown("<h1 style='text-align:center; color:#0B3D91; margin-top:20px;'>IMO AI ASISTANT</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center; color:#555;'>Your trusted assistant for IMO regulations, guidelines, and maritime safety</p>", unsafe_allow_html=True)
+st.markdown('<div class="main-title">IMO AI ASISTANT</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">Your trusted assistant for IMO regulations, guidelines, and maritime safety</div>', unsafe_allow_html=True)
 
-# ChromaDB load
-client = chromadb.PersistentClient(path="./chroma_db")
-collection = client.get_collection(name="imo_hkc_12000")
+# Chroma
+client = chromadb.PersistentClient(path=CHROMA_PATH)
+collection = client.get_collection(COLLECTION_NAME)
 
 query = st.text_input("", placeholder="What are the requirements under the Hong Kong Convention?", label_visibility="collapsed")
-if st.button("➤", key="send"):
-    st.session_state['q'] = query
 
-if 'q' in st.session_state and st.session_state['q']:
-    q = st.session_state['q']
+if query:
+    # Embedding with 005 - Gemini 2.5
+    q_emb = genai.embed_content(model=EMBEDDING_MODEL, content=query, task_type="retrieval_query")["embedding"]
     
-    # Embed query
-    q_emb = genai.embed_content(model="models/text-embedding-004", content=q, task_type="retrieval_query")['embedding']
-    results = collection.query(query_embeddings=[q_emb], n_results=1)
+    results = collection.query(query_embeddings=[q_emb], n_results=3)
     
-    doc = results['documents'][0][0]
-    meta = results['metadatas'][0][0]
-    source_file = meta.get('source','MEPC.269(68).pdf')
-    
-    # Extract page - from your chunks
-    page = "Page 15"  # you can parse from chunk metadata later
-    pdf_name = source_file.split('/')[-1] if '/' in source_file else source_file
-    
-    # Answer via Gemini
-    model = genai.GenerativeModel('gemini-2.5-flash')
-    prompt = f"Based on this IMO doc: {doc}\n\nQuestion: {q}\nAnswer concisely with requirements."
-    ans = model.generate_content(prompt).text
-    
-    # Answer bubble
-    st.markdown(f"<div style='background:#d6e4ff; padding:16px; border-radius:20px; margin:20px 0;'>{ans}</div>", unsafe_allow_html=True)
-    st.markdown("""
-    <div style='display:flex; gap:10px; margin-bottom:10px;'>
-        <span style='background:#d6e4ff; padding:6px 12px; border-radius:20px; font-size:12px;'>ISPS Code security levels</span>
-        <span style='background:#d6e4ff; padding:6px 12px; border-radius:20px; font-size:12px;'>MARPOL Annex VI limits</span>
-    </div>
-    """, unsafe_allow_html=True)
-    
-    # Source Card - Exact as your photo
-    st.markdown(f"""
-    <div class="source-card">
-        <div style='display:flex; align-items:center; gap:8px; font-weight:bold;'>
-            <span style='background:#0B3D91; color:white; padding:4px 8px; border-radius:4px; font-size:10px;'>PDF</span>
-            Source: IMO Resolution {pdf_name} — {page}
-        </div>
-        <div style='font-size:12px; color:#555; margin:8px 0;'>Hong Kong Convention — Annex, Section 8.3 — Ship Recycling Plan requirements</div>
-        <div class="pdf-preview">
-            MEPC 68/21/Add.1 — ANNEX 7 — PAGE 15<br><br>
-            8.3.1 The ship recycling plan shall be developed.<br><br>
-            {doc[:300]}...
-        </div>
-        <button class="open-pdf-btn">📄 OPEN FULL LOCAL PDF</button>
-        <div style='text-align:center; font-size:10px; color:#888; margin-top:5px;'>{pdf_name} • {page} of 22</div>
-    </div>
-    """, unsafe_allow_html=True)
-    
-    if st.button("OPEN FULL LOCAL PDF"):
-        st.info(f"Opening local file: {pdf_name} - {page} - from ./imo-rag-bot/{pdf_name}")
+    # Context build
+    context = ""
+    sources = []
+    for i in range(len(results["documents"][0])):
+        doc = results["documents"][0][i]
+        meta = results["metadatas"][0][i]
+        context += f"\n{doc}\n"
+        sources.append(meta)  # meta has: file_name, page_number, full_path
 
-# Sidebar stats
-with st.sidebar:
-    st.metric("Docs", "1125")
-    st.metric("Chunks", "12002")
-    st.write("Model: Gemini + ChromaDB")
+    # Answer with Gemini 2.5 Flash
+    gen_model = genai.GenerativeModel(GENERATION_MODEL)
+    prompt = f"""
+    You are IMO AI ASISTANT. Answer only from context.
+    Context: {context}
+    Question: {query}
+    Provide concise answer and mention source file and page.
+    """
+    ans = gen_model.generate_content(prompt).text
+
+    st.markdown(f'<div class="answer-box">{ans}</div>', unsafe_allow_html=True)
+    st.markdown('<span class="pill">ISPS Code security levels</span> <span class="pill">MARPOL Annex VI limits</span>', unsafe_allow_html=True)
+
+    # Source Card - Page + PDF Name + Which PDF
+    for meta in sources:
+        file_name = meta.get("file_name", "Unknown.pdf")
+        page_no = meta.get("page_number", "?")
+        full_path = meta.get("full_path", "")
+        preview_text = results["documents"][0][0][:400]
+
+        st.markdown(f"""
+        <div class="source-card">
+            <div style="display:flex; gap:10px; align-items:center;">
+                <div style="background:#0B3D91; color:white; padding:6px 10px; border-radius:6px; font-size:12px;">PDF</div>
+                <b>Source: IMO Resolution {file_name} — Page {page_no}</b>
+            </div>
+            <div style="font-size:12px; color:#555; margin-top:6px;">Hong Kong Convention — Annex, Section 8.3 — Ship Recycling Plan requirements</div>
+            <div style="background:#f0f0f0; padding:12px; border-radius:10px; margin-top:10px; font-size:12px;">
+                MEPC 68/21/Add.1 — ANNEX 7 — PAGE {page_no}<br><br>
+                {preview_text}...
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+        # OPEN FULL LOCAL PDF - Button
+        if st.button(f"📄 OPEN FULL LOCAL PDF - {file_name} Page {page_no}", key=f"{file_name}_{page_no}"):
+            st.info(f"Opening local file: {full_path} at Page {page_no}")
+            # For Streamlit Cloud, show file path; for local, use webbrowser
+            st.markdown(f"[Download PDF]({full_path})")
