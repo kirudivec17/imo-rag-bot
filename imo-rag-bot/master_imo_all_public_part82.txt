@@ -1,0 +1,84 @@
+SOURCE: SOLAS-Consolidated-2024-Table.txt
+URL: imo.org
+SOURCE: SOLAS-Consolidated-2024-Table.txt
+URL: https://www.imo.org/SOLAS-2024
+SOLAS CONSOLIDATED EDITION 2024 - AMENDMENTS STATUS
+Resolution Amends Chapter Entry into Force
+MSC.520(106) Chapter II-2 Fire protection 1 Jan 2026
+MSC.522(106) Appendix Certificates 1 Jan 2026
+MSC.532(107) Chapter II-1 Structure + II-2 + V + XIV Polar 1 Jan 2026
+MSC.533(107) Appendix Certificates 1 Jan 2026
+MSC.534(107) Appendix Certificates 1 Jan 2026
+MSC.550(108) Chapter II-2 + Chapter V Safety of navigation 1 Jan 2026
+Key changes: Mooring maintenance retroactive all ships, GMDSS modernization, Watertight integrity new builds, LSA and IGF Code amendments, FSS Code amendments.
+---
+
+SOURCE: FSS-Code-Summary.txt
+URL: imo.org/codes
+FSS CODE International Code for Fire Safety Systems - MSC.98(73) + MSC.206(81) + MSC.217(82). Chapters: 1 Int shore connections, 2 Personnel protection, 3 Fire extinguishers, 4 Fixed gas, 5 Fixed foam, 6 Water spraying, 7 Detection, 8 Sprinkler, 9 Smoke detection, 10 Low location lighting, 11 Emergency fire pumps, 12 Means of escape, 13 Deck foam, 14 Inert gas, 15 Hydrocarbon detection. Recent amendments MSC.311(88) etc.FSS CODE International Code for Fire Safety Systems - MSC.98(73) + MSC.206(81) + MSC.217(82). Chapters: 1 Int shore connections, 2 Personnel protection, 3 Fire extinguishers, 4 Fixed gas, 5 Fixed foam, 6 Water spraying, 7 Detection, 8 Sprinkler, 9 Smoke detection, 10 Low location lighting, 11 Emergency fire pumps, 12 Means of escape, 13 Deck foam, 14 Inert gas, 15 Hydrocarbon detection. Recent amendments MSC.311(88) etc.FSS CODE International Code for Fire Safety Systems - MSC.98(73) + MSC.206(81) + MSC.217(82). Chapters: 1 Int shore connections, 2 Personnel protection,
+---
+
+SOURCE: FSS-Code-Summary.txt
+URL: imo.org/codes
+CODE International Code for Fire Safety Systems - MSC.98(73) + MSC.206(81) + MSC.217(82). Chapters: 1 Int shore connections, 2 Personnel protection, 3 Fire extinguishers, 4 Fixed gas, 5 Fixed foam, 6 Water spraying, 7 Detection, 8 Sprinkler, 9 Smoke detection, 10 Low location lighting, 11 Emergency fire pumps, 12 Means of escape, 13 Deck foam, 14 Inert gas, 15 Hydrocarbon detection. Recent amendments MSC.311(88) etc.FSS CODE International Code for Fire Safety Systems - MSC.98(73) + MSC.206(81) + MSC.217(82). Chapters: 1 Int shore connections, 2 Personnel protection, 3 Fire extinguishers, 4 Fixed gas, 5 Fixed foam, 6 Water spraying, 7 Detection, 8 Sprinkler, 9 Smoke detection, 10 Low location lighting, 11 Emergency fire pumps, 12 Means of escape, 13 Deck foam, 14 Inert gas, 15 Hydrocarbon detection. Recent amendments MSC.311(88) etc.FSS CODE International Code for Fire Safety Systems - MSC.98(73) + MSC.206(81) + MSC.217(82). Chapters: 1 Int shore connections, 2 Personnel protection, 3
+---
+
+SOURCE: FSS-Code-Summary.txt
+URL: imo.org/codes
+International Code for Fire Safety Systems - MSC.98(73) + MSC.206(81) + MSC.217(82). Chapters: 1 Int shore connections, 2 Personnel protection, 3 Fire extinguishers, 4 Fixed gas, 5 Fixed foam, 6 Water spraying, 7 Detection, 8 Sprinkler, 9 Smoke detection, 10 Low location lighting, 11 Emergency fire pumps, 12 Means of escape, 13 Deck foam, 14 Inert gas, 15 Hydrocarbon detection. Recent amendments MSC.311(88) etc.
+---
+
+SOURCE: LSA-Code-Summary.txt
+URL: imo.org/codes
+LSA CODE Life-Saving Appliances MSC.48(66) 2023 Edition. Chapter I General, II Personal - lifebuoys, lifejackets, immersion suits, III Visual signals, IV Survival craft liferafts lifeboats, V Rescue boats, VI Launching appliances, VII Other. Testing MSC.81(70). Amendments 2024-2026 effective.LSA CODE Life-Saving Appliances MSC.48(66) 2023 Edition. Chapter I General, II Personal - lifebuoys, lifejackets, immersion suits, III Visual signals, IV Survival craft liferafts lifeboats, V Rescue boats, VI Launching appliances, VII Other. Testing MSC.81(70). Amendments 2024-2026 effective.LSA CODE Life-Saving Appliances MSC.48(66) 2023 Edition. Chapter I General, II Personal - lifebuoys, lifejackets, immersion suits, III Visual signals, IV Survival craft liferafts lifeboats, V Rescue boats, VI Launching appliances, VII Other. Testing MSC.81(70). Amendments 2024-2026 effective.LSA CODE Life-Saving Appliances MSC.48(66) 2023 Edition. Chapter I General, II Personal - lifebuoys, lifejackets,
+---
+
+SOURCE: LSA-Code-Summary.txt
+URL: imo.org/codes
+Amendments 2024-2026 effective.LSA CODE Life-Saving Appliances MSC.48(66) 2023 Edition. Chapter I General, II Personal - lifebuoys, lifejackets, immersion suits, III Visual signals, IV Survival craft liferafts lifeboats, V Rescue boats, VI Launching appliances, VII Other. Testing MSC.81(70). Amendments 2024-2026 effective.LSA CODE Life-Saving Appliances MSC.48(66) 2023 Edition. Chapter I General, II Personal - lifebuoys, lifejackets, immersion suits, III Visual signals, IV Survival craft liferafts lifeboats, V Rescue boats, VI Launching appliances, VII Other. Testing MSC.81(70). Amendments 2024-2026 effective.
+---
+
+SOURCE: FTP-Code-2010.txt
+URL: imo.org/codes
+2010 FTP CODE International Code for Application of Fire Test Procedures - MSC.307(88) + MSC.1/Circ.1430. Part 1 Non-combustibility, Part 2 Smoke toxicity, Part 3 A B F class divisions, Part 4 Fire door, Part 5 Surface flammability, Part 6 Primary deck, Part 7 Textiles, Part 8 Upholstered, Part 9 Bedding, Part 10 Fire restricting, Part 11 High speed craft divisions.2010 FTP CODE International Code for Application of Fire Test Procedures - MSC.307(88) + MSC.1/Circ.1430. Part 1 Non-combustibility, Part 2 Smoke toxicity, Part 3 A B F class divisions, Part 4 Fire door, Part 5 Surface flammability, Part 6 Primary deck, Part 7 Textiles, Part 8 Upholstered, Part 9 Bedding, Part 10 Fire restricting, Part 11 High speed craft divisions.2010 FTP CODE International Code for Application of Fire Test Procedures - MSC.307(88) + MSC.1/Circ.1430. Part 1 Non-combustibility, Part 2 Smoke toxicity, Part 3 A B F class divisions, Part 4 Fire door, Part 5 Surface flammability, Part 6 Primary deck, Part 7
+---
+
+SOURCE: FTP-Code-2010.txt
+URL: imo.org/codes
+1 Non-combustibility, Part 2 Smoke toxicity, Part 3 A B F class divisions, Part 4 Fire door, Part 5 Surface flammability, Part 6 Primary deck, Part 7 Textiles, Part 8 Upholstered, Part 9 Bedding, Part 10 Fire restricting, Part 11 High speed craft divisions.2010 FTP CODE International Code for Application of Fire Test Procedures - MSC.307(88) + MSC.1/Circ.1430. Part 1 Non-combustibility, Part 2 Smoke toxicity, Part 3 A B F class divisions, Part 4 Fire door, Part 5 Surface flammability, Part 6 Primary deck, Part 7 Textiles, Part 8 Upholstered, Part 9 Bedding, Part 10 Fire restricting, Part 11 High speed craft divisions.2010 FTP CODE International Code for Application of Fire Test Procedures - MSC.307(88) + MSC.1/Circ.1430. Part 1 Non-combustibility, Part 2 Smoke toxicity, Part 3 A B F class divisions, Part 4 Fire door, Part 5 Surface flammability, Part 6 Primary deck, Part 7 Textiles, Part 8 Upholstered, Part 9 Bedding, Part 10 Fire restricting, Part 11 High speed craft divisions.
+---
+
+SOURCE: ISM-Code-Summary.txt
+URL: imo.org/codes
+ISM CODE International Safety Management Code A.741(18) + MSC.104(73). Part A Safety Management, Part B Certification. Objectives ensure safety, prevent injury, avoid environmental damage. DOC and SMC certification. Guidelines MSC-MEPC.7/Circ.8.ISM CODE International Safety Management Code A.741(18) + MSC.104(73). Part A Safety Management, Part B Certification. Objectives ensure safety, prevent injury, avoid environmental damage. DOC and SMC certification. Guidelines MSC-MEPC.7/Circ.8.ISM CODE International Safety Management Code A.741(18) + MSC.104(73). Part A Safety Management, Part B Certification. Objectives ensure safety, prevent injury, avoid environmental damage. DOC and SMC certification. Guidelines MSC-MEPC.7/Circ.8.ISM CODE International Safety Management Code A.741(18) + MSC.104(73). Part A Safety Management, Part B Certification. Objectives ensure safety, prevent injury, avoid environmental damage. DOC and SMC certification. Guidelines MSC-MEPC.7/Circ.8.ISM CODE
+---
+
+SOURCE: ISM-Code-Summary.txt
+URL: imo.org/codes
+Certification. Objectives ensure safety, prevent injury, avoid environmental damage. DOC and SMC certification. Guidelines MSC-MEPC.7/Circ.8.ISM CODE International Safety Management Code A.741(18) + MSC.104(73). Part A Safety Management, Part B Certification. Objectives ensure safety, prevent injury, avoid environmental damage. DOC and SMC certification. Guidelines MSC-MEPC.7/Circ.8.
+---
+
+SOURCE: ISPS-Code-Summary.txt
+URL: imo.org/codes
+ISPS CODE International Ship and Port Facility Security Code - SOLAS XI-2 + ISPS Part A mandatory + Part B guidance. Ship Security Assessment, Ship Security Plan, SSO, CSO, PFSO. Levels 1-3, Declaration of Security, CII, SSAS, LRIT link.ISPS CODE International Ship and Port Facility Security Code - SOLAS XI-2 + ISPS Part A mandatory + Part B guidance. Ship Security Assessment, Ship Security Plan, SSO, CSO, PFSO. Levels 1-3, Declaration of Security, CII, SSAS, LRIT link.ISPS CODE International Ship and Port Facility Security Code - SOLAS XI-2 + ISPS Part A mandatory + Part B guidance. Ship Security Assessment, Ship Security Plan, SSO, CSO, PFSO. Levels 1-3, Declaration of Security, CII, SSAS, LRIT link.ISPS CODE International Ship and Port Facility Security Code - SOLAS XI-2 + ISPS Part A mandatory + Part B guidance. Ship Security Assessment, Ship Security Plan, SSO, CSO, PFSO. Levels 1-3, Declaration of Security, CII, SSAS, LRIT link.ISPS CODE International Ship and Port Facility
+---
+
+SOURCE: ISPS-Code-Summary.txt
+URL: imo.org/codes
+Ship Security Plan, SSO, CSO, PFSO. Levels 1-3, Declaration of Security, CII, SSAS, LRIT link.ISPS CODE International Ship and Port Facility Security Code - SOLAS XI-2 + ISPS Part A mandatory + Part B guidance. Ship Security Assessment, Ship Security Plan, SSO, CSO, PFSO. Levels 1-3, Declaration of Security, CII, SSAS, LRIT link.
+---
+
+SOURCE: Model-Courses-IMO-List.txt
+URL: imo.org/codes
+IMO MODEL COURSES LIST: 1.01 Basic Oil/Chemical Tanker, 1.02 Advanced Oil Tanker, 1.04 Basic Gas Tanker, 1.07 Radar Navigation, 1.13 Elementary First Aid, 1.14 Medical First Aid, 1.20 Fire Prevention, 1.21 Personal Safety, 1.23 Survival Craft, 1.27 ECDIS, 3.12 Assessment Examination, 6.09 Instructor, 7.01 Master Chief Mate. All linked to STCW Convention Manila Amendments 2010.IMO MODEL COURSES LIST: 1.01 Basic Oil/Chemical Tanker, 1.02 Advanced Oil Tanker, 1.04 Basic Gas Tanker, 1.07 Radar Navigation, 1.13 Elementary First Aid, 1.14 Medical First Aid, 1.20 Fire Prevention, 1.21 Personal Safety, 1.23 Survival Craft, 1.27 ECDIS, 3.12 Assessment Examination, 6.09 Instructor, 7.01 Master Chief Mate. All linked to STCW Convention Manila Amendments 2010.IMO MODEL COURSES LIST: 1.01 Basic Oil/Chemical Tanker, 1.02 Advanced Oil Tanker, 1.04 Basic Gas Tanker, 1.07 Radar Navigation, 1.13 Elementary First Aid, 1.14 Medical First Aid, 1.20 Fire Prevention, 1.21 Personal Safety, 1.23 Survival
+---
+
+SOURCE: Model-Courses-IMO-List.txt
+URL: imo.org/codes
+Basic Gas Tanker, 1.07 Radar Navigation, 1.13 Elementary First Aid, 1.14 Medical First Aid, 1.20 Fire Prevention, 1.21 Personal Safety, 1.23 Survival Craft, 1.27 ECDIS, 3.12 Assessment Examination, 6.09 Instructor, 7.01 Master Chief Mate. All linked to STCW Convention Manila Amendments 2010.IMO MODEL COURSES LIST: 1.01 Basic Oil/Chemical Tanker, 1.02 Advanced Oil Tanker, 1.04 Basic Gas Tanker, 1.07 Radar Navigation, 1.13 Elementary First Aid, 1.14 Medical First Aid, 1.20 Fire Prevention, 1.21 Personal Safety, 1.23 Survival Craft, 1.27 ECDIS, 3.12 Assessment Examination, 6.09 Instructor, 7.01 Master Chief Mate. All linked to STCW Convention Manila Amendments 2010.IMO MODEL COURSES LIST: 1.01 Basic Oil/Chemical Tanker, 1.02 Advanced Oil Tanker, 1.04 Basic Gas Tanker, 1.07 Radar Navigation, 1.13 Elementary First Aid, 1.14 Medical First Aid, 1.20 Fire Prevention, 1.21 Personal Safety, 1.23 Survival Craft, 1.27 ECDIS, 3.12 Assessment Examination, 6.09 Instructor, 7.01 Master Chief Mate.
+---
+
+SOURCE: Model-Courses-IMO-List.txt
+URL: imo.org/codes
+1.20 Fire Prevention, 1.21 Personal Safety, 1.23 Survival Craft, 1.27 ECDIS, 3.12 Assessment Examination, 6.09 Instructor, 7.01 Master Chief Mate. All linked to STCW Convention Manila Amendments 2010.
+---
