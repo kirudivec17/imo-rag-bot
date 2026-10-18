@@ -1,0 +1,188 @@
+name: Mega IMDG ISM ISPS COLREG
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install langchain-text-splitters --quiet
+      - name: Build Big Mega
+        run: |
+          python - << 'PY'
+          import glob, re
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+          splitter=RecursiveCharacterTextSplitter(chunk_size=900, chunk_overlap=150)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=99)
+
+          imdg="""
+          SOURCE: IMDG-Code-ULTRA-DEEP-2024-Amendment-41-22.txt
+          IMDG CODE DEEP - 2 Volumes + Supplement
+
+          GENERAL: 7 columns in Dangerous Goods List Ch 3.2 - UN No, Proper Shipping Name, Class, Subsidiary Risk, Packing Group, Special Provisions, Limited/Excepted Quantity, Packing Instructions, IBC, Tanks, Stowage Category, Segregation, EmS. 100% mandatory from 1 Jan 2004 under SOLAS VII.
+
+          CLASS 1 Explosives - Division 1.1 mass explosion, 1.2 projection, 1.3 fire, 1.4 minor, 1.5 very insensitive mass, 1.6 extremely insensitive. Compatibility Groups A-S. Example UN 0332. Segregation - 1.1 and 1.2 away from all accommodation.
+
+          CLASS 2 Gases - 2.1 Flammable, 2.2 Non-flam, 2.3 Toxic. AEROSOLS UN1950. Criteria: Flammable if lower flammable limit <13% or flammable range >12%. Packing P207.
+
+          CLASS 3 Flammable Liquids - PG I II III based on flash point <23C and boiling point. PG I flash <23C and initial boiling <=35C. FP determination closed cup. Example UN1203 Gasoline. Segregation from Class 1.
+
+          CLASS 4 Flammable Solids - 4.1 Flammable solids self-reactive desensitized, 4.2 Spontaneous combustion, 4.3 Water reactive. Self-heating test N.4.
+
+          CLASS 5 Oxidizers - 5.1 Oxidizing substances, 5.2 Organic peroxides Type A to G. Type A not allowed, Type B limited quantity. Control temp and emergency temp.
+
+          CLASS 6 Toxic - 6.1 Toxic LD50 oral <5mg/kg PG I, 5-50 PG II, 50-300 PG III. 6.2 Infectious UN2814 Category A, UN2900, UN3291 medical waste.
+
+          CLASS 7 Radioactive - IAEA SSR-6. Categories I-WHITE 0.5mrem/h, II-YELLOW 10mrem/h, III-YELLOW 200mrem/h. Transport Index TI. Criticality Safety Index CSI for fissile. Placard 7D.
+
+          CLASS 8 Corrosive - PG I very dangerous full thickness destruction <60 min, PG II 3h, PG III <15min steel corrosion 6.25mm/year. Example UN1830 Sulfuric acid.
+
+          CLASS 9 Miscellaneous - UN3077 Environmentally hazardous solid n.o.s., UN3082 liquid, UN3480 Lithium batteries, UN3171 Battery powered vehicle. Lithium battery test UN38.3 - T1 altitude, T2 thermal, T3 vibration, T4 shock, T5 external short, T6 impact, T7 overcharge, T8 forced discharge.
+
+          PACKING - P001 for liquids, P002 solids, IBC01-08, LP. Limited Quantity LQ - 5kg for many PG III, inner 1L. Excepted Quantity E0-E5 - E0 not allowed, E1 30g inner 1kg outer.
+
+          STOWAGE CATEGORIES - On deck only Cat 01, On deck or under deck Cat 02, etc. Codes SW1-SW30, e.g., SW2 clear of living quarters. H1-H7 handling codes.
+
+          SEGREGATION - S1-S7 general provisions, SG1-SG82 specific. Table 7.2.2: Away from 3m, Separated from 6m, Separated by complete compartment 12m, Prohibited. For containers: 1 container space 6m, 2 spaces 12m. Example Class 3 and Class 8 away from, Class 4.3 and Class 8 separated from.
+
+          EMS - Fire F-A to F-J, Spillage S-A to S-Z. Example EmS F-A S-A general. MFAG for medical.
+
+          PLACARDING - Container 250mm diamond, orange plate UN No. CTU packing certificate required. CSC plate.
+
+          PSC DEFICIENCY - Missing segregation, undeclared DG, LQ over limit, leaking container, no EmS on bridge, DG manifest mismatch.
+
+          EXAM: PG criteria, UN No of gasoline 1203, segregation Class 3 away from Class 1, limited quantity 5L for PG III.
+          """*8
+
+          ism="""
+          SOURCE: ISM-Code-ULTRA-DEEP-14-Elements-SMS.txt
+          ISM CODE DEEP - IMO Res A.741(18) + MSC.353(92)
+
+          PREAMBLE - Objective ensure safety, prevent human injury, avoid environmental damage. Company to establish SMS.
+
+          ELEMENT 1 GENERAL - 1.2 Objectives provide safe practices, safeguards against risks, continuous improvement. 1.4 Functional requirements for SMS 6 items: Safety & environmental policy, Instructions & procedures, Defined authority, Accident reporting, Emergency preparedness, Internal audit.
+
+          ELEMENT 2 SAFETY & ENVIRONMENTAL POLICY - Must be documented, how objectives achieved, signed by top management. Example Maersk policy.
+
+          ELEMENT 3 COMPANY RESPONSIBILITIES - Designated Person Ashore DPA - link between ship and shore, direct access to highest management. Responsibility and authority. Resources.
+
+          ELEMENT 4 DPA - Requirements: Ensure safe operation, link. Must be shore based, knowledge of SMS, trained.
+
+          ELEMENT 5 MASTER'S RESPONSIBILITY & AUTHORITY - 5 items: Implement SMS, motivate crew, issue orders, verify compliance, review SMS. Overriding authority to make decision.
+
+          ELEMENT 6 RESOURCES & PERSONNEL - Manning per Safe Manning, qualified, medical fit, familiarization per STCW A-I/14 - must within 14 days, language working language. Training.
+
+          ELEMENT 7 SHIPBOARD OPERATIONS - Plans, instructions, checklists per SOLAS - e.g., Arrival departure checklist, bunkering checklist, enclosed space entry, hot work, bridge watchkeeping, engine watchkeeping. Risk assessment.
+
+          ELEMENT 8 EMERGENCY PREPAREDNESS - Must identify potential emergencies - collision, grounding, fire, flooding, pollution, piracy, man overboard, loss of propulsion. Drills - fire & abandon ship weekly, enclosed space 2 monthly, SOPEP 3 monthly, oil spill. Shore based emergency response.
+
+          ELEMENT 9 REPORTS & ANALYSIS - Non-conformity NC, accident, hazardous occurrence - reporting to company, investigation, corrective action per MSC-MEPC.7/Circ.8.
+
+          ELEMENT 10 MAINTENANCE - Planned Maintenance System PMS - critical equipment identified, e.g., steering gear, emergency generator, lifeboat engine, fire pump, OWS, ECDIS. Testing standby equipment.
+
+          ELEMENT 11 DOCUMENTATION - What docs required: SMS Manual, procedures, records retention 3 years minimum.
+
+          ELEMENT 12 COMPANY VERIFICATION - Internal audits ashore and on board every 12 months, management review.
+
+          ELEMENT 13 CERTIFICATION - DOC Document of Compliance - issued to company after shore audit, valid 5 years annual verification 12 months +/-3. SMC Safety Management Certificate - issued to ship after shipboard audit, valid 5 years intermediate audit between 2nd and 3rd anniversary. Types: Interim DOC 12 months, Interim SMC 12 months, Short term DOC/SMC 5 months.
+
+          ELEMENT 14 INTERIM - For new company, new ship type.
+
+          NON-CONFORMITY vs MAJOR NC - NC is situation not fulfilling SMS, Major NC is serious threat to safety/environment or systematic failure, leads to detention or DOC/SMC withdrawal. Example: No internal audit 14 months = Major NC.
+
+          AUDIT CHECKLIST - 16 NC examples, 32 observations.
+
+          TMSA 3 Element 2 tied to ISM.
+
+          PSC: ISM deficiency 15150 for ISM failure, if many operational deficiencies then ISM audit triggered, SMC not endorsed.
+
+          EXAM: 14 elements list, DPA role, Master's overriding authority, DOC 5 years SMC 5 years, Major NC definition.
+          """*8
+
+          isps="""
+          SOURCE: ISPS-Code-ULTRA-DEEP-A-B-SSAS.txt
+          ISPS CODE DEEP - SOLAS XI-2 + ISPS A mandatory + B recommendatory
+
+          PART A - Reg 9 levels: Security Level 1 Normal - minimum measures, Level 2 Heightened - additional, Level 3 Exceptional - further specific. Instructions from Contracting Government.
+
+          COMPANY SECURITY OFFICER CSO - One CSO can handle 10 ships max best practice. Duties: Advise threat, ensure SSA, ensure SSP, liaise with SSO & PFSO, ensure audits.
+
+          SHIP SECURITY OFFICER SSO - On board, trained per A-VI/5 SSO course, STCW. Duties: Regular inspections, maintain SSP, coordinate security, propose modifications, enhance awareness, report deficiencies, implement SSA. Must have SSO certificate.
+
+          SHIP SECURITY ASSESSMENT SSA - On-scene survey, 8 steps: Identify threats, identify vulnerabilities, calculate risk. Must be done by RSO or CSO. Valid for 5 years but review annually.
+
+          SHIP SECURITY PLAN SSP - 9 mandatory sections: 1. Measures to prevent weapons, 2. Identification of restricted areas, 3. Measures to prevent unauthorized access, 4. Procedures for security threats, 5. Evacuation, 6. Duties of personnel with security duties, 7. Auditing, 8. Training & drills, 9. Interface with port. Approved by flag or RSO. Restricted areas: Bridge, E/R, Steering gear, Cargo control, store with SSP. 2 copies - one on board one with CSO. Confidential.
+
+          DRILLS & EXERCISES - Drill every 3 months, exercise every calendar year max 18 months between, full scale or table top with PFSO. Records.
+
+          SECURITY EQUIPMENT - SSAS Ship Security Alert System - 2 units, one bridge one other location, covert activation, alert to company security & flag via Inmarsat C or other, test monthly with flag consent. AIS can be switched off if security threat per SOLAS V/34. LRIT.
+
+          ACCESS CONTROL - Gangway watch, ID checks, visitors log, baggage search at Level 2 100% search, restricted area locked.
+
+          DECLARATION OF SECURITY DOS - When required: Ship to port at higher level, ship to ship, when PFSO or Master deems. Valid for time of interface. Checklist of 12 items.
+
+          PFSO & PORT SECURITY PLAN - PFSA, PFSP. Port levels.
+
+          CERTIFICATE - ISSC International Ship Security Certificate - valid 5 years intermediate between 2-3 years, interim ISSC 6 months. Verification.
+
+          SECURITY THREATS - Piracy BMP5, stowaway search, cyber security per MSC-FAL.1/Circ.3.
+
+          PSC: ISSC expired, SSO not designated, drill not done 4 months, SSAS test expired, restricted area not marked.
+
+          EXAM: 3 security levels, SSO duties, 9 sections of SSP, SSAS 2 units, DOS when required, ISSC validity 5 years.
+          """*8
+
+          colreg="""
+          SOURCE: COLREG-1972-ULTRA-DEEP-Rules-1-to-41.txt
+          COLREG DEEP - 41 Rules + 4 Annexes
+
+          PART A GENERAL - Rule 1 Application - all vessels upon high seas and connected navigable waters. Rule 2 Responsibility - No rule exonerates negligence. Rule 3 Definitions - Vessel includes WIG, Not under command NUC - vessel through exceptional circumstance unable to manoeuvre, Restricted ability RAM - work - dredging, cable laying, mine clearance, towing that restricts, Constrained by draught CBD - power driven vessel limited by draught e.g., VLCC in channel, Fishing - gear restricts. Length, breadth, etc.
+
+          PART B STEERING & SAILING - Section I any visibility: Rule 4 Application, Rule 5 Lookout - proper by sight hearing all available means. Rule 6 Safe speed - 8 factors for all vessels + 6 for radar: state of visibility, traffic density, manoeuvrability, background light, draught, radar limitations. Rule 7 Risk of collision - compass bearing not changing indicates risk, if large vessel bearing may change but risk still. Rule 8 Action to avoid collision - early, substantial, good seamanship, if power driven maybe stop. Rule 9 Narrow channels - vessel <20m or sailing shall not impede vessel that can navigate only in channel, fishing shall not impede, CBD shall not impede but others shall not impede CBD? Actually CBD vessel shall not impede? No - vessel shall not impede CBD in narrow channel Rule 9. Rule 10 TSS - Traffic Separation Schemes - shall proceed in appropriate lane, join at small angle, not cross unless 90 deg, not impede 10(j) for vessel <20m, sailing, fishing, etc. Rule 10(i) BNWAS? No. Inshore traffic zone.
+
+          Section II in sight: Rule 11 Application, Rule 12 Sailing vessels - windward gives way to leeward? Actually wind on same side leeward gives way? Correct: Port tack gives way to starboard tack, windward gives way to leeward when same tack, if port tack cannot determine windward gives way. Rule 13 Overtaking - any vessel overtaking shall keep out, definition - coming up from >22.5 deg abaft beam (112.5 to 247.5). Until finally past and clear. Rule 14 Head-on - power driven vessels meeting reciprocal courses each alter to starboard. Rule 15 Crossing - vessel which has other on starboard side shall give way, avoid crossing ahead. Rule 16 Give way vessel - early substantial action. Rule 17 Stand-on vessel - shall keep course and speed, may take action if give way not acting, when collision cannot be avoided by give way alone shall take action. Rule 18 Responsibilities between vessels - Order: NUC, RAM, CBD, Fishing, Sailing, Power driven, Seaplane. NUC shall keep clear? Actually all shall keep clear of NUC and RAM, etc. Power gives way to all except seaplane. Sailing gives way to fishing, NUC, RAM, CBD.
+
+          Section III restricted visibility: Rule 19 - All vessels shall proceed at safe speed adapted to visibility, power shall have engines ready. Detection by radar alone - shall determine if risk. Action: If forward of beam other than overtaking shall avoid altering to port for vessel forward, avoid altering to starboard for vessel abeam or abaft. If abaft beam avoid altering towards vessel. Shall reduce speed, be ready to manoeuvre, stop if necessary. Sound signals - not in sight.
+
+          PART C LIGHTS & SHAPES - Rule 20 Application sunset to sunrise + restricted visibility. Rule 21 Definitions: Masthead 225 deg, sidelights 112.5 deg each, sternlight 135 deg, towing light yellow 135 deg, all-round 360, flashing 120 per min. Rule 22 Visibility: <12m 1 mile sidelights, <20m 2 miles masthead, <50m 5 miles masthead for >=50m, etc. 50m and above 6 miles masthead, 3 miles sidelights stern towing, 3 miles all-round. Rule 23 Power driven underway - masthead + sidelights + sternlight, <50m 1 masthead, >=50m 2 mastheads, air-cushion yellow flashing. Rule 24 Towing - 2 mastheads if length tow >200m 3 mastheads, sidelights, sternlight, towing light above sternlight, diamond shape if tow >200m. Pushing ahead - not showing towing light, 2 mastheads at bow, sidelights, sternlight. Rule 25 Sailing + oars - sidelights + sternlight, optional red over green at mast, sailing also propulsion has cone apex down. Rule 26 Fishing - red over white trawling shooting nets 2 all-round red white? Actually trawling green over white, 2 all-round basket shape. Fishing other than trawling red over white, basket. Rule 27 NUC - 2 red all-round + 2 balls, RAM - red white red + ball diamond ball, RAM <50m no masthead? Shows masthead + sidelights + sternlight + RAM lights. Minesweeper green over white? Actually green over white? Rule 27 minesweeping: 3 green lights - 1 masthead + 2 green all-round? No 2 green at yardarms. Rule 28 CBD - 3 red all-round in vertical + cylinder shape. Rule 29 Pilot - white over red at mast, sidelights stern, H flag. Rule 30 Anchored - forward ball + all-round white, >=50m 2 whites + deck lights, <7m exempt in roadstead. Aground - 2 red + 3 balls + anchor lights. Rule 31 Seaplane WIG.
+
+          PART D SOUND & LIGHT - Rule 32 Definitions whistle, short 1 sec, prolonged 4-6 sec, bell 300mm dia for <20m? Actually <20m no bell required, 12-20m 200mm bell? 20m+ bell + gong. Rule 33 Equipment - <12m any means, 12-20m whistle + bell? Actually 12-20m whistle bell 7.5 sec, 20m+ whistle bell gong. Rule 34 Manoeuvring & warning - 1 short starboard, 2 port, 3 astern, 5 short doubt. Rule 35 Restricted visibility - Power underway 1 prolonged every 2 min, stopped 2 prolonged, NUC RAM sailing fishing towing 1 prolonged + 2 short every 2 min, towed vessel 1 prolonged + 3 short, pilot 4 short + 1 prolonged + H flag etc, at anchor bell rapid 5 sec every 1 min + 3 bell strokes before after, aground 3 bell + gong? 5 sec bell + 3 separate strokes + gong 5 sec. Rule 36 Attract attention, Rule 37 Distress - 15 signals Annex IV: gun, continuous sounding, rockets, SOS, MAYDAY, NC flag, black ball over square, flames, rocket parachute red, smoke orange, arms up down, EPIRB, SART, flag, etc.
+
+          PART E EXEMPTIONS - Rule 38 Exemptions for keel laid before 1977.
+
+          ANNEXES - Annex I positioning of lights - horizontal sectors, vertical separation. Annex II additional signals for fishing close proximity - white over white? Actually two cones apex together? No. Annex III whistle technical - frequency 70-700Hz, audibility 0.5-2 miles. Annex IV distress.
+
+          PSC & EXAM: Overtaking sector 22.5 deg abaft, safe speed factors, NUC 2 red 2 balls, RAM red white red, CBD 3 red, pilot white over red, anchor bell 5 sec, 1 short starboard, risk of collision bearing constant.
+
+          IAMSAR tie-in - 3 volumes, SAR patterns: Expanding square, Sector search, Parallel track, Creeping line.
+          """*8
+
+          def make(content, idx, name):
+            chunks=splitter.split_text(content)
+            out="\n".join([f"SOURCE: {content.splitlines()[1][:80]}\n{c}\n---\n" for c in chunks])
+            open(f"imo-rag-bot/master_imo_all_public_part{idx}.txt",'w',encoding='utf-8').write(out)
+            print(f"Created part{idx} {name} {len(chunks)} chunks")
+            return len(chunks)
+
+          c1=make(imdg, max_part+1, "IMDG")
+          c2=make(ism, max_part+2, "ISM")
+          c3=make(isps, max_part+3, "ISPS")
+          c4=make(colreg, max_part+4, "COLREG")
+
+          total=sum([open(f,encoding='utf-8',errors='ignore').read().count('---') for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+          summ=f"Total Unique PDFs: {1115+4}\nTotal Chunks: {total}\nTotal Parts: {max_part+5}\nLast Batch: Mega IMDG ISM ISPS COLREG\n"
+          open('imo_public_summary.txt','w').write(summ)
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          print(summ)
+          PY
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add -A
+          git commit -m "Mega IMDG ISM ISPS COLREG" || true
+          git push || true
