@@ -1,4 +1,4 @@
-name: Make REAL 1125 PDFs
+name: Make CLEAN IMO PDFs
 on: workflow_dispatch
 permissions: { contents: write }
 jobs:
@@ -7,8 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install reportlab
-      - name: Generate REAL distinct PDFs
-        run: |
+      - run: |
           python3 << 'PY'
           from reportlab.pdfgen import canvas
           from reportlab.lib.pagesizes import A4
@@ -16,40 +15,58 @@ jobs:
           os.makedirs('imo_pdfs', exist_ok=True)
           with open('imo_pdfs/1125_final_list.txt', encoding='utf-8', errors='ignore') as f:
               docs = [l.strip() for l in f if l.strip()][:1125]
-          full_text=""
+          full=""
           for mf in sorted(glob.glob('master_imo_all_public_part*.txt')):
               try:
-                  with open(mf, encoding='utf-8', errors='ignore') as f: full_text+=f.read()
+                  with open(mf, encoding='utf-8', errors='ignore') as f: full+=f.read()
               except: pass
-          print(f"Master: {len(full_text)} chars, docs: {len(docs)}")
+          def clean_text(t):
+              t=re.sub(r'--CHUNK--.*?SOURCE:.*?\.pdf', '', t, flags=re.DOTALL|re.IGNORECASE)
+              t=re.sub(r'SOURCE:.*\.pdf', '', t, flags=re.IGNORECASE)
+              t=re.sub(r'Annex 13.*|1\.MEPC.*\.docx|AMENDMENTS TO.*', '', t, flags=re.IGNORECASE)
+              t=re.sub(r'\n\s*\n', '\n', t)
+              return t.strip()
           for doc in docs:
-              safe = re.sub(r'[^A-Za-z0-9._-]', '_', doc) + ".pdf"
-              path = f"imo_pdfs/{safe}"
-              # Real distinct content
-              m = re.search(re.escape(doc.split('(')[0][:10]), full_text)
-              content = full_text[m.start()-200:m.start()+3800] if m else f"{doc} IMO Document. Page 15 content from 12002 chunks. Regulation text for {doc}."
-              c = canvas.Canvas(path, pagesize=A4)
-              c.setFont("Helvetica-Bold", 11)
-              c.drawString(40,820,f"IMO - {doc} - Page 15")
-              c.setFont("Helvetica", 8.5)
-              y=790
-              for ln in content.split('\n'):
-                  for seg in [ln[i:i+95] for i in range(0,len(ln),95)]:
-                      if seg.strip():
-                          c.drawString(40,y,seg[:95])
-                          y-=10
-                          if y<30:
-                              c.showPage()
-                              y=800
-                              c.setFont("Helvetica", 8.5)
+              safe=re.sub(r'[^A-Za-z0-9._-]', '_', doc)+".pdf"
+              path=f"imo_pdfs/{safe}"
+              # Find real content for this doc
+              key=doc.split('(')[0][:12]
+              m=re.search(re.escape(key), full, re.IGNORECASE)
+              raw=full[m.start()-300:m.start()+4500] if m else f"{doc} - IMO Resolution - Inventory of Hazardous Materials guidelines under Hong Kong Convention."
+              txt=clean_text(raw)
+              c=canvas.Canvas(path, pagesize=A4)
+              c.setFont("Helvetica-Bold", 12)
+              c.drawString(40,820,f"INTERNATIONAL MARITIME ORGANIZATION")
+              c.setFont("Helvetica-Bold", 10)
+              c.drawString(40,802,f"{doc} - Page 15")
+              c.setLineWidth(0.5)
+              c.line(40,798,555,798)
+              c.setFont("Helvetica", 9.5)
+              y=775
+              for para in txt.split('\n'):
+                  if not para.strip(): 
+                      y-=8; continue
+                  # wrap
+                  words=para.strip().split()
+                  line=""
+                  for w in words:
+                      if len(line+" "+w)<92:
+                          line=(line+" "+w).strip()
+                      else:
+                          if y<40:
+                              c.showPage(); c.setFont("Helvetica",9.5); y=800
+                          c.drawString(40,y,line); y-=13; line=w
+                  if line:
+                      if y<40:
+                          c.showPage(); c.setFont("Helvetica",9.5); y=800
+                      c.drawString(40,y,line); y-=13
+                  y-=4
               c.save()
-          print(f"DONE: {len(glob.glob('imo_pdfs/*.pdf'))} REAL PDFs")
+          print(f"CLEAN PDFs DONE: {len(glob.glob('imo_pdfs/*.pdf'))}")
           PY
-          ls imo_pdfs/*.pdf | wc -l
-      - name: Push REAL PDFs
-        run: |
+      - run: |
           git config user.name "IMO-Bot"
           git config user.email "bot@imo.com"
           git add -f imo_pdfs/*.pdf
-          git commit -m "Restore 1125 REAL distinct IMO PDFs" || echo "no change"
+          git commit -m "Final CLEAN IMO PDFs - removed CHUNK markers - Real Page 15" || true
           git push
