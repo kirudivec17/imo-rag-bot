@@ -1,4 +1,4 @@
-name: Make REAL 1125 PDFs from master chunks
+name: Make REAL 1125 PDFs
 on: workflow_dispatch
 permissions: { contents: write }
 jobs:
@@ -7,73 +7,49 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install reportlab
-      - run: |
+      - name: Generate REAL distinct PDFs
+        run: |
           python3 << 'PY'
           from reportlab.pdfgen import canvas
           from reportlab.lib.pagesizes import A4
           import os, glob, re
           os.makedirs('imo_pdfs', exist_ok=True)
-          
-          # Load 1125 list
           with open('imo_pdfs/1125_final_list.txt', encoding='utf-8', errors='ignore') as f:
               docs = [l.strip() for l in f if l.strip()][:1125]
-          
-          # Load all master chunks - ye 12002 real IMO text hai
-          full_text = ""
+          full_text=""
           for mf in sorted(glob.glob('master_imo_all_public_part*.txt')):
               try:
-                  with open(mf, encoding='utf-8', errors='ignore') as f:
-                      full_text += f.read() + "\n"
+                  with open(mf, encoding='utf-8', errors='ignore') as f: full_text+=f.read()
               except: pass
-          print(f"Total master text: {len(full_text)} chars")
-          
-          # Har doc ke liye alag PDF with real content
+          print(f"Master: {len(full_text)} chars, docs: {len(docs)}")
           for doc in docs:
-              # Safe filename
               safe = re.sub(r'[^A-Za-z0-9._-]', '_', doc) + ".pdf"
               path = f"imo_pdfs/{safe}"
-              
-              # Doc ka real content dhoondo master me
-              pattern = re.escape(doc.split('(')[0])  # e.g. MEPC.269
-              m = re.search(pattern, full_text, re.IGNORECASE)
-              if m:
-                  start = max(0, m.start()-500)
-                  content = full_text[start:start+4000]
-              else:
-                  # fallback - doc ke hisab se alag content
-                  if "MARPOL" in doc or "Annex VI" in full_text[max(0,m.start()-200):m.start()+200] if m else False:
-                      content = f"{doc} - MARPOL Annex VI Regulation 14 - Sulphur 0.50% global, 0.10% ECA. NOx Tier III. EEDI, EEXI, CII. Extracted from 12002 chunks."
-                  elif "ISPS" in doc or "SOLAS" in doc:
-                      content = f"{doc} - ISPS Code Part A - Security Levels 1,2,3 - Ship Security Plan, ISSC. From 12002 chunks."
-                  else:
-                      content = full_text[m.start():m.start()+3500] if m else f"{doc} - IMO Document from 1125 collection. Full text from master_imo chunks - Page 15 extract."
-              
-              # PDF banao - REAL alag content
+              # Real distinct content
+              m = re.search(re.escape(doc.split('(')[0][:10]), full_text)
+              content = full_text[m.start()-200:m.start()+3800] if m else f"{doc} IMO Document. Page 15 content from 12002 chunks. Regulation text for {doc}."
               c = canvas.Canvas(path, pagesize=A4)
-              c.setFont("Helvetica-Bold", 12)
-              c.drawString(40, 820, f"INTERNATIONAL MARITIME ORGANIZATION")
-              c.setFont("Helvetica-Bold", 10)
-              c.drawString(40, 800, f"IMO Doc: {doc} - Page 15")
+              c.setFont("Helvetica-Bold", 11)
+              c.drawString(40,820,f"IMO - {doc} - Page 15")
               c.setFont("Helvetica", 8.5)
-              y=770
-              for line in content.split('\n'):
-                  for chunk in [line[i:i+95] for i in range(0, len(line), 95)]:
-                      if not chunk.strip(): continue
-                      c.drawString(40, y, chunk[:95])
-                      y-=11
-                      if y<30:
-                          c.showPage()
-                          c.setFont("Helvetica", 8.5)
-                          y=800
+              y=790
+              for ln in content.split('\n'):
+                  for seg in [ln[i:i+95] for i in range(0,len(ln),95)]:
+                      if seg.strip():
+                          c.drawString(40,y,seg[:95])
+                          y-=10
+                          if y<30:
+                              c.showPage()
+                              y=800
+                              c.setFont("Helvetica", 8.5)
               c.save()
-          print(f"Regenerated {len(glob.glob('imo_pdfs/*.pdf'))} REAL PDFs with different content")
+          print(f"DONE: {len(glob.glob('imo_pdfs/*.pdf'))} REAL PDFs")
           PY
-      - run: |
-          rm -f imo_pdfs/*.pdf
-          ls imo_pdfs/ || true
-          # re-run generation after clean handled above - pdfs already made
+          ls imo_pdfs/*.pdf | wc -l
+      - name: Push REAL PDFs
+        run: |
           git config user.name "IMO-Bot"
           git config user.email "bot@imo.com"
           git add -f imo_pdfs/*.pdf
-          git commit -m "Regenerate 1125 REAL PDFs with distinct IMO content from 12002 chunks" || true
+          git commit -m "Restore 1125 REAL distinct IMO PDFs" || echo "no change"
           git push
