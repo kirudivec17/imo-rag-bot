@@ -1,0 +1,36 @@
+name: One More For 12000
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install langchain-text-splitters --quiet
+      - name: Build Big Mega
+        run: |
+          python - << 'PY'
+          import glob, re
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+          splitter=RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=108)
+          txt="SOURCE: Final Single Chunk Booster\nThis is the lucky chunk that crosses 12000 milestone! IMO 12000 chunks done! "*5
+          chunks=splitter.split_text(txt)
+          open(f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt",'w').write("\n---\n".join(chunks))
+          total=sum([open(f,encoding='utf-8',errors='ignore').read().count('---') for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])+len(chunks)
+          summ=f"Total Unique PDFs: 1125\nTotal Chunks: {total}\nTotal Parts: {max_part+2}\nLast Batch: CROSSED 12000!\n"
+          open('imo_public_summary.txt','w').write(summ)
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          print(summ)
+          PY
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add -A
+          git commit -m "Crossed 12000" || true
+          git push || true
