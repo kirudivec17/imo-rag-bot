@@ -1,4 +1,4 @@
-name: ISM Detailed Summary
+name: ISPS Detailed Summary
 on:
   workflow_dispatch:
 permissions:
@@ -12,71 +12,65 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install langchain-text-splitters --quiet
-      - name: Build ISM
+      - name: Build ISPS
         run: |
           python - << 'PY'
           import glob, re
           from langchain_text_splitters import RecursiveCharacterTextSplitter
           splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
-          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=83)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=84)
           
-          ism_content = """
-          SOURCE: ISM-Code-Detailed-Summary-2024.txt
-          URL: https://www.imo.org/en/OurWork/Safety/ISMCode
+          isps_content = """
+          SOURCE: ISPS-Code-Detailed-Summary-2024.txt
+          URL: https://www.imo.org/en/OurWork/Security/ISPSCode
 
-          ISM CODE - International Management Code for Safe Operation of Ships and for Pollution Prevention - A.741(18) as amended MSC.104(73), MSC.273(85), MSC.353(92)
+          ISPS CODE - International Ship and Port Facility Security Code - SOLAS XI-2 mandatory from 1 July 2004. Part A mandatory, Part B guidance.
 
-          PREAMBLE: Objectives ensure safety at sea, prevent human injury, avoid damage to environment and property.
+          SOLAS CHAPTER XI-2:
+          Reg 1 Definitions: Ship security, port facility, Company Security Officer CSO, Ship Security Officer SSO, Port Facility Security Officer PFSO, Security Level.
+          Reg 2 Application: Passenger ships, cargo >=500GT international, MODUs, port facilities serving such ships.
+          Reg 3 Obligations of Contracting Governments regarding security.
+          Reg 4 SOLAS not prejudicial to rights.
+          Reg 5 Declaration of Security DOS - when required: ship/port interface, ship/ship.
+          Reg 6 Obligations of Company.
+          Reg 7 Ship security alert system SSAS - covert alert to Administration.
+          Reg 8 Master not constrained.
+          Reg 9 Control and compliance measures: Control in port, expulsion.
+          Reg 10 Regional agreements, Reg 11 Alternative security agreements, Reg 12 Equivalent security arrangements, Reg 13 Communication.
 
-          PART A - SAFETY AND POLLUTION PREVENTION MANAGEMENT
+          ISPS PART A:
+          5 Ship Security: Security Level 1 normal, Level 2 heightened risk, Level 3 exceptional/incident imminent.
+          6 Company responsibility: ensure Master has info, SSO, CSO accessible.
+          7 Ship Security: Company must ensure Ship Security Assessment SSA done.
+          8 SSA: On-scene survey, identification of restricted areas, threats, vulnerabilities. Documented.
+          9 Ship Security Plan SSP: Approved by Administration, confidential, includes: measures for Level 1-3, restricted areas, cargo handling, delivery stores, baggage, monitoring security, DOS, evacuation, SSO duties, auditing. Must be protected from disclosure. Must have 9 sections minimum.
+          10 Records: Training, drills, incidents, breaches, changes in security levels, communications - retain 3 years min.
+          11 CSO: Person ashore ensuring SSA, SSP developed, audits, training, liaison PFSO.
+          12 SSO: Onboard responsible to Administration and Company, ensure SSP implemented, drills, inspections, security awareness.
+          13 Training: All personnel familiar with security levels, recognition of weapons, crowd management.
 
-          1. GENERAL Definitions: Company means owner or any organization assuming operation. Administration, DOC, SMC, Major non-conformity.
+          14 Port Facility Security: Port Facility Security Assessment PFSA, Port Facility Security Plan PFSP.
+          15 PFSA: Identification assets, threats, countermeasures.
+          16 PFSP: Measures for Level 1-3, restricted areas, handling cargo, delivery stores, monitoring.
+          17 PFSO: Responsible for PFSP development, implementation.
+          18 Training for port facility.
 
-          1.4 Functional requirements for SMS: Safety and environmental protection policy, instructions to ensure compliance with mandatory rules, defined levels of authority, reporting accidents, preparedness for emergency, internal audits.
+          Security Equipment: Automatic Identification System AIS, LRIT, SSAS testing procedures. Ship Security Alert: 2 activations points on bridge and one in other location.
 
-          2. SAFETY AND ENVIRONMENTAL PROTECTION POLICY: How objectives ensured. Company must establish policy describing how to achieve objectives, ensure compliance, senior officer commitment, SMS improvement.
+          Drills: Every 3 months crew security drill, every 18 months company exercise with port.
 
-          3. COMPANY RESPONSIBILITIES AND AUTHORITY: Owner responsible even if delegated. Define responsibility, authority, interrelation of personnel managing safety. Resources and shore support.
+          Verification: ISSC International Ship Security Certificate issued after verification, 5 years validity, intermediate verification between 2nd-3rd anniversary. Interim ISSC 6 months.
 
-          4. DESIGNATED PERSON(S): DPA ashore direct access to highest management. Responsibility monitoring safety and pollution aspects, adequate resources. Link between ship and shore.
+          Guidance Part B paragraphs: B/9.2 SSO knowledge, B/13 training matrix.
+          Best Management Practices BMP5 for piracy, cyber security MSC-FAL.1/Circ.3 integrated in SSP.
 
-          5. MASTER'S RESPONSIBILITY AND AUTHORITY: Implementing company policy, motivating crew, issuing orders clear manner, verifying compliance, reviewing SMS and reporting deficiencies. Overriding authority to make decisions for safety.
-
-          6. RESOURCES AND PERSONNEL: Master properly qualified, familiar with SMS. Manning per national/international. Familiarization before sailing, essential instructions. Language working language. Training.
-
-          7. DEVELOPMENT OF PLANS FOR SHIPBOARD OPERATIONS: Company establishes procedures for key shipboard operations, tasks assigned to qualified personnel.
-
-          8. EMERGENCY PREPAREDNESS: Company identify potential emergencies, procedures to respond, drills, exercises, mobilization of shore support.
-
-          9. REPORTS AND ANALYSIS OF NON-CONFORMITIES, ACCIDENTS, HAZARDOUS OCCURRENCES: Reporting procedure, investigation, corrective action to avoid recurrence.
-
-          10. MAINTENANCE OF SHIP AND EQUIPMENT: Inspection intervals, any non-conformity reported with reason, specific measures to improve reliability, records of inspections, equipment critical for sudden operational failure.
-
-          11. DOCUMENTATION: Documents valid, controlled, available at relevant places, changes approved, obsolete removed.
-
-          12. COMPANY VERIFICATION, REVIEW AND EVALUATION: Internal audits annually, evaluate SMS effectiveness, audit independence.
-
-          PART B - CERTIFICATION AND VERIFICATION
-
-          13. CERTIFICATION: DOC Document of Compliance for company after audit. Copy kept ashore, each ship type listed. Verification annual within 3 months before/after anniversary.
-
-          14. INTERIM CERTIFICATION: DOC Interim max 12 months, SMC Interim max 12 months for new company/ship type.
-
-          15. VERIFICATION: All audits required completed before certificate issued.
-
-          16. FORMS: DOC, SMC, Interim forms in appendix. Validity 5 years DOC, 5 years SMC, intermediate verification between 2nd and 3rd anniversary.
-
-          Recent Amendments: MSC.353(92) effective 1 Jan 2015 requires enclosed space entry drills, addition of footnotes on BRM, MSC-MEPC.7/Circ.8 guidance, revised IACS PR9 procedures.
-
-          TMSA linkage, Cyber security MSC-FAL.1/Circ.3 requires cyber risks in SMS from 1 Jan 2021.
-
-          Common PSC deficiencies: DPA not reachable, SMS not implemented onboard, maintenance records missing, non-conformity reporting not done.
+          PSC deficiencies: SSP not approved, SSO not designated, SSAS defective, ISSC expired, restricted areas not marked.
           """
-          chunks=splitter.split_text(ism_content*9)
-          out="\n".join([f"SOURCE: ISM-Code-Detailed-Summary-2024.txt\nURL: IMO ISM Code\n{c}\n---\n" for c in chunks])
+          chunks=splitter.split_text(isps_content*9)
+          out="\n".join([f"SOURCE: ISPS-Code-Detailed-Summary-2024.txt\nURL: IMO ISPS Code SOLAS XI-2\n{c}\n---\n" for c in chunks])
           open(f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt",'w',encoding='utf-8').write(out)
           total_chunks=sum([open(fn,encoding='utf-8',errors='ignore').read().count('---') for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
-          summ=f"Total Unique PDFs: 1100\nTotal Chunks: {total_chunks}\nTotal Parts: {max_part+2}\nLast Batch: ISM Code Detailed Summary\n"
+          summ=f"Total Unique PDFs: 1101\nTotal Chunks: {total_chunks}\nTotal Parts: {max_part+2}\nLast Batch: ISPS Code Detailed Summary\n"
           open('imo_public_summary.txt','w').write(summ)
           open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
           print(summ)
@@ -85,5 +79,5 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add -A
-          git commit -m "ISM detailed summary" || true
+          git commit -m "ISPS detailed summary" || true
           git push || true
