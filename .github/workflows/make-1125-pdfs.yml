@@ -1,126 +1,53 @@
-name: Make 1125 PDFs FINAL Clean
-on: workflow_dispatch
-permissions: { contents: write }
+name: Rebuild 1125 PDFs - 5 Workers
+
+on:
+  workflow_dispatch:
+
 jobs:
-  build:
+  clean:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip install reportlab
-      - name: Build
+      - name: Delete only bad PDFs - Keep 13 master parts safe
         run: |
-          python3 - << 'PYEOF'
-          from reportlab.pdfgen import canvas
-          from reportlab.lib.pagesizes import A4
-          import os, glob, re
+          rm -rf imo_pdfs
+          mkdir -p imo_pdfs
+          echo "Old IMO_DOC PDFs deleted"
+          echo "13 master parts safe - not deleted"
 
-          os.makedirs('imo_pdfs', exist_ok=True)
-          with open('imo_pdfs/1125_final_list.txt', encoding='utf-8', errors='ignore') as f:
-              docs = [l.strip() for l in f if l.strip()][:1125]
+  build:
+    needs: clean
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        worker_id: [0, 1, 2, 3, 4]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pypdf
 
-          full = ""
-          for mf in sorted(glob.glob('master_imo_all_public_part*.txt')):
-              try:
-                  with open(mf, encoding='utf-8', errors='ignore') as ff:
-                      full += ff.read() + "\n"
-              except: pass
+      - name: Run worker ${{ matrix.worker_id }}
+        run: python ingest.py --worker-id ${{ matrix.worker_id }} --workers 5
 
-          def deep_clean(t):
-              # 1. CHUNK + SOURCE hatao
-              t = re.sub(r'--CHUNK--.*?SOURCE:.*?\.pdf', ' ', t, flags=re.DOTALL|re.IGNORECASE)
-              t = re.sub(r'SOURCE:.*\.pdf', ' ', t, flags=re.IGNORECASE)
-              # 2. URLs hatao - jo tumhare screenshot me repeat ho raha hai
-              t = re.sub(r'https?://\S+|wwwcdn\.imo\.org\S+|URL:\s*\S+', ' ', t, flags=re.IGNORECASE)
-              t = re.sub(r'localresources/en/loc.*?\.(pdf|docx?)', ' ', t, flags=re.IGNORECASE)
-              # 3. Toote hue words jodo - "In terna tional" -> "International"
-              t = re.sub(r'\b([A-Za-z])\s+([a-z]{2,})\b', r'\1\2', t)  # single letter + word
-              # 4. Repeat wale resolution hatao
-              t = re.sub(r'RESOLUTION MSC\.529\(106\).*?STATEMENT OF RECOGNITION.*?(?=RESOLUTION|THE MARITIME|$)', ' ', t, flags=re.DOTALL|re.IGNORECASE)
-              t = re.sub(r'MSC\.106/MSC 106/19/Add\.1.*?ANNEX.*?(?=RESOLUTION|THE MARITIME|$)', ' ', t, flags=re.DOTALL|re.IGNORECASE)
-              # 5. Extra garbage
-              t = re.sub(r'cS8R8T8|distinct System on Ships|1562,89,4|for its.*?marker.*?\]|Annex 13.*', ' ', t, flags=re.IGNORECASE)
-              t = re.sub(r'\s{2,}', ' ', t)
-              # 6. Fix common broken
-              t = t.replace('In terna tional','International').replace('r ecognition','recognition').replace('a s amended','as amended').replace('t he','the').replace('r elevant','relevant').replace('s atel','satel')
-              return t.strip()
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pdfs-${{ matrix.worker_id }}
+          path: imo_pdfs/
 
-          def get_complete(full_text, keyword):
-              idx = full_text.lower().find(keyword.lower())
-              if idx==-1: return ""
-              s = full_text.rfind("\n\n", 0, idx)
-              if s==-1 or idx-s>1500:
-                  s = full_text.rfind(". ", 0, idx)
-                  if s!=-1: s+=2
-                  else: s=max(0, idx-600)
-              e = full_text.find("\n\n", idx+1500)
-              if e==-1: e=idx+4000
-              else: e+=1000
-              txt = full_text[s:e]
-              m = re.search(r'(THE MARINE ENVIRONMENT|RECALLING|THE MARITIME SAFETY|NOTING|HAVING CONSIDERED)', txt, re.IGNORECASE)
-              if m: txt=txt[m.start():]
-              return deep_clean(txt)
-
-          # REAL hardcoded for problematic A.1001(25)
-          REAL_A1001 = """INTERNATIONAL MARITIME ORGANIZATION
-          A.1001(25) - STATEMENT OF RECOGNITION OF MARITIME MOBILE SATELLITE SERVICES
-
-          THE ASSEMBLY,
-          RECALLING Article 15(j) of the Convention on the International Maritime Organization concerning the functions of the Assembly in relation to regulations and guidelines concerning maritime safety,
-
-          RECALLING ALSO regulation IV/4-1 of the International Convention for the Safety of Life at Sea (SOLAS), 1974, concerning the Global Maritime Distress and Safety System (GMDSS) satellite providers, which requires that the Committee shall determine the criteria, procedures and arrangements for the evaluation, recognition, review and oversight of the provision of mobile satellite communication services,
-
-          RECALLING IN PARTICULAR the Criteria for the provision of mobile satellite communication systems in the Global Maritime Distress and Safety System (GMDSS) (resolution A.1001(25)),
-
-          NOTING that the BeiDou Message Service System (BDMSS) conforms with all the criteria specified in the annex to resolution A.1001(25),
-
-          1. RECOGNIZES the maritime mobile satellite services provided by CTTIC through BDMSS, in the coverage area set out in the annex, for use in the GMDSS;
-          2. REQUESTS the Secretary-General to provide a copy of this resolution to the Organization and to the maritime industry."""
-
-          cnt=0
-          for doc in docs:
-              safe = re.sub(r'[^A-Za-z0-9._-]', '_', doc)+".pdf"
-              path = os.path.join('imo_pdfs', safe)
-              base = doc.lower()
-              if '1001' in base or 'a.1001' in base:
-                  txt = REAL_A1001
-              elif '269' in base or 'hong' in base:
-                  txt = get_complete(full, "Hong Kong International Convention")
-              elif 'marpol' in base or 'a.1001' in base:
-                  txt = get_complete(full, "MARPOL Annex VI")
-              else:
-                  txt = get_complete(full, doc[:12])
-              if len(txt)<600:
-                  txt = deep_clean(full[10000:14000])
-              if len(txt)<600:
-                  txt = REAL_A1001 if '1001' in base else "INTERNATIONAL MARITIME ORGANIZATION - IMO Regulation Content - Complete verified paragraph."
-
-              c=canvas.Canvas(path, pagesize=A4)
-              c.setFont("Helvetica-Bold", 12)
-              c.drawString(40,820,"INTERNATIONAL MARITIME ORGANIZATION")
-              c.setFont("Helvetica-Bold",10)
-              c.drawString(40,803,f"{doc} - Page 15 Complete - Cleaned")
-              c.line(40,799,555,799)
-              c.setFont("Helvetica",9.5)
-              y=776
-              # proper word wrap without breaking words
-              words = txt.split()
-              line=""
-              for w in words:
-                  if len(line+" "+w)>88:
-                      if y<35:
-                          c.showPage(); c.setFont("Helvetica",9.5); y=800
-                      c.drawString(40,y,line); y-=12; line=w
-                  else:
-                      line = (line+" "+w).strip() if line else w
-              if line:
-                  if y<35: c.showPage(); y=800
-                  c.drawString(40,y,line)
-              c.save(); cnt+=1
-          print(f"DONE {cnt} FINAL CLEAN PDFs - No URLs, No broken words")
-          PYEOF
+  merge:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: imo_pdfs/
+          merge-multiple: true
       - run: |
-          git config user.name "IMO-Bot"
-          git config user.email "bot@imo.com"
-          git add -f imo_pdfs/*.pdf
-          git commit -m "FINAL CLEAN 1125 PDFs - No URLs, No broken words, No repeat" || true
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add imo_pdfs/
+          git commit -m "Final 1125 PDFs - 5 workers - docs" || true
           git push
