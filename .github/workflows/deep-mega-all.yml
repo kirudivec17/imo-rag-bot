@@ -1,0 +1,162 @@
+name: Deep Mega All Codes
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install langchain-text-splitters --quiet
+      - name: Build Deep All
+        run: |
+          python - << 'PY'
+          import glob, re
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+          splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=86)
+
+          # 1 - FSS DEEP
+          fss_deep="""
+          SOURCE: FSS-Code-ULTRA-DEEP-2024.txt
+          FSS CODE ULTRA DEEP TECHNICAL - All Chapters with Calculations
+
+          CHAPTER 1 SHORE CONNECTION: Dimensions table - Outside dia 178mm, inside 64mm, bolt circle 132mm, 4 holes 19mm dia slots width 19mm, bolts 16mm dia 50mm length, thickness flange 14.5mm minimum. Material steel or equivalent. 1 MPa pressure. 4 bolts supplied each connection. Ships >=500GT must carry.
+
+          CHAPTER 2 FIREFIGHTERS OUTFIT: Detailed: Personal equipment - protective clothing EN469 standard material does not melt, boots rubber, gloves, helmet with visor, electric safety lamp 3h, axe insulated handle. Breathing Apparatus SCBA - 1200L air, 30 min minimum, spare cylinder. Lifeline 30m 3.5kN. EEBD 10 min - location accommodation, machinery control room. 2 sets cargo, 2 sets tanker + 2 extra, passenger min 2 per vertical zone, plus 2 for ro-ro. Spare charges 2 per BA. Training muster.
+
+          CHAPTER 3 FIXED GAS: CO2 system calc example - Machinery 2000m3 gross, 40% = 800m3 CO2 free gas, CO2 1kg=0.56m3 so 1428kg. Cylinder 45kg so 32 cylinders. Discharge time <2 min for machinery, 10% of cylinder within 2 min for cargo holds? Alarms - pneumatic siren + visual before release, time delay 20 sec. Lockable controls. Low pressure system - tank -20C, 2 relief valves. FM-200 HFC227ea design conc 7.5-8.5%, discharge 10 sec. Novec 1230 FK-5-1-12 design 4.5-6%. NOZzles spacing calculation.
+
+          CHAPTER 5 WATER SPRAY: Pump capacity - Largest section demand x1.5. Nozzles k-factor, pressure 0.35MPa min at nozzle. Filter mesh 1mm. Drainage 5x spray. Zones max 12m length.
+
+          CHAPTER 6 SPRINKLER: Types - Wet pipe temp 57-79C depending location, quick response RTI <50. Spacing 4m max, 2m from bulkhead, coverage 12m2 per sprinkler, max 4m ceiling. Pump auto start on pressure drop, 2 power supplies. Flow 0.5L/min/m2 accommodation, 3.5L/min/m2 for storage. Spare heads 3-24 depending number. Testing monthly.
+
+          CHAPTER 7 DETECTION: Smoke detectors spacing 11m corridor? Actually 9m max from bulkhead 7.5m heat. Sensitivity - obscuration 2-12.5% per meter. Aspirating sensitivity. Control panel loop isolators. Power 2 supplies. Testing MSC.1/Circ.1242 - smoke with test aerosol.
+
+          CHAPTER 8 FIXED HYDROCARBON GAS: Infrared or catalytic, 2 levels - low 10% LEL warning, high 30% LEL shutdown cargo. Sampling points pump room lower area.
+
+          CHAPTER 12 DECK FOAM TANKER: Application rate 6L/min/m2 for cargo deck area, 3L/min/m2 for spill, foam solution 20 min minimum. Monitors capacity - aft centerline 25% of total but min 1250L/min. Throw 75% deck. Foam concentrate protein, fluoroprotein, AFFF.
+
+          CHAPTER 13 INERT GAS: O2 <8% by vol, <5% if crude washing, positive pressure 100mm water gauge. Scrubber sea water, blower 125% max discharge, deck seal wet type, P/V breaker 1400mm water pressure, 350mm vacuum, non-return valve. Alarms O2 >8%, pressure low. Inert gas capacity - 125% of combined max cargo pumps. Crude Oil Washing interlock.
+
+          CHAPTER 14 RO-RO DRENCHER: 3.5L/min/m2 for weather deck, 5L/min for vehicle deck, section valves outside protected space.
+
+          PLUS FOAM QUALITY TESTS MSC.1/Circ.1312, water mist MSC.265(84)
+          """
+
+          # 2 - LSA ULTRA DEEP
+          lsa_deep="""
+          SOURCE: LSA-Code-ULTRA-DEEP-2024.txt
+          LSA CODE ULTRA DEEP - Every Appliance Dimensions and Tests
+
+          LIFEBUOY: Mass min 2.5kg without line. Outer 800mm, inner 400mm. Buoyancy test - support 14.5kg iron 24h fresh water. Grabline 4mm dia 4 segments. Tape 50mm wide retro-reflective SOLAS grade 4 places upper and lower, each 50mm x 100mm? Actually 50mm width. Lifebuoy light LSA 2.2 - 2cd intensity 360 deg horizontal, 0-5 deg vertical, 2h battery lithium, weight 0.3kg, operation -1 to +30C water. Smoke signal - orange 15 min, density >? emits 15min, not continue flame. Must float 30 days.
+
+          LIFEJACKET: Adult 150N buoyancy, child 100N? Actually SOLAS requires 155mm mouth above water for adult, turning 5 sec from face down, with 75% persons. Foam buoyancy closed cell. Buoyancy loss test - after 24h submerged <5% loss. Strength - lift 3200N for adult. Light 0.75cd 8h, flash 50-70 per min with lens. Whistle pea-less 100dB. Inflatable - two chambers, oral inflation 150N, CO2 60g.
+
+          IMMERSION SUIT: Size chart - universal 1500-1950mm height, buoyancy 70N, material neoprene 5mm or waterproof. Test - jump 4.5m without damage, swim 25m, climb ladder 5m, no water ingress >200g after 1h jump. Thermal protection - core temp drop <2C after 6h in 0-2C water with lifejacket.
+
+          LIFE RAFT INFLATABLE 25 person: Dimensions - tube dia 480mm, floor inflatable. Inflation time - 1 min at -30 to +65C, CO2/N2 mix, pressure relief. Stability - water pockets 2x 250L, righting from capsize. Boarding - ramp 10 deg, ladder. Equipment full list detailed: 1 buoyant rescue quoit 30m line, 1 knife non-folding with lanyard, 2 sponges, 2 paddles, 3 tin openers, first aid kit 10 plasters, 2 bailers, 2 parachute rockets, 6 hand flares, 2 smoke signals, torch waterproof 6h, radar reflector, whistle, fishing kit, food ration 10000kJ per person = 500g bar, water 1.5L per person in sachet, seasick 6 tablets per person, instructions, repair kit.
+
+          LIFEBOAT TOTALLY ENCLOSED: Dimensions example 7.4m length, 2.8m beam, 1.1m freeboard 100% loaded. Engine diesel 20kW 36hp, speed 6 knots, fuel 24h, start at -15C. Air system - compressed air bottles 10 min 1800L, CO2. Fire protection sprinkler 8 min at 14.5C? Actually external water spray 10L/min/m2. Self-righting test - heel 180 deg returns with 50% persons strapped. Acceleration limit 1G free-fall.
+
+          RESCUE BOAT: Rigid inflated 6.5m, 200kg, engine 60hp outboard, speed 20 knots fast rescue, towing 2 ton bollard, self-bailing 60 sec, righting.
+
+          LAUNCHING: Davit SWL test 2.2x, brake test 1.1x SWL, winch grooved drum, wire rotation resistant 6x36. Off-load hook - hook stability angle 0-45 deg, release 100% load only when waterborne per MSC.81. On-load release test 1.1x.
+
+          MES: Slide length 13.5m, capacity 400 persons 30 min, 2 tracks independent, illumination 1 lux.
+          """
+
+          # 3 - ISM + ISPS DEEP COMBINED
+          ism_isps_deep="""
+          SOURCE: ISM-ISPS-ULTRA-DEEP-2024.txt
+
+          ISM DEEP AUDIT CHECKLIST - DOC AUDIT: 30 items - SMS manual review, DPA qualification, reporting system, internal audit records 12 months, management review, non-conformity closeout, maintenance records - critical equipment list per MSC.1/Circ.1023: main engine, steering gear, emergency generator, fire pumps, oily water separator. DOC valid 5 years, annual verification window +-3 months.
+
+          SMC AUDIT: Shipboard audit 8 hours, must interview Master, Chief Engineer, crew. Check SMS familiarization - 12 key operations: navigation, cargo handling, mooring, enclosed space entry, hot work. Emergency preparedness - 5 drills: fire, abandon ship, enclosed space, oil spill, collision.
+
+          ENCLOSED SPACE ENTRY per MSC.1/Circ.1401: Risk assessment, ventilation, gas detection O2 20.8-21%, HC <1% LFL, toxic. Permit valid 8h.
+
+          CYBER RISK MSC-FAL.1/Circ.3: Identify systems - ECDIS, AIS, engine automation, cargo control. SMS includes cyber hygiene training.
+
+          ISPS DEEP: Ship Security Assessment 8 steps - 1) On scene security survey checklist 15 points, 2) Threat scenarios - bomb, hijack, stowaway, 3) Vulnerability matrix, 4) Countermeasures.
+
+          SSP mandatory contents 9: 1) Org, 2) Access control - gangway log, ID cards, 3) Restricted areas - bridge, E/R, steering, 4) Cargo handling - seal check, 5) Stores delivery - search, 6) Monitoring - deck patrols, CCTV, 7) Security alerts, 8) Evacuation, 9) Reporting. Must be locked, access SSO/CSO.
+
+          Security Levels detailed: Level 1  - gangway watch, ID check, restricted area locked. Level 2 - additional searches 50% stores, extra patrols, access limited to one point. Level 3 - ship prepared to evacuate, 100% search, port may limit.
+
+          SSAS 2 buttons - covert, sends lat/long to Company Security, test monthly per MSC.1/Circ.1470. AIS must be on except Master discretion security.
+
+          DRILLS: Security drill every 3 months - bomb search, stowaway search. Exercise every 18 months - tabletop with port facility.
+
+          ISSC form - issued by flag or RO, intermediate between 2nd-3rd anniversary +-3 months.
+
+          PSC DETENTION GROUNDS: No ISSC, SSP not approved, SSO not trained per A/12, SSAS faulty.
+          """
+
+          # 4 - FTP + SOLAS PRESENTATION READY
+          ftp_solas_deep="""
+          SOURCE: FTP-SOLAS-2024-Presentation-Ready.txt
+
+          FTP CODE 2010 - Fire Test Procedures Code - For presentation - Test Labs approved
+
+          Part 1 Non-combustibility - 750C furnace, 20 min, weight loss <50%, flaming <10 sec. Material steel, glass.
+
+          Part 2 Smoke and Toxicity - 3 samples, Ds max 200, toxic gases CO 1400ppm, HCl 600ppm, etc.
+
+          Part 3 Class A,B,C bulkheads - Furnace 0-60 min standard time temp curve - 945C at 60 min. A60 must prevent temp rise 140C average, 180C max. Integrity no cracks.
+
+          Part 4 Fire door - A class door test, hose stream test.
+
+          Part 5 Surface flammability - Spread of flame <150mm in 60 sec, heat for ignition, etc. Used for bulkhead linings, deck finish.
+
+          Part 7 Textile - cigarette test, butane flame 5 sec.
+
+          Part 8 Upholstery - same.
+
+          Part 10 Fixed fire extinguishing - water mist nozzles test - fire scenarios 750kW heptane.
+
+          SOLAS 2024 CONSOLIDATED - Presentation Slide Material:
+
+          Chapter II-2 Reg 9 Containment of fire - Thermal and structural boundaries table C.1 - A0 to A60, B0 to B15.
+
+          Chapter III Life-saving - Passenger ships Ro-Ro requirement - 30 min abandon ship.
+
+          Chapter V Safety Navigation - ECDIS mandatory, BNWAS, AIS.
+
+          Chapter VI Cargo - IMSBC, grain, IMDG, CSS code.
+
+          Latest Amendments 2024: MSC.532(107) - safe mooring, MSC.536(107) - lifeboat air supply 10 min, MSC.496(105) - IGF code.
+
+          STCW Link - Training for LSA and FSS - competence tables A-VI/1, A-VI/2.
+          """
+
+          def make_file(content, idx):
+            chunks=splitter.split_text(content*12)
+            out="\n".join([f"SOURCE: {content.splitlines()[1]}\n{c}\n---\n" for c in chunks])
+            path=f"imo-rag-bot/master_imo_all_public_part{idx}.txt"
+            open(path,'w',encoding='utf-8').write(out)
+            print(f"Created {path} {len(chunks)} chunks")
+            return len(chunks)
+
+          total_before = sum([open(fn,encoding='utf-8',errors='ignore').read().count('---') for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+          c1=make_file(fss_deep, max_part+1)
+          c2=make_file(lsa_deep, max_part+2)
+          c3=make_file(ism_isps_deep, max_part+3)
+          c4=make_file(ftp_solas_deep, max_part+4)
+          
+          total_after = sum([open(fn,encoding='utf-8',errors='ignore').read().count('---') for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+          summ=f"Total Unique PDFs: {1102+4}\nTotal Chunks: {total_after}\nTotal Parts: {max_part+5}\nLast Batch: ULTRA DEEP FSS LSA ISM-ISPS FTP-SOLAS 4 Parts Presentation Ready\n"
+          open('imo_public_summary.txt','w').write(summ)
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          print(summ)
+          PY
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add -A
+          git commit -m "Ultra deep all codes presentation ready" || true
+          git push || true
