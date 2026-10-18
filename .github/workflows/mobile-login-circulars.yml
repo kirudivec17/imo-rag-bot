@@ -1,0 +1,101 @@
+name: Mobile Login Circulars
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests pypdf langchain-text-splitters beautifulsoup4 lxml --quiet
+      - name: Login and Download Circulars
+        env:
+          IMO_USER: ${{ secrets.IMO_USER }}
+          IMO_PASS: ${{ secrets.IMO_PASS }}
+        run: |
+          python - << 'PY'
+          import os, re, glob, requests, urllib.parse, concurrent.futures
+          from bs4 import BeautifulSoup
+          from pypdf import PdfReader
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+          USER=os.environ['IMO_USER']
+          PASS=os.environ['IMO_PASS']
+          s=requests.Session()
+          s.headers.update({"User-Agent":"Mozilla/5.0"})
+          
+          print(f"Trying login for {USER[:3]}***")
+          r=s.get("https://docs.imo.org/Login.aspx", timeout=30)
+          soup=BeautifulSoup(r.text,'lxml')
+          vs=soup.find("input", {"name":"__VIEWSTATE"})
+          ev=soup.find("input", {"name":"__EVENTVALIDATION"})
+          data={
+            "__VIEWSTATE": vs['value'] if vs else "",
+            "__EVENTVALIDATION": ev['value'] if ev else "",
+            "ctl00$ContentPlaceHolder1$Login1$UserName": USER,
+            "ctl00$ContentPlaceHolder1$Login1$Password": PASS,
+            "ctl00$ContentPlaceHolder1$Login1$LoginButton": "Log in"
+          }
+          r2=s.post("https://docs.imo.org/Login.aspx", data=data, timeout=30)
+          print(f"Login page status: {r2.status_code}")
+          print(f"Logged in? {('Logout' in r2.text or 'Log Out' in r2.text or 'Welcome' in r2.text)}")
+
+          splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
+          existing=set(); max_part=-1
+          for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt'):
+              try:
+                  t=open(fn,encoding='utf-8',errors='ignore').read()
+                  existing.update(re.findall(r'SOURCE:\s*([^\n]+\.pdf)', t))
+                  m=re.search(r'part(\d+)\.txt',fn)
+                  if m: max_part=max(max_part,int(m.group(1)))
+              except: pass
+          print(f"Existing PDFs: {len(existing)}, max_part: {max_part}")
+
+          urls=[f"https://docs.imo.org/Documents/Circulars/MSC.1-Circ.{n}.pdf" for n in range(1300,1700)]
+          urls+= [f"https://docs.imo.org/Documents/Circulars/MEPC.1-Circ.{n}.pdf" for n in range(800,1000)]
+
+          def dl(url):
+              try:
+                  rr=s.get(url, timeout=25)
+                  if rr.status_code!=200 or len(rr.content)<3000 or b'%PDF' not in rr.content[:500]: return None
+                  open('/tmp/t.pdf','wb').write(rr.content)
+                  txt="".join([(p.extract_text() or "") for p in PdfReader('/tmp/t.pdf').pages])
+                  if len(txt)<200: return None
+                  fname=urllib.parse.unquote(url.split('/')[-1])
+                  if fname in existing: return None
+                  out="".join([f"SOURCE: {fname}\nURL: {url}\n{c}\n---\n" for c in splitter.split_text(txt)])
+                  return (fname,out)
+              except Exception as e:
+                  return None
+
+          results=[]
+          with concurrent.futures.ThreadPoolExecutor(max_workers=15) as ex:
+              for fut in concurrent.futures.as_completed([ex.submit(dl,u) for u in urls]):
+                  r=fut.result()
+                  if r:
+                      results.append(r)
+                      print(f"[{len(results)}] OK {r[0]}")
+
+          print(f"FINAL Downloaded: {len(results)} NEW circulars")
+          if results:
+              import os as _os; _os.makedirs("imo-rag-bot",exist_ok=True)
+              combined="\n".join([x[1] for x in results])
+              nxt=max_part+1
+              open(f"imo-rag-bot/master_imo_all_public_part{nxt}.txt",'w',encoding='utf-8').write(combined)
+              total_chunks=sum([open(fn,encoding='utf-8',errors='ignore').read().count('---') for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+              summ=f"Total Unique PDFs: {len(existing)+len(results)}\nTotal Chunks: {total_chunks}\nTotal Parts: {nxt+1}\nLast Batch: {len(results)} circulars (login)\n"
+              print(summ)
+              open('imo_public_summary.txt','w').write(summ)
+              open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          PY
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add -A
+          git commit -m "mobile login circulars batch" || true
+          git push || true
