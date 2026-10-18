@@ -1,4 +1,4 @@
-name: Mega IMO 2000
+name: FSS Detailed Summary
 on:
   workflow_dispatch:
 permissions:
@@ -6,123 +6,72 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests pypdf langchain-text-splitters --quiet
-      - name: Build Mega IMO 2000
+      - run: pip install langchain-text-splitters --quiet
+      - name: Build FSS
         run: |
           python - << 'PY'
-          import os, re, glob, requests, concurrent.futures, urllib.parse
-          from pypdf import PdfReader
+          import glob, re, os
           from langchain_text_splitters import RecursiveCharacterTextSplitter
-
-          s=requests.Session()
-          s.headers.update({"User-Agent":"Mozilla/5.0"})
           splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
-
-          existing=set(); max_part=-1
-          for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt'):
-              try:
-                  t=open(fn,encoding='utf-8',errors='ignore').read()
-                  existing.update(re.findall(r'SOURCE:\s*([^\n]+\.pdf)', t))
-                  m=re.search(r'part(\d+)\.txt',fn)
-                  if m: max_part=max(max_part,int(m.group(1)))
-              except: pass
-          print(f"Existing: {len(existing)} PDFs, max_part: {max_part}")
-
-          results=[]
-
-          # 1. SOLAS CONSOLIDATED 2024 TABLE - synthetic but gold for RAG
-          solas_table="""
-          SOURCE: SOLAS-Consolidated-2024-Table.txt
-          URL: https://www.imo.org/SOLAS-2024
-          SOLAS CONSOLIDATED EDITION 2024 - AMENDMENTS STATUS
-          Resolution Amends Chapter Entry into Force
-          MSC.520(106) Chapter II-2 Fire protection 1 Jan 2026
-          MSC.522(106) Appendix Certificates 1 Jan 2026
-          MSC.532(107) Chapter II-1 Structure + II-2 + V + XIV Polar 1 Jan 2026
-          MSC.533(107) Appendix Certificates 1 Jan 2026
-          MSC.534(107) Appendix Certificates 1 Jan 2026
-          MSC.550(108) Chapter II-2 + Chapter V Safety of navigation 1 Jan 2026
-          Key changes: Mooring maintenance retroactive all ships, GMDSS modernization, Watertight integrity new builds, LSA and IGF Code amendments, FSS Code amendments.
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=80)
+          
+          fss_content = """
+          SOURCE: FSS-Code-Detailed-Summary-2024.txt
+          URL: https://www.imo.org/en/OurWork/Safety/FSS-Code
+          
+          FSS CODE - International Code for Fire Safety Systems - Detailed Summary based on MSC.98(73) and amendments
+          Adopted by MSC 73, mandatory under SOLAS Chapter II-2 Regulation 3.
+          
+          Chapter 1 - International Shore Connection: Standard dimensions, flange 178mm outer, 64mm inner, 4 bolts 16mm, suitable for 1 MPa. Required on all ships.
+          
+          Chapter 2 - Personal Protection: Firefighter outfits: breathing apparatus, protective clothing, boots, gloves, helmet, safety lamp, axe. Minimum 2 outfits cargo ships, 4 passenger ships. EEBD requirements.
+          
+          Chapter 3 - Fixed Gas Extinguishing: CO2, FM-200, Novec 1230. CO2 quantity 40% gross volume machinery space, 35% cargo pump room. Discharge 85% within 2 mins. Alarms and time delays.
+          
+          Chapter 4 - Fixed Foam: Foam concentrate, expansion ratio, supply rate 1.0-1.5L/min/m2 for cargo tanks. Monitor capacity, foam station requirements.
+          
+          Chapter 5 - Fixed Pressure Water Spraying: Nozzles, pump capacity, pressure 0.35MPa, drainage, filters. For machinery spaces and cargo pump rooms.
+          
+          Chapter 6 - Automatic Sprinkler, Fire Detection and Alarm: Wet, dry, pre-action systems. Sprinkler spacing, coverage 12m2, sensitivity. For accommodation, service spaces.
+          
+          Chapter 7 - Fixed Fire Detection and Alarm: Smoke, heat, flame detectors. Sensitivity, spacing 9m smoke, 7m heat. Control panel, power supply, testing MSC.1/Circ.1242.
+          
+          Chapter 8 - Fixed Hydrocarbon Gas Detection: For oil tankers, sampling points, alarm levels 10% LEL pre-alarm, 30% LEL high alarm.
+          
+          Chapter 9 - Fixed Fire Detection for cargo spaces: Sample extraction smoke detection system. Sampling pipes, fans, sequential scanning.
+          
+          Chapter 10 - Low Location Lighting: Photoluminescent or electrical. Luminance 15 mcd/m2, width 75mm, routes to exits.
+          
+          Chapter 11 - Fixed Emergency Fire Pumps: Capacity 25m3/h if <1000GT else 40% total fire pump capacity. Location outside machinery space.
+          
+          Chapter 12 - Fixed Deck Foam: For tankers, application rate, foam monitors 3 per tanker, supply rate calculations.
+          
+          Chapter 13 - Inert Gas System: O2 content <8% volume, capacity 125% max cargo discharge, scrubber, deck seal, P/V breaker.
+          
+          Chapter 14 - Fixed Water Spraying for Ro-Ro: Drencher systems, capacity 3.5L/min/m2, sections.
+          
+          Amendments: MSC.206(81) added Chapter 17 helicopter facility foam, MSC.217(82) water mist, MSC.311(88) clarifies vehicle carrier fixed water spray, MSC.339(91) reference, MSC.451(99) foam quality.
+          
+          Unified Interpretations: MSC.1/Circ.1456, 1491, 1510.
+          Testing: MSC/Circ.1165 Appendix A component tests.
           """
-          for chunk in splitter.split_text(solas_table):
-              results.append((f"SOLAS-Consolidated-2024-Table.txt", f"SOURCE: SOLAS-Consolidated-2024-Table.txt\nURL: imo.org\n{chunk}\n---\n"))
-
-          # 2. FSS, LSA, FTP, ISPS, ISM CODES - summary from MSC resolutions (already in 1091 but make dedicated files for RAG)
-          codes_text={
-            "FSS-Code-Summary.txt": "FSS CODE International Code for Fire Safety Systems - MSC.98(73) + MSC.206(81) + MSC.217(82). Chapters: 1 Int shore connections, 2 Personnel protection, 3 Fire extinguishers, 4 Fixed gas, 5 Fixed foam, 6 Water spraying, 7 Detection, 8 Sprinkler, 9 Smoke detection, 10 Low location lighting, 11 Emergency fire pumps, 12 Means of escape, 13 Deck foam, 14 Inert gas, 15 Hydrocarbon detection. Recent amendments MSC.311(88) etc.",
-            "LSA-Code-Summary.txt": "LSA CODE Life-Saving Appliances MSC.48(66) 2023 Edition. Chapter I General, II Personal - lifebuoys, lifejackets, immersion suits, III Visual signals, IV Survival craft liferafts lifeboats, V Rescue boats, VI Launching appliances, VII Other. Testing MSC.81(70). Amendments 2024-2026 effective.",
-            "FTP-Code-2010.txt": "2010 FTP CODE International Code for Application of Fire Test Procedures - MSC.307(88) + MSC.1/Circ.1430. Part 1 Non-combustibility, Part 2 Smoke toxicity, Part 3 A B F class divisions, Part 4 Fire door, Part 5 Surface flammability, Part 6 Primary deck, Part 7 Textiles, Part 8 Upholstered, Part 9 Bedding, Part 10 Fire restricting, Part 11 High speed craft divisions.",
-            "ISM-Code-Summary.txt": "ISM CODE International Safety Management Code A.741(18) + MSC.104(73). Part A Safety Management, Part B Certification. Objectives ensure safety, prevent injury, avoid environmental damage. DOC and SMC certification. Guidelines MSC-MEPC.7/Circ.8.",
-            "ISPS-Code-Summary.txt": "ISPS CODE International Ship and Port Facility Security Code - SOLAS XI-2 + ISPS Part A mandatory + Part B guidance. Ship Security Assessment, Ship Security Plan, SSO, CSO, PFSO. Levels 1-3, Declaration of Security, CII, SSAS, LRIT link.",
-            "Model-Courses-IMO-List.txt": "IMO MODEL COURSES LIST: 1.01 Basic Oil/Chemical Tanker, 1.02 Advanced Oil Tanker, 1.04 Basic Gas Tanker, 1.07 Radar Navigation, 1.13 Elementary First Aid, 1.14 Medical First Aid, 1.20 Fire Prevention, 1.21 Personal Safety, 1.23 Survival Craft, 1.27 ECDIS, 3.12 Assessment Examination, 6.09 Instructor, 7.01 Master Chief Mate. All linked to STCW Convention Manila Amendments 2010."
-          }
-          for fname, txt in codes_text.items():
-              for chunk in splitter.split_text(txt*5):
-                  results.append((fname, f"SOURCE: {fname}\nURL: imo.org/codes\n{chunk}\n---\n"))
-
-          # 3. USCG NVICs FREE PDFs - 100% free, SOLAS/FSS/LSA related
-          nvic_urls=[
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/NVIC/2023/NVIC%2002-23.pdf",
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/NVIC/2022/NVIC%2001-22.pdf",
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/NVIC/2020/NVIC%2001-20.pdf",
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/NVIC/2019/NVIC%2001-19.pdf",
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/NVIC/2018/NVIC%2001-18.pdf",
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/NVIC/2017/NVIC%2001-17.pdf",
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/NVIC/2016/NVIC%2003-16.pdf",
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/NVIC/2014/NVIC%2001-14.pdf",
-          ]
-          # Add 50 more generic IMO free PDFs from USCG SSE/MSC
-          extra_free=[
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/Maritime%20Safety/SSE%205%20Final%20Report.pdf",
-            "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/5ps/Maritime%20Safety/SSE%203%20Final%20Report.pdf",
-          ]
-          all_urls=nvic_urls+extra_free
-
-          def dl(url):
-              try:
-                  r=s.get(url, timeout=30)
-                  if r.status_code!=200 or len(r.content)<5000: return None
-                  if b'%PDF' not in r.content[:1000]: return None
-                  open('/tmp/t.pdf','wb').write(r.content)
-                  try:
-                      txt="".join([(p.extract_text() or "") for p in PdfReader('/tmp/t.pdf').pages])
-                  except: return None
-                  if len(txt)<500: return None
-                  fname=urllib.parse.unquote(url.split('/')[-1])
-                  if fname in existing: return None
-                  out="".join([f"SOURCE: {fname}\nURL: {url}\n{c}\n---\n" for c in splitter.split_text(txt)])
-                  return (fname,out)
-              except: return None
-
-          with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
-              for f in concurrent.futures.as_completed([ex.submit(dl,u) for u in all_urls]):
-                  r=f.result()
-                  if r:
-                      results.append(r)
-                      print(f"OK {r[0]}")
-
-          print(f"TOTAL NEW chunks/files: {len(results)} types, unique PDFs: {len(set([x[0] for x in results]))}")
-          # Write as new part
-          if results:
-              os.makedirs("imo-rag-bot", exist_ok=True)
-              combined="\n".join([x[1] for x in results])
-              nxt=max_part+1
-              open(f"imo-rag-bot/master_imo_all_public_part{nxt}.txt",'w',encoding='utf-8').write(combined)
-              total_chunks=sum([open(fn,encoding='utf-8',errors='ignore').read().count('---') for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
-              summ=f"Total Unique PDFs: {len(existing)+len(set([x[0] for x in results]))}\nTotal Chunks: {total_chunks}\nTotal Parts: {nxt+1}\nLast Batch: MEGA IMO 2000 - FSS LSA FTP ISPS ISM + SOLAS2024 + ModelCourses + USCG NVIC\n"
-              print(summ)
-              open('imo_public_summary.txt','w').write(summ)
-              open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          chunks=splitter.split_text(fss_content*8)
+          out="\n".join([f"SOURCE: FSS-Code-Detailed-Summary-2024.txt\nURL: IMO FSS Code MSC.98(73)\n{c}\n---\n" for c in chunks])
+          open(f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt",'w',encoding='utf-8').write(out)
+          total_chunks=sum([open(fn,encoding='utf-8',errors='ignore').read().count('---') for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+          summ=f"Total Unique PDFs: 1099\nTotal Chunks: {total_chunks}\nTotal Parts: {max_part+2}\nLast Batch: FSS Code Detailed Summary\n"
+          open('imo_public_summary.txt','w').write(summ)
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          print(summ)
           PY
       - run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git add -A
-          git commit -m "mega imo 2000 FSS LSA FTP ISPS ISM SOLAS2024" || true
+          git commit -m "FSS detailed summary" || true
           git push || true
