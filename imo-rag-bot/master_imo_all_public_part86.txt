@@ -1,0 +1,753 @@
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/LSA-Code
+
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+
+CHAPTER I GENERAL
+1.1 Definitions: Retro-reflective, Embarkation ladder, SOLAS.
+1.2 General Requirements for LSAs: Must be tested per IMO Res A.689(17) as amended, strength tests, must not be damaged in stowage, must be resistant to seawater, markings: maker, serial, approval, personal appliances marked with vessel name. Retro-reflective tape: 50mm width, 4 patches liferaft, lifejacket 4 patches, lifebuoy 4 strips.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER II PERSONAL LIFE-SAVING APPLIANCES
+2.1 Lifebuoys: 2.5kg mass, outer diameter 800mm inner 400mm, SOLAS lifebuoy, grabline, retro-reflective. 14 required for cargo ships 100-150m, 12 for 100m, passenger ships per length. One per side with smoke and light, half with lights, at least 2 with buoyant line 30m.
+Buoyant smoke signal 15 mins orange, 2kg. Self-igniting light 2cd 2 hours, flashing 50-70 per min.
+2.2 Lifejackets: Buoyancy 150N adult, turning in 5 sec face up, mouth 120mm above water, 43% buoyancy loss test. 3 types: SOLAS adult, child 15-43kg, infant <15kg. Lights: 0.75cd 8 hours, whistle. Inflatable lifejacket allowed with 2 compartments. Required: 100% persons + 10% children if child on board? Actually 100% crew+ passengers plus extra for watch, 100% infant jackets. Plus additional at work stations.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+2.3 Immersion suits: Insulated / non-insulated, 2-hour protection, buoyancy, 10 deg water jump, climb ladder, swim 25m. 3 per cargo ship? Requirement SOLAS III/32: 3 suits + extra for each lifeboat crew member, passenger ships for each watch? Size universal or small/medium/large.
+2.4 Anti-exposure suits: Similar but for rescue boat crew.
+2.5 Thermal Protective Aids TPA: 15% persons in survival craft, aluminized polyethylene, thermal conductance.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER III VISUAL SIGNALS
+3.1 Rocket parachute flares: 300m height, 40,000cd 40 sec, red color. 12 in lifeboat/liferaft.
+3.2 Hand flares: 15,000cd 60 sec.
+3.3 Buoyant smoke signals: 3 min orange, 15 sec after ignition.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER IV SURVIVAL CRAFT
+4.1 General for liferafts: Resists 4.5m drop, 10 jumps, towing 3 knots, float 30 days, boarding from 1.5m.
+4.2 Inflatable liferafts: 6-25 persons standard, up to 150 extended, 2 buoyancy tubes, CO2 inflation, 1 sq m per person, stability water pockets, weight 185kg, boarding ramp, canopy orange, retro-reflective, light 0.75cd inside. Equipment: 4.1.5 list 20+ items: paddles, knife, bailer, sponge, fishing kit, rations 10,000kJ, water 1.5L per person, anti-seasick 6 per person, etc. HRU hydrostatic release 4m.
+Davit-launched inflatable: boarding at deck level.
+4.3 Rigid liferafts: Similar but GRP hull.
+4.4 General lifeboats: 4.5m minimum length? Freeboard 100% loaded, stability 10 degree heel with 50% persons on one side. Self-bailing, engine 6 knots 24h, 20kW fuel, searchlight. Protected enclosure? Totally enclosed, partially enclosed, open.
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+4.6 Totally enclosed: Fire protection 8 min 1400 deg, self-contained air 10 min, capsizing self-righting.
+4.7 Free-fall lifeboats: Launch 1.3x certification height, acceleration limits 6G, positive headway after entry. Free-fall launch slide.
+4.8 Lifeboat equipment: Oars, boat hook, bailer, bucket, survival manual, compass, sea anchor, painter, hatchet, watertight container, jack-knife, whistle, searchlight, radar reflector, thermal aids.
+4.9 General rescue boats: 3.8-8.5m length, 6 persons, 6 knots, 4h endurance, 20 mins towing largest liferaft. Rigid, inflated, fast.
+4.10 Fast rescue boats: >20 knots, 8 persons, inflated collar.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER V RESCUE BOATS
+5.1 Rigid, Inflated, Fast categories. Construction requirements, stability self-righting, engines inboard/outboard.
+
+CHAPTER VI LAUNCHING AND EMBARKATION
+6.1 Launching appliances: Must not depend on means other than gravity or stored power. Strength 2.2x working load, brake holds 1.1x. Winch with dead man handle, limit switches. On-load and off-load release gear - new MSC.81(70) amendments hook safety.
+6.1.6 Lifeboat launching: 10 min to launch 2 boats cargo ship, 30 min passenger ship.
+6.2 Marine evacuation systems MES: Slide + raft, 10 min transfer, 2 independent tracks.
+
+CHAPTER VII OTHER
+7.1 Line-throwing appliance: 230m range, 4 projectiles.
+7.2 General alarm: 7 short + 1 long, visual for noisy spaces, PA system passenger ships.
+
+AMENDMENTS: MSC.207(81) infant jacket, MSC.218(82) free-fall acceleration, MSC.272(85) testing, MSC.320(89) LSA testing amendments, MSC.459(101) lifeboat ventilation 10 min.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+TESTING: MSC.81(70) Revised Recommendation for Testing Life-Saving Appliances: Prototype, production tests, 2 year service inflatables at approved stations.
+
+SOLAS REQUIREMENTS LINK: SOLAS III/7 personal LSAs numbers, III/20 operational readiness weekly inspection, III/21 survival craft embarkation, III/26 additional for Ro-Ro, III/32.
+
+Common PSC issues: Hydrostatic release expiry >12 months, painter not secured, lifeboat engine not starting, on-load release not maintained per MSC.1/Circ.1206 Rev.1, retro-reflective tape degraded.
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/LSA-Code
+
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+
+CHAPTER I GENERAL
+1.1 Definitions: Retro-reflective, Embarkation ladder, SOLAS.
+1.2 General Requirements for LSAs: Must be tested per IMO Res A.689(17) as amended, strength tests, must not be damaged in stowage, must be resistant to seawater, markings: maker, serial, approval, personal appliances marked with vessel name. Retro-reflective tape: 50mm width, 4 patches liferaft, lifejacket 4 patches, lifebuoy 4 strips.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER II PERSONAL LIFE-SAVING APPLIANCES
+2.1 Lifebuoys: 2.5kg mass, outer diameter 800mm inner 400mm, SOLAS lifebuoy, grabline, retro-reflective. 14 required for cargo ships 100-150m, 12 for 100m, passenger ships per length. One per side with smoke and light, half with lights, at least 2 with buoyant line 30m.
+Buoyant smoke signal 15 mins orange, 2kg. Self-igniting light 2cd 2 hours, flashing 50-70 per min.
+2.2 Lifejackets: Buoyancy 150N adult, turning in 5 sec face up, mouth 120mm above water, 43% buoyancy loss test. 3 types: SOLAS adult, child 15-43kg, infant <15kg. Lights: 0.75cd 8 hours, whistle. Inflatable lifejacket allowed with 2 compartments. Required: 100% persons + 10% children if child on board? Actually 100% crew+ passengers plus extra for watch, 100% infant jackets. Plus additional at work stations.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+2.3 Immersion suits: Insulated / non-insulated, 2-hour protection, buoyancy, 10 deg water jump, climb ladder, swim 25m. 3 per cargo ship? Requirement SOLAS III/32: 3 suits + extra for each lifeboat crew member, passenger ships for each watch? Size universal or small/medium/large.
+2.4 Anti-exposure suits: Similar but for rescue boat crew.
+2.5 Thermal Protective Aids TPA: 15% persons in survival craft, aluminized polyethylene, thermal conductance.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER III VISUAL SIGNALS
+3.1 Rocket parachute flares: 300m height, 40,000cd 40 sec, red color. 12 in lifeboat/liferaft.
+3.2 Hand flares: 15,000cd 60 sec.
+3.3 Buoyant smoke signals: 3 min orange, 15 sec after ignition.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER IV SURVIVAL CRAFT
+4.1 General for liferafts: Resists 4.5m drop, 10 jumps, towing 3 knots, float 30 days, boarding from 1.5m.
+4.2 Inflatable liferafts: 6-25 persons standard, up to 150 extended, 2 buoyancy tubes, CO2 inflation, 1 sq m per person, stability water pockets, weight 185kg, boarding ramp, canopy orange, retro-reflective, light 0.75cd inside. Equipment: 4.1.5 list 20+ items: paddles, knife, bailer, sponge, fishing kit, rations 10,000kJ, water 1.5L per person, anti-seasick 6 per person, etc. HRU hydrostatic release 4m.
+Davit-launched inflatable: boarding at deck level.
+4.3 Rigid liferafts: Similar but GRP hull.
+4.4 General lifeboats: 4.5m minimum length? Freeboard 100% loaded, stability 10 degree heel with 50% persons on one side. Self-bailing, engine 6 knots 24h, 20kW fuel, searchlight. Protected enclosure? Totally enclosed, partially enclosed, open.
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+4.6 Totally enclosed: Fire protection 8 min 1400 deg, self-contained air 10 min, capsizing self-righting.
+4.7 Free-fall lifeboats: Launch 1.3x certification height, acceleration limits 6G, positive headway after entry. Free-fall launch slide.
+4.8 Lifeboat equipment: Oars, boat hook, bailer, bucket, survival manual, compass, sea anchor, painter, hatchet, watertight container, jack-knife, whistle, searchlight, radar reflector, thermal aids.
+4.9 General rescue boats: 3.8-8.5m length, 6 persons, 6 knots, 4h endurance, 20 mins towing largest liferaft. Rigid, inflated, fast.
+4.10 Fast rescue boats: >20 knots, 8 persons, inflated collar.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER V RESCUE BOATS
+5.1 Rigid, Inflated, Fast categories. Construction requirements, stability self-righting, engines inboard/outboard.
+
+CHAPTER VI LAUNCHING AND EMBARKATION
+6.1 Launching appliances: Must not depend on means other than gravity or stored power. Strength 2.2x working load, brake holds 1.1x. Winch with dead man handle, limit switches. On-load and off-load release gear - new MSC.81(70) amendments hook safety.
+6.1.6 Lifeboat launching: 10 min to launch 2 boats cargo ship, 30 min passenger ship.
+6.2 Marine evacuation systems MES: Slide + raft, 10 min transfer, 2 independent tracks.
+
+CHAPTER VII OTHER
+7.1 Line-throwing appliance: 230m range, 4 projectiles.
+7.2 General alarm: 7 short + 1 long, visual for noisy spaces, PA system passenger ships.
+
+AMENDMENTS: MSC.207(81) infant jacket, MSC.218(82) free-fall acceleration, MSC.272(85) testing, MSC.320(89) LSA testing amendments, MSC.459(101) lifeboat ventilation 10 min.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+TESTING: MSC.81(70) Revised Recommendation for Testing Life-Saving Appliances: Prototype, production tests, 2 year service inflatables at approved stations.
+
+SOLAS REQUIREMENTS LINK: SOLAS III/7 personal LSAs numbers, III/20 operational readiness weekly inspection, III/21 survival craft embarkation, III/26 additional for Ro-Ro, III/32.
+
+Common PSC issues: Hydrostatic release expiry >12 months, painter not secured, lifeboat engine not starting, on-load release not maintained per MSC.1/Circ.1206 Rev.1, retro-reflective tape degraded.
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/LSA-Code
+
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+
+CHAPTER I GENERAL
+1.1 Definitions: Retro-reflective, Embarkation ladder, SOLAS.
+1.2 General Requirements for LSAs: Must be tested per IMO Res A.689(17) as amended, strength tests, must not be damaged in stowage, must be resistant to seawater, markings: maker, serial, approval, personal appliances marked with vessel name. Retro-reflective tape: 50mm width, 4 patches liferaft, lifejacket 4 patches, lifebuoy 4 strips.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER II PERSONAL LIFE-SAVING APPLIANCES
+2.1 Lifebuoys: 2.5kg mass, outer diameter 800mm inner 400mm, SOLAS lifebuoy, grabline, retro-reflective. 14 required for cargo ships 100-150m, 12 for 100m, passenger ships per length. One per side with smoke and light, half with lights, at least 2 with buoyant line 30m.
+Buoyant smoke signal 15 mins orange, 2kg. Self-igniting light 2cd 2 hours, flashing 50-70 per min.
+2.2 Lifejackets: Buoyancy 150N adult, turning in 5 sec face up, mouth 120mm above water, 43% buoyancy loss test. 3 types: SOLAS adult, child 15-43kg, infant <15kg. Lights: 0.75cd 8 hours, whistle. Inflatable lifejacket allowed with 2 compartments. Required: 100% persons + 10% children if child on board? Actually 100% crew+ passengers plus extra for watch, 100% infant jackets. Plus additional at work stations.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+2.3 Immersion suits: Insulated / non-insulated, 2-hour protection, buoyancy, 10 deg water jump, climb ladder, swim 25m. 3 per cargo ship? Requirement SOLAS III/32: 3 suits + extra for each lifeboat crew member, passenger ships for each watch? Size universal or small/medium/large.
+2.4 Anti-exposure suits: Similar but for rescue boat crew.
+2.5 Thermal Protective Aids TPA: 15% persons in survival craft, aluminized polyethylene, thermal conductance.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER III VISUAL SIGNALS
+3.1 Rocket parachute flares: 300m height, 40,000cd 40 sec, red color. 12 in lifeboat/liferaft.
+3.2 Hand flares: 15,000cd 60 sec.
+3.3 Buoyant smoke signals: 3 min orange, 15 sec after ignition.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER IV SURVIVAL CRAFT
+4.1 General for liferafts: Resists 4.5m drop, 10 jumps, towing 3 knots, float 30 days, boarding from 1.5m.
+4.2 Inflatable liferafts: 6-25 persons standard, up to 150 extended, 2 buoyancy tubes, CO2 inflation, 1 sq m per person, stability water pockets, weight 185kg, boarding ramp, canopy orange, retro-reflective, light 0.75cd inside. Equipment: 4.1.5 list 20+ items: paddles, knife, bailer, sponge, fishing kit, rations 10,000kJ, water 1.5L per person, anti-seasick 6 per person, etc. HRU hydrostatic release 4m.
+Davit-launched inflatable: boarding at deck level.
+4.3 Rigid liferafts: Similar but GRP hull.
+4.4 General lifeboats: 4.5m minimum length? Freeboard 100% loaded, stability 10 degree heel with 50% persons on one side. Self-bailing, engine 6 knots 24h, 20kW fuel, searchlight. Protected enclosure? Totally enclosed, partially enclosed, open.
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+4.6 Totally enclosed: Fire protection 8 min 1400 deg, self-contained air 10 min, capsizing self-righting.
+4.7 Free-fall lifeboats: Launch 1.3x certification height, acceleration limits 6G, positive headway after entry. Free-fall launch slide.
+4.8 Lifeboat equipment: Oars, boat hook, bailer, bucket, survival manual, compass, sea anchor, painter, hatchet, watertight container, jack-knife, whistle, searchlight, radar reflector, thermal aids.
+4.9 General rescue boats: 3.8-8.5m length, 6 persons, 6 knots, 4h endurance, 20 mins towing largest liferaft. Rigid, inflated, fast.
+4.10 Fast rescue boats: >20 knots, 8 persons, inflated collar.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER V RESCUE BOATS
+5.1 Rigid, Inflated, Fast categories. Construction requirements, stability self-righting, engines inboard/outboard.
+
+CHAPTER VI LAUNCHING AND EMBARKATION
+6.1 Launching appliances: Must not depend on means other than gravity or stored power. Strength 2.2x working load, brake holds 1.1x. Winch with dead man handle, limit switches. On-load and off-load release gear - new MSC.81(70) amendments hook safety.
+6.1.6 Lifeboat launching: 10 min to launch 2 boats cargo ship, 30 min passenger ship.
+6.2 Marine evacuation systems MES: Slide + raft, 10 min transfer, 2 independent tracks.
+
+CHAPTER VII OTHER
+7.1 Line-throwing appliance: 230m range, 4 projectiles.
+7.2 General alarm: 7 short + 1 long, visual for noisy spaces, PA system passenger ships.
+
+AMENDMENTS: MSC.207(81) infant jacket, MSC.218(82) free-fall acceleration, MSC.272(85) testing, MSC.320(89) LSA testing amendments, MSC.459(101) lifeboat ventilation 10 min.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+TESTING: MSC.81(70) Revised Recommendation for Testing Life-Saving Appliances: Prototype, production tests, 2 year service inflatables at approved stations.
+
+SOLAS REQUIREMENTS LINK: SOLAS III/7 personal LSAs numbers, III/20 operational readiness weekly inspection, III/21 survival craft embarkation, III/26 additional for Ro-Ro, III/32.
+
+Common PSC issues: Hydrostatic release expiry >12 months, painter not secured, lifeboat engine not starting, on-load release not maintained per MSC.1/Circ.1206 Rev.1, retro-reflective tape degraded.
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/LSA-Code
+
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+
+CHAPTER I GENERAL
+1.1 Definitions: Retro-reflective, Embarkation ladder, SOLAS.
+1.2 General Requirements for LSAs: Must be tested per IMO Res A.689(17) as amended, strength tests, must not be damaged in stowage, must be resistant to seawater, markings: maker, serial, approval, personal appliances marked with vessel name. Retro-reflective tape: 50mm width, 4 patches liferaft, lifejacket 4 patches, lifebuoy 4 strips.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER II PERSONAL LIFE-SAVING APPLIANCES
+2.1 Lifebuoys: 2.5kg mass, outer diameter 800mm inner 400mm, SOLAS lifebuoy, grabline, retro-reflective. 14 required for cargo ships 100-150m, 12 for 100m, passenger ships per length. One per side with smoke and light, half with lights, at least 2 with buoyant line 30m.
+Buoyant smoke signal 15 mins orange, 2kg. Self-igniting light 2cd 2 hours, flashing 50-70 per min.
+2.2 Lifejackets: Buoyancy 150N adult, turning in 5 sec face up, mouth 120mm above water, 43% buoyancy loss test. 3 types: SOLAS adult, child 15-43kg, infant <15kg. Lights: 0.75cd 8 hours, whistle. Inflatable lifejacket allowed with 2 compartments. Required: 100% persons + 10% children if child on board? Actually 100% crew+ passengers plus extra for watch, 100% infant jackets. Plus additional at work stations.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+2.3 Immersion suits: Insulated / non-insulated, 2-hour protection, buoyancy, 10 deg water jump, climb ladder, swim 25m. 3 per cargo ship? Requirement SOLAS III/32: 3 suits + extra for each lifeboat crew member, passenger ships for each watch? Size universal or small/medium/large.
+2.4 Anti-exposure suits: Similar but for rescue boat crew.
+2.5 Thermal Protective Aids TPA: 15% persons in survival craft, aluminized polyethylene, thermal conductance.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER III VISUAL SIGNALS
+3.1 Rocket parachute flares: 300m height, 40,000cd 40 sec, red color. 12 in lifeboat/liferaft.
+3.2 Hand flares: 15,000cd 60 sec.
+3.3 Buoyant smoke signals: 3 min orange, 15 sec after ignition.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER IV SURVIVAL CRAFT
+4.1 General for liferafts: Resists 4.5m drop, 10 jumps, towing 3 knots, float 30 days, boarding from 1.5m.
+4.2 Inflatable liferafts: 6-25 persons standard, up to 150 extended, 2 buoyancy tubes, CO2 inflation, 1 sq m per person, stability water pockets, weight 185kg, boarding ramp, canopy orange, retro-reflective, light 0.75cd inside. Equipment: 4.1.5 list 20+ items: paddles, knife, bailer, sponge, fishing kit, rations 10,000kJ, water 1.5L per person, anti-seasick 6 per person, etc. HRU hydrostatic release 4m.
+Davit-launched inflatable: boarding at deck level.
+4.3 Rigid liferafts: Similar but GRP hull.
+4.4 General lifeboats: 4.5m minimum length? Freeboard 100% loaded, stability 10 degree heel with 50% persons on one side. Self-bailing, engine 6 knots 24h, 20kW fuel, searchlight. Protected enclosure? Totally enclosed, partially enclosed, open.
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+4.6 Totally enclosed: Fire protection 8 min 1400 deg, self-contained air 10 min, capsizing self-righting.
+4.7 Free-fall lifeboats: Launch 1.3x certification height, acceleration limits 6G, positive headway after entry. Free-fall launch slide.
+4.8 Lifeboat equipment: Oars, boat hook, bailer, bucket, survival manual, compass, sea anchor, painter, hatchet, watertight container, jack-knife, whistle, searchlight, radar reflector, thermal aids.
+4.9 General rescue boats: 3.8-8.5m length, 6 persons, 6 knots, 4h endurance, 20 mins towing largest liferaft. Rigid, inflated, fast.
+4.10 Fast rescue boats: >20 knots, 8 persons, inflated collar.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER V RESCUE BOATS
+5.1 Rigid, Inflated, Fast categories. Construction requirements, stability self-righting, engines inboard/outboard.
+
+CHAPTER VI LAUNCHING AND EMBARKATION
+6.1 Launching appliances: Must not depend on means other than gravity or stored power. Strength 2.2x working load, brake holds 1.1x. Winch with dead man handle, limit switches. On-load and off-load release gear - new MSC.81(70) amendments hook safety.
+6.1.6 Lifeboat launching: 10 min to launch 2 boats cargo ship, 30 min passenger ship.
+6.2 Marine evacuation systems MES: Slide + raft, 10 min transfer, 2 independent tracks.
+
+CHAPTER VII OTHER
+7.1 Line-throwing appliance: 230m range, 4 projectiles.
+7.2 General alarm: 7 short + 1 long, visual for noisy spaces, PA system passenger ships.
+
+AMENDMENTS: MSC.207(81) infant jacket, MSC.218(82) free-fall acceleration, MSC.272(85) testing, MSC.320(89) LSA testing amendments, MSC.459(101) lifeboat ventilation 10 min.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+TESTING: MSC.81(70) Revised Recommendation for Testing Life-Saving Appliances: Prototype, production tests, 2 year service inflatables at approved stations.
+
+SOLAS REQUIREMENTS LINK: SOLAS III/7 personal LSAs numbers, III/20 operational readiness weekly inspection, III/21 survival craft embarkation, III/26 additional for Ro-Ro, III/32.
+
+Common PSC issues: Hydrostatic release expiry >12 months, painter not secured, lifeboat engine not starting, on-load release not maintained per MSC.1/Circ.1206 Rev.1, retro-reflective tape degraded.
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/LSA-Code
+
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+
+CHAPTER I GENERAL
+1.1 Definitions: Retro-reflective, Embarkation ladder, SOLAS.
+1.2 General Requirements for LSAs: Must be tested per IMO Res A.689(17) as amended, strength tests, must not be damaged in stowage, must be resistant to seawater, markings: maker, serial, approval, personal appliances marked with vessel name. Retro-reflective tape: 50mm width, 4 patches liferaft, lifejacket 4 patches, lifebuoy 4 strips.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER II PERSONAL LIFE-SAVING APPLIANCES
+2.1 Lifebuoys: 2.5kg mass, outer diameter 800mm inner 400mm, SOLAS lifebuoy, grabline, retro-reflective. 14 required for cargo ships 100-150m, 12 for 100m, passenger ships per length. One per side with smoke and light, half with lights, at least 2 with buoyant line 30m.
+Buoyant smoke signal 15 mins orange, 2kg. Self-igniting light 2cd 2 hours, flashing 50-70 per min.
+2.2 Lifejackets: Buoyancy 150N adult, turning in 5 sec face up, mouth 120mm above water, 43% buoyancy loss test. 3 types: SOLAS adult, child 15-43kg, infant <15kg. Lights: 0.75cd 8 hours, whistle. Inflatable lifejacket allowed with 2 compartments. Required: 100% persons + 10% children if child on board? Actually 100% crew+ passengers plus extra for watch, 100% infant jackets. Plus additional at work stations.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+2.3 Immersion suits: Insulated / non-insulated, 2-hour protection, buoyancy, 10 deg water jump, climb ladder, swim 25m. 3 per cargo ship? Requirement SOLAS III/32: 3 suits + extra for each lifeboat crew member, passenger ships for each watch? Size universal or small/medium/large.
+2.4 Anti-exposure suits: Similar but for rescue boat crew.
+2.5 Thermal Protective Aids TPA: 15% persons in survival craft, aluminized polyethylene, thermal conductance.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER III VISUAL SIGNALS
+3.1 Rocket parachute flares: 300m height, 40,000cd 40 sec, red color. 12 in lifeboat/liferaft.
+3.2 Hand flares: 15,000cd 60 sec.
+3.3 Buoyant smoke signals: 3 min orange, 15 sec after ignition.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER IV SURVIVAL CRAFT
+4.1 General for liferafts: Resists 4.5m drop, 10 jumps, towing 3 knots, float 30 days, boarding from 1.5m.
+4.2 Inflatable liferafts: 6-25 persons standard, up to 150 extended, 2 buoyancy tubes, CO2 inflation, 1 sq m per person, stability water pockets, weight 185kg, boarding ramp, canopy orange, retro-reflective, light 0.75cd inside. Equipment: 4.1.5 list 20+ items: paddles, knife, bailer, sponge, fishing kit, rations 10,000kJ, water 1.5L per person, anti-seasick 6 per person, etc. HRU hydrostatic release 4m.
+Davit-launched inflatable: boarding at deck level.
+4.3 Rigid liferafts: Similar but GRP hull.
+4.4 General lifeboats: 4.5m minimum length? Freeboard 100% loaded, stability 10 degree heel with 50% persons on one side. Self-bailing, engine 6 knots 24h, 20kW fuel, searchlight. Protected enclosure? Totally enclosed, partially enclosed, open.
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+4.6 Totally enclosed: Fire protection 8 min 1400 deg, self-contained air 10 min, capsizing self-righting.
+4.7 Free-fall lifeboats: Launch 1.3x certification height, acceleration limits 6G, positive headway after entry. Free-fall launch slide.
+4.8 Lifeboat equipment: Oars, boat hook, bailer, bucket, survival manual, compass, sea anchor, painter, hatchet, watertight container, jack-knife, whistle, searchlight, radar reflector, thermal aids.
+4.9 General rescue boats: 3.8-8.5m length, 6 persons, 6 knots, 4h endurance, 20 mins towing largest liferaft. Rigid, inflated, fast.
+4.10 Fast rescue boats: >20 knots, 8 persons, inflated collar.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER V RESCUE BOATS
+5.1 Rigid, Inflated, Fast categories. Construction requirements, stability self-righting, engines inboard/outboard.
+
+CHAPTER VI LAUNCHING AND EMBARKATION
+6.1 Launching appliances: Must not depend on means other than gravity or stored power. Strength 2.2x working load, brake holds 1.1x. Winch with dead man handle, limit switches. On-load and off-load release gear - new MSC.81(70) amendments hook safety.
+6.1.6 Lifeboat launching: 10 min to launch 2 boats cargo ship, 30 min passenger ship.
+6.2 Marine evacuation systems MES: Slide + raft, 10 min transfer, 2 independent tracks.
+
+CHAPTER VII OTHER
+7.1 Line-throwing appliance: 230m range, 4 projectiles.
+7.2 General alarm: 7 short + 1 long, visual for noisy spaces, PA system passenger ships.
+
+AMENDMENTS: MSC.207(81) infant jacket, MSC.218(82) free-fall acceleration, MSC.272(85) testing, MSC.320(89) LSA testing amendments, MSC.459(101) lifeboat ventilation 10 min.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+TESTING: MSC.81(70) Revised Recommendation for Testing Life-Saving Appliances: Prototype, production tests, 2 year service inflatables at approved stations.
+
+SOLAS REQUIREMENTS LINK: SOLAS III/7 personal LSAs numbers, III/20 operational readiness weekly inspection, III/21 survival craft embarkation, III/26 additional for Ro-Ro, III/32.
+
+Common PSC issues: Hydrostatic release expiry >12 months, painter not secured, lifeboat engine not starting, on-load release not maintained per MSC.1/Circ.1206 Rev.1, retro-reflective tape degraded.
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/LSA-Code
+
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+
+CHAPTER I GENERAL
+1.1 Definitions: Retro-reflective, Embarkation ladder, SOLAS.
+1.2 General Requirements for LSAs: Must be tested per IMO Res A.689(17) as amended, strength tests, must not be damaged in stowage, must be resistant to seawater, markings: maker, serial, approval, personal appliances marked with vessel name. Retro-reflective tape: 50mm width, 4 patches liferaft, lifejacket 4 patches, lifebuoy 4 strips.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER II PERSONAL LIFE-SAVING APPLIANCES
+2.1 Lifebuoys: 2.5kg mass, outer diameter 800mm inner 400mm, SOLAS lifebuoy, grabline, retro-reflective. 14 required for cargo ships 100-150m, 12 for 100m, passenger ships per length. One per side with smoke and light, half with lights, at least 2 with buoyant line 30m.
+Buoyant smoke signal 15 mins orange, 2kg. Self-igniting light 2cd 2 hours, flashing 50-70 per min.
+2.2 Lifejackets: Buoyancy 150N adult, turning in 5 sec face up, mouth 120mm above water, 43% buoyancy loss test. 3 types: SOLAS adult, child 15-43kg, infant <15kg. Lights: 0.75cd 8 hours, whistle. Inflatable lifejacket allowed with 2 compartments. Required: 100% persons + 10% children if child on board? Actually 100% crew+ passengers plus extra for watch, 100% infant jackets. Plus additional at work stations.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+2.3 Immersion suits: Insulated / non-insulated, 2-hour protection, buoyancy, 10 deg water jump, climb ladder, swim 25m. 3 per cargo ship? Requirement SOLAS III/32: 3 suits + extra for each lifeboat crew member, passenger ships for each watch? Size universal or small/medium/large.
+2.4 Anti-exposure suits: Similar but for rescue boat crew.
+2.5 Thermal Protective Aids TPA: 15% persons in survival craft, aluminized polyethylene, thermal conductance.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER III VISUAL SIGNALS
+3.1 Rocket parachute flares: 300m height, 40,000cd 40 sec, red color. 12 in lifeboat/liferaft.
+3.2 Hand flares: 15,000cd 60 sec.
+3.3 Buoyant smoke signals: 3 min orange, 15 sec after ignition.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER IV SURVIVAL CRAFT
+4.1 General for liferafts: Resists 4.5m drop, 10 jumps, towing 3 knots, float 30 days, boarding from 1.5m.
+4.2 Inflatable liferafts: 6-25 persons standard, up to 150 extended, 2 buoyancy tubes, CO2 inflation, 1 sq m per person, stability water pockets, weight 185kg, boarding ramp, canopy orange, retro-reflective, light 0.75cd inside. Equipment: 4.1.5 list 20+ items: paddles, knife, bailer, sponge, fishing kit, rations 10,000kJ, water 1.5L per person, anti-seasick 6 per person, etc. HRU hydrostatic release 4m.
+Davit-launched inflatable: boarding at deck level.
+4.3 Rigid liferafts: Similar but GRP hull.
+4.4 General lifeboats: 4.5m minimum length? Freeboard 100% loaded, stability 10 degree heel with 50% persons on one side. Self-bailing, engine 6 knots 24h, 20kW fuel, searchlight. Protected enclosure? Totally enclosed, partially enclosed, open.
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+4.6 Totally enclosed: Fire protection 8 min 1400 deg, self-contained air 10 min, capsizing self-righting.
+4.7 Free-fall lifeboats: Launch 1.3x certification height, acceleration limits 6G, positive headway after entry. Free-fall launch slide.
+4.8 Lifeboat equipment: Oars, boat hook, bailer, bucket, survival manual, compass, sea anchor, painter, hatchet, watertight container, jack-knife, whistle, searchlight, radar reflector, thermal aids.
+4.9 General rescue boats: 3.8-8.5m length, 6 persons, 6 knots, 4h endurance, 20 mins towing largest liferaft. Rigid, inflated, fast.
+4.10 Fast rescue boats: >20 knots, 8 persons, inflated collar.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER V RESCUE BOATS
+5.1 Rigid, Inflated, Fast categories. Construction requirements, stability self-righting, engines inboard/outboard.
+
+CHAPTER VI LAUNCHING AND EMBARKATION
+6.1 Launching appliances: Must not depend on means other than gravity or stored power. Strength 2.2x working load, brake holds 1.1x. Winch with dead man handle, limit switches. On-load and off-load release gear - new MSC.81(70) amendments hook safety.
+6.1.6 Lifeboat launching: 10 min to launch 2 boats cargo ship, 30 min passenger ship.
+6.2 Marine evacuation systems MES: Slide + raft, 10 min transfer, 2 independent tracks.
+
+CHAPTER VII OTHER
+7.1 Line-throwing appliance: 230m range, 4 projectiles.
+7.2 General alarm: 7 short + 1 long, visual for noisy spaces, PA system passenger ships.
+
+AMENDMENTS: MSC.207(81) infant jacket, MSC.218(82) free-fall acceleration, MSC.272(85) testing, MSC.320(89) LSA testing amendments, MSC.459(101) lifeboat ventilation 10 min.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+TESTING: MSC.81(70) Revised Recommendation for Testing Life-Saving Appliances: Prototype, production tests, 2 year service inflatables at approved stations.
+
+SOLAS REQUIREMENTS LINK: SOLAS III/7 personal LSAs numbers, III/20 operational readiness weekly inspection, III/21 survival craft embarkation, III/26 additional for Ro-Ro, III/32.
+
+Common PSC issues: Hydrostatic release expiry >12 months, painter not secured, lifeboat engine not starting, on-load release not maintained per MSC.1/Circ.1206 Rev.1, retro-reflective tape degraded.
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/LSA-Code
+
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+
+CHAPTER I GENERAL
+1.1 Definitions: Retro-reflective, Embarkation ladder, SOLAS.
+1.2 General Requirements for LSAs: Must be tested per IMO Res A.689(17) as amended, strength tests, must not be damaged in stowage, must be resistant to seawater, markings: maker, serial, approval, personal appliances marked with vessel name. Retro-reflective tape: 50mm width, 4 patches liferaft, lifejacket 4 patches, lifebuoy 4 strips.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER II PERSONAL LIFE-SAVING APPLIANCES
+2.1 Lifebuoys: 2.5kg mass, outer diameter 800mm inner 400mm, SOLAS lifebuoy, grabline, retro-reflective. 14 required for cargo ships 100-150m, 12 for 100m, passenger ships per length. One per side with smoke and light, half with lights, at least 2 with buoyant line 30m.
+Buoyant smoke signal 15 mins orange, 2kg. Self-igniting light 2cd 2 hours, flashing 50-70 per min.
+2.2 Lifejackets: Buoyancy 150N adult, turning in 5 sec face up, mouth 120mm above water, 43% buoyancy loss test. 3 types: SOLAS adult, child 15-43kg, infant <15kg. Lights: 0.75cd 8 hours, whistle. Inflatable lifejacket allowed with 2 compartments. Required: 100% persons + 10% children if child on board? Actually 100% crew+ passengers plus extra for watch, 100% infant jackets. Plus additional at work stations.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+2.3 Immersion suits: Insulated / non-insulated, 2-hour protection, buoyancy, 10 deg water jump, climb ladder, swim 25m. 3 per cargo ship? Requirement SOLAS III/32: 3 suits + extra for each lifeboat crew member, passenger ships for each watch? Size universal or small/medium/large.
+2.4 Anti-exposure suits: Similar but for rescue boat crew.
+2.5 Thermal Protective Aids TPA: 15% persons in survival craft, aluminized polyethylene, thermal conductance.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER III VISUAL SIGNALS
+3.1 Rocket parachute flares: 300m height, 40,000cd 40 sec, red color. 12 in lifeboat/liferaft.
+3.2 Hand flares: 15,000cd 60 sec.
+3.3 Buoyant smoke signals: 3 min orange, 15 sec after ignition.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER IV SURVIVAL CRAFT
+4.1 General for liferafts: Resists 4.5m drop, 10 jumps, towing 3 knots, float 30 days, boarding from 1.5m.
+4.2 Inflatable liferafts: 6-25 persons standard, up to 150 extended, 2 buoyancy tubes, CO2 inflation, 1 sq m per person, stability water pockets, weight 185kg, boarding ramp, canopy orange, retro-reflective, light 0.75cd inside. Equipment: 4.1.5 list 20+ items: paddles, knife, bailer, sponge, fishing kit, rations 10,000kJ, water 1.5L per person, anti-seasick 6 per person, etc. HRU hydrostatic release 4m.
+Davit-launched inflatable: boarding at deck level.
+4.3 Rigid liferafts: Similar but GRP hull.
+4.4 General lifeboats: 4.5m minimum length? Freeboard 100% loaded, stability 10 degree heel with 50% persons on one side. Self-bailing, engine 6 knots 24h, 20kW fuel, searchlight. Protected enclosure? Totally enclosed, partially enclosed, open.
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+4.6 Totally enclosed: Fire protection 8 min 1400 deg, self-contained air 10 min, capsizing self-righting.
+4.7 Free-fall lifeboats: Launch 1.3x certification height, acceleration limits 6G, positive headway after entry. Free-fall launch slide.
+4.8 Lifeboat equipment: Oars, boat hook, bailer, bucket, survival manual, compass, sea anchor, painter, hatchet, watertight container, jack-knife, whistle, searchlight, radar reflector, thermal aids.
+4.9 General rescue boats: 3.8-8.5m length, 6 persons, 6 knots, 4h endurance, 20 mins towing largest liferaft. Rigid, inflated, fast.
+4.10 Fast rescue boats: >20 knots, 8 persons, inflated collar.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER V RESCUE BOATS
+5.1 Rigid, Inflated, Fast categories. Construction requirements, stability self-righting, engines inboard/outboard.
+
+CHAPTER VI LAUNCHING AND EMBARKATION
+6.1 Launching appliances: Must not depend on means other than gravity or stored power. Strength 2.2x working load, brake holds 1.1x. Winch with dead man handle, limit switches. On-load and off-load release gear - new MSC.81(70) amendments hook safety.
+6.1.6 Lifeboat launching: 10 min to launch 2 boats cargo ship, 30 min passenger ship.
+6.2 Marine evacuation systems MES: Slide + raft, 10 min transfer, 2 independent tracks.
+
+CHAPTER VII OTHER
+7.1 Line-throwing appliance: 230m range, 4 projectiles.
+7.2 General alarm: 7 short + 1 long, visual for noisy spaces, PA system passenger ships.
+
+AMENDMENTS: MSC.207(81) infant jacket, MSC.218(82) free-fall acceleration, MSC.272(85) testing, MSC.320(89) LSA testing amendments, MSC.459(101) lifeboat ventilation 10 min.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+TESTING: MSC.81(70) Revised Recommendation for Testing Life-Saving Appliances: Prototype, production tests, 2 year service inflatables at approved stations.
+
+SOLAS REQUIREMENTS LINK: SOLAS III/7 personal LSAs numbers, III/20 operational readiness weekly inspection, III/21 survival craft embarkation, III/26 additional for Ro-Ro, III/32.
+
+Common PSC issues: Hydrostatic release expiry >12 months, painter not secured, lifeboat engine not starting, on-load release not maintained per MSC.1/Circ.1206 Rev.1, retro-reflective tape degraded.
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/LSA-Code
+
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+
+CHAPTER I GENERAL
+1.1 Definitions: Retro-reflective, Embarkation ladder, SOLAS.
+1.2 General Requirements for LSAs: Must be tested per IMO Res A.689(17) as amended, strength tests, must not be damaged in stowage, must be resistant to seawater, markings: maker, serial, approval, personal appliances marked with vessel name. Retro-reflective tape: 50mm width, 4 patches liferaft, lifejacket 4 patches, lifebuoy 4 strips.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER II PERSONAL LIFE-SAVING APPLIANCES
+2.1 Lifebuoys: 2.5kg mass, outer diameter 800mm inner 400mm, SOLAS lifebuoy, grabline, retro-reflective. 14 required for cargo ships 100-150m, 12 for 100m, passenger ships per length. One per side with smoke and light, half with lights, at least 2 with buoyant line 30m.
+Buoyant smoke signal 15 mins orange, 2kg. Self-igniting light 2cd 2 hours, flashing 50-70 per min.
+2.2 Lifejackets: Buoyancy 150N adult, turning in 5 sec face up, mouth 120mm above water, 43% buoyancy loss test. 3 types: SOLAS adult, child 15-43kg, infant <15kg. Lights: 0.75cd 8 hours, whistle. Inflatable lifejacket allowed with 2 compartments. Required: 100% persons + 10% children if child on board? Actually 100% crew+ passengers plus extra for watch, 100% infant jackets. Plus additional at work stations.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+2.3 Immersion suits: Insulated / non-insulated, 2-hour protection, buoyancy, 10 deg water jump, climb ladder, swim 25m. 3 per cargo ship? Requirement SOLAS III/32: 3 suits + extra for each lifeboat crew member, passenger ships for each watch? Size universal or small/medium/large.
+2.4 Anti-exposure suits: Similar but for rescue boat crew.
+2.5 Thermal Protective Aids TPA: 15% persons in survival craft, aluminized polyethylene, thermal conductance.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER III VISUAL SIGNALS
+3.1 Rocket parachute flares: 300m height, 40,000cd 40 sec, red color. 12 in lifeboat/liferaft.
+3.2 Hand flares: 15,000cd 60 sec.
+3.3 Buoyant smoke signals: 3 min orange, 15 sec after ignition.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER IV SURVIVAL CRAFT
+4.1 General for liferafts: Resists 4.5m drop, 10 jumps, towing 3 knots, float 30 days, boarding from 1.5m.
+4.2 Inflatable liferafts: 6-25 persons standard, up to 150 extended, 2 buoyancy tubes, CO2 inflation, 1 sq m per person, stability water pockets, weight 185kg, boarding ramp, canopy orange, retro-reflective, light 0.75cd inside. Equipment: 4.1.5 list 20+ items: paddles, knife, bailer, sponge, fishing kit, rations 10,000kJ, water 1.5L per person, anti-seasick 6 per person, etc. HRU hydrostatic release 4m.
+Davit-launched inflatable: boarding at deck level.
+4.3 Rigid liferafts: Similar but GRP hull.
+4.4 General lifeboats: 4.5m minimum length? Freeboard 100% loaded, stability 10 degree heel with 50% persons on one side. Self-bailing, engine 6 knots 24h, 20kW fuel, searchlight. Protected enclosure? Totally enclosed, partially enclosed, open.
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+4.6 Totally enclosed: Fire protection 8 min 1400 deg, self-contained air 10 min, capsizing self-righting.
+4.7 Free-fall lifeboats: Launch 1.3x certification height, acceleration limits 6G, positive headway after entry. Free-fall launch slide.
+4.8 Lifeboat equipment: Oars, boat hook, bailer, bucket, survival manual, compass, sea anchor, painter, hatchet, watertight container, jack-knife, whistle, searchlight, radar reflector, thermal aids.
+4.9 General rescue boats: 3.8-8.5m length, 6 persons, 6 knots, 4h endurance, 20 mins towing largest liferaft. Rigid, inflated, fast.
+4.10 Fast rescue boats: >20 knots, 8 persons, inflated collar.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER V RESCUE BOATS
+5.1 Rigid, Inflated, Fast categories. Construction requirements, stability self-righting, engines inboard/outboard.
+
+CHAPTER VI LAUNCHING AND EMBARKATION
+6.1 Launching appliances: Must not depend on means other than gravity or stored power. Strength 2.2x working load, brake holds 1.1x. Winch with dead man handle, limit switches. On-load and off-load release gear - new MSC.81(70) amendments hook safety.
+6.1.6 Lifeboat launching: 10 min to launch 2 boats cargo ship, 30 min passenger ship.
+6.2 Marine evacuation systems MES: Slide + raft, 10 min transfer, 2 independent tracks.
+
+CHAPTER VII OTHER
+7.1 Line-throwing appliance: 230m range, 4 projectiles.
+7.2 General alarm: 7 short + 1 long, visual for noisy spaces, PA system passenger ships.
+
+AMENDMENTS: MSC.207(81) infant jacket, MSC.218(82) free-fall acceleration, MSC.272(85) testing, MSC.320(89) LSA testing amendments, MSC.459(101) lifeboat ventilation 10 min.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+TESTING: MSC.81(70) Revised Recommendation for Testing Life-Saving Appliances: Prototype, production tests, 2 year service inflatables at approved stations.
+
+SOLAS REQUIREMENTS LINK: SOLAS III/7 personal LSAs numbers, III/20 operational readiness weekly inspection, III/21 survival craft embarkation, III/26 additional for Ro-Ro, III/32.
+
+Common PSC issues: Hydrostatic release expiry >12 months, painter not secured, lifeboat engine not starting, on-load release not maintained per MSC.1/Circ.1206 Rev.1, retro-reflective tape degraded.
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: https://www.imo.org/en/OurWork/Safety/LSA-Code
+
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+LSA CODE - International Life-Saving Appliance Code - MSC.48(66) as amended up to MSC.459(101) - Mandatory under SOLAS Chapter III
+
+CHAPTER I GENERAL
+1.1 Definitions: Retro-reflective, Embarkation ladder, SOLAS.
+1.2 General Requirements for LSAs: Must be tested per IMO Res A.689(17) as amended, strength tests, must not be damaged in stowage, must be resistant to seawater, markings: maker, serial, approval, personal appliances marked with vessel name. Retro-reflective tape: 50mm width, 4 patches liferaft, lifejacket 4 patches, lifebuoy 4 strips.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER II PERSONAL LIFE-SAVING APPLIANCES
+2.1 Lifebuoys: 2.5kg mass, outer diameter 800mm inner 400mm, SOLAS lifebuoy, grabline, retro-reflective. 14 required for cargo ships 100-150m, 12 for 100m, passenger ships per length. One per side with smoke and light, half with lights, at least 2 with buoyant line 30m.
+Buoyant smoke signal 15 mins orange, 2kg. Self-igniting light 2cd 2 hours, flashing 50-70 per min.
+2.2 Lifejackets: Buoyancy 150N adult, turning in 5 sec face up, mouth 120mm above water, 43% buoyancy loss test. 3 types: SOLAS adult, child 15-43kg, infant <15kg. Lights: 0.75cd 8 hours, whistle. Inflatable lifejacket allowed with 2 compartments. Required: 100% persons + 10% children if child on board? Actually 100% crew+ passengers plus extra for watch, 100% infant jackets. Plus additional at work stations.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+2.3 Immersion suits: Insulated / non-insulated, 2-hour protection, buoyancy, 10 deg water jump, climb ladder, swim 25m. 3 per cargo ship? Requirement SOLAS III/32: 3 suits + extra for each lifeboat crew member, passenger ships for each watch? Size universal or small/medium/large.
+2.4 Anti-exposure suits: Similar but for rescue boat crew.
+2.5 Thermal Protective Aids TPA: 15% persons in survival craft, aluminized polyethylene, thermal conductance.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER III VISUAL SIGNALS
+3.1 Rocket parachute flares: 300m height, 40,000cd 40 sec, red color. 12 in lifeboat/liferaft.
+3.2 Hand flares: 15,000cd 60 sec.
+3.3 Buoyant smoke signals: 3 min orange, 15 sec after ignition.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER IV SURVIVAL CRAFT
+4.1 General for liferafts: Resists 4.5m drop, 10 jumps, towing 3 knots, float 30 days, boarding from 1.5m.
+4.2 Inflatable liferafts: 6-25 persons standard, up to 150 extended, 2 buoyancy tubes, CO2 inflation, 1 sq m per person, stability water pockets, weight 185kg, boarding ramp, canopy orange, retro-reflective, light 0.75cd inside. Equipment: 4.1.5 list 20+ items: paddles, knife, bailer, sponge, fishing kit, rations 10,000kJ, water 1.5L per person, anti-seasick 6 per person, etc. HRU hydrostatic release 4m.
+Davit-launched inflatable: boarding at deck level.
+4.3 Rigid liferafts: Similar but GRP hull.
+4.4 General lifeboats: 4.5m minimum length? Freeboard 100% loaded, stability 10 degree heel with 50% persons on one side. Self-bailing, engine 6 knots 24h, 20kW fuel, searchlight. Protected enclosure? Totally enclosed, partially enclosed, open.
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+4.5 Partially enclosed: 33% enclosed aft and forward, canopy.
+4.6 Totally enclosed: Fire protection 8 min 1400 deg, self-contained air 10 min, capsizing self-righting.
+4.7 Free-fall lifeboats: Launch 1.3x certification height, acceleration limits 6G, positive headway after entry. Free-fall launch slide.
+4.8 Lifeboat equipment: Oars, boat hook, bailer, bucket, survival manual, compass, sea anchor, painter, hatchet, watertight container, jack-knife, whistle, searchlight, radar reflector, thermal aids.
+4.9 General rescue boats: 3.8-8.5m length, 6 persons, 6 knots, 4h endurance, 20 mins towing largest liferaft. Rigid, inflated, fast.
+4.10 Fast rescue boats: >20 knots, 8 persons, inflated collar.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+CHAPTER V RESCUE BOATS
+5.1 Rigid, Inflated, Fast categories. Construction requirements, stability self-righting, engines inboard/outboard.
+
+CHAPTER VI LAUNCHING AND EMBARKATION
+6.1 Launching appliances: Must not depend on means other than gravity or stored power. Strength 2.2x working load, brake holds 1.1x. Winch with dead man handle, limit switches. On-load and off-load release gear - new MSC.81(70) amendments hook safety.
+6.1.6 Lifeboat launching: 10 min to launch 2 boats cargo ship, 30 min passenger ship.
+6.2 Marine evacuation systems MES: Slide + raft, 10 min transfer, 2 independent tracks.
+
+CHAPTER VII OTHER
+7.1 Line-throwing appliance: 230m range, 4 projectiles.
+7.2 General alarm: 7 short + 1 long, visual for noisy spaces, PA system passenger ships.
+
+AMENDMENTS: MSC.207(81) infant jacket, MSC.218(82) free-fall acceleration, MSC.272(85) testing, MSC.320(89) LSA testing amendments, MSC.459(101) lifeboat ventilation 10 min.
+---
+
+SOURCE: LSA-Code-Detailed-Summary-2024.txt
+URL: IMO LSA Code MSC.48(66)
+TESTING: MSC.81(70) Revised Recommendation for Testing Life-Saving Appliances: Prototype, production tests, 2 year service inflatables at approved stations.
+
+SOLAS REQUIREMENTS LINK: SOLAS III/7 personal LSAs numbers, III/20 operational readiness weekly inspection, III/21 survival craft embarkation, III/26 additional for Ro-Ro, III/32.
+
+Common PSC issues: Hydrostatic release expiry >12 months, painter not secured, lifeboat engine not starting, on-load release not maintained per MSC.1/Circ.1206 Rev.1, retro-reflective tape degraded.
+---
