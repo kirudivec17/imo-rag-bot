@@ -1,0 +1,343 @@
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+IAMSAR VOLUME I II III + GMDSS DETAILED
+
+IAMSAR: 3 Volumes. Vol I Organization & Management - MRCC, JRCC, SRR. Vol II Mission Co-ordination - SMC, OSC, ACO. Vol III Mobile Facilities - On board.
+
+SEARCH PATTERNS: 5 patterns: 1. Expanding Square Search ESS - for datum point accurate within small area, leg spacing = visibility. 2. Sector Search - datum point accurate, 120 deg sectors. 3. Parallel Track PS - large area uniform coverage, spacing 2-5 miles. 4. Creeping Line Search CLS - small area probability high along track. 5. Barrier search? Actually Coordinated search? Track spacing formula: S = V x T? No search area A = track spacing x search length.
+
+DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+
+OSC DUTIES: 16 duties - Coordinate search, maintain plot, make SITREP.
+
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+
+GMDSS EQUIPMENT per sea area: A1: VHF DSC + VHF CH16 + NAVTEX + EPIRB + SART + 2 VHF handheld + GPS. A2 adds MF DSC. A3 adds Inmarsat C or F77 or MF/HF DSC. A4 adds MF/HF DSC + Inmarsat? Actually A4 requires MF/HF.
+
+EPIRB: 406MHz Cospas Sarsat + 121.5 homing. Float free HRU 4m depth auto release. Battery 48 hours, tested monthly self-test, annual shore test. Registration with MMSI. Types: Cat I auto float free, Cat II manual. New MEOSAR Galileo Return Link.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+SART: 9GHz X-band radar transponder, 12 dots on radar 1 mile per dot? Actually 12 dots range 8nm, battery 96h standby 8h active. AIS-SART - 8 messages per minute, ID 970XXXX.
+
+NAVTEX: 518kHz international English, 490kHz national, 4209.5kHz HF. Message types A-Z: A nav warning, B met warning, C ice, D SAR, E met forecast, F pilot, G decca? Actually G Loran, H GPS, J Satnav, K other navaids, L Nav warning additional, etc. 4 types mandatory A B D L cannot be rejected.
+
+DSC DISTRESS: Mayday format: MMSI, position 10 digits, time UTC, nature 10 types - fire, flooding, collision, grounding, listing, sinking, disabled adrift, abandoning, piracy, man overboard, EPIRB emission. Frequency: VHF CH70 156.525, MF 2187.5, HF 4207.5 6312 8414.5 12577 16804.5.
+
+INMARSAT C: LES, EGC SafetyNET.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+INMARSAT C: LES, EGC SafetyNET.
+
+MAINTENANCE METHODS SOLAS IV/15: 3 methods: Duplication (2 of each), Shore-based, At-sea (qualified maintainer). For A3 A4 2 methods, A1 A2 1 method.
+
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+
+EXAM: GMDSS areas, SART 12 dots 8nm, EPIRB 406MHz, NAVTEX mandatory A B D L, search patterns 5 types, DSC frequencies.
+
+SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+IAMSAR VOLUME I II III + GMDSS DETAILED
+
+IAMSAR: 3 Volumes. Vol I Organization & Management - MRCC, JRCC, SRR. Vol II Mission Co-ordination - SMC, OSC, ACO. Vol III Mobile Facilities - On board.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+SEARCH PATTERNS: 5 patterns: 1. Expanding Square Search ESS - for datum point accurate within small area, leg spacing = visibility. 2. Sector Search - datum point accurate, 120 deg sectors. 3. Parallel Track PS - large area uniform coverage, spacing 2-5 miles. 4. Creeping Line Search CLS - small area probability high along track. 5. Barrier search? Actually Coordinated search? Track spacing formula: S = V x T? No search area A = track spacing x search length.
+
+DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+
+OSC DUTIES: 16 duties - Coordinate search, maintain plot, make SITREP.
+
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+
+GMDSS EQUIPMENT per sea area: A1: VHF DSC + VHF CH16 + NAVTEX + EPIRB + SART + 2 VHF handheld + GPS. A2 adds MF DSC. A3 adds Inmarsat C or F77 or MF/HF DSC. A4 adds MF/HF DSC + Inmarsat? Actually A4 requires MF/HF.
+
+EPIRB: 406MHz Cospas Sarsat + 121.5 homing. Float free HRU 4m depth auto release. Battery 48 hours, tested monthly self-test, annual shore test. Registration with MMSI. Types: Cat I auto float free, Cat II manual. New MEOSAR Galileo Return Link.
+
+SART: 9GHz X-band radar transponder, 12 dots on radar 1 mile per dot? Actually 12 dots range 8nm, battery 96h standby 8h active. AIS-SART - 8 messages per minute, ID 970XXXX.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+NAVTEX: 518kHz international English, 490kHz national, 4209.5kHz HF. Message types A-Z: A nav warning, B met warning, C ice, D SAR, E met forecast, F pilot, G decca? Actually G Loran, H GPS, J Satnav, K other navaids, L Nav warning additional, etc. 4 types mandatory A B D L cannot be rejected.
+
+DSC DISTRESS: Mayday format: MMSI, position 10 digits, time UTC, nature 10 types - fire, flooding, collision, grounding, listing, sinking, disabled adrift, abandoning, piracy, man overboard, EPIRB emission. Frequency: VHF CH70 156.525, MF 2187.5, HF 4207.5 6312 8414.5 12577 16804.5.
+
+INMARSAT C: LES, EGC SafetyNET.
+
+MAINTENANCE METHODS SOLAS IV/15: 3 methods: Duplication (2 of each), Shore-based, At-sea (qualified maintainer). For A3 A4 2 methods, A1 A2 1 method.
+
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+
+EXAM: GMDSS areas, SART 12 dots 8nm, EPIRB 406MHz, NAVTEX mandatory A B D L, search patterns 5 types, DSC frequencies.
+
+SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+IAMSAR VOLUME I II III + GMDSS DETAILED
+
+IAMSAR: 3 Volumes. Vol I Organization & Management - MRCC, JRCC, SRR. Vol II Mission Co-ordination - SMC, OSC, ACO. Vol III Mobile Facilities - On board.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+SEARCH PATTERNS: 5 patterns: 1. Expanding Square Search ESS - for datum point accurate within small area, leg spacing = visibility. 2. Sector Search - datum point accurate, 120 deg sectors. 3. Parallel Track PS - large area uniform coverage, spacing 2-5 miles. 4. Creeping Line Search CLS - small area probability high along track. 5. Barrier search? Actually Coordinated search? Track spacing formula: S = V x T? No search area A = track spacing x search length.
+
+DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+
+OSC DUTIES: 16 duties - Coordinate search, maintain plot, make SITREP.
+
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+
+GMDSS EQUIPMENT per sea area: A1: VHF DSC + VHF CH16 + NAVTEX + EPIRB + SART + 2 VHF handheld + GPS. A2 adds MF DSC. A3 adds Inmarsat C or F77 or MF/HF DSC. A4 adds MF/HF DSC + Inmarsat? Actually A4 requires MF/HF.
+
+EPIRB: 406MHz Cospas Sarsat + 121.5 homing. Float free HRU 4m depth auto release. Battery 48 hours, tested monthly self-test, annual shore test. Registration with MMSI. Types: Cat I auto float free, Cat II manual. New MEOSAR Galileo Return Link.
+
+SART: 9GHz X-band radar transponder, 12 dots on radar 1 mile per dot? Actually 12 dots range 8nm, battery 96h standby 8h active. AIS-SART - 8 messages per minute, ID 970XXXX.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+NAVTEX: 518kHz international English, 490kHz national, 4209.5kHz HF. Message types A-Z: A nav warning, B met warning, C ice, D SAR, E met forecast, F pilot, G decca? Actually G Loran, H GPS, J Satnav, K other navaids, L Nav warning additional, etc. 4 types mandatory A B D L cannot be rejected.
+
+DSC DISTRESS: Mayday format: MMSI, position 10 digits, time UTC, nature 10 types - fire, flooding, collision, grounding, listing, sinking, disabled adrift, abandoning, piracy, man overboard, EPIRB emission. Frequency: VHF CH70 156.525, MF 2187.5, HF 4207.5 6312 8414.5 12577 16804.5.
+
+INMARSAT C: LES, EGC SafetyNET.
+
+MAINTENANCE METHODS SOLAS IV/15: 3 methods: Duplication (2 of each), Shore-based, At-sea (qualified maintainer). For A3 A4 2 methods, A1 A2 1 method.
+
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+
+EXAM: GMDSS areas, SART 12 dots 8nm, EPIRB 406MHz, NAVTEX mandatory A B D L, search patterns 5 types, DSC frequencies.
+
+SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+IAMSAR VOLUME I II III + GMDSS DETAILED
+
+IAMSAR: 3 Volumes. Vol I Organization & Management - MRCC, JRCC, SRR. Vol II Mission Co-ordination - SMC, OSC, ACO. Vol III Mobile Facilities - On board.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+SEARCH PATTERNS: 5 patterns: 1. Expanding Square Search ESS - for datum point accurate within small area, leg spacing = visibility. 2. Sector Search - datum point accurate, 120 deg sectors. 3. Parallel Track PS - large area uniform coverage, spacing 2-5 miles. 4. Creeping Line Search CLS - small area probability high along track. 5. Barrier search? Actually Coordinated search? Track spacing formula: S = V x T? No search area A = track spacing x search length.
+
+DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+
+OSC DUTIES: 16 duties - Coordinate search, maintain plot, make SITREP.
+
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+
+GMDSS EQUIPMENT per sea area: A1: VHF DSC + VHF CH16 + NAVTEX + EPIRB + SART + 2 VHF handheld + GPS. A2 adds MF DSC. A3 adds Inmarsat C or F77 or MF/HF DSC. A4 adds MF/HF DSC + Inmarsat? Actually A4 requires MF/HF.
+
+EPIRB: 406MHz Cospas Sarsat + 121.5 homing. Float free HRU 4m depth auto release. Battery 48 hours, tested monthly self-test, annual shore test. Registration with MMSI. Types: Cat I auto float free, Cat II manual. New MEOSAR Galileo Return Link.
+
+SART: 9GHz X-band radar transponder, 12 dots on radar 1 mile per dot? Actually 12 dots range 8nm, battery 96h standby 8h active. AIS-SART - 8 messages per minute, ID 970XXXX.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+NAVTEX: 518kHz international English, 490kHz national, 4209.5kHz HF. Message types A-Z: A nav warning, B met warning, C ice, D SAR, E met forecast, F pilot, G decca? Actually G Loran, H GPS, J Satnav, K other navaids, L Nav warning additional, etc. 4 types mandatory A B D L cannot be rejected.
+
+DSC DISTRESS: Mayday format: MMSI, position 10 digits, time UTC, nature 10 types - fire, flooding, collision, grounding, listing, sinking, disabled adrift, abandoning, piracy, man overboard, EPIRB emission. Frequency: VHF CH70 156.525, MF 2187.5, HF 4207.5 6312 8414.5 12577 16804.5.
+
+INMARSAT C: LES, EGC SafetyNET.
+
+MAINTENANCE METHODS SOLAS IV/15: 3 methods: Duplication (2 of each), Shore-based, At-sea (qualified maintainer). For A3 A4 2 methods, A1 A2 1 method.
+
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+
+EXAM: GMDSS areas, SART 12 dots 8nm, EPIRB 406MHz, NAVTEX mandatory A B D L, search patterns 5 types, DSC frequencies.
+
+SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+IAMSAR VOLUME I II III + GMDSS DETAILED
+
+IAMSAR: 3 Volumes. Vol I Organization & Management - MRCC, JRCC, SRR. Vol II Mission Co-ordination - SMC, OSC, ACO. Vol III Mobile Facilities - On board.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+SEARCH PATTERNS: 5 patterns: 1. Expanding Square Search ESS - for datum point accurate within small area, leg spacing = visibility. 2. Sector Search - datum point accurate, 120 deg sectors. 3. Parallel Track PS - large area uniform coverage, spacing 2-5 miles. 4. Creeping Line Search CLS - small area probability high along track. 5. Barrier search? Actually Coordinated search? Track spacing formula: S = V x T? No search area A = track spacing x search length.
+
+DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+
+OSC DUTIES: 16 duties - Coordinate search, maintain plot, make SITREP.
+
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+
+GMDSS EQUIPMENT per sea area: A1: VHF DSC + VHF CH16 + NAVTEX + EPIRB + SART + 2 VHF handheld + GPS. A2 adds MF DSC. A3 adds Inmarsat C or F77 or MF/HF DSC. A4 adds MF/HF DSC + Inmarsat? Actually A4 requires MF/HF.
+
+EPIRB: 406MHz Cospas Sarsat + 121.5 homing. Float free HRU 4m depth auto release. Battery 48 hours, tested monthly self-test, annual shore test. Registration with MMSI. Types: Cat I auto float free, Cat II manual. New MEOSAR Galileo Return Link.
+
+SART: 9GHz X-band radar transponder, 12 dots on radar 1 mile per dot? Actually 12 dots range 8nm, battery 96h standby 8h active. AIS-SART - 8 messages per minute, ID 970XXXX.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+NAVTEX: 518kHz international English, 490kHz national, 4209.5kHz HF. Message types A-Z: A nav warning, B met warning, C ice, D SAR, E met forecast, F pilot, G decca? Actually G Loran, H GPS, J Satnav, K other navaids, L Nav warning additional, etc. 4 types mandatory A B D L cannot be rejected.
+
+DSC DISTRESS: Mayday format: MMSI, position 10 digits, time UTC, nature 10 types - fire, flooding, collision, grounding, listing, sinking, disabled adrift, abandoning, piracy, man overboard, EPIRB emission. Frequency: VHF CH70 156.525, MF 2187.5, HF 4207.5 6312 8414.5 12577 16804.5.
+
+INMARSAT C: LES, EGC SafetyNET.
+
+MAINTENANCE METHODS SOLAS IV/15: 3 methods: Duplication (2 of each), Shore-based, At-sea (qualified maintainer). For A3 A4 2 methods, A1 A2 1 method.
+
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+
+EXAM: GMDSS areas, SART 12 dots 8nm, EPIRB 406MHz, NAVTEX mandatory A B D L, search patterns 5 types, DSC frequencies.
+
+SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+IAMSAR VOLUME I II III + GMDSS DETAILED
+
+IAMSAR: 3 Volumes. Vol I Organization & Management - MRCC, JRCC, SRR. Vol II Mission Co-ordination - SMC, OSC, ACO. Vol III Mobile Facilities - On board.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+SEARCH PATTERNS: 5 patterns: 1. Expanding Square Search ESS - for datum point accurate within small area, leg spacing = visibility. 2. Sector Search - datum point accurate, 120 deg sectors. 3. Parallel Track PS - large area uniform coverage, spacing 2-5 miles. 4. Creeping Line Search CLS - small area probability high along track. 5. Barrier search? Actually Coordinated search? Track spacing formula: S = V x T? No search area A = track spacing x search length.
+
+DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+
+OSC DUTIES: 16 duties - Coordinate search, maintain plot, make SITREP.
+
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+
+GMDSS EQUIPMENT per sea area: A1: VHF DSC + VHF CH16 + NAVTEX + EPIRB + SART + 2 VHF handheld + GPS. A2 adds MF DSC. A3 adds Inmarsat C or F77 or MF/HF DSC. A4 adds MF/HF DSC + Inmarsat? Actually A4 requires MF/HF.
+
+EPIRB: 406MHz Cospas Sarsat + 121.5 homing. Float free HRU 4m depth auto release. Battery 48 hours, tested monthly self-test, annual shore test. Registration with MMSI. Types: Cat I auto float free, Cat II manual. New MEOSAR Galileo Return Link.
+
+SART: 9GHz X-band radar transponder, 12 dots on radar 1 mile per dot? Actually 12 dots range 8nm, battery 96h standby 8h active. AIS-SART - 8 messages per minute, ID 970XXXX.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+NAVTEX: 518kHz international English, 490kHz national, 4209.5kHz HF. Message types A-Z: A nav warning, B met warning, C ice, D SAR, E met forecast, F pilot, G decca? Actually G Loran, H GPS, J Satnav, K other navaids, L Nav warning additional, etc. 4 types mandatory A B D L cannot be rejected.
+
+DSC DISTRESS: Mayday format: MMSI, position 10 digits, time UTC, nature 10 types - fire, flooding, collision, grounding, listing, sinking, disabled adrift, abandoning, piracy, man overboard, EPIRB emission. Frequency: VHF CH70 156.525, MF 2187.5, HF 4207.5 6312 8414.5 12577 16804.5.
+
+INMARSAT C: LES, EGC SafetyNET.
+
+MAINTENANCE METHODS SOLAS IV/15: 3 methods: Duplication (2 of each), Shore-based, At-sea (qualified maintainer). For A3 A4 2 methods, A1 A2 1 method.
+
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+
+EXAM: GMDSS areas, SART 12 dots 8nm, EPIRB 406MHz, NAVTEX mandatory A B D L, search patterns 5 types, DSC frequencies.
+
+SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+IAMSAR VOLUME I II III + GMDSS DETAILED
+
+IAMSAR: 3 Volumes. Vol I Organization & Management - MRCC, JRCC, SRR. Vol II Mission Co-ordination - SMC, OSC, ACO. Vol III Mobile Facilities - On board.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+SEARCH PATTERNS: 5 patterns: 1. Expanding Square Search ESS - for datum point accurate within small area, leg spacing = visibility. 2. Sector Search - datum point accurate, 120 deg sectors. 3. Parallel Track PS - large area uniform coverage, spacing 2-5 miles. 4. Creeping Line Search CLS - small area probability high along track. 5. Barrier search? Actually Coordinated search? Track spacing formula: S = V x T? No search area A = track spacing x search length.
+
+DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+
+OSC DUTIES: 16 duties - Coordinate search, maintain plot, make SITREP.
+
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+
+GMDSS EQUIPMENT per sea area: A1: VHF DSC + VHF CH16 + NAVTEX + EPIRB + SART + 2 VHF handheld + GPS. A2 adds MF DSC. A3 adds Inmarsat C or F77 or MF/HF DSC. A4 adds MF/HF DSC + Inmarsat? Actually A4 requires MF/HF.
+
+EPIRB: 406MHz Cospas Sarsat + 121.5 homing. Float free HRU 4m depth auto release. Battery 48 hours, tested monthly self-test, annual shore test. Registration with MMSI. Types: Cat I auto float free, Cat II manual. New MEOSAR Galileo Return Link.
+
+SART: 9GHz X-band radar transponder, 12 dots on radar 1 mile per dot? Actually 12 dots range 8nm, battery 96h standby 8h active. AIS-SART - 8 messages per minute, ID 970XXXX.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+NAVTEX: 518kHz international English, 490kHz national, 4209.5kHz HF. Message types A-Z: A nav warning, B met warning, C ice, D SAR, E met forecast, F pilot, G decca? Actually G Loran, H GPS, J Satnav, K other navaids, L Nav warning additional, etc. 4 types mandatory A B D L cannot be rejected.
+
+DSC DISTRESS: Mayday format: MMSI, position 10 digits, time UTC, nature 10 types - fire, flooding, collision, grounding, listing, sinking, disabled adrift, abandoning, piracy, man overboard, EPIRB emission. Frequency: VHF CH70 156.525, MF 2187.5, HF 4207.5 6312 8414.5 12577 16804.5.
+
+INMARSAT C: LES, EGC SafetyNET.
+
+MAINTENANCE METHODS SOLAS IV/15: 3 methods: Duplication (2 of each), Shore-based, At-sea (qualified maintainer). For A3 A4 2 methods, A1 A2 1 method.
+
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+
+EXAM: GMDSS areas, SART 12 dots 8nm, EPIRB 406MHz, NAVTEX mandatory A B D L, search patterns 5 types, DSC frequencies.
+
+SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+IAMSAR VOLUME I II III + GMDSS DETAILED
+
+IAMSAR: 3 Volumes. Vol I Organization & Management - MRCC, JRCC, SRR. Vol II Mission Co-ordination - SMC, OSC, ACO. Vol III Mobile Facilities - On board.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+SEARCH PATTERNS: 5 patterns: 1. Expanding Square Search ESS - for datum point accurate within small area, leg spacing = visibility. 2. Sector Search - datum point accurate, 120 deg sectors. 3. Parallel Track PS - large area uniform coverage, spacing 2-5 miles. 4. Creeping Line Search CLS - small area probability high along track. 5. Barrier search? Actually Coordinated search? Track spacing formula: S = V x T? No search area A = track spacing x search length.
+
+DATUM: Last known position + drift - wind current 2 vectors. Drift error 12%? Actually drift velocity = total water current + leeway. Leeway tables.
+
+OSC DUTIES: 16 duties - Coordinate search, maintain plot, make SITREP.
+
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+GMDSS AREAS: A1 VHF DSC 20-30 miles, A2 MF DSC 150 miles, A3 Inmarsat 70N to 70S, A4 outside A1 A2 A3 - HF.
+
+GMDSS EQUIPMENT per sea area: A1: VHF DSC + VHF CH16 + NAVTEX + EPIRB + SART + 2 VHF handheld + GPS. A2 adds MF DSC. A3 adds Inmarsat C or F77 or MF/HF DSC. A4 adds MF/HF DSC + Inmarsat? Actually A4 requires MF/HF.
+
+EPIRB: 406MHz Cospas Sarsat + 121.5 homing. Float free HRU 4m depth auto release. Battery 48 hours, tested monthly self-test, annual shore test. Registration with MMSI. Types: Cat I auto float free, Cat II manual. New MEOSAR Galileo Return Link.
+
+SART: 9GHz X-band radar transponder, 12 dots on radar 1 mile per dot? Actually 12 dots range 8nm, battery 96h standby 8h active. AIS-SART - 8 messages per minute, ID 970XXXX.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+NAVTEX: 518kHz international English, 490kHz national, 4209.5kHz HF. Message types A-Z: A nav warning, B met warning, C ice, D SAR, E met forecast, F pilot, G decca? Actually G Loran, H GPS, J Satnav, K other navaids, L Nav warning additional, etc. 4 types mandatory A B D L cannot be rejected.
+
+DSC DISTRESS: Mayday format: MMSI, position 10 digits, time UTC, nature 10 types - fire, flooding, collision, grounding, listing, sinking, disabled adrift, abandoning, piracy, man overboard, EPIRB emission. Frequency: VHF CH70 156.525, MF 2187.5, HF 4207.5 6312 8414.5 12577 16804.5.
+
+INMARSAT C: LES, EGC SafetyNET.
+
+MAINTENANCE METHODS SOLAS IV/15: 3 methods: Duplication (2 of each), Shore-based, At-sea (qualified maintainer). For A3 A4 2 methods, A1 A2 1 method.
+
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+---
+
+SOURCE: SOURCE: IAMSAR-GMDSS-EPIRB-SART-ULTRA-DEEP.txt
+PSC: EPIRB HRU expired, SART battery expired, NAVTEX paper out, GMDSS log not filled, reserve battery <1h.
+
+EXAM: GMDSS areas, SART 12 dots 8nm, EPIRB 406MHz, NAVTEX mandatory A B D L, search patterns 5 types, DSC frequencies.
+---

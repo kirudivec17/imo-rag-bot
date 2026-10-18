@@ -1,0 +1,213 @@
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+MAIN ENGINE DEEP - 2 Stroke ME/MC, 4 Stroke Aux
+
+ME SYSTEM: MAN B&W ME-C Electronic, RT-flex Common Rail. Components: Cylinder liner, piston crown, piston skirt, piston rod, crosshead, connecting rod, crankshaft, main bearing, crosshead bearing. Fuel injection: Fuel pump, fuel valve, VIT, injector timing. Scavenging: Uniflow. Turbocharging: T/C compressor, diffuser, nozzle ring.
+
+STARTING AIR: 30 bar, min 12 starts for reversible, 6 for non-reversible per SOLAS. Air bottle 2 minimum, auto start 1 bottle isolated. Starting sequence: Turning gear disengaged, LOP, fuel handle zero, indicator cocks close, start air distributor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+LUB OIL: System LO sump 60% volume, pump, filter auto backwash 6 micron, FO purifier? Actually LO purifier, cooler 45-50C inlet. BN check. Cylinder LO - MELO feed rate 0.6-1.2 g/kWh, ALPHA lubricator. Scavenge fire - causes: blowby, over lubrication, alarm 250C scavenge temp high.
+
+COOLING: FW system LT 36-45C, HT 75-85C. Jacket water treatment NITRITE 1500-2000ppm, chloride <50ppm. Expansion tank low alarm.
+
+FUEL: HFO 180cSt at 50C, heated to 120-140C for injection viscosity 12-16cSt. Purifier: Bowl speed 7200rpm, gravity disc selection based on SG. Chart: SG 0.90 disc 74mm, 0.92 disc 76mm. FO system: settling tank 70C, service tank 80C, mixing tank, filter duplex 25 micron, viscosity controller Viscor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+STEERING GEAR: Reg SOLAS V/26: 2 power units, one failure other works. Requirements: 35 to 35 deg 28 sec with one unit at max draft 50% speed, 35 to 30 deg 28 sec with both? Actually 35 to 30 in 28 sec? Full spec: From 35 one side to 30 other side in 28 sec. Overload alarm 1.5x motor load, low LO, hydraulic lock, phase failure, emergency power from ESB within 45 sec. Rudder carrier, ram 2/4, Rapson slide, telemotor hydraulic + electric. IMO test every 3 months emergency steering drill, logbook.
+
+PURIFIER: Alfa Laval MAPX, S-map. Operation: Bowl assembly, paring disc, gravity disc, e-bowl, sludge discharge 4 hours interval, water seal 2 liters. LO purifier as clarifier without water. Alarms: High sludge, low seal water, vibration.
+
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+
+SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+MAIN ENGINE DEEP - 2 Stroke ME/MC, 4 Stroke Aux
+
+ME SYSTEM: MAN B&W ME-C Electronic, RT-flex Common Rail. Components: Cylinder liner, piston crown, piston skirt, piston rod, crosshead, connecting rod, crankshaft, main bearing, crosshead bearing. Fuel injection: Fuel pump, fuel valve, VIT, injector timing. Scavenging: Uniflow. Turbocharging: T/C compressor, diffuser, nozzle ring.
+
+STARTING AIR: 30 bar, min 12 starts for reversible, 6 for non-reversible per SOLAS. Air bottle 2 minimum, auto start 1 bottle isolated. Starting sequence: Turning gear disengaged, LOP, fuel handle zero, indicator cocks close, start air distributor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+LUB OIL: System LO sump 60% volume, pump, filter auto backwash 6 micron, FO purifier? Actually LO purifier, cooler 45-50C inlet. BN check. Cylinder LO - MELO feed rate 0.6-1.2 g/kWh, ALPHA lubricator. Scavenge fire - causes: blowby, over lubrication, alarm 250C scavenge temp high.
+
+COOLING: FW system LT 36-45C, HT 75-85C. Jacket water treatment NITRITE 1500-2000ppm, chloride <50ppm. Expansion tank low alarm.
+
+FUEL: HFO 180cSt at 50C, heated to 120-140C for injection viscosity 12-16cSt. Purifier: Bowl speed 7200rpm, gravity disc selection based on SG. Chart: SG 0.90 disc 74mm, 0.92 disc 76mm. FO system: settling tank 70C, service tank 80C, mixing tank, filter duplex 25 micron, viscosity controller Viscor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+STEERING GEAR: Reg SOLAS V/26: 2 power units, one failure other works. Requirements: 35 to 35 deg 28 sec with one unit at max draft 50% speed, 35 to 30 deg 28 sec with both? Actually 35 to 30 in 28 sec? Full spec: From 35 one side to 30 other side in 28 sec. Overload alarm 1.5x motor load, low LO, hydraulic lock, phase failure, emergency power from ESB within 45 sec. Rudder carrier, ram 2/4, Rapson slide, telemotor hydraulic + electric. IMO test every 3 months emergency steering drill, logbook.
+
+PURIFIER: Alfa Laval MAPX, S-map. Operation: Bowl assembly, paring disc, gravity disc, e-bowl, sludge discharge 4 hours interval, water seal 2 liters. LO purifier as clarifier without water. Alarms: High sludge, low seal water, vibration.
+
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+
+SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+MAIN ENGINE DEEP - 2 Stroke ME/MC, 4 Stroke Aux
+
+ME SYSTEM: MAN B&W ME-C Electronic, RT-flex Common Rail. Components: Cylinder liner, piston crown, piston skirt, piston rod, crosshead, connecting rod, crankshaft, main bearing, crosshead bearing. Fuel injection: Fuel pump, fuel valve, VIT, injector timing. Scavenging: Uniflow. Turbocharging: T/C compressor, diffuser, nozzle ring.
+
+STARTING AIR: 30 bar, min 12 starts for reversible, 6 for non-reversible per SOLAS. Air bottle 2 minimum, auto start 1 bottle isolated. Starting sequence: Turning gear disengaged, LOP, fuel handle zero, indicator cocks close, start air distributor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+LUB OIL: System LO sump 60% volume, pump, filter auto backwash 6 micron, FO purifier? Actually LO purifier, cooler 45-50C inlet. BN check. Cylinder LO - MELO feed rate 0.6-1.2 g/kWh, ALPHA lubricator. Scavenge fire - causes: blowby, over lubrication, alarm 250C scavenge temp high.
+
+COOLING: FW system LT 36-45C, HT 75-85C. Jacket water treatment NITRITE 1500-2000ppm, chloride <50ppm. Expansion tank low alarm.
+
+FUEL: HFO 180cSt at 50C, heated to 120-140C for injection viscosity 12-16cSt. Purifier: Bowl speed 7200rpm, gravity disc selection based on SG. Chart: SG 0.90 disc 74mm, 0.92 disc 76mm. FO system: settling tank 70C, service tank 80C, mixing tank, filter duplex 25 micron, viscosity controller Viscor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+STEERING GEAR: Reg SOLAS V/26: 2 power units, one failure other works. Requirements: 35 to 35 deg 28 sec with one unit at max draft 50% speed, 35 to 30 deg 28 sec with both? Actually 35 to 30 in 28 sec? Full spec: From 35 one side to 30 other side in 28 sec. Overload alarm 1.5x motor load, low LO, hydraulic lock, phase failure, emergency power from ESB within 45 sec. Rudder carrier, ram 2/4, Rapson slide, telemotor hydraulic + electric. IMO test every 3 months emergency steering drill, logbook.
+
+PURIFIER: Alfa Laval MAPX, S-map. Operation: Bowl assembly, paring disc, gravity disc, e-bowl, sludge discharge 4 hours interval, water seal 2 liters. LO purifier as clarifier without water. Alarms: High sludge, low seal water, vibration.
+
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+
+SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+MAIN ENGINE DEEP - 2 Stroke ME/MC, 4 Stroke Aux
+
+ME SYSTEM: MAN B&W ME-C Electronic, RT-flex Common Rail. Components: Cylinder liner, piston crown, piston skirt, piston rod, crosshead, connecting rod, crankshaft, main bearing, crosshead bearing. Fuel injection: Fuel pump, fuel valve, VIT, injector timing. Scavenging: Uniflow. Turbocharging: T/C compressor, diffuser, nozzle ring.
+
+STARTING AIR: 30 bar, min 12 starts for reversible, 6 for non-reversible per SOLAS. Air bottle 2 minimum, auto start 1 bottle isolated. Starting sequence: Turning gear disengaged, LOP, fuel handle zero, indicator cocks close, start air distributor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+LUB OIL: System LO sump 60% volume, pump, filter auto backwash 6 micron, FO purifier? Actually LO purifier, cooler 45-50C inlet. BN check. Cylinder LO - MELO feed rate 0.6-1.2 g/kWh, ALPHA lubricator. Scavenge fire - causes: blowby, over lubrication, alarm 250C scavenge temp high.
+
+COOLING: FW system LT 36-45C, HT 75-85C. Jacket water treatment NITRITE 1500-2000ppm, chloride <50ppm. Expansion tank low alarm.
+
+FUEL: HFO 180cSt at 50C, heated to 120-140C for injection viscosity 12-16cSt. Purifier: Bowl speed 7200rpm, gravity disc selection based on SG. Chart: SG 0.90 disc 74mm, 0.92 disc 76mm. FO system: settling tank 70C, service tank 80C, mixing tank, filter duplex 25 micron, viscosity controller Viscor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+STEERING GEAR: Reg SOLAS V/26: 2 power units, one failure other works. Requirements: 35 to 35 deg 28 sec with one unit at max draft 50% speed, 35 to 30 deg 28 sec with both? Actually 35 to 30 in 28 sec? Full spec: From 35 one side to 30 other side in 28 sec. Overload alarm 1.5x motor load, low LO, hydraulic lock, phase failure, emergency power from ESB within 45 sec. Rudder carrier, ram 2/4, Rapson slide, telemotor hydraulic + electric. IMO test every 3 months emergency steering drill, logbook.
+
+PURIFIER: Alfa Laval MAPX, S-map. Operation: Bowl assembly, paring disc, gravity disc, e-bowl, sludge discharge 4 hours interval, water seal 2 liters. LO purifier as clarifier without water. Alarms: High sludge, low seal water, vibration.
+
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+
+SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+MAIN ENGINE DEEP - 2 Stroke ME/MC, 4 Stroke Aux
+
+ME SYSTEM: MAN B&W ME-C Electronic, RT-flex Common Rail. Components: Cylinder liner, piston crown, piston skirt, piston rod, crosshead, connecting rod, crankshaft, main bearing, crosshead bearing. Fuel injection: Fuel pump, fuel valve, VIT, injector timing. Scavenging: Uniflow. Turbocharging: T/C compressor, diffuser, nozzle ring.
+
+STARTING AIR: 30 bar, min 12 starts for reversible, 6 for non-reversible per SOLAS. Air bottle 2 minimum, auto start 1 bottle isolated. Starting sequence: Turning gear disengaged, LOP, fuel handle zero, indicator cocks close, start air distributor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+LUB OIL: System LO sump 60% volume, pump, filter auto backwash 6 micron, FO purifier? Actually LO purifier, cooler 45-50C inlet. BN check. Cylinder LO - MELO feed rate 0.6-1.2 g/kWh, ALPHA lubricator. Scavenge fire - causes: blowby, over lubrication, alarm 250C scavenge temp high.
+
+COOLING: FW system LT 36-45C, HT 75-85C. Jacket water treatment NITRITE 1500-2000ppm, chloride <50ppm. Expansion tank low alarm.
+
+FUEL: HFO 180cSt at 50C, heated to 120-140C for injection viscosity 12-16cSt. Purifier: Bowl speed 7200rpm, gravity disc selection based on SG. Chart: SG 0.90 disc 74mm, 0.92 disc 76mm. FO system: settling tank 70C, service tank 80C, mixing tank, filter duplex 25 micron, viscosity controller Viscor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+STEERING GEAR: Reg SOLAS V/26: 2 power units, one failure other works. Requirements: 35 to 35 deg 28 sec with one unit at max draft 50% speed, 35 to 30 deg 28 sec with both? Actually 35 to 30 in 28 sec? Full spec: From 35 one side to 30 other side in 28 sec. Overload alarm 1.5x motor load, low LO, hydraulic lock, phase failure, emergency power from ESB within 45 sec. Rudder carrier, ram 2/4, Rapson slide, telemotor hydraulic + electric. IMO test every 3 months emergency steering drill, logbook.
+
+PURIFIER: Alfa Laval MAPX, S-map. Operation: Bowl assembly, paring disc, gravity disc, e-bowl, sludge discharge 4 hours interval, water seal 2 liters. LO purifier as clarifier without water. Alarms: High sludge, low seal water, vibration.
+
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+
+SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+MAIN ENGINE DEEP - 2 Stroke ME/MC, 4 Stroke Aux
+
+ME SYSTEM: MAN B&W ME-C Electronic, RT-flex Common Rail. Components: Cylinder liner, piston crown, piston skirt, piston rod, crosshead, connecting rod, crankshaft, main bearing, crosshead bearing. Fuel injection: Fuel pump, fuel valve, VIT, injector timing. Scavenging: Uniflow. Turbocharging: T/C compressor, diffuser, nozzle ring.
+
+STARTING AIR: 30 bar, min 12 starts for reversible, 6 for non-reversible per SOLAS. Air bottle 2 minimum, auto start 1 bottle isolated. Starting sequence: Turning gear disengaged, LOP, fuel handle zero, indicator cocks close, start air distributor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+LUB OIL: System LO sump 60% volume, pump, filter auto backwash 6 micron, FO purifier? Actually LO purifier, cooler 45-50C inlet. BN check. Cylinder LO - MELO feed rate 0.6-1.2 g/kWh, ALPHA lubricator. Scavenge fire - causes: blowby, over lubrication, alarm 250C scavenge temp high.
+
+COOLING: FW system LT 36-45C, HT 75-85C. Jacket water treatment NITRITE 1500-2000ppm, chloride <50ppm. Expansion tank low alarm.
+
+FUEL: HFO 180cSt at 50C, heated to 120-140C for injection viscosity 12-16cSt. Purifier: Bowl speed 7200rpm, gravity disc selection based on SG. Chart: SG 0.90 disc 74mm, 0.92 disc 76mm. FO system: settling tank 70C, service tank 80C, mixing tank, filter duplex 25 micron, viscosity controller Viscor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+STEERING GEAR: Reg SOLAS V/26: 2 power units, one failure other works. Requirements: 35 to 35 deg 28 sec with one unit at max draft 50% speed, 35 to 30 deg 28 sec with both? Actually 35 to 30 in 28 sec? Full spec: From 35 one side to 30 other side in 28 sec. Overload alarm 1.5x motor load, low LO, hydraulic lock, phase failure, emergency power from ESB within 45 sec. Rudder carrier, ram 2/4, Rapson slide, telemotor hydraulic + electric. IMO test every 3 months emergency steering drill, logbook.
+
+PURIFIER: Alfa Laval MAPX, S-map. Operation: Bowl assembly, paring disc, gravity disc, e-bowl, sludge discharge 4 hours interval, water seal 2 liters. LO purifier as clarifier without water. Alarms: High sludge, low seal water, vibration.
+
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+
+SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+MAIN ENGINE DEEP - 2 Stroke ME/MC, 4 Stroke Aux
+
+ME SYSTEM: MAN B&W ME-C Electronic, RT-flex Common Rail. Components: Cylinder liner, piston crown, piston skirt, piston rod, crosshead, connecting rod, crankshaft, main bearing, crosshead bearing. Fuel injection: Fuel pump, fuel valve, VIT, injector timing. Scavenging: Uniflow. Turbocharging: T/C compressor, diffuser, nozzle ring.
+
+STARTING AIR: 30 bar, min 12 starts for reversible, 6 for non-reversible per SOLAS. Air bottle 2 minimum, auto start 1 bottle isolated. Starting sequence: Turning gear disengaged, LOP, fuel handle zero, indicator cocks close, start air distributor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+LUB OIL: System LO sump 60% volume, pump, filter auto backwash 6 micron, FO purifier? Actually LO purifier, cooler 45-50C inlet. BN check. Cylinder LO - MELO feed rate 0.6-1.2 g/kWh, ALPHA lubricator. Scavenge fire - causes: blowby, over lubrication, alarm 250C scavenge temp high.
+
+COOLING: FW system LT 36-45C, HT 75-85C. Jacket water treatment NITRITE 1500-2000ppm, chloride <50ppm. Expansion tank low alarm.
+
+FUEL: HFO 180cSt at 50C, heated to 120-140C for injection viscosity 12-16cSt. Purifier: Bowl speed 7200rpm, gravity disc selection based on SG. Chart: SG 0.90 disc 74mm, 0.92 disc 76mm. FO system: settling tank 70C, service tank 80C, mixing tank, filter duplex 25 micron, viscosity controller Viscor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+STEERING GEAR: Reg SOLAS V/26: 2 power units, one failure other works. Requirements: 35 to 35 deg 28 sec with one unit at max draft 50% speed, 35 to 30 deg 28 sec with both? Actually 35 to 30 in 28 sec? Full spec: From 35 one side to 30 other side in 28 sec. Overload alarm 1.5x motor load, low LO, hydraulic lock, phase failure, emergency power from ESB within 45 sec. Rudder carrier, ram 2/4, Rapson slide, telemotor hydraulic + electric. IMO test every 3 months emergency steering drill, logbook.
+
+PURIFIER: Alfa Laval MAPX, S-map. Operation: Bowl assembly, paring disc, gravity disc, e-bowl, sludge discharge 4 hours interval, water seal 2 liters. LO purifier as clarifier without water. Alarms: High sludge, low seal water, vibration.
+
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+
+SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+MAIN ENGINE DEEP - 2 Stroke ME/MC, 4 Stroke Aux
+
+ME SYSTEM: MAN B&W ME-C Electronic, RT-flex Common Rail. Components: Cylinder liner, piston crown, piston skirt, piston rod, crosshead, connecting rod, crankshaft, main bearing, crosshead bearing. Fuel injection: Fuel pump, fuel valve, VIT, injector timing. Scavenging: Uniflow. Turbocharging: T/C compressor, diffuser, nozzle ring.
+
+STARTING AIR: 30 bar, min 12 starts for reversible, 6 for non-reversible per SOLAS. Air bottle 2 minimum, auto start 1 bottle isolated. Starting sequence: Turning gear disengaged, LOP, fuel handle zero, indicator cocks close, start air distributor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+LUB OIL: System LO sump 60% volume, pump, filter auto backwash 6 micron, FO purifier? Actually LO purifier, cooler 45-50C inlet. BN check. Cylinder LO - MELO feed rate 0.6-1.2 g/kWh, ALPHA lubricator. Scavenge fire - causes: blowby, over lubrication, alarm 250C scavenge temp high.
+
+COOLING: FW system LT 36-45C, HT 75-85C. Jacket water treatment NITRITE 1500-2000ppm, chloride <50ppm. Expansion tank low alarm.
+
+FUEL: HFO 180cSt at 50C, heated to 120-140C for injection viscosity 12-16cSt. Purifier: Bowl speed 7200rpm, gravity disc selection based on SG. Chart: SG 0.90 disc 74mm, 0.92 disc 76mm. FO system: settling tank 70C, service tank 80C, mixing tank, filter duplex 25 micron, viscosity controller Viscor.
+---
+
+SOURCE: SOURCE: Main-Engine-Steering-Gear-Purifier-ULTRA-DEEP.txt
+STEERING GEAR: Reg SOLAS V/26: 2 power units, one failure other works. Requirements: 35 to 35 deg 28 sec with one unit at max draft 50% speed, 35 to 30 deg 28 sec with both? Actually 35 to 30 in 28 sec? Full spec: From 35 one side to 30 other side in 28 sec. Overload alarm 1.5x motor load, low LO, hydraulic lock, phase failure, emergency power from ESB within 45 sec. Rudder carrier, ram 2/4, Rapson slide, telemotor hydraulic + electric. IMO test every 3 months emergency steering drill, logbook.
+
+PURIFIER: Alfa Laval MAPX, S-map. Operation: Bowl assembly, paring disc, gravity disc, e-bowl, sludge discharge 4 hours interval, water seal 2 liters. LO purifier as clarifier without water. Alarms: High sludge, low seal water, vibration.
+
+EXAM: Steering test 35-35 28 sec, starting air 12 starts, purifier disc based on SG, scavenge fire temp 250C.
+---
