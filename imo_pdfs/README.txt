@@ -1,1 +1,1 @@
-1125 Full List - 12002 chunks
+Ready - 1225 PDFs list
