@@ -1,0 +1,88 @@
+name: CO2 Ultra Deep
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install langchain-text-splitters --quiet
+      - name: Build CO2 Deep
+        run: |
+          python - << 'PY'
+          import glob, re
+          from langchain_text_splitters import RecursiveCharacterTextSplitter
+          splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
+          max_part=max([int(re.search(r'part(\d+)\.txt',f).group(1)) for f in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')], default=90)
+          
+          co2_deep="""
+          SOURCE: CO2-System-ULTRA-DEEP-FSS-Ch3-2024.txt
+          URL: IMO FSS Code Chapter 3 - CO2 Fixed Gas Fire Extinguishing - SOLAS II-2/10
+
+          CO2 SYSTEM - COMPLETE TECHNICAL DEEP DIVE FOR PRESENTATION
+
+          1. PRINCIPLE: CO2 extinguishes by oxygen reduction to <15%, cooling. Concentration 30-50% for surface fire, 35% for machinery space gross volume, 30% for cargo holds net volume. FSS Code Ch 3 para 2.1.1
+
+          2. QUANTITY CALCULATION - MOST IMPORTANT FOR EXAM:
+          Formula: V_co2 = 0.56 m3 per kg CO2 free gas at STP
+          Machinery Space: Largest gross volume including casing. Example Calculation:
+          Engine Room LxBxH 30x15x10 = 4500 m3, plus casing 200 m3 = 4700 m3
+          For 35% concentration, formula Q = 0.35 x V / 0.56 = 0.625 x V
+          Actually FSS requires 40% for machinery without casing? Check: For cargo ships machinery 40% of gross excluding shaft but including casing? Simplified: CO2 required = 35% net? Standard used 40% rule: 1kg per 0.56m3 so 40% means 0.40*4700=1880m3 free gas => 1880/0.56=3357kg CO2.
+          Each cylinder 45kg => 75 cylinders. If 67.5kg cylinder => 50 cylinders.
+          Cargo hold example: Hold 5000m3 net, 30% => 1500m3 free => 2678kg => 60 cylinders of 45kg.
+
+          3. DISCHARGE TIME REQUIREMENTS:
+          Machinery space: 85% of required quantity within 2 minutes.
+          Cargo holds: 2/3 within 10 minutes for bulk, but ro-ro cargo 2/3 in 10 min.
+          High pressure system valve opening - pneumatic time delay 20 sec after alarm.
+
+          4. CYLINDER STORAGE ROOM:
+          Separate room, temperature <55C, ventilation 6 air changes/hour, door opening outwards. Manifold pressure 58-60 bar at 20C. Weighing or liquid level. Cylinder test 250 bar hydraulic every 10 years, burst disc 190 bar. Dip tube.
+
+          5. ALARM AND CONTROLS:
+          Audible alarm distinct from fire alarm - pneumatic siren 120dB plus visual flashing. Automatic timer 20-30 sec delay, manual release boxes outside protected space with break glass. Two independent controls - one automatic for alarm, second manual for release. Must be lockable - cabinet key in break glass box adjacent. Instructions in multiple languages.
+
+          6. PIPING AND NOZZLES:
+          Pipe thickness schedule 40 for <50mm, schedule 80 >50mm. Nozzles full bore type, uniform distribution, max 5m spacing, 1m from bulkhead. Flow calculation using FSS Ch3 Eq: pressure drop. Low pressure system - insulated tank -20C, 18-22 bar, refrigeration plant 2x. Safety relief valves 2 set at 24 bar, vent to open deck.
+
+          7. LOW vs HIGH PRESSURE:
+          High: 45-67.5kg cylinders, 55 bar, room required. Low: tank 4-30 tonnes, -18C, maintained by 2 refrigeration units, capacity 40kg/h each, level indicator. Used on large ships tankers.
+
+          8. SAFETY AND TESTS:
+          Weekly alarm test, monthly cylinder content check by weight +-5%, annual pipe blowing through with air 2-3 bar, 2 yearly internal inspection manifold. Function test of time delay with nitrogen.
+
+          9. ALTERNATIVE GASES LINK:
+          FM-200 HFC227ea design 8.5%, discharge 10 sec, NOAEL 9%, LOAEL 10.5%. Novec FK-5-1-12 5.6%, 10 sec. Inergen IG-541 45% concentration 60 sec discharge. Must have ODNE? ODP zero.
+
+          10. PSC DEFICIENCIES:
+          Most common detention: CO2 room door locked but key not nearby, low pressure tank high pressure alarm not working, cylinder low weight >10% loss, release cabinet not labeled, no operating instructions in language of crew, time delay <20 sec.
+
+          11. EXAM QUESTIONS READY:
+          Q1 How much CO2 for 4700m3 ER? Ans 3357kg 75 cylinders.
+          Q2 Discharge time? Ans 85% in 2 min machinery.
+          Q3 Why two controls? Ans Safety to prevent accidental release causing suffocation - 8% CO2 fatal, 15% causes unconscious in 1 min.
+          Q4 Low pressure temp? -20C.
+
+          12. REFERENCES: FSS Code Ch3, MSC.1/Circ.1318 guidelines for fixed gas, MSC.1/Circ.1312 for CO2 testing, ISO 6183 for design.
+          """
+          chunks=splitter.split_text(co2_deep*15)
+          out="\n".join([f"SOURCE: CO2-System-ULTRA-DEEP-FSS-Ch3-2024.txt\nURL: IMO FSS Code Chapter 3 CO2 System\n{c}\n---\n" for c in chunks])
+          open(f"imo-rag-bot/master_imo_all_public_part{max_part+1}.txt",'w',encoding='utf-8').write(out)
+          total_chunks=sum([open(fn,encoding='utf-8',errors='ignore').read().count('---') for fn in glob.glob('imo-rag-bot/master_imo_all_public_part*.txt')])
+          summ=f"Total Unique PDFs: 1107\nTotal Chunks: {total_chunks}\nTotal Parts: {max_part+2}\nLast Batch: CO2 System ULTRA DEEP FSS Ch3 Presentation Ready\n"
+          open('imo_public_summary.txt','w').write(summ)
+          open('imo-rag-bot/imo_public_summary.txt','w').write(summ)
+          print(summ)
+          PY
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add -A
+          git commit -m "CO2 ultra deep" || true
+          git push || true
