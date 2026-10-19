@@ -1,4 +1,4 @@
-name: FIXED Scrape IMO Index Real PDFs - 5 workers
+name: Scrape Circulars MEPC.1/Circ.1-1000 - 5 workers
 
 on:
   workflow_dispatch:
@@ -7,9 +7,9 @@ permissions:
   contents: write
 
 jobs:
-  fix-scrape:
+  circulars:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
         with:
@@ -18,84 +18,71 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests beautifulsoup4 --quiet
-
-      - name: Scrape REAL PDF links from IMO Index with 5 workers
+      - run: pip install requests fpdf2 beautifulsoup4 --quiet
+      - name: Scrape Circulars with 5 workers
         run: |
           python3 << 'PY'
-          import requests, os, concurrent.futures, re
+          import requests, os, concurrent.futures
+          from fpdf import FPDF
           from bs4 import BeautifulSoup
-          from urllib.parse import urljoin
 
           os.makedirs("imo_pdfs", exist_ok=True)
           s = requests.Session()
           s.headers.update({"User-Agent":"Mozilla/5.0"})
 
-          # Tumhare screenshot wala page
-          pages = [
-            "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-VI.aspx",
-            "https://www.imo.org/en/MediaCentre/HotTopics/Pages/Sulphur-2020.aspx",
-          ]
+          # imorules pattern for circulars
+          targets = []
+          for i in range(1, 1001):
+              targets.append((f"MEPC.1_Circ.{i}", f"https://imorules.com/ship/CIRC_MEPC_1_{i}.html"))
+              targets.append((f"MEPC.1_Circ.{i}_Rev.1", f"https://imorules.com/ship/CIRC_MEPC_1_{i}_Rev_1.html"))
+              targets.append((f"MEPC.1_Circ.{i}_Rev.2", f"https://imorules.com/ship/CIRC_MEPC_1_{i}_Rev_2.html"))
+              targets.append((f"MEPC.1_Circ.884_Rev.1", f"https://imorules.com/ship/CIRC_MEPC_1_884_Rev_1.html"))
+              targets.append((f"MSC.1_Circ.{i}", f"https://imorules.com/ship/CIRC_MSC_1_{i}.html"))
 
-          all_pdf_links = []
-          for page_url in pages:
-              print(f"Fetching {page_url}")
-              try:
-                  r = s.get(page_url, timeout=30)
-                  soup = BeautifulSoup(r.text, 'html.parser')
-                  for a in soup.find_all('a', href=True):
-                      href = a['href']
-                      txt = a.get_text(strip=True)
-                      # Real PDF link
-                      if '.pdf' in href.lower() or 'MEPC' in txt or 'Circ' in txt:
-                          full = urljoin(page_url, href)
-                          if full.lower().endswith('.pdf'):
-                              all_pdf_links.append((txt or "doc", full))
-              except Exception as e:
-                  print(f"Error page {e}")
+          # Remove duplicates, keep 1200 combos
+          targets = list(dict.fromkeys(targets))[:1500]
+          print(f"Total circular URLs to try: {len(targets)}")
 
-          # Deduplicate
-          uniq = {}
-          for t,u in all_pdf_links:
-              uniq[u] = t
-          all_pdf_links = [(v,k) for k,v in uniq.items()]
+          def make_pdf(name, text, url):
+              safe = name.replace("/","_") + ".pdf"
+              if os.path.exists(f"imo_pdfs/{safe}"):
+                  return f"Skip {safe}"
+              pdf = FPDF()
+              pdf.set_auto_page_break(auto=True, margin=15)
+              pdf.set_font("Helvetica", size=9)
+              pdf.add_page()
+              header = f"SOURCE: {safe} | Page 1 | URL: {url}"
+              full = header + "\n\n" + text[:12000]
+              safe_txt = full.encode('latin-1','ignore').decode('latin-1')
+              pdf.multi_cell(0,4.5,safe_txt)
+              pdf.output(f"imo_pdfs/{safe}")
+              return f"OK {safe} {len(text)} chars"
 
-          print(f"\nFound REAL PDF links: {len(all_pdf_links)}")
-          for t,u in all_pdf_links[:20]:
-              print(f"  {t} -> {u}")
-
-          def download_one(item):
+          def fetch_one(item):
               name, url = item
-              # Safe filename from URL
-              safe_name = url.split('/')[-1].split('?')[0]
-              if not safe_name.lower().endswith('.pdf'):
-                  safe_name = name.replace("/","_").replace(" ","_")[:80] + ".pdf"
-              if not safe_name:
-                  safe_name = name.replace("/","_") + ".pdf"
-              path = f"imo_pdfs/{safe_name}"
-              if os.path.exists(path):
-                  return f"Skip {safe_name}"
               try:
-                  rr = s.get(url, timeout=30)
-                  if rr.status_code==200 and len(rr.content)>3000:
-                      open(path, 'wb').write(rr.content)
-                      return f"OK {safe_name} {len(rr.content)}"
-                  else:
-                      return f"Fail {url} {rr.status_code} {len(rr.content)}"
+                  r = s.get(url, timeout=15)
+                  if r.status_code!=200 or len(r.text)<500:
+                      return f"Fail {name}"
+                  soup = BeautifulSoup(r.text, 'html.parser')
+                  txt = soup.get_text(separator="\n")
+                  if len(txt)<300 or "404" in txt[:200]:
+                      return f"Fail short {name}"
+                  return make_pdf(name, txt, url)
               except Exception as e:
-                  return f"Error {url} {e}"
+                  return f"Error {name} {e}"
 
           ok=0
-          print("\nStarting 5 workers download REAL PDFs...")
+          print("Starting 5 workers for circulars...")
           with concurrent.futures.ThreadPoolExecutor(max_workers=5) as ex:
-              results = list(ex.map(download_one, all_pdf_links))
+              for res in ex.map(fetch_one, targets):
+                  print(res)
+                  if res.startswith("OK"):
+                      ok+=1
+                      if ok % 20 == 0:
+                          print(f"--- Total circular PDFs so far: {ok} ---")
 
-          for r in results:
-              print(r)
-              if r.startswith("OK"):
-                  ok+=1
-
-          print(f"\nFINAL Downloaded NEW: {ok}")
+          print(f"\nFINAL Circulars Downloaded: {ok}")
           print(f"Total PDFs in imo_pdfs: {len(os.listdir('imo_pdfs'))}")
           PY
 
@@ -105,5 +92,5 @@ jobs:
           git config user.email "bot@bot.com"
           git pull --rebase origin main || true
           git add -f imo_pdfs/
-          git commit -m "FIXED: Real IMO PDFs from Index page - 5 workers" || true
+          git commit -m "Add MEPC.1/Circ circulars 1-1000 - 5 workers" || true
           git push
