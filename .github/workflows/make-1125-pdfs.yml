@@ -1,4 +1,4 @@
-name: FULL IMO Scraper - 10k Circ + All - 5 workers
+name: FIXED Scrape IMO Index Real PDFs - 5 workers
 
 on:
   workflow_dispatch:
@@ -7,9 +7,9 @@ permissions:
   contents: write
 
 jobs:
-  full-scrape:
+  fix-scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
@@ -18,112 +18,92 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests beautifulsoup4 fpdf2 PyMuPDF --quiet
+      - run: pip install requests beautifulsoup4 --quiet
 
-      - name: Scrape MEPC MSC Assembly with 5 workers + chunks
+      - name: Scrape REAL PDF links from IMO Index with 5 workers
         run: |
           python3 << 'PY'
-          import requests, os, concurrent.futures, re, json, fitz
-          os.makedirs("imo_pdfs", exist_ok=True)
-          os.makedirs("imo_chunks", exist_ok=True)
+          import requests, os, concurrent.futures, re
+          from bs4 import BeautifulSoup
+          from urllib.parse import urljoin
 
+          os.makedirs("imo_pdfs", exist_ok=True)
           s = requests.Session()
           s.headers.update({"User-Agent":"Mozilla/5.0"})
 
-          # ===== 1. MEPC.1/Circ.1 to 10000 =====
-          mepc_targets = []
-          for i in range(1, 10001):
-              mepc_targets.append(f"MEPC.1/Circ.{i}")
-              mepc_targets.append(f"MEPC.1/Circ.{i}/Rev.1")
-              mepc_targets.append(f"MEPC.1/Circ.{i}/Rev.2")
-              mepc_targets.append(f"MEPC.1/Circ.{i}/Rev.3")
-              mepc_targets.append(f"MEPC.1/Circ.{i}/Add.1")
+          # Tumhare screenshot wala page
+          pages = [
+            "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-VI.aspx",
+            "https://www.imo.org/en/MediaCentre/HotTopics/Pages/Sulphur-2020.aspx",
+          ]
 
-          # ===== 2. MSC.1/Circ.1 to 10000 =====
-          msc_targets = []
-          for i in range(1, 10001):
-              msc_targets.append(f"MSC.1/Circ.{i}")
-              msc_targets.append(f"MSC.1/Circ.{i}/Rev.1")
-              msc_targets.append(f"MSC-MEPC.1/Circ.{i}")
-              msc_targets.append(f"MSC-MEPC.5/Circ.{i}")
+          all_pdf_links = []
+          for page_url in pages:
+              print(f"Fetching {page_url}")
+              try:
+                  r = s.get(page_url, timeout=30)
+                  soup = BeautifulSoup(r.text, 'html.parser')
+                  for a in soup.find_all('a', href=True):
+                      href = a['href']
+                      txt = a.get_text(strip=True)
+                      # Real PDF link
+                      if '.pdf' in href.lower() or 'MEPC' in txt or 'Circ' in txt:
+                          full = urljoin(page_url, href)
+                          if full.lower().endswith('.pdf'):
+                              all_pdf_links.append((txt or "doc", full))
+              except Exception as e:
+                  print(f"Error page {e}")
 
-          # ===== 3. Assembly A.1 to A.1300 =====
-          assembly_targets = []
-          for i in range(1, 1301):
-              for sess in range(15, 35):
-                  assembly_targets.append(f"A.{i}({sess})")
+          # Deduplicate
+          uniq = {}
+          for t,u in all_pdf_links:
+              uniq[u] = t
+          all_pdf_links = [(v,k) for k,v in uniq.items()]
 
-          all_names = mepc_targets + msc_targets + assembly_targets
-          print(f"Total to check: {len(all_names)}")
+          print(f"\nFound REAL PDF links: {len(all_pdf_links)}")
+          for t,u in all_pdf_links[:20]:
+              print(f"  {t} -> {u}")
 
-          # IMO actual download URLs try
-          def try_urls(name):
-              # imo.org direct pattern
-              base = name.replace("/","_")
-              urls = [
-                  f"https://www.imo.org/en/OurWork/Environment/Documents/{name.replace('/','-')}.pdf",
-                  f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPC/{name.replace('/','-')}.pdf",
-                  f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/A%20{base}.docx",
-                  f"https://docs.imo.org/api/Documents/Search?filename={name}",
-              ]
-              return urls
+          def download_one(item):
+              name, url = item
+              # Safe filename from URL
+              safe_name = url.split('/')[-1].split('?')[0]
+              if not safe_name.lower().endswith('.pdf'):
+                  safe_name = name.replace("/","_").replace(" ","_")[:80] + ".pdf"
+              if not safe_name:
+                  safe_name = name.replace("/","_") + ".pdf"
+              path = f"imo_pdfs/{safe_name}"
+              if os.path.exists(path):
+                  return f"Skip {safe_name}"
+              try:
+                  rr = s.get(url, timeout=30)
+                  if rr.status_code==200 and len(rr.content)>3000:
+                      open(path, 'wb').write(rr.content)
+                      return f"OK {safe_name} {len(rr.content)}"
+                  else:
+                      return f"Fail {url} {rr.status_code} {len(rr.content)}"
+              except Exception as e:
+                  return f"Error {url} {e}"
 
-          def download_and_chunk(name):
-              safe = name.replace("/","_").replace("\\","_") + ".pdf"
-              if os.path.exists(f"imo_pdfs/{safe}"):
-                  return f"Skip {safe}"
-              # Try imo.org index page scrape already done, now try direct
-              for url in try_urls(name):
-                  try:
-                      rr = s.get(url, timeout=10)
-                      if rr.status_code==200 and len(rr.content)>2000 and b'%PDF' in rr.content[:20]:
-                          path = f"imo_pdfs/{safe}"
-                          open(path, 'wb').write(rr.content)
-                          # ---- Chunk + Page split ----
-                          doc = fitz.open(path)
-                          chunks = []
-                          for pno in range(len(doc)):
-                              text = doc[pno].get_text()
-                              if len(text.strip())<50:
-                                  continue
-                              chunk = {
-                                "source": safe,
-                                "page": pno+1,
-                                "text": text[:4000],
-                                "chunk_id": f"{safe}_p{pno+1}"
-                              }
-                              chunks.append(chunk)
-                          # Save chunks json
-                          with open(f"imo_chunks/{safe}.json", 'w', encoding='utf-8') as jf:
-                              json.dump(chunks, jf, ensure_ascii=False, indent=2)
-                          return f"OK {safe} pages={len(doc)} chunks={len(chunks)}"
-                  except:
-                      continue
-              return f"Fail {name}"
-
-          # ---- Run with 5 workers ----
-          print("Starting 5 workers for 30k combos...")
           ok=0
+          print("\nStarting 5 workers download REAL PDFs...")
           with concurrent.futures.ThreadPoolExecutor(max_workers=5) as ex:
-              futures = {ex.submit(download_and_chunk, n): n for n in all_names[:30000]}
-              for fut in concurrent.futures.as_completed(futures):
-                  res = fut.result()
-                  if res.startswith("OK"):
-                      ok+=1
-                      print(f"[{ok}] {res}")
-                      if ok % 100 == 0:
-                          print(f"Total so far: {ok}, folder: {len(os.listdir('imo_pdfs'))}")
+              results = list(ex.map(download_one, all_pdf_links))
 
-          print(f"\nFINAL Downloaded: {ok}")
+          for r in results:
+              print(r)
+              if r.startswith("OK"):
+                  ok+=1
+
+          print(f"\nFINAL Downloaded NEW: {ok}")
           print(f"Total PDFs in imo_pdfs: {len(os.listdir('imo_pdfs'))}")
-          print(f"Total chunk files: {len(os.listdir('imo_chunks'))}")
           PY
 
-      - name: Commit All
+      - name: Commit
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git pull --rebase origin main || true
-          git add -f imo_pdfs/ imo_chunks/
-          git commit -m "FULL Scrape MEPC.1/Circ.1-10000 + MSC + Assembly - 5 workers + pages chunks" || true
+          git add -f imo_pdfs/
+          git commit -m "FIXED: Real IMO PDFs from Index page - 5 workers" || true
           git push
