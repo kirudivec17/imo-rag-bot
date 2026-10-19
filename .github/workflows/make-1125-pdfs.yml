@@ -1,4 +1,4 @@
-name: FIXED Circulars - 3 Sources - 5 workers
+name: Assembly Scrape A.1 to A.1192 - 5 workers
 
 on:
   workflow_dispatch:
@@ -7,9 +7,9 @@ permissions:
   contents: write
 
 jobs:
-  circulars-fix:
+  assembly:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
         with:
@@ -18,104 +18,126 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests beautifulsoup4 fpdf2 --quiet
-      - name: Scrape Circulars from 3 sources - 5 workers
+      - run: pip install requests beautifulsoup4 --quiet
+
+      - name: Scrape Assembly Resolutions - 5 workers
         run: |
           python3 << 'PY'
-          import requests, os, concurrent.futures
+          import requests, os, concurrent.futures, re
           from bs4 import BeautifulSoup
-          from fpdf import FPDF
+          from urllib.parse import urljoin
 
           os.makedirs("imo_pdfs", exist_ok=True)
           s = requests.Session()
-          s.headers.update({"User-Agent":"Mozilla/5.0", "Referer":"https://www.imo.org/"})
+          s.headers.update({"User-Agent":"Mozilla/5.0"})
 
-          # Sirf important circulars - tumhare screenshot wale + 800-950 range
-          circ_numbers = list(range(700, 1000))  # 884, 871, 905 isi me hai
+          # Assembly Index - ye main page hai
+          assembly_pages = [
+            "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Assembly.aspx",
+            "https://www.imo.org/en/MediaCentre/HotTopics/Pages/Assembly-33rd-session.aspx",
+            "https://www.imo.org/en/MediaCentre/MeetingSummaries/Pages/Assembly-32nd-session.aspx",
+          ]
 
-          jobs=[]
-          for i in circ_numbers:
-              jobs.append(f"MEPC.1/Circ.{i}")
-              jobs.append(f"MEPC.1/Circ.{i}/Rev.1")
-              jobs.append(f"MEPC.1/Circ.{i}/Rev.2")
-              jobs.append(f"MEPC.1/Circ.{i}/Add.1")
-              jobs.append(f"BWM.2/Circ.{i}")
-
-          print(f"Total circular targets: {len(jobs)} - checking 3 sources each")
-
-          def try_download(name):
-              safe = name.replace("/","_").replace(".","_") + ".pdf"
-              if os.path.exists(f"imo_pdfs/{safe}"):
-                  return f"Skip {safe}"
-              
-              # Source 1: IMO CDN public
-              cdn_urls = [
-                  f"https://wwwcdn.imo.org/localresources/en/OurWork/Circulars/Documents/{name.replace('/','-')}.pdf",
-                  f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/Circulars/{name.replace('/','-')}.pdf",
-                  f"https://www.imo.org/en/MediaCentre/HotTopics/Documents/{name.replace('/','-')}.pdf",
-              ]
-              for url in cdn_urls:
-                  try:
-                      rr = s.get(url, timeout=15)
-                      if rr.status_code==200 and len(rr.content)>5000 and b'%PDF' in rr.content[:20]:
-                          open(f"imo_pdfs/{safe}",'wb').write(rr.content)
-                          return f"OK CDN {safe} {len(rr.content)//1024}KB {url}"
-                  except:
-                      pass
-
-              # Source 2: ClassNK / Lloyds mirror which has circular text public
+          all_pdf_links = []
+          for page_url in assembly_pages:
+              print(f"\nScanning {page_url}")
               try:
-                  # Try DCOE mirror search
-                  search_url = f"https://www.classnk.or.jp/hp/pdf/imo/{name.replace('/','-').replace('.','-')}.pdf"
-                  rr = s.get(search_url, timeout=10)
-                  if rr.status_code==200 and len(rr.content)>5000:
-                      open(f"imo_pdfs/{safe}",'wb').write(rr.content)
-                      return f"OK ClassNK {safe}"
-              except:
-                  pass
+                  r = s.get(page_url, timeout=30)
+                  soup = BeautifulSoup(r.text, 'html.parser')
+                  for a in soup.find_all('a', href=True):
+                      href = a['href']
+                      txt = a.get_text(strip=True)
+                      # Assembly PDF pattern: A 1106(29) etc or .pdf
+                      if '.pdf' in href.lower() or re.match(r'A\.\d+\(\d+\)', txt):
+                          full = urljoin(page_url, href)
+                          all_pdf_links.append((txt, full))
+              except Exception as e:
+                  print(f"Error {e}")
 
-              return f"Fail {name}"
+          # Deduplicate by URL
+          uniq = {}
+          for t,u in all_pdf_links:
+              uniq[u] = t
+          all_pdf_links = [(v,k) for k,v in uniq.items()]
+          print(f"\nTotal Assembly PDF links found: {len(all_pdf_links)}")
+          for t,u in all_pdf_links[:20]:
+              print(f"  {t} -> {u}")
+
+          def download_one(item):
+              name, url = item
+              # Clean filename
+              if url.lower().endswith('.pdf'):
+                  safe = url.split('/')[-1].split('?')[0]
+                  if len(safe)<5:
+                      safe = name.replace("/","_").replace(" ","_") + ".pdf"
+              else:
+                  safe = name.replace("/","_").replace(" ","_")[:80] + ".pdf"
+              if not safe.lower().endswith('.pdf'):
+                  safe += ".pdf"
+              # Make A. prefix safe
+              safe = safe.replace("..",".").replace("//","_")
+              path = f"imo_pdfs/{safe}"
+              if os.path.exists(path):
+                  return f"Skip {safe}"
+              try:
+                  rr = s.get(url, timeout=30)
+                  if rr.status_code==200 and len(rr.content)>3000:
+                      open(path, 'wb').write(rr.content)
+                      return f"OK {safe} {len(rr.content)//1024}KB"
+                  else:
+                      return f"Fail {safe} {rr.status_code}"
+              except Exception as e:
+                  return f"Error {name} {e}"
 
           ok=0
           with concurrent.futures.ThreadPoolExecutor(max_workers=5) as ex:
-              for res in ex.map(try_download, jobs):
+              for res in ex.map(download_one, all_pdf_links):
                   print(res)
                   if res.startswith("OK"):
                       ok+=1
 
-          print(f"\nFINAL Circulars from CDN: {ok}")
+          print(f"\nFINAL Assembly NEW Downloaded: {ok}")
           print(f"Total PDFs in imo_pdfs: {len(os.listdir('imo_pdfs'))}")
-          print("\nNOTE: If still 0, then circulars are IMODOCS-only. Then we must make text-PDF from knowledge base.")
 
-          # Fallback: If still 0, make PDFs from IMO guideline text we know
-          if ok==0:
-              print("\nCreating TEXT PDFs for your screenshot circulars - so RAG can answer...")
-              screenshots = [
-                  ("MEPC.1_Circ.884_Rev.1", "Guidance for best practice for Member State/coastal State - Fuel oil non-availability, Regulation 18"),
-                  ("MEPC.1_Circ.875", "Guidance on best practice for fuel oil purchasers/users for assuring quality of fuel oil"),
-                  ("MEPC.1_Circ.871", "Guidelines for port State control under MARPOL Annex VI"),
-                  ("MEPC.1_Circ.905_Rev.1", "Guidance on best practice for fuel oil suppliers"),
-                  ("MEPC.1_Circ.913", "Guidance for port State control on contingency measures for addressing non-compliant fuel oil"),
-              ]
-              for fname, title in screenshots:
-                  pdf = FPDF()
-                  pdf.set_auto_page_break(auto=True, margin=15)
-                  pdf.set_font("Helvetica", size=10)
-                  pdf.add_page()
-                  text = f"SOURCE: {fname}.pdf | Page 1\n\nTitle: {title}\n\nThis is IMO MEPC.1/Circular guidance document {fname}. This document is referenced in Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-VI. It contains best practices for Member States, port State control, and fuel oil quality under MARPOL Annex VI Regulation 18.\n\nContent extracted for RAG search - original requires IMODOCS access, this placeholder contains title and context for AI retrieval."
-                  pdf.multi_cell(0,5,text.encode('latin-1','ignore').decode('latin-1'))
-                  pdf.output(f"imo_pdfs/{fname}.pdf")
-                  ok+=1
-                  print(f"Created placeholder {fname}.pdf")
-              print(f"After fallback, total: {len(os.listdir('imo_pdfs'))}")
+          # If Assembly index didn't give many PDFs, also try direct IMO CDN pattern for A docs
+          if ok < 50:
+              print("\nTrying direct Assembly CDN pattern A.1 to A.1200...")
+              direct_jobs=[]
+              for i in range(1, 1200):
+                  # Common pattern: A 32/Res.1155 etc - try multiple CDN paths
+                  direct_jobs.append((f"A.{i}(29)", f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/A%20{i}(29).pdf"))
+                  direct_jobs.append((f"A.{i}(32)", f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/A%20{i}(32).pdf"))
+                  direct_jobs.append((f"A.{i}(33)", f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/A%20{i}(33).pdf"))
 
+              def dl_direct(item):
+                  name, url = item
+                  safe = f"A.{name.split('.')[1].split('(')[0]}.pdf".replace("/","_")
+                  path = f"imo_pdfs/{safe}"
+                  if os.path.exists(path):
+                      return f"Skip {safe}"
+                  try:
+                      rr = s.get(url, timeout=10)
+                      if rr.status_code==200 and len(rr.content)>5000 and b'%PDF' in rr.content[:10]:
+                          open(path,'wb').write(rr.content)
+                          return f"OK-DIRECT {safe}"
+                  except:
+                      pass
+                  return f"Fail-D {name}"
+
+              with concurrent.futures.ThreadPoolExecutor(max_workers=5) as ex:
+                  for res in ex.map(dl_direct, direct_jobs[:2000]):
+                      if res.startswith("OK-DIRECT"):
+                          print(res)
+                          ok+=1
+
+              print(f"\nAfter direct attempt, Total PDFs: {len(os.listdir('imo_pdfs'))}")
           PY
 
-      - name: Commit
+      - name: Commit Assembly
         run: |
           git config user.name "bot"
           git config user.email "bot@bot.com"
           git pull --rebase origin main || true
           git add -f imo_pdfs/
-          git commit -m "FIXED circulars with CDN + fallback for IMODOCS circulars" || true
+          git commit -m "Assembly A.1 to A.1192 scrape - 5 workers" || true
           git push
