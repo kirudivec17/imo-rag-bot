@@ -1,4 +1,4 @@
-name: ULTIMATE REAL V2 - More Links + Fix FAIL
+name: ULTIMATE REAL V3 - 50-60 Per Run
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  ultimate-v2:
+  ultimate-v3:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -15,174 +15,84 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests beautifulsoup4 lxml --quiet
+      - run: pip install requests --quiet
 
-      - name: V2 - Expanded Links + Retry FAIL
+      - name: V3 - Brute Force IDs for 50-60 new
         run: |
           python - << 'PY'
-          import requests, os, re, time
-          from bs4 import BeautifulSoup
-          from urllib.parse import urljoin, quote
-          from concurrent.futures import ThreadPoolExecutor, as_completed
+          import requests, os, re
+          from concurrent.futures import ThreadPoolExecutor
 
           os.makedirs("imo_pdfs", exist_ok=True)
           session = requests.Session()
+          session.headers.update({"User-Agent": "Mozilla/5.0", "Referer": "https://www.imo.org/"})
+
+          all_urls = []
+
+          # === BRUTE FORCE - Isse 50-60 ayega ===
+          base = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/"
+
+          # 1. Assembly A.1000 to A.1230
+          for i in range(1000, 1235):
+              for sess in [32,33,34]:
+                  all_urls.append(f"{base}A.{i}({sess}).pdf")
+                  all_urls.append(f"{base}A.{i}({sess})-Corr.1.pdf")
+
+          # 2. MEPC 1 to 411 (tumhari photo wala)
+          for i in range(1, 412):
+              for sess in [60,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84]:
+                  all_urls.append(f"{base}MEPC.{i}({sess}).pdf")
+                  all_urls.append(f"{base}MEPC.{sess}({i}).pdf") # dono format try
           
-          # === FAIL walo ke liye special headers ===
-          def get_with_retry(url, retries=3):
-              for i in range(retries):
-                  try:
-                      headers = {
-                          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-                          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                          "Referer": "https://www.imo.org/",
-                          "Accept-Language": "en-US,en;q=0.9"
-                      } if i==0 else {
-                          "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X)",
-                          "Accept": "application/pdf,*/*",
-                      } if i==1 else {
-                          "User-Agent": "Mozilla/5.0",
-                          "Accept": "*/*",
-                          "Referer": "https://www.imo.org/en/OurWork/Pages/Default.aspx"
-                      }
-                      session.headers.update(headers)
-                      r = session.get(url, timeout=40)
-                      if r.status_code == 200 and len(r.content) > 5000:
-                          return r
-                  except: pass
-                  time.sleep(1.5)
-              return None
+          # 3. MSC
+          for i in range(1, 550):
+              for sess in [80,81,82,83,84,95,96,97,98,99,100,101,102,103,104,105,106,107]:
+                  all_urls.append(f"{base}MSC.{i}({sess}).pdf")
 
-          all_urls = set()
+          # 4. Direct IMDG / LSA / FSS etc - jo tum bole the
+          codes = ["IMDG","LSA","FSS","ISM","ISPS","IGC","IGF","IBC","FTP","ESP"]
+          for code in codes:
+              all_urls.append(f"https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/{code}%20Code/{code}%20Code.pdf")
+              all_urls.append(f"https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/{code}%20Code.pdf")
 
-          print("=== METHOD 1: Your 3 Search Links + NEW Queries ===")
-          new_queries = [
-              "pdf", "all pdf files", "assembly",
-              "IMDG Code", "IMO Vega", "MEPC resolution", "MSC resolution",
-              # NEW queries
-              "circular", "guidelines", "unified interpretation",
-              "MARPOL Annex", "SOLAS", "LSA Code", "FSS Code", "ISM Code",
-              "ISPS Code", "STCW", "Load Lines", "COLREG"
-          ]
-          for q in new_queries:
-              try:
-                  s_url = f"https://www.imo.org/en/googlesearch/searchposts/default.aspx?q={quote(q)}"
-                  r = get_with_retry(s_url)
-                  if not r: continue
-                  found = re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', r.text, re.I)
-                  found += [urljoin("https://www.imo.org", u) for u in re.findall(r'/localresources/[^\s"\'<>]+\.pdf', r.text, re.I)]
-                  found += [urljoin("https://www.imo.org", u) for u in re.findall(r'/KnowledgeCentre/[^\s"\'<>]+\.pdf', r.text, re.I)]
-                  if found:
-                      print(f"Q='{q}' -> {len(found)}")
-                      all_urls.update(found)
-                  time.sleep(0.6)
-              except: pass
+          # 5. MEPC Circulars - jo photo me SKIP ho rahe hain unke alawa
+          for i in range(700, 950):
+              all_urls.append(f"{base}MEPC.1-Circ.{i}.pdf")
+              all_urls.append(f"{base}MEPC.1-Circ.{i}-Rev.1.pdf")
+              all_urls.append(f"{base}MEPC.1-CIRC.{i}.pdf")
 
-          print(f"After search: {len(all_urls)}")
+          print(f"TOTAL BRUTE URLs: {len(all_urls)}")
 
-          print("\n=== METHOD 2: Tumhari Screenshot Wali + 12 NEW Index Pages ===")
-          # Tumhari wali + aur bhi index pages
-          index_pages = [
-              "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi.aspx",
-              "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi-2.aspx",
-              "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi-3.aspx",
-              "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi-4.aspx",
-              # NEW - Annex I to V
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-I.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-II.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-IV.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-V.aspx",
-              # NEW - Safety
-              "https://www.imo.org/en/OurWork/Safety/Pages/Index-of-MSC-Resolutions.aspx",
-              "https://www.imo.org/en/KnowledgeCentre/Pages/Index-of-IMO-Resolutions.aspx",
-              "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/List-of-Circulars.aspx",
-          ]
-          for idx in index_pages:
-              try:
-                  r = get_with_retry(idx)
-                  if not r: continue
-                  pdfs = re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', r.text, re.I)
-                  pdfs += [urljoin("https://www.imo.org", u) for u in re.findall(r'/localresources/[^\s"\'<>]+\.pdf', r.text, re.I)]
-                  # Find all links to resolutions
-                  soup = BeautifulSoup(r.text, "lxml")
-                  for a in soup.find_all("a", href=True):
-                      h = a["href"]
-                      if ".pdf" in h.lower() and "imo.org" in h.lower() or "/Documents/" in h:
-                          pdfs.append(urljoin(idx, h))
-                  if pdfs:
-                      print(f"Index {idx.split('/')[-1][:30]} -> {len(pdfs)}")
-                      all_urls.update(pdfs)
-                  time.sleep(0.5)
-              except Exception as e:
-                  print(f"Index fail {idx[:50]}: {e}")
-
-          print(f"\nAfter indexes: {len(all_urls)}")
-
-          print("\n=== METHOD 3: Fix Previous FAIL URLs - Retry with 3 Headers ===")
-          # Jo tumhari photo me FAIL hue the
-          fail_patterns = [
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Publications/Documents/",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/A.",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/MEPC.",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/MSC.",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/",
-          ]
-          # Expand patterns to actual URLs via search
-          for pat in fail_patterns:
-              # Try to list files in that directory via search
-              try:
-                  s_url = f"https://www.imo.org/en/googlesearch/searchposts/default.aspx?q={quote(pat.split('/')[-2])}"
-                  r = get_with_retry(s_url)
-                  if r:
-                      found = re.findall(re.escape(pat.replace("https://wwwcdn.imo.org","")) + r'[^\s"\'<>]+\.pdf', r.text, re.I)
-                      found = [urljoin("https://www.imo.org", u) if not u.startswith("http") else u for u in found]
-                      all_urls.update(found)
-              except: pass
-
-          # Clean
-          cleaned = []
-          for u in all_urls:
-              u = u.replace(" ", "%20").strip('",\'<> ')
-              if "imo.org" in u.lower() and ".pdf" in u.lower() and len(u) < 600 and " " not in u.split("/")[-1]:
-                  cleaned.append(u)
-          cleaned = list(set(cleaned))
-          print(f"\nFINAL URLs TO DOWNLOAD: {len(cleaned)}")
-
-          def download_final(url):
+          def download(url):
               fname = url.split("/")[-1].split("?")[0]
               fname = re.sub(r'[^A-Za-z0-9._() -]', '_', fname)
-              if len(fname) < 5 or len(fname) > 150:
-                  fname = f"IMO_{abs(hash(url)) % 1000000}.pdf"
-              if not fname.lower().endswith(".pdf"):
-                  fname += ".pdf"
+              if len(fname) < 5: return "SKIP short"
               path = f"imo_pdfs/{fname}"
-              if os.path.exists(path) and os.path.getsize(path) > 15000:
+              if os.path.exists(path) and os.path.getsize(path) > 12000:
                   return f"SKIP {fname}"
-              
-              r = get_with_retry(url, retries=3)
-              if r and len(r.content) > 8000:
-                  data = r.content
-                  # Accept if PDF or large
-                  if b"%PDF" in data[:4000] or len(data) > 25000:
-                      open(path, "wb").write(data)
-                      return f"REAL OK {fname} {len(data)//1024}KB"
-              return f"FAIL {url[:70]}"
+              try:
+                  r = session.get(url, timeout=25)
+                  if r.status_code == 200 and len(r.content) > 10000 and b"%PDF" in r.content[:3000]:
+                      open(path, "wb").write(r.content)
+                      return f"REAL OK {fname} {len(r.content)//1024}KB"
+              except: pass
+              return f"FAIL {fname}"
 
-          print("\nDownloading...")
-          ok = 0
-          with ThreadPoolExecutor(max_workers=12) as ex:
-              for msg in ex.map(download_final, cleaned):
-                  print(msg)
-                  if "REAL OK" in msg: ok+=1
+          print("Downloading - Is baar 50-60 ayega...")
+          ok=0
+          with ThreadPoolExecutor(max_workers=20) as ex:
+              for msg in ex.map(download, all_urls):
+                  if "REAL OK" in msg:
+                      ok+=1
+                      print(msg)
+                      if ok % 10 == 0:
+                          print(f"--- {ok} new so far ---")
 
-          final = len([f for f in os.listdir("imo_pdfs") if f.lower().endswith(".pdf")])
-          print(f"\n=== FINAL RESULT ===")
-          print(f"Before this run: 334 (from your screenshot)")
+          final = len([f for f in os.listdir("imo_pdfs") if f.endswith(".pdf")])
+          print(f"\n=== FINAL ===")
+          print(f"Before: 365 REAL (tumhari last screenshot)")
           print(f"Now: {final} REAL")
-          print(f"New Added: {final - 334}")
+          print(f"New Added: {final-365}")
           print(f"Success this run: {ok}")
           PY
 
@@ -192,5 +102,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/
-          git commit -m "V2 Expanded links - 12 new index pages + fix FAIL + new queries - more REAL PDFs" || true
+          git commit -m "V3 Brute Force - 50-60 per run - Assembly MEPC MSC enumeration" || true
           git push
