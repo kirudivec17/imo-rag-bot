@@ -28,39 +28,34 @@ jobs:
           python3 << 'PY'
           import glob, os
           from fpdf import FPDF
-          
           all_text = ""
           for f in sorted(glob.glob("master_imo_all_public_part*.txt")):
               with open(f, "r", encoding="utf-8", errors="ignore") as fp:
                   all_text += fp.read() + "\n"
-          
-          # 12000 lines ko 1125 me exact baanto
           lines = all_text.splitlines()
           total = 1125
           chunk_size = len(lines)//total
           print(f"Total lines: {len(lines)}, chunk: {chunk_size}")
-          
           for i in range(total):
               start = i*chunk_size
               end = start+chunk_size if i < total-1 else len(lines)
               content = "\n".join(lines[start:end])
-              
               pdf = FPDF()
               pdf.set_auto_page_break(auto=True, margin=15)
               pdf.add_page()
-              pdf.set_font("Arial", size=10)
+              pdf.set_font("Helvetica", size=10)
               safe = content.encode('latin-1', 'ignore').decode('latin-1')
-              pdf.multi_cell(0, 5, safe[:15000])  # limit per pdf
+              pdf.multi_cell(0, 5, safe[:15000])
               pdf.output(f"imo_pdfs/IMO_DOC_{i+1:04d}.pdf")
-          
           print(f"Created {len(os.listdir('imo_pdfs'))} PDFs")
           PY
 
-      - name: Commit PDFs
+      - name: Commit PDFs with force
         run: |
           ls imo_pdfs | wc -l
           git config user.name "bot"
           git config user.email "bot@bot.com"
-          git add imo_pdfs/
-          git commit -m "1125 PDFs rebuilt without ingest - exact" || echo "nothing to commit"
+          # IMPORTANT: -f se force add, warna .gitignore rok dega
+          git add -f imo_pdfs/
+          git commit -m "1125 PDFs rebuilt without ingest - exact - force add" || echo "nothing to commit"
           git push
