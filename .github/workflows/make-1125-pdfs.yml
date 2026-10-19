@@ -1,4 +1,4 @@
-name: DELETE FAKE - Keep Only Real 394
+name: REAL Assembly A1173-A1217 Downloader
 
 on:
   workflow_dispatch:
@@ -7,37 +7,75 @@ permissions:
   contents: write
 
 jobs:
-  clean:
+  download-real:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-      - run: |
-          echo "Before: $(ls imo_pdfs | wc -l) PDFs"
-          # Keep only real MEPC ones (size > 50KB and real %PDF)
-          mkdir -p real_backup
-          for f in imo_pdfs/*.pdf; do
-            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
-            if [ "$size" -gt 40000 ]; then
-              # Check if contains real IMO text, not our placeholder
-              if grep -q "SOURCE:" "$f" 2>/dev/null; then
-                rm "$f"
-              else
-                mv "$f" real_backup/
-              fi
-            else
-              rm "$f" 2>/dev/null || true
-            fi
-          done
-          rm -rf imo_pdfs imo_chunks
-          mkdir -p imo_pdfs imo_chunks
-          mv real_backup/* imo_pdfs/ 2>/dev/null || true
-          echo "After cleanup: $(ls imo_pdfs | wc -l) REAL PDFs left"
-          ls imo_pdfs | head -20
-      - run: |
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 PyMuPDF --quiet
+
+      - name: Download REAL Assembly Resolutions
+        run: |
+          python - << 'PY'
+          import requests, os, re
+          from bs4 import BeautifulSoup
+          
+          os.makedirs("imo_pdfs", exist_ok=True)
+          os.makedirs("imo_chunks", exist_ok=True)
+          
+          # Real download attempts - try multiple public sources
+          # IMO CDN pattern: https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/A.%201206(34).pdf
+          # Maritime Cyprus mirror hosts real PDFs
+          
+          session = requests.Session()
+          session.headers.update({"User-Agent": "Mozilla/5.0"})
+          
+          # List from search - A.1196 to A.1217 (34th) + A.1173 to A.1194 (33rd) + A.1185 PSC 2023
+          targets = []
+          for n in range(1196, 1218):
+              targets.append(f"A.{n}(34)")
+          for n in range(1173, 1195):
+              targets.append(f"A.{n}(33)")
+          targets += ["A.1185(33)", "A.1206(34)", "A.1155(32)", "A.1138(31)", "A.1119(30)"]
+          
+          print(f"Trying to download {len(targets)} REAL Assembly resolutions...")
+          
+          for res in targets:
+              # Clean name for file
+              safe_name = res.replace("/", "_").replace(".", "_").replace("(", "").replace(")", "") + ".pdf"
+              # Try IMO CDN
+              num = re.search(r"A\.(\d+)", res).group(1)
+              sess = re.search(r"\((\d+)\)", res).group(1) if "(" in res else "34"
+              urls_to_try = [
+                  f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/A.%20{num}({sess}).pdf",
+                  f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/{res}.pdf",
+                  f"https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Documents/{res}.pdf",
+              ]
+              ok = False
+              for url in urls_to_try:
+                  try:
+                      r = session.get(url, timeout=20)
+                      if r.status_code == 200 and len(r.content) > 20000 and b"%PDF" in r.content[:10]:
+                          open(f"imo_pdfs/{res.replace('/', '_')}.pdf", "wb").write(r.content)
+                          print(f"REAL OK {res} from {url} - {len(r.content)} bytes")
+                          ok = True
+                          break
+                  except Exception as e:
+                      pass
+              if not ok:
+                  print(f"Not public {res} - will need IMODOCS login")
+          
+          print(f"Done. Total REAL PDFs now: {len(os.listdir('imo_pdfs'))}")
+          PY
+
+      - name: Commit REAL Assembly
+        run: |
           git config user.name bot
           git config user.email bot@bot.com
           git pull --rebase origin main || true
-          git add -f imo_pdfs/ 
-          git rm -rf imo_chunks/ || true
-          git commit -m "DELETE 31k fake - keep only REAL IMO PDFs - honest database" || true
+          git add -f imo_pdfs/
+          git commit -m "REAL Assembly A1173-A1217 - direct download from IMO CDN" || true
           git push
