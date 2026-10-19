@@ -1,4 +1,4 @@
-name: Rebuild 1125 PDFs - No Ingest
+name: Rebuild 1125 PDFs - Correct SOURCE grouping
 
 on:
   workflow_dispatch:
@@ -21,33 +21,61 @@ jobs:
       - name: Install PDF lib
         run: pip install fpdf2
 
-      - name: Create 1125 PDFs from 13 master parts
+      - name: Create PDFs grouped by SOURCE
         run: |
           rm -rf imo_pdfs
           mkdir -p imo_pdfs
           python3 << 'PY'
-          import glob, os
+          import glob, os, re, urllib.parse
           from fpdf import FPDF
-          all_text = ""
-          for f in sorted(glob.glob("master_imo_all_public_part*.txt")):
-              with open(f, "r", encoding="utf-8", errors="ignore") as fp:
-                  all_text += fp.read() + "\n"
-          lines = all_text.splitlines()
-          total = 1125
-          chunk_size = len(lines)//total
-          print(f"Total lines: {len(lines)}, chunk: {chunk_size}")
-          for i in range(total):
-              start = i*chunk_size
-              end = start+chunk_size if i < total-1 else len(lines)
-              content = "\n".join(lines[start:end])
+          from collections import defaultdict
+
+          docs = defaultdict(list)
+          current_source = None
+          current_chunk_lines = []
+
+          for fname in sorted(glob.glob("master_imo_all_public_part*.txt")):
+              with open(fname, "r", encoding="utf-8", errors="ignore") as f:
+                  for line in f:
+                      if line.startswith("SOURCE:"):
+                          # save previous chunk if any
+                          if current_source and current_chunk_lines:
+                              docs[current_source].append("".join(current_chunk_lines))
+                          current_source = line.replace("SOURCE:","").strip()
+                          current_chunk_lines = []
+                      elif line.strip() == "---CHUNK---":
+                          if current_source and current_chunk_lines:
+                              docs[current_source].append("".join(current_chunk_lines))
+                          current_chunk_lines = []
+                      else:
+                          current_chunk_lines.append(line)
+                  # last chunk
+                  if current_source and current_chunk_lines:
+                      docs[current_source].append("".join(current_chunk_lines))
+                      current_chunk_lines = []
+
+          print(f"Unique SOURCE PDFs found: {len(docs)}")
+          # Create one PDF per SOURCE
+          for src, chunks in docs.items():
+              # Decode %28 %29
+              decoded = urllib.parse.unquote(src)
+              # safe filename
+              safe_name = decoded.replace("/", "_")
+              if not safe_name.lower().endswith(".pdf"):
+                  safe_name += ".pdf"
+              
               pdf = FPDF()
               pdf.set_auto_page_break(auto=True, margin=15)
-              pdf.add_page()
-              pdf.set_font("Helvetica", size=10)
-              safe = content.encode('latin-1', 'ignore').decode('latin-1')
-              pdf.multi_cell(0, 5, safe[:15000])
-              pdf.output(f"imo_pdfs/IMO_DOC_{i+1:04d}.pdf")
-          print(f"Created {len(os.listdir('imo_pdfs'))} PDFs")
+              pdf.set_font("Helvetica", size=9)
+              for chunk_text in chunks:
+                  pdf.add_page()
+                  # Add SOURCE header for retrieval
+                  header = f"SOURCE: {decoded} | Page {len(pdf.pages)}"
+                  safe = (header + "\n\n" + chunk_text).encode('latin-1','ignore').decode('latin-1')
+                  pdf.multi_cell(0, 4.5, safe[:8000])
+              pdf.output(f"imo_pdfs/{safe_name}")
+          
+          print(f"Created {len(os.listdir('imo_pdfs'))} PDFs in imo_pdfs")
           PY
 
       - name: Commit PDFs with force
@@ -55,7 +83,6 @@ jobs:
           ls imo_pdfs | wc -l
           git config user.name "bot"
           git config user.email "bot@bot.com"
-          # IMPORTANT: -f se force add, warna .gitignore rok dega
           git add -f imo_pdfs/
-          git commit -m "1125 PDFs rebuilt without ingest - exact - force add" || echo "nothing to commit"
+          git commit -m "Fix: rebuild 1125 PDFs grouped by SOURCE with page numbers" || echo "nothing to commit"
           git push
