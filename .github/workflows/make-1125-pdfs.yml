@@ -1,4 +1,4 @@
-name: IMO REAL Public - Mirrors + Vega + IMDG
+name: IMO SEARCH API - All 3 Queries Combined
 
 on:
   workflow_dispatch:
@@ -7,121 +7,119 @@ permissions:
   contents: write
 
 jobs:
-  real-public:
+  combined-search:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests beautifulsoup4 PyMuPDF lxml --quiet
+      - run: pip install requests beautifulsoup4 lxml --quiet
 
-      - name: Download from REAL Public Sources
+      - name: Crawl 3 Search APIs from your links
         run: |
           python - << 'PY'
-          import requests, os, re
-          from bs4 import BeautifulSoup
-          from urllib.parse import urljoin
+          import requests, os, re, time
+          from urllib.parse import urljoin, quote
           from concurrent.futures import ThreadPoolExecutor
 
           os.makedirs("imo_pdfs", exist_ok=True)
           session = requests.Session()
-          session.headers.update({"User-Agent": "Mozilla/5.0"})
+          session.headers.update({
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0)",
+              "Accept": "text/html,application/xhtml+xml",
+              "Referer": "https://www.imo.org/en/OurWork/Pages/Default.aspx"
+          })
 
-          # 1. PDFs jo abhi bhi imo.org pe 100% PUBLIC hain - tumhare screenshot se
-          public_imo_pdfs = [
-              "https://www.imo.org/en/OurWork/Safety/Pages/IMDG-Code.aspx", # IMDG Code Amendment Cycle 2025-2034
-              "https://www.imo.org/en/OurWork/Publications/Pages/Default.aspx", # Listing of current IMO publications
+          # Tumhare 3 links ka base - token hata ke
+          queries = [
+              "pdf", 
+              "all pdf files",
+              "assembly",
+              "IMDG Code",
+              "IMO Vega",
+              "MEPC resolution",
+              "MSC resolution",
+              "List of certificates",
+              "carriage of publications"
           ]
 
-          # 2. Public mirrors jo Assembly/MEPC real copies host karte hain
-          mirror_pdfs = [
-              # ClassNK hosts many A. resolutions
-              "https://www.classnk.or.jp/hp/pdf/info_service/IMO/Assembly/A.1206(34).pdf",
-              "https://www.classnk.or.jp/hp/pdf/info_service/IMO/Assembly/A.1185(33).pdf",
-              # Paris MoU
-              "https://parismou.org/system/files/2024-01/A.1206%2834%29%20-%20PSC%20Procedures%202023.pdf",
-              # Vega / Certificates - direct IMO public links
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/Annex%201%20-%20List%20of%20certificates%202022.pdf",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Publications/Documents/List%20of%20IMO%20publications.pdf",
-          ]
+          all_links = set()
 
-          # First crawl imo.org public pages for PDFs (fixed bug)
-          def crawl_for_pdfs(page_url):
-              found = []
+          for q in queries:
+              for page in [1,2,3]: # 3 pages each
+                  try:
+                      # Try both formats
+                      urls = [
+                          f"https://www.imo.org/en/googlesearch/searchposts/default.aspx?q={quote(q)}&page={page}",
+                          f"https://www.imo.org/en/googlesearch/searchposts/default.aspx?q={quote(q)}",
+                      ]
+                      for s_url in urls:
+                          print(f"\nSearch q='{q}' page {page}: {s_url[:80]}")
+                          r = session.get(s_url, timeout=30)
+                          if r.status_code != 200:
+                              continue
+                          text = r.text
+                          # Extract PDFs
+                          found = re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', text, re.IGNORECASE)
+                          found += [urljoin("https://www.imo.org", u) for u in re.findall(r'/localresources/[^\s"\'<>]+\.pdf', text, re.IGNORECASE)]
+                          found += [urljoin("https://www.imo.org", u) for u in re.findall(r'/KnowledgeCentre/[^\s"\'<>]+\.pdf', text, re.IGNORECASE)]
+                          found += [urljoin("https://www.imo.org", u) for u in re.findall(r'/OurWork/[^\s"\'<>]+\.pdf', text, re.IGNORECASE)]
+                          
+                          if found:
+                              print(f"  -> {len(found)} PDFs")
+                              for f in found[:3]:
+                                  print(f"     {f[:80]}")
+                              all_links.update(found)
+                          time.sleep(0.8)
+                      if len(all_links) > 200:
+                          break
+                  except Exception as e:
+                      print(f"Err {q}: {e}")
+
+          print(f"\nTOTAL UNIQUE PDF LINKS: {len(all_links)}")
+          
+          # Save list for debug
+          open("pdf_list.txt","w").write("\n".join(list(all_links)[:500]))
+
+          def dl(url):
               try:
-                  r = session.get(page_url, timeout=20)
-                  if r.status_code != 200:
-                      return found
-                  soup = BeautifulSoup(r.text, "lxml")
-                  for a in soup.find_all("a", href=True):
-                      href = a["href"]
-                      if ".pdf" in href.lower():
-                          full = urljoin(page_url, href)
-                          if "imo.org" in full and "localresources" in full:
-                              found.append(full)
-              except Exception as e:
-                  print(f"Crawl fail {page_url}: {e}")
-              return found
-
-          all_to_download = []
-          for url in public_imo_pdfs:
-              pdfs = crawl_for_pdfs(url)
-              print(f"From {url} found {len(pdfs)} PDFs")
-              all_to_download.extend(pdfs)
-
-          # Also try known Vega files from your screenshot
-          # These are REAL public links
-          try:
-              r = session.get("https://www.imo.org/en/OurWork/Publications/Pages/IMO-Vega-Database.aspx", timeout=20)
-              soup = BeautifulSoup(r.text, "lxml")
-              for a in soup.find_all("a", href=True):
-                  if ".pdf" in a["href"].lower():
-                      full = urljoin("https://www.imo.org", a["href"])
-                      all_to_download.append(full)
-                      print(f"Vega found: {full}")
-          except Exception as e:
-              print(f"Vega page fail: {e}")
-
-          all_to_download = list(set(all_to_download + mirror_pdfs))
-          print(f"\nTOTAL to try: {len(all_to_download)}")
-
-          def download_one(url):
-              try:
-                  # safe name
+                  url = url.replace(" ", "%20")
                   fname = url.split("/")[-1].split("?")[0]
                   fname = re.sub(r'[^A-Za-z0-9._()-]', '_', fname)
-                  if len(fname) < 5:
-                      fname = f"imo_{abs(hash(url))}.pdf"
+                  if len(fname) < 5 or len(fname) > 130:
+                      fname = f"imo_{abs(hash(url)) % 1000000}.pdf"
                   if not fname.lower().endswith(".pdf"):
                       fname += ".pdf"
                   path = f"imo_pdfs/{fname}"
                   if os.path.exists(path) and os.path.getsize(path) > 15000:
-                      return f"SKIP exists {fname}"
+                      return f"SKIP {fname}"
 
-                  r = session.get(url, timeout=30)
-                  if r.status_code == 200 and len(r.content) > 10000:
-                      if r.content[:4] == b'%PDF' or b'%PDF' in r.content[:100]:
-                          open(path, "wb").write(r.content)
-                          return f"REAL OK {fname} {len(r.content)//1024}KB from {url[:60]}"
-                  return f"FAIL {url[:80]} status {r.status_code}"
+                  resp = session.get(url, timeout=40, stream=True)
+                  if resp.status_code == 200:
+                      data = resp.content
+                      if len(data) > 10000 and (b"%PDF" in data[:1000] or len(data) > 40000):
+                          open(path, "wb").write(data)
+                          return f"REAL OK {fname} {len(data)//1024}KB"
+                  return f"FAIL {url[:60]} {resp.status_code}"
               except Exception as e:
-                  return f"ERR {url[:60]} {e}"
+                  return f"ERR {e} {url[:50]}"
 
-          with ThreadPoolExecutor(max_workers=6) as ex:
-              for msg in ex.map(download_one, all_to_download):
+          print("\nDownloading REAL PDFs...")
+          with ThreadPoolExecutor(max_workers=12) as ex:
+              for msg in ex.map(dl, list(all_links)):
                   print(msg)
 
           final = len([f for f in os.listdir("imo_pdfs") if f.endswith(".pdf")])
-          print(f"\nFINAL COUNT: {final} REAL PDFs")
+          print(f"\nFINAL COUNT: {final} REAL PDFs (started from 245)")
           PY
 
-      - name: Push
+      - name: Push to GitHub
         run: |
           git config user.name bot
           git config user.email bot@bot.com
           git pull --rebase origin main || true
-          git add -f imo_pdfs/
-          git commit -m "REAL public - Vega + IMDG + Listing + Mirrors - fixed crawler" || true
+          git add -f imo_pdfs/ pdf_list.txt || true
+          git commit -m "From user search links - q=pdf + all pdf files + assembly + IMDG + Vega - combined crawler" || true
           git push
