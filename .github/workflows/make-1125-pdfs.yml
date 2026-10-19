@@ -1,4 +1,4 @@
-name: Build Assembly + Council Missing
+name: Build Assembly DOCX to PDF
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  build-missing:
+  build-assembly:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -16,85 +16,59 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-python@v5
         with: { python-version: '3.11' }
-      - run: pip install requests pypdf fpdf2 --quiet
-      - name: Download Assembly Council
+      - run: pip install requests python-docx fpdf2 --quiet
+
+      - name: Download Assembly DOCX and convert to PDF
         run: |
           python3 << 'PY'
-          import requests, os, re, urllib.parse
-          from pypdf import PdfReader
+          import requests, os, glob, urllib.parse
+          from docx import Document
           from fpdf import FPDF
-          from collections import defaultdict
 
           s = requests.Session()
           s.headers.update({"User-Agent":"Mozilla/5.0"})
-
           os.makedirs("imo_pdfs", exist_ok=True)
-          
-          # Assembly resolutions ke real direct links
-          # IMO site pe ye pattern hai
-          bases = [
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/",
-              "https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Documents/",
-              "https://docs.imo.org/docs/Documents/",
-          ]
-          
-          targets = []
-          # Assembly A.1000 se A.1180 tak (tumhara A.1155 isi me hai)
-          for n in range(1000, 1181):
+
+          base = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/"
+
+          # A.1100 se A.1180 tak ke DOCX
+          downloaded = 0
+          for n in range(1100, 1181):
               for sess in [28,29,30,31,32,33]:
-                  for fmt in [f"A {n}({sess})", f"A.{n}({sess})", f"A {n}-{sess}", f"Resolution A.{n}({sess})", f"A-{n}({sess})"]:
-                      for b in bases:
-                          targets.append((b + fmt.replace(" ", "%20") + ".pdf", f"{fmt}.pdf"))
-          
-          # Council
-          for n in range(1, 150):
-              for sess in [120,121,122,123,124,125,126,127,128,129,130]:
-                  targets.append((f"https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Council/C%20{n}({sess}).pdf", f"C {n}({sess}).pdf"))
-
-          print(f"Trying {len(targets)} Assembly/Council URLs")
-
-          def save_as_pdf(url, wanted_name):
-              try:
-                  r = s.get(url, timeout=25)
-                  if r.status_code!=200 or len(r.content)<10000: return False
-                  if not r.content.startswith(b'%PDF'): return False
-                  # direct save original PDF - best for RAG
-                  safe = wanted_name.replace("/", "_")
-                  open(f"imo_pdfs/{safe}", "wb").write(r.content)
-                  print(f"OK {safe} from {url}")
-                  return True
-              except Exception as e:
-                  return False
-
-          ok=0
-          for url,name in targets:
-              if os.path.exists(f"imo_pdfs/{name.replace('/', '_')}"): continue
-              if save_as_pdf(url,name):
-                  ok+=1
-                  if ok>200: break
-
-          print(f"Downloaded {ok} new Assembly/Council PDFs")
-          
-          # Also rebuild from existing master parts for missing ones
-          docs = defaultdict(list)
-          cur_src=None
-          cur=[]
-          import glob
-          for fn in sorted(glob.glob("master_imo_all_public_part*.txt")):
-              try:
-                  for line in open(fn, encoding='utf-8', errors='ignore'):
-                      if line.startswith("SOURCE:"):
-                          if cur_src and cur: docs[cur_src].append("".join(cur))
-                          cur_src=line.replace("SOURCE:","").strip()
-                          cur=[]
-                      elif "---CHUNK---" in line:
-                          if cur_src and cur: docs[cur_src].append("".join(cur))
-                          cur=[]
-                      else:
-                          cur.append(line)
-              except: pass
-          
-          print(f"Master parts have {len(docs)} sources total")
+                  for fmt in [f"A {sess}-Res.{n}", f"A {sess}-RES.{n}", f"A-{sess}-Res.{n}"]:
+                      for ext in [".docx", ".doc"]:
+                          url = base + fmt.replace(" ", "%20") + ext
+                          fname_pdf = f"A.{n}({sess}).pdf"
+                          if os.path.exists(f"imo_pdfs/{fname_pdf}"):
+                              continue
+                          try:
+                              r = s.get(url, timeout=20)
+                              if r.status_code!=200 or len(r.content)<8000: continue
+                              tmp = f"/tmp/{n}.docx"
+                              open(tmp, "wb").write(r.content)
+                              # read docx
+                              doc = Document(tmp)
+                              text = "\n".join([p.text for p in doc.paragraphs if p.text.strip()])
+                              if len(text)<200: continue
+                              # create PDF with page numbers
+                              pdf = FPDF()
+                              pdf.set_auto_page_break(auto=True, margin=15)
+                              pdf.set_font("Helvetica", size=10)
+                              # split into pages
+                              chunks = [text[i:i+2000] for i in range(0, len(text), 2000)]
+                              for idx, ch in enumerate(chunks):
+                                  pdf.add_page()
+                                  header = f"SOURCE: {fname_pdf} | Page {idx+1} | Original: {fmt}{ext}"
+                                  safe = (header + "\n\n" + ch).encode('latin-1','ignore').decode('latin-1')
+                                  pdf.multi_cell(0,5,safe)
+                              pdf.output(f"imo_pdfs/{fname_pdf}")
+                              print(f"OK Assembly {fname_pdf} from {url}")
+                              downloaded+=1
+                          except Exception as e:
+                              # print(e)
+                              pass
+          print(f"Total Assembly converted: {downloaded}")
+          print(f"Total PDFs now in imo_pdfs: {len(os.listdir('imo_pdfs'))}")
           PY
 
       - name: Commit with pull
@@ -103,5 +77,5 @@ jobs:
           git config user.email "bot@bot.com"
           git pull --rebase origin main || true
           git add -f imo_pdfs/
-          git commit -m "Add Assembly A.1155 etc + Council missing PDFs" || echo "nothing"
+          git commit -m "Add Assembly A.1100-A.1180 DOCX->PDF including A.1155(32)" || echo "nothing"
           git push
