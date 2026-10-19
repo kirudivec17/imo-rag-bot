@@ -1,4 +1,4 @@
-name: V6 FINAL Working - Index Pages Only
+name: V6 FINAL FIXED - Index Pages Only
 
 on:
   workflow_dispatch:
@@ -16,9 +16,9 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests beautifulsoup4 lxml --quiet
-      - name: V6 Index Only - Real PDFs
+      - name: V6 Index Only Fixed
         run: |
-          python - << 'PY'
+          python3 << 'PY'
           import os, re, requests, time
           from bs4 import BeautifulSoup
           from urllib.parse import urljoin
@@ -30,13 +30,11 @@ jobs:
           session = requests.Session()
           session.headers.update({"User-Agent":"Mozilla/5.0","Referer":"https://www.imo.org/"})
 
-          # YE PAGES PAKKA KAAM KARTE HAIN - tumhari pehli photo me inhi se 82 aaye the
           index_pages = [
               "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi.aspx",
               "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi-2.aspx",
               "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi-3.aspx",
               "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi-4.aspx",
-              # Aur bhi annex - ye tumne abhi tak try nahi kiye
               "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-I.aspx",
               "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-II.aspx",
               "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-IV.aspx",
@@ -45,9 +43,7 @@ jobs:
               "https://www.imo.org/en/KnowledgeCentre/Pages/Index-of-IMO-Resolutions.aspx",
               "https://www.imo.org/en/OurWork/Safety/Pages/Index-of-MSC-Resolutions.aspx",
               "https://www.imo.org/en/OurWork/Environment/Pages/List-of-MEPC-Circulars.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/List-of-MSC-Circulars.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/BWM-Convention-and-Guidelines.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-VI.aspx"
+              "https://www.imo.org/en/OurWork/Safety/Pages/List-of-MSC-Circulars.aspx"
           ]
 
           all_urls=set()
@@ -63,13 +59,56 @@ jobs:
                       href = a["href"]
                       if ".pdf" in href.lower():
                           full = urljoin(idx_url, href)
-                          # Only imo pdfs
-                          if "imo.org" in full.lower() or "/Documents/" in full or "/localresources/" in full:
-                              if "imo.org" not in full.lower():
-                                  full = urljoin("https://www.imo.org", href)
-                              # Fix wwwcdn
-                              if "/localresources/" in full and "wwwcdn" not in full:
-                                  full = full.replace("https://www.imo.org", "https://wwwcdn.imo.org")
-                              all_urls.add(full)
-                              found+=1
-                  print(f"{
+                          if "/localresources/" in full and "wwwcdn" not in full:
+                              full = full.replace("https://www.imo.org", "https://wwwcdn.imo.org")
+                          all_urls.add(full)
+                          found+=1
+                  print(f"{idx_url.split('/')[-1][:40]} -> {found} pdf links")
+                  time.sleep(0.5)
+              except Exception as e:
+                  print(f"Error {idx_url[:40]} {e}")
+
+          print(f"\nTotal unique from index pages: {len(all_urls)}")
+
+          def dl(url):
+              fn = url.split("/")[-1].split("?")[0]
+              fn = re.sub(r'[^A-Za-z0-9._() -]', '_', fn)
+              if len(fn)<5:
+                  fn = f"IMO_{abs(hash(url))%100000}.pdf"
+              if not fn.lower().endswith(".pdf"):
+                  fn+=".pdf"
+              path=f"imo_pdfs/{fn}"
+              if os.path.exists(path) and os.path.getsize(path)>10000:
+                  return f"SKIP {fn}"
+              try:
+                  r=session.get(url,timeout=30)
+                  if r.status_code==200 and len(r.content)>8000:
+                      open(path,"wb").write(r.content)
+                      return f"REAL OK {fn} {len(r.content)//1024}KB"
+              except:
+                  pass
+              return f"FAIL {fn}"
+
+          ok=0
+          from concurrent.futures import ThreadPoolExecutor
+          with ThreadPoolExecutor(max_workers=8) as ex:
+              for msg in ex.map(dl, all_urls):
+                  if "REAL OK" in msg:
+                      ok+=1
+                      print(msg)
+
+          after = len([f for f in os.listdir("imo_pdfs") if f.lower().endswith(".pdf")])
+          print(f"\n=== FINAL ===")
+          print(f"Before: {before}")
+          print(f"Now: {after} REAL")
+          print(f"New Added: {after-before}")
+          print(f"Success this run: {ok}")
+          PY
+      - name: Push
+        run: |
+          git config user.name bot
+          git config user.email bot@bot.com
+          git pull --rebase origin main || true
+          git add -f imo_pdfs/
+          git commit -m "V6 fixed - index pages" || true
+          git push
