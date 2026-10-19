@@ -1,81 +1,42 @@
-name: Build Assembly DOCX to PDF
+name: Audit - Where are all PDFs
 
 on:
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  build-assembly:
+  audit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
-      - run: pip install requests python-docx fpdf2 --quiet
-
-      - name: Download Assembly DOCX and convert to PDF
-        run: |
+      - run: |
           python3 << 'PY'
-          import requests, os, glob, urllib.parse
-          from docx import Document
-          from fpdf import FPDF
+          import glob, re, urllib.parse
+          from collections import Counter
 
-          s = requests.Session()
-          s.headers.update({"User-Agent":"Mozilla/5.0"})
-          os.makedirs("imo_pdfs", exist_ok=True)
+          sources = []
+          for fn in sorted(glob.glob("master_imo_all_public_part*.txt")):
+              txt = open(fn, encoding='utf-8', errors='ignore').read()
+              for m in re.findall(r'SOURCE:\s*([^\n]+)', txt):
+                  sources.append(m.strip())
 
-          base = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Assembly/"
+          print(f"Total SOURCE entries (with duplicates): {len(sources)}")
+          uniq = sorted(set(sources))
+          print(f"Unique PDFs in all 13 parts: {len(uniq)}")
+          for u in uniq[:50]:
+              print(f" - {urllib.parse.unquote(u)}")
+          print("...")
+          print(f"\nLast 50:")
+          for u in uniq[-50:]:
+              print(f" - {urllib.parse.unquote(u)}")
 
-          # A.1100 se A.1180 tak ke DOCX
-          downloaded = 0
-          for n in range(1100, 1181):
-              for sess in [28,29,30,31,32,33]:
-                  for fmt in [f"A {sess}-Res.{n}", f"A {sess}-RES.{n}", f"A-{sess}-Res.{n}"]:
-                      for ext in [".docx", ".doc"]:
-                          url = base + fmt.replace(" ", "%20") + ext
-                          fname_pdf = f"A.{n}({sess}).pdf"
-                          if os.path.exists(f"imo_pdfs/{fname_pdf}"):
-                              continue
-                          try:
-                              r = s.get(url, timeout=20)
-                              if r.status_code!=200 or len(r.content)<8000: continue
-                              tmp = f"/tmp/{n}.docx"
-                              open(tmp, "wb").write(r.content)
-                              # read docx
-                              doc = Document(tmp)
-                              text = "\n".join([p.text for p in doc.paragraphs if p.text.strip()])
-                              if len(text)<200: continue
-                              # create PDF with page numbers
-                              pdf = FPDF()
-                              pdf.set_auto_page_break(auto=True, margin=15)
-                              pdf.set_font("Helvetica", size=10)
-                              # split into pages
-                              chunks = [text[i:i+2000] for i in range(0, len(text), 2000)]
-                              for idx, ch in enumerate(chunks):
-                                  pdf.add_page()
-                                  header = f"SOURCE: {fname_pdf} | Page {idx+1} | Original: {fmt}{ext}"
-                                  safe = (header + "\n\n" + ch).encode('latin-1','ignore').decode('latin-1')
-                                  pdf.multi_cell(0,5,safe)
-                              pdf.output(f"imo_pdfs/{fname_pdf}")
-                              print(f"OK Assembly {fname_pdf} from {url}")
-                              downloaded+=1
-                          except Exception as e:
-                              # print(e)
-                              pass
-          print(f"Total Assembly converted: {downloaded}")
-          print(f"Total PDFs now in imo_pdfs: {len(os.listdir('imo_pdfs'))}")
+          # Check imo_pdfs folder
+          import os
+          if os.path.exists("imo_pdfs"):
+              print(f"\nimo_pdfs folder has: {len(os.listdir('imo_pdfs'))} files")
+              for f in sorted(os.listdir("imo_pdfs"))[:50]:
+                  print(f"  {f}")
+          else:
+              print("imo_pdfs folder missing")
           PY
-
-      - name: Commit with pull
-        run: |
-          git config user.name "bot"
-          git config user.email "bot@bot.com"
-          git pull --rebase origin main || true
-          git add -f imo_pdfs/
-          git commit -m "Add Assembly A.1100-A.1180 DOCX->PDF including A.1155(32)" || echo "nothing"
-          git push
