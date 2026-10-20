@@ -1,4 +1,4 @@
-name: V14 Serper Google - 50+ Real Target
+name: V15 Serper - 554 to 800
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  v14:
+  v15:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -16,72 +16,83 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests --quiet
-      - name: V14 Serper Search
+      - name: V15 Serper 554 to 800
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
-          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
         run: |
           python3 << 'PY'
-          import os, re, requests, json, time
+          import os, re, requests, json, time, hashlib
           from urllib.parse import unquote
 
           SERPER_KEY=os.getenv("SERPER_API_KEY")
           if not SERPER_KEY:
               print("ERROR: SERPER_API_KEY secret nahi mila!")
-              print("GEMINI_KEY se kaam nahi chalega, Serper.dev se key laake Secret me daal.")
               exit(1)
 
           os.makedirs("imo_pdfs", exist_ok=True)
+          # cleanup fake
           for f in os.listdir("imo_pdfs"):
               fp=os.path.join("imo_pdfs",f)
               try:
                   if os.path.getsize(fp)<12000:
                       os.remove(fp)
               except: pass
+
           before=len([f for f in os.listdir("imo_pdfs") if f.lower().endswith(".pdf")])
           print(f"Before: {before}")
 
+          # existing file hashes to avoid duplicate content with different name
+          existing_hashes=set()
+          for f in os.listdir("imo_pdfs"):
+              try:
+                  fp=os.path.join("imo_pdfs",f)
+                  if os.path.getsize(fp)>12000:
+                      with open(fp,"rb") as fh:
+                          h=hashlib.md5(fh.read(20000)).hexdigest()
+                          existing_hashes.add(h)
+              except: pass
+
           sess=requests.Session()
+          sess.headers.update({"User-Agent":"Mozilla/5.0"})
           all_urls=set()
 
-          # Serper se Google search - ye GitHub pe block nahi hota
           queries=[
               "site:wwwcdn.imo.org filetype:pdf",
-              "site:imo.org filetype:pdf MEPC resolution",
-              "site:imo.org filetype:pdf MSC resolution",
-              "site:imo.org filetype:pdf LSA Code FSS Code",
-              "site:imo.org filetype:pdf IMDG Code",
+              "site:imo.org filetype:pdf MEPC",
+              "site:imo.org filetype:pdf MSC",
+              "site:imo.org filetype:pdf A. assembly resolution",
+              "site:imo.org filetype:pdf BWM ballast",
+              "site:imo.org filetype:pdf IGF IGF Code",
+              "site:imo.org filetype:pdf IMDG Code volume",
+              "site:imo.org filetype:pdf Polar Code",
           ]
 
           for q in queries:
-              for page in [1,2,3,4,5]: # 5 pages = 50 results per query
+              for page in range(1,11): # 1 to 10 = 100 results per query
                   try:
                       payload=json.dumps({"q":q,"page":page,"num":10})
                       headers={"X-API-KEY":SERPER_KEY,"Content-Type":"application/json"}
                       r=requests.post("https://google.serper.dev/search", headers=headers, data=payload, timeout=20)
                       if r.status_code!=200:
-                          print(f"Serper fail {r.status_code} {r.text[:100]}")
+                          print(f"Serper fail {r.status_code}")
                           continue
                       data=r.json()
-                      links=data.get("organic",[])
                       found=0
-                      for item in links:
+                      for item in data.get("organic",[]):
                           link=item.get("link","")
                           if ".pdf" in link.lower() and "imo.org" in link.lower():
+                              # clean google redirect
+                              link=link.split("?")[0].split("#")[0].split("&")[0]
                               all_urls.add(link)
                               found+=1
-                          # snippet me bhi pdf link ho sakta hai
-                          snippet=item.get("snippet","")
-                          pdfs=re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', snippet, re.I)
-                          for p in pdfs:
-                              all_urls.add(p)
-                              found+=1
-                      print(f"Serper Q={q[:30]} page {page} -> {found} links")
-                      time.sleep(0.5)
+                      print(f"Q={q[:30]} page {page} -> {found} new links | Total {len(all_urls)}")
+                      time.sleep(0.3)
                   except Exception as e:
-                      print(f"Serper err {e}")
+                      print(f"err {e}")
+                  if len(all_urls)>1500:
+                      break
 
-          print(f"\nTotal unique from Serper Google: {len(all_urls)}")
+          print(f"\nTotal unique from Serper: {len(all_urls)}")
 
           def dl(url):
               try:
@@ -92,21 +103,32 @@ jobs:
                   path=f"imo_pdfs/{fn}"
                   if os.path.exists(path) and os.path.getsize(path)>12000:
                       return "SKIP"
-                  rr=sess.get(url, timeout=35)
-                  if rr.status_code==200 and len(rr.content)>12000 and b"%PDF" in rr.content[:6000]:
-                      open(path,"wb").write(rr.content)
-                      return f"REAL OK {fn} {len(rr.content)//1024}KB"
+                  r=sess.get(url, timeout=40)
+                  if r.status_code==200 and len(r.content)>12000 and b"%PDF" in r.content[:8000]:
+                      # hash check first 20KB
+                      h=hashlib.md5(r.content[:20000]).hexdigest()
+                      if h in existing_hashes:
+                          return "DUP_CONTENT"
+                      open(path,"wb").write(r.content)
+                      existing_hashes.add(h)
+                      return f"REAL OK {fn} {len(r.content)//1024}KB"
               except: pass
               return "FAIL"
 
           ok=0
           from concurrent.futures import ThreadPoolExecutor
-          with ThreadPoolExecutor(max_workers=5) as ex:
-              for m in ex.map(dl, list(all_urls)):
+          # shuffle to get variety
+          import random
+          urls=list(all_urls)
+          random.shuffle(urls)
+
+          with ThreadPoolExecutor(max_workers=6) as ex:
+              for m in ex.map(dl, urls):
                   if "REAL OK" in m:
                       ok+=1
                       print(m)
-                      if ok>=70:
+                      if ok>=150: # target 150 new in this run
+                          print("150 target reached")
                           break
 
           after=len([f for f in os.listdir("imo_pdfs") if os.path.getsize(os.path.join("imo_pdfs",f))>12000])
@@ -122,5 +144,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/
-          git commit -m "V14 serper google - real 50+" || true
+          git commit -m "V15 554 to 800 - 8 queries x 10 pages" || true
           git push
