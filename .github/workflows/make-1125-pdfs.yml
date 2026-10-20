@@ -1,4 +1,4 @@
-name: V18 Zero Credit Free Search
+name: V19 Direct CDN Crawl Zero Credit
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  v18:
+  v19:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -16,91 +16,78 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests beautifulsoup4 --quiet
-      - name: V18 Free Search No Serper
-        env:
-          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
+      - name: V19 CDN Crawl
         run: |
           python3 << 'PY'
-          import os, re, requests, time, hashlib, random
-          from urllib.parse import unquote
-
+          import os, re, requests, hashlib, random, time
+          from urllib.parse import unquote, urljoin
           os.makedirs("imo_pdfs", exist_ok=True)
           for f in os.listdir("imo_pdfs"):
               fp=os.path.join("imo_pdfs",f)
               try:
                   if os.path.getsize(fp)<12000: os.remove(fp)
               except: pass
-
           before=len([f for f in os.listdir("imo_pdfs") if os.path.getsize(os.path.join("imo_pdfs",f))>12000])
           print(f"Before: {before}")
-
           existing_hashes=set()
           for f in os.listdir("imo_pdfs"):
               try:
                   with open(os.path.join("imo_pdfs",f),"rb") as fh:
                       existing_hashes.add(hashlib.md5(fh.read(20000)).hexdigest())
               except: pass
-
           sess=requests.Session()
-          sess.headers.update({"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
+          sess.headers.update({"User-Agent":"Mozilla/5.0"})
           all_urls=set()
-
-          # METHOD 1: DuckDuckGo FREE - No API Key - No Credit - GitHub pe block nahi hota
-          queries=[
-              "site:wwwcdn.imo.org filetype:pdf",
-              "site:imo.org filetype:pdf SOLAS",
-              "site:imo.org filetype:pdf MARPOL",
-              "site:imo.org filetype:pdf STCW",
-              "site:imo.org filetype:pdf ISPS ISM",
-              "site:imo.org filetype:pdf IMDG Code",
-              "site:imo.org filetype:pdf MEPC resolution",
-              "site:imo.org filetype:pdf MSC resolution",
-          ]
-
-          for q in queries:
-              try:
-                  print(f"\nDuckDuckGo searching: {q}")
-                  # DuckDuckGo HTML endpoint - free
-                  url=f"https://html.duckduckgo.com/html/?q={q.replace(' ','+')}"
-                  r=sess.get(url, timeout=20)
-                  # regex se saare imo pdf nikalo
-                  found=re.findall(r'https?://[^"\'<> ]*imo\.org[^"\'<> ]*\.pdf', r.text, re.I)
-                  for link in found:
-                      clean=link.split("?")[0].split("#")[0].split("&")[0].split('"')[0].split("'")[0]
-                      clean=unquote(clean)
-                      if len(clean)>10:
-                          all_urls.add(clean)
-                  print(f" -> Found {len(found)} links, total unique {len(all_urls)}")
-                  time.sleep(1.5)
-              except Exception as e:
-                  print(f"DDG err {e}")
-
-          # METHOD 2: IMO ke direct publication pages se crawl - 0 credit
-          crawl_urls=[
+          # IMO ke asli folders - yahi pe 2000+ PDF pade hain
+          start_pages=[
+              "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/",
+              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/",
+              "https://wwwcdn.imo.org/localresources/en/OurWork/Security/",
+              "https://wwwcdn.imo.org/localresources/en/OurWork/Legal/",
+              "https://wwwcdn.imo.org/localresources/en/OurWork/Facilitation/",
+              "https://wwwcdn.imo.org/localresources/en/MediaCentre/",
+              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/",
               "https://www.imo.org/en/OurWork/Pages/Default.aspx",
-              "https://www.imo.org/en/MediaCentre/Pages/Home.aspx",
           ]
-          # wwwcdn ka open directory jaisa list try
-          for base in ["https://wwwcdn.imo.org/localresources/en/OurWork/"]:
+          # Recursive crawl
+          visited=set()
+          to_visit=start_pages[:]
+          while to_visit and len(all_urls)<3000:
+              url=to_visit.pop(0)
+              if url in visited: continue
+              visited.add(url)
               try:
-                  r=sess.get(base, timeout=20)
+                  r=sess.get(url, timeout=15)
+                  if r.status_code!=200: continue
+                  # saare pdf nikalo
                   pdfs=re.findall(r'href="([^"]+\.pdf)"', r.text, re.I)
                   for p in pdfs:
-                      if not p.startswith("http"):
-                          p=base+p
-                      all_urls.add(p.split("?")[0])
-              except: pass
+                      full=urljoin(url, p).split("?")[0].split("#")[0]
+                      if "imo.org" in full.lower():
+                          all_urls.add(full)
+                  # saare folders nikalo next crawl ke liye
+                  folders=re.findall(r'href="([^"]+/)"', r.text)
+                  for fo in folders[:20]:
+                      if fo.startswith("."): continue
+                      if "?" in fo or "#" in fo: continue
+                      full=urljoin(url, fo)
+                      if "wwwcdn.imo.org/localresources" in full and full not in visited:
+                          to_visit.append(full)
+                  print(f"Crawled {url[:60]} -> PDFs {len(all_urls)} Queue {len(to_visit)}")
+                  time.sleep(0.3)
+              except Exception as e:
+                  print(f"err {url} {e}")
 
-          print(f"\nTotal unique free pool: {len(all_urls)}")
+          print(f"Total unique from CDN crawl: {len(all_urls)}")
 
-          def dl(url):
+          def dl(u):
               try:
-                  fn=re.sub(r'[^A-Za-z0-9._() -]','_',unquote(url.split("/")[-1]))
+                  fn=re.sub(r'[^A-Za-z0-9._() -]','_',unquote(u.split("/")[-1]))
                   if len(fn)<5: return "SKIP"
                   if not fn.lower().endswith(".pdf"): fn+=".pdf"
                   path=f"imo_pdfs/{fn}"
                   if os.path.exists(path) and os.path.getsize(path)>12000: return "SKIP_NAME"
-                  rr=sess.get(url, timeout=40)
+                  rr=sess.get(u, timeout=40)
                   if rr.status_code==200 and len(rr.content)>12000 and b"%PDF" in rr.content[:8000]:
                       h=hashlib.md5(rr.content[:20000]).hexdigest()
                       if h in existing_hashes: return "DUP"
@@ -111,18 +98,16 @@ jobs:
               return "FAIL"
 
           ok=0
-          urls=list(all_urls); random.shuffle(urls)
           from concurrent.futures import ThreadPoolExecutor
-          with ThreadPoolExecutor(max_workers=6) as ex:
+          urls=list(all_urls); random.shuffle(urls)
+          with ThreadPoolExecutor(max_workers=8) as ex:
               for m in ex.map(dl, urls):
                   if "REAL OK" in m:
                       ok+=1
                       print(m)
-                      if ok>=200: break
-
+                      if ok>=300: break
           after=len([f for f in os.listdir("imo_pdfs") if os.path.getsize(os.path.join("imo_pdfs",f))>12000])
-          print(f"\n=== FINAL === Before {before} Now {after} Added {after-before} Success {ok}")
-          print(f"Serper Credits Used: 0")
+          print(f"\n=== FINAL === Before {before} Now {after} Added {after-before} Success {ok} Credit Used 0")
           PY
       - name: Push
         run: |
@@ -130,5 +115,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/
-          git commit -m "V18 zero credit free search" || true
+          git commit -m "V19 direct CDN crawl zero credit" || true
           git push
