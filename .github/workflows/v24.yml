@@ -1,10 +1,10 @@
-name: V25 New Pool 50 Credits
+name: V26 New Pool 50 Credits
 on:
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
-  v25:
+  v26:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -13,15 +13,14 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests --quiet
-      - name: Fill Folder 2 New Pool V25
+      - name: Fill Folder 2 V26
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: |
           python3 << 'PY'
           import os, re, requests, json, time, hashlib, random, urllib.parse
           SERPER_KEY=os.getenv("SERPER_API_KEY")
-          os.makedirs("imo_pdfs_2", exist_ok=True)
-          os.makedirs("imo_pdfs", exist_ok=True)
+          os.makedirs("imo_pdfs_2", exist_ok=True); os.makedirs("imo_pdfs", exist_ok=True)
           existing_hashes=set(); existing_names=set()
           for folder in ["imo_pdfs", "imo_pdfs_2"]:
             for f in os.listdir(folder):
@@ -32,19 +31,18 @@ jobs:
               except: pass
           before1=len(os.listdir("imo_pdfs")); before2=len(os.listdir("imo_pdfs_2"))
           print(f"Before: {before1}+{before2}={before1+before2}")
-          sess=requests.Session()
-          all_urls=set()
+          sess=requests.Session(); all_urls=set()
           queries=[
-            "site:imo.org filetype:pdf LEG Legal Committee",
-            "site:imo.org filetype:pdf MEPC 80 81 82 guidelines",
-            "site:imo.org filetype:pdf MSC 107 108 109 resolution",
-            "filetype:pdf imo.org audit scheme III Code",
-            "site:imo.org filetype:pdf FAL Convention amendments 2024",
-            "site:imo.org filetype:pdf Hong Kong Convention HKC recycling",
-            "site:imo.org filetype:pdf Casualty investigation code",
-            "filetype:pdf \"IMO\" \"Guidelines\" 2024 2023",
-            "site:imo.org filetype:pdf IMDG Code supplement",
-            "filetype:pdf imo.org MARPOL Annex VI",
+            "site:imo.org filetype:pdf MSC MEPC FAL LEG TCC",
+            "site:imo.org filetype:pdf Guidelines 2024 circular",
+            "filetype:pdf imo.org Hong Kong Convention ship recycling",
+            "site:imo.org filetype:pdf Code on Alerts 2023",
+            "filetype:pdf \"IMO\" \"Ballast Water\" BWM.2",
+            "site:imo.org filetype:pdf Biofouling GHG GHG-FAQ",
+            "filetype:pdf imo.org autonomous ships MASS",
+            "site:imo.org filetype:pdf Fire Protection FTP FSS",
+            "filetype:pdf imo.org LSA Code life-saving",
+            "site:imo.org filetype:pdf IMDG Code amendment 41-22",
           ]
           calls=0
           for q in queries:
@@ -56,13 +54,11 @@ jobs:
                 r=requests.post("https://google.serper.dev/search", headers=headers, data=payload, timeout=20)
                 for item in r.json().get("organic",[]):
                   link=item.get("link","").split("?")[0]
-                  if ".pdf" in link.lower():
-                    all_urls.add(link)
+                  if ".pdf" in link.lower(): all_urls.add(link)
                 print(f"[{calls}/50] {q[:35]} -> pool {len(all_urls)}")
                 time.sleep(0.3)
-              except Exception as e:
-                print(e)
-          print(f"Total pool: {len(all_urls)} | Existing: {len(existing_names)}")
+              except: pass
+          print(f"Total pool: {len(all_urls)}")
           def dl(url):
             try:
               fn=re.sub(r'[^A-Za-z0-9._() -]','_', urllib.parse.unquote(url.split("/")[-1]))
@@ -78,8 +74,8 @@ jobs:
                 return f"REAL OK {fn}"
             except: return "FAIL"
             return "FAIL"
-          urls=list(all_urls); random.shuffle(urls)
           from concurrent.futures import ThreadPoolExecutor
+          urls=list(all_urls); random.shuffle(urls)
           with ThreadPoolExecutor(max_workers=8) as ex:
             for m in ex.map(dl, urls):
               if "REAL OK" in m: print(m)
@@ -92,5 +88,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/ imo_pdfs_2/
-          git commit -m "V25 new pool" || true
+          git commit -m "V26" || true
           git push
