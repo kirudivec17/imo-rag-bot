@@ -1,4 +1,4 @@
-name: V22 Fill imo_pdfs_2 to 1000
+name: V23 Fill imo_pdfs_2 - New Pool
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  v22:
+  v23:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -16,21 +16,21 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests --quiet
-      - name: Fill Folder 2
+      - name: Fill Folder 2 with New Pool
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: |
           python3 << 'PY'
           import os, re, requests, json, time, hashlib, random
-          from urllib.parse import unquote
           SERPER_KEY=os.getenv("SERPER_API_KEY")
           os.makedirs("imo_pdfs_2", exist_ok=True)
           os.makedirs("imo_pdfs", exist_ok=True)
 
-          # dono folders ke hashes check karo taki repeat na ho
           existing_hashes=set()
+          existing_names=set()
           for folder in ["imo_pdfs", "imo_pdfs_2"]:
               for f in os.listdir(folder):
+                  existing_names.add(f.lower())
                   try:
                       with open(os.path.join(folder,f),"rb") as fh:
                           existing_hashes.add(hashlib.md5(fh.read(20000)).hexdigest())
@@ -42,21 +42,22 @@ jobs:
 
           sess=requests.Session()
           all_urls=set()
+          # 10 BILKUL NAYE QUERIES - V22 me use nahi hue
           queries=[
-              "site:imo.org filetype:pdf SOLAS",
-              "site:imo.org filetype:pdf MARPOL Annex",
-              "site:imo.org filetype:pdf COLREG",
-              "site:imo.org filetype:pdf ISPS ISM",
-              "site:imo.org filetype:pdf Load Lines",
-              "site:imo.org filetype:pdf IMSBC IGC IBC",
-              "site:imo.org filetype:pdf Casualty III Code",
-              "site:imo.org filetype:pdf Tonnage CSC",
-              "site:imo.org filetype:pdf MODU RO Code",
-              "site:imo.org filetype:pdf FAL STCW 2024",
+              "site:imo.org filetype:pdf IGF Code Polar Code",
+              "site:imo.org filetype:pdf FSS Code FTP Code LSA",
+              "site:imo.org filetype:pdf GMDSS IMDG Dangerous Goods",
+              "site:imo.org filetype:pdf Ballast Water BWM Convention",
+              "site:imo.org filetype:pdf GHG CII EEXI Decarbonization",
+              "site:imo.org filetype:pdf III Code Audit Scheme",
+              "site:imo.org filetype:pdf STCW Manila Amendments 2010",
+              "site:imo.org filetype:pdf Nairobi Wreck Removal Casualty",
+              "site:imo.org filetype:pdf Facilitation FAL Convention 2024",
+              "site:imo.org filetype:pdf SUA Convention Maritime Security",
           ]
           calls=0
           for q in queries:
-              for page in range(1,6): # 10x5=50 calls (50 credit use)
+              for page in range(1,6): # 50 calls
                   calls+=1
                   try:
                       payload=json.dumps({"q":q,"page":page,"num":10})
@@ -66,29 +67,30 @@ jobs:
                           link=item.get("link","").split("?")[0]
                           if ".pdf" in link.lower() and "imo.org" in link.lower():
                               all_urls.add(link)
-                      print(f"[{calls}] {q[:20]} p{page} -> {len(all_urls)}")
-                      time.sleep(0.2)
+                      print(f"[{calls}/50] {q[:25]} p{page} -> pool {len(all_urls)}")
+                      time.sleep(0.3)
                   except Exception as e:
                       print(e)
-          print(f"Total unique pool: {len(all_urls)}")
+          
+          print(f"Total unique pool: {len(all_urls)} | Existing files: {len(existing_names)}")
 
           def dl(url):
               try:
-                  from urllib.parse import unquote
-                  fn=re.sub(r'[^A-Za-z0-9._() -]','_',unquote(url.split("/")[-1]))
-                  if len(fn)<5: return "SKIP"
+                  fn=re.sub(r'[^A-Za-z0-9._() -]','_', __import__('urllib.parse', fromlist=['unquote']).unquote(url.split("/")[-1]))
+                  if len(fn)<5: return "SKIP_SHORT"
                   if not fn.lower().endswith(".pdf"): fn+=".pdf"
-                  # check dono folders me
-                  if os.path.exists(f"imo_pdfs/{fn}") or os.path.exists(f"imo_pdfs_2/{fn}"):
-                      return "SKIP_NAME"
+                  if fn.lower() in existing_names:
+                      return f"SKIP_NAME {fn}"
                   rr=sess.get(url, timeout=40)
-                  if rr.status_code==200 and len(rr.content)>12000 and b"%PDF" in rr.content[:8000]:
+                  if rr.status_code==200 and len(rr.content)>15000 and b"%PDF" in rr.content[:8000]:
                       h=hashlib.md5(rr.content[:20000]).hexdigest()
-                      if h in existing_hashes: return "DUP"
+                      if h in existing_hashes: return "DUP_CONTENT"
                       open(f"imo_pdfs_2/{fn}","wb").write(rr.content)
                       existing_hashes.add(h)
+                      existing_names.add(fn.lower())
                       return f"REAL OK {fn}"
-              except: pass
+              except Exception as e:
+                  return f"FAIL {e}"
               return "FAIL"
 
           ok=0
@@ -110,5 +112,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/ imo_pdfs_2/
-          git commit -m "V22 fill folder 2" || true
+          git commit -m "V23 new pool 50 credits" || true
           git push
