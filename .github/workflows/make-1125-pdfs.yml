@@ -1,4 +1,4 @@
-name: V10 Sitemap - Find New Indexes Beyond 384
+name: V11 Bing - Beyond Index - 50 Target
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  v10:
+  v11:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -16,12 +16,12 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests beautifulsoup4 lxml --quiet
-      - name: V10 Sitemap Crawl
+      - name: V11 Bing Search
         run: |
           python3 << 'PY'
-          import os, re, requests, time
+          import os, re, time, requests
           from bs4 import BeautifulSoup
-          from urllib.parse import urljoin, unquote
+          from urllib.parse import urljoin, unquote, quote
 
           os.makedirs("imo_pdfs", exist_ok=True)
           for f in os.listdir("imo_pdfs"):
@@ -34,102 +34,101 @@ jobs:
           print(f"Before: {before}")
 
           sess=requests.Session()
-          sess.headers.update({"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"})
-
-          # 1. Sitemap se saare Index pages nikalo
-          sitemap_urls=[]
-          for sm in ["https://www.imo.org/sitemap.xml","https://www.imo.org/robots.txt"]:
-              try:
-                  r=sess.get(sm, timeout=30)
-                  if r.status_code==200:
-                      urls=re.findall(r'https://www\.imo\.org/[^\s<]+\.aspx', r.text)
-                      sitemap_urls.extend(urls)
-                      print(f"{sm} -> {len(urls)} urls")
-              except: pass
-
-          # Manual + sitemap mix
-          keywords=["Index-of","Index_of","List-of","Resolutions","Circulars","Guidelines","Code.aspx","Annex","Polar","ISPS","ISM","IGF","IMDG","IBC","IGC","LSA","FSS","FTP"]
-          index_pages=[]
-          for u in sitemap_urls:
-              if any(k.lower() in u.lower() for k in keywords):
-                  index_pages.append(u)
-
-          # Extra known pages jo sitemap me nahi aaye
-          extra=[
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/Index-of-MSC-Resolutions.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-I.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-II.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-IV.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-V.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/LSA-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/FSS-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/IMDG-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/ISM-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/ISPS-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/Polar-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/IGF-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/IGC-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/IBC-Code.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/BWM-Convention-and-Guidelines.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Index-of-MEPC-Resolutions-and-Guidelines-related-to-MARPOL-Annex-VI.aspx",
-              "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi-2.aspx",
-              "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi-3.aspx",
-              "https://www.imo.org/en/ourwork/environment/pages/index-of-mepc-resolutions-and-guidelines-related-to-marpol-annex-vi-4.aspx",
-          ]
-          index_pages.extend(extra)
-          index_pages=list(set(index_pages))
-          print(f"Total Index pages to crawl: {len(index_pages)}")
+          sess.headers.update({
+              "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+              "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+              "Accept-Language":"en-US,en;q=0.5",
+              "Referer":"https://www.bing.com/"
+          })
 
           all_pdfs=set()
-          for pg in index_pages:
-              try:
-                  r=sess.get(pg, timeout=30)
-                  if r.status_code!=200:
-                      # try with wwwcdn
-                      # print(f"FAIL {pg[:50]} {r.status_code}")
-                      continue
-                  # find pdfs
-                  links=re.findall(r'href=["\']([^"\']+\.pdf[^"\']*)["\']', r.text, re.I)
-                  pdfs=re.findall(r'https://[^\s"\'<>]+\.pdf', r.text, re.I)
-                  for u in links+pdfs:
-                      full=urljoin(pg, u)
-                      full=full.split("#")[0].split("?")[0]
-                      if "imo.org" in full.lower() and ".pdf" in full.lower():
-                          if "/localresources/" in full and "wwwcdn" not in full:
-                              full=full.replace("https://www.imo.org","https://wwwcdn.imo.org")
-                          all_pdfs.add(full)
-                  if links or pdfs:
-                      print(f"{pg.split('/')[-1][:35]} -> {len(links)+len(pdfs)}")
-                  time.sleep(0.4)
-              except Exception as e:
-                  pass
 
-          print(f"\nTotal unique PDF links: {len(all_pdfs)}")
+          # Bing se 10 pages tak scrape - har page 10 results = 100 URLs
+          queries=[
+              "site:wwwcdn.imo.org filetype:pdf",
+              "site:imo.org filetype:pdf MEPC",
+              "site:imo.org filetype:pdf MSC",
+              "site:wwwcdn.imo.org filetype:pdf LSA FSS",
+              "site:wwwcdn.imo.org filetype:pdf IMDG IBC IGC"
+          ]
+
+          for q in queries:
+              for page in [0,10,20,30,40,50,60,70,80,90]:
+                  try:
+                      bing_url=f"https://www.bing.com/search?q={quote(q)}&first={page}&FORM=PERE"
+                      r=sess.get(bing_url, timeout=20)
+                      if r.status_code!=200:
+                          print(f"Bing {page} fail {r.status_code}")
+                          continue
+                      # Bing me PDF links
+                      soup=BeautifulSoup(r.text,"lxml")
+                      found=0
+                      for a in soup.find_all("a", href=True):
+                          href=a["href"]
+                          if ".pdf" in href.lower() and "imo.org" in href.lower():
+                              # Bing redirect clean
+                              if "bing.com" not in href.lower():
+                                  clean=href.split("&")[0]
+                                  all_pdfs.add(clean)
+                                  found+=1
+                      # regex backup
+                      pdfs=re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', r.text, re.I)
+                      pdfs+=re.findall(r'https://www\.imo\.org[^\s"\'<>]+\.pdf', r.text, re.I)
+                      for p in pdfs:
+                          all_pdfs.add(p)
+                          found+=1
+                      print(f"Bing Q={q[:25]} page {page} -> {found}")
+                      time.sleep(1.2)
+                  except Exception as e:
+                      print(f"Bing err {e}")
+
+          print(f"\nTotal unique from Bing: {len(all_pdfs)}")
+
+          # Also try direct cdn directory brute with known folders
+          cdn_folders=[
+              "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/",
+              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/",
+              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/",
+          ]
+          # we already have these, but try to list via ? (sometimes 403 but try)
+          for folder in cdn_folders:
+              try:
+                  r=sess.get(folder, timeout=15)
+                  pdfs=re.findall(r'href=["\']([^"\']+\.pdf)["\']', r.text, re.I)
+                  for p in pdfs:
+                      full=urljoin(folder,p)
+                      all_pdfs.add(full)
+                  if pdfs:
+                      print(f"Folder {folder[-30:]} -> {len(pdfs)}")
+              except: pass
 
           def dl(url):
               try:
-                  name=unquote(url.split("/")[-1])
+                  name=unquote(url.split("/")[-1].split("?")[0].split("#")[0])
+                  name=name.split("&")[0]
                   fn=re.sub(r'[^A-Za-z0-9._() -]','_',name)
-                  if len(fn)<5: fn=f"IMO_{abs(hash(url))%100000}.pdf"
+                  if len(fn)<5: return "SKIP"
                   if not fn.lower().endswith(".pdf"): fn+=".pdf"
                   path=f"imo_pdfs/{fn}"
                   if os.path.exists(path) and os.path.getsize(path)>12000:
                       return "SKIP"
                   r=sess.get(url, timeout=30)
-                  if r.status_code==200 and len(r.content)>12000 and b"%PDF" in r.content[:5000]:
+                  if r.status_code==200 and len(r.content)>12000 and b"%PDF" in r.content[:6000]:
                       open(path,"wb").write(r.content)
                       return f"REAL OK {fn} {len(r.content)//1024}KB"
-              except: pass
+              except Exception as e:
+                  pass
               return "FAIL"
 
           ok=0
           from concurrent.futures import ThreadPoolExecutor
-          with ThreadPoolExecutor(max_workers=6) as ex:
+          with ThreadPoolExecutor(max_workers=5) as ex:
               for m in ex.map(dl, list(all_pdfs)):
                   if "REAL OK" in m:
                       ok+=1
                       print(m)
+                      if ok>=70:
+                          break
 
           after=len([f for f in os.listdir("imo_pdfs") if os.path.getsize(os.path.join("imo_pdfs",f))>12000])
           print(f"\n=== FINAL ===")
@@ -137,6 +136,7 @@ jobs:
           print(f"Now: {after}")
           print(f"New Added: {after-before}")
           print(f"Success: {ok}")
+          print(f"Total links found: {len(all_pdfs)}")
           PY
       - name: Push
         run: |
@@ -144,5 +144,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/
-          git commit -m "V10 sitemap - new indexes beyond annex vi" || true
+          git commit -m "V11 Bing beyond index - target 50+" || true
           git push
