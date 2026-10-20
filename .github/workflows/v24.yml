@@ -1,10 +1,10 @@
-name: V28 3-Folder 1900 Credits
+name: V29 Continue to 3500
 on:
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
-  v28:
+  v29:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -13,37 +13,70 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests --quiet
-      - name: Fill 3 Folders
+      - name: Fill Auto Folder
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: |
           python3 << 'PY'
           import os, re, requests, json, time, hashlib, random, urllib.parse
           SERPER_KEY=os.getenv("SERPER_API_KEY")
-          for d in ["imo_pdfs","imo_pdfs_2","imo_pdfs_3"]:
-            os.makedirs(d, exist_ok=True)
+          # ensure folders
+          for i in range(1,10):
+            p=f"imo_pdfs_{i}" if i>1 else "imo_pdfs"
+            if i==1 or os.path.exists(p) or i<=4:
+              os.makedirs(p, exist_ok=True)
+          
+          def get_all_folders():
+            folders=["imo_pdfs"]
+            for i in range(2,20):
+              p=f"imo_pdfs_{i}"
+              if os.path.exists(p):
+                folders.append(p)
+            return folders
+          
+          folders=get_all_folders()
           existing_hashes=set(); existing_names=set()
-          for folder in ["imo_pdfs","imo_pdfs_2","imo_pdfs_3"]:
+          for folder in folders:
             for f in os.listdir(folder):
               existing_names.add(f.lower())
               try:
                 with open(os.path.join(folder,f),"rb") as fh:
                   existing_hashes.add(hashlib.md5(fh.read(20000)).hexdigest())
               except: pass
-          before = sum(len(os.listdir(d)) for d in ["imo_pdfs","imo_pdfs_2","imo_pdfs_3"])
-          print(f"Before Total: {before} | 1:{len(os.listdir('imo_pdfs'))} 2:{len(os.listdir('imo_pdfs_2'))} 3:{len(os.listdir('imo_pdfs_3'))}")
+          
+          before = sum(len(os.listdir(d)) for d in folders)
+          for f in folders:
+            print(f"{f}: {len(os.listdir(f))}")
+          print(f"Before Total: {before}")
+          
+          # choose target: first folder <995 else newest
+          target="imo_pdfs_3"
+          for f in folders:
+            if len(os.listdir(f)) < 995:
+              target=f
+              break
+          else:
+            # all full, create next
+            target=f"imo_pdfs_{len(folders)+1}" if len(folders)>1 else "imo_pdfs_2"
+            if target=="imo_pdfs": target="imo_pdfs_2"
+            if not os.path.exists(target):
+              os.makedirs(target, exist_ok=True)
+              folders.append(target)
+          
+          print(f"TARGET FOLDER: {target}")
+          
           sess=requests.Session(); all_urls=set()
           queries=[
-            "filetype:pdf DNV GL IMO regulation SOLAS MARPOL",
-            "filetype:pdf ClassNK IMO requirements",
-            "filetype:pdf Lloyd's Register IMO conventions",
-            "filetype:pdf ABS American Bureau Shipping IMO",
-            "filetype:pdf BIMCO IMO Hong Kong Convention recycling",
-            "filetype:pdf IMO carriage requirements publications carriage",
-            "filetype:pdf Ballast Water Management IMO guidelines",
-            "filetype:pdf Cybersecurity maritime IMO 2024",
-            "filetype:pdf Polar Code IMO DNV GL",
-            "filetype:pdf Ship recycling Hong Kong Convention 2025",
+            "filetype:pdf IMO SOLAS Consolidated Edition 2024",
+            "filetype:pdf IMO MARPOL complete text",
+            "filetype:pdf ClassNK Guidelines survey",
+            "filetype:pdf DNV Rules classification",
+            "filetype:pdf ABS Requirements autonomous ships MASS",
+            "filetype:pdf Lloyds Register IMO compliance",
+            "filetype:pdf Hong Kong Convention inventory hazardous materials IHM",
+            "filetype:pdf IMO FAL Convention explained",
+            "filetype:pdf IMO ISPS Code guide",
+            "filetype:pdf BIMCO ship recycling facilities",
           ]
           calls=0
           for q in queries:
@@ -58,8 +91,11 @@ jobs:
                   if ".pdf" in link.lower(): all_urls.add(link)
                 print(f"[{calls}/50] pool {len(all_urls)}")
                 time.sleep(0.3)
-              except: pass
+              except Exception as e:
+                print(e)
+          
           print(f"Total pool: {len(all_urls)} Existing: {len(existing_names)}")
+          
           def dl(url):
             try:
               fn=re.sub(r'[^A-Za-z0-9._() -]','_', urllib.parse.unquote(url.split("/")[-1]))
@@ -70,24 +106,28 @@ jobs:
               if rr.status_code==200 and len(rr.content)>15000 and b"%PDF" in rr.content[:8000]:
                 h=hashlib.md5(rr.content[:20000]).hexdigest()
                 if h in existing_hashes: return "DUP"
-                open(f"imo_pdfs_3/{fn}","wb").write(rr.content)
+                open(f"{target}/{fn}","wb").write(rr.content)
                 existing_hashes.add(h); existing_names.add(fn.lower())
                 return f"REAL OK {fn}"
             except: return "FAIL"
             return "FAIL"
+          
           from concurrent.futures import ThreadPoolExecutor
           urls=list(all_urls); random.shuffle(urls)
           with ThreadPoolExecutor(max_workers=8) as ex:
             for m in ex.map(dl, urls):
               if "REAL OK" in m: print(m)
-          after = sum(len(os.listdir(d)) for d in ["imo_pdfs","imo_pdfs_2","imo_pdfs_3"])
-          print(f"\n=== FINAL === 1:{len(os.listdir('imo_pdfs'))} 2:{len(os.listdir('imo_pdfs_2'))} 3:{len(os.listdir('imo_pdfs_3'))} Total={after} Added={after-before} Credits {calls}")
+          
+          folders=get_all_folders()
+          after = sum(len(os.listdir(d)) for d in folders)
+          final_str=" ".join([f"{f}:{len(os.listdir(f))}" for f in folders])
+          print(f"\n=== FINAL === {final_str} Total={after} Added={after-before} Credits {calls}")
           PY
       - name: Push
         run: |
           git config user.name bot
           git config user.email bot@bot.com
           git pull --rebase origin main || true
-          git add -f imo_pdfs/ imo_pdfs_2/ imo_pdfs_3/
-          git commit -m "V28 3-folder" || true
+          git add -f imo_pdfs/ imo_pdfs_2/ imo_pdfs_3/ imo_pdfs_4/ imo_pdfs_5/ || true
+          git commit -m "V29 auto folder" || true
           git push
