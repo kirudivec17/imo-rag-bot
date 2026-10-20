@@ -1,10 +1,10 @@
-name: V26 New Pool 50 Credits
+name: V27 Final Push 50 Credits
 on:
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
-  v26:
+  v27:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests --quiet
-      - name: Fill Folder 2 V26
+      - name: Fill Folder 2 V27
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: |
@@ -33,16 +33,16 @@ jobs:
           print(f"Before: {before1}+{before2}={before1+before2}")
           sess=requests.Session(); all_urls=set()
           queries=[
-            "site:imo.org filetype:pdf MSC MEPC FAL LEG TCC",
-            "site:imo.org filetype:pdf Guidelines 2024 circular",
-            "filetype:pdf imo.org Hong Kong Convention ship recycling",
-            "site:imo.org filetype:pdf Code on Alerts 2023",
-            "filetype:pdf \"IMO\" \"Ballast Water\" BWM.2",
-            "site:imo.org filetype:pdf Biofouling GHG GHG-FAQ",
-            "filetype:pdf imo.org autonomous ships MASS",
-            "site:imo.org filetype:pdf Fire Protection FTP FSS",
-            "filetype:pdf imo.org LSA Code life-saving",
-            "site:imo.org filetype:pdf IMDG Code amendment 41-22",
+            "site:imo.org filetype:pdf SOLAS amendment 2024 2025",
+            "site:imo.org filetype:pdf MARPOL Annex I II III IV V VI",
+            "filetype:pdf imo.org COLREG Load Line",
+            "site:imo.org filetype:pdf STCW Manila Convention",
+            "filetype:pdf imo.org ISPS ISM Code",
+            "site:imo.org filetype:pdf Tonnage CSC MODU",
+            "filetype:pdf imo.org IMSBC IGC IBC Code",
+            "site:imo.org filetype:pdf Casualty III Code audit",
+            "filetype:pdf imo.org Polar IGF FSS FTP LSA GMDSS",
+            "filetype:pdf imo.org FAL Convention Facilitation",
           ]
           calls=0
           for q in queries:
@@ -55,7 +55,7 @@ jobs:
                 for item in r.json().get("organic",[]):
                   link=item.get("link","").split("?")[0]
                   if ".pdf" in link.lower(): all_urls.add(link)
-                print(f"[{calls}/50] {q[:35]} -> pool {len(all_urls)}")
+                print(f"[{calls}/50] {q[:30]} -> pool {len(all_urls)}")
                 time.sleep(0.3)
               except: pass
           print(f"Total pool: {len(all_urls)}")
@@ -88,5 +88,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/ imo_pdfs_2/
-          git commit -m "V26" || true
+          git commit -m "V27" || true
           git push
