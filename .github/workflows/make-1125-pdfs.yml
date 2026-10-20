@@ -1,4 +1,4 @@
-name: V21 Create imo_pdfs_2
+name: V21 Fix Split Space Safe
 
 on:
   workflow_dispatch:
@@ -7,41 +7,38 @@ permissions:
   contents: write
 
 jobs:
-  v21:
+  v21fix:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Split 1271 into 2 folders
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Split 1271 into 2 folders - Python Safe
         run: |
-          echo "Before split:"
-          ls imo_pdfs | wc -l
-          
-          mkdir -p imo_pdfs_2
-          mkdir -p imo_pdfs
-
-          # 1000 files imo_pdfs me rakho, baaki 271 imo_pdfs_2 me bhejo
-          cd imo_pdfs
-          files=$(ls -1 | sort)
-          count=0
-          for f in $files; do
-            count=$((count+1))
-            if [ $count -gt 1000 ]; then
-              mv "$f" ../imo_pdfs_2/
-            fi
-          done
-          cd ..
-          
-          echo "After split:"
-          echo -n "imo_pdfs count: "
-          ls imo_pdfs | wc -l
-          echo -n "imo_pdfs_2 count: "
-          ls imo_pdfs_2 | wc -l
-
+          python3 << 'PY'
+          import os, shutil
+          os.makedirs("imo_pdfs_2", exist_ok=True)
+          files = sorted([f for f in os.listdir("imo_pdfs") if os.path.isfile(os.path.join("imo_pdfs", f))])
+          print(f"Before split: {len(files)}")
+          # 1000 imo_pdfs me rakho, baaki imo_pdfs_2 me
+          for i, f in enumerate(files):
+              if i >= 1000:
+                  src = os.path.join("imo_pdfs", f)
+                  dst = os.path.join("imo_pdfs_2", f)
+                  try:
+                      shutil.move(src, dst)
+                  except Exception as e:
+                      print(f"err {f} {e}")
+          print(f"After:")
+          print(f"imo_pdfs: {len(os.listdir('imo_pdfs'))}")
+          print(f"imo_pdfs_2: {len(os.listdir('imo_pdfs_2'))}")
+          PY
       - name: Push both folders
         run: |
           git config user.name bot
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/ imo_pdfs_2/
-          git commit -m "V21 split 1271 into 1000 + 271 - fix truncate warning" || true
+          git commit -m "V21 fix split 1271 into 1000+271 space safe" || true
           git push
