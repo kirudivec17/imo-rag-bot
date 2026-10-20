@@ -1,4 +1,4 @@
-name: V11 Bing - Beyond Index - 50 Target
+name: V12 Wayback - Real 50 Beyond 397
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  v11:
+  v12:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -15,15 +15,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests beautifulsoup4 lxml --quiet
-      - name: V11 Bing Search
+      - run: pip install requests --quiet
+      - name: V12 Wayback CDX
         run: |
           python3 << 'PY'
-          import os, re, time, requests
-          from bs4 import BeautifulSoup
-          from urllib.parse import urljoin, unquote, quote
+          import os, re, requests, time
+          from urllib.parse import unquote
 
           os.makedirs("imo_pdfs", exist_ok=True)
+          # fake <12KB delete
           for f in os.listdir("imo_pdfs"):
               fp=os.path.join("imo_pdfs",f)
               try:
@@ -34,100 +34,63 @@ jobs:
           print(f"Before: {before}")
 
           sess=requests.Session()
-          sess.headers.update({
-              "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
-              "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-              "Accept-Language":"en-US,en;q=0.5",
-              "Referer":"https://www.bing.com/"
-          })
+          sess.headers.update({"User-Agent":"Mozilla/5.0"})
 
-          all_pdfs=set()
+          all_urls=set()
 
-          # Bing se 10 pages tak scrape - har page 10 results = 100 URLs
-          queries=[
-              "site:wwwcdn.imo.org filetype:pdf",
-              "site:imo.org filetype:pdf MEPC",
-              "site:imo.org filetype:pdf MSC",
-              "site:wwwcdn.imo.org filetype:pdf LSA FSS",
-              "site:wwwcdn.imo.org filetype:pdf IMDG IBC IGC"
+          # Wayback CDX API - ye GitHub pe block nahi hota
+          cdx_queries=[
+              "https://web.archive.org/cdx/search/web?url=wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/&output=text&fl=original&collapse=urlkey&limit=2000",
+              "https://web.archive.org/cdx/search/web?url=wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/&output=text&fl=original&collapse=urlkey&limit=2000",
+              "https://web.archive.org/cdx/search/web?url=wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/&output=text&fl=original&collapse=urlkey&limit=2000",
+              "https://web.archive.org/cdx/search/web?url=www.imo.org/localresources/en/&output=text&fl=original&collapse=urlkey&limit=2000",
           ]
 
-          for q in queries:
-              for page in [0,10,20,30,40,50,60,70,80,90]:
-                  try:
-                      bing_url=f"https://www.bing.com/search?q={quote(q)}&first={page}&FORM=PERE"
-                      r=sess.get(bing_url, timeout=20)
-                      if r.status_code!=200:
-                          print(f"Bing {page} fail {r.status_code}")
-                          continue
-                      # Bing me PDF links
-                      soup=BeautifulSoup(r.text,"lxml")
-                      found=0
-                      for a in soup.find_all("a", href=True):
-                          href=a["href"]
-                          if ".pdf" in href.lower() and "imo.org" in href.lower():
-                              # Bing redirect clean
-                              if "bing.com" not in href.lower():
-                                  clean=href.split("&")[0]
-                                  all_pdfs.add(clean)
-                                  found+=1
-                      # regex backup
-                      pdfs=re.findall(r'https://wwwcdn\.imo\.org[^\s"\'<>]+\.pdf', r.text, re.I)
-                      pdfs+=re.findall(r'https://www\.imo\.org[^\s"\'<>]+\.pdf', r.text, re.I)
-                      for p in pdfs:
-                          all_pdfs.add(p)
-                          found+=1
-                      print(f"Bing Q={q[:25]} page {page} -> {found}")
-                      time.sleep(1.2)
-                  except Exception as e:
-                      print(f"Bing err {e}")
-
-          print(f"\nTotal unique from Bing: {len(all_pdfs)}")
-
-          # Also try direct cdn directory brute with known folders
-          cdn_folders=[
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/",
-          ]
-          # we already have these, but try to list via ? (sometimes 403 but try)
-          for folder in cdn_folders:
+          for cdx in cdx_queries:
               try:
-                  r=sess.get(folder, timeout=15)
-                  pdfs=re.findall(r'href=["\']([^"\']+\.pdf)["\']', r.text, re.I)
-                  for p in pdfs:
-                      full=urljoin(folder,p)
-                      all_pdfs.add(full)
-                  if pdfs:
-                      print(f"Folder {folder[-30:]} -> {len(pdfs)}")
-              except: pass
+                  print(f"Fetching CDX: {cdx[:70]}...")
+                  r=sess.get(cdx, timeout=40)
+                  if r.status_code==200:
+                      lines=r.text.splitlines()
+                      for line in lines:
+                          if ".pdf" in line.lower():
+                              # original URL is the line itself in text mode
+                              url=line.strip()
+                              if "imo.org" in url and ".pdf" in url.lower():
+                                  all_urls.add(url)
+                      print(f" -> Found {len(lines)} entries")
+                  time.sleep(1)
+              except Exception as e:
+                  print(f"CDX fail {e}")
+
+          print(f"\nTotal unique from Wayback: {len(all_urls)}")
 
           def dl(url):
               try:
-                  name=unquote(url.split("/")[-1].split("?")[0].split("#")[0])
-                  name=name.split("&")[0]
-                  fn=re.sub(r'[^A-Za-z0-9._() -]','_',name)
+                  raw=unquote(url.split("/")[-1].split("?")[0].split("#")[0])
+                  fn=re.sub(r'[^A-Za-z0-9._() -]','_',raw)
                   if len(fn)<5: return "SKIP"
                   if not fn.lower().endswith(".pdf"): fn+=".pdf"
                   path=f"imo_pdfs/{fn}"
                   if os.path.exists(path) and os.path.getsize(path)>12000:
                       return "SKIP"
+                  # Download direct from wwwcdn, not from web.archive
                   r=sess.get(url, timeout=30)
                   if r.status_code==200 and len(r.content)>12000 and b"%PDF" in r.content[:6000]:
                       open(path,"wb").write(r.content)
                       return f"REAL OK {fn} {len(r.content)//1024}KB"
-              except Exception as e:
-                  pass
+              except: pass
               return "FAIL"
 
           ok=0
           from concurrent.futures import ThreadPoolExecutor
-          with ThreadPoolExecutor(max_workers=5) as ex:
-              for m in ex.map(dl, list(all_pdfs)):
+          with ThreadPoolExecutor(max_workers=6) as ex:
+              for m in ex.map(dl, list(all_urls)):
                   if "REAL OK" in m:
                       ok+=1
                       print(m)
-                      if ok>=70:
+                      if ok>=60:
+                          print("60 reached, stopping")
                           break
 
           after=len([f for f in os.listdir("imo_pdfs") if os.path.getsize(os.path.join("imo_pdfs",f))>12000])
@@ -136,7 +99,6 @@ jobs:
           print(f"Now: {after}")
           print(f"New Added: {after-before}")
           print(f"Success: {ok}")
-          print(f"Total links found: {len(all_pdfs)}")
           PY
       - name: Push
         run: |
@@ -144,5 +106,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/
-          git commit -m "V11 Bing beyond index - target 50+" || true
+          git commit -m "V12 wayback beyond index - 50 target" || true
           git push
