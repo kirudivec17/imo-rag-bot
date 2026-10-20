@@ -1,4 +1,4 @@
-name: V21 Fix Split Space Safe
+name: V22 Fill imo_pdfs_2 to 1000
 
 on:
   workflow_dispatch:
@@ -7,38 +7,108 @@ permissions:
   contents: write
 
 jobs:
-  v21fix:
+  v22:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Split 1271 into 2 folders - Python Safe
+      - run: pip install requests --quiet
+      - name: Fill Folder 2
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: |
           python3 << 'PY'
-          import os, shutil
+          import os, re, requests, json, time, hashlib, random
+          from urllib.parse import unquote
+          SERPER_KEY=os.getenv("SERPER_API_KEY")
           os.makedirs("imo_pdfs_2", exist_ok=True)
-          files = sorted([f for f in os.listdir("imo_pdfs") if os.path.isfile(os.path.join("imo_pdfs", f))])
-          print(f"Before split: {len(files)}")
-          # 1000 imo_pdfs me rakho, baaki imo_pdfs_2 me
-          for i, f in enumerate(files):
-              if i >= 1000:
-                  src = os.path.join("imo_pdfs", f)
-                  dst = os.path.join("imo_pdfs_2", f)
+          os.makedirs("imo_pdfs", exist_ok=True)
+
+          # dono folders ke hashes check karo taki repeat na ho
+          existing_hashes=set()
+          for folder in ["imo_pdfs", "imo_pdfs_2"]:
+              for f in os.listdir(folder):
                   try:
-                      shutil.move(src, dst)
+                      with open(os.path.join(folder,f),"rb") as fh:
+                          existing_hashes.add(hashlib.md5(fh.read(20000)).hexdigest())
+                  except: pass
+          
+          before1=len(os.listdir("imo_pdfs"))
+          before2=len(os.listdir("imo_pdfs_2"))
+          print(f"Before: imo_pdfs={before1} imo_pdfs_2={before2} Total={before1+before2}")
+
+          sess=requests.Session()
+          all_urls=set()
+          queries=[
+              "site:imo.org filetype:pdf SOLAS",
+              "site:imo.org filetype:pdf MARPOL Annex",
+              "site:imo.org filetype:pdf COLREG",
+              "site:imo.org filetype:pdf ISPS ISM",
+              "site:imo.org filetype:pdf Load Lines",
+              "site:imo.org filetype:pdf IMSBC IGC IBC",
+              "site:imo.org filetype:pdf Casualty III Code",
+              "site:imo.org filetype:pdf Tonnage CSC",
+              "site:imo.org filetype:pdf MODU RO Code",
+              "site:imo.org filetype:pdf FAL STCW 2024",
+          ]
+          calls=0
+          for q in queries:
+              for page in range(1,6): # 10x5=50 calls (50 credit use)
+                  calls+=1
+                  try:
+                      payload=json.dumps({"q":q,"page":page,"num":10})
+                      headers={"X-API-KEY":SERPER_KEY,"Content-Type":"application/json"}
+                      r=requests.post("https://google.serper.dev/search", headers=headers, data=payload, timeout=20)
+                      for item in r.json().get("organic",[]):
+                          link=item.get("link","").split("?")[0]
+                          if ".pdf" in link.lower() and "imo.org" in link.lower():
+                              all_urls.add(link)
+                      print(f"[{calls}] {q[:20]} p{page} -> {len(all_urls)}")
+                      time.sleep(0.2)
                   except Exception as e:
-                      print(f"err {f} {e}")
-          print(f"After:")
-          print(f"imo_pdfs: {len(os.listdir('imo_pdfs'))}")
-          print(f"imo_pdfs_2: {len(os.listdir('imo_pdfs_2'))}")
+                      print(e)
+          print(f"Total unique pool: {len(all_urls)}")
+
+          def dl(url):
+              try:
+                  from urllib.parse import unquote
+                  fn=re.sub(r'[^A-Za-z0-9._() -]','_',unquote(url.split("/")[-1]))
+                  if len(fn)<5: return "SKIP"
+                  if not fn.lower().endswith(".pdf"): fn+=".pdf"
+                  # check dono folders me
+                  if os.path.exists(f"imo_pdfs/{fn}") or os.path.exists(f"imo_pdfs_2/{fn}"):
+                      return "SKIP_NAME"
+                  rr=sess.get(url, timeout=40)
+                  if rr.status_code==200 and len(rr.content)>12000 and b"%PDF" in rr.content[:8000]:
+                      h=hashlib.md5(rr.content[:20000]).hexdigest()
+                      if h in existing_hashes: return "DUP"
+                      open(f"imo_pdfs_2/{fn}","wb").write(rr.content)
+                      existing_hashes.add(h)
+                      return f"REAL OK {fn}"
+              except: pass
+              return "FAIL"
+
+          ok=0
+          from concurrent.futures import ThreadPoolExecutor
+          urls=list(all_urls); random.shuffle(urls)
+          with ThreadPoolExecutor(max_workers=8) as ex:
+              for m in ex.map(dl, urls):
+                  if "REAL OK" in m:
+                      ok+=1
+                      print(m)
+
+          after1=len(os.listdir("imo_pdfs"))
+          after2=len(os.listdir("imo_pdfs_2"))
+          print(f"\n=== FINAL === imo_pdfs={after1} imo_pdfs_2={after2} Total={after1+after2} Added={after2-before2} Credits {calls}")
           PY
-      - name: Push both folders
+      - name: Push
         run: |
           git config user.name bot
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/ imo_pdfs_2/
-          git commit -m "V21 fix split 1271 into 1000+271 space safe" || true
+          git commit -m "V22 fill folder 2" || true
           git push
