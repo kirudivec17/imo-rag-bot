@@ -1,4 +1,4 @@
-name: V19 Direct CDN Crawl Zero Credit
+name: V21 Create imo_pdfs_2
 
 on:
   workflow_dispatch:
@@ -7,113 +7,41 @@ permissions:
   contents: write
 
 jobs:
-  v19:
+  v21:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - run: pip install requests beautifulsoup4 --quiet
-      - name: V19 CDN Crawl
+      - name: Split 1271 into 2 folders
         run: |
-          python3 << 'PY'
-          import os, re, requests, hashlib, random, time
-          from urllib.parse import unquote, urljoin
-          os.makedirs("imo_pdfs", exist_ok=True)
-          for f in os.listdir("imo_pdfs"):
-              fp=os.path.join("imo_pdfs",f)
-              try:
-                  if os.path.getsize(fp)<12000: os.remove(fp)
-              except: pass
-          before=len([f for f in os.listdir("imo_pdfs") if os.path.getsize(os.path.join("imo_pdfs",f))>12000])
-          print(f"Before: {before}")
-          existing_hashes=set()
-          for f in os.listdir("imo_pdfs"):
-              try:
-                  with open(os.path.join("imo_pdfs",f),"rb") as fh:
-                      existing_hashes.add(hashlib.md5(fh.read(20000)).hexdigest())
-              except: pass
-          sess=requests.Session()
-          sess.headers.update({"User-Agent":"Mozilla/5.0"})
-          all_urls=set()
-          # IMO ke asli folders - yahi pe 2000+ PDF pade hain
-          start_pages=[
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Security/",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Legal/",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Facilitation/",
-              "https://wwwcdn.imo.org/localresources/en/MediaCentre/",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/",
-              "https://www.imo.org/en/OurWork/Pages/Default.aspx",
-          ]
-          # Recursive crawl
-          visited=set()
-          to_visit=start_pages[:]
-          while to_visit and len(all_urls)<3000:
-              url=to_visit.pop(0)
-              if url in visited: continue
-              visited.add(url)
-              try:
-                  r=sess.get(url, timeout=15)
-                  if r.status_code!=200: continue
-                  # saare pdf nikalo
-                  pdfs=re.findall(r'href="([^"]+\.pdf)"', r.text, re.I)
-                  for p in pdfs:
-                      full=urljoin(url, p).split("?")[0].split("#")[0]
-                      if "imo.org" in full.lower():
-                          all_urls.add(full)
-                  # saare folders nikalo next crawl ke liye
-                  folders=re.findall(r'href="([^"]+/)"', r.text)
-                  for fo in folders[:20]:
-                      if fo.startswith("."): continue
-                      if "?" in fo or "#" in fo: continue
-                      full=urljoin(url, fo)
-                      if "wwwcdn.imo.org/localresources" in full and full not in visited:
-                          to_visit.append(full)
-                  print(f"Crawled {url[:60]} -> PDFs {len(all_urls)} Queue {len(to_visit)}")
-                  time.sleep(0.3)
-              except Exception as e:
-                  print(f"err {url} {e}")
+          echo "Before split:"
+          ls imo_pdfs | wc -l
+          
+          mkdir -p imo_pdfs_2
+          mkdir -p imo_pdfs
 
-          print(f"Total unique from CDN crawl: {len(all_urls)}")
+          # 1000 files imo_pdfs me rakho, baaki 271 imo_pdfs_2 me bhejo
+          cd imo_pdfs
+          files=$(ls -1 | sort)
+          count=0
+          for f in $files; do
+            count=$((count+1))
+            if [ $count -gt 1000 ]; then
+              mv "$f" ../imo_pdfs_2/
+            fi
+          done
+          cd ..
+          
+          echo "After split:"
+          echo -n "imo_pdfs count: "
+          ls imo_pdfs | wc -l
+          echo -n "imo_pdfs_2 count: "
+          ls imo_pdfs_2 | wc -l
 
-          def dl(u):
-              try:
-                  fn=re.sub(r'[^A-Za-z0-9._() -]','_',unquote(u.split("/")[-1]))
-                  if len(fn)<5: return "SKIP"
-                  if not fn.lower().endswith(".pdf"): fn+=".pdf"
-                  path=f"imo_pdfs/{fn}"
-                  if os.path.exists(path) and os.path.getsize(path)>12000: return "SKIP_NAME"
-                  rr=sess.get(u, timeout=40)
-                  if rr.status_code==200 and len(rr.content)>12000 and b"%PDF" in rr.content[:8000]:
-                      h=hashlib.md5(rr.content[:20000]).hexdigest()
-                      if h in existing_hashes: return "DUP"
-                      open(path,"wb").write(rr.content)
-                      existing_hashes.add(h)
-                      return f"REAL OK {fn} {len(rr.content)//1024}KB"
-              except: pass
-              return "FAIL"
-
-          ok=0
-          from concurrent.futures import ThreadPoolExecutor
-          urls=list(all_urls); random.shuffle(urls)
-          with ThreadPoolExecutor(max_workers=8) as ex:
-              for m in ex.map(dl, urls):
-                  if "REAL OK" in m:
-                      ok+=1
-                      print(m)
-                      if ok>=300: break
-          after=len([f for f in os.listdir("imo_pdfs") if os.path.getsize(os.path.join("imo_pdfs",f))>12000])
-          print(f"\n=== FINAL === Before {before} Now {after} Added {after-before} Success {ok} Credit Used 0")
-          PY
-      - name: Push
+      - name: Push both folders
         run: |
           git config user.name bot
           git config user.email bot@bot.com
           git pull --rebase origin main || true
-          git add -f imo_pdfs/
-          git commit -m "V19 direct CDN crawl zero credit" || true
+          git add -f imo_pdfs/ imo_pdfs_2/
+          git commit -m "V21 split 1271 into 1000 + 271 - fix truncate warning" || true
           git push
