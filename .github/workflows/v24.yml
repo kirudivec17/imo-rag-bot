@@ -1,10 +1,10 @@
-name: V24 Big Pool 50 Credits
+name: V25 New Pool 50 Credits
 on:
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
-  v24:
+  v25:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install requests --quiet
-      - name: Fill Folder 2 Big Pool
+      - name: Fill Folder 2 New Pool V25
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: |
@@ -22,8 +22,7 @@ jobs:
           SERPER_KEY=os.getenv("SERPER_API_KEY")
           os.makedirs("imo_pdfs_2", exist_ok=True)
           os.makedirs("imo_pdfs", exist_ok=True)
-          existing_hashes=set()
-          existing_names=set()
+          existing_hashes=set(); existing_names=set()
           for folder in ["imo_pdfs", "imo_pdfs_2"]:
             for f in os.listdir(folder):
               existing_names.add(f.lower())
@@ -36,16 +35,16 @@ jobs:
           sess=requests.Session()
           all_urls=set()
           queries=[
-            "site:imo.org filetype:pdf MEPC resolution 2023 2024",
-            "site:imo.org filetype:pdf MSC resolution 2023 2024",
-            "site:imo.org filetype:pdf Circular Letter",
-            "site:imo.org filetype:pdf Assembly resolution A.",
-            "filetype:pdf imo.org MEPC MSC guidelines",
-            "site:imo.org filetype:pdf GHG strategy CII EEXI",
-            "site:imo.org filetype:pdf BWM Ballast Water Management",
-            "site:imo.org filetype:pdf ISPS Code security",
-            "site:imo.org filetype:pdf STCW Code seafarer",
-            "filetype:pdf \"International Maritime Organization\" convention",
+            "site:imo.org filetype:pdf LEG Legal Committee",
+            "site:imo.org filetype:pdf MEPC 80 81 82 guidelines",
+            "site:imo.org filetype:pdf MSC 107 108 109 resolution",
+            "filetype:pdf imo.org audit scheme III Code",
+            "site:imo.org filetype:pdf FAL Convention amendments 2024",
+            "site:imo.org filetype:pdf Hong Kong Convention HKC recycling",
+            "site:imo.org filetype:pdf Casualty investigation code",
+            "filetype:pdf \"IMO\" \"Guidelines\" 2024 2023",
+            "site:imo.org filetype:pdf IMDG Code supplement",
+            "filetype:pdf imo.org MARPOL Annex VI",
           ]
           calls=0
           for q in queries:
@@ -59,7 +58,7 @@ jobs:
                   link=item.get("link","").split("?")[0]
                   if ".pdf" in link.lower():
                     all_urls.add(link)
-                print(f"[{calls}/50] p{page} {q[:30]} -> pool {len(all_urls)}")
+                print(f"[{calls}/50] {q[:35]} -> pool {len(all_urls)}")
                 time.sleep(0.3)
               except Exception as e:
                 print(e)
@@ -79,14 +78,11 @@ jobs:
                 return f"REAL OK {fn}"
             except: return "FAIL"
             return "FAIL"
-          ok=0
           urls=list(all_urls); random.shuffle(urls)
           from concurrent.futures import ThreadPoolExecutor
           with ThreadPoolExecutor(max_workers=8) as ex:
             for m in ex.map(dl, urls):
-              if "REAL OK" in m:
-                ok+=1
-                print(m)
+              if "REAL OK" in m: print(m)
           after1=len(os.listdir("imo_pdfs")); after2=len(os.listdir("imo_pdfs_2"))
           print(f"\n=== FINAL === imo_pdfs={after1} imo_pdfs_2={after2} Total={after1+after2} Added={after2-before2} Credits {calls}")
           PY
@@ -96,5 +92,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/ imo_pdfs_2/
-          git commit -m "V24 big pool" || true
+          git commit -m "V25 new pool" || true
           git push
