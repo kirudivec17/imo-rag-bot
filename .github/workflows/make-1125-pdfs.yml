@@ -1,4 +1,4 @@
-name: V7 Deep Crawl - 50-60 New Beyond 385
+name: V8 Final - Circulars 800-1700 - 50 Real Target
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  v7:
+  v8:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -15,130 +15,80 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests beautifulsoup4 lxml --quiet
-      - name: V7 Deep Crawl + Cleanup Fake 8KB
+      - run: pip install requests --quiet
+      - name: V8 Circulars Brute
         run: |
           python3 << 'PY'
-          import os, re, requests, time
-          from bs4 import BeautifulSoup
-          from urllib.parse import urljoin
+          import os, re, time, requests
+          from urllib.parse import unquote
 
           os.makedirs("imo_pdfs", exist_ok=True)
-          
-          # 1. CLEANUP fake 8KB files like 93(45).pdf
-          cleaned=0
-          for f in os.listdir("imo_pdfs"):
-              p=os.path.join("imo_pdfs",f)
-              if os.path.getsize(p) < 12000:
-                  os.remove(p)
-                  cleaned+=1
-          print(f"Cleaned {cleaned} fake small files (<12KB)")
-
-          before = len([f for f in os.listdir("imo_pdfs") if f.lower().endswith(".pdf")])
-          print(f"Before after cleanup: {before} REAL")
+          before = len([f for f in os.listdir("imo_pdfs") if os.path.getsize(os.path.join("imo_pdfs",f))>12000])
+          print(f"Before: {before} REAL")
 
           session = requests.Session()
-          session.headers.update({
-              "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-              "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-              "Accept-Language":"en-US,en;q=0.5"
-          })
+          session.headers.update({"User-Agent":"Mozilla/5.0","Referer":"https://www.imo.org/"})
 
-          # YE NAYE SOURCES - tumne abhi tak ye try nahi kiye
-          deep_pages = [
-              "https://www.imo.org/en/OurWork/Safety/Pages/LSA-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/FSS-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/IMDG-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/IBC-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/IGC-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/ISM-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/ISPS-Code.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/FTP-Code.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/Intact-Stability.aspx",
-              "https://www.imo.org/en/OurWork/Environment/Pages/BWM-Convention-and-Guidelines.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/Cargoes.aspx",
-              "https://www.imo.org/en/OurWork/Safety/Pages/Carriage-of-Cargoes.aspx",
-              # Direct cdn folders - yaha se 50-60 pakka milega
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/",
-          ]
+          base = "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/"
+          urls=[]
 
-          all_urls=set()
-          for page in deep_pages:
-              try:
-                  r=session.get(page, timeout=30)
-                  if r.status_code!=200:
-                      print(f"FAIL {page[:50]} {r.status_code}")
-                      continue
-                  # find all pdf links
-                  links=re.findall(r'href=["\']([^"\']+\.pdf[^"\']*)["\']', r.text, re.I)
-                  pdfs=re.findall(r'https://[^\s"\'<>]+\.pdf', r.text, re.I)
-                  for u in links+pdfs:
-                      full=urljoin(page, u)
-                      if "imo.org" in full.lower() and ".pdf" in full.lower():
-                          full=full.split("#")[0].split("?")[0]
-                          if "/localresources/" in full and "wwwcdn" not in full:
-                              full=full.replace("https://www.imo.org","https://wwwcdn.imo.org")
-                          all_urls.add(full)
-                  print(f"{page.split('/')[-2][:30]} -> {len(links)+len(pdfs)} links")
-                  time.sleep(0.6)
-              except Exception as e:
-                  print(f"Err {page[:30]} {e}")
+          # Ye range tumne kabhi nahi kiya - yahi se 50 ayega
+          for i in range(790, 1020):  # MEPC 790-1020
+              for fmt in [f"MEPC.1-Circ.{i}.pdf", f"MEPC.1-CIRC.{i}.pdf", f"MEPC.1-Circ.{i}-Rev.1.pdf", f"MEPC.1-Circ.{i}-Rev.2.pdf"]:
+                  urls.append(base+fmt)
+          for i in range(1300, 1720): # MSC 1300-1720 - bahut saare naye hain
+              for fmt in [f"MSC.1-Circ.{i}.pdf", f"MSC.1-CIRC.{i}.pdf", f"MSC.1-Circ.{i}-Rev.1.pdf"]:
+                  urls.append(base+fmt)
+          for i in range(400, 500): # BWM circulars
+              urls.append(base+f"BWM.2-Circ.{i}.pdf")
+              urls.append(base+f"BWM.2-CIRC.{i}.pdf")
 
-          # Also add direct known codes - ye 100% new honge
-          direct_codes=[
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/LSA%20Code/LSA%20Code.pdf",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/FSS%20Code/2015%20FSS%20Code.pdf",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/IMDG%20Code/IMDG%20Code%20Volume%201.pdf",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/IMDG%20Code/IMDG%20Code%20Volume%202.pdf",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/ISM%20Code/ISM%20Code.pdf",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/ISPS%20Code/ISPS%20Code.pdf",
-              "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Air%20Pollution/MEPC.1-Circ.795-Rev.8.pdf",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/MEPC.1-Circ.850-Rev.3.pdf",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/MEPC.1-Circ.901.pdf",
-              "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/Documents/MSC.1-Circ.1625.pdf",
-          ]
-          for u in direct_codes:
-              all_urls.add(u)
-
-          print(f"\nTotal unique new sources: {len(all_urls)}")
+          print(f"Total to try: {len(urls)}")
 
           def dl(url):
-              fn=url.split("/")[-1]
-              fn=re.sub(r'[^A-Za-z0-9._() -]','_',fn)
-              if len(fn)<5: return "SKIP"
-              if not fn.lower().endswith(".pdf"): fn+=".pdf"
-              path=f"imo_pdfs/{fn}"
+              # filename alag, url alag
+              raw_name = url.split("/")[-1]
+              fn = unquote(raw_name)  # %20 -> space
+              fn = re.sub(r'[^A-Za-z0-9._() -]', '_', fn)  # ab safe
+              if not fn.lower().endswith(".pdf"):
+                  fn+=".pdf"
+              path = f"imo_pdfs/{fn}"
               if os.path.exists(path) and os.path.getsize(path)>12000:
-                  return f"SKIP {fn}"
+                  return "SKIP"
               try:
-                  r=session.get(url,timeout=35)
-                  if r.status_code==200 and len(r.content)>12000 and b"%PDF" in r.content[:5000]:
+                  r=session.get(url, timeout=20)
+                  if r.status_code==200 and len(r.content)>12000 and b"%PDF" in r.content[:4000]:
                       open(path,"wb").write(r.content)
                       return f"REAL OK {fn} {len(r.content)//1024}KB"
-                  else:
-                      if r.status_code==200 and len(r.content)<12000:
-                          return f"FAKE SMALL {fn} {len(r.content)}B"
-              except Exception as e:
-                  return f"FAIL {fn}"
-              return f"FAIL {fn}"
+                  if r.status_code==200 and len(r.content)<12000:
+                      return f"SMALL {len(r.content)}B {fn}"
+              except:
+                  time.sleep(0.3)
+                  pass
+              return "FAIL"
 
           ok=0
+          # Slow - 3 workers only taaki block na ho
           from concurrent.futures import ThreadPoolExecutor
-          with ThreadPoolExecutor(max_workers=6) as ex:
-              for msg in ex.map(dl, all_urls):
+          import time as tm
+          with ThreadPoolExecutor(max_workers=3) as ex:
+              for idx, msg in enumerate(ex.map(dl, urls)):
                   if "REAL OK" in msg:
                       ok+=1
                       print(msg)
-                  elif "FAKE" not in msg and "SKIP" not in msg:
-                      print(msg)
+                      if ok>=60:
+                          print("60 mil gaya, stop")
+                          break
+                  if idx%100==0:
+                      print(f"Checked {idx}/{len(urls)} found {ok}")
+                      tm.sleep(1)
 
-          after=len([f for f in os.listdir("imo_pdfs") if f.lower().endswith(".pdf") and os.path.getsize(os.path.join("imo_pdfs",f))>12000])
+          after = len([f for f in os.listdir("imo_pdfs") if os.path.getsize(os.path.join("imo_pdfs",f))>12000])
           print(f"\n=== FINAL ===")
           print(f"Before: {before}")
-          print(f"Now: {after} REAL (>12KB)")
+          print(f"Now: {after} REAL")
           print(f"New Added: {after-before}")
-          print(f"Success this run: {ok}")
+          print(f"Success: {ok}")
           PY
       - name: Push
         run: |
@@ -146,5 +96,5 @@ jobs:
           git config user.email bot@bot.com
           git pull --rebase origin main || true
           git add -f imo_pdfs/
-          git commit -m "V7 deep crawl - LSA FSS IMDG IBC beyond 385" || true
+          git commit -m "V8 circulars 790-1720 - target 50" || true
           git push
