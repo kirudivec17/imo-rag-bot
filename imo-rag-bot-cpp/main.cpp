@@ -7,48 +7,88 @@
 using namespace std;
 namespace fs = std::filesystem;
 
+string toLower(string s){
+    transform(s.begin(), s.end(), s.begin(), ::tolower);
+    return s;
+}
+
 int main() {
-    cout << "=== IMO RAG BOT - C++ (2000+ PDFs Real) ===\n";
+    cout << "=== IMO REAL BOT - Mobile 2000 PDF Search ===\n";
     
-    vector<pair<string,string>> docs;
-    // Try to load your summary files which already exist in repo
-    vector<string> index_files = {"all_pdf_list.txt", "imo_public_summary.csv", "pdf_list.txt"};
-    
-    for(auto &idx : index_files) {
-        if(fs::exists(idx)) {
-            ifstream f(idx);
-            string line;
-            while(getline(f, line)) {
-                if(line.size()>10) docs.push_back({idx, line});
-            }
-        }
-    }
-    // Also scan imo_pdfs folders for names
-    for(auto &folder : {"imo_pdfs", "imo_pdfs_2", "imo_pdfs_3"}) {
-        if(fs::exists(folder)) {
-            for(auto &p : fs::directory_iterator(folder)) {
-                docs.push_back({p.path().filename().string(), p.path().string()});
+    // Mobile ke liye path - change kar sakta hai
+    vector<string> folders = {
+        "/storage/emulated/0/imo_pdfs",
+        "/storage/emulated/0/imo_pdfs_2",
+        "/storage/emulated/0/imo_pdfs_3",
+        "imo_pdfs", "imo_pdfs_2", "imo_pdfs_3", // GitHub actions ke liye
+        "data/manuals"
+    };
+
+    vector<fs::path> all_pdfs;
+    for(auto &folder : folders){
+        if(fs::exists(folder)){
+            cout << "Scan: " << folder << "\n";
+            for(auto &p : fs::recursive_directory_iterator(folder)){
+                if(p.is_regular_file()){
+                    string ext = toLower(p.path().extension().string());
+                    if(ext==".pdf" || ext==".txt"){
+                        all_pdfs.push_back(p.path());
+                    }
+                }
             }
         }
     }
 
-    cout << "Total indexed from your repo: " << docs.size() << " entries\n";
-    cout << "Search (ex: SCBA, EEXI, MARPOL): ";
+    cout << "Total PDFs found: " << all_pdfs.size() << "\n";
+    if(all_pdfs.empty()){
+        cout << "Folder nahi mila! /storage/emulated/0/imo_pdfs me PDF daal.\n";
+        return 0;
+    }
+
+    cout << "Search kya karna hai (SCBA / EEXI / lifeboat): ";
     string query;
     getline(cin, query);
-    string q = query;
-    transform(q.begin(), q.end(), q.begin(), ::tolower);
+    string qlow = toLower(query);
 
     int found=0;
-    for(auto &d : docs) {
-        string low = d.second;
-        transform(low.begin(), low.end(), low.begin(), ::tolower);
-        if(low.find(q) != string::npos) {
-            cout << "\n>> " << d.first << " : " << d.second.substr(0,200) << "\n";
+    for(auto &path : all_pdfs){
+        string fname = toLower(path.filename().string());
+        bool match = false;
+        string where = "";
+
+        // 1. NAAM ME SEARCH
+        if(fname.find(qlow)!=string::npos){
+            match = true;
+            where = "FILENAME";
+        }
+
+        // 2. ANDAR KE TEXT ME SEARCH (PDF ko binary read karke)
+        if(!match){
+            ifstream file(path, ios::binary);
+            if(file){
+                // Sirf pehle 100KB padhenge - mobile tez rahega
+                char buffer[102400];
+                file.read(buffer, sizeof(buffer));
+                string content(buffer, file.gcount());
+                string clow = toLower(content);
+                if(clow.find(qlow)!=string::npos){
+                    match = true;
+                    where = "INSIDE TEXT";
+                }
+            }
+        }
+
+        if(match){
+            cout << "\n>> [" << where << "] " << path.filename().string() << "\n";
+            cout << "   Path: " << path.string() << "\n";
             found++;
-            if(found>=10) break;
+            if(found>=20) { // mobile pe 20 result ke baad rok denge
+                cout << "\n--- 20 mil gaye, aur bhi hai... ---\n";
+                break;
+            }
         }
     }
-    cout << "\nTotal found: " << found << " / " << docs.size() << endl;
+
+    cout << "\n--- DONE: " << found << " files me '" << query << "' mila ---\n";
     return 0;
 }
