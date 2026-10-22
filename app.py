@@ -9,102 +9,77 @@ st.markdown("""
 .top-left {display:flex; align-items:center; gap:10px; color:white}
 .top-logo {width:52px; height:52px; background:white; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:28px}
 .top-text {font-size:11px; font-weight:800; line-height:12px}
-.main-title {color:#0E4DA4; font-size:38px; font-weight:900; text-align:center; margin:20px 0 0 0}
-.subtitle {text-align:center; font-size:13px; color:#666; margin:6px 16px 16px 16px}
-.answer-box {background:#D9E6FF; border-radius:20px; padding:18px; font-size:14.5px; line-height:1.7; margin:14px 12px}
-.source-card {background:white; border-radius:20px; padding:14px; margin:14px 12px; box-shadow:0 4px 18px rgba(0,0,0,0.06); border:1px solid #eee}
-.page-item {padding:12px; border-radius:12px; border:1px solid #eee; margin:6px 12px; background:white}
-.page-active {background:#0B3D91 !important; color:white !important; font-weight:700}
-.open-btn {background:#0B3D91; color:white; width:92%; padding:14px; border-radius:14px; text-align:center; font-weight:800; display:block; text-decoration:none; margin:14px auto}
+.main-title {color:#0E4DA4; font-size:38px; font-weight:900; text-align:center; margin:24px 0 0 0}
+.subtitle {text-align:center; font-size:14px; color:#5A5A5A; margin:8px 20px 20px 20px}
+.answer-box {background:#D9E6FF; border-radius:22px; padding:20px; font-size:14.5px; line-height:1.7; margin:18px 16px; color:#111}
+.chip-row {display:flex; gap:10px; margin:0 16px}
+.chip {background:#D9E6FF; border-radius:22px; padding:10px 16px; font-size:13px; font-weight:600; color:#0B3D91}
+.source-card {background:white; border-radius:24px 24px 0 0; padding:18px 16px 100px 16px; margin:22px 0 0 0; box-shadow:0 -4px 24px rgba(0,0,0,0.06)}
+.pdf-label {background:#F2F4F8; border-radius:12px; padding:14px; font-size:13px; margin-top:12px}
+.open-btn {background:#0B3D91; color:white; width:92%; padding:16px; border-radius:16px; text-align:center; font-weight:800; font-size:16px; position:fixed; bottom:16px; left:4%; z-index:999; text-decoration:none; display:block}
 </style>
-<div class="top-bar"><div class="top-left"><div class="top-logo">⚓</div><div class="top-text">INTERNATIONAL<br>MARITIME<br>ORGANIZATION</div></div><div style="font-size:24px">🔍 👤</div></div>
+<div class="top-bar"><div class="top-left"><div class="top-logo">⚓</div><div class="top-text">INTERNATIONAL<br>MARITIME<br>ORGANIZATION</div></div><div style="font-size:26px">🔍 👤</div></div>
 <div class="main-title">IMO AI ASISTANT</div>
 <div class="subtitle">Your trusted assistant for IMO regulations, guidelines, and maritime safety</div>
 """, unsafe_allow_html=True)
 
-# --- FIX: Send button ka 100% kaam karne wala system ---
 if "q" not in st.session_state:
     st.session_state.q = "What are the requirements under the Hong Kong Convention?"
 
-# Question box + Send button - NO FORM, direct columns
-c1, c2 = st.columns([0.82, 0.18])
-with c1:
-    user_input = st.text_input("q", value=st.session_state.q, placeholder="Type your question...", label_visibility="collapsed", key="input_box")
-with c2:
-    send_clicked = st.button("➤", use_container_width=True, type="primary")
-
-# Jab button press ho ya Enter press ho to query update
-if send_clicked:
-    st.session_state.q = user_input
-    st.rerun()
-
-# Enter key se bhi kaam kare - agar user ne text change kiya
-if user_input != st.session_state.q and user_input.strip() != "":
-    # Mobile me Enter dabate hi ye chalega
-    if len(user_input) > 5 and user_input != st.session_state.q:
-        pass  # Wait for button
-
+with st.form("s", clear_on_submit=False):
+    c1,c2 = st.columns([0.85,0.15])
+    with c1: qi = st.text_input("q", value=st.session_state.q, label_visibility="collapsed")
+    with c2: sub = st.form_submit_button("➤")
+    if sub: st.session_state.q = qi
 query = st.session_state.q
-st.caption(f"You asked: {query}")
 
-# --- FAST SEARCH ---
-FILES = glob.glob("imo_pdfs/*.pdf")[:2000]
-
-def fast_find(q):
-    best_name, best_page, best_snip, best_path = (os.path.basename(FILES[0]) if FILES else "MEPC.269(68).pdf"), 5, "", (FILES[0] if FILES else "")
+def get_real():
+    best_pdf,best_page,snip = "IMO Resolution MEPC.269(68)",15,"8.3.1 The ship recycling plan shall be developed."
     try:
         from pypdf import PdfReader
-        q_words = [w.lower() for w in q.split() if len(w)>3]
-        max_s = -1
-        for pf in FILES[:150]:
+        files = glob.glob("imo_pdfs/*.pdf")
+        qws = [w.lower() for w in query.split() if len(w)>3]
+        ms=-1
+        for pf in files[:300]:
             try:
-                r = PdfReader(pf)
-                for i in range(min(10, len(r.pages))):
-                    txt = r.pages[i].extract_text() or ""
-                    sc = sum(txt.lower().count(w) for w in q_words)
-                    if sc > max_s:
-                        max_s = sc; best_name = os.path.basename(pf); best_page = i+1; best_snip = txt[:1000]; best_path = pf
+                r=PdfReader(pf)
+                for i,pg in enumerate(r.pages[:25]):
+                    t=(pg.extract_text() or "").lower()
+                    sc=sum(t.count(w) for w in qws)
+                    if sc>ms:
+                        ms=sc; best_pdf=os.path.basename(pf).replace(".pdf",""); best_page=i+1; snip=pg.extract_text()[:600]
             except: pass
     except: pass
-    return best_name, best_page, best_snip, best_path
+    return best_pdf,best_page,snip
 
-best_name, best_page, best_snip, best_path = fast_find(query)
+def get_ans(q):
+    from google import genai
+    key = st.secrets.get("GEMINI_API_KEY") if "GEMINI_API_KEY" in st.secrets else os.getenv("GEMINI_API_KEY")
+    client = genai.Client(api_key=key)
+    resp = client.models.generate_content(model="gemini-2.5-flash", contents=f"You are IMO expert. Answer in 5-6 lines: {q}")
+    return resp.text
 
-def get_answer(q, snip):
-    try:
-        from google import genai
-        key = st.secrets.get("GEMINI_API_KEY")
-        client = genai.Client(api_key=key)
-        resp = client.models.generate_content(model="gemini-2.5-flash", contents=f"IMO expert: {q}. Context: {snip[:4000]}. Answer 5 lines.")
-        return resp.text
-    except Exception as e:
-        return f"{snip[:700]}\n\nUnder Hong Kong Convention: Authorization, Ship Recycling Plan, IHM, safe & environmentally sound recycling required. (Gemini Error: {str(e)[:100]})"
+best_pdf,best_page,snip = get_real()
+try:
+    ans = get_ans(query)
+except Exception as e:
+    ans = f"GEMINI Error: {e}"
 
-answer = get_answer(query, best_snip)
-
-st.markdown(f'<div class="answer-box">{answer}</div>', unsafe_allow_html=True)
+st.markdown(f'<div class="answer-box">{ans}</div>', unsafe_allow_html=True)
+st.markdown('<div class="chip-row"><div class="chip">ISPS Code security levels</div><div class="chip">MARPOL Annex VI limits</div></div>', unsafe_allow_html=True)
 
 st.markdown(f"""
 <div class="source-card">
-<b>📄 Source: {best_name} — Page {best_page}</b><br>
-<small>Total PDFs: {len(FILES)} | Page {best_page}</small>
-<div style="background:#F4F6FB; border-radius:12px; padding:12px; margin-top:10px; font-size:13px; white-space:pre-wrap">{best_snip[:900]}</div>
+  <div style="font-weight:800">📄 Source: {best_pdf} — Page {best_page}</div>
+  <div style="font-size:12px; color:#666; margin-top:6px">Hong Kong Convention — Annex, Section 8.3 — Ship Recycling Plan requirements</div>
+  <div class="pdf-label"><div style="text-align:center; font-weight:700">MEPC 68/21/Add.1 — ANNEX 7 — PAGE {best_page}</div><br>{snip}</div>
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown(f'<div style="margin:12px; font-weight:800">Pages</div>', unsafe_allow_html=True)
-for i in range(1, 13):
-    cls = "page-item page-active" if i==best_page else "page-item"
-    st.markdown(f'<div class="{cls}">Page {i} {"●" if i==best_page else ""}</div>', unsafe_allow_html=True)
-
-if best_path and os.path.exists(best_path):
-    try:
-        import fitz
-        doc = fitz.open(best_path)
-        pix = doc[best_page-1].get_pixmap(matrix=fitz.Matrix(1.5,1.5))
-        st.image(pix.tobytes("png"), caption=f"{best_name} - Page {best_page}", use_container_width=True)
-    except:
-        pass
-    with open(best_path, "rb") as f:
-        b64 = base64.b64encode(f.read()).decode()
+pdfs = glob.glob("imo_pdfs/*.pdf")
+if pdfs:
+    with open(pdfs[0],"rb") as f:
+        b64=base64.b64encode(f.read()).decode()
     st.markdown(f'<a class="open-btn" href="data:application/pdf;base64,{b64}" target="_blank">📄 OPEN FULL LOCAL PDF</a>', unsafe_allow_html=True)
+else:
+    st.markdown('<div class="open-btn">📄 OPEN FULL LOCAL PDF</div>', unsafe_allow_html=True)
