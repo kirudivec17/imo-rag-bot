@@ -1,9 +1,9 @@
-import streamlit as st, os, glob
+import streamlit as st, os, requests
 from datetime import datetime
 st.set_page_config(page_title="IMO AI Assistant", layout="wide", page_icon="⚓")
 
-# === TERA LIVE BACKEND ===
-ORACLE_URL = "http://129.225.105.196:8000"
+# === TERA LIVE BACKEND - FIXED ===
+ORACLE_URL = "http://129.225.105.196:8001"
 
 # --- CSS ---
 st.markdown("""
@@ -23,7 +23,7 @@ st.markdown("""
 </style>
 <div class="top-bar"><div class="top-left"><div class="top-logo">⚓</div><div class="top-text">INTERNATIONAL<br>MARITIME<br>ORGANIZATION</div></div><div style="color:white; font-size:22px">🔍 👤</div></div>
 <div class="main-title">IMO AI ASISTANT</div>
-<div class="subtitle">Your trusted assistant for IMO regulations - 2430 Docs - Backend: pdf-backend-2 LIVE</div>
+<div class="subtitle">Your trusted assistant for IMO regulations - 2430 Docs - Backend: pdf-backend-2 LIVE (RAG+Gemini)</div>
 """, unsafe_allow_html=True)
 
 if "q" not in st.session_state:
@@ -40,74 +40,45 @@ with st.form("s", clear_on_submit=False):
 
 query = st.session_state.q
 
-def find_best_pdf(q):
-    # default
-    best_pdf = "A.1103(29).pdf"
-    best_page = 15
-    snip = "8.3.1 The ship recycling plan shall be developed..."
+# === NEW: CALL REAL BACKEND ===
+def get_from_oracle(q):
     try:
-        files = glob.glob("imo_pdfs/*.pdf") + glob.glob("imo_pdfs_2/*.pdf") + glob.glob("imo_pdfs_3/*.pdf") + glob.glob("*.pdf")
-        if not files:
-            # Streamlit pe folder nahi hai toh default list
-            return best_pdf, best_page, snip
-        
-        from pypdf import PdfReader
-        qws = [w.lower() for w in q.split() if len(w) > 3]
-        max_score = -1
-        for pf in files[:2430]:
-            try:
-                r = PdfReader(pf)
-                for i, pg in enumerate(r.pages[:25]):
-                    t = (pg.extract_text() or "").lower()
-                    if not t:
-                        continue
-                    sc = sum(t.count(w) for w in qws)
-                    if sc > max_score:
-                        max_score = sc
-                        best_pdf = os.path.basename(pf)
-                        best_page = i+1
-                        snip = pg.extract_text() or ""
-                        if sc > 5:  # good match mil gaya
-                            break
-            except:
-                continue
+        r = requests.post(f"{ORACLE_URL}/ask", json={"question": q}, timeout=60)
+        data = r.json()
+        answer = data.get("answer", "No answer")
+        sources = data.get("sources", [])
+        if sources:
+            best = sources[0]
+            best_pdf = best.get("file", "SOLAS Chapter XI-2 & ISPS Code.pdf")
+            best_page = best.get("page", 3)
+            snippet = best.get("text", "")[:2000]
+        else:
+            best_pdf = "SOLAS Chapter XI-2 & ISPS Code.pdf"
+            best_page = 3
+            snippet = "No source found"
+        return answer, best_pdf, best_page, snippet, sources
     except Exception as e:
-        print(e)
-    return best_pdf, best_page, snip[:1500]
+        return f"Backend Error: {e} - Check if pdf-backend-2 is ON at {ORACLE_URL}", "A.1103(29).pdf", 15, str(e), []
 
-def get_gemini_answer(q, context):
-    try:
-        from google import genai
-        api_key = st.secrets.get("GEMINI_API_KEY") or os.getenv("GEMINI_API_KEY") or st.secrets.get("GOOGLE_API_KEY")
-        if not api_key:
-            return f"Based on {context[:800]}"
-        client = genai.Client(api_key=api_key)
-        prompt = f"You are IMO expert. Use this authentic IMO text:\n{context[:5000]}\n\nQuestion: {q}\nGive concise 5-6 lines answer with regulation numbers. Add source."
-        resp = client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
-        return resp.text
-    except Exception as e:
-        return f"{context[:900]}\n\n(Error: {e})"
-
-with st.spinner("Searching 2430 PDFs..."):
-    best_pdf, best_page, snippet = find_best_pdf(query)
-
-try:
-    answer = get_gemini_answer(query, snippet)
-except:
-    answer = snippet
+with st.spinner(f"Searching via Oracle RAG {ORACLE_URL}..."):
+    answer, best_pdf, best_page, snippet, all_sources = get_from_oracle(query)
 
 st.markdown(f'<div class="answer-box">{answer}</div>', unsafe_allow_html=True)
+
+sources_html = ""
+for s in all_sources[:3]:
+    sources_html += f"<div style='font-size:11px; margin-top:6px'>📄 {s.get('file')} - Page {s.get('page')} - Score {s.get('score',0):.2f}</div>"
 
 st.markdown(f"""
 <div class="source-card">
   <div style="font-weight:800; font-size:14px">📄 Source: {best_pdf} — Page {best_page}</div>
-  <div style="font-size:11px; color:#666; margin-top:4px">Matched from 2430 PDFs via pdf-backend-2 | Oracle: 129.225.105.196:8000</div>
+  <div style="font-size:11px; color:#666; margin-top:4px">Real RAG via pdf-backend-2 | {ORACLE_URL}/ask | Gemini 2.5 Flash ON</div>
   <div class="pdf-label">{snippet}</div>
+  {sources_html}
 </div>
 """, unsafe_allow_html=True)
 
-# FINAL BUTTON - DIRECT ORACLE
 pdf_url = f"{ORACLE_URL}/pdf/{best_pdf}"
 st.markdown(f'<a class="open-btn" href="{pdf_url}" target="_blank">📄 OPEN FULL PDF - {best_pdf} (Page {best_page}) - via Oracle Backend</a>', unsafe_allow_html=True)
 
-st.caption(f"Backend: {ORACLE_URL} | Total: 2430 | Model: gemini-2.5-flash | pdf-backend-2 LIVE | {datetime.now().strftime('%H:%M')}")
+st.caption(f"Backend: {ORACLE_URL} | RAG: 20 chunks | Model: gemini-2.5-flash | pdf-backend-2 LIVE | {datetime.now().strftime('%H:%M')}")
