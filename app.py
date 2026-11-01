@@ -2,8 +2,9 @@ import streamlit as st, os, requests
 from datetime import datetime
 st.set_page_config(page_title="IMO AI Assistant", layout="wide", page_icon="⚓")
 
-# === TERA LIVE BACKEND - FIXED ===
-ORACLE_URL = "http://129.225.105.196:8001"
+# === SECRET SE CHALEGA - NO HARDCODE ===
+ORACLE_URL = st.secrets.get("BACKEND_URL", "http://129.225.105.196:8001")
+GEMINI_KEY = st.secrets.get("GEMINI_API_KEY", "") # backend pe use ho rahi hai
 
 # --- CSS ---
 st.markdown("""
@@ -40,7 +41,6 @@ with st.form("s", clear_on_submit=False):
 
 query = st.session_state.q
 
-# === NEW: CALL REAL BACKEND ===
 def get_from_oracle(q):
     try:
         r = requests.post(f"{ORACLE_URL}/ask", json={"question": q}, timeout=60)
@@ -55,7 +55,7 @@ def get_from_oracle(q):
         else:
             best_pdf = "SOLAS Chapter XI-2 & ISPS Code.pdf"
             best_page = 3
-            snippet = "No source found"
+            snippet = answer[:2000]
         return answer, best_pdf, best_page, snippet, sources
     except Exception as e:
         return f"Backend Error: {e} - Check if pdf-backend-2 is ON at {ORACLE_URL}", "A.1103(29).pdf", 15, str(e), []
