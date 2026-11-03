@@ -1,12 +1,11 @@
-import streamlit as st, os, requests
+import streamlit as st, os, requests, urllib.parse
 from datetime import datetime
 st.set_page_config(page_title="IMO AI Assistant", layout="wide", page_icon="⚓")
 
-# === SECRET SE CHALEGA - NO HARDCODE ===
-ORACLE_URL = st.secrets.get("BACKEND_URL", "http://129.225.105.196:8001")
-GEMINI_KEY = st.secrets.get("GEMINI_API_KEY", "") # backend pe use ho rahi hai
+ORACLE_URL = st.secrets.get("BACKEND_URL", "http://129.225.105.196:8001").rstrip("/")
+GEMINI_KEY = st.secrets.get("GEMINI_API_KEY", "")
 
-# --- CSS ---
+# --- CSS - SAME DIMENSIONS ---
 st.markdown("""
 <style>
 #MainMenu, footer, header {visibility:hidden}
@@ -43,20 +42,37 @@ query = st.session_state.q
 
 def get_from_oracle(q):
     try:
-        r = requests.post(f"{ORACLE_URL}/ask", json={"question": q}, timeout=60)
+        # FIX 1: query key se bhejo, question nahi
+        r = requests.post(f"{ORACLE_URL}/ask", json={"query": q}, timeout=90)
+        r.raise_for_status()
         data = r.json()
+        
         answer = data.get("answer", "No answer")
-        sources = data.get("sources", [])
-        if sources:
-            best = sources[0]
-            best_pdf = best.get("file", "SOLAS Chapter XI-2 & ISPS Code.pdf")
-            best_page = best.get("page", 3)
-            snippet = best.get("text", "")[:2000]
-        else:
-            best_pdf = "SOLAS Chapter XI-2 & ISPS Code.pdf"
-            best_page = 3
-            snippet = answer[:2000]
-        return answer, best_pdf, best_page, snippet, sources
+        results = data.get("results", [])
+        sources_list = data.get("sources", [])
+
+        # FIX 2: results robust parse - str ya dict dono
+        best_pdf = "A.1103(29).pdf"
+        best_page = 15
+        snippet = answer[:2000]
+        
+        if results:
+            first = results[0]
+            if isinstance(first, dict):
+                best_pdf = first.get("source") or first.get("file") or best_pdf
+                best_page = first.get("page", best_page)
+                snippet = first.get("text", snippet)[:2000]
+            else:
+                snippet = str(first)[:2000]
+                if sources_list:
+                    best_pdf = sources_list[0] if isinstance(sources_list[0], str) else sources_list[0].get("source", best_pdf)
+        
+        elif sources_list:
+            # agar sirf sources hai
+            s0 = sources_list[0]
+            best_pdf = s0 if isinstance(s0, str) else s0.get("source") or s0.get("file") or best_pdf
+
+        return answer, best_pdf, best_page, snippet, results
     except Exception as e:
         return f"Backend Error: {e} - Check if pdf-backend-2 is ON at {ORACLE_URL}", "A.1103(29).pdf", 15, str(e), []
 
@@ -67,7 +83,13 @@ st.markdown(f'<div class="answer-box">{answer}</div>', unsafe_allow_html=True)
 
 sources_html = ""
 for s in all_sources[:3]:
-    sources_html += f"<div style='font-size:11px; margin-top:6px'>📄 {s.get('file')} - Page {s.get('page')} - Score {s.get('score',0):.2f}</div>"
+    if isinstance(s, dict):
+        fname = s.get("source") or s.get("file") or "doc.pdf"
+        page = s.get("page", 1)
+        score = s.get("score", 0)
+    else:
+        fname = str(s); page = 1; score = 0
+    sources_html += f"<div style='font-size:11px; margin-top:6px'>📄 {fname} - Page {page} - Score {score:.2f}</div>"
 
 st.markdown(f"""
 <div class="source-card">
@@ -78,7 +100,7 @@ st.markdown(f"""
 </div>
 """, unsafe_allow_html=True)
 
-pdf_url = f"{ORACLE_URL}/pdf/{best_pdf}"
+pdf_url = f"{ORACLE_URL}/pdf/{urllib.parse.quote(best_pdf)}"
 st.markdown(f'<a class="open-btn" href="{pdf_url}" target="_blank">📄 OPEN FULL PDF - {best_pdf} (Page {best_page}) - via Oracle Backend</a>', unsafe_allow_html=True)
 
-st.caption(f"Backend: {ORACLE_URL} | RAG: 20 chunks | Model: gemini-2.5-flash | pdf-backend-2 LIVE | {datetime.now().strftime('%H:%M')}")
+st.caption(f"Backend: {ORACLE_URL} | RAG: 24352 chunks | Model: gemini-2.5-flash | pdf-backend-2 LIVE | {datetime.now().strftime('%H:%M')}")
