@@ -1,20 +1,18 @@
-name: IMO PDF Hunter - Auto Every 3 Days
+name: IMO PDF Hunter
 
 on:
   schedule:
-    # Har 3 din me - 2 AM UTC pe
-    - cron: '0 2 */3 * *'
-  workflow_dispatch: # Manual chalane ke liye bhi
+    - cron: '0 2 */3 * *'  # Har 3 din me - subah 2 baje
+  workflow_dispatch:  # Manual chalane ke liye
 
 permissions:
-  contents: write
+  contents: write  # YE ZAROORI HAI - Push karne ke liye!
 
 jobs:
-  hunt-pdfs:
+  hunt:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
     steps:
-      - name: Checkout Repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -22,20 +20,99 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Packages
-        run: |
-          pip install requests beautifulsoup4 PyPDF2 sentence-transformers
+      - name: Install
+        run: pip install requests PyPDF2
 
-      - name: Run IMO Hunter - 50 Serper Searches
+      - name: Hunt New PDFs
         env:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: |
-          python .github/scripts/imo_hunter.py
+          python3 << 'PYEOF'
+          import os, json, requests, hashlib, re
+          from pathlib import Path
+          from urllib.parse import quote
 
-      - name: Commit New PDFs + Embeddings
+          API_KEY = os.environ.get("SERPER_API_KEY")
+          if not API_KEY:
+              print("SERPER_API_KEY nahi hai!")
+              exit(0)
+
+          # Purane PDF ki list - dobara download na ho
+          old_files = set()
+          for folder in ["imo_pdfs", "imo_pdfs_2", "imo_pdfs_3"]:
+              p = Path(folder)
+              if p.exists():
+                  for f in p.glob("*.pdf"):
+                      old_files.add(f.name.lower())
+          print(f"Purane PDFs: {len(old_files)}")
+
+          # Manifest load karo
+          manifest_path = Path("imo_pdfs/manifest.json")
+          if manifest_path.exists():
+              manifest = json.loads(manifest_path.read_text())
+          else:
+              manifest = {"pdfs": []}
+
+          # Serper se search - 50 search
+          headers = {"X-API-KEY": API_KEY, "Content-Type": "application/json"}
+          queries = [
+              "IMO resolution PDF site:imo.org",
+              "IMO circular PDF site:imo.org",
+              "IMO MSC resolution PDF 2024 2025",
+              "IMO MEPC resolution PDF",
+              "Hong Kong Convention ship recycling PDF IMO",
+              "IMO Ballast Water Management PDF",
+              "IMO SOLAS MARPOL circular PDF",
+          ]
+
+          found_urls = []
+          for q in queries:
+              try:
+                  r = requests.post("https://google.serper.dev/search", headers=headers, json={"q": q, "num": 10}, timeout=20)
+                  data = r.json()
+                  for item in data.get("organic", []):
+                      link = item.get("link","")
+                      if link.lower().endswith(".pdf") and "imo.org" in link.lower():
+                          found_urls.append(link)
+              except Exception as e:
+                  print(f"Search fail {q}: {e}")
+              if len(found_urls) >= 50:
+                  break
+          print(f"Found URLs: {len(found_urls)}")
+
+          # Download - sirf 30 naye
+          saved = 0
+          out_dir = Path("imo_pdfs")
+          out_dir.mkdir(exist_ok=True)
+          for url in found_urls:
+              if saved >= 30:
+                  break
+              try:
+                  fname = url.split("/")[-1].split("?")[0]
+                  fname = re.sub(r'[^a-zA-Z0-9._-]', '_', fname)
+                  if not fname.lower().endswith(".pdf"):
+                      fname += ".pdf"
+                  if fname.lower() in old_files:
+                      print(f"Skip purana: {fname}")
+                      continue
+                  r = requests.get(url, timeout=60, headers={"User-Agent": "Mozilla/5.0"})
+                  if r.status_code == 200 and len(r.content) > 5000 and r.content[:4] == b'%PDF':
+                      (out_dir / fname).write_bytes(r.content)
+                      manifest["pdfs"].append({"file": fname, "url": url, "size": len(r.content)})
+                      old_files.add(fname.lower())
+                      saved += 1
+                      print(f"Saved {saved}: {fname}")
+              except Exception as e:
+                  print(f"Download fail {url}: {e}")
+                  continue
+          manifest_path.write_text(json.dumps(manifest, indent=2))
+          print(f"DONE! New PDFs this run: {saved}, Total: {len(manifest['pdfs'])}")
+          PYEOF
+
+      - name: Commit and Push
         run: |
-          git config --global user.name "IMO Bot"
-          git config --global user.email "bot@imo-rag-bot.com"
-          git add data/pdfs/ data/chunks/ data/manifest.json || true
-          git diff --cached --quiet || git commit -m "Auto: New IMO PDFs - $(date +'%Y-%m-%d')"
-          git push || echo "Nothing new to push"
+          git config --local user.email "hunter@imo.bot"
+          git config --local user.name "IMO Hunter"
+          git add imo_pdfs/
+          git diff --staged --quiet || git commit -m "Hunter: $(date +%Y-%m-%d) - new PDFs"
+          git push
