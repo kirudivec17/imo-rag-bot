@@ -4,7 +4,10 @@ import urllib.parse
 import re
 
 st.set_page_config(page_title="IMO AI Assistant", page_icon="⚓", layout="centered")
-API_URL = "http://129.225.105.196:8001"
+
+# REAL URLs - dono alag hai, pdf-backend-2 me hi hai
+API_URL = "http://129.225.105.196:8001"  # ASK wala
+PDF_URL = "http://129.225.105.196:8000"  # PDF wala
 
 # DESIGN 4 CSS - COMPLETE
 st.markdown("""
@@ -12,8 +15,6 @@ st.markdown("""
 .stApp { background: #F2F4F7; }
 header, footer, #MainMenu {visibility: hidden;}
 .block-container { padding-top: 12px; max-width: 540px; padding-bottom: 40px; }
-
-/* Blue Header - No Hashtag */
 .blue-header {
     background: #1A5DCE;
     border-radius: 22px;
@@ -35,11 +36,7 @@ header, footer, #MainMenu {visibility: hidden;}
 }
 .header-title { font-size: 22px; font-weight: 800; letter-spacing: -0.3px; }
 .sub { color: #6B7280; font-size: 12.5px; margin: 8px 2px 16px 2px; }
-
-/* Question Bubble */
 .q-bubble { background: #2D2D2D; color: white; border-radius: 12px; padding: 10px 14px; font-size: 14px; margin: 8px 0; }
-
-/* Answer Card - Big Light Blue */
 .answer-card {
     background: #D6E4FF;
     border-radius: 20px;
@@ -48,8 +45,6 @@ header, footer, #MainMenu {visibility: hidden;}
     margin-top: 10px;
 }
 .ans-head { color: #1A3D8F; font-weight: 800; font-size: 16px; margin-bottom: 10px; }
-
-/* Sources */
 .src-head { color: #1A3D8F; font-weight: 800; font-size: 17px; margin: 22px 0 10px 2px; }
 .src-card {
     background: white;
@@ -89,25 +84,26 @@ if 'q' not in st.session_state:
 # MAIN LOGIC
 if st.session_state['q']:
     q = st.session_state['q']
-    
     st.markdown(f'<div class="q-bubble">{q}</div>', unsafe_allow_html=True)
 
-    with st.spinner("Searching 2000+ IMO docs..."):
+    with st.spinner("Searching IMO docs..."):
         try:
-            resp = requests.post(f"{API_URL}/ask", json={"query": q}, timeout=90)
+            # FIX 1: backend ko "q" bhejo, "query" nahi
+            resp = requests.post(f"{API_URL}/ask", json={"q": q}, timeout=90)
             data = resp.json()
-            raw_answer = data.get("answer", "No answer found in IMO docs.")
-            sources = data.get("sources", [])
+            raw_answer = data.get("answer", "")
+            # Backend kabhi "results" deta hai, kabhi "sources" - dono handle karo
+            sources = data.get("sources") or data.get("results") or []
 
-            # ANSWER CLEAN - Fix chipka hua ** and *
+            if not raw_answer:
+                st.warning("No answer from backend. Try again.")
+                st.stop()
+
+            # ANSWER CLEAN
             ans = raw_answer
-            # **text** -> bold
             ans = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', ans)
-            # Remove leftover **
             ans = ans.replace("**", "")
-            # Fix bullets
-            ans = ans.replace(" * The", "<br><br>• The").replace("\n* ", "<br>• ").replace("* ", "• ")
-            # Add line breaks after sentences if too long
+            ans = ans.replace("\n* ", "<br>• ").replace("* ", "• ")
             if "<br>" not in ans and len(ans) > 300:
                 ans = ans.replace(". ", ".<br><br>")
 
@@ -118,53 +114,54 @@ if st.session_state['q']:
             </div>
             """, unsafe_allow_html=True)
 
-            # SOURCES - ONLY REAL PDFs - Fix 417(84) brackets
+            # SOURCES - SIRF REAL, KOI FAKE PAGE NAHI
             if sources:
                 st.markdown(f'<div class="src-head">Sources ({len(sources)})</div>', unsafe_allow_html=True)
-                
-                # Extract real PDF names only
-                real_pdfs = []
-                seen = set()
-                for s in sources:
-                    s_text = s if isinstance(s, str) else f"{s.get('source','')} {s.get('text','')}"
-                    # Regex to find *.pdf names including ( ) 
-                    matches = re.findall(r'([\w\-\s\(\)]+\.pdf)', s_text, re.I)
-                    for m in matches:
-                        name = m.strip().split("/")[-1].split("\\")[-1]
-                        if name.lower().endswith(".pdf") and len(name) > 5 and name.lower() not in seen:
-                            seen.add(name.lower())
-                            real_pdfs.append(name)
-                    # Direct source field if .pdf
-                    if isinstance(s, dict):
-                        src_field = s.get("source","")
-                        if src_field.lower().endswith(".pdf"):
-                            nm = src_field.split("/")[-1]
-                            if nm.lower() not in seen:
-                                seen.add(nm.lower())
-                                real_pdfs.append(nm)
 
-                # Show up to 5 real PDFs
-                if not real_pdfs:
-                    st.info("No PDF name found in sources - try another query like 'Hong Kong Convention'")
-                else:
-                    for idx, pdf_name in enumerate(real_pdfs[:5], 1):
-                        # IMPORTANT: safe='' to encode () brackets for 417(84).pdf
-                        safe_name = urllib.parse.quote(pdf_name, safe='')
-                        pdf_url = f"{API_URL}/pdf/{safe_name}"
-                        page_no = 10 + idx*3
-                        
-                        st.markdown(f"""
-                        <div class="src-card">
-                            <div class="pdf-badge">PDF</div>
-                            <div style="flex:1">
-                                <div class="src-name">{pdf_name}</div>
-                                <div class="src-meta">Page {page_no} • IMO / Resolution</div>
-                            </div>
+                for idx, s in enumerate(sources[:5], 1):
+                    # s string bhi ho sakta hai, dict bhi
+                    if isinstance(s, str):
+                        # String me se sirf .pdf naam nikalo, page mat banao
+                        m = re.findall(r'([\w\-\s\(\)]+\.pdf)', s, re.I)
+                        pdf_name = m[0].strip().split("/")[-1] if m else ""
+                        snippet = s[:300]
+                        page = None
+                    else:
+                        pdf_name = (s.get("source") or s.get("pdf_name") or "").split("/")[-1].split("\\")[-1]
+                        snippet = s.get("text") or s.get("snippet") or ""
+                        # Page sirf tab dikhao jab backend ne sach me bheja ho
+                        page = s.get("page") or s.get("page_no") or None
+
+                    if not pdf_name:
+                        continue
+
+                    # FIX 2: PDF ka URL 8000 pe hai, 8001 pe nahi
+                    safe_name = urllib.parse.quote(pdf_name, safe='')
+                    pdf_url = f"{PDF_URL}/pdf/{safe_name}"
+
+                    # Page hai to dikhao, nahi hai to mat dikhao - fake mat banao
+                    if page:
+                        meta_text = f"Page {page}"
+                    else:
+                        meta_text = "Source from IMO docs"
+
+                    st.markdown(f"""
+                    <div class="src-card">
+                        <div class="pdf-badge">PDF</div>
+                        <div style="flex:1">
+                            <div class="src-name">{pdf_name}</div>
+                            <div class="src-meta">{meta_text}</div>
                         </div>
-                        """, unsafe_allow_html=True)
-                        st.link_button(f"Open", pdf_url, key=f"open_{idx}_{pdf_name[:15]}", use_container_width=False)
+                    </div>
+                    """, unsafe_allow_html=True)
+
+                    # Snippet real hai to dikhao
+                    if snippet:
+                        st.caption(snippet[:300])
+
+                    st.link_button(f"Open", pdf_url, key=f"open_{idx}_{pdf_name[:20]}", use_container_width=False)
             else:
-                st.warning("No sources from backend")
+                st.info("Answer mil gaya, par backend ne sources nahi bheje.")
 
         except Exception as e:
             st.error(f"Backend Error: {e}")
@@ -172,4 +169,4 @@ if st.session_state['q']:
 
 # FOOTER HINT
 st.markdown("---")
-st.caption("Try: Hong Kong Convention | MEPC.196 SRP | MARPOL Annex VI | Ballast Water D-2")
+st.caption("Try: Hong Kong Convention | MARPOL Annex VI | Ballast Water D-2")
