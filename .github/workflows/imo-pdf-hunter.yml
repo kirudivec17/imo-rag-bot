@@ -1,0 +1,41 @@
+name: IMO PDF Hunter - Auto Every 3 Days
+
+on:
+  schedule:
+    # Har 3 din me - 2 AM UTC pe
+    - cron: '0 2 */3 * *'
+  workflow_dispatch: # Manual chalane ke liye bhi
+
+permissions:
+  contents: write
+
+jobs:
+  hunt-pdfs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Packages
+        run: |
+          pip install requests beautifulsoup4 PyPDF2 sentence-transformers
+
+      - name: Run IMO Hunter - 50 Serper Searches
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+        run: |
+          python .github/scripts/imo_hunter.py
+
+      - name: Commit New PDFs + Embeddings
+        run: |
+          git config --global user.name "IMO Bot"
+          git config --global user.email "bot@imo-rag-bot.com"
+          git add data/pdfs/ data/chunks/ data/manifest.json || true
+          git diff --cached --quiet || git commit -m "Auto: New IMO PDFs - $(date +'%Y-%m-%d')"
+          git push || echo "Nothing new to push"
