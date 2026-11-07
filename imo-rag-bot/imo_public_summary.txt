@@ -1,4 +1,4 @@
-Total Unique PDFs: 1125
-Total Chunks: 12002
-Total Parts: 110
-Last Batch: CROSSED 12000!
+Total Unique PDFs: 100
+Total Chunks: 19941
+Total Parts: 97
+Last Batch: 100 new PDF - part96
