@@ -1,0 +1,161 @@
+name: Build Remaining PDFs - No Repeat
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: 'Ek baar me kitne naye PDF lene hai'
+        required: false
+        default: '100'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: imo-rag-build
+  cancel-in-progress: false
+
+jobs:
+  build-remaining:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install deps
+        run: |
+          pip install -q pypdf sentence-transformers numpy
+
+      - name: Build ONLY Remaining - No Repeat
+        env:
+          BATCH_SIZE: ${{ inputs.batch_size }}
+        run: |
+          cat > build_remaining.py << 'PYEOF'
+          import os, glob, json, hashlib
+
+          # 1. Pehle se bane hue PDF ki list nikalo - REPEAT ROKNE KE LIYE
+          done_pdfs = set()
+          # summary se
+          if os.path.exists("imo-rag-bot/imo_public_summary.txt"):
+              print(open("imo-rag-bot/imo_public_summary.txt").read())
+
+          # saare purane part files se PDF naam nikalo
+          for f in glob.glob("imo-rag-bot/master_imo_all_public_part*.txt"):
+              with open(f, errors='ignore') as fh:
+                  for line in fh:
+                      # har line me PDF naam hai - format: PDF_NAME || chunk
+                      if "||" in line:
+                          pdf_name = line.split("||")[0].strip()
+                          done_pdfs.add(pdf_name)
+                      elif ".pdf" in line.lower():
+                          # fallback: line me pdf naam dhoondo
+                          pass
+
+          print(f"PEHLE SE HO GAYE PDF: {len(done_pdfs)}")
+
+          # 2. GitHub me saare PDF dhoondo
+          all_pdfs = glob.glob("**/*.pdf", recursive=True)
+          # imo-rag-bot folder ke andar wale nahi, source wale
+          all_pdfs = [p for p in all_pdfs if "imo-rag-bot" not in p]
+          print(f"TOTAL PDF MILI: {len(all_pdfs)}")
+
+          # 3. Sirf BACHE HUE nikalo - yehi repeat rokega
+          remaining = [p for p in all_pdfs if os.path.basename(p) not in done_pdfs and p not in done_pdfs]
+          remaining = sorted(remaining)
+          print(f"BACHE HUE PDF: {len(remaining)}")
+          for r in remaining[:20]:
+              print(f"  - {r}")
+
+          if not remaining:
+              print("KOI BACHA NAHI HAI, SAB HO GAYA")
+              open("remaining_count.txt","w").write("0")
+              exit(0)
+
+          # 4. Sirf is batch ke PDF lo
+          batch_size = int(os.environ.get("BATCH_SIZE","100"))
+          batch = remaining[:batch_size]
+          print(f"IS BAAR BANA RAHE HAI: {len(batch)} PDF")
+
+          # 5. Chunks + Embedding banao
+          from pypdf import PdfReader
+          from sentence_transformers import SentenceTransformer
+          import numpy as np
+
+          model = SentenceTransformer('all-MiniLM-L6-v2')
+          os.makedirs("imo-rag-bot", exist_ok=True)
+
+          # naya part number - purane se aage
+          old_parts = glob.glob("imo-rag-bot/master_imo_all_public_part*.txt")
+          next_part = len(old_parts)
+          print(f"NEXT PART NUMBER: {next_part}")
+
+          new_chunks = []
+          new_embeddings = []
+          for pdf_path in batch:
+              try:
+                  reader = PdfReader(pdf_path)
+                  text = ""
+                  for page in reader.pages:
+                      text += (page.extract_text() or "") + "\n"
+                  # chunking - 1000 chars, 200 overlap
+                  pdf_name = os.path.basename(pdf_path)
+                  for i in range(0, len(text), 800):
+                      chunk_text = text[i:i+1000].strip()
+                      if len(chunk_text) < 50:
+                          continue
+                      chunk_id = f"{pdf_name}__{i}"
+                      new_chunks.append(f"{pdf_name} || {chunk_text}")
+                      new_embeddings.append(chunk_text)
+                  print(f"OK: {pdf_name}")
+              except Exception as e:
+                  print(f"FAIL: {pdf_path} - {e}")
+
+          # 6. Naya part file likho - purani file ko haath nahi lagana
+          part_file = f"imo-rag-bot/master_imo_all_public_part{next_part}.txt"
+          with open(part_file, "w", encoding="utf-8") as out:
+              out.write("\n".join(new_chunks))
+          print(f"PART FILE BAN GAYI: {part_file} - {len(new_chunks)} chunks")
+
+          # 7. Embeddings save karo
+          if new_embeddings:
+              embs = model.encode(new_embeddings, show_progress_bar=False)
+              np.save(f"imo-rag-bot/embeddings_part{next_part}.npy", embs)
+              with open(f"imo-rag-bot/embeddings_part{next_part}.json", "w") as out:
+                  json.dump({"pdfs": batch, "chunks": len(new_chunks)}, out, indent=2)
+
+          # 8. Summary update karo
+          total_pdfs = len(done_pdfs) + len(batch)
+          # purana total chunks + naya
+          old_total = 12002
+          try:
+              for line in open("imo-rag-bot/imo_public_summary.txt"):
+                  if "Total Chunks" in line:
+                      old_total = int(line.split(":")[1].strip())
+          except: pass
+          new_total = old_total + len(new_chunks)
+
+          with open("imo-rag-bot/imo_public_summary.txt","w") as out:
+              out.write(f"Total Unique PDFs: {total_pdfs}\n")
+              out.write(f"Total Chunks: {new_total}\n")
+              out.write(f"Total Parts: {next_part+1}\n")
+              out.write(f"Last Batch: {len(batch)} new PDF - part{next_part}\n")
+
+          print(f"DONE: PDFs {total_pdfs} | Chunks {new_total} | Parts {next_part+1}")
+          PYEOF
+          python3 build_remaining.py
+
+      - name: Commit - Sirf naya part
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add imo-rag-bot/master_imo_all_public_part*.txt imo-rag-bot/embeddings_part*.npy imo-rag-bot/embeddings_part*.json imo-rag-bot/imo_public_summary.txt
+          git commit -m "Add remaining batch - no repeat - $(date +%Y-%m-%d)" || echo "Kuch naya nahi"
+          git push || echo "Push fail - pehle pull karna padega"
