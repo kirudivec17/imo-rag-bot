@@ -1,10 +1,10 @@
-name: Auto - 100-100 Karke 2400 Tak
+name: Auto - RESUME - 100-100 Karke 2400 Tak
 
 on:
   workflow_dispatch:
     inputs:
       target_total:
-        description: 'Kahan tak jana hai? (default 2400)'
+        description: 'Kahan tak jana hai?'
         required: false
         default: '2400'
       batch_size:
@@ -22,7 +22,7 @@ concurrency:
 jobs:
   auto-build:
     runs-on: ubuntu-latest
-    timeout-minutes: 350  # 6 ghante se thoda kam, taaki limit na khaye
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -31,124 +31,101 @@ jobs:
           cache: 'pip'
       - run: pip install -q pypdf sentence-transformers numpy
 
-      - name: Auto Loop - 100 Ka Batch, 10 Sec Ruk Ke Dusra
+      - name: Auto Loop - Sirf Part Banao, Git Mat Chhedo
         env:
           TARGET_TOTAL: ${{ inputs.target_total }}
           BATCH_SIZE: ${{ inputs.batch_size }}
         run: |
-          cat > auto_loop.py << 'PYEOF'
-          import os, glob, re, time, urllib.parse
+          cat > auto_loop2.py << 'PYEOF'
+          import os, glob, re, time, urllib.parse, traceback
           from pypdf import PdfReader
           from sentence_transformers import SentenceTransformer
           import numpy as np
-
           TARGET = int(os.environ.get("TARGET_TOTAL","2400"))
           BATCH = int(os.environ.get("BATCH_SIZE","100"))
           model = SentenceTransformer('all-MiniLM-L6-v2')
-
-          # PDF list ek baar lo
           pdf_folders = sorted(glob.glob("imo_pdfs*"))
           all_pdfs = sorted(sum([glob.glob(os.path.join(f,"**/*.pdf"), recursive=True) for f in pdf_folders], []))
-          print(f"TOTAL PDF MILI: {len(all_pdfs)} | TARGET: {TARGET} | BATCH: {BATCH}")
-
+          print(f"TOTAL PDF: {len(all_pdfs)} | TARGET: {TARGET}")
           batch_no = 1
           while True:
-              # 1. Ab tak ho gaye wale dobara gin lo - har batch ke baad update hota hai
-              done_pdfs = set()
-              part_files = glob.glob("master_imo_all_public_part*.txt") + glob.glob("imo-rag-bot/master_imo_all_public_part*.txt")
-              for f in part_files:
-                  if "part96" in f: continue
-                  with open(f, errors='ignore') as fh:
-                      for line in fh:
-                          if line.startswith("SOURCE:"):
-                              name = urllib.parse.unquote(line.replace("SOURCE:","").strip())
-                              done_pdfs.add(name)
-                              done_pdfs.add(os.path.basename(name))
-
-              print(f"\n========== BATCH {batch_no} ==========")
-              print(f"AB TAK HO GAYE: {len(done_pdfs)} / TARGET {TARGET}")
-
-              # 2. Rukne ki condition - TARGET aa gaya ya bache hi nahi
-              if len(done_pdfs) >= TARGET:
-                  print(f"STOP - TARGET {TARGET} PURA HO GAYA! 🎉")
-                  break
-
-              def norm(p): return urllib.parse.unquote(os.path.basename(p))
-              remaining = [p for p in all_pdfs if norm(p) not in done_pdfs and os.path.basename(p) not in done_pdfs]
-              if not remaining:
-                  print("STOP - KOI PDF BACHA HI NAHI!")
-                  break
-
-              batch = remaining[:BATCH]
-              print(f"IS BATCH ME: {len(batch)} PDF bana rahe hai")
-              print(f"BACHE HUE: {len(remaining)}")
-
-              # 3. Part number
-              nums = []
-              for f in glob.glob("master_imo_all_public_part*.txt"):
-                  m = re.search(r'part(\d+)\.txt', f)
-                  if m: nums.append(int(m.group(1)))
-              next_part = max(nums)+1 if nums else 0
-
-              # 4. Chunks banao - PURANA FORMAT
-              new_chunks, new_texts = [], []
-              for pdf_path in batch:
-                  try:
-                      reader = PdfReader(pdf_path)
-                      text = "".join([(p.extract_text() or "")+"\n" for p in reader.pages])
-                      pdf_name = os.path.basename(pdf_path)
-                      for i in range(0, len(text), 800):
-                          ct = text[i:i+1000].strip()
-                          if len(ct) < 50: continue
-                          new_chunks.append(f"SOURCE: {pdf_name}\n{ct}\n---CHUNK---")
-                          new_texts.append(ct)
-                      print(f"OK: {pdf_name}")
-                  except Exception as e:
-                      print(f"FAIL: {pdf_path} - {e}")
-
-              part_file = f"master_imo_all_public_part{next_part}.txt"
-              with open(part_file,"w",encoding="utf-8") as out:
-                  out.write("\n".join(new_chunks))
-              print(f"PART BAN GAYA: {part_file} - {len(new_chunks)} chunks")
-
-              if new_texts:
-                  embs = model.encode(new_texts, show_progress_bar=False)
-                  np.save(f"embeddings_part{next_part}.npy", embs)
-
-              # 5. Summary update - har batch ke baad
-              old_total = 12002
               try:
-                  for line in open("imo_public_summary.txt"):
-                      if "Total Chunks" in line: old_total = int(line.split(":")[1].strip())
-              except: pass
-              new_total = old_total + len(new_chunks)
-              with open("imo_public_summary.txt","w") as out:
-                  out.write(f"Total Unique PDFs: {len(done_pdfs)+len(batch)}\n")
-                  out.write(f"Total Chunks: {new_total}\n")
-                  out.write(f"Total Parts: {next_part+1}\n")
-                  out.write(f"Last Batch: Auto Batch {batch_no} - part{next_part}\n")
-              print(f"DONE BATCH {batch_no}: PDFs {len(done_pdfs)+len(batch)} | Chunks {new_total} | Parts {next_part+1}")
-
-              # 6. Har batch ke baad commit - taaki beech me fail hua to bhi bacha rahe
-              os.system('git config user.name "github-actions"')
-              os.system('git config user.email "actions@github.com"')
-              os.system(f'git add {part_file} imo_public_summary.txt embeddings_part{next_part}.npy')
-              os.system(f'git commit -m "Auto Batch {batch_no} - part{next_part}" || echo "nothing"')
-              os.system('git push || echo "push retry"')
-              # agar push fail hua to ek baar pull karke fir push
-              os.system('git pull --rebase || true')
-              os.system('git push || true')
-
-              batch_no += 1
-
-              # 7. Agar target pura nahi hua to 10 second ruk ke dusra batch
-              # dobara loop ki shuruat me check hoga ki target aaya ya nahi
-              if len(done_pdfs)+len(batch) >= TARGET:
-                  print(f"STOP - TARGET {TARGET} PURA!")
-                  break
-              print("10 SECOND RUK RAHE HAI... fir agla batch...")
-              time.sleep(10)
-
-          print(f"\nFINAL DONE: Total Batches = {batch_no-1}")
+                  done_pdfs = set()
+                  for f in glob.glob("master_imo_all_public_part*.txt"):
+                      if "part96" in f: continue
+                      with open(f, errors='ignore') as fh:
+                          for line in fh:
+                              if line.startswith("SOURCE:"):
+                                  name = urllib.parse.unquote(line.replace("SOURCE:","").strip())
+                                  done_pdfs.add(name)
+                  print(f"\n=== BATCH {batch_no} | HO GAYE: {len(done_pdfs)} / {TARGET} ===")
+                  if len(done_pdfs) >= TARGET:
+                      print("STOP - TARGET PURA!"); break
+                  def norm(p): return urllib.parse.unquote(os.path.basename(p))
+                  remaining = [p for p in all_pdfs if norm(p) not in done_pdfs]
+                  if not remaining:
+                      print("STOP - KOI BACHA NAHI"); break
+                  batch = remaining[:BATCH]
+                  nums = []
+                  for f in glob.glob("master_imo_all_public_part*.txt"):
+                      m = re.search(r'part(\d+)\.txt', f)
+                      if m: nums.append(int(m.group(1)))
+                  next_part = max(nums)+1 if nums else 0
+                  new_chunks, new_texts = [], []
+                  for pdf_path in batch:
+                      try:
+                          reader = PdfReader(pdf_path)
+                          text = "".join([(p.extract_text() or "")+"\n" for p in reader.pages])
+                          pdf_name = os.path.basename(pdf_path)
+                          for i in range(0, len(text), 800):
+                              ct = text[i:i+1000].strip()
+                              if len(ct) < 50: continue
+                              new_chunks.append(f"SOURCE: {pdf_name}\n{ct}\n---CHUNK---")
+                              new_texts.append(ct)
+                          print(f"OK: {pdf_name}")
+                      except Exception as e:
+                          print(f"FAIL PDF SKIP: {pdf_path} - {e}")
+                          continue
+                  part_file = f"master_imo_all_public_part{next_part}.txt"
+                  with open(part_file,"w",encoding="utf-8") as out:
+                      out.write("\n".join(new_chunks))
+                  print(f"PART BAN GAYA: {part_file} - {len(new_chunks)} chunks")
+                  if new_texts:
+                      try:
+                          embs = model.encode(new_texts, show_progress_bar=False)
+                          np.save(f"embeddings_part{next_part}.npy", embs)
+                      except Exception as e:
+                          print(f"EMB SKIP: {e}")
+                  old_total = 12002
+                  try:
+                      for line in open("imo_public_summary.txt"):
+                          if "Total Chunks" in line: old_total = int(line.split(":")[1].strip())
+                  except: pass
+                  with open("imo_public_summary.txt","w") as out:
+                      out.write(f"Total Unique PDFs: {len(done_pdfs)+len(batch)}\n")
+                      out.write(f"Total Chunks: {old_total+len(new_chunks)}\n")
+                      out.write(f"Total Parts: {next_part+1}\n")
+                      out.write(f"Last Batch: Auto Batch {batch_no} - part{next_part}\n")
+                  print(f"DONE BATCH {batch_no}: PDFs {len(done_pdfs)+len(batch)}")
+                  batch_no += 1
+                  if len(done_pdfs)+len(batch) >= TARGET:
+                      print("STOP - TARGET PURA!"); break
+                  print("10 SEC RUK..."); time.sleep(10)
+              except Exception as e:
+                  print(f"BATCH ERROR, AGLE BATCH PE JA RAHE: {e}")
+                  traceback.print_exc()
+                  time.sleep(10)
+                  continue
+          print(f"FINAL: Batches = {batch_no-1}")
           PYEOF
-          python3 auto_loop.py
+          python3 auto_loop2.py
+
+      - name: Push Sab Parts - Agar Fail Bhi Hua To Bhi Push Karo
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add master_imo_all_public_part*.txt imo_public_summary.txt embeddings_part*.npy || true
+          git commit -m "Auto Resume - remaining batches" || echo "nothing to commit"
+          git pull --rebase || true
+          git push || git push --force-with-lease || echo "PUSH FAIL - parts local me bache hai, dobara run karo"
