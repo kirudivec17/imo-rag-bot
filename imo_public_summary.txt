@@ -1,4 +1,4 @@
-Total Unique PDFs: 1417
-Total Chunks: 20272
-Total Parts: 15
-Last Batch: Auto Batch 1 - part14
+Total Unique PDFs: 1516
+Total Chunks: 28359
+Total Parts: 16
+Last Batch: Auto Batch 2 - part15
