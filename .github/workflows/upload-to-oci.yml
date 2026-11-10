@@ -1,0 +1,33 @@
+name: Upload to OCI Bucket
+on:
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install OCI CLI
+        run: |
+          curl -L https://raw.githubusercontent.com/oracle/oci-cli/master/scripts/install/install.sh | bash -s -- --accept-all-defaults
+          echo "$HOME/bin" >> $GITHUB_PATH
+
+      - name: Setup OCI Config
+        run: |
+          mkdir -p ~/.oci
+          echo "${{ secrets.OCI_PRIVATE_KEY }}" > ~/.oci/oci_api_key.pem
+          cat > ~/.oci/config <<EOF
+          [DEFAULT]
+          user=${{ secrets.OCI_USER_OCID }}
+          fingerprint=${{ secrets.OCI_FINGERPRINT }}
+          key_file=~/.oci/oci_api_key.pem
+          tenancy=${{ secrets.OCI_TENANCY_OCID }}
+          region=${{ secrets.OCI_REGION }}
+          EOF
+
+      - name: Upload PDFs to Bucket
+        run: |
+          oci os object bulk-upload -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --src-dir imo_pdfs --prefix imo_pdfs/ --overwrite
+          oci os object bulk-upload -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --src-dir imo_pdfs_2 --prefix imo_pdfs_2/ --overwrite
+          oci os object bulk-upload -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --src-dir imo_pdfs_3 --prefix imo_pdfs_3/ --overwrite
