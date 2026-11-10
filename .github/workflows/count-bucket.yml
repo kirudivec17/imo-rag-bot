@@ -2,14 +2,14 @@ name: Count Bucket
 on:
   workflow_dispatch:
 jobs:
-  count:
+  check:
     runs-on: ubuntu-latest
     steps:
-            - name: Install OCI CLI
+      - name: Install OCI CLI
         run: |
           curl -L https://raw.githubusercontent.com/oracle/oci-cli/master/scripts/install/install.sh | bash -s -- --accept-all-defaults
           echo "$HOME/bin" >> $GITHUB_PATH
-            - name: Setup OCI Config
+      - name: Setup OCI Config
         run: |
           mkdir -p ~/.oci
           echo "${{ secrets.OCI_PRIVATE_KEY }}" > ~/.oci/oci_api_key.pem
@@ -21,13 +21,14 @@ jobs:
           tenancy=${{ secrets.OCI_TENANCY_OCID }}
           region=${{ secrets.OCI_REGION }}
           EOF
-            - name: Count Objects
+      - name: Count Objects
         run: |
           echo "=== imo_pdfs ==="
-          oci os object list -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --prefix imo_pdfs/ --all --query "length(data.objects)" 
+          oci os object list -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --prefix imo_pdfs/ --all > /tmp/a.json
+          cat /tmp/a.json | grep -c '"name"'
           echo "=== imo_pdfs_2 ==="
-          oci os object list -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --prefix imo_pdfs_2/ --all --query "length(data.objects)"
+          oci os object list -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --prefix imo_pdfs_2/ --all > /tmp/b.json
+          cat /tmp/b.json | grep -c '"name"'
           echo "=== imo_pdfs_3 ==="
-          oci os object list -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --prefix imo_pdfs_3/ --all --query "length(data.objects)"
-          echo "=== TOTAL ==="
-          oci os object list -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --all --query "length(data.objects)"
+          oci os object list -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --prefix imo_pdfs_3/ --all > /tmp/c.json
+          cat /tmp/c.json | grep -c '"name"'
