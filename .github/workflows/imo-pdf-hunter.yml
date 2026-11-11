@@ -196,6 +196,7 @@ jobs:
           export PATH="$HOME/bin:$PATH"
           mkdir -p ~/.oci
           echo "${{ secrets.OCI_PRIVATE_KEY }}" > ~/.oci/oci_api_key.pem
+          chmod 600 ~/.oci/oci_api_key.pem
           cat > ~/.oci/config <<EOF
           [DEFAULT]
           user=${{ secrets.OCI_USER_OCID }}
@@ -217,6 +218,7 @@ jobs:
         run: |
           git config --local user.email "hunter@imo.bot"
           git config --local user.name "IMO Hunter"
-          git add imo_pdfs/ data/chunks/ data/embeddings/
+          git add imo_pdfs/ || true
+          git add -f data/chunks/ data/embeddings/ || true
           git diff --staged --quiet || git commit -m "Hunter: $(date +%Y-%m-%d) - new PDFs + chunks + embeddings"
-          git push
+          git push || echo "Push me koi naya change nahi tha"
