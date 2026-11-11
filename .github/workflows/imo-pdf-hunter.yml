@@ -1,3 +1,193 @@
+name: IMO PDF Hunter + Chunk + Embedding + Bucket
+
+on:
+  schedule:
+    - cron: '0 2 */3 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install
+        run: |
+          pip install requests PyPDF2 sentence-transformers numpy
+
+      - name: Hunt + Chunk + Embedding + Bucket
+        env:
+          SERPER_API_KEYS: ${{ secrets.SERPER_API_KEYS }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          OCI_PRIVATE_KEY: ${{ secrets.OCI_PRIVATE_KEY }}
+          OCI_USER_OCID: ${{ secrets.OCI_USER_OCID }}
+          OCI_FINGERPRINT: ${{ secrets.OCI_FINGERPRINT }}
+          OCI_TENANCY_OCID: ${{ secrets.OCI_TENANCY_OCID }}
+          OCI_REGION: ${{ secrets.OCI_REGION }}
+          OCI_NAMESPACE: ${{ secrets.OCI_NAMESPACE }}
+          OCI_BUCKET: ${{ secrets.OCI_BUCKET }}
+        run: |
+          python3 << 'PYEOF'
+          import os, json, requests, re, hashlib, time
+          from pathlib import Path
+          from urllib.parse import quote
+          keys_str = os.environ.get("SERPER_API_KEYS") or os.environ.get("SERPER_API_KEY") or ""
+          KEYS = [k.strip() for k in keys_str.split(",") if k.strip()]
+          print(f"Serper Keys mili: {len(KEYS)}")
+          if not KEYS:
+              print("Koi Serper Key nahi hai!"); exit(0)
+          old_files = set()
+          for folder in ["imo_pdfs", "imo_pdfs_2", "imo_pdfs_3"]:
+              p = Path(folder)
+              if p.exists():
+                  for f in list(p.glob("*.pdf")) + list(p.glob("*.PDF")):
+                      old_files.add(f.name.lower())
+          manifest_path = Path("imo_pdfs/manifest.json")
+          if manifest_path.exists():
+              try:
+                  m = json.loads(manifest_path.read_text())
+                  for item in m.get("pdfs", []):
+                      old_files.add(item.get("file","").lower())
+              except: pass
+          print(f"Purane PDFs (skip karne hai): {len(old_files)}")
+          queries = [
+              "IMO resolution PDF site:imo.org",
+              "IMO circular PDF site:imo.org",
+              "IMO MSC resolution PDF 2024 2025 site:imo.org",
+              "IMO MEPC resolution PDF site:imo.org",
+              "IMO MEPC circular PDF site:imo.org",
+              "IMO MSC circular PDF site:imo.org",
+              "IMO SOLAS amendment PDF site:imo.org",
+              "IMO MARPOL amendment PDF site:imo.org",
+              "IMO Ballast Water Management PDF site:imo.org",
+              "IMO Hong Kong Convention ship recycling PDF site:imo.org",
+              "IMO GHG reduction PDF site:imo.org",
+              "IMO maritime safety committee PDF site:imo.org",
+              "IMO marine environment protection PDF site:imo.org",
+              "IMO legal committee PDF site:imo.org",
+              "IMO facilitation committee PDF site:imo.org",
+              "IMO assembly resolution PDF site:imo.org",
+              "IMO council document PDF site:imo.org",
+              "IMO casualty investigation PDF site:imo.org",
+              "IMO e-navigation PDF site:imo.org",
+              "IMO autonomous ships MASS PDF site:imo.org",
+          ]
+          found_urls = []
+          key_idx = 0
+          search_count = 0
+          for q in queries:
+              if search_count >= 50:
+                  break
+              api_key = KEYS[key_idx % len(KEYS)]
+              key_idx += 1
+              search_count += 1
+              try:
+                  r = requests.post("https://google.serper.dev/search",
+                      headers={"X-API-KEY": api_key, "Content-Type": "application/json"},
+                      json={"q": q, "num": 10}, timeout=20)
+                  data = r.json()
+                  for item in data.get("organic", []):
+                      link = item.get("link","")
+                      if link.lower().endswith(".pdf") and "imo.org" in link.lower():
+                          if link not in found_urls:
+                              found_urls.append(link)
+                  print(f"Search {search_count}/50: {q} -> Total Found: {len(found_urls)}")
+              except Exception as e:
+                  print(f"Search fail {q}: {e}")
+              time.sleep(1)
+          print(f"TOTAL Unique PDF URLs: {len(found_urls)}")
+          out_dir = Path("imo_pdfs")
+          out_dir.mkdir(exist_ok=True)
+          chunks_dir = Path("data/chunks")
+          chunks_dir.mkdir(parents=True, exist_ok=True)
+          embed_dir = Path("data/embeddings")
+          embed_dir.mkdir(parents=True, exist_ok=True)
+          if manifest_path.exists():
+              manifest = json.loads(manifest_path.read_text())
+          else:
+              manifest = {"pdfs": []}
+          print("Loading Embedding Model...")
+          try:
+              from sentence_transformers import SentenceTransformer
+              model = SentenceTransformer('all-MiniLM-L6-v2')
+              print("Embedding Model Loaded")
+          except Exception as e:
+              print(f"Embedding Model fail: {e}")
+              model = None
+          def chunk_text(text, size=1000, overlap=200):
+              chunks = []
+              start = 0
+              while start < len(text):
+                  end = start + size
+                  chunks.append(text[start:end])
+                  start = end - overlap
+                  if start >= len(text):
+                      break
+              return chunks
+          saved = 0
+          total_chunks = 0
+          new_files = []
+          for url in found_urls:
+              if saved >= 100:
+                  break
+              try:
+                  fname = url.split("/")[-1].split("?")[0]
+                  fname = re.sub(r'[^a-zA-Z0-9._-]', '_', fname)
+                  if not fname.lower().endswith(".pdf"):
+                      fname += ".pdf"
+                  if fname.lower() in old_files:
+                      continue
+                  print(f"Downloading: {fname}")
+                  r = requests.get(url, timeout=90, headers={"User-Agent": "Mozilla/5.0"})
+                  if r.status_code == 200 and len(r.content) > 2000 and r.content[:4] == b'%PDF':
+                      fpath = out_dir / fname
+                      fpath.write_bytes(r.content)
+                      old_files.add(fname.lower())
+                      new_files.append(fname)
+                      saved += 1
+                      try:
+                          from PyPDF2 import PdfReader
+                          import io
+                          reader = PdfReader(io.BytesIO(r.content))
+                          full_text = ""
+                          for page in reader.pages:
+                              try: full_text += (page.extract_text() or "") + "\n"
+                              except: pass
+                          full_text = re.sub(r'\s+', ' ', full_text).strip()
+                          chunks = chunk_text(full_text) if full_text else []
+                          print(f"  -> {fname}: {len(reader.pages)} pages, {len(chunks)} chunks, {len(full_text)} chars")
+                          chunk_file = chunks_dir / (fname + ".chunks.json")
+                          chunk_data = []
+                          embeddings = []
+                          if model and chunks:
+                              embeddings = model.encode(chunks, show_progress_bar=False).tolist()
+                          for i, ch in enumerate(chunks):
+                              chunk_data.append({"file": fname, "chunk_id": i, "text": ch, "embedding": embeddings[i] if embeddings else None})
+                          chunk_file.write_text(json.dumps(chunk_data, indent=1))
+                          embed_file = embed_dir / (fname + ".embeddings.json")
+                          embed_file.write_text(json.dumps({"file": fname, "chunks": len(chunks), "embeddings": embeddings}))
+                          total_chunks += len(chunks)
+                      except Exception as e:
+                          print(f"  Chunk/Embedding fail {fname}: {e}")
+                      manifest["pdfs"].append({"file": fname, "url": url, "size": len(r.content), "chunks": total_chunks})
+                      print(f"Saved {saved}: {fname}")
+              except Exception as e:
+                  print(f"Download fail {url}: {e}")
+                  continue
+          manifest_path.write_text(json.dumps(manifest, indent=2))
+          Path("/tmp/new_files.txt").write_text("\n".join(new_files))
+          print(f"DONE! New PDFs: {saved}, Total Chunks: {total_chunks}, Total Manifest: {len(manifest['pdfs'])}")
+          PYEOF
+
       - name: Upload ALL to Bucket - PDF + Chunks + Embeddings
         run: |
           echo "=== Bucket Upload Start ==="
@@ -14,14 +204,19 @@
           tenancy=${{ secrets.OCI_TENANCY_OCID }}
           region=${{ secrets.OCI_REGION }}
           EOF
-          # 1. PDFs - sirf naye, purane skip -> --no-overwrite
           oci os object bulk-upload -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --src-dir imo_pdfs --prefix "imo_pdfs/" --no-overwrite --parallel-upload-count 5
-          # 2. Chunks - overwrite karna hai
           if [ -d "data/chunks" ]; then
             oci os object bulk-upload -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --src-dir data/chunks --prefix "data/chunks/" --overwrite --parallel-upload-count 5
           fi
-          # 3. Embeddings - overwrite karna hai
           if [ -d "data/embeddings" ]; then
             oci os object bulk-upload -ns ${{ secrets.OCI_NAMESPACE }} -bn ${{ secrets.OCI_BUCKET }} --src-dir data/embeddings --prefix "data/embeddings/" --overwrite --parallel-upload-count 5
           fi
           echo "=== Bucket Upload Done ==="
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "hunter@imo.bot"
+          git config --local user.name "IMO Hunter"
+          git add imo_pdfs/ data/chunks/ data/embeddings/
+          git diff --staged --quiet || git commit -m "Hunter: $(date +%Y-%m-%d) - new PDFs + chunks + embeddings"
+          git push
