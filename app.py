@@ -136,8 +136,9 @@ if st.session_state['q']:
                         continue
 
                     # FIX 2: PDF ka URL 8000 pe hai, 8001 pe nahi
+                    # FIX 3: Backend me /pdf/ nahi hai, /download/ hai
                     safe_name = urllib.parse.quote(pdf_name, safe='')
-                    pdf_url = f"{PDF_URL}/pdf/{safe_name}"
+                    pdf_url = f"{PDF_URL}/download/{safe_name}"
 
                     # Page hai to dikhao, nahi hai to mat dikhao - fake mat banao
                     if page:
