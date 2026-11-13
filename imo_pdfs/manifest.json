@@ -439,6 +439,72 @@
       "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/MASS-ISWG%203_MSC108%20outcome.pdf",
       "size": 1100178,
       "chunks": 6332
+    },
+    {
+      "file": "MEPC.405_83_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.405(83).pdf",
+      "size": 813873,
+      "chunks": 7
+    },
+    {
+      "file": "MEPC.1-Circ.906-Rev.1_20-_20Revised_20Guidelines_20For_20The_20Reduction_20Of_20Underwater_20Radiated.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/MediaCentre/Documents/MEPC.1-Circ.906-Rev.1%20-%20Revised%20Guidelines%20For%20The%20Reduction%20Of%20Underwater%20Radiated.pdf",
+      "size": 481608,
+      "chunks": 83
+    },
+    {
+      "file": "MSC.496_105_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.496(105).pdf",
+      "size": 1024470,
+      "chunks": 192
+    },
+    {
+      "file": "MEPC.78_43_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.78(43).pdf",
+      "size": 673161,
+      "chunks": 214
+    },
+    {
+      "file": "MEPC.279_70_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.279(70).pdf",
+      "size": 1098774,
+      "chunks": 351
+    },
+    {
+      "file": "MEPC.196_62_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.196(62).pdf",
+      "size": 563679,
+      "chunks": 373
+    },
+    {
+      "file": "MEPC.391_81_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.391(81).pdf",
+      "size": 1604538,
+      "chunks": 533
+    },
+    {
+      "file": "A.1183_33_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1183(33).pdf",
+      "size": 720149,
+      "chunks": 555
+    },
+    {
+      "file": "A.849_20_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.849(20).pdf",
+      "size": 6286426,
+      "chunks": 608
+    },
+    {
+      "file": "Casualty_20Analysis_20Process.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/MSAS/Documents/Casualty%20Analysis%20Process.pdf",
+      "size": 79751,
+      "chunks": 610
+    },
+    {
+      "file": "MSC_20111-22-Annex_2016_20-_20_N.B._20Issued_20as_20a_20separate_20document_20to_20be_20available_20prior_20to_20the_20entry_20into_20effect_20date__20_Secretariat__20_1_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/MSC%20111-22-Annex%2016%20-%20(N.B.%20Issued%20as%20a%20separate%20document%20to%20be%20available%20prior%20to%20the%20entry%20into%20effect%20date)%20(Secretariat)%20(1).pdf",
+      "size": 929364,
+      "chunks": 810
     }
   ]
 }
