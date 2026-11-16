@@ -505,6 +505,48 @@
       "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/MSC%20111-22-Annex%2016%20-%20(N.B.%20Issued%20as%20a%20separate%20document%20to%20be%20available%20prior%20to%20the%20entry%20into%20effect%20date)%20(Secretariat)%20(1).pdf",
       "size": 929364,
       "chunks": 810
+    },
+    {
+      "file": "A.918_22_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/A.918(22).pdf",
+      "size": 870282,
+      "chunks": 270
+    },
+    {
+      "file": "QC656E.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/publications/Documents/Supplements/English/QC656E.pdf",
+      "size": 445464,
+      "chunks": 273
+    },
+    {
+      "file": "MEPC_2074-INF.16.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/MediaCentre/PressBriefings/Documents/MEPC%2074-INF.16.pdf",
+      "size": 224667,
+      "chunks": 281
+    },
+    {
+      "file": "MEPC.342_2877_29.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Air%20pollution/MEPC.342%2877%29.pdf",
+      "size": 216557,
+      "chunks": 281
+    },
+    {
+      "file": "FAL_2049-22-Add.1.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Facilitation/Facilitation/FAL%2049-22-Add.1.pdf",
+      "size": 541939,
+      "chunks": 382
+    },
+    {
+      "file": "FAL.8-Circ.1.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Facilitation/FAL%20related%20nonmandatory%20documents/FAL.8-Circ.1.pdf",
+      "size": 645277,
+      "chunks": 491
+    },
+    {
+      "file": "M3_20Operation_20Management_20-_20IMO_20TTT_20course_20presentation_20final1.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/Air%20pollution/M3%20Operation%20Management%20-%20IMO%20TTT%20course%20presentation%20final1.pdf",
+      "size": 6020313,
+      "chunks": 538
     }
   ]
 }
