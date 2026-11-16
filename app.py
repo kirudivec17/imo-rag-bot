@@ -6,7 +6,7 @@ import re
 st.set_page_config(page_title="IMO AI Assistant", page_icon="⚓", layout="centered")
 
 API_URL = "http://129.225.105.196:8001"
-PDF_URL = "http://129.225.105.196:8000"
+PDF_URL = "http://129.225.105.196:8001"
 
 # --- V3 FIX: SIMPLE + PAKKA DEDUP ---
 def clean_answer(raw):
