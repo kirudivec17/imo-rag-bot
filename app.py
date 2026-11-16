@@ -8,77 +8,69 @@ st.set_page_config(page_title="IMO AI Assistant", page_icon="⚓", layout="cente
 API_URL = "http://129.225.105.196:8001"
 PDF_URL = "http://129.225.105.196:8000"
 
-# --- FIX: REPEAT HATANE WALA FUNCTION ---
+# --- V3 FIX: SIMPLE + PAKKA DEDUP ---
 def clean_answer(raw):
     if not raw:
         return ""
-    # 1. Extra space / line hatavo
-    text = re.sub(r'\n{3,}', '\n\n', raw.strip())
-    # 2. Sentence me todo
-    sentences = re.split(r'(?<=[.!])\s+', text)
+    text = raw.strip()
+    # Upar ki "Based on IMO documents:" line hatao
+    text = re.sub(r'Based on IMO documents:?', '', text, flags=re.I).strip()
+
+    # Step 1: Pehle \n se lines me todo
+    lines = re.split(r'\n+', text)
+    cleaned = []
     seen = set()
-    clean = []
-    for s in sentences:
-        s_clean = s.strip()
-        if len(s_clean) < 15:
+
+    for line in lines:
+        s = line.strip()
+        # Aage laga number hatao: "1." / "1)" / "1" sab
+        s = re.sub(r'^\d+[\.\)]\s*', '', s).strip()
+        s = re.sub(r'^\d+\s+', '', s).strip()
+        if len(s) < 20:
             continue
-        # Normalise karke check karo - same line dobara na aaye
-        key = re.sub(r'[^a-z0-9]', '', s_clean.lower())[:120]
+        # Key banao - number, space, punctuation sab hatake
+        key = re.sub(r'[^a-z0-9]', '', s.lower())
         if key in seen:
             continue
+        # Fuzzy check: shuru ke 80 char same hai to duplicate
+        dup = False
+        for old in seen:
+            if key[:80] and (key[:80] in old or old[:80] in key):
+                dup = True
+                break
+        if dup:
+            continue
         seen.add(key)
-        clean.append(s_clean)
-    # 3. Wapas jodo
-    result = " ".join(clean)
-    # 4. Agar bahut lamba hai to 4500 char tak rakho
-    return result[:4500]
+        cleaned.append(s)
+
+    # Step 2: Fallback - agar lines se kuch nahi mila to sentence se todo
+    if not cleaned:
+        parts = re.split(r'(?<=[.!])\s+', text)
+        for p in parts:
+            p = re.sub(r'^\d+[\.\)]\s*', '', p.strip()).strip()
+            if len(p) > 20 and p not in cleaned:
+                cleaned.append(p)
+
+    # Step 3: Saaf numbered list banao
+    out = ""
+    for i, c in enumerate(cleaned, 1):
+        out += f"{i}. {c}\n\n"
+    return out[:4500]
 
 st.markdown("""
 <style>
 .stApp { background: #F2F4F7; }
 header, footer, #MainMenu {visibility: hidden;}
 .block-container { padding-top: 12px; max-width: 540px; padding-bottom: 40px; }
-.blue-header {
-    background: #1A5DCE;
-    border-radius: 22px;
-    padding: 16px 20px;
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    color: white;
-    margin-bottom: 6px;
-}
-.logo-circle {
-    background: white;
-    border-radius: 50%;
-    width: 46px; height: 46px;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 24px;
-    font-weight: 800;
-    color: #1A5DCE;
-}
+.blue-header { background: #1A5DCE; border-radius: 22px; padding: 16px 20px; display: flex; align-items: center; gap: 14px; color: white; margin-bottom: 6px; }
+.logo-circle { background: white; border-radius: 50%; width: 46px; height: 46px; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 800; color: #1A5DCE; }
 .header-title { font-size: 22px; font-weight: 800; letter-spacing: -0.3px; }
 .sub { color: #6B7280; font-size: 12.5px; margin: 8px 2px 16px 2px; }
 .q-bubble { background: #2D2D2D; color: white; border-radius: 12px; padding: 10px 14px; font-size: 14px; margin: 8px 0; }
-.answer-card {
-    background: #D6E4FF;
-    border-radius: 20px;
-    padding: 18px 18px;
-    color: #1E293B;
-    margin-top: 10px;
-}
+.answer-card { background: #D6E4FF; border-radius: 20px; padding: 18px 18px; color: #1E293B; margin-top: 10px; }
 .ans-head { color: #1A3D8F; font-weight: 800; font-size: 16px; margin-bottom: 10px; }
 .src-head { color: #1A3D8F; font-weight: 800; font-size: 17px; margin: 22px 0 10px 2px; }
-.src-card {
-    background: white;
-    border: 1px solid #E5E7EB;
-    border-radius: 12px;
-    padding: 10px 12px;
-    margin-bottom: 6px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
+.src-card { background: white; border: 1px solid #E5E7EB; border-radius: 12px; padding: 10px 12px; margin-bottom: 6px; display: flex; align-items: center; gap: 10px; }
 .pdf-badge { background: #FF2D2D; color: white; font-size: 10px; font-weight: 800; padding: 5px 6px; border-radius: 5px; }
 .src-name { font-size: 12.5px; font-weight: 600; color: #111827; line-height: 1.3; }
 .src-meta { font-size: 11px; color: #6B7280; margin-top: 2px; }
@@ -117,13 +109,9 @@ if st.session_state['q']:
                 st.warning("No answer from backend. Try again.")
                 st.stop()
 
-            # YAHI FIX HAI - repeat hatake saaf answer banao
             ans = clean_answer(raw_answer)
             ans = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', ans)
-            ans = ans.replace("**", "")
-            ans = ans.replace("\n* ", "<br>• ").replace("* ", "• ")
-            if "<br>" not in ans and len(ans) > 300:
-                ans = ans.replace(". ", ".<br><br>")
+            ans = ans.replace("**", "").replace("\n", "<br>")
 
             st.markdown(f"""
             <div class="answer-card">
@@ -133,25 +121,22 @@ if st.session_state['q']:
             """, unsafe_allow_html=True)
 
             if sources:
-                st.markdown(f'<div class="src-head">Sources ({len(sources)})</div>', unsafe_allow_html=True)
-
-                # Sources me bhi same PDF repeat na ho
+                st.markdown('<div class="src-head">Sources</div>', unsafe_allow_html=True)
                 seen_pdfs = set()
                 shown = 0
-                for idx, s in enumerate(sources, 1):
+                for s in sources:
                     if isinstance(s, str):
                         m = re.findall(r'([\w\-\s\(\)]+\.pdf)', s, re.I)
                         pdf_name = m[0].strip().split("/")[-1] if m else ""
                         snippet = s[:300]
                         page = None
                     else:
-                        pdf_name = (s.get("source") or s.get("pdf_name") or "").split("/")[-1].split("\\")[-1]
+                        pdf_name = (s.get("source") or s.get("pdf_name") or s.get("file") or "").split("/")[-1].split("\\")[-1]
                         snippet = s.get("text") or s.get("snippet") or ""
                         page = s.get("page") or s.get("page_no") or None
 
                     if not pdf_name:
                         continue
-                    # Same PDF dobara mat dikhao
                     pdf_key = pdf_name.lower().strip()
                     if pdf_key in seen_pdfs:
                         continue
@@ -175,7 +160,7 @@ if st.session_state['q']:
                     """, unsafe_allow_html=True)
                     if snippet:
                         st.caption(snippet[:300])
-                    st.link_button(f"Open", pdf_url, key=f"open_{shown}_{pdf_name[:20]}", use_container_width=False)
+                    st.link_button("Open", pdf_url, key=f"open_{shown}_{pdf_name[:20]}", use_container_width=False)
             else:
                 st.info("Answer mil gaya, par backend ne sources nahi bheje.")
 
