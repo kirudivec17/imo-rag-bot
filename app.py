@@ -1,5 +1,4 @@
-# app.py - IMO RAG Bot - Clean Version
-# Chunks: 94348 | Embeddings: 94348 | Match: True
+# app.py - IMO AI Assistant - Final Clean Version
 import glob
 import re
 import urllib.parse
@@ -7,139 +6,135 @@ import numpy as np
 import streamlit as st
 from sentence_transformers import SentenceTransformer
 
-# ---------------- PAGE SETUP ----------------
-st.set_page_config(page_title="IMO RAG Bot", page_icon="⚓", layout="wide")
-st.title("⚓ IMO RAG Bot")
-st.caption("MARPOL • SOLAS • STCW • MLC - Official IMO Documents se jawab")
-st.divider()
+# ---------------- PAGE ----------------
+st.set_page_config(page_title="IMO AI Assistant", page_icon="⚓", layout="wide")
 
-# ---------------- CLEAN TEXT - Rebuild wala same ----------------
+# ---------------- CSS - Pehle jaisa clean look ----------------
+st.markdown("""
+<style>
+    .main-title { font-size: 32px; font-weight: 700; margin-bottom: 0px; }
+    .sub-title { color: #666; font-size: 14px; margin-bottom: 20px; }
+    .source-box { background: #f0f2f6; padding: 10px 14px; border-radius: 8px; font-size: 12px; color: #555; margin-top: 8px; }
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown('<div class="main-title">⚓ IMO AI Assistant</div>', unsafe_allow_html=True)
+st.markdown('<div class="sub-title">Ask anything about MARPOL • SOLAS • STCW • MLC • IMO Resolutions</div>', unsafe_allow_html=True)
+
+# ---------------- CLEAN TEXT ----------------
 def clean_text(raw):
-    lines = raw.splitlines()
     out = []
-    for ln in lines:
+    for ln in raw.splitlines():
         ln = ln.strip()
-        if not ln:
-            continue
-        if ln.startswith("SOURCE:"):
-            continue
-        if ln.startswith("I:\\") or ln.startswith("I:/"):
-            continue
-        if "MEPC 80/17/Add.1" in ln:
-            continue
-        if ln.startswith("Annex"):
-            continue
-        if re.match(r'^(RESOLUTION|2023 GUIDELINES|MINIMIZE THE TRANSFER)', ln):
-            continue
-        if len(ln) < 3:
-            continue
+        if not ln: continue
+        if ln.startswith("SOURCE:"): continue
+        if ln.startswith("I:\\") or ln.startswith("I:/"): continue
+        if "MEPC 80/17/Add.1" in ln: continue
+        if ln.startswith("Annex"): continue
+        if re.match(r'^(RESOLUTION|2023 GUIDELINES|MINIMIZE THE TRANSFER)', ln): continue
+        if len(ln) < 3: continue
         out.append(ln)
     txt = " ".join(out)
     txt = re.sub(r'\s+', ' ', txt)
     txt = re.sub(r'-\s+', '', txt)
     return txt.strip()
 
-# ---------------- LOAD ALL - Ek baar hi load hoga ----------------
+# ---------------- LOAD ----------------
 @st.cache_resource
 def load_all():
-    # 1. Chunks load karo - rebuild wale order me
-    all_chunks = []
-    all_sources = []
-    files = sorted(glob.glob("master_imo_all_public_part*.txt"))
-    for f in files:
+    chunks, sources = [], []
+    for f in sorted(glob.glob("master_imo_all_public_part*.txt")):
         txt = open(f, encoding="utf-8", errors="ignore").read()
         for p in txt.split("---CHUNK---"):
             p = p.strip()
-            if len(p) < 200:
-                continue
+            if len(p) < 200: continue
             m = re.search(r'SOURCE:\s*(.+\.pdf)', p, re.I)
-            if not m:
-                continue
+            if not m: continue
             pdf = urllib.parse.unquote(m.group(1).strip()).split("/")[-1].split("\\")[-1].strip()
             body = clean_text(p)
-            if len(body) < 200:
-                continue
-            all_chunks.append(body)
-            all_sources.append(pdf)
-
-    # 2. Embeddings load karo - part1 se part10 tak
+            if len(body) < 200: continue
+            chunks.append(body)
+            sources.append(pdf)
     def part_num(x):
         return int(re.search(r'part(\d+)', x).group(1))
     emb_files = sorted(glob.glob("embeddings_part*.npy"), key=part_num)
     embs = np.concatenate([np.load(f) for f in emb_files], axis=0)
     embs = embs / np.linalg.norm(embs, axis=1, keepdims=True)
-
-    # 3. Model load karo
     model = SentenceTransformer('all-MiniLM-L6-v2')
-    return all_chunks, all_sources, embs, model
+    return chunks, sources, embs, model
 
-# ---------------- SEARCH ----------------
 def search_real(query, top_k=5):
     chunks, sources, embs, model = load_all()
     q = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)[0]
     scores = embs @ q
     idx = np.argsort(scores)[::-1][:top_k]
-    results = []
-    for i in idx:
-        results.append({
-            "text": chunks[i],
-            "source": sources[i],
-            "score": float(scores[i])
-        })
-    return results
+    return [(chunks[i], sources[i], float(scores[i])) for i in idx]
 
-# ---------------- SIDEBAR ----------------
+# ---------------- SIDEBAR - Pehle jaisa ----------------
 with st.sidebar:
-    st.header("⚙️ Settings")
-    top_k = st.slider("Kitne results chahiye?", 1, 10, 5)
+    st.header("⚓ IMO AI Assistant")
+    st.write("Official IMO Documents se jawab")
     st.divider()
-    st.info("Database: 94,348 chunks\nEmbeddings: 94,348\nStatus: ✅ Matched")
-    if st.button("🔄 Cache Clear"):
-        st.cache_resource.clear()
+    top_k = st.slider("Sources", 1, 10, 5)
+    st.divider()
+    st.caption("Database: 94,348 chunks")
+    st.caption("Status: ✅ Embeddings Matched")
+    if st.button("🗑️ Clear Chat"):
+        st.session_state.messages = []
         st.rerun()
 
-# ---------------- MAIN UI ----------------
-query = st.text_input(
-    "Apna sawal likho:",
-    placeholder="e.g. What is sulphur limit in ECA?",
-    key="query_box"
-)
+# ---------------- CHAT HISTORY ----------------
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
-col1, col2 = st.columns([1, 4])
-with col1:
-    search_btn = st.button("🔍 Search", type="primary", use_container_width=True)
-with col2:
-    st.write("")
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.markdown(msg["content"])
 
-# Example buttons
-st.write("**Try karo:**")
-e1, e2, e3 = st.columns(3)
-if e1.button("Sulphur limit in ECA?"):
-    st.session_state.query_box = "What is sulphur limit in ECA?"
-    st.rerun()
-if e2.button("Ballast Water Management?"):
-    st.session_state.query_box = "What is Ballast Water Management requirement?"
-    st.rerun()
-if e3.button("Seafarer rest hours?"):
-    st.session_state.query_box = "What are rest hours for seafarers?"
-    st.rerun()
+# ---------------- SUGGESTIONS - Fix wala, ab error nahi aayega ----------------
+if len(st.session_state.messages) == 0:
+    st.write("**Try these:**")
+    c1, c2, c3 = st.columns(3)
+    # Yahan hum session_state.query_box ko touch nahi kar rahe, seedha pending me daal rahe hain
+    if c1.button("Sulphur limit in ECA?"):
+        st.session_state.pending = "What is sulphur limit in ECA?"
+        st.rerun()
+    if c2.button("Ballast Water Management?"):
+        st.session_state.pending = "What is Ballast Water Management requirement?"
+        st.rerun()
+    if c3.button("Seafarer rest hours?"):
+        st.session_state.pending = "What are rest hours for seafarers?"
+        st.rerun()
 
-# ---------------- RESULT ----------------
-if search_btn and query.strip():
-    with st.spinner("IMO documents me dhoondh raha hu..."):
-        try:
-            results = search_real(query, top_k=top_k)
-            st.success(f"✅ {len(results)} results mile")
-            for i, r in enumerate(results, 1):
-                with st.expander(f"📄 Result {i} - {r['source']} | Score: {r['score']:.3f}", expanded=(i == 1)):
-                    st.write(r["text"])
-                    st.caption(f"Source: {r['source']}")
-        except Exception as e:
-            st.error(f"Error: {e}")
-            st.info("Streamlit Cloud pe Reboot daba ke dobara try karo.")
+# ---------------- CHAT INPUT ----------------
+prompt = st.chat_input("Ask about IMO regulations...")
+# Agar suggestion button daba hai to wahi prompt ban jayega
+if "pending" in st.session_state and st.session_state.pending:
+    prompt = st.session_state.pending
+    st.session_state.pending = None
 
-elif search_btn and not query.strip():
-    st.warning("Pehle sawal to likho!")
+if prompt:
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
 
-else:
-    st.info("👆 Upar sawal likh ke Search dabao. Jawab seedha IMO ke official PDF se aayega.")
+    with st.chat_message("assistant"):
+        with st.spinner("IMO documents me dhoondh raha hu..."):
+            try:
+                results = search_real(prompt, top_k=top_k)
+                # Pehla sabse accha result - seedha jawab
+                best_text, best_src, best_score = results[0]
+                # Jawab ko thoda saaf karke dikhao - 1200 chars tak
+                answer = best_text[:1500]
+                st.markdown(answer)
+                st.markdown(f'<div class="source-box">📄 <b>Source:</b> {best_src} &nbsp;|&nbsp; Score: {best_score:.3f}</div>', unsafe_allow_html=True)
+                if len(results) > 1:
+                    with st.expander(f"📚 Aur {len(results)-1} sources dekho"):
+                        for txt, src, sc in results[1:]:
+                            st.write(txt[:800])
+                            st.caption(f"Source: {src} | Score: {sc:.3f}")
+                            st.divider()
+                full_answer = answer + f"\n\n📄 Source: {best_src}"
+                st.session_state.messages.append({"role": "assistant", "content": full_answer})
+            except Exception as e:
+                st.error(f"Error: {e}")
