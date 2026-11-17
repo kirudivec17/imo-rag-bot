@@ -1,9 +1,8 @@
 streamlit
+sentence-transformers
 pypdf
 langchain-text-splitters
-google-genai
 python-dotenv
 requests
 scikit-learn
 numpy
-streamlit-local-storage
