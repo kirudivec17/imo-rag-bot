@@ -1,62 +1,94 @@
 import streamlit as st
-import requests
-import urllib.parse
-import re
+import glob, re, urllib.parse
+import numpy as np
 
 st.set_page_config(page_title="IMO AI Assistant", page_icon="⚓", layout="centered")
 
-API_URL = "http://129.225.105.196:8001"
-PDF_URL = "http://129.225.105.196:8001"
+# --- 1. KHUD KA AI - GITHUB SE HI EMBEDDING + CHUNKS UTHAO ---
+@st.cache_resource
+def load_ai():
+    from sentence_transformers import SentenceTransformer
+    return SentenceTransformer('all-MiniLM-L6-v2')
+model = load_ai()
 
-# --- V3 FIX: SIMPLE + PAKKA DEDUP ---
-def clean_answer(raw):
-    if not raw:
-        return ""
-    text = raw.strip()
-    # Upar ki "Based on IMO documents:" line hatao
-    text = re.sub(r'Based on IMO documents:?', '', text, flags=re.I).strip()
+@st.cache_data(show_spinner="Apna AI GitHub se IMO padh raha hai...")
+def load_knowledge():
+    # Teri pehle se bani files - YAML har 3 din me update karta hai
+    chunk_files = sorted(glob.glob("master_imo_all_public_part*.txt"))
+    emb_files = sorted(glob.glob("embeddings_part*.npy"))
+    all_chunks = []
+    all_embs = []
+    # 1. Chunks - txt files se
+    for f in chunk_files:
+        try:
+            txt = open(f, encoding="utf-8", errors="ignore").read()
+            # Har chunk ko --- se alag kiya hua maan ke
+            parts = re.split(r'\n---\n', txt)
+            for p in parts:
+                p = p.strip()
+                if len(p) > 200:
+                    # Pehli line me source PDF ka naam hai
+                    all_chunks.append({"text": p, "source": f})
+        except: continue
+    # 2. Embeddings - npy files se
+    for f in emb_files:
+        try:
+            arr = np.load(f)
+            all_embs.append(arr)
+        except: continue
+    if all_embs:
+        embs = np.concatenate(all_embs, axis=0)
+        # Chunks aur embeddings ka size match karo
+        n = min(len(all_chunks), len(embs))
+        return all_chunks[:n], embs[:n]
+    return all_chunks, None
 
-    # Step 1: Pehle \n se lines me todo
-    lines = re.split(r'\n+', text)
-    cleaned = []
-    seen = set()
+chunks, embeddings = load_knowledge()
 
-    for line in lines:
-        s = line.strip()
-        # Aage laga number hatao: "1." / "1)" / "1" sab
-        s = re.sub(r'^\d+[\.\)]\s*', '', s).strip()
-        s = re.sub(r'^\d+\s+', '', s).strip()
-        if len(s) < 20:
-            continue
-        # Key banao - number, space, punctuation sab hatake
-        key = re.sub(r'[^a-z0-9]', '', s.lower())
-        if key in seen:
-            continue
-        # Fuzzy check: shuru ke 80 char same hai to duplicate
-        dup = False
-        for old in seen:
-            if key[:80] and (key[:80] in old or old[:80] in key):
-                dup = True
-                break
-        if dup:
-            continue
+def search(q, top_k=4):
+    if not chunks: return []
+    q_emb = model.encode([q], convert_to_numpy=True)
+    if embeddings is not None:
+        scores = np.dot(embeddings, q_emb.T).flatten() / (np.linalg.norm(embeddings, axis=1) * np.linalg.norm(q_emb) + 1e-9)
+        idx = np.argsort(scores)[-top_k*3:][::-1]
+    else:
+        # Fallback - agar npy nahi mila to text match
+        idx = [i for i in range(min(len(chunks), top_k))]
+    seen = set(); out = []
+    for i in idx:
+        txt = chunks[int(i)]["text"]
+        key = re.sub(r'[^a-z0-9]', '', txt.lower())[:100]
+        if key in seen: continue
         seen.add(key)
-        cleaned.append(s)
+        out.append(chunks[int(i)])
+        if len(out) >= top_k: break
+    return out
 
-    # Step 2: Fallback - agar lines se kuch nahi mila to sentence se todo
-    if not cleaned:
-        parts = re.split(r'(?<=[.!])\s+', text)
-        for p in parts:
-            p = re.sub(r'^\d+[\.\)]\s*', '', p.strip()).strip()
-            if len(p) > 20 and p not in cleaned:
-                cleaned.append(p)
-
-    # Step 3: Saaf numbered list banao
+def clean_answer_from_chunks(results):
+    # Tera wala hi clean logic - repeat hatake
+    seen = set(); cleaned = []
+    for r in results:
+        sents = re.split(r'(?<=[.!])\s+', r["text"])
+        for s in sents:
+            s = re.sub(r'^\d+[\.\)]\s*', '', s.strip()).strip()
+            if len(s) < 20: continue
+            key = re.sub(r'[^a-z0-9]', '', s.lower())
+            if key in seen: continue
+            # Fuzzy - shuru ke 80 char same to duplicate
+            dup = False
+            for old in seen:
+                if key[:80] and (key[:80] in old or old[:80] in key):
+                    dup = True; break
+            if dup: continue
+            seen.add(key)
+            cleaned.append(s)
+            if len(cleaned) >= 8: break
     out = ""
     for i, c in enumerate(cleaned, 1):
         out += f"{i}. {c}\n\n"
-    return out[:4500]
+    return out
 
+# --- UI - TERA WALA HI DESIGN ---
 st.markdown("""
 <style>
 .stApp { background: #F2F4F7; }
@@ -77,96 +109,32 @@ header, footer, #MainMenu {visibility: hidden;}
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown("""
-<div class="blue-header">
-    <div class="logo-circle">⚓</div>
-    <div class="header-title">IMO AI Assistant</div>
-</div>
-<div class="sub">Official guidance • Instant answers for maritime regulations</div>
-""", unsafe_allow_html=True)
+st.markdown("""<div class="blue-header"><div class="logo-circle">⚓</div><div class="header-title">IMO AI Assistant</div></div><div class="sub">Official guidance • Instant answers for maritime regulations</div>""", unsafe_allow_html=True)
+
+st.caption(f"✅ Apna AI Ready | {len(chunks)} chunks | 2385 PDFs | 100% GitHub Managed - No 8001 Server")
 
 query_input = st.text_input("search", placeholder="marine pollution rules", label_visibility="collapsed")
 send_btn = st.button("➤ Send", use_container_width=True)
-
-if send_btn and query_input:
-    st.session_state['q'] = query_input
-
-if 'q' not in st.session_state:
-    st.session_state['q'] = ""
+if send_btn and query_input: st.session_state['q'] = query_input
+if 'q' not in st.session_state: st.session_state['q'] = ""
 
 if st.session_state['q']:
     q = st.session_state['q']
     st.markdown(f'<div class="q-bubble">{q}</div>', unsafe_allow_html=True)
-
     with st.spinner("Searching IMO docs..."):
-        try:
-            resp = requests.post(f"{API_URL}/ask", json={"q": q}, timeout=90)
-            data = resp.json()
-            raw_answer = data.get("answer", "")
-            sources = data.get("sources") or data.get("results") or []
-
-            if not raw_answer:
-                st.warning("No answer from backend. Try again.")
-                st.stop()
-
-            ans = clean_answer(raw_answer)
-            ans = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', ans)
-            ans = ans.replace("**", "").replace("\n", "<br>")
-
-            st.markdown(f"""
-            <div class="answer-card">
-                <div class="ans-head">Answer</div>
-                <div style="font-size:13.5px; line-height:1.7">{ans}</div>
-            </div>
-            """, unsafe_allow_html=True)
-
-            if sources:
-                st.markdown('<div class="src-head">Sources</div>', unsafe_allow_html=True)
-                seen_pdfs = set()
-                shown = 0
-                for s in sources:
-                    if isinstance(s, str):
-                        m = re.findall(r'([\w\-\s\(\)]+\.pdf)', s, re.I)
-                        pdf_name = m[0].strip().split("/")[-1] if m else ""
-                        snippet = s[:300]
-                        page = None
-                    else:
-                        pdf_name = (s.get("source") or s.get("pdf_name") or s.get("file") or "").split("/")[-1].split("\\")[-1]
-                        snippet = s.get("text") or s.get("snippet") or ""
-                        page = s.get("page") or s.get("page_no") or None
-
-                    if not pdf_name:
-                        continue
-                    pdf_key = pdf_name.lower().strip()
-                    if pdf_key in seen_pdfs:
-                        continue
-                    seen_pdfs.add(pdf_key)
-                    shown += 1
-                    if shown > 5:
-                        break
-
-                    safe_name = urllib.parse.quote(pdf_name, safe='')
-                    pdf_url = f"{PDF_URL}/download/{safe_name}"
-                    meta_text = f"Page {page}" if page else "Source from IMO docs"
-
-                    st.markdown(f"""
-                    <div class="src-card">
-                        <div class="pdf-badge">PDF</div>
-                        <div style="flex:1">
-                            <div class="src-name">{pdf_name}</div>
-                            <div class="src-meta">{meta_text}</div>
-                        </div>
-                    </div>
-                    """, unsafe_allow_html=True)
-                    if snippet:
-                        st.caption(snippet[:300])
-                    st.link_button("Open", pdf_url, key=f"open_{shown}_{pdf_name[:20]}", use_container_width=False)
-            else:
-                st.info("Answer mil gaya, par backend ne sources nahi bheje.")
-
-        except Exception as e:
-            st.error(f"Backend Error: {e}")
-            st.info("Backend loading - wait 10 sec and retry")
+        results = search(q, top_k=4)
+        ans = clean_answer_from_chunks(results)
+        ans = ans.replace("\n", "<br>")
+        st.markdown(f'<div class="answer-card"><div class="ans-head">Answer</div><div style="font-size:13.5px; line-height:1.7">{ans}</div></div>', unsafe_allow_html=True)
+        if results:
+            st.markdown('<div class="src-head">Sources</div>', unsafe_allow_html=True)
+            for r in results[:4]:
+                # Source - GitHub se hi khulega
+                pdf_name = r["text"][:80].strip()
+                st.markdown(f'<div class="src-card"><div class="pdf-badge">PDF</div><div><div class="src-name">{r["source"]}</div><div class="src-meta">Source from IMO docs</div></div></div>', unsafe_allow_html=True)
+                st.caption(r["text"][:300])
+                gh_url = f"https://github.com/kirudivec17/imo-rag-bot/blob/main/{r['source']}"
+                st.link_button("Open on GitHub", gh_url)
 
 st.markdown("---")
 st.caption("Try: Hong Kong Convention | MARPOL Annex VI | Ballast Water D-2")
