@@ -3,11 +3,18 @@ name: Rebuild Embeddings - Fix Mismatch
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   rebuild:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -15,8 +22,16 @@ jobs:
       - run: python rebuild_embeddings.py
       - name: Commit naye embeddings
         run: |
-          git config user.name "imo-bot"
-          git config user.email "bot@imo.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add embeddings_part*.npy
           git commit -m "fix: chunks aur embeddings dobara match kiye" || echo "nothing to commit"
           git push
+      # Backup - agar push phir fail hua to bhi files bach jayengi
+      - name: Backup embeddings as Artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: embeddings-backup
+          path: embeddings_part*.npy
+          retention-days: 7
