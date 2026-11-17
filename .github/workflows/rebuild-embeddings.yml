@@ -1,0 +1,22 @@
+name: Rebuild Embeddings - Fix Mismatch
+
+on:
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install sentence-transformers numpy
+      - run: python rebuild_embeddings.py
+      - name: Commit naye embeddings
+        run: |
+          git config user.name "imo-bot"
+          git config user.email "bot@imo.com"
+          git add embeddings_part*.npy
+          git commit -m "fix: chunks aur embeddings dobara match kiye" || echo "nothing to commit"
+          git push
