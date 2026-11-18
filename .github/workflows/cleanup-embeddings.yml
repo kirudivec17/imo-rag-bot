@@ -1,0 +1,27 @@
+name: Cleanup Old Embeddings
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Delete ALL old embeddings
+        run: |
+          echo "Deleting all embeddings_part*.npy ..."
+          git rm -f embeddings_part*.npy || true
+          git rm -f embeddings_part*.npy --cached || true
+          rm -f embeddings_part*.npy || true
+          ls -lh embeddings* || echo "No embeddings left - clean!"
+          git config user.name "cleanup-bot"
+          git config user.email "cleanup@bot.com"
+          git add -A
+          git commit -m "Cleanup: delete all duplicate embeddings" || echo "Nothing to commit"
+          git push
