@@ -1,4 +1,4 @@
-name: Rebuild Embeddings - Fix Mismatch
+name: Rebuild Embeddings
 
 on:
   workflow_dispatch:
@@ -9,29 +9,58 @@ permissions:
 jobs:
   rebuild:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install sentence-transformers numpy
-      - run: python rebuild_embeddings.py
-      - name: Commit naye embeddings
+      - name: Install
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          pip install sentence-transformers numpy
+      - name: Rebuild embeddings from master files
+        run: |
+          python -c "
+          import glob, re, urllib.parse, numpy as np
+          from sentence_transformers import SentenceTransformer
+          def clean(raw):
+              out=[]
+              for ln in raw.splitlines():
+                  ln=ln.strip()
+                  if not ln: continue
+                  if ln.startswith('SOURCE:'): continue
+                  if ln.startswith('I:\\\\'): continue
+                  if 'MEPC 80/17/Add.1' in ln: continue
+                  if ln.startswith('Annex'): continue
+                  if len(ln)<3: continue
+                  out.append(ln)
+              txt=' '.join(out)
+              txt=re.sub(r'\s+',' ',txt)
+              return txt.strip()
+          chunks=[]
+          for f in sorted(glob.glob('master_imo_all_public_part*.txt')):
+              txt=open(f,encoding='utf-8',errors='ignore').read()
+              for p in txt.split('---CHUNK---'):
+                  p=p.strip()
+                  if len(p)<200: continue
+                  m=re.search(r'SOURCE:\s*(.+\.pdf)',p,re.I)
+                  if not m: continue
+                  body=clean(p)
+                  if len(body)<200: continue
+                  chunks.append(body)
+          print(f'Total chunks: {len(chunks)}')
+          model=SentenceTransformer('all-MiniLM-L6-v2')
+          # 10000 ke batch me
+          for i in range(0, len(chunks), 10000):
+              batch=chunks[i:i+10000]
+              emb=model.encode(batch, convert_to_numpy=True, normalize_embeddings=True, batch_size=64, show_progress_bar=True)
+              np.save(f'embeddings_part{i//10000+1}.npy', emb)
+              print(f'Saved part {i//10000+1} - {emb.shape}')
+          print('DONE')
+          "
+      - name: Push embeddings
+        run: |
+          git config user.name "rebuild-bot"
+          git config user.email "rebuild@bot.com"
           git add embeddings_part*.npy
-          git commit -m "fix: chunks aur embeddings dobara match kiye" || echo "nothing to commit"
+          git commit -m "Rebuild: clean embeddings 94348" || echo "Nothing"
           git push
-      # Backup - agar push phir fail hua to bhi files bach jayengi
-      - name: Backup embeddings as Artifact
-        uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: embeddings-backup
-          path: embeddings_part*.npy
-          retention-days: 7
