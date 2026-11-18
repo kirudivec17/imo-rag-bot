@@ -1,4 +1,4 @@
-# app.py - IMO AI Assistant - Final Clean Version
+# app.py - IMO AI Assistant - Premium Final Version
 import glob
 import re
 import urllib.parse
@@ -6,22 +6,82 @@ import numpy as np
 import streamlit as st
 from sentence_transformers import SentenceTransformer
 
-# ---------------- PAGE ----------------
 st.set_page_config(page_title="IMO AI Assistant", page_icon="⚓", layout="wide")
 
-# ---------------- CSS - Pehle jaisa clean look ----------------
+# ---------------- CSS - Blue Header + Clean Look ----------------
 st.markdown("""
 <style>
-    .main-title { font-size: 32px; font-weight: 700; margin-bottom: 0px; }
-    .sub-title { color: #666; font-size: 14px; margin-bottom: 20px; }
-    .source-box { background: #f0f2f6; padding: 10px 14px; border-radius: 8px; font-size: 12px; color: #555; margin-top: 8px; }
+    .block-container { padding-top: 0px !important; padding-bottom: 120px !important; }
+    header { visibility: hidden; }
+    .blue-header {
+        background: linear-gradient(90deg, #0B3D91 0%, #1565C0 100%);
+        color: white;
+        padding: 14px 18px;
+        border-radius: 0px 0px 14px 14px;
+        display: flex; justify-content: space-between; align-items: center;
+        position: sticky; top: 0; z-index: 999;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .blue-header h1 { font-size: 22px; margin: 0; color: white; font-weight: 700; }
+    .blue-header p { font-size: 12px; margin: 0; opacity: 0.85; color: white; }
+    .menu-btn { background: rgba(255,255,255,0.2); border: none; color: white; font-size: 22px; padding: 4px 12px; border-radius: 8px; cursor: pointer; }
+    .answer-box { background: #ffffff; border: 1px solid #e6e6e6; border-radius: 12px; padding: 18px; line-height: 1.7; font-size: 16px; white-space: pre-wrap; }
+    .pdf-card { background: #F2F6FF; border: 1px solid #D0DDF5; border-radius: 10px; padding: 12px 14px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center; }
+    .pdf-card b { font-size: 14px; color: #0B3D91; }
+    .pdf-card span { font-size: 12px; color: #666; }
+    .q-box { background: #EAF0FF; border-radius: 12px; padding: 12px 16px; font-weight: 600; font-size: 16px; margin-bottom: 10px; }
+    .stTextArea textarea { font-size: 16px !important; border-radius: 12px !important; }
+    .stButton > button { border-radius: 12px !important; height: 48px !important; font-size: 16px !important; }
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="main-title">⚓ IMO AI Assistant</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-title">Ask anything about MARPOL • SOLAS • STCW • MLC • IMO Resolutions</div>', unsafe_allow_html=True)
+# ---------------- BLUE HEADER ----------------
+# Right side 3-line menu - Streamlit popover se
+col_h1, col_h2 = st.columns([5, 1])
+with col_h1:
+    st.markdown("""
+    <div class="blue-header">
+        <div><h1>⚓ IMO AI Assistant</h1><p>MARPOL • SOLAS • STCW • MLC • IMO Resolutions</p></div>
+    </div>
+    """, unsafe_allow_html=True)
+with col_h2:
+    with st.popover("☰", use_container_width=True):
+        st.markdown("### Menu")
+        if st.button("🔑 Login", use_container_width=True):
+            st.session_state.show_login = True
+        if st.button("📝 Sign Up", use_container_width=True):
+            st.session_state.show_signup = True
+        if st.button("💎 Subscription", use_container_width=True):
+            st.session_state.show_sub = True
+        st.divider()
+        st.caption("v2.0 • 94,348 chunks")
 
-# ---------------- CLEAN TEXT ----------------
+# Login / Signup / Subscription - popup jaisa
+if st.session_state.get("show_login"):
+    with st.expander("🔑 Login", expanded=True):
+        st.text_input("Email", key="login_email")
+        st.text_input("Password", type="password", key="login_pass")
+        if st.button("Login Now"):
+            st.success("Logged in! (Demo)")
+            st.session_state.show_login = False
+        if st.button("Close", key="close_login"):
+            st.session_state.show_login = False
+if st.session_state.get("show_signup"):
+    with st.expander("📝 Sign Up", expanded=True):
+        st.text_input("Name", key="su_name")
+        st.text_input("Email", key="su_email")
+        st.text_input("Password", type="password", key="su_pass")
+        if st.button("Create Account"):
+            st.success("Account created! (Demo)")
+            st.session_state.show_signup = False
+if st.session_state.get("show_sub"):
+    with st.expander("💎 Subscription", expanded=True):
+        st.markdown("**Free:** 10 questions/day\n**Pro ₹499/mo:** Unlimited + PDF Download\n**Fleet ₹1999/mo:** Full Fleet Access")
+        if st.button("Upgrade to Pro"):
+            st.success("Pro selected! (Demo)")
+            st.session_state.show_sub = False
+
+# ---------------- LOAD ----------------
 def clean_text(raw):
     out = []
     for ln in raw.splitlines():
@@ -39,7 +99,6 @@ def clean_text(raw):
     txt = re.sub(r'-\s+', '', txt)
     return txt.strip()
 
-# ---------------- LOAD ----------------
 @st.cache_resource
 def load_all():
     chunks, sources = [], []
@@ -55,9 +114,8 @@ def load_all():
             if len(body) < 200: continue
             chunks.append(body)
             sources.append(pdf)
-    def part_num(x):
-        return int(re.search(r'part(\d+)', x).group(1))
-    emb_files = sorted(glob.glob("embeddings_part*.npy"), key=part_num)
+    def pn(x): return int(re.search(r'part(\d+)', x).group(1))
+    emb_files = sorted(glob.glob("embeddings_part*.npy"), key=pn)
     embs = np.concatenate([np.load(f) for f in emb_files], axis=0)
     embs = embs / np.linalg.norm(embs, axis=1, keepdims=True)
     model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -65,76 +123,86 @@ def load_all():
 
 def search_real(query, top_k=5):
     chunks, sources, embs, model = load_all()
+    if len(chunks) == 0: raise ValueError("Chunks 0 - master file nahi mile")
+    if embs.shape[0] == 0: raise ValueError("Embeddings 0 - embeddings_part*.npy nahi mile")
     q = model.encode([query], convert_to_numpy=True, normalize_embeddings=True)[0]
     scores = embs @ q
     idx = np.argsort(scores)[::-1][:top_k]
     return [(chunks[i], sources[i], float(scores[i])) for i in idx]
 
-# ---------------- SIDEBAR - Pehle jaisa ----------------
-with st.sidebar:
-    st.header("⚓ IMO AI Assistant")
-    st.write("Official IMO Documents se jawab")
-    st.divider()
-    top_k = st.slider("Sources", 1, 10, 5)
-    st.divider()
-    st.caption("Database: 94,348 chunks")
-    st.caption("Status: ✅ Embeddings Matched")
-    if st.button("🗑️ Clear Chat"):
-        st.session_state.messages = []
-        st.rerun()
-
-# ---------------- CHAT HISTORY ----------------
+# ---------------- HISTORY ----------------
 if "messages" not in st.session_state:
     st.session_state.messages = []
+if "pending" not in st.session_state:
+    st.session_state.pending = None
 
-for msg in st.session_state.messages:
-    with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
-
-# ---------------- SUGGESTIONS - Fix wala, ab error nahi aayega ----------------
+# Suggestion - pehle se
 if len(st.session_state.messages) == 0:
-    st.write("**Try these:**")
-    c1, c2, c3 = st.columns(3)
-    # Yahan hum session_state.query_box ko touch nahi kar rahe, seedha pending me daal rahe hain
-    if c1.button("Sulphur limit in ECA?"):
+    st.write("### 👋 Kya puchna hai?")
+    s1, s2, s3 = st.columns(3)
+    if s1.button("What is sulphur limit in ECA?", use_container_width=True):
         st.session_state.pending = "What is sulphur limit in ECA?"
         st.rerun()
-    if c2.button("Ballast Water Management?"):
-        st.session_state.pending = "What is Ballast Water Management requirement?"
+    if s2.button("Ballast water treatment plan?", use_container_width=True):
+        st.session_state.pending = "What is ballast water treatment plan requirement?"
         st.rerun()
-    if c3.button("Seafarer rest hours?"):
+    if s3.button("Seafarer rest hours?", use_container_width=True):
         st.session_state.pending = "What are rest hours for seafarers?"
         st.rerun()
 
-# ---------------- CHAT INPUT ----------------
-prompt = st.chat_input("Ask about IMO regulations...")
-# Agar suggestion button daba hai to wahi prompt ban jayega
-if "pending" in st.session_state and st.session_state.pending:
-    prompt = st.session_state.pending
+# ---------------- SHOW CHAT - FULL ANSWER, NO CUT ----------------
+for msg in st.session_state.messages:
+    if msg["role"] == "user":
+        st.markdown(f'<div class="q-box">🧑‍✈️ {msg["content"]}</div>', unsafe_allow_html=True)
+    else:
+        st.markdown(f'<div class="answer-box">{msg["content"]}</div>', unsafe_allow_html=True)
+        # PDF cards - is message ke liye
+        if "pdfs" in msg:
+            st.write("**📄 Related PDFs - Click to Open:**")
+            for pdf_name, score in msg["pdfs"]:
+                # Google search link - ek click pe PDF khul jayega
+                g_link = f"https://www.google.com/search?q={urllib.parse.quote(pdf_name + ' IMO PDF')}"
+                c1, c2 = st.columns([4, 1])
+                with c1:
+                    st.markdown(f'<div class="pdf-card"><div><b>📕 {pdf_name}</b><br><span>Relevance: {score:.3f} • IMO Official Document</span></div></div>', unsafe_allow_html=True)
+                with c2:
+                    st.link_button("Open PDF ↗", g_link, use_container_width=True)
+
+# ---------------- BOTTOM INPUT - Question Box + Speaker + Send ----------------
+st.divider()
+st.write("**Ask IMO AI:**")
+# Pending suggestion ko box me daalo
+default_q = st.session_state.pending if st.session_state.pending else ""
+if st.session_state.pending:
     st.session_state.pending = None
 
-if prompt:
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.markdown(prompt)
+q_col1, q_col2, q_col3 = st.columns([7, 1, 1])
+with q_col1:
+    user_q = st.text_area("Question", value=default_q, placeholder="Apna sawal yahan pura likho... e.g. What is sulphur limit in ECA?", height=68, label_visibility="collapsed", key="main_q")
+with q_col2:
+    # Speaker / Mic box - click karne pe batayega
+    mic = st.button("🎤", help="Voice - bol ke pucho", use_container_width=True)
+    if mic:
+        st.info("🎤 Mic dabao aur bolo... (Browser mic permission chahiye)")
+with q_col3:
+    send = st.button("➤ Send", type="primary", use_container_width=True)
 
-    with st.chat_message("assistant"):
-        with st.spinner("IMO documents me dhoondh raha hu..."):
-            try:
-                results = search_real(prompt, top_k=top_k)
-                # Pehla sabse accha result - seedha jawab
-                best_text, best_src, best_score = results[0]
-                # Jawab ko thoda saaf karke dikhao - 1200 chars tak
-                answer = best_text[:1500]
-                st.markdown(answer)
-                st.markdown(f'<div class="source-box">📄 <b>Source:</b> {best_src} &nbsp;|&nbsp; Score: {best_score:.3f}</div>', unsafe_allow_html=True)
-                if len(results) > 1:
-                    with st.expander(f"📚 Aur {len(results)-1} sources dekho"):
-                        for txt, src, sc in results[1:]:
-                            st.write(txt[:800])
-                            st.caption(f"Source: {src} | Score: {sc:.3f}")
-                            st.divider()
-                full_answer = answer + f"\n\n📄 Source: {best_src}"
-                st.session_state.messages.append({"role": "assistant", "content": full_answer})
-            except Exception as e:
-                st.error(f"Error: {e}")
+if send and user_q.strip():
+    query = user_q.strip()
+    st.session_state.messages.append({"role": "user", "content": query})
+    with st.spinner("IMO documents me dhoondh raha hu..."):
+        try:
+            results = search_real(query, top_k=5)
+            if not results:
+                st.error("Koi result nahi mila.")
+            else:
+                # FULL answer - koi [:1500] nahi, pura chunk
+                full_text = results[0][0]
+                pdfs = [(src, sc) for _, src, sc in results]
+                # Full answer ko history me daalo
+                st.session_state.messages.append({"role": "assistant", "content": full_text, "pdfs": pdfs})
+                st.rerun()
+        except Exception as e:
+            st.error(f"Error: {e}")
+elif send and not user_q.strip():
+    st.warning("Pehle sawal likho!")
