@@ -613,6 +613,96 @@
       "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/AIS/Resolution%20A.1106(29).pdf",
       "size": 821650,
       "chunks": 4417
+    },
+    {
+      "file": "A.960_23_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/A.960(23).pdf",
+      "size": 1103060,
+      "chunks": 29
+    },
+    {
+      "file": "MEPC.392_82_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/MEPC.392(82).pdf",
+      "size": 181448,
+      "chunks": 44
+    },
+    {
+      "file": "MEPC.340_77_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.340(77).pdf",
+      "size": 1822335,
+      "chunks": 163
+    },
+    {
+      "file": "Fourth-IMO-GHG-Study-2020-Full-report-and-annexes_compressed.pdf",
+      "url": "https://greenvoyage2050.imo.org/wp-content/uploads/2021/07/Fourth-IMO-GHG-Study-2020-Full-report-and-annexes_compressed.pdf",
+      "size": 28686552,
+      "chunks": 1614
+    },
+    {
+      "file": "MEPC.378_80_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.378(80).pdf",
+      "size": 2586042,
+      "chunks": 1769
+    },
+    {
+      "file": "Status_202026_20-_20Vol._20I_20SOLAS_20__20MARPOL_20only.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/About/Conventions/StatusOfConventions/Status%202026%20-%20Vol.%20I%20SOLAS%20&%20MARPOL%20only.pdf",
+      "size": 1980493,
+      "chunks": 2624
+    },
+    {
+      "file": "MSC.153_2878_29.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.153%2878%29.pdf",
+      "size": 1423142,
+      "chunks": 2642
+    },
+    {
+      "file": "MEPC.68_38_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.68(38).pdf",
+      "size": 865462,
+      "chunks": 2653
+    },
+    {
+      "file": "EBRD_20BWM_Infrastructure_Investment_Guidance.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/PartnershipsProjects/Documents/EBRD%20BWM_Infrastructure_Investment_Guidance.pdf",
+      "size": 1573526,
+      "chunks": 2779
+    },
+    {
+      "file": "IMO_20and_20the_20Environment_202011.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/IMO%20and%20the%20Environment%202011.pdf",
+      "size": 2372511,
+      "chunks": 2823
+    },
+    {
+      "file": "LEG_20109-16-1.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Legal/Documents/LEG%20109-16-1.pdf",
+      "size": 1216558,
+      "chunks": 3014
+    },
+    {
+      "file": "LEG_20112-9_20-_20Report_20of_20the_20MSC-LEG-FAL_20Joint_20Working_20Group_20on_20MaritimeAutonomous_20Surface_20Ships_20_MASS__20o..._20_Secretariat_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/MediaCentre/Documents/LEG%20112-9%20-%20Report%20of%20the%20MSC-LEG-FAL%20Joint%20Working%20Group%20on%20MaritimeAutonomous%20Surface%20Ships%20(MASS)%20o...%20(Secretariat).pdf",
+      "size": 566976,
+      "chunks": 3172
+    },
+    {
+      "file": "A.1209_34_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1209(34).pdf",
+      "size": 836050,
+      "chunks": 3227
+    },
+    {
+      "file": "PROG-134-Rev.2_20-_20Revised_20Programme_20Of_20Meetings_20For_202026_20_Secretariat_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/MediaCentre/Documents/PROG-134-Rev.2%20-%20Revised%20Programme%20Of%20Meetings%20For%202026%20(Secretariat).pdf",
+      "size": 227364,
+      "chunks": 3233
+    },
+    {
+      "file": "KD001E_20-_202023_20Edition_20_Secretariat_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/Documents/KD001E%20-%202023%20Edition%20(Secretariat).pdf",
+      "size": 16674819,
+      "chunks": 3572
     }
   ]
 }
