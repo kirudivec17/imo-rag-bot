@@ -703,6 +703,36 @@
       "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/Documents/KD001E%20-%202023%20Edition%20(Secretariat).pdf",
       "size": 16674819,
       "chunks": 3572
+    },
+    {
+      "file": "A.1207_34_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1207(34).pdf",
+      "size": 2420795,
+      "chunks": 808
+    },
+    {
+      "file": "Circular_20Letter_20No.5057_20-_20Imo_20Member_20State_20Audit_20Scheme_20-_20Consolidated_20Audit_20Summary_20Report_20_Casr__20_Secretary-General_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/MSAS/Documents/MSAS/Casr/Circular%20Letter%20No.5057%20-%20Imo%20Member%20State%20Audit%20Scheme%20-%20Consolidated%20Audit%20Summary%20Report%20(Casr)%20(Secretary-General).pdf",
+      "size": 488986,
+      "chunks": 1014
+    },
+    {
+      "file": "Circular_20Letter_20No.5115_20-_20Call_20For_20Expressions_20Of_20Interest_20_Eois__20Future-Ready_20Shipping_20_Frs__20In_20Africa_20Project_20Supp..._20_Secretariat_.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/MediaCentre/Documents/Circular%20Letter%20No.5115%20-%20Call%20For%20Expressions%20Of%20Interest%20(Eois)%20Future-Ready%20Shipping%20(Frs)%20In%20Africa%20Project%20Supp...%20(Secretariat).pdf",
+      "size": 287869,
+      "chunks": 1031
+    },
+    {
+      "file": "III_208-17-1.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Safety/Documents/III%208-17-1.pdf",
+      "size": 1091608,
+      "chunks": 1386
+    },
+    {
+      "file": "p_20III_205.0.pdf",
+      "url": "https://wwwcdn.imo.org/localresources/en/OurWork/IIIS/Documents/Lessons%20learned%20English/p%20III%205.0.pdf",
+      "size": 408222,
+      "chunks": 1453
     }
   ]
 }
